@@ -10,7 +10,8 @@ ch = cast["characters"]
 for k, c in ch.items():
     if k not in ("Socrates",) and any(v.startswith(RESERVED) for v, _ in c.get("kokoro", [])):
         print("RESERVED VOICE", k); bad += 1
-for x in json.load(open(os.path.join(ROOT, "scripts", "index.json"))):
+import glob
+for x in [x for f in sorted(glob.glob(os.path.join(ROOT, "scripts", "index*.json"))) for x in json.load(open(f))]:
     w, seen = x["key"], {}
     who = sorted({l["who"] for p in work_parts(w) for l in p["lines"]} - {"Narrator"})
     for s in who:

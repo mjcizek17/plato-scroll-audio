@@ -1,0 +1,245 @@
+[
+ {
+  "key": "categories",
+  "title": "Categories",
+  "parts": 3,
+  "chars": 81520,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-interpretation",
+  "title": "On Interpretation",
+  "parts": 2,
+  "chars": 55456,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "prior-analytics",
+  "title": "Prior Analytics",
+  "parts": 2,
+  "chars": 259165,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "posterior-analytics",
+  "title": "Posterior Analytics",
+  "parts": 2,
+  "chars": 191882,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "topics",
+  "title": "Topics",
+  "parts": 8,
+  "chars": 389200,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-sophistical-refutations",
+  "title": "On Sophistical Refutations",
+  "parts": 3,
+  "chars": 128117,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "physics",
+  "title": "Physics",
+  "parts": 8,
+  "chars": 460771,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-the-heavens",
+  "title": "On the Heavens",
+  "parts": 4,
+  "chars": 224980,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-generation-and-corruption",
+  "title": "On Generation and Corruption",
+  "parts": 2,
+  "chars": 154739,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "meteorology",
+  "title": "Meteorology",
+  "parts": 4,
+  "chars": 233773,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-the-soul",
+  "title": "On the Soul",
+  "parts": 3,
+  "chars": 178785,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-sense-and-the-sensible",
+  "title": "On Sense and the Sensible",
+  "parts": 2,
+  "chars": 69974,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-memory-and-reminiscence",
+  "title": "On Memory and Reminiscence",
+  "parts": 1,
+  "chars": 27778,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-sleep-and-sleeplessness",
+  "title": "On Sleep and Sleeplessness",
+  "parts": 1,
+  "chars": 25865,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-dreams",
+  "title": "On Dreams",
+  "parts": 1,
+  "chars": 22983,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-prophesying-by-dreams",
+  "title": "On Prophesying by Dreams",
+  "parts": 1,
+  "chars": 11231,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-longevity-and-shortness-of-life",
+  "title": "On Longevity and Shortness of Life",
+  "parts": 1,
+  "chars": 14259,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-youth-and-old-age-on-life-and-death-on-breathing",
+  "title": "On Youth and Old Age, On Life and Death, On Breathing",
+  "parts": 2,
+  "chars": 59251,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "the-history-of-animals",
+  "title": "The History of Animals",
+  "parts": 9,
+  "chars": 709200,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-the-parts-of-animals",
+  "title": "On the Parts of Animals",
+  "parts": 4,
+  "chars": 335714,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "on-the-gait-of-animals",
+  "title": "On the Gait of Animals",
+  "parts": 1,
+  "chars": 43478,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "metaphysics",
+  "title": "Metaphysics",
+  "parts": 14,
+  "chars": 614025,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "nicomachean-ethics",
+  "title": "Nicomachean Ethics",
+  "parts": 10,
+  "chars": 463986,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "politics",
+  "title": "Politics",
+  "parts": 8,
+  "chars": 492673,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "rhetoric",
+  "title": "Rhetoric",
+  "parts": 3,
+  "chars": 379056,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "poetics",
+  "title": "Poetics",
+  "parts": 3,
+  "chars": 80603,
+  "speakers": [
+   "Aristotle"
+  ]
+ },
+ {
+  "key": "athenian-constitution",
+  "title": "The Athenian Constitution",
+  "parts": 1,
+  "chars": 140750,
+  "speakers": [
+   "Aristotle"
+  ]
+ }
+]

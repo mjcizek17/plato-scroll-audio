@@ -3,11 +3,11 @@ import json, os, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NUMS = {"I": "One", "II": "Two", "III": "Three", "IV": "Four", "V": "Five", "VI": "Six", "VII": "Seven",
-        "VIII": "Eight", "IX": "Nine", "X": "Ten", "XI": "Eleven", "XII": "Twelve"}
+        "VIII": "Eight", "IX": "Nine", "X": "Ten", "XI": "Eleven", "XII": "Twelve", "XIII": "Thirteen", "XIV": "Fourteen"}
 
 
 def spoken(title):
-    return re.sub(r"\b(XII|XI|X|IX|VIII|VII|VI|IV|V|III|II|I)\b", lambda m: NUMS[m.group(1).upper()], title, flags=re.I)
+    return re.sub(r"\b(XIV|XIII|XII|XI|X|IX|VIII|VII|VI|IV|V|III|II|I)\b", lambda m: NUMS[m.group(1).upper()], title, flags=re.I)
 
 
 def load_cast():
@@ -19,13 +19,17 @@ def work_parts(key):
     """[{name, lines:[{id, entry, who, text, kind}]}] with the opening line first in each part."""
     s = json.load(open(os.path.join(ROOT, "scripts", f"{key}.json"), encoding="utf-8"))
     title, parts, n = spoken(s["title"]), [], len(s["parts"])
+    author, tr = s.get("author", "Plato"), s.get("translator", "David Horan")
+    head = f"Plato's {title}" if author == "Plato" else f"{author}, {title}"
     for pi, p in enumerate(s["parts"]):
         lines = [dict(l) for l in p["lines"]]
         if n == 1:
-            opening = f"Plato's {title}, translated by David Horan."
+            opening = f"{head}, translated by {tr}."
+            if author != "Plato" and lines and lines[0]["kind"] == "heading":
+                lines = lines[1:]  # a lone heading repeats the title
         else:
             book = spoken(p["name"])
-            opening = f"Plato's {title}, translated by David Horan. {book}." if pi == 0 else f"Plato's {title}. {book}."
+            opening = f"{head}, translated by {tr}. {book}." if pi == 0 else f"{head}. {book}."
             if lines and lines[0]["kind"] == "heading":
                 lines = lines[1:]
         lines.insert(0, {"entry": None, "who": "Narrator", "text": opening, "kind": "heading"})
@@ -50,6 +54,7 @@ def engine_of(who, cast, work=""):
 
 
 def plan_shards(keys, budget_s=5400):
+    budget_s = float(budget_s)
     """Split works into shards whose estimated render time fits one runner job.
     Estimates: Chatterbox ~0.57 s per character, Kokoro ~0.045 s per character (4-core runner)."""
     cast, shards = load_cast(), []
@@ -108,4 +113,9 @@ def fill(starts):
 if __name__ == "__main__":
     import sys
     q = json.load(open(sys.argv[1]))
-    print(json.dumps(plan_shards(q["works"]), separators=(",", ":")))
+    print(json.dumps(plan_shards(q["works"], q.get("budget", 5400)), separators=(",", ":")))
+
+
+def speech_text(t):
+    """Text as it should be spoken: an all-capitals opening word ("ALL men by nature...") is read as a word."""
+    return re.sub(r"^([\"“‘'(]*)([A-Z]{2,})(?=\b)", lambda m: m.group(1) + m.group(2).capitalize(), t)

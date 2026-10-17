@@ -6,7 +6,7 @@ import numpy as np
 import torch
 from kokoro import KPipeline
 from lexicon import mark
-from script import work_parts, load_cast, word_starts, char_spec
+from script import work_parts, load_cast, word_starts, char_spec, speech_text
 import subprocess, tempfile
 from common import write_wav
 
@@ -41,7 +41,7 @@ def main(work, a, b, out):
         if vk not in vcache:
             vcache[vk] = sum(w * pipes["gb"].load_single_voice(v) for v, w in c["kokoro"])
         audio, toks, off = [], [], 0.0
-        for r in pipes[acc](mark(l["text"], acc), voice=vcache[vk], speed=speed):
+        for r in pipes[acc](mark(speech_text(l["text"]), acc), voice=vcache[vk], speed=speed):
             if r.audio is None:
                 continue
             x = r.audio.numpy()

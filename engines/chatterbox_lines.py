@@ -7,7 +7,7 @@ Writes OUTDIR/<id>.wav (24 kHz) and OUTDIR/<id>.json {"words": [...], "retakes":
 import json, os, re, sys, zlib
 import numpy as np
 import torch, torchaudio
-from script import work_parts, load_cast, fill, char_spec, word_starts
+from script import work_parts, load_cast, fill, char_spec, word_starts, speech_text
 from common import write_wav
 
 torch.set_num_threads(os.cpu_count() or 4)
@@ -89,7 +89,7 @@ def main(work, a, b, out):
             want, best = len(g) / CPS, None
             for attempt in range(3):
                 torch.manual_seed(zlib.crc32(f"{work}{l['id']}{gi}{attempt}".encode()))
-                x = trim(model.generate(speakable(g), audio_prompt_path=ref, exaggeration=c.get("exaggeration", 0.5),
+                x = trim(model.generate(speakable(speech_text(g)), audio_prompt_path=ref, exaggeration=c.get("exaggeration", 0.5),
                                         cfg_weight=c.get("cfg", 0.5)).squeeze().cpu().numpy(), sr)
                 r = (len(x) / sr) / max(want, 0.4)
                 if best is None or abs(np.log(r)) < abs(np.log(best[1])):

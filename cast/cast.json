@@ -1,5 +1,5 @@
 {
- "_note": "Production cast. engine: kokoro (blend + accent) or chatterbox (clones ref, a Kokoro clip in cast/refs/). accent = pronunciation the character reads with (gb/us); a voice never mixes accents. Decisions: Socrates = Chatterbox cloning the sample-6 Kokoro blend (george 0.55 + santa 0.45, British) as in audition sample 4; Alcibiades = Kokoro am_michael, American (user's option 2). Voice 'cb_michael' (Chatterbox cloning am_michael, as heard for Alcibiades in sample 4) is Phaedrus. Athenian Stranger and Plato (Epistles) share one voice on purpose. Keys may be work-qualified (symp:Companion). Minor characters may share voices (user OK); characters in the same work never do. No other character may use george, santa, daniel, liam or eric.",
+ "_note": "Production cast. engine: kokoro (blend + accent) or chatterbox (clones ref, a Kokoro clip in cast/refs/). accent = pronunciation the character reads with (gb/us); a voice never mixes accents. Decisions: Socrates = Chatterbox cloning the sample-6 Kokoro blend (george 0.55 + santa 0.45, British) as in audition sample 4; Alcibiades = Kokoro am_michael, American (user's option 2). Voice 'cb_michael' (Chatterbox cloning am_michael, as heard for Alcibiades in sample 4) is Phaedrus. Athenian Stranger and Plato (Epistles) share one voice on purpose. Keys may be work-qualified (symp:Companion). Minor characters may share voices (user OK); characters in the same work never do. No other character may use george, santa, daniel, liam or eric. Aristotle (all his works): Chatterbox cloning a British Kokoro blend (lewis 0.7 + fable 0.3, pitched down a semitone), calm delivery; user chose Chatterbox and British. Clips with ref_kokoro are made by tools/make_refs.py when missing.",
  "speed": 0.92,
  "characters": {
   "Narrator": {
@@ -867,6 +867,26 @@
     ]
    ],
    "accent": "gb"
+  },
+  "Aristotle": {
+   "engine": "chatterbox",
+   "ref": "cb_aristotle",
+   "exaggeration": 0.4,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_lewis",
+      0.7
+     ],
+     [
+      "bm_fable",
+      0.3
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -1,
+    "text": "Every art and every inquiry aims at some good. Let us begin, then, as is natural, from what is first, and consider the matter carefully and in order."
+   }
   }
  }
 }

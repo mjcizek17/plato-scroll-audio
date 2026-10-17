@@ -31,6 +31,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 tools/check_cast.py
+      - name: Make missing reference clips
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
+          python3 -m venv /tmp/kk && /tmp/kk/bin/pip install -q $PIP_CPU torch && /tmp/kk/bin/pip install -q "kokoro>=0.9.4" soundfile "misaki[en]" 2>&1 | tail -2
+          /tmp/kk/bin/python tools/make_refs.py
+      - uses: actions/upload-artifact@v4
+        with: { name: refs, path: cast/refs, retention-days: 7 }
       - id: q
         run: |
           echo "shards=$(python3 engines/script.py render/queue.json)" >> "$GITHUB_OUTPUT"
@@ -57,6 +64,8 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
       - run: mkdir -p out/lines && sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
+      - uses: actions/download-artifact@v4
+        with: { name: refs, path: cast/refs }
       - name: Kokoro lines
         run: |
           python -m venv /tmp/kk && /tmp/kk/bin/pip install -q $PIP_CPU torch && /tmp/kk/bin/pip install -q "kokoro>=0.9.4" soundfile "misaki[en]" 2>&1 | tail -3
