@@ -1,0 +1,7 @@
+{
+ "engine": "chatterbox-original",
+ "audio_s": 56.7,
+ "wall_s": 525.0,
+ "x_realtime": 0.108,
+ "cpus": 4
+}
