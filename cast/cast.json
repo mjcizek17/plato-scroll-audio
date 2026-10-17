@@ -1,35 +1,33 @@
 {
- "_note": "Production cast for Kokoro. kokoro = [[voice, weight]...] blend; accent = pronunciation the character reads with (gb British, us American) so a voice never mixes accents. Socrates is fixed (audition sample 6); no other character may use george, santa, daniel, liam or eric.",
+ "_note": "Production cast. engine: kokoro (blend + accent) or chatterbox (clones ref, a Kokoro clip in cast/refs/). accent = pronunciation the character reads with (gb/us); a voice never mixes accents. Decisions: Socrates = Chatterbox cloning the sample-6 Kokoro blend (george 0.55 + santa 0.45, British) as in audition sample 4; Alcibiades = Kokoro am_michael, American (user's option 2). Voice 'cb_michael' (Chatterbox cloning am_michael) is reserved for another character. No other character may use george, santa, daniel, liam or eric.",
  "speed": 0.92,
- "Narrator": {
-  "kokoro": [
-   [
-    "bm_fable",
-    1.0
-   ]
-  ],
-  "accent": "gb"
+ "voices_reserved": {
+  "cb_michael": {
+   "engine": "chatterbox",
+   "ref": "cb_michael",
+   "exaggeration": 0.6
+  }
  },
- "Socrates": {
-  "kokoro": [
-   [
-    "bm_george",
-    0.55
+ "characters": {
+  "Narrator": {
+   "engine": "chatterbox",
+   "ref": "narrator",
+   "exaggeration": 0.4
+  },
+  "Socrates": {
+   "engine": "chatterbox",
+   "ref": "socrates",
+   "exaggeration": 0.5
+  },
+  "Alcibiades": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_michael",
+     1.0
+    ]
    ],
-   [
-    "am_santa",
-    0.45
-   ]
-  ],
-  "accent": "gb"
- },
- "Alcibiades": {
-  "kokoro": [
-   [
-    "am_michael",
-    1.0
-   ]
-  ],
-  "accent": "us"
+   "accent": "us"
+  }
  }
 }
