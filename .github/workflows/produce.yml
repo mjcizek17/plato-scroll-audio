@@ -91,6 +91,8 @@ jobs:
         run: cp lines/log-*.txt out/ 2>/dev/null || true
       - if: always() && needs.plan.outputs.dest == 'samples'
         run: bash tools/publish.sh out "produce-${{ matrix.work }}"
+      - if: always() && needs.plan.outputs.dest == 'release'
+        run: mkdir -p meta && cp out/*.json out/*.txt meta/ 2>/dev/null; bash tools/publish.sh meta "produce-${{ matrix.work }}"
       - if: success() && needs.plan.outputs.dest == 'release'
         run: |
           tag="${{ needs.plan.outputs.tag }}"

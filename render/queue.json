@@ -1,1 +1,1 @@
-{"works": ["alc1", "alc2"], "dest": "samples"}
+{"works": ["alc1", "alc2"], "dest": "release", "tag": "audio-v1"}
