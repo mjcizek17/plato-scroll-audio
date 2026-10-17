@@ -1,0 +1,33 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/torch/nn/modules/rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+Collecting en-core-web-sm==3.8.0
+  Downloading en_core_web_sm-3.8.0-py3-none-any.whl (12.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.8/12.8 MB 32.9 MB/s  0:00:00
+Installing collected packages: en-core-web-sm
+Successfully installed en-core-web-sm-3.8.0
+/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+[38;5;2m✔ Download and installation successful[0m
+You can now load the package via spacy.load('en_core_web_sm')
+alc1 p1 line 0/896 0.1 min
+alc1 p1 line 50/896 10.0 min
+alc1 p1 line 100/896 14.5 min
+alc1 p1 line 150/896 19.4 min
+alc1 p1 line 200/896 23.9 min
+alc1 p1 line 250/896 29.8 min
+alc1 p1 line 300/896 33.5 min
+alc1 p1 line 350/896 36.6 min
+alc1 p1 line 400/896 41.2 min
+alc1 p1 line 450/896 48.0 min
+alc1 p1 line 500/896 59.7 min
+alc1 p1 line 550/896 63.2 min
+alc1 p1 line 600/896 67.8 min
+alc1 p1 line 650/896 71.5 min
+alc1 p1 line 700/896 74.5 min
+alc1 p1 line 750/896 78.7 min
+alc1 p1 line 800/896 84.4 min
+alc1 p1 line 850/896 88.2 min
+{"key": "alc1", "parts": [{"file": "alc1-p1.mp3", "minutes": 92.05, "lines": 896, "words": 14847, "words_interpolated": 1}], "speakers_without_cast": [], "wall_s": 2100, "x_realtime": 2.63}
