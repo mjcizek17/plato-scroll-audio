@@ -3,19 +3,38 @@
   "Narrator": {
     "design": "A male British audiobook narrator in his late forties. Warm, rich baritone with a clear, cultivated Received Pronunciation accent. Calm, measured and assured, with the polished, intimate delivery of a veteran reader of classical literature recorded close to a studio microphone.",
     "ref_text": "In the spring of that year the city was full of visitors, and the talk in the market place turned, as it so often did, to questions that no one could quite answer.",
-    "kokoro": [["bm_fable", 1.0]],
+    "kokoro": [
+      [
+        "bm_fable",
+        1.0
+      ]
+    ],
     "exaggeration": 0.4
   },
   "Socrates": {
     "design": "An elderly Athenian philosopher of about seventy, played by a seasoned British stage actor. A low, warm, slightly gravelly voice with natural age in the timbre, never slow or frail. Good-humoured and quietly ironic, patient and probing, with a teasing twinkle; he enjoys the conversation. Educated British accent.",
     "ref_text": "My dear friend, I confess I know nothing at all about it. But if you will be patient with an old man and answer a few small questions, perhaps together we shall find out.",
-    "kokoro": [["bm_george", 0.55], ["am_santa", 0.45]],
+    "kokoro": [
+      [
+        "bm_george",
+        0.55
+      ],
+      [
+        "am_santa",
+        0.45
+      ]
+    ],
     "exaggeration": 0.5
   },
   "Alcibiades": {
     "design": "A brilliant, wealthy young aristocrat of about twenty, played by a young British actor. A bright, clear tenor, quick and confident to the point of arrogance, charming, restless and a little impatient, used to being admired. Educated British accent.",
     "ref_text": "Everyone in Athens knows who I am, and before long the whole of Greece will know it too. Why should I listen to anyone telling me what I lack?",
-    "kokoro": [["am_puck", 0.5], ["bm_lewis", 0.5]],
+    "kokoro": [
+      [
+        "bm_lewis",
+        1.0
+      ]
+    ],
     "exaggeration": 0.6
   }
 }
