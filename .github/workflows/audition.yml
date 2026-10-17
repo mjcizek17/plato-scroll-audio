@@ -4,7 +4,7 @@ name: audition
 on:
   push:
     branches: [main]
-    paths: ["audition/**", "engines/kokoro_render.py", "tools/master.py", "tools/publish.sh", ".github/workflows/audition.yml"]
+    paths: ["audition/**", "engines/kokoro_render.py", "engines/chatterbox_render.py", "tools/master.py", "tools/publish.sh", ".github/workflows/audition.yml"]
   workflow_dispatch:
 
 permissions:
@@ -41,3 +41,25 @@ jobs:
         with: { name: kokoro, path: out/kokoro }
       - if: always()
         run: bash tools/publish.sh out/kokoro kokoro
+
+  chatterbox:
+    needs: [kokoro]
+    if: always() && needs.kokoro.result == 'success'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        mode: [keep-alc, alc-long]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: mkdir -p out/cb && sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - uses: actions/download-artifact@v4
+        with: { name: kokoro, path: in/kokoro }
+      - run: pip install -q $PIP_CPU chatterbox-tts 2>&1 | tee -a out/cb/log.txt
+      - run: (cd engines && python chatterbox_render.py ../in/kokoro ../out/cb ${{ matrix.mode }}) 2>&1 | tee -a out/cb/log.txt
+      - run: python tools/master.py out/cb/lines audition/passage.json out/cb/cb.mp3 2>&1 | tee -a out/cb/log.txt
+      - if: always()
+        run: bash tools/publish.sh out/cb "chatterbox-${{ matrix.mode }}"

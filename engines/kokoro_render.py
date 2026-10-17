@@ -43,6 +43,8 @@ def main(out):
     for who, c in cast.items():
         write_wav(f"{out}/refs/{who}.wav", say(c["ref_text"], voices[who], accent[who]), 24000)
         open(f"{out}/refs/{who}.txt", "w").write(c["ref_text"])
+        if c.get("ref_text_long"):
+            write_wav(f"{out}/refs/{who}-long.wav", say(c["ref_text_long"], voices[who], accent[who]), 24000)
     t.report(out)
 
     # Numbered options: an announcer (a female voice no character uses) says "Option one", then the

@@ -38,6 +38,10 @@
       ]
     ],
     "exaggeration": 0.6,
-    "accent": "us"
+    "accent": "us",
+    "ref_text_long": "Everyone in Athens knows who I am, and before long the whole of Greece will know it too. My family is the greatest in the city, my guardian is Pericles himself, and when I speak in the Assembly they will listen. So tell me, why should I listen to anyone who says that I still lack something?"
+  },
+  "_voices_kept": {
+    "cb_michael": "Chatterbox copying Kokoro am_michael (short reference), as heard for Alcibiades in audition sample 4. The user likes it and wants it for another character."
   }
 }
