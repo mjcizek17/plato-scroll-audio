@@ -33,6 +33,10 @@ jobs:
       - run: (pip install -q $PIP_CPU torch && pip install -q "kokoro>=0.9.4" soundfile "misaki[en]") 2>&1 | tee -a out/kokoro/log.txt
       - run: (cd engines && python kokoro_render.py ../out/kokoro) 2>&1 | tee -a out/kokoro/log.txt
       - run: python tools/master.py out/kokoro/lines audition/passage.json out/kokoro/kokoro.mp3 2>&1 | tee -a out/kokoro/log.txt
+      - run: |
+          for f in out/kokoro/options/*.wav; do [ -e "$f" ] || continue; n=$(basename "$f" .wav)
+            ffmpeg -v error -y -i "$f" -af "highpass=f=70,loudnorm=I=-19:TP=-3" -ar 44100 -b:a 128k "out/kokoro/options-$n.mp3"
+            cp "out/kokoro/options/$n.txt" "out/kokoro/options-$n.txt"; done
       - if: always()
         uses: actions/upload-artifact@v4
         with: { name: kokoro, path: out/kokoro }
