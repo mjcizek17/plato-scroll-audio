@@ -1,0 +1,635 @@
+{
+"key": "crito",
+"title": "Crito",
+"parts": [
+{
+"name": "Crito",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "Why have you arrived at this hour, Crito? Isn't it still early?",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Crito",
+"text": "It certainly is.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "What time is it, then?",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Crito",
+"text": "Just before dawn.",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "I am surprised the prison guard was willing to answer the door for you.",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Crito",
+"text": "He knows me well at this stage, Socrates, because I visit the place so often and, what's more, I have done him a favour.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "Did you arrive just now, or some time ago?",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Crito",
+"text": "Quite some time ago.",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "Then why didn't you wake me immediately instead of sitting there in silence?",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Crito",
+"text": "No, by Zeus, I wouldn't do that. I only wish I were not so sleepless and so troubled myself, but I am also amazed at you when I notice how sweetly you sleep, and I deliberately refrained from waking you so that you might pass the time as pleasantly as possible. And on many previous occasions, all through your life, I have noted your happy disposition, especially now that I see how easily and calmly you are bearing this present misfortune.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "Actually, Crito, it would be most odd, at my age, to be troubled because I now had to die.",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Crito",
+"text": "But, Socrates, other men of your age have been overtaken by similar misfortunes, yet their age does not free them from being troubled over their predicament.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "That's true. But why have you come so early?",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Crito",
+"text": "Socrates, I am the bearer of painful news. Not painful for you, apparently, but for me and all your associates it is both painful and grievous, and I think I am the one who bears it most grievously of all.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "What news is this? Has the ship arrived from Delos, the one whose arrival means that I must die?",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Crito",
+"text": "Well, it has not actually arrived but I think it will be here today, based on reports from some people who have come from Sounion and who left the ship there. So it is clear from these reports that it will be here today, and so, Socrates, tomorrow your life must come to an end.",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "Well, Crito, may it be for the best. If this pleases the gods, so be it. However, I do not think it will be here today.",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Crito",
+"text": "What is your evidence for that?",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "I'll tell you. Presumably I am to die the day after the ship arrives.",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Crito",
+"text": "That is what the authorities say, in any case.",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "Well, I do not think it will be here today, but tomorrow. My evidence is a dream I had a little earlier, during the night, perhaps when you decided not to wake me.",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Crito",
+"text": "What was the dream?",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "“Socrates, on the third day thou shalt reach fertile Phthia.” – I thought that a noble and beautiful woman wearing a white robe approached me, called out and said these words.",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Crito",
+"text": "What a strange dream, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "Well now, Crito, it seems clear enough to me anyway.",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Crito",
+"text": "It seems all too clear, but dearest Socrates, even at this stage heed me and save yourself. For if you die it is not just a single misfortune for me. No, quite apart from being deprived of a friend, the like of whom I shall never find again, many people who do not know you and me at all well will think that I did not care enough to spend some money to save you. And what reputation could be more disgraceful than this, a reputation for setting higher value on money than on friends? For most people will not believe that you yourself were unwilling to leave this place, although we were willing to help.",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "But bless you, Crito, why does popular opinion concern us so much? The best people, whose opinions are more worthy of consideration, will believe that we acted exactly as we should have acted.",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Crito",
+"text": "But Socrates, surely you can see that it is indeed necessary to care about popular opinion? The very situation we are now in demonstrates that if someone is discredited in their eyes, the multitude can do harm, not only on the smallest of scales, but well-nigh the greatest harm of all.",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "I really wish the multitude were able to do the greatest harm, Crito, so that they might also be able to do the greatest good, and all would be well. As it is, they are not able to do either, for they cannot make someone either wise or foolish, and they do whatever occurs to them.",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Crito",
+"text": "Let's accept all that, Socrates. But just tell me, if you escape from here, are you concerned for me and for your other associates in case the informers make trouble for us and we have to forfeit all our property or incur a large fine or suffer some worse fate at their hands? For if you are afraid of any such outcome, bid it farewell, for it is only right that we run these risks to save you, and even greater risks if necessary. So, heed me and just do as I say.",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "Yes, I am concerned about this, Crito, and much else besides.",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Crito",
+"text": "Then don't be afraid. In fact, the people who can save you and get you out of here are not looking for a lot of money. Besides, you see, don't you, that these informers are so easily bought that we won't need to spend much money on them either? My own funds are at your disposal, and I believe they are adequate. What's more, if you are concerned about me and don't believe you should spend my money, there are friends here from abroad willing to spend theirs. One of them, Simmias the Theban, has brought sufficient money for this very purpose. Cebes too is ready, and very many others.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Crito",
+"text": "So, as I say, don't give up on saving yourself for fear of these issues, nor should what you said in court present a difficulty for you, that you would not know what to do with yourself if you went into exile. For there are lots of places where they will welcome you, wherever you go. And if you want to go to Thessaly, I have friends there who will make much of you and provide you with protection so that you are not bothered by any of the Thessalians.",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Crito",
+"text": "What's more, Socrates, I don't even think that what you are attempting is right, betraying yourself when you could save yourself, determined to bring upon yourself the sort of thing your enemies would be keen on in their determination to destroy you. As well as this, I also think you are betraying your own sons by going off and abandoning them when you could rear them and educate them. For all you care, they will meet whatever fate they meet, and they will quite likely meet the sort of fate that usually befalls orphans in these situations. In fact, one should either not beget children at all or else face the difficulties of rearing and educating them. And I think you are choosing the easy way out when you should choose whatever a good and courageous man would choose, especially when you spend your entire life speaking of concern for excellence. So, I am ashamed both on your behalf and on behalf of ourselves, your associates, lest this entire situation in which you are involved may seem to have developed because of some cowardice on our part: the fact that the action went to court when it was possible that it not go to court, how the trial of the action itself unfolded, and, to cap it all, as the most absurd aspect of the matter, people will think that an opportunity escaped us due to our own baseness and cowardice, since we did not save you, nor did you save yourself, when we were well able to do so if we were of any use at all. So beware, Socrates, in case these matters bring not just evil upon yourself and others, but disgrace too. So make your decision. No, the time for making decisions is past, just decide. There is only one decision. Yes, everything must happen this very night, and if we delay any longer it won't be possible. So heed me, Socrates, you must do exactly as I say.",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "Crito, my friend, your eagerness would be very worthy if it had right on its side, but, if not, then the greater the eagerness, the greater the problem. Now, we need to consider whether we should adopt this course of action or not, as I am, now and always, the sort of person who heeds nothing else but the reasoning that on reflection appears best to me. So I cannot now cast aside the reasoned arguments I have stated before because of what has just happened to me. No, they seem much the same, and I honour and respect the same principles as before. And if we have no better arguments to offer at the moment, then rest assured, I shall not go along with your plan, not even if the power of the populace scares us, like children, to an even greater extent than now by threatening either imprisonment, execution or confiscation of property.",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "So, how may we consider the issues in the most balanced way? What if we first take up the argument you proposed in relation to opinions? Were we right, or were we not, when we said on many occasions that we should pay attention to some opinions but not to others? Or were we right before I was condemned to death, but it has now become quite evident that this was said idly, for the sake of argument, and was, in truth, childish nonsense? And I am eager to consider, along with you, Crito, whether the argument appears in a different light since this has happened to me, or remains the same, whether we should bid it farewell or heed it. It used often to be said, I believe, by those of us who thought they had a point, that, as I have just said, some opinions that people arrive at should be valued highly, others not. By the gods, Crito, don't you think this is a fair statement? For you, humanly speaking, are not expected to die tomorrow, and the present situation should not unhinge you, so think about this. Don't you think it is enough to say that we should not respect all the opinions of mankind, but some only and not others, and not the opinions of all people, but of some people and not others? What do you say? Is it right to say this?",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Crito",
+"text": "It is right.",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Socrates",
+"text": "Shouldn't we respect the worthy opinions and not the bad ones?",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Crito",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "Aren't the worthy ones the opinions of the wise, and the bad ones the opinions of the foolish?",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Crito",
+"text": "They must be.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "Come on then. What have we generally said about such matters? When a man is in training and is working at it, does he pay attention to the praise and censure and the opinions of anyone at all, or to one person alone, the person who happens to be a physician or a trainer?",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Crito",
+"text": "To one person alone.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Socrates",
+"text": "Therefore, he should fear the censure and delight in the praise of that one person, and not those of the majority.",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Crito",
+"text": "Obviously.",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "So, he should go about it as follows: exercise, and even eat and drink, in the way that that one person, his trainer, the knowledgeable person, thinks he should, rather than all the others.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Crito",
+"text": "This is so.",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "So be it. But if he doesn't heed that one person, and disrespects his opinion and his praise, and respects those of the majority who are not at all knowledgeable, won't he suffer harm?",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Crito",
+"text": "Inevitably.",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Socrates",
+"text": "What is this harm, to what is it directed, and what part of the heedless person does it affect?",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Crito",
+"text": "Obviously it affects his body, since it ruins it.",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Socrates",
+"text": "That's right. And without going through them all, Crito, doesn't the same issue arise in other cases too, and especially when it comes to justice and injustice, disgrace and nobility, good and bad, with which our deliberations are now concerned? Should we follow the opinion of the majority and fear it, or the opinion of one person, someone who is knowledgeable, and feel more shame and fear before him than before all the others put together? And if we do not follow him, shan't we corrupt and maim that which we agreed is made better by justice and ruined by injustice? Or is this nothing?",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Crito",
+"text": "I agree with you, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "Come on then. If by paying no heed to the opinion of knowledgeable people we ruin that which is improved by health and corrupted by disease, would our life be worth living when this had been corrupted? And this, presumably, is the body, isn't it?",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Crito",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "So, for us, is life worth living with a degenerate and corrupted body?",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Crito",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "Then, is our life worth living when that which injustice maims and justice improves has been corrupted? Or do we believe that the part of us, whatever it is, that is associated with injustice and justice to be less honourable than the body?",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Crito",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "Is it more honourable?",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Crito",
+"text": "Much more.",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "So, best of men, we should not give any thought to what most people will say of us. No, we should heed what the person who knows justice and injustice says, that one person, and truth itself. So your first proposal was not right when you proposed that we should take account of popular opinion concerning what is just, noble and good, and their opposites. Yet someone might still say, “Yes, but the multitude is able to put us to death!”",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Crito",
+"text": "Of course someone would say that, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "What you say is true. But, my friend, the argument we have just gone through still seems much the same to me as it did previously. And we should also consider further whether this principle of ours still stands, that we should not attach importance to living, but to living well.",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Crito",
+"text": "It still stands.",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "And to live well is to live nobly and justly. Does this stand or not?",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Crito",
+"text": "It stands.",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "In that case, based upon what has been agreed, we should consider whether I am justified in trying to get out of here without permission from the Athenians or not. And if it turns out to be justified, we should make the attempt, and if not, we should let it be. But the considerations you introduce, concerning financial expenditure, opinion, and the upbringing of my children, these, I truly suspect, Crito, are the notions of those who would readily put a man to death and then bring him back to life again if they could, notions devoid of reason, the notions of the multitude. But we, since the argument so convinces us, should consider nothing except what we said just now: whether we shall be acting justly in bestowing money and favours upon the people who will get me out of here, and in escaping and aiding the escape ourselves. Or shall we, in truth, be acting unjustly in doing all this? And if it is evident that we shall be acting unjustly, there is no need to consider whether we should quietly stand our ground and face death, or suffer any other fate whatsoever. We should only consider the injustice of the act.",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Crito",
+"text": "What you are saying is all very well, Socrates, but you still need to decide what we should do.",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "Let's consider this together, good man, and if you are able to contradict what I am saying in any way, do so, and I shall heed you. Otherwise, at this stage, blessed man, please stop presenting the same argument to me over and over – that I need to get out of here without the permission of the Athenians – for it is very important to me that I do all this with your approval and not against your will. Now look at the principle of the enquiry, and whether it is stated adequately, and try to answer the questions you are asked, as you think best.",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Crito",
+"text": "Well, I'll try.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "Are we saying that injustice should not be done intentionally in any way, or should injustice be done in one way but not in another? Or is unjust action not at all good or noble, as we have agreed so often on previous occasions? Or has everything we previously agreed been cast aside in these past few days, and have we, at our age, Crito, despite conversing earnestly with one another for so long, overlooked the fact that we are no better than children? Or is it very much the case, as we said then, that whether the multitude say so or not, and whether we must suffer more grievous afflictions, or even milder ones, doing injustice is evil in any case, and disgraceful in every way, for the one who acts unjustly? Do we accept this or not?",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Crito",
+"text": "We do.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "So we should never act unjustly?",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Crito",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "Nor since we should never act unjustly, should we return an injustice if we are treated unjustly, as most people think?",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Crito",
+"text": "Apparently not.",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "What about this, Crito, should we do harm or not?",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Crito",
+"text": "Of course we shouldn't, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "And if we suffer harm, is it just to do harm in return, as most people assert, or is it not just?",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Crito",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "Presumably because doing harm to people is no different from acting unjustly.",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Crito",
+"text": "That's true.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "So we should neither return an injustice nor do harm to any man, regardless of what we suffer at his hands. And take care, Crito, in accepting this, in case you agree to something that goes against your own opinion, since I know that these opinions are held, and will be held, by a few. Now, there is no common counsel between those who hold this view and those who do not, and they must of necessity despise one another when they see one another's decisions. So you too should consider, very carefully, whether you share this view and agree with it, and we should begin our deliberations from this. Is it never right to do injustice or to return an injustice, or to defend yourself from suffering harm by doing harm in return? Or do you dissent, and do you not share this principle? I have long held this view, and I still do so now, but if you hold a different one speak and explain it. However, if you stand by what we agreed earlier, hear what follows.",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Crito",
+"text": "Well, I stand by it and I agree with you, so speak on.",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "Then, the next thing I say, or rather ask, is should a person do whatever he agrees with someone to do, provided it is just, or should he cheat him?",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Crito",
+"text": "He should do it.",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "Then look at the matter based on these principles. In leaving this place without having convinced the city, are we doing harm, even to those we should harm least of all? Or are we not doing harm, and are we abiding by our agreements since they are just?",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Crito",
+"text": "I can't answer your question, Socrates, because I do not understand it.",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Socrates",
+"text": "Well, consider this. Suppose I was about to run away, or call it what you will, and the laws of the city and the community were to arrive, stand before us, and ask: “Tell me, Socrates, what are you intending to do? Do you have anything else in mind, for your part, than to destroy us, the laws, and the entire city too, by your plan of action? Or do you think any city can exist and not be overthrown when its just enactments have no force and are rendered ineffective by private citizens, and set at naught?” What answer would we give, Crito, to these questions and others like them? Someone, especially a rhetorician, might have a lot to say about the subversion of the law whereby judgements, once delivered, stand supreme. Or shall we reply that the city did us an injustice and did not decide the case aright? Shall we say this, or something else?",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Crito",
+"text": "This, by Zeus, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Socrates",
+"text": "Well, what if the laws were to reply: “Socrates, was this also agreed between yourself and ourselves, or did you agree to abide by the judgements the city pronounced?” Now, if I were surprised that they asked this, they would probably say: “Socrates, don’t be surprised at the question, just answer it, since you make such a habit of asking and answering questions. Come on, you are attempting to destroy ourselves and the city. On what grounds? Firstly, didn’t we bring you to birth, since through us your father married your mother and begot you. So tell us, do you find any fault in those of us who are the laws concerning marriage, because they are unsound?” “I find no fault,” would be my reply. “What about those concerning the upbringing of children once they are born, and the education you yourself received? Or did those of us who were established for this purpose not issue good instructions, when they directed your father to educate you in music and gymnastics?” “They were good,” I would say.",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Socrates",
+"text": "“So be it. But since you were begotten, reared, and educated in this way, can you say firstly that you are not our offspring and our servant, you yourself and your ancestors? And if this is the case, do you think that justice between you and us is on an equal basis, and that you are justified in retaliating against anything we set about doing to you? You did not have such equality towards your father, or your master if you had one, so that you could retaliate against whatever might be done to you, either by responding to any harsh words, striking back when struck, or doing anything else of that sort. So do you think this will be permitted towards your homeland and the laws, so that if we set about destroying you because we think it just to do so, you may also set about destroying us, the laws and your homeland, to the best of your ability, and may claim that you are justified in doing so, you, a man who truly cares so much about excellence? “Or have you, as wise as you are, overlooked the following facts: that your homeland is more worthy of respect than your mother or father or all of your other ancestors, and is more august and sacred, and more exalted in status, in the eyes of the gods and of men of intelligence; that when your homeland is angry it should be revered, obeyed and assuaged, even more than an angry father, and you should either persuade it otherwise or do as it commands, and suffer in silence if it prescribes any suffering by being beaten or imprisoned; that if it sends you to war to be wounded or slain, this is what you must do, for justice consists in this and you must not surrender or withdraw or desert your post; that in war, in a courtroom, or anywhere else, you must do what your city and your homeland commands, or else persuade it as to where justice lies; that it is unholy to use force against your father or mother, but much more so against your homeland?” What will be our reply to all this, Crito? Are the laws speaking the truth, or not?",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Crito",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "“Then consider, Socrates,” the laws might say, “whether we are speaking the truth in saying that your actions are unjust when you set about doing what you are now doing to us. For although we begot you, nurtured you, educated you, and gave a share of all the benefits we could to yourself and all your fellow citizens, we nevertheless make an open declaration. We give permission, allowing any Athenian who wishes to take what is his and go wherever he wishes if he is displeased with us, once he has come of age and has seen what goes on in the city and has seen ourselves, its laws. None of us laws will prevent it or forbid it if any of you want to go to a colony or go to live somewhere else as a foreigner, because we and the city are not to your liking. You may go wherever you want and take your possessions with you. “But should any of you remain, seeing the way that we administer justice and manage the city in general, we then declare that the person has agreed with us, by his action, to do whatever we order him to do. And we maintain that anyone who disobeys commits a threefold injustice: he disobeys us, we who begot him; he disobeys us, we who nurtured him; and having agreed to obey us, he neither obeys us nor persuades us otherwise if we are not acting aright, even though we lay the options before him and do not issue rough commands to do what we tell him. No, we offer two alternatives: either do as we say, or persuade us otherwise. But he does neither of these.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "“Well, Socrates, we declare that if you do what you have in mind, you will be just as open to these allegations as any other Athenian, more so in fact.” And if I were to ask, “Why is that?” they would probably rebuke me, quite justifiably, saying that I, more so than any Athenian, have accepted this agreement with them. For they would declare: “Socrates, we have strong evidence that you are fond of us and of the city, for you would never have spent more time at home here than any other Athenian unless you were especially fond of her. Indeed, you have neither yet left the city to go to a festival, except once to the Isthmus, nor did you go anywhere else, except on military service, nor have you ever made any other journey abroad like other Athenians, nor have you been taken with a desire to know about another city or any different laws. No, we were good enough for you, and so was our city. You chose us, and you agreed to live under us as a citizen, with such eagerness that you even begot your children here, so much did the city please you. And even at the trial itself you could have proposed exile as a penalty if you wanted to, and you would then have had the city’s permission to do what you are now trying to do against her will. At the time, you made out that you would not be troubled if you had to die, and said you would choose death before exile. But now you are neither ashamed at your own words, nor do you show any respect for us, the laws. In an attempt to destroy us, you are doing what the basest slave might do, trying to run away, contrary to the contracts and agreements under which you contracted us to live as a citizen. So, answer this question for us first. Are we speaking the truth when we declare that you have agreed, by your actions if not by your words, to live as a citizen in accordance with us, or is this not true?” What shall we say to this, Crito? Shall we do something else, or shall we agree?",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Crito",
+"text": "We must agree, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Socrates",
+"text": "“In that case,” they might say, “are you not contravening your contracts and agreements with us? You were not forced or deceived into agreeing, nor were you compelled to decide in a hurry. No, you had seventy years during which you could have departed if we were not to your liking, or if the agreements seemed unjust to you. But you did not prefer either Sparta or Crete, whom you have often declared to be well regulated, or any other Greek city, or any non-Greek city either. Instead, you spent less time outside the city than the lame, the blind and the other disabled folk. So you, more so than your fellow Athenians, are pleased with the city and obviously with us, the laws. For who would be pleased with a city devoid of the laws? And now, will you not abide by your agreements? You will if you heed us, Socrates, and you won’t become a laughing stock by leaving the city.",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "“Yes, indeed, consider what good you will do to yourself, or any of your own associates, if you contravene these agreements or fall foul of them in any respect. Indeed, it is quite obvious that your associates themselves also run the risk of exile, losing their status in the city, or confiscation of their property. But taking your own case first, if you go to a nearby city such as Thebes or Megara, both of which are well regulated, you will arrive there as an enemy to their constitution, Socrates, and anyone there who cares for their own city will view you with suspicion, regarding you as a subverter of their laws, and you will confirm the opinion of the jurors and make it seem that they decided the case correctly. For presumably anyone who is a subverter of the laws will seem, most emphatically, to be a corrupter of young, unreasoning people. But what if you avoid the well-regulated cities, and the men who are most orderly? But if you do this, will you have any reason to live on? Or will you associate with these people and, without any shame, discuss what propositions, Socrates? The same ones you discuss here, that excellence and justice, regulations and the laws, are of the utmost value to people? And don’t you think that the conduct of Socrates will appear unseemly? You should think so.",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Socrates",
+"text": "“Will you then keep away from these places and go instead to Thessaly, to Crito’s friends, where there is indeed plenty of disorder and unrestrained behaviour, and they will probably be delighted to hear you tell of the comical way you ran away from the prison, having put on some disguise or wearing the leather garment of a peasant, or the sort of thing that runaways are usually dressed in, and how you changed your own appearance. But will no one mention the fact that as an old man, probably without much of his life remaining, you had such a greedy desire for life that you dared transgress the most important laws? Perhaps not, not if you don’t upset someone. But if you do, you will hear much that is unworthy of yourself. So you will live on, the fawning slave of everyone, doing what? Eating your fill in Thessaly, having travelled all that way for a dinner? And what will come of those arguments of ours about justice and excellence in general? “Well then, do you want to live on for the sake of your children, so that you can rear them and educate them? What about this? And once you have brought them to Thessaly, will you rear them, educate them, and make exiles of them, so that they may share in this advantage too? Or if you don’t do this and they are brought up here while you are still alive, will they be better brought up and educated when you are not with them? In fact, these associates of yours will care for your children. Is it the case that if you go off to Thessaly they will care for them, but if you go off to Hades they will not care for them? If indeed any of those who claim to be associates of yours are of any use at all, you must believe they will care for them.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "“So, Socrates, heed us, we who reared you, and do not reckon children or life or anything else to be more important than justice, so that when you arrive in Hades you will be able to say all this in your own defence to those who rule there. For even here, if you do this, it will not prove better, more just, or more holy, either for you or any of those who belong to you, nor will it be better when you arrive there. Rather, as matters stand, if you depart this world you depart unjustly treated by your fellow men, and not by us, the laws. But if you escape, having returned injustice for injustice and evil for evil in such a disgraceful manner, contravening your own agreements and contracts with ourselves, and inflicting harm upon those whom you should harm least – yourself, your friends, your homeland and us – then we will be angry with you whilst you are alive, and in the next world, our brothers, the laws in Hades, will not receive you graciously knowing that you also undertook to destroy us as best you could. So do not heed Crito, and do not do what he says. Do what we say.”",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "So take note, dear friend Crito. These are the words I seem to be hearing, just as the frenzied dancers seem to be hearing the pipes, and the very sound of these words is reverberating within me and makes me incapable of hearing anything else. Mark my words then. If you say anything contrary to the views I now hold, you will speak in vain. Nevertheless, if you think it will achieve anything, speak.",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Crito",
+"text": "No, Socrates, I have nothing to say.",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Socrates",
+"text": "Well then, Crito, let it be, and let's act accordingly, since this is the way God leads us.",
+"kind": "speech"
+}
+]
+}
+]
+}

@@ -1,0 +1,1385 @@
+{
+"key": "hippmin",
+"title": "Hippias Minor",
+"parts": [
+{
+"name": "Hippias Minor",
+"lines": [
+{
+"entry": 0,
+"who": "Eudicus",
+"text": "Why are you silent, Socrates, when Hippias has put on such a demonstration? Why don’t you join in the praise, or if you think he said something wrong why don’t you challenge him? Especially since we have been left to ourselves, we who seriously claim to be involved in philosophic discourse.",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Socrates",
+"text": "Yes, indeed, Eudicus, there are matters in what Hippias said just now about Homer on which I would like to question him. For I often heard your father, Apemantus, saying that Homer’s Iliad was a better poem than his Odyssey, insofar as Achilles was a better man than Odysseus, and one of these poems features Odysseus, while the other features Achilles. So if Hippias is willing, I would gladly question him about this matter, and what he thinks of these two men, and which of the two, according to him, is better. For he has indeed presented us with a great variety of information about various poets, including Homer.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Eudicus",
+"text": "It is obvious that Hippias won’t begrudge you an answer if you ask him anything. Is this so, Hippias? If Socrates asks you something, will you answer, or what will you do?",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Hippias",
+"text": "I would be acting most strangely, Eudicus, if I were to avoid Socrates’ questioning, I who always go from my home in Elis to Olympia to the assembly of the Greeks whenever it takes place, and make myself available at the shrine to speak on request on any matters I have prepared for exhibition, and to answer any questions anyone wishes to ask.",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "You are indeed in a blessed state, Hippias, if for every Olympiad you arrive at the sanctuary with such confidence in the wisdom of your soul. I would be surprised if any of the athletes who come to compete physically had such fearless confidence in respect of their bodies as you claim to have in respect of your mind.",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Hippias",
+"text": "Yes, Socrates, that probably is the state I am in. For, ever since I began competing at the Olympics, I have never come across anyone who was better than myself in anything.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "Well said, Hippias, and this reputation for wisdom that you have is a monument both to the city of Elis and to your parents. But what then can you say to us about Achilles and Odysseus? Which of them, according to you, is better, and in what respect? Indeed, when there were a lot of us inside and you were giving your demonstration, I got left behind as you were speaking because there was such a large crowd in there and I did not want to interfere with the exhibition by questioning you. But now that there are fewer of us, and Eudicus here is telling me to question you, please speak and teach us clearly. What were you saying about these two men? How were you distinguishing them?",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Hippias",
+"text": "Well, Socrates, I am willing to explain what I am saying about these men, and others too, even more clearly than before. For I maintain that Homer made Achilles the best man of those who went to Troy, he made Nestor the wisest, and he made Odysseus the wiliest.",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "Oh dear, Hippias. Would you do me a favour and not laugh at me if I am slow to understand what you are saying and question you repeatedly? Try rather to answer me gently and calmly.",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Hippias",
+"text": "Indeed, Socrates, it would be a disgrace if I, who teach these very behaviours to others and see fit to charge them for doing so, were to be inconsiderate and harsh myself when responding to your questions.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "Very nicely expressed. For when you said that Homer made Achilles the best man, and Nestor the wisest, I thought I understood what you meant. But when you say that the poet made Odysseus the wiliest, to tell you the truth, I don’t fully understand what you are saying. Tell me now, and perhaps I may better understand you, does Homer make Achilles wily?",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Hippias",
+"text": "Not in the least, Socrates. He is, rather, the most straightforward and the truest, since in the ‘Entreaties’, when he is making them converse with one another, he has Achilles say to Odysseus: “Son of Laertes, seed of Zeus, resourceful Odysseus, / I must speak out without holding back / How I shall act and how I think it will end, / For as hateful to me as the gates of Hell / Is the man who holds one thing in his heart and speaks something else. / I for my part, shall speak as it will end.” In these lines he makes the character of each man plain. Achilles is true and straightforward, while Odysseus is wily and false, for he makes Achilles speak these words to Odysseus.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "Now, Hippias, I may at this stage understand what you are saying. You mean that the wily person is false, or so it appears.",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Hippias",
+"text": "Very much so, Socrates. For Homer frequently depicts Odysseus as such a person in the Iliad and in the Odyssey.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "In that case, Homer seems to think that the person who is true and the person who is false are different people and not the same.",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Hippias",
+"text": "How could he think otherwise, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "And do you yourself think so, Hippias?",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Hippias",
+"text": "Emphatically so. It would be strange if I did not.",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "Well, let’s leave Homer aside since it is impossible to question him on what precisely he had in mind when composing these verses. But since you are apparently taking up his cause and you agree with Homer’s statements as you understand them, please respond on behalf of Homer and yourself together.",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Hippias",
+"text": "Let’s do so. Ask whatever you like, briefly.",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "Do you maintain that false people, like sick people, lack the power to do anything, or that they have the power to do something?",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Hippias",
+"text": "I say that they have the power, a lot of power, to do a great deal, and especially to deceive people.",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "According to your argument then, they are, it seems, powerful and wily. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "And are they wily and deceptive on account of simple-mindedness and lack of intelligence, or on account of cunning and of intelligence of some sort?",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Hippias",
+"text": "Mainly on account of cunning, but also by intelligence.",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "So, they are intelligent, or so it seems.",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Hippias",
+"text": "Yes, by Zeus, excessively so.",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "And being intelligent, do they, or do they not, know what they are doing?",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Hippias",
+"text": "They know very well, that’s why they also do harm.",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "And knowing whatever they know, are they ignorant or wise?",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Hippias",
+"text": "Wise, indeed, in these very matters, in deceiving.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "Come on then, let’s remind ourselves of what you are saying. According to you, do those who are false have power and intelligence, and are they knowledgeable and wise in those matters about which they are false?",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Hippias",
+"text": "I say so, indeed.",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "And those who are true and those who are false are different and completely opposite to one another?",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Hippias",
+"text": "That’s what I say.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "Come on then, according to your argument, the false people are, it seems, included among those who have power and are wise.",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Hippias",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "And when you say that the false people have power and are wise in these very matters do you mean that they have the power to be false if they wish, or are they devoid of power in those matters wherein they are being false?",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Hippias",
+"text": "I think they have the power.",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "To sum up, then, the false people are those who are wise and have the power to be false.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "So, a man who is ignorant and devoid of the power to be false would not be false.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Hippias",
+"text": "That’s it.",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "But anyone who can do whatever he wishes, whenever he wishes, has power. I am not referring to someone who is prevented by disease or the like, but to someone like you who has the power to write my name whenever he wishes. Don’t you say that someone in such a situation has power?",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "Tell me, then, Hippias, aren’t you experienced in reckoning and calculation?",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Hippias",
+"text": "Supremely so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "So, if someone were to ask you what number is three times seven hundred, you could, if you wished, state the truth of the matter faster and better than anyone?",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Hippias",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "Because you are the most powerful and wisest in these matters?",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "Now, are you merely the most powerful and the wisest, or are you also the best in these matters wherein you are the most powerful and the wisest, namely calculations?",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Hippias",
+"text": "Of course I am also the best, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "Then you would also be most powerful at speaking the truth on such matters. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Hippias",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "What about falsehoods on these same matters? Answer me just as splendidly and nobly as you did previously, Hippias. If someone were to ask you how much is three times seven hundred, would you be best at speaking falsehoods, and on the same matters, consistently speak falsehoods about them if you wished to be false and never give a true answer? Or might someone, ignorant of calculation, have more power to speak falsehoods than you if you wanted to? Or, on the contrary, might the ignorant fellow who wished to speak falsehoods, frequently speak the truth unintentionally, by chance, because of his lack of knowledge, while you in your wisdom, if indeed you wished to speak falsely, could consistently speak falsehoods on the same matters?",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Hippias",
+"text": "Yes, that’s it, just as you say.",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "Now, is the false person false about other matters but not about number? Would he not be false about numbers?",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Hippias",
+"text": "By Zeus, he is also false about number.",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "So, Hippias, should we also presume that there is such a person, someone who is false about calculation and number?",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "Now, who might this person be? If he is indeed to be false, mustn’t he have the power to be false, as you have already agreed? For someone without the power to be false could never be false. That’s what you said, if you remember.",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Hippias",
+"text": "Yes, I remember. That’s what was said.",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "And were you not shown, just now, to have the most power to speak falsehoods about calculations?",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Hippias",
+"text": "Yes, that’s what was said.",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "So, have you also the most power to speak the truth about calculations?",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Hippias",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "Therefore, the same person has the most power to speak truth and to speak falsehoods about calculations, and this is the person who is good at this, the calculator.",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "Who, then, is false about calculation, Hippias? Isn’t it the person who is good at it since this very person also has the power and he is true?",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Hippias",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "Now, do you see that the same person is both true and false about these matters, and the true person is no better than the false person? For this is indeed the same person, and they are not two complete opposites as you thought earlier.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Hippias",
+"text": "Apparently not. Not in this case anyway.",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "Would you like to look at another example?",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Hippias",
+"text": "If you like.",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Socrates",
+"text": "Aren’t you also experienced in geometry?",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Hippias",
+"text": "I am.",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Socrates",
+"text": "Well then, doesn’t this also apply to geometry? The same person, namely the geometer, has the most power to speak falsehood or truth about the diagrams.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "And is anyone else good at this besides the geometer?",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Hippias",
+"text": "No one else.",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Socrates",
+"text": "Doesn’t the person who is a good and wise geometer have most power to do both? If anyone at all is false about diagrams, it would be this person, the good geometer. For he has the power to speak falsely, while the bad geometer lacks that power, so that as we agreed, the person without the power to be false could not be false.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Hippias",
+"text": "This is so.",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "Well, let’s look at a third case, the astronomer, whose skill you think you know better than the previous two skills. Is this so, Hippias?",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "Do the same arguments apply also in the case of astronomy?",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Hippias",
+"text": "Quite likely, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Socrates",
+"text": "Then, in astronomy too, if anyone is indeed false, the good astronomer, having the power to speak falsely, will be false, and not the person who lacks this power, for he is ignorant.",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Hippias",
+"text": "Apparently so.",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "So, in astronomy too, the same person will be both true and false.",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Hippias",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Socrates",
+"text": "Come on then, Hippias, consider all branches of knowledge and whether or not this applies generally. You are surely the wisest of all men in most subjects, as I once heard you boasting while proclaiming your own extensive and enviable wisdom at the tables in the marketplace. You said that once when you arrived at Olympia, everything you were wearing about your person was entirely of your own making. Firstly, the ring you are wearing – you began with that – was your own handiwork, proving that you know how to engrave rings. And another seal was also your own work, as was a strigil, and a flask which you yourself had fashioned. Then you said that you had cut from leather the very sandals you had on, and had woven your cloak and tunic. But what seemed most unusual to everyone, and a demonstration of your superior wisdom, was when you said that the belt of your tunic, the very one you are wearing, was just like those very expensive Persian belts, and that you had woven this yourself. What’s more, you said you had brought poems with you, epics, tragedies, and dithyrambs, and lots of speeches in prose, in great variety. There you were, superior to everyone else in the subjects I just mentioned, and in correctness in rhythms, harmonies and letters, and many other matters besides these, as I seem to recall. And, indeed, I had forgotten your skill in memory, as it seems, in which you believe yourself to be most brilliant, and I suspect that I have overlooked many other examples. But what I am asking is that you look at your own skills – there are enough of them – and those of others, and let me know if you can somehow find, as you and I have agreed, a situation where the true person and the false person are distinct people and not the same person. Look for this in any wisdom or in any cunning you like, call it what you like, but you will not find it, my friend, for there is no such thing. So, please respond.",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Hippias",
+"text": "I can’t, Socrates, not offhand anyway.",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "Nor, I believe, will you ever be able to. But if I am speaking the truth, Hippias, you remember what we concluded from our argument.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Hippias",
+"text": "I don’t fully understand what you mean, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Socrates",
+"text": "Perhaps you are not using your skill in memory at the moment, for you obviously think you don’t need it. But I’ll remind you. You know that you said that Achilles was true, while Odysseus was false and wily?",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "Do you now, then, realise, the false person and the true have proved to be the same, so that if Odysseus was false, he also turns out to be true, and if Achilles was true, he also turns out to be false, and these men are not even different from one another, let alone opposites; they are, rather, alike?",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Hippias",
+"text": "Socrates, you are always weaving arguments of this sort, picking the most difficult aspect of the argument, latching onto that in minute detail, and failing to tackle the overall subject that the argument is concerned with. So now, if you wish, based upon much evidence, I’ll prove to you with an adequate argument that Homer made Achilles superior to Odysseus and devoid of falsehood, while he made Odysseus a deceitful man who told many falsehoods and was inferior to Achilles. And if you wish, you, for your part, should match argument with argument, contending that the other man is superior, and then these people here will better appreciate which of us is arguing better.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "Hippias, I do not dispute the fact that you are wiser than I am. But it is my constant habit to pay attention whenever anyone says anything, especially when I think that the speaker is wise. Then, because I want to understand what he is saying, I ask questions and scrutinise and compare his various statements in order to learn. But if I think the speaker is inferior, I ask no questions and I don’t care what he says. And that is how you will recognise which people I regard as wise. For you will find that I am relentless about what is said by such a person, putting questions to him so that I may benefit by learning something. When you were speaking just now, demonstrating that Achilles speaks to Odysseus as if he were a pretender in the verses you just quoted, it occurred to me that this sounds strange. If you are speaking the truth, that Odysseus, the wily, is not shown to be speaking falsely anywhere, while Achilles is shown to be a wily person, it is strange that he speaks falsely. For Achilles first speaks the lines you quoted just now: “For as hateful to me as the gates of Hell / the man who holds one thing in his heart and speaks something else.” But a little later he says that he will neither be persuaded by Odysseus nor by Agamemnon, nor will he remain at Troy at all. He says rather: “Tomorrow, when I have sacrificed to Zeus and to all gods, / and loaded well my ships, and rowed out on to the salt water, / you will see, if you have a mind to it and if it concerns you, / my ships in the dawn at sea on the Hellespont where the fish swarm / and my men manning them with good will to row. If the glorious / shaker of the earth should grant us a favouring passage / the third day thereafter we might raise generous Phthia.” And even before this, when he was reviling Agamemnon, he said: “Now I am returning to Phthia, since it is much better / to go home again with my curved ships, and I am minded no longer / to stay here dishonoured and pile up your wealth and your luxury.” Having said all this, once in front of the entire army and again to his own companions, he is shown nowhere either preparing for his departure or even attempting to drag down his ships in order to sail home. Instead, he is shown to have a most audacious disregard for speaking the truth. Now, Hippias, I have been questioning you since we began, out of perplexity, as to which of these two men the poet makes better, and being of the view that both were excellent, I found it hard to decide who was better in terms of falsehood and truth, and in terms of excellence in general, since they are both similar in this respect.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Hippias",
+"text": "That’s because you are not looking at this in the right way, Socrates. For although Achilles speaks falsehoods, he is shown to be false not by design, but unintentionally, being compelled to remain and provide assistance because of the misfortune of the army, while Odysseus on the other hand speaks falsehoods intentionally and by design.",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Socrates",
+"text": "You are deceiving me, my dearest Hippias, and imitating Odysseus yourself.",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Hippias",
+"text": "Not at all, Socrates. What do you mean and what are you referring to?",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "The fact that, according to you, Achilles did not speak falsehoods by design, even though Homer makes him such a cheat, and, indeed, a pretender too. And so he is shown to be much more intelligent than Odysseus whom he deceives so easily without being noticed, having the audacity to contradict himself in front of Odysseus who does not even notice. In any case, Odysseus says nothing to Achilles to indicate that he is aware of his falsehoods.",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Hippias",
+"text": "What are you referring to, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Socrates",
+"text": "Don’t you know that when speaking later, having already told Odysseus he was going to sail away at dawn, he then told Ajax that he would do something else?",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Hippias",
+"text": "Where?",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Socrates",
+"text": "In the lines in which he says: “I shall not think again of the bloody fighting / until such time as the son of wise Priam, Hector the brilliant, / comes all the way to the ships of the Myrmidons, and their shelters, / slaughtering the Argives, and shall darken with fire our vessels. / But around my own shelter, I think, and beside my black ship / Hector will be held, though he be very hungry for battle.” Well now, Hippias, do you believe the son of Thetis, having been educated by the all-wise Chiron, was so forgetful that although he had been reviling pretenders a little earlier with extreme revulsion, he first told Odysseus that he would sail away, and then told Ajax that he would stay? Surely he said this deliberately, in the belief that because Odysseus was aged, he could get the better of him by this very contrivance and falsehood?",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Hippias",
+"text": "No, I don’t think so, Socrates. In this case, he was moved by kindness to say one thing to Ajax, and something different to Odysseus. But whatever truths Odysseus speaks, he always speaks by design, and the same holds for his falsehoods.",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Socrates",
+"text": "Then, Odysseus is, it seems, better than Achilles.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Hippias",
+"text": "Not in the least, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Socrates",
+"text": "Why not? Just a moment ago didn’t those who intentionally tell falsehoods prove to be better than those who do so unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Hippias",
+"text": "But how, Socrates, could those who intentionally do injustice and who intentionally and purposely do bad deeds, be better than those who do so unintentionally? In such cases, there seems to be great leniency when someone unknowingly acts unjustly or falsely, or does something bad. Indeed, the laws are presumably much harsher towards those who intentionally act badly or falsely than they are to those who do so unintentionally.",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Socrates",
+"text": "Do you see, Hippias, that I am speaking the truth when I state how persistent I am when it comes to questioning the wise? And it is quite likely that this is the one and only good quality I possess, any others I have being significantly inferior. For I am at a loss about things, and I don’t know how matters stand. I have enough evidence for this in the fact that whenever I converse with one of you people with a great reputation for wisdom, whose wisdom is attested by all the Greeks, I am shown to know nothing. For almost nothing seems the same to me as it does to yourselves. And, indeed, is there any greater evidence of ignorance than when one differs from wise men? But I am possessed of one marvellous good quality that saves me, for I am not ashamed to learn. Rather, I enquire and ask questions and I am very grateful to whoever answers me, and I have never withheld my gratitude from anyone. Indeed, I have never denied the fact that I have learned something by pretending that what I had learned was my own discovery. Instead, I praise the person who taught me for his wisdom, and I proclaim whatever I have learned from him. And, indeed, right now I do not agree with what you are saying. In fact, I differ very strongly and I know quite well that this is my own fault, because I am the sort of person that I am, and I don’t claim to be any better. For to me, Hippias, it appears, in total contradiction of what you are saying, that those who harm people and act unjustly, falsely and deceptively, not unintentionally but intentionally, are better than those who do so unintentionally. Sometimes, however, I am of the opposite opinion to this and am confused about these matters, obviously because of my not knowing. But now, at the moment, a swoon of some sort has come over me, and I am of the opinion that those who intentionally do wrong in some respect are better than those who do so unintentionally. I hold the previous arguments responsible for causing my present predicament whereby now, at the moment, it appears to me that those who unintentionally do any of these misdeeds are worse than those who do so intentionally. So please be kind to me and don’t begrudge me this healing of my soul. For you will do me far more good by putting a stop to this ignorance of my soul than by curing a physical disease. Now, if you propose to deliver a lengthy speech, I am telling you in advance that you will not cure me. But if you are willing to answer my questions as you did earlier, you will benefit me, and you yourself, I believe, will come to no harm. I might well call upon you too, dear son of Apemantus, since you have inspired me to converse with Hippias. If Hippias is unwilling to answer my questions, you should ask him to do so on my behalf.",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Eudicus",
+"text": "But, Socrates, I don’t think that Hippias will need a request from us. That’s not what he said initially. He said, rather, that he would not evade the questioning of any man. Is this so, Hippias? Isn’t that what you said?",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Hippias",
+"text": "I did, Eudicus, but Socrates always causes confusion in arguments and seems to be up to no good.",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Socrates",
+"text": "Hippias, best of men, at least I don’t do this intentionally, in which case I would be wise and clever according to your argument. I am, rather, acting unintentionally, so you should forgive me, since, according to you, someone who unintentionally behaves badly should be forgiven.",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Eudicus",
+"text": "Please do just that, Hippias. For our own sakes, and because of what you said at the outset, please answer any questions Socrates asks you.",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Hippias",
+"text": "At your request I will answer. Just ask any question you wish.",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Socrates",
+"text": "Yes, indeed, Hippias, I really want to investigate the matter we are now discussing, whether those who do wrong intentionally are the better people, or those who do so unintentionally. Now, I think the most correct way to set about the enquiry is as follows. Please answer me. Is there someone whom you call a good runner?",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Socrates",
+"text": "And a bad runner?",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Socrates",
+"text": "Isn’t the one who runs well good, while the one who runs badly is bad?",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Socrates",
+"text": "Doesn’t the one who runs slowly run badly, while the one who runs quickly runs well?",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Socrates",
+"text": "In a race then, and in running, speed is good while slowness is bad?",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Hippias",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Socrates",
+"text": "Now, who is the better runner, the one who intentionally runs slowly or the one who does so unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Hippias",
+"text": "The one who does so intentionally.",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Socrates",
+"text": "And to run is to do something, is it not?",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Hippias",
+"text": "To do something, indeed.",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Socrates",
+"text": "And if to do something, then also to perform some action, isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Socrates",
+"text": "So, whoever runs badly performs this bad and disgraceful action in a race?",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Hippias",
+"text": "Yes, a bad action, of course.",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Socrates",
+"text": "And whoever runs slowly runs badly?",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Socrates",
+"text": "Doesn’t the good runner intentionally perform this bad and shameful action, while the bad one does so unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Hippias",
+"text": "So it seems anyway.",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Socrates",
+"text": "So, in a race, the one who unintentionally performs bad actions is more base than the one who intentionally does so.",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Hippias",
+"text": "In a race, yes.",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Socrates",
+"text": "What about in wrestling? Who is a better wrestler, the one who falls intentionally or the one who does so unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Hippias",
+"text": "The one who falls intentionally, it seems.",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Socrates",
+"text": "And in wrestling, is it worse and more disgraceful to fall down or to throw someone down?",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Hippias",
+"text": "To fall down.",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Socrates",
+"text": "So, in wrestling too, the one who intentionally performs base and disgraceful actions is a better wrestler than the one who does so unintentionally.",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Hippias",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Socrates",
+"text": "What about all activity of the body, generally? Doesn’t the one who is better physically have the power to perform both actions, the strong and the weak, the shameful and the good? Consequently, whenever the one who is physically better performs bodily actions that are base, he does so intentionally, while the one who is physically worse performs them unintentionally.",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Hippias",
+"text": "Yes, this seems to be the case in respect of physical strength too.",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Socrates",
+"text": "What about elegance, Hippias? Isn’t the better body able, intentionally, to adopt shameful and base appearances, while the more base body does so unintentionally? How does it seem to you?",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Hippias",
+"text": "As you say.",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Socrates",
+"text": "So, inelegance too, when intentional, is associated with physical excellence, but when unintentional, with baseness.",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Hippias",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Socrates",
+"text": "What do you say about the voice? Which do you say is better, the one that intentionally goes out of tune or the one that does so unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Hippias",
+"text": "The one that does so intentionally.",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Socrates",
+"text": "Is the one that does so unintentionally in a worse predicament?",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Socrates",
+"text": "And would you choose to acquire what is good or what is bad?",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Hippias",
+"text": "What is good.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Socrates",
+"text": "And would you choose to have feet that are intentionally lame or unintentionally so?",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Hippias",
+"text": "Intentionally so.",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Socrates",
+"text": "Isn’t lameness a baseness and inelegance of the feet?",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Socrates",
+"text": "What about poor sight, isn’t this a baseness of the eyes?",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Socrates",
+"text": "So, which sort of eyes would you like to have and live with, those with which you could intentionally see dimly and abnormally, or those with which this would be unintentional?",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Hippias",
+"text": "Those with which it would be intentional.",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Socrates",
+"text": "So, you are of the view that any parts of yourself that intentionally perform base actions are better than those that do so unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Hippias",
+"text": "Yes, at least in such cases as these.",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Socrates",
+"text": "So, a single argument holds in all such cases as ears, nose, mouth and all the senses; those that involuntarily perform bad actions are undesirable because they are base, while those that do so intentionally are desirable because they are good.",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Hippias",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Socrates",
+"text": "What about instruments? Is it better to use those with which you perform bad actions intentionally or unintentionally? For instance, is a rudder by which you will unintentionally steer badly better than one by which you will do so intentionally?",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Hippias",
+"text": "The one by which you do so intentionally is better.",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Socrates",
+"text": "Doesn’t the same also hold for a bow, a lyre, for flutes, and any other examples at all?",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Hippias",
+"text": "True.",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Socrates",
+"text": "What about a horse? Is it better to have one with a soul such that you could intentionally ride badly, or such that this happens unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Hippias",
+"text": "Intentionally.",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Socrates",
+"text": "So that soul is better?",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Socrates",
+"text": "So, by the better soul of a horse someone may intentionally perform the base actions of that soul, while with the worse soul he does so unintentionally.",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Hippias",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Socrates",
+"text": "Doesn’t the same hold for a dog and all the other animals?",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Socrates",
+"text": "What about a person? Is it better to have acquired an archer’s soul that intentionally goes off target, or one that does so unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Hippias",
+"text": "Intentionally.",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Socrates",
+"text": "Isn’t this soul also better at archery?",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Socrates",
+"text": "And so the soul that unintentionally goes wrong is more base than the one that does so intentionally?",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Hippias",
+"text": "Yes, at least in the case of archery.",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Socrates",
+"text": "What about medical skill? Isn’t the soul that intentionally performs actions that are bad for the body more skilled in medicine?",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 194,
+"who": "Socrates",
+"text": "So this soul is better at this skill than the one that does not act intentionally.",
+"kind": "speech"
+},
+{
+"entry": 195,
+"who": "Hippias",
+"text": "Yes, better.",
+"kind": "speech"
+},
+{
+"entry": 196,
+"who": "Socrates",
+"text": "And what about the soul that is better at playing the cithara or the flute or doing anything else that involves skill and knowledge? Doesn’t the better soul intentionally perform bad and shameful actions and do wrong, while the more base soul does so unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 197,
+"who": "Hippias",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 198,
+"who": "Socrates",
+"text": "And, indeed, we would presumably choose to acquire slaves whose souls intentionally go wrong and act badly, as they are better in these respects than those that do so unintentionally.",
+"kind": "speech"
+},
+{
+"entry": 199,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 200,
+"who": "Socrates",
+"text": "And what about our own souls? Wouldn’t we wish to acquire the best ones possible?",
+"kind": "speech"
+},
+{
+"entry": 201,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 202,
+"who": "Socrates",
+"text": "Won’t it be better if it intentionally acts badly and goes wrong, and not unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 203,
+"who": "Hippias",
+"text": "But it would be terrible, Socrates, if those who intentionally do injustice are to be better than those who do so unintentionally.",
+"kind": "speech"
+},
+{
+"entry": 204,
+"who": "Socrates",
+"text": "And yet that is how they appear, at least from what has been said.",
+"kind": "speech"
+},
+{
+"entry": 205,
+"who": "Hippias",
+"text": "Not to me.",
+"kind": "speech"
+},
+{
+"entry": 206,
+"who": "Socrates",
+"text": "But I thought they appeared so to you too, Hippias. Please respond once more. Isn’t justice some sort of power or knowledge, or both? Must not justice necessarily be at least one of these?",
+"kind": "speech"
+},
+{
+"entry": 207,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 208,
+"who": "Socrates",
+"text": "Now, if justice is a power of the soul, then the more powerful soul is more just, is it not? For it appeared to us, best of men, that such a soul is better.",
+"kind": "speech"
+},
+{
+"entry": 209,
+"who": "Hippias",
+"text": "It appeared so, indeed.",
+"kind": "speech"
+},
+{
+"entry": 210,
+"who": "Socrates",
+"text": "And what if justice is knowledge? Isn’t the wiser soul more just while the more ignorant soul is more unjust?",
+"kind": "speech"
+},
+{
+"entry": 211,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 212,
+"who": "Socrates",
+"text": "And what if justice is both? Isn’t the soul that possesses both knowledge and power more just, while the more ignorant soul is more unjust? Isn’t this necessarily the case?",
+"kind": "speech"
+},
+{
+"entry": 213,
+"who": "Hippias",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 214,
+"who": "Socrates",
+"text": "Didn’t this more powerful and wiser soul prove to be better and to have more power to do both what is good and what is shameful in any sort of activity?",
+"kind": "speech"
+},
+{
+"entry": 215,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 216,
+"who": "Socrates",
+"text": "So, whenever it performs disgraceful actions, it does so intentionally by means of power and skill, either of these, or both, apparently being attributes of justice.",
+"kind": "speech"
+},
+{
+"entry": 217,
+"who": "Hippias",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 218,
+"who": "Socrates",
+"text": "And to act unjustly is to do bad, while not to do injustice is to do good.",
+"kind": "speech"
+},
+{
+"entry": 219,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 220,
+"who": "Socrates",
+"text": "In that case, won’t the more powerful and better soul do injustice intentionally whenever it does so, while the base soul does so unintentionally?",
+"kind": "speech"
+},
+{
+"entry": 221,
+"who": "Hippias",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 222,
+"who": "Socrates",
+"text": "Is not the good man the one who has the good soul while the bad man has a bad one?",
+"kind": "speech"
+},
+{
+"entry": 223,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 224,
+"who": "Socrates",
+"text": "So it belongs to a good man to do injustice intentionally and to a bad man to do so unintentionally, if indeed the good man has a good soul.",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Hippias",
+"text": "Which he surely has.",
+"kind": "speech"
+},
+{
+"entry": 226,
+"who": "Socrates",
+"text": "So, if there is anyone who intentionally goes wrong and does what is disgraceful and unjust, that person, Hippias, is none other than the good person.",
+"kind": "speech"
+},
+{
+"entry": 227,
+"who": "Hippias",
+"text": "Socrates, on this I am unable to agree with you.",
+"kind": "speech"
+},
+{
+"entry": 228,
+"who": "Socrates",
+"text": "Nor can I agree with myself, Hippias. But now at least, this is how it necessarily appears to us from the argument. However, as I said earlier, I myself wander up and down and never hold the same opinions on these issues. And although it is no surprise if I or any ordinary fellow wanders, if you wise men are going to wander too, this will prove quite daunting for us, since even after we arrive in your company we shall not cease our wandering.",
+"kind": "speech"
+}
+]
+}
+]
+}

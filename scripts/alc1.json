@@ -1,0 +1,5381 @@
+{
+"key": "alc1",
+"title": "Alcibiades I",
+"parts": [
+{
+"name": "Alcibiades I",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "Son of Clinias, I think you are amazed that, being your first lover, I alone have not departed now that the others have gone, and although the others conversed with you in droves, I, in contrast, have not addressed you for so many years. The cause of this was nothing human. No, it was a spiritual opposition, and later you will learn about its power. But now, since it is no longer opposing me, I have come to you in this way and I have good hopes that it will not oppose me again in future. In the meantime, I have, in a sense, been observing you and noticing how you related to those lovers, for despite being numerous and high-minded there is not one of them who has not fled, outdone by your superiority. But I wish to explain the reason for your exalted notions. You claim not to need a single other person for any purpose, for you have great qualities so that you lack nothing, beginning with the body and ending with the soul. Of course you believe, firstly, that you are supreme in beauty and greatness and it is plain for all to see that you are not lying. What is more, you belong to the most powerful family in your own city which is the greatest in Greece, and within that city you have, through your father, numerous excellent friends and kindred who would serve your every need; and those on your mother’s side are in no way inferior or less numerous. But you think you possess a greater power than all of those I have mentioned, in the person of Pericles, the son of Xanthippus, whom your father left as guardian of yourself and your brother, a man who may act as he pleases, not only in this city, but throughout all Greece and among the many great tribes of non-Greeks. I shall also mention your wealth, but it seems to me that you are much less proud of that. On account of all these factors you are boastful, and you have prevailed over your lovers while they, in their inferiority, have been dominated. None of this has escaped your notice. And so I know quite well that you are wondering what exactly I have in mind when I do not give up the love, and what sort of hope I am retaining when I remain after the others have gone.",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Alcibiades",
+"text": "But Socrates, you probably do not know that you are just a little ahead of me. For I already intended going to you to ask you these very questions: what exactly do you want and what hope do you entertain in pestering me, always anxious to be present wherever I might be? Yes, I really do wonder what precisely your objective is and I would like you to tell me.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "Then it is likely that you will listen to me eagerly since, as you say, you wish to know what I have in mind. And I presume I am speaking to someone who will stay and listen.",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Alcibiades",
+"text": "Yes, certainly, just speak.",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "Be careful though, for it would be no surprise if I were to prove just as reluctant to stop speaking as I was to start.",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Alcibiades",
+"text": "Excellent man, speak. I shall listen!",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "I must speak, then. Now, although it is difficult for a lover to approach a man who does not give way to lovers, I must nevertheless dare to speak my mind. Indeed Alcibiades, if I had seen you being delighted with what I have been describing just now and believing that you must live your life in their possession, I would have given up the love long ago, or so I convince myself anyway. But now I shall point out to you different notions of yours, and from this you will realise that you have been constantly on my mind. For I believe that if some god were to say, “Alcibiades, would you prefer to live on, possessing what you now possess, or die on the spot if you were going to be unable to acquire more?” I think you would choose to die. And I shall tell you the very hope for which you are now living. You think that if you appear before the Athenian people, something which will happen in just a few days, you will stand before them and prove to the Athenians that you are worthy of more honour than Pericles, or anyone who has ever been born, and once you prove this you will be supremely powerful in the city, and if you are the greatest man here you will be greatest among the Greeks, and not only among the Greeks, but among the non-Greeks who live on the same continent as us. And if this same god were to go on and say that you must exercise power in Europe, but will not be allowed to go across into Asia or interfere in the affairs of her people, I do not think you would wish to live under those strictures either, if you could not also, in some sense, fill the whole world with your name and your power. And I think that apart from Cyrus and Xerxes, you believe that no one worthy of note has been born. Now, I know very well that this is the hope you entertain. I am not guessing. Therefore, since you realise that I am speaking the truth, perhaps you might say, “Well now, Socrates, what has this to do with the explanation you promised as to why you will not leave me?” So I shall tell you, dear son of Clinias and Deinomache, for without me it is impossible to bring all these plans of yours to completion, such power do I believe I have over you and your affairs. Yes, I think that is why the god would not allow me to converse with you in the past, and I have been waiting for the moment when I would be allowed. Indeed, you have hopes in the city of proving that you are more valuable to it than anyone, and of exercising immediate power over everything. So do I hope to exercise great power over you in just the same way, by proving that I am more valuable to you than anyone, and that neither guardian, nor kinsman, nor anyone else is up to the task of granting you the power you desire except me, with the help of the god, of course. Now, when you were younger, before you were full of such aspirations, I think the god allowed no conversation in case I might have discoursed in vain. But he has now relented, for you may listen to me at this stage.",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Alcibiades",
+"text": "Socrates, you seem even stranger to me now since you began to speak, than when you were following me in silence, although you were a strange sight even then. Now, it seems you have made up your mind about whether I have these intentions or not, and if I deny it, that will not do much to dissuade you. So be it, but if I really do have these intentions, how shall I attain them through you, and why will they not happen without you? Can you tell me?",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "So are you asking if I can deliver a long speech, the kind you are obviously accustomed to hearing? But that is not my way. However, I shall, I believe, be able to prove to you that this is how matters stand if you are willing to perform only one small service for me.",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Alcibiades",
+"text": "Well, yes, I am willing, if the service you refer to is not a difficult one.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "Does it seem difficult to answer questions?",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Alcibiades",
+"text": "No, it does not seem difficult.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "So answer then.",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Alcibiades",
+"text": "Just ask.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "Should I ask questions on the basis that you do have the intentions I say you have?",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Alcibiades",
+"text": "Proceed on that basis if you wish, so that I may know what else you will say.",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "Very well. Now, you intend, quite soon, to appear before the Athenians as an adviser. So if I were to take hold of you when you were about to ascend the platform and ask, “Alcibiades, what do the Athenians intend to deliberate about that you are standing up as an adviser? Is it about issues which you know better than they do?” What response would you make?",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Alcibiades",
+"text": "I would say that, of course. It is about issues I know better than they do.",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "So you are a good adviser about issues you happen to know.",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Alcibiades",
+"text": "How could I not be?",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "Don’t you only know what you have learned from others or discovered yourself?",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Alcibiades",
+"text": "What else could I know?",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "Now, is there any way that you would ever have learned or discovered anything without wanting to learn it or investigate it yourself?",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Alcibiades",
+"text": "There is not.",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "What about this? Did you ever want to investigate or learn anything you thought you knew?",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Alcibiades",
+"text": "Certainly not.",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "So was there a time when you did not think you knew whatever you now happen to know?",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Alcibiades",
+"text": "There must have been.",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "Well then, I know fairly well what it is that you have learned. If I omit anything you should tell me. Indeed, as I recall, you learned writing, lyre-playing and wrestling. And you certainly had no desire to learn to play the flute. These are the subjects you know, unless you have somehow been learning something without my noticing.",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Alcibiades",
+"text": "No. I have not attended any classes other than those.",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "Well, will you stand forth as adviser to the Athenians when they are deliberating about writing and how they may write properly?",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Alcibiades",
+"text": "By Zeus, I shall not.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "Or when they deliberate about sounds on the lyre?",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Alcibiades",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "Nor indeed are they in the habit of deliberating on wrestling in the assembly.",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Alcibiades",
+"text": "No indeed.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "So what will they be deliberating about when you advise them, presumably not about house-building?",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Alcibiades",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "Because on these matters anyway, a housebuilder will give better advice than you.",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "Nor indeed when they are deliberating about a prophecy.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "For in those situations a soothsayer will advise better than you.",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Socrates",
+"text": "Whether he is short or tall, beautiful or ugly, noble or base.",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Alcibiades",
+"text": "That makes no difference.",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "For counsel, I presume, belongs to the one who knows about the issue and not to the one who is wealthy.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Alcibiades",
+"text": "How could it be otherwise?",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "Then it makes no difference to the Athenians whether the adviser is poor or rich when they are deliberating on how the people of the city may enjoy health. No, they seek out a doctor to be the adviser.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Alcibiades",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Socrates",
+"text": "Now, what subject would they be considering when you would be justified in coming forward as their adviser?",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Alcibiades",
+"text": "Whenever they are considering their own affairs, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Socrates",
+"text": "Do you mean issues related to shipbuilding and what sort of ships they should get built?",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Alcibiades",
+"text": "No, Socrates, I do not.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "And I think that is because you do not know how to build ships. Is this the reason or is there another?",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Alcibiades",
+"text": "No, that is the reason.",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "Then what aspect of their own affairs do you say they would be considering at the time?",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Alcibiades",
+"text": "When they are considering war, Socrates, or peace, or some other aspect of civic affairs.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "Do you mean when they are considering with whom they should make peace, and against whom they should wage war, and in what manner?",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "And shouldn’t they attack whomever it is better to attack?",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "And at the time when it is better to do so?",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Alcibiades",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "And for as long a time as is better?",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "Now, if the Athenians were deciding with whom they should wrestle or spar, and in what manner, would you give better advice or would the trainer?",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Alcibiades",
+"text": "The trainer, of course.",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "Now, can you say what the trainer looks to when he is advising with whom they should wrestle or not, and when they should do so, and in what manner? What I am asking is this. Ought a person wrestle with those with whom it is better to wrestle, or not?",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "And to the extent that is better?",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Alcibiades",
+"text": "To that extent.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "And also at the time when it is better?",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Alcibiades",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "What is more, when singing, one must on occasion play the lyre, or dance in accompaniment to the song.",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Alcibiades",
+"text": "One must indeed.",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "At the time when it is better to do so?",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "And to the extent that is better?",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Alcibiades",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "What about this? Since, in fact, you applied the term ‘better’ both to the lyre-playing in accompaniment to a song, and also to wrestling, what do you refer to as better in lyreplaying, just as I refer to what is better in wrestling, as gymnastical? What do you call it in lyre-playing?",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Alcibiades",
+"text": "I do not understand.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "Then try to copy me. For in a way, the answer I gave is correct in general, and presumably, whatever happens in accord with a skill is correct. Is that so?",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "And wasn’t the skill gymnastics?",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "And I said that in wrestling the better is the gymnastical.",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Alcibiades",
+"text": "Yes, you said that.",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "Was I not right in saying so?",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Alcibiades",
+"text": "Well, I think so anyway.",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Socrates",
+"text": "Then you should do this too, for right discourse is somehow particularly appropriate for you. Tell me first what skill includes lyre-playing, singing and dancing correctly? What is the collective skill called? Are you not yet able to say?",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Alcibiades",
+"text": "Certainly not.",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Socrates",
+"text": "Then try this. To which goddesses does the skill belong?",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Alcibiades",
+"text": "Do you mean the Muses, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Socrates",
+"text": "I do indeed. Now, think. What skill derives its name from them?",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Alcibiades",
+"text": "I think you mean music.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "Yes, that is what I mean. Now, what is the correct manner of proceeding based upon this skill? Just as in the previous example I told you the correct manner of proceeding based upon the skill of gymnastics, now I am asking you what you say in this case. How does the activity proceed?",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Alcibiades",
+"text": "Musically, I suppose.",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Socrates",
+"text": "Well said. So come on, what do you call the better in the case of making war and in bringing peace? Just as in the previous example, you said that in one case the better was the more musical, and in the other case it was the more gymnastical, try also to say what is better in this example of war and peace.",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Alcibiades",
+"text": "But I am not really able to say.",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Socrates",
+"text": "And yet, it would be somewhat shameful if someone you were advising about food, saying one is better than the other at this time and to this extent, were to ask, “Well now, Alcibiades, what do you mean by ‘better’?” And although you do not profess to be a doctor you were able to reply, on these matters, that you mean healthier. And yet, by contrast, in matters where you do profess to be knowledgeable and will come forward to give advice as though you had knowledge, wouldn’t you be ashamed if, as is likely, you were unable to respond when questioned about them? Or does this not appear shameful?",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Alcibiades",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "Well, consider it and try to say, in the case of bringing peace and making war with the appropriate parties, what ‘better’ do they aim for?",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Alcibiades",
+"text": "Well, I am considering it but I am unable to think of an answer.",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Socrates",
+"text": "Do you not even know, in cases where we wage war, what accusations we make against one another as we go to war, and what we call this as we proceed?",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Alcibiades",
+"text": "Well, I do know that we claim to have been deceived or suffered violence or deprivation.",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Socrates",
+"text": "That will do. In what way do we suffer each of these? Try to state the difference between this treatment and some other.",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Alcibiades",
+"text": "Socrates, are you referring to whether it is done justly or unjustly?",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Socrates",
+"text": "The very thing.",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Alcibiades",
+"text": "Well then, they are completely and entirely different.",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Socrates",
+"text": "In that case, whom will you advise the Athenians to wage war against, against those who are acting unjustly or those who are behaving justly?",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Alcibiades",
+"text": "You are asking a challenging question, Socrates, for even if someone did decide that he ought to wage war against those who are behaving justly, he would not admit this.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "Because this apparently is not lawful.",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Alcibiades",
+"text": "Certainly not, nor does it seem to be noble.",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Socrates",
+"text": "So will you also make speeches dealing with these issues?",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Alcibiades",
+"text": "I must.",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Socrates",
+"text": "With regard to waging war or not, those we should fight against and those we should not, when we should do so and when we should not, does ‘the better’ I was asking about turn out to be nothing but the more just? Or is this not so?",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Alcibiades",
+"text": "It appears so anyway.",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Socrates",
+"text": "How can this be, dear Alcibiades? Have you forgotten that you yourself do not know this, or have you been learning without my noticing it and going to a teacher who taught you to distinguish the more just and the more unjust? Well, who is he? Tell me too, so that you may recommend me to him as a pupil.",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Alcibiades",
+"text": "You are mocking me, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Socrates",
+"text": "No I swear this by our common friendship, and I would never break that oath. So if you can do so, tell me who he is.",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Alcibiades",
+"text": "But what if I can’t? Don’t you think I could know about the just and unjust in some other way?",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Socrates",
+"text": "Yes, if you were to discover it.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Alcibiades",
+"text": "But don’t you think I could have discovered it?",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Socrates",
+"text": "Yes, indeed, if you were to search for it.",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Alcibiades",
+"text": "Oh! Do you not think I would have searched?",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Socrates",
+"text": "I do indeed, if you thought you did not know.",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Alcibiades",
+"text": "Well, was I not in that situation at some time?",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Socrates",
+"text": "That is well expressed. So are you able to say when it was that you did not know the just and the unjust? Come on, a year ago were you searching for them and did you think you did not know them? Or did you think you knew them then? And let your answer be the truth so that our discussions may not be conducted in vain.",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Alcibiades",
+"text": "Well, I thought that I knew.",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Socrates",
+"text": "And three, four or five years ago, was the situation not the same?",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Alcibiades",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Socrates",
+"text": "And before that you were a child, is that so?",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Socrates",
+"text": "And yet, I know very well that you thought you knew then.",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Alcibiades",
+"text": "How do you know so well?",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Socrates",
+"text": "As a child, either with your teachers or elsewhere and when you were playing dice or some other game, you did not act as if you were in doubt about the just and the unjust. No, I often heard you proclaiming loudly and boldly about one of the children that he was bad and unfair and that he was cheating. Or am I not speaking the truth?",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Alcibiades",
+"text": "But what else was I to do, Socrates, when someone was cheating me?",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Socrates",
+"text": "But if you were unaware at the time whether you were being cheated or not, would you ask what you ought to do?",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Alcibiades",
+"text": "But by Zeus, I was not unaware. No, I was fully aware that I was being treated unjustly.",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Socrates",
+"text": "So apparently you thought you knew the just and the unjust even as a child.",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Alcibiades",
+"text": "I thought I knew and I did actually know.",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Socrates",
+"text": "Well, when exactly was it that you found this out? For obviously it was not during the time that you thought you knew, anyway.",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Alcibiades",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Socrates",
+"text": "Well, when was it that you thought you did not know? In fact, you will not discover when this was.",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Alcibiades",
+"text": "Yes, by Zeus, Socrates, I really cannot say.",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Socrates",
+"text": "So you do not know them through discovering them for yourself.",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Alcibiades",
+"text": "It certainly appears that way.",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Socrates",
+"text": "And, indeed, you said earlier that you do not know from having learned either. Now, if you neither discovered this nor learned it, how do you know it and from what source?",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Alcibiades",
+"text": "But perhaps I did not give you the right answer when I said that I know because I discovered them for myself.",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Socrates",
+"text": "Then how did it happen?",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Alcibiades",
+"text": "I think that I learned in the same way that everyone else learns.",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Socrates",
+"text": "We have returned again to the same question. From whom? Please tell me.",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Alcibiades",
+"text": "From the multitude.",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Socrates",
+"text": "You are not resorting to serious teachers when you have recourse to the multitude.",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Alcibiades",
+"text": "But why? Are they not up to the task of teaching?",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Socrates",
+"text": "Not even about how to play draughts and how not to! And yet, I believe these matters are more trivial than justice. What about you? Do you think so too?",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Socrates",
+"text": "Well, if they are unable to teach more trivial matters, could they teach more serious matters?",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Alcibiades",
+"text": "Well, I think so. At any rate, they can teach numerous subjects more serious than draughts-playing.",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Socrates",
+"text": "What are they?",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Alcibiades",
+"text": "For instance, I also learned to speak Greek from them and I would not be able to say who my own teacher was. Instead, I attribute this to the very people who you say are not serious teachers.",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Socrates",
+"text": "Yes, noble friend, the multitude are good teachers of this subject and they may rightly be praised for their instruction in these matters.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Alcibiades",
+"text": "Why is that?",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Socrates",
+"text": "Because in these matters they possess what good teachers ought to possess.",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Alcibiades",
+"text": "What are you referring to?",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Socrates",
+"text": "Do you not appreciate that those who are going to teach anything at all must first know it themselves? Is this not so?",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Alcibiades",
+"text": "How could it be otherwise?",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Socrates",
+"text": "Shouldn’t those who know agree with one another and not differ?",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Socrates",
+"text": "Would you say they have knowledge of subjects on which they disagree?",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Alcibiades",
+"text": "Certainly not.",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Socrates",
+"text": "So how could they be teachers of these subjects?",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Alcibiades",
+"text": "In no way whatsoever.",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Socrates",
+"text": "Well now, do you think the multitude would differ about what wood and stone are like? And if you ask anyone, will they not agree on the same answer and reach for the same things when they wish to get wood or stone? And the same applies to everything else of that sort. Indeed, in general, that is what I understand you to mean by knowing how to speak Greek. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Socrates",
+"text": "Now, as we were saying, they agree with one another and with themselves individually on these issues, and the cities do not dispute with one another publicly, some saying one thing, others saying something else.",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Alcibiades",
+"text": "They do not.",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Socrates",
+"text": "So it is likely they would be good teachers of these matters anyway.",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Socrates",
+"text": "In that case, if we wanted to make someone knowledgeable about them, wouldn’t we be right to send him for instruction by the ‘multitude’?",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Alcibiades",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Socrates",
+"text": "What if we wanted to know, not only what men are like and what horses are like, but also which of them are good at running and which are not, would the multitude still be competent to teach this?",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Alcibiades",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Socrates",
+"text": "And you have sufficient evidence that they do not know and are not real teachers of these matters from the fact that they do not agree with themselves about them at all.",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Alcibiades",
+"text": "I do indeed.",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Socrates",
+"text": "What if we wanted to know, not only what men are like but also what healthy men or sick men are like, would the multitude be acceptable to us as teachers?",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Alcibiades",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Socrates",
+"text": "And you would have evidence that they are poor teachers of these matters if you had seen them disagreeing.",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Alcibiades",
+"text": "I would.",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Socrates",
+"text": "Well, what about this? Does it seem to you nowadays that the multitude agree with themselves and one another about just and unjust men and actions?",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Alcibiades",
+"text": "By Zeus, Socrates, not in the least.",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Socrates",
+"text": "Do they, in fact, differ most about these matters?",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Alcibiades",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Socrates",
+"text": "Now, I am sure you have never seen or heard people disputing intensely in this way about health or its absence, so that they fought and killed one another because of it.",
+"kind": "speech"
+},
+{
+"entry": 194,
+"who": "Alcibiades",
+"text": "Certainly not.",
+"kind": "speech"
+},
+{
+"entry": 195,
+"who": "Socrates",
+"text": "But when the issue is the just and the unjust, I know that even if you have not seen this, at least you have heard of it from many others, and from Homer, for you have heard the Iliad and the Odyssey.",
+"kind": "speech"
+},
+{
+"entry": 196,
+"who": "Alcibiades",
+"text": "Yes of course, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 197,
+"who": "Socrates",
+"text": "Aren’t those poems about a dispute over the just and unjust?",
+"kind": "speech"
+},
+{
+"entry": 198,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 199,
+"who": "Socrates",
+"text": "And the conflicts and the slayings took place because of this dispute between both Achaians and Trojans alike, and Odysseus and the suitors of Penelope too.",
+"kind": "speech"
+},
+{
+"entry": 200,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 201,
+"who": "Socrates",
+"text": "And I also think that a dispute about no other issue than the just and unjust gave rise to the slayings and conflicts of those Athenians, Spartans and Boeotians who died at Tanagra and later at Coronea, among whom your own father met his end. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 202,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 203,
+"who": "Socrates",
+"text": "Now, should we say that these people have knowledge of matters on which they disagree so intensely that they dispute with one another and inflict these misfortunes on themselves?",
+"kind": "speech"
+},
+{
+"entry": 204,
+"who": "Alcibiades",
+"text": "Apparently not.",
+"kind": "speech"
+},
+{
+"entry": 205,
+"who": "Socrates",
+"text": "In that case, are you having recourse to teachers whom you agree are not knowledgeable?",
+"kind": "speech"
+},
+{
+"entry": 206,
+"who": "Alcibiades",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 207,
+"who": "Socrates",
+"text": "Then how are you likely to know the just and the unjust, a matter on which you are in such confusion and, as it turns out, have neither learned from someone else nor discovered for yourself?",
+"kind": "speech"
+},
+{
+"entry": 208,
+"who": "Alcibiades",
+"text": "Well, from what you are saying I am not likely to.",
+"kind": "speech"
+},
+{
+"entry": 209,
+"who": "Socrates",
+"text": "Do you also realise that you are not expressing this in the right way, Alcibiades?",
+"kind": "speech"
+},
+{
+"entry": 210,
+"who": "Alcibiades",
+"text": "In what sense?",
+"kind": "speech"
+},
+{
+"entry": 211,
+"who": "Socrates",
+"text": "You are claiming that I said these things.",
+"kind": "speech"
+},
+{
+"entry": 212,
+"who": "Alcibiades",
+"text": "But are you not saying that I know nothing about the just and the unjust?",
+"kind": "speech"
+},
+{
+"entry": 213,
+"who": "Socrates",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 214,
+"who": "Alcibiades",
+"text": "Was it me?",
+"kind": "speech"
+},
+{
+"entry": 215,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 216,
+"who": "Alcibiades",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 217,
+"who": "Socrates",
+"text": "You may know this in the following way. If I were to ask you which is greater, one or two, would you say two?",
+"kind": "speech"
+},
+{
+"entry": 218,
+"who": "Alcibiades",
+"text": "I would.",
+"kind": "speech"
+},
+{
+"entry": 219,
+"who": "Socrates",
+"text": "By how much is it greater?",
+"kind": "speech"
+},
+{
+"entry": 220,
+"who": "Alcibiades",
+"text": "By one.",
+"kind": "speech"
+},
+{
+"entry": 221,
+"who": "Socrates",
+"text": "Now, which of us is saying that two is greater than one, by one?",
+"kind": "speech"
+},
+{
+"entry": 222,
+"who": "Alcibiades",
+"text": "I am.",
+"kind": "speech"
+},
+{
+"entry": 223,
+"who": "Socrates",
+"text": "Did I not ask you and did you not answer?",
+"kind": "speech"
+},
+{
+"entry": 224,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Socrates",
+"text": "Well then, is it I, the questioner, who turns out to be speaking about these matters or is it you, the answerer?",
+"kind": "speech"
+},
+{
+"entry": 226,
+"who": "Alcibiades",
+"text": "It is I.",
+"kind": "speech"
+},
+{
+"entry": 227,
+"who": "Socrates",
+"text": "What if I were to ask what letters spell ‘Socrates’ and you were to tell me, which of us would be the speaker?",
+"kind": "speech"
+},
+{
+"entry": 228,
+"who": "Alcibiades",
+"text": "I would.",
+"kind": "speech"
+},
+{
+"entry": 229,
+"who": "Socrates",
+"text": "So come on, to sum up, whenever there is questioning and answering, who is the speaker: the questioner or the answerer?",
+"kind": "speech"
+},
+{
+"entry": 230,
+"who": "Alcibiades",
+"text": "It seems to me, anyway, that it is the answerer, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 231,
+"who": "Socrates",
+"text": "Now, haven’t I been the questioner throughout?",
+"kind": "speech"
+},
+{
+"entry": 232,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 233,
+"who": "Socrates",
+"text": "And you were the answerer?",
+"kind": "speech"
+},
+{
+"entry": 234,
+"who": "Alcibiades",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 235,
+"who": "Socrates",
+"text": "Well then, which of us said whatever was said?",
+"kind": "speech"
+},
+{
+"entry": 236,
+"who": "Alcibiades",
+"text": "Apparently, Socrates, based on what has been agreed, I said it.",
+"kind": "speech"
+},
+{
+"entry": 237,
+"who": "Socrates",
+"text": "Was it not said that Alcibiades the fair, the son of Clinias, did not know about the just and the unjust but thought that he did, and was about to go to the Assembly and advise the Athenians on matters he knows nothing about? Is this not the case?",
+"kind": "speech"
+},
+{
+"entry": 238,
+"who": "Alcibiades",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 239,
+"who": "Socrates",
+"text": "So the phrase from Euripides is applicable, Alcibiades. You have quite likely ‘heard this from yourself and not from me’, and I am not the person making these statements. No, it is you, and you are blaming me without reason. Yet what you are saying is actually to the point. Indeed, you are planning to embark on a mad undertaking, my friend, teaching what you do not know and have not bothered to learn.",
+"kind": "speech"
+},
+{
+"entry": 240,
+"who": "Alcibiades",
+"text": "Yet, Socrates, I believe that the Athenians and the other Greeks seldom deliberate upon whether something is more just or more unjust for they regard such questions as obvious. So they ignore this and consider whether the policies will have beneficial outcomes. In fact, I do not believe that the just and the beneficial are the same. No, many people have profited by performing great injustices, and others have, I believe, performed just actions and not benefited.",
+"kind": "speech"
+},
+{
+"entry": 241,
+"who": "Socrates",
+"text": "Well then, if the just is one thing and the beneficial happens to be something completely different, surely you do not believe that you also know what is beneficial to humanity and why it is so?",
+"kind": "speech"
+},
+{
+"entry": 242,
+"who": "Alcibiades",
+"text": "What is to prevent me believing that, Socrates, unless you are going to go on and ask from whom I learned it or how I discovered it myself?",
+"kind": "speech"
+},
+{
+"entry": 243,
+"who": "Socrates",
+"text": "What a way to behave! If you say something incorrect and it happens to be capable of refutation by the very argument used before, you decide you need to hear some new and different refutations because the previous ones are like worn out garments which you would never wear. Instead, someone must provide you with a fresh and pristine proof. So I shall pay no attention to your attacks upon the argument and I shall ask you nonetheless. Where did you learn whatever you know about what is beneficial and who is your teacher? And I shall ask all those previous questions in a single question, otherwise you will obviously be in the same predicament and be unable to show that you know the beneficial either through discovering it or through learning it. But since you are being fastidious and would not be pleased to taste the same argument once more, I shall bid farewell to the question of whether or not you know what is beneficial for the Athenians. Instead, why don’t you explain whether the just and the beneficial are the same or different? If you prefer, you could question me just as I questioned you, or alternatively, just go through the argument by yourself.",
+"kind": "speech"
+},
+{
+"entry": 244,
+"who": "Alcibiades",
+"text": "Well, Socrates, I do not know if I would be able to set out an argument for you.",
+"kind": "speech"
+},
+{
+"entry": 245,
+"who": "Socrates",
+"text": "Then good fellow, regard me as the Assembly and the populace, for even in the Assembly you will need to convince each one. Is that so?",
+"kind": "speech"
+},
+{
+"entry": 246,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 247,
+"who": "Socrates",
+"text": "Isn’t the same speaker able to convince one person, both individually and in gatherings, about whatever he knows, just as a schoolteacher, for instance, convinces one pupil about writing and also many pupils?",
+"kind": "speech"
+},
+{
+"entry": 248,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 249,
+"who": "Socrates",
+"text": "And in the case of arithmetic, won’t the same person convince both one and many?",
+"kind": "speech"
+},
+{
+"entry": 250,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 251,
+"who": "Socrates",
+"text": "And will that be the person who knows, namely the arithmetician?",
+"kind": "speech"
+},
+{
+"entry": 252,
+"who": "Alcibiades",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 253,
+"who": "Socrates",
+"text": "And is it not also the case that on the very issues on which you can convince many people, you can also convince one person?",
+"kind": "speech"
+},
+{
+"entry": 254,
+"who": "Alcibiades",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 255,
+"who": "Socrates",
+"text": "And obviously these are issues that you know.",
+"kind": "speech"
+},
+{
+"entry": 256,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 257,
+"who": "Socrates",
+"text": "Then someone in a gathering like this differs from a public speaker only insofar as one persuades groups about the same things, while the other does it individually.",
+"kind": "speech"
+},
+{
+"entry": 258,
+"who": "Alcibiades",
+"text": "Probably.",
+"kind": "speech"
+},
+{
+"entry": 259,
+"who": "Socrates",
+"text": "Well then, since it turns out that the same speaker convinces both many and one, practise on me and attempt to prove that the just is sometimes not beneficial.",
+"kind": "speech"
+},
+{
+"entry": 260,
+"who": "Alcibiades",
+"text": "You are overbearing, Socrates!",
+"kind": "speech"
+},
+{
+"entry": 261,
+"who": "Socrates",
+"text": "Then perhaps overbearingly, I am going to convince you of the opposite of what you do not want to prove to me.",
+"kind": "speech"
+},
+{
+"entry": 262,
+"who": "Alcibiades",
+"text": "Please proceed.",
+"kind": "speech"
+},
+{
+"entry": 263,
+"who": "Socrates",
+"text": "You need only answer the questions.",
+"kind": "speech"
+},
+{
+"entry": 264,
+"who": "Alcibiades",
+"text": "No, you yourself should be the speaker.",
+"kind": "speech"
+},
+{
+"entry": 265,
+"who": "Socrates",
+"text": "What is this! Don’t you want to be completely convinced?",
+"kind": "speech"
+},
+{
+"entry": 266,
+"who": "Alcibiades",
+"text": "Entirely so, of course.",
+"kind": "speech"
+},
+{
+"entry": 267,
+"who": "Socrates",
+"text": "Well, if you yourself say that these things are so, won’t you be completely convinced?",
+"kind": "speech"
+},
+{
+"entry": 268,
+"who": "Alcibiades",
+"text": "I think so anyway.",
+"kind": "speech"
+},
+{
+"entry": 269,
+"who": "Socrates",
+"text": "Then please answer, and if you yourself do not hear from yourself that whatever is just is also beneficial, you should not believe it from any other speaker either.",
+"kind": "speech"
+},
+{
+"entry": 270,
+"who": "Alcibiades",
+"text": "No indeed, but I must answer, and, in fact, I do not think I can come to any harm.",
+"kind": "speech"
+},
+{
+"entry": 271,
+"who": "Socrates",
+"text": "How prophetic you are! Now, tell me, are you saying that some just actions are beneficial while others are not?",
+"kind": "speech"
+},
+{
+"entry": 272,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 273,
+"who": "Socrates",
+"text": "And are some of them noble while others are not?",
+"kind": "speech"
+},
+{
+"entry": 274,
+"who": "Alcibiades",
+"text": "What are you asking me?",
+"kind": "speech"
+},
+{
+"entry": 275,
+"who": "Socrates",
+"text": "I am asking if you ever thought that someone acted ignobly and yet justly?",
+"kind": "speech"
+},
+{
+"entry": 276,
+"who": "Alcibiades",
+"text": "No, I did not.",
+"kind": "speech"
+},
+{
+"entry": 277,
+"who": "Socrates",
+"text": "Then all that is just is also noble?",
+"kind": "speech"
+},
+{
+"entry": 278,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 279,
+"who": "Socrates",
+"text": "But what about noble actions? Are they all good or are some good while others are not?",
+"kind": "speech"
+},
+{
+"entry": 280,
+"who": "Alcibiades",
+"text": "Well, Socrates, I think that some noble actions are bad.",
+"kind": "speech"
+},
+{
+"entry": 281,
+"who": "Socrates",
+"text": "And some that are ignoble are also good?",
+"kind": "speech"
+},
+{
+"entry": 282,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 283,
+"who": "Socrates",
+"text": "Do you mean something like this? In war, for instance, many people have come to the rescue of a companion or kinsman and have sustained injuries or been killed, while those who did not come to the rescue, but should have, came away safe and sound.",
+"kind": "speech"
+},
+{
+"entry": 284,
+"who": "Alcibiades",
+"text": "Yes, entirely so.",
+"kind": "speech"
+},
+{
+"entry": 285,
+"who": "Socrates",
+"text": "Do you call such a rescue noble on account of the attempt to save those whom one should save, and is this, in turn, courage? Is that it?",
+"kind": "speech"
+},
+{
+"entry": 286,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 287,
+"who": "Socrates",
+"text": "Then the rescue is bad on account of the deaths and the injuries, is it?",
+"kind": "speech"
+},
+{
+"entry": 288,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 289,
+"who": "Socrates",
+"text": "Now, is not courage one thing and death another?",
+"kind": "speech"
+},
+{
+"entry": 290,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 291,
+"who": "Socrates",
+"text": "So the rescue of friends is not noble and bad on account of the same thing at any rate.",
+"kind": "speech"
+},
+{
+"entry": 292,
+"who": "Alcibiades",
+"text": "Apparently not.",
+"kind": "speech"
+},
+{
+"entry": 293,
+"who": "Socrates",
+"text": "Then consider whether in these particular examples it is also good, at least to the extent that it is noble. We agree that the rescue is noble on account of the courage. Now, consider this courage itself, is it good or bad? Think about it as follows: which would you rather have, what is good or what is bad?",
+"kind": "speech"
+},
+{
+"entry": 294,
+"who": "Alcibiades",
+"text": "What is good.",
+"kind": "speech"
+},
+{
+"entry": 295,
+"who": "Socrates",
+"text": "Especially the greatest goods?",
+"kind": "speech"
+},
+{
+"entry": 296,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 297,
+"who": "Socrates",
+"text": "And you would be most reluctant to be deprived of such things.",
+"kind": "speech"
+},
+{
+"entry": 298,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 299,
+"who": "Socrates",
+"text": "Now, what do you say about courage? At what price would you accept being deprived of this?",
+"kind": "speech"
+},
+{
+"entry": 300,
+"who": "Alcibiades",
+"text": "I would not even be prepared to go on living if I were a coward.",
+"kind": "speech"
+},
+{
+"entry": 301,
+"who": "Socrates",
+"text": "Then you think cowardice is the worst of evils.",
+"kind": "speech"
+},
+{
+"entry": 302,
+"who": "Alcibiades",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 303,
+"who": "Socrates",
+"text": "Equal to death, so it seems.",
+"kind": "speech"
+},
+{
+"entry": 304,
+"who": "Alcibiades",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 305,
+"who": "Socrates",
+"text": "Now, are not life and courage the direct opposites of death and cowardice?",
+"kind": "speech"
+},
+{
+"entry": 306,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 307,
+"who": "Socrates",
+"text": "And would you most like to have the first two and least like to have the other two?",
+"kind": "speech"
+},
+{
+"entry": 308,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 309,
+"who": "Socrates",
+"text": "Is that because you regard one pair as the best and the other as the worst?",
+"kind": "speech"
+},
+{
+"entry": 310,
+"who": "Alcibiades",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 311,
+"who": "Socrates",
+"text": "Then you count courage among the best and death among the worst.",
+"kind": "speech"
+},
+{
+"entry": 312,
+"who": "Alcibiades",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 313,
+"who": "Socrates",
+"text": "Then you refer to the rescue of friends in battle as noble in so far as it is noble based upon the good outcome, the courageous outcome.",
+"kind": "speech"
+},
+{
+"entry": 314,
+"who": "Alcibiades",
+"text": "Apparently I do.",
+"kind": "speech"
+},
+{
+"entry": 315,
+"who": "Socrates",
+"text": "But on the other hand, based upon the bad outcome, death, you say it is bad.",
+"kind": "speech"
+},
+{
+"entry": 316,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 317,
+"who": "Socrates",
+"text": "Accordingly, it is right to describe each of the outcomes as follows. If, in fact, you call it bad in so far as it gives rise to badness, you must also call it good in so far as it gives rise to goodness.",
+"kind": "speech"
+},
+{
+"entry": 318,
+"who": "Alcibiades",
+"text": "I think so anyway.",
+"kind": "speech"
+},
+{
+"entry": 319,
+"who": "Socrates",
+"text": "In that case, is it noble in so far as it is good and ignoble in so far as it is bad?",
+"kind": "speech"
+},
+{
+"entry": 320,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 321,
+"who": "Socrates",
+"text": "So saying that the rescue of friends in battle is noble and yet bad is not at all different from saying that it is good and yet bad.",
+"kind": "speech"
+},
+{
+"entry": 322,
+"who": "Alcibiades",
+"text": "I think what you say is true, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 323,
+"who": "Socrates",
+"text": "Then nothing that is noble, in so far as it is noble, is bad; nor is anything that is ignoble, in so far as it is ignoble, good.",
+"kind": "speech"
+},
+{
+"entry": 324,
+"who": "Alcibiades",
+"text": "Apparently not.",
+"kind": "speech"
+},
+{
+"entry": 325,
+"who": "Socrates",
+"text": "Then you also need to consider this. Does not anyone who acts nobly also act well?",
+"kind": "speech"
+},
+{
+"entry": 326,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 327,
+"who": "Socrates",
+"text": "And those who act well are happy?",
+"kind": "speech"
+},
+{
+"entry": 328,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 329,
+"who": "Socrates",
+"text": "Are they not happy due to the acquisition of whatever is good?",
+"kind": "speech"
+},
+{
+"entry": 330,
+"who": "Alcibiades",
+"text": "Definitely.",
+"kind": "speech"
+},
+{
+"entry": 331,
+"who": "Socrates",
+"text": "And do they acquire this by acting well and nobly?",
+"kind": "speech"
+},
+{
+"entry": 332,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 333,
+"who": "Socrates",
+"text": "So acting well is good?",
+"kind": "speech"
+},
+{
+"entry": 334,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 335,
+"who": "Socrates",
+"text": "Is not acting well noble?",
+"kind": "speech"
+},
+{
+"entry": 336,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 337,
+"who": "Socrates",
+"text": "So, once again, the same thing appears to us to be both noble and good.",
+"kind": "speech"
+},
+{
+"entry": 338,
+"who": "Alcibiades",
+"text": "It appears so.",
+"kind": "speech"
+},
+{
+"entry": 339,
+"who": "Socrates",
+"text": "So, on the basis of this argument anyway, that which we find to be noble we shall also find to be good.",
+"kind": "speech"
+},
+{
+"entry": 340,
+"who": "Alcibiades",
+"text": "We must.",
+"kind": "speech"
+},
+{
+"entry": 341,
+"who": "Socrates",
+"text": "What about this? Are good things beneficial or not?",
+"kind": "speech"
+},
+{
+"entry": 342,
+"who": "Alcibiades",
+"text": "They are beneficial.",
+"kind": "speech"
+},
+{
+"entry": 343,
+"who": "Socrates",
+"text": "Now, do you recall what we agreed concerning just actions?",
+"kind": "speech"
+},
+{
+"entry": 344,
+"who": "Alcibiades",
+"text": "Well, I think we agreed that those who act justly must also be acting nobly.",
+"kind": "speech"
+},
+{
+"entry": 345,
+"who": "Socrates",
+"text": "And also, that those performing noble actions are also performing good actions?",
+"kind": "speech"
+},
+{
+"entry": 346,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 347,
+"who": "Socrates",
+"text": "And whatever is good is beneficial?",
+"kind": "speech"
+},
+{
+"entry": 348,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 349,
+"who": "Socrates",
+"text": "Then just actions are beneficial, Alcibiades.",
+"kind": "speech"
+},
+{
+"entry": 350,
+"who": "Alcibiades",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 351,
+"who": "Socrates",
+"text": "Well now, have you not been the speaker and I the questioner throughout this?",
+"kind": "speech"
+},
+{
+"entry": 352,
+"who": "Alcibiades",
+"text": "Apparently I am, or so it seems.",
+"kind": "speech"
+},
+{
+"entry": 353,
+"who": "Socrates",
+"text": "Now, if anyone who thinks he knows the just and the unjust stands up to advise the Athenians or Peparethians, but goes on to say that the just is sometimes bad, what could you do but laugh at him, especially since you yourself happen to be asserting that the just and the beneficial are the same?",
+"kind": "speech"
+},
+{
+"entry": 354,
+"who": "Alcibiades",
+"text": "But by the gods, Socrates, I do not even know what I am saying myself. No, I really do not know where I stand. For under your questioning, I think one thing at one moment and a different thing the next.",
+"kind": "speech"
+},
+{
+"entry": 355,
+"who": "Socrates",
+"text": "Are you unaware then, my friend, of what this predicament is?",
+"kind": "speech"
+},
+{
+"entry": 356,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 357,
+"who": "Socrates",
+"text": "Well, if someone were to ask you if you have two eyes or three, two hands or four, or another question of that sort, do you imagine you would answer in one way at one moment and a different way the next, or would it always be the same?",
+"kind": "speech"
+},
+{
+"entry": 358,
+"who": "Alcibiades",
+"text": "Well, I am anxious about myself at the moment. Nevertheless, I think I would give the same answer.",
+"kind": "speech"
+},
+{
+"entry": 359,
+"who": "Socrates",
+"text": "And that is because you know. Is that not the reason?",
+"kind": "speech"
+},
+{
+"entry": 360,
+"who": "Alcibiades",
+"text": "I think so anyway.",
+"kind": "speech"
+},
+{
+"entry": 361,
+"who": "Socrates",
+"text": "So when it comes to issues on which you cannot help giving contradictory answers, it is obvious that you do not know about these.",
+"kind": "speech"
+},
+{
+"entry": 362,
+"who": "Alcibiades",
+"text": "So it seems anyway.",
+"kind": "speech"
+},
+{
+"entry": 363,
+"who": "Socrates",
+"text": "Now, do you not say that you are confused when answering questions concerning the just and the unjust, the noble and the ignoble, the bad and the good, and what is beneficial and what is not? Is it not obvious then that you are confused on these issues because you do not know about them?",
+"kind": "speech"
+},
+{
+"entry": 364,
+"who": "Alcibiades",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 365,
+"who": "Socrates",
+"text": "Well, is it indeed the case that when someone does not know something his soul must be confused about this?",
+"kind": "speech"
+},
+{
+"entry": 366,
+"who": "Alcibiades",
+"text": "Inevitably.",
+"kind": "speech"
+},
+{
+"entry": 367,
+"who": "Socrates",
+"text": "What about this? Do you know any means whereby you could go up into the sky?",
+"kind": "speech"
+},
+{
+"entry": 368,
+"who": "Alcibiades",
+"text": "By Zeus, I do not.",
+"kind": "speech"
+},
+{
+"entry": 369,
+"who": "Socrates",
+"text": "And is your thinking confused about these matters?",
+"kind": "speech"
+},
+{
+"entry": 370,
+"who": "Alcibiades",
+"text": "Certainly not.",
+"kind": "speech"
+},
+{
+"entry": 371,
+"who": "Socrates",
+"text": "And do you know the reason or shall I tell you?",
+"kind": "speech"
+},
+{
+"entry": 372,
+"who": "Alcibiades",
+"text": "Tell me.",
+"kind": "speech"
+},
+{
+"entry": 373,
+"who": "Socrates",
+"text": "Because, my friend, you do not think that you know this when you do not know this.",
+"kind": "speech"
+},
+{
+"entry": 374,
+"who": "Alcibiades",
+"text": "Again, what do you mean?",
+"kind": "speech"
+},
+{
+"entry": 375,
+"who": "Socrates",
+"text": "Let us look at this together. There are things you do not know and realise that you do not know, but are you confused about such matters? For instance, surely you know that you do not know about food preparation?",
+"kind": "speech"
+},
+{
+"entry": 376,
+"who": "Alcibiades",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 377,
+"who": "Socrates",
+"text": "Now, in such matters do you yourself think about how it should be prepared and get confused, or do you hand over to someone who knows?",
+"kind": "speech"
+},
+{
+"entry": 378,
+"who": "Alcibiades",
+"text": "I hand over.",
+"kind": "speech"
+},
+{
+"entry": 379,
+"who": "Socrates",
+"text": "And what if you were in a ship, would you think about whether the tiller should be drawn in or out and get confused since you do not know, or would you stay quiet and hand over to the helmsman?",
+"kind": "speech"
+},
+{
+"entry": 380,
+"who": "Alcibiades",
+"text": "To the helmsman.",
+"kind": "speech"
+},
+{
+"entry": 381,
+"who": "Socrates",
+"text": "So you are not confused over what you do not know provided you know that you do not know.",
+"kind": "speech"
+},
+{
+"entry": 382,
+"who": "Alcibiades",
+"text": "It seems I am not.",
+"kind": "speech"
+},
+{
+"entry": 383,
+"who": "Socrates",
+"text": "Now, do you appreciate that errors in action are also due to this ignorance whereby you think you know when you do not know?",
+"kind": "speech"
+},
+{
+"entry": 384,
+"who": "Alcibiades",
+"text": "Once more, what do you mean by this?",
+"kind": "speech"
+},
+{
+"entry": 385,
+"who": "Socrates",
+"text": "When we undertake an action, presumably we think, at the time, that we know what we are doing?",
+"kind": "speech"
+},
+{
+"entry": 386,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 387,
+"who": "Socrates",
+"text": "Yes, and I suppose that people who think that they do not know entrust the matter to others?",
+"kind": "speech"
+},
+{
+"entry": 388,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 389,
+"who": "Socrates",
+"text": "Now, do not people of this sort live free from error even though they do not know, because they turn to other people in dealing with these matters?",
+"kind": "speech"
+},
+{
+"entry": 390,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 391,
+"who": "Socrates",
+"text": "So who are the people who make the errors? For I presume it is not the people who know.",
+"kind": "speech"
+},
+{
+"entry": 392,
+"who": "Alcibiades",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 393,
+"who": "Socrates",
+"text": "And since it is neither those who know, nor those who do not know and know that they do not know, who else is left except those who do not know but think that they know?",
+"kind": "speech"
+},
+{
+"entry": 394,
+"who": "Alcibiades",
+"text": "No one but these.",
+"kind": "speech"
+},
+{
+"entry": 395,
+"who": "Socrates",
+"text": "So, is the ignorance itself the cause of the evils and is this stupidity a matter of reproach?",
+"kind": "speech"
+},
+{
+"entry": 396,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 397,
+"who": "Socrates",
+"text": "And when it involves the most important matters, is it then productive of the greatest evil and is it most dishonourable?",
+"kind": "speech"
+},
+{
+"entry": 398,
+"who": "Alcibiades",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 399,
+"who": "Socrates",
+"text": "Well then, can you name anything more important than what is just, noble, good and beneficial?",
+"kind": "speech"
+},
+{
+"entry": 400,
+"who": "Alcibiades",
+"text": "Certainly not.",
+"kind": "speech"
+},
+{
+"entry": 401,
+"who": "Socrates",
+"text": "And are you saying that you are confused about these?",
+"kind": "speech"
+},
+{
+"entry": 402,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 403,
+"who": "Socrates",
+"text": "But if you are confused, is it not evident from the previous discussion that not only are you ignorant of the most important matters, but you also think that you know about them when you do not know?",
+"kind": "speech"
+},
+{
+"entry": 404,
+"who": "Alcibiades",
+"text": "There is that danger.",
+"kind": "speech"
+},
+{
+"entry": 405,
+"who": "Socrates",
+"text": "My, oh my, Alcibiades, what a predicament you are in! I am reluctant to name it, and yet since we are alone, it has to be said. Best of men, you are wedded to the most extreme ignorance. The argument convicts you and you convict yourself. Because of this, you rush into politics before you have been educated. And you are not the only one in this plight, so also are most of those who engage in the affairs of this city, save but a few, and perhaps your guardian, Pericles.",
+"kind": "speech"
+},
+{
+"entry": 406,
+"who": "Alcibiades",
+"text": "You know, Socrates, they say he did not become wise by mere chance, but from association with numerous wise men including Pythoclides and Anaxagoras. And now that he is older, he still consorts with Damon for this very purpose.",
+"kind": "speech"
+},
+{
+"entry": 407,
+"who": "Socrates",
+"text": "Well now, have you ever seen anyone who was in any way wise, being incapable of making another person wise in the same things as himself? Just as the man who taught you writing was himself wise and he made you, and anyone else he wanted to, wise – is this so?",
+"kind": "speech"
+},
+{
+"entry": 408,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 409,
+"who": "Socrates",
+"text": "And now that you have learned from him, will you not be able to teach someone else?",
+"kind": "speech"
+},
+{
+"entry": 410,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 411,
+"who": "Socrates",
+"text": "And does the same apply to the lyre player and the trainer?",
+"kind": "speech"
+},
+{
+"entry": 412,
+"who": "Alcibiades",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 413,
+"who": "Socrates",
+"text": "For it surely constitutes good evidence that those who know anything, do actually know it when they are also able to make another person knowledgeable.",
+"kind": "speech"
+},
+{
+"entry": 414,
+"who": "Alcibiades",
+"text": "Yes, I think so.",
+"kind": "speech"
+},
+{
+"entry": 415,
+"who": "Socrates",
+"text": "Well now, can you say of Pericles that he made someone wise? Let us begin with his own sons.",
+"kind": "speech"
+},
+{
+"entry": 416,
+"who": "Alcibiades",
+"text": "But, Socrates, what if both Pericles’ sons were born stupid?",
+"kind": "speech"
+},
+{
+"entry": 417,
+"who": "Socrates",
+"text": "Then what about your brother Clinias?",
+"kind": "speech"
+},
+{
+"entry": 418,
+"who": "Alcibiades",
+"text": "Again why do you mention Clinias when the man is insane?",
+"kind": "speech"
+},
+{
+"entry": 419,
+"who": "Socrates",
+"text": "Well, since Clinias is insane and both Pericles’ sons were born stupid, what blame might we assign in your case? How did he overlook the condition you are in?",
+"kind": "speech"
+},
+{
+"entry": 420,
+"who": "Alcibiades",
+"text": "I think I am to blame for not being interested.",
+"kind": "speech"
+},
+{
+"entry": 421,
+"who": "Socrates",
+"text": "But can you name anyone, citizen or stranger, slave or free man, who is reputed to have become wiser due to his association with Pericles, just as I can name Pythodorus, the son of Isolochus, and Callias, the son of Calliades, each of whom has become both wise and famous through association with Zeno, having paid him one hundred minae?",
+"kind": "speech"
+},
+{
+"entry": 422,
+"who": "Alcibiades",
+"text": "By Zeus, I cannot.",
+"kind": "speech"
+},
+{
+"entry": 423,
+"who": "Socrates",
+"text": "So be it. In that case, what have you in mind for yourself? Do you intend to remain as you are or take some care?",
+"kind": "speech"
+},
+{
+"entry": 424,
+"who": "Alcibiades",
+"text": "Let us take counsel together, Socrates! And yet, I do understand what you are saying and I agree. Indeed, it does seem to me that those who conduct the affairs of this city, with a few exceptions, are uneducated.",
+"kind": "speech"
+},
+{
+"entry": 425,
+"who": "Socrates",
+"text": "What are the consequences of this?",
+"kind": "speech"
+},
+{
+"entry": 426,
+"who": "Alcibiades",
+"text": "Well, if they had been educated, I suppose that anyone trying to compete against them would need to go about it after learning and having practised as though he were competing with athletes. But now, since these people embark upon civic affairs in the character of common folk, what need is there to practise or to take the trouble to learn? In fact, I know very well that by nature I shall be far superior to them.",
+"kind": "speech"
+},
+{
+"entry": 427,
+"who": "Socrates",
+"text": "My, oh my! What a thing to say, best of men, and how unworthy of your character and your other endowments.",
+"kind": "speech"
+},
+{
+"entry": 428,
+"who": "Alcibiades",
+"text": "Why exactly are you saying this, Socrates, and what are you referring to?",
+"kind": "speech"
+},
+{
+"entry": 429,
+"who": "Socrates",
+"text": "I am troubled for you and for my own love.",
+"kind": "speech"
+},
+{
+"entry": 430,
+"who": "Alcibiades",
+"text": "Tell me why.",
+"kind": "speech"
+},
+{
+"entry": 431,
+"who": "Socrates",
+"text": "Troubled that you regard the men of this city as worthy competition.",
+"kind": "speech"
+},
+{
+"entry": 432,
+"who": "Alcibiades",
+"text": "But who am I competing against?",
+"kind": "speech"
+},
+{
+"entry": 433,
+"who": "Socrates",
+"text": "A man who believes he has a great intellect deserves to ask this question.",
+"kind": "speech"
+},
+{
+"entry": 434,
+"who": "Alcibiades",
+"text": "What do you mean? Am I not in competition with these people?",
+"kind": "speech"
+},
+{
+"entry": 435,
+"who": "Socrates",
+"text": "But if you were intending to steer a trireme about to go into battle, would you be content to be the best of your fellow sailors at steering? Or would you assume that this must be the case and look instead to your true adversaries, rather than, as now, to your comrades in arms? Indeed, if you really intend to exhibit some noble action worthy of yourself and the city, you will of course need to be superior to these fellows, so that although they are unworthy to compete against you, they will fight with you against the enemy in spite of your contempt.",
+"kind": "speech"
+},
+{
+"entry": 436,
+"who": "Alcibiades",
+"text": "Well, yes, that is my intention anyway.",
+"kind": "speech"
+},
+{
+"entry": 437,
+"who": "Socrates",
+"text": "So, is it really worth your while to rest content when you are better than the soldiers, rather than looking to the leaders on the opposing side, once you have become better than the soldiers by planning and exercising with them?",
+"kind": "speech"
+},
+{
+"entry": 438,
+"who": "Alcibiades",
+"text": "Who are these leaders you are referring to, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 439,
+"who": "Socrates",
+"text": "Do you not know that our city wages war on occasion against the Spartans and the Great King?",
+"kind": "speech"
+},
+{
+"entry": 440,
+"who": "Alcibiades",
+"text": "That is true.",
+"kind": "speech"
+},
+{
+"entry": 441,
+"who": "Socrates",
+"text": "Well, if you really intend to be a ruler of this city, would it not be right to consider yourself in competition with the kings of Sparta and Persia?",
+"kind": "speech"
+},
+{
+"entry": 442,
+"who": "Alcibiades",
+"text": "What you are saying is probably true.",
+"kind": "speech"
+},
+{
+"entry": 443,
+"who": "Socrates",
+"text": "Goodness no! You should look instead to Meidias, the quail-fighter, and others of that sort who attempt to manage the affairs of the city still bearing the mark of the slave in their soul; the servile haircut, as the women say. This is due to their ill-education, and before they have cast this off whilst still in their barbarous ways, they come to the city as flatterers rather than rulers. If you look to these people, the ones I am describing, you must perforce neglect yourself and neither learn whatever there is to learn in preparation for so great a contest, nor practise what needs to be practised, and embark upon civic affairs having undergone comprehensive preparation.",
+"kind": "speech"
+},
+{
+"entry": 444,
+"who": "Alcibiades",
+"text": "Yes, Socrates, I think you are speaking the truth. However, I believe the Spartan generals and the Persian King are no better than the rest.",
+"kind": "speech"
+},
+{
+"entry": 445,
+"who": "Socrates",
+"text": "Best of men, consider the nature of this belief you are holding.",
+"kind": "speech"
+},
+{
+"entry": 446,
+"who": "Alcibiades",
+"text": "In what respect?",
+"kind": "speech"
+},
+{
+"entry": 447,
+"who": "Socrates",
+"text": "Firstly, do you think you would show better care for yourself through fearing them and regarding them as formidable, or through not doing so?",
+"kind": "speech"
+},
+{
+"entry": 448,
+"who": "Alcibiades",
+"text": "Obviously, if I were to regard them as formidable.",
+"kind": "speech"
+},
+{
+"entry": 449,
+"who": "Socrates",
+"text": "Now, you surely do not think that any harm will come from caring for yourself?",
+"kind": "speech"
+},
+{
+"entry": 450,
+"who": "Alcibiades",
+"text": "Not at all, I shall be greatly benefited.",
+"kind": "speech"
+},
+{
+"entry": 451,
+"who": "Socrates",
+"text": "Well, to this extent, is there not one problem with this belief of yours?",
+"kind": "speech"
+},
+{
+"entry": 452,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 453,
+"who": "Socrates",
+"text": "And secondly, you should consider the likelihood that the belief is also false.",
+"kind": "speech"
+},
+{
+"entry": 454,
+"who": "Alcibiades",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 455,
+"who": "Socrates",
+"text": "Are better natures likely to arise among high-born families or not?",
+"kind": "speech"
+},
+{
+"entry": 456,
+"who": "Alcibiades",
+"text": "Obviously among the high-born.",
+"kind": "speech"
+},
+{
+"entry": 457,
+"who": "Socrates",
+"text": "Now, would these good natures also become completely excellent once they receive a good upbringing?",
+"kind": "speech"
+},
+{
+"entry": 458,
+"who": "Alcibiades",
+"text": "They must.",
+"kind": "speech"
+},
+{
+"entry": 459,
+"who": "Socrates",
+"text": "Well, let us consider this. Firstly, comparing our own lineage to theirs, do the kings of Sparta and Persia seem to come from ordinary families? Or do we not know that one is descended from Heracles, the other from Achaemenes, both of whom trace their lineage back to Perseus, son of Zeus?",
+"kind": "speech"
+},
+{
+"entry": 460,
+"who": "Alcibiades",
+"text": "Yes, Socrates, and ours goes back to Eurysaces, and the line of Eurysaces goes back to Zeus.",
+"kind": "speech"
+},
+{
+"entry": 461,
+"who": "Socrates",
+"text": "And, indeed, high-born Alcibiades, mine goes back to Daedalus, and Daedalus to Hephaestus, son of Zeus. But the lineage of these people, starting with themselves, is a line of kings back as far as Zeus, kings of Argos and Sparta on the one hand, perpetual kings of Persia on the other and indeed sometime kings of Asia just as they are at present, while we ourselves are but common folk and so were our fathers too. And if you had to place the ancestry of Eurysaces and his fatherland, Salamis, on display before Artaxerxes, son of Xerxes, or show him Aegina, the fatherland of the more ancient Aeacus, think how much laughter you would provoke. Yes, behold how inferior we are to these men in pride of family and general development. Or have you not observed the endowments of the Spartan kings, kings whose wives are guarded in public by the Ephors as best they can, lest a king be born unwittingly of someone not belonging to the Heraclidae? While the Persian King is so superior that no one suspects that he could have been born from anyone but a king, and so the king’s wife is protected by nothing apart from fear. When the eldest son is born, the one who will rule, first of all, everyone in the city where the king rules has a celebration. Then, in the following year on the same day, all Asia sacrifices and celebrates the birthday of the king. But when you and I were born, Alcibiades, as the comic poet says, not even the neighbours were really aware of it. The child is reared subsequently, not by a female nurse of little importance, but by those eunuchs in the king’s service who are deemed most excellent. The overall care of the newborn child is assigned to these men, and they must ensure that he will be as handsome as possible by shaping and straightening the child’s limbs. And the eunuchs who do this are held in high regard. Once the children reach seven years of age, they spend time with horses and with riding instructors and they begin to go hunting. And at fourteen years of age, they hand the child over to men whom they call ‘the royal educators’. These are four men of the right age selected from Persians with the best reputations: the wisest, the most just, the most sound-minded and the bravest. The first teaches the magic of Zoroaster, the son of Horomazus, and this is the worship of gods, but he also teaches the business of a king. The most just teaches him to speak the truth throughout his entire life. The most sound-minded teaches him never to be ruled by a single pleasure so that he may get used to being free and truly a king, ruling first of all over whatever is within himself, without being enslaved. The bravest renders him fearless and confident, telling him that he is a slave whenever he is afraid. However, in your case, Alcibiades, Pericles placed you under an instructor, Zopyrus of Thrace, one of his household slaves who was utterly useless on account of his old age. I would also have described the general development and education of your adversaries were it not a major task. Anyway, these details are sufficient to demonstrate any other aspects that follow from them. But you could say, Alcibiades, that no one, unless he happens to be a lover of yours, cares about your birth or development or education or that of any other Athenian. What is more, if you wish to cast an eye on the wealth and luxury, the clothes and flowing garments, the scented unguents, the vast retinue of servants and the general refinement of the Persians, you will be ashamed of yourself, realising how far we lag behind them. And if you were to go on and look at the self-restraint and orderliness, the dexterity and agility, high-mindedness, discipline, courage and endurance of the Spartans and their love for work, victory and honour, you would think yourself but a child in all such matters. And if you also turn your mind to wealth and believe that you are significant in that regard, we should not let that go without a mention either, if you are somehow to be aware of where you stand. Yes, in this case, if you cared to look at the wealth of the Spartans, you would realise that ours falls far short of theirs. For the amount of land they possess, their own and that of the Messenians, and the vastness and excellence of what is there, would never be disputed by anyone at all; nor again would their ownership of slaves in general and of helots, horses too, and whatever herds of animals graze around Messene. But let us leave all these details aside, yet there is not as much gold and silver in all Greece as there is in private hands in Sparta. For over many generations, gold and silver have flowed into Sparta from all of the Greeks and often from non-Greeks too, but they never flow out again. So it really accords with the story of Aesop where the fox speaks to the lion; the footprints of the money going in to Sparta go in a direction which is plain to see, but nowhere may they be seen coming out. So we should be well aware that the people there are the wealthiest of the Greeks in gold and silver, and among themselves the king is the richest, for the largest and most numerous allocations of such funds belong to the kings, and yet the royal grant which the Spartans pay to their kings is not insignificant either. And although Spartan wealth is enormous compared to that of the Greeks, it is nothing in comparison to the wealth of Persia and their king. I once heard a trustworthy man, one of those who travelled up to the king, who said that he traversed a very extensive tract of good land, almost a day’s journey, which the locals call ‘the girdle of the king’s wife’; and there is also another tract which they, in this case, call ‘her veil’, and numerous other beautiful and good places have been selected for the adornment of the woman, and each of the places bears the name of the particular adornments. So I believe that if someone were to say to the king’s mother, Amestris, the wife of Xerxes, “The son of Dinomache intends to pit himself against your son; her raiment is worth perhaps fifty minae or somewhat more, and her son owns three hundred acres or so at Erchia”, she would wonder what precisely this Alcibiades trusts in when he proposes to compete against Artaxerxes. And I think she would say this man is making his attempt trusting in nothing else except care and wisdom, for that is all the Greeks have that is worth mentioning. What if she were then to find out that this Alcibiades is now making his attempt, firstly, when he is not yet fully twenty years of age; secondly, when he is entirely uneducated; and furthermore, although his lover tells him that he should go into competition against the king after he has learned, cared for himself and practised, he does not want to do this, but says that he is satisfied as he is? I think she would be amazed and would ask, “Well, what on earth is it that this young man trusts in?” And if we were to say that it is beauty, strength, family, wealth and the natural endowments of his soul, she would think we were mad, Alcibiades, when she looked at all these qualities in comparison with what they themselves possess. But I also think that Lampido, the daughter of Leotychides, wife of Archidamus and mother of Agis, all of whom have been kings, would indeed be amazed when she looked at the endowments which they have, amazed that you intend to compete against her son when you have been so badly brought up. What is more, do you not think it is a disgrace that the wives of our enemies have a better understanding of us and the sort of people we need to be in order to take them on, than we have of our own selves? So, blessed man, be persuaded by me and by the inscription at Delphi, ‘Know thyself’, and know that our adversaries are these kings and not those whom you regard as such. And we shall never prevail over them in any other way save through care and skill, and if you are found wanting in these you will be found wanting in reputation among the Greeks and non-Greeks, and I think you love that more than anyone else loves anything.",
+"kind": "speech"
+},
+{
+"entry": 462,
+"who": "Alcibiades",
+"text": "Well, Socrates, what attention is required? Can you elaborate? Indeed, what you have said seems to be entirely true.",
+"kind": "speech"
+},
+{
+"entry": 463,
+"who": "Socrates",
+"text": "Yes, but we really should deliberate together as to the way in which we may become as good as possible. For when I say that it is necessary to be educated, I am not just referring to you and excluding myself. Indeed, I am better than you in no way save one.",
+"kind": "speech"
+},
+{
+"entry": 464,
+"who": "Alcibiades",
+"text": "In what way?",
+"kind": "speech"
+},
+{
+"entry": 465,
+"who": "Socrates",
+"text": "My guardian is better and wiser than your Pericles.",
+"kind": "speech"
+},
+{
+"entry": 466,
+"who": "Alcibiades",
+"text": "Who is he, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 467,
+"who": "Socrates",
+"text": "A god, Alcibiades, the very one who would not allow me to converse with you until today, the god in whom I trust when I say that you will never become illustrious except through me.",
+"kind": "speech"
+},
+{
+"entry": 468,
+"who": "Alcibiades",
+"text": "You are joking, Socrates!",
+"kind": "speech"
+},
+{
+"entry": 469,
+"who": "Socrates",
+"text": "Perhaps, but I am speaking the truth when I say that we do require care, or more to the point, all men do but we two need it very much.",
+"kind": "speech"
+},
+{
+"entry": 470,
+"who": "Alcibiades",
+"text": "You are not lying when you say that I need it.",
+"kind": "speech"
+},
+{
+"entry": 471,
+"who": "Socrates",
+"text": "Nor in my own case either.",
+"kind": "speech"
+},
+{
+"entry": 472,
+"who": "Alcibiades",
+"text": "What should we do now?",
+"kind": "speech"
+},
+{
+"entry": 473,
+"who": "Socrates",
+"text": "We should neither give up nor prove cowards, my friend.",
+"kind": "speech"
+},
+{
+"entry": 474,
+"who": "Alcibiades",
+"text": "No, that would not be appropriate, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 475,
+"who": "Socrates",
+"text": "No indeed. Instead we should consider this together. So tell me, we say that we wish to become as excellent as possible, do we not?",
+"kind": "speech"
+},
+{
+"entry": 476,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 477,
+"who": "Socrates",
+"text": "What is that excellence?",
+"kind": "speech"
+},
+{
+"entry": 478,
+"who": "Alcibiades",
+"text": "The very excellence by which men are good men, of course.",
+"kind": "speech"
+},
+{
+"entry": 479,
+"who": "Socrates",
+"text": "Men who are good in what?",
+"kind": "speech"
+},
+{
+"entry": 480,
+"who": "Alcibiades",
+"text": "Obviously in performing actions.",
+"kind": "speech"
+},
+{
+"entry": 481,
+"who": "Socrates",
+"text": "What sort of actions? Those related to horses?",
+"kind": "speech"
+},
+{
+"entry": 482,
+"who": "Alcibiades",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 483,
+"who": "Socrates",
+"text": "In that case we would be compared with horse trainers.",
+"kind": "speech"
+},
+{
+"entry": 484,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 485,
+"who": "Socrates",
+"text": "Then are you referring to nautical affairs?",
+"kind": "speech"
+},
+{
+"entry": 486,
+"who": "Socrates",
+"text": "In that case we would be compared with seamen.",
+"kind": "speech"
+},
+{
+"entry": 487,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 488,
+"who": "Socrates",
+"text": "What sort of actions then? Actions performed by whom?",
+"kind": "speech"
+},
+{
+"entry": 489,
+"who": "Alcibiades",
+"text": "Those performed by the noble and good among the Athenians.",
+"kind": "speech"
+},
+{
+"entry": 490,
+"who": "Socrates",
+"text": "And do you refer to people with understanding, or people without it, as noble and good?",
+"kind": "speech"
+},
+{
+"entry": 491,
+"who": "Alcibiades",
+"text": "Those with understanding.",
+"kind": "speech"
+},
+{
+"entry": 492,
+"who": "Socrates",
+"text": "Isn’t each person good at whatever he understands?",
+"kind": "speech"
+},
+{
+"entry": 493,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 494,
+"who": "Socrates",
+"text": "And bad at what he does not understand?",
+"kind": "speech"
+},
+{
+"entry": 495,
+"who": "Alcibiades",
+"text": "He must be.",
+"kind": "speech"
+},
+{
+"entry": 496,
+"who": "Socrates",
+"text": "Now, does the cobbler have understanding about making shoes?",
+"kind": "speech"
+},
+{
+"entry": 497,
+"who": "Alcibiades",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 498,
+"who": "Socrates",
+"text": "So, is he good in this respect?",
+"kind": "speech"
+},
+{
+"entry": 499,
+"who": "Alcibiades",
+"text": "Yes, good.",
+"kind": "speech"
+},
+{
+"entry": 500,
+"who": "Socrates",
+"text": "What about this? Is not the cobbler devoid of understanding about making clothes?",
+"kind": "speech"
+},
+{
+"entry": 501,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 502,
+"who": "Socrates",
+"text": "So is he bad in this respect?",
+"kind": "speech"
+},
+{
+"entry": 503,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 504,
+"who": "Socrates",
+"text": "So by this argument anyway, the same person is bad and also good.",
+"kind": "speech"
+},
+{
+"entry": 505,
+"who": "Alcibiades",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 506,
+"who": "Socrates",
+"text": "Now, are you really saying that good men are also bad?",
+"kind": "speech"
+},
+{
+"entry": 507,
+"who": "Alcibiades",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 508,
+"who": "Socrates",
+"text": "Then who precisely do you call ‘the good’?",
+"kind": "speech"
+},
+{
+"entry": 509,
+"who": "Alcibiades",
+"text": "I mean those who are able to rule in the city.",
+"kind": "speech"
+},
+{
+"entry": 510,
+"who": "Socrates",
+"text": "Not over horses, I presume?",
+"kind": "speech"
+},
+{
+"entry": 511,
+"who": "Alcibiades",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 512,
+"who": "Socrates",
+"text": "But over men?",
+"kind": "speech"
+},
+{
+"entry": 513,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 514,
+"who": "Socrates",
+"text": "When they are ill?",
+"kind": "speech"
+},
+{
+"entry": 515,
+"who": "Socrates",
+"text": "When they are at sea then?",
+"kind": "speech"
+},
+{
+"entry": 516,
+"who": "Alcibiades",
+"text": "I am not saying that either.",
+"kind": "speech"
+},
+{
+"entry": 517,
+"who": "Socrates",
+"text": "When they are harvesting?",
+"kind": "speech"
+},
+{
+"entry": 518,
+"who": "Socrates",
+"text": "Well, is it when they are doing something, or doing nothing?",
+"kind": "speech"
+},
+{
+"entry": 519,
+"who": "Alcibiades",
+"text": "I mean when they are doing something.",
+"kind": "speech"
+},
+{
+"entry": 520,
+"who": "Socrates",
+"text": "Doing what? Try to give me an example.",
+"kind": "speech"
+},
+{
+"entry": 521,
+"who": "Alcibiades",
+"text": "Well, he rules over those who are co-operating among themselves and dealing with one another, just as we do when we are living in the cities.",
+"kind": "speech"
+},
+{
+"entry": 522,
+"who": "Socrates",
+"text": "Are you saying then that he rules over people who are dealing with people?",
+"kind": "speech"
+},
+{
+"entry": 523,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 524,
+"who": "Socrates",
+"text": "Is it over boatswains who are dealing with rowers?",
+"kind": "speech"
+},
+{
+"entry": 525,
+"who": "Alcibiades",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 526,
+"who": "Socrates",
+"text": "Indeed, that excellence is helmsmanship itself.",
+"kind": "speech"
+},
+{
+"entry": 527,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 528,
+"who": "Socrates",
+"text": "Then do you mean he rules over men who are playing pipes, who are leading people in song and dealing with choristers?",
+"kind": "speech"
+},
+{
+"entry": 529,
+"who": "Alcibiades",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 530,
+"who": "Socrates",
+"text": "Yes. That for its part is the choirmaster’s skill itself, is it not?",
+"kind": "speech"
+},
+{
+"entry": 531,
+"who": "Alcibiades",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 532,
+"who": "Socrates",
+"text": "Then what precisely do you mean by being able to rule over people who are dealing with people?",
+"kind": "speech"
+},
+{
+"entry": 533,
+"who": "Alcibiades",
+"text": "I mean they rule over people in the city who are sharing in civic life and co-operating with one another.",
+"kind": "speech"
+},
+{
+"entry": 534,
+"who": "Socrates",
+"text": "And what is the actual skill? It is as if I were repeating the question I asked just now. What skill enables him to know how to rule over men who are sharing a sea voyage?",
+"kind": "speech"
+},
+{
+"entry": 535,
+"who": "Alcibiades",
+"text": "Helmsmanship.",
+"kind": "speech"
+},
+{
+"entry": 536,
+"who": "Socrates",
+"text": "And in the example we have just given, what knowledge enables him to rule over those who are sharing in song?",
+"kind": "speech"
+},
+{
+"entry": 537,
+"who": "Alcibiades",
+"text": "Exactly what you just said, the choirmaster’s skill.",
+"kind": "speech"
+},
+{
+"entry": 538,
+"who": "Socrates",
+"text": "What about this? What do you call the knowledge of ruling over those who share in civic life?",
+"kind": "speech"
+},
+{
+"entry": 539,
+"who": "Alcibiades",
+"text": "I would call it sound judgement, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 540,
+"who": "Socrates",
+"text": "Yes, but is the knowledge of the helmsman poor judgement?",
+"kind": "speech"
+},
+{
+"entry": 541,
+"who": "Alcibiades",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 542,
+"who": "Socrates",
+"text": "Is it sound judgement, then?",
+"kind": "speech"
+},
+{
+"entry": 543,
+"who": "Alcibiades",
+"text": "I think so, in relation to preserving the sea-farers anyway.",
+"kind": "speech"
+},
+{
+"entry": 544,
+"who": "Socrates",
+"text": "Well said! What about this? The sound judgement you are referring to, to what is it directed?",
+"kind": "speech"
+},
+{
+"entry": 545,
+"who": "Alcibiades",
+"text": "To better manage and preserve the city.",
+"kind": "speech"
+},
+{
+"entry": 546,
+"who": "Socrates",
+"text": "And it is better managed and preserved through the presence or absence of what? It is as if you were to ask me, “The body is better managed and preserved through the presence or absence of what?” I would reply that it is through the presence of health and the absence of disease. Do you not also think the same way?",
+"kind": "speech"
+},
+{
+"entry": 547,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 548,
+"who": "Socrates",
+"text": "And if you were to go on and ask, “Through the presence of what are the eyes better?” I would answer in the same way, that it is through the presence of sight and the absence of blindness. And the ears become better and are better served through the absence of deafness and the operation of hearing within them.",
+"kind": "speech"
+},
+{
+"entry": 549,
+"who": "Alcibiades",
+"text": "And rightly so.",
+"kind": "speech"
+},
+{
+"entry": 550,
+"who": "Socrates",
+"text": "Yes, and a city becomes better and is better served and managed through the presence or absence of what?",
+"kind": "speech"
+},
+{
+"entry": 551,
+"who": "Alcibiades",
+"text": "Well, it seems to me, Socrates, that this happens when they have friendship towards one another, and hatred and strife are absent.",
+"kind": "speech"
+},
+{
+"entry": 552,
+"who": "Socrates",
+"text": "Now, by friendship do you mean agreement or disagreement?",
+"kind": "speech"
+},
+{
+"entry": 553,
+"who": "Alcibiades",
+"text": "Agreement.",
+"kind": "speech"
+},
+{
+"entry": 554,
+"who": "Socrates",
+"text": "Now, through what skill do the cities agree about number?",
+"kind": "speech"
+},
+{
+"entry": 555,
+"who": "Alcibiades",
+"text": "Through arithmetic.",
+"kind": "speech"
+},
+{
+"entry": 556,
+"who": "Socrates",
+"text": "And in the case of individuals, do they not agree through the same skill?",
+"kind": "speech"
+},
+{
+"entry": 557,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 558,
+"who": "Socrates",
+"text": "And does not each person also agree with himself through this?",
+"kind": "speech"
+},
+{
+"entry": 559,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 560,
+"who": "Socrates",
+"text": "And through what skill does each person agree with himself as to which is greater, a span or a cubit? Is it not through measurement?",
+"kind": "speech"
+},
+{
+"entry": 561,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 562,
+"who": "Socrates",
+"text": "And do not the individuals and the cities agree with one another through this skill?",
+"kind": "speech"
+},
+{
+"entry": 563,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 564,
+"who": "Socrates",
+"text": "Yes, and does not the same also apply to weighing?",
+"kind": "speech"
+},
+{
+"entry": 565,
+"who": "Alcibiades",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 566,
+"who": "Socrates",
+"text": "Well then, what is the agreement you refer to, what is it about and what skill brings it about? And is agreement in a city and in an individual the very same, both in relation to itself and in relation to another?",
+"kind": "speech"
+},
+{
+"entry": 567,
+"who": "Alcibiades",
+"text": "Yes, that is likely anyway.",
+"kind": "speech"
+},
+{
+"entry": 568,
+"who": "Socrates",
+"text": "Well, what is it? Do not be reluctant to answer. Be eager to speak.",
+"kind": "speech"
+},
+{
+"entry": 569,
+"who": "Alcibiades",
+"text": "Well, I think I am referring to friendship and agreement whereby a father and mother agree in loving a son, or brother agrees with brother, or a woman with a man.",
+"kind": "speech"
+},
+{
+"entry": 570,
+"who": "Socrates",
+"text": "Now, Alcibiades, do you think a man would be able to agree with a woman about woolspinning when he is not knowledgeable and she is knowledgeable?",
+"kind": "speech"
+},
+{
+"entry": 571,
+"who": "Alcibiades",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 572,
+"who": "Socrates",
+"text": "Nor is it necessary either, for this is a feminine branch of learning.",
+"kind": "speech"
+},
+{
+"entry": 573,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 574,
+"who": "Socrates",
+"text": "What about this, would a woman be able to agree with a man about soldiering when she has not learned this?",
+"kind": "speech"
+},
+{
+"entry": 575,
+"who": "Alcibiades",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 576,
+"who": "Socrates",
+"text": "For you would probably say that this, in turn, is a masculine pursuit.",
+"kind": "speech"
+},
+{
+"entry": 577,
+"who": "Alcibiades",
+"text": "I would.",
+"kind": "speech"
+},
+{
+"entry": 578,
+"who": "Socrates",
+"text": "So according to your argument, there are manly and womanly subjects.",
+"kind": "speech"
+},
+{
+"entry": 579,
+"who": "Alcibiades",
+"text": "How could there not be?",
+"kind": "speech"
+},
+{
+"entry": 580,
+"who": "Socrates",
+"text": "So, in these cases anyway, there is no agreement between women and men.",
+"kind": "speech"
+},
+{
+"entry": 581,
+"who": "Socrates",
+"text": "Nor is there friendship either, if, in fact, friendship is agreement.",
+"kind": "speech"
+},
+{
+"entry": 582,
+"who": "Alcibiades",
+"text": "Apparently not.",
+"kind": "speech"
+},
+{
+"entry": 583,
+"who": "Socrates",
+"text": "So, to the extent that women do what belongs to themselves, they are not loved by men.",
+"kind": "speech"
+},
+{
+"entry": 584,
+"who": "Alcibiades",
+"text": "It seems not.",
+"kind": "speech"
+},
+{
+"entry": 585,
+"who": "Socrates",
+"text": "So, men are not loved by women either, to the extent that they do what belongs to themselves.",
+"kind": "speech"
+},
+{
+"entry": 586,
+"who": "Socrates",
+"text": "And are cities not well organised either, whenever each person does what belongs to himself?",
+"kind": "speech"
+},
+{
+"entry": 587,
+"who": "Alcibiades",
+"text": "I think they are, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 588,
+"who": "Socrates",
+"text": "Do you mean when friendship is absent? Did we not say that cities are well organised when friendship arises within them, and not otherwise?",
+"kind": "speech"
+},
+{
+"entry": 589,
+"who": "Alcibiades",
+"text": "But it seems to me, on this basis, that friendship arises between them because both are doing what belongs to themselves.",
+"kind": "speech"
+},
+{
+"entry": 590,
+"who": "Socrates",
+"text": "This was not so a moment ago! What are you saying now? When agreement is not in place does friendship arise? Or can agreement be in place on matters which some people know about while others do not?",
+"kind": "speech"
+},
+{
+"entry": 591,
+"who": "Alcibiades",
+"text": "That is impossible.",
+"kind": "speech"
+},
+{
+"entry": 592,
+"who": "Socrates",
+"text": "But when each person does what belongs to himself, do they perform just actions or unjust actions?",
+"kind": "speech"
+},
+{
+"entry": 593,
+"who": "Alcibiades",
+"text": "Just actions, how could they not?",
+"kind": "speech"
+},
+{
+"entry": 594,
+"who": "Socrates",
+"text": "Now, when the citizens of a city are performing just actions, doesn’t friendship towards one another arise?",
+"kind": "speech"
+},
+{
+"entry": 595,
+"who": "Alcibiades",
+"text": "Again I think this is inevitable, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 596,
+"who": "Socrates",
+"text": "Now, what precisely do you mean by the friendship and agreement about which we must be wise and judge soundly so that we may be good men? Indeed, I have been unable to understand either what it is or who has it, for according to your argument, it seems to be present one moment and absent the next moment in the same people.",
+"kind": "speech"
+},
+{
+"entry": 597,
+"who": "Alcibiades",
+"text": "Well, by the gods, Socrates, I do not even know what I mean myself, and, in fact, I have probably been in an utterly shameful condition for some time without being aware of this myself.",
+"kind": "speech"
+},
+{
+"entry": 598,
+"who": "Socrates",
+"text": "But you must take courage! If you had noticed this predicament at the age of fifty it would have been difficult for you to care for yourself. But now you are at the right age, the very age at which you should be aware of this.",
+"kind": "speech"
+},
+{
+"entry": 599,
+"who": "Alcibiades",
+"text": "And what should someone who is aware of this do, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 600,
+"who": "Socrates",
+"text": "Answer the questions you are asked, Alcibiades. And if you do this and God wills it and you trust in my prophecy when necessary, you and I shall fare better.",
+"kind": "speech"
+},
+{
+"entry": 601,
+"who": "Alcibiades",
+"text": "As far as my answering is concerned anyway, this will happen.",
+"kind": "speech"
+},
+{
+"entry": 602,
+"who": "Socrates",
+"text": "Come on then, let us ask what ‘care for yourself’ is, and when a person does this, in case we are unwittingly not caring for our own selves whilst thinking that we are. Whenever he cares for what belongs to himself, does he also care for himself?",
+"kind": "speech"
+},
+{
+"entry": 603,
+"who": "Alcibiades",
+"text": "Well, I think so anyway.",
+"kind": "speech"
+},
+{
+"entry": 604,
+"who": "Socrates",
+"text": "What about this? When is a person caring for his feet? Is it when he cares for those things that belong to his feet?",
+"kind": "speech"
+},
+{
+"entry": 605,
+"who": "Alcibiades",
+"text": "I do not understand.",
+"kind": "speech"
+},
+{
+"entry": 606,
+"who": "Socrates",
+"text": "But do you refer to anything as belonging to the hand? A ring, for instance, would you say that it belongs to any part of a man except his finger?",
+"kind": "speech"
+},
+{
+"entry": 607,
+"who": "Alcibiades",
+"text": "Certainly not.",
+"kind": "speech"
+},
+{
+"entry": 608,
+"who": "Socrates",
+"text": "Does not a shoe belong to the foot in the same way?",
+"kind": "speech"
+},
+{
+"entry": 609,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 610,
+"who": "Socrates",
+"text": "Now, whenever we are caring for our shoes, are we at that time caring for our feet?",
+"kind": "speech"
+},
+{
+"entry": 611,
+"who": "Alcibiades",
+"text": "I do not fully understand, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 612,
+"who": "Socrates",
+"text": "What about this, Alcibiades? Do you refer to any matter as ‘properly cared for’?",
+"kind": "speech"
+},
+{
+"entry": 613,
+"who": "Alcibiades",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 614,
+"who": "Socrates",
+"text": "Now, whenever something is made better, do you call this ‘proper care’?",
+"kind": "speech"
+},
+{
+"entry": 615,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 616,
+"who": "Socrates",
+"text": "Well, what skill makes shoes better?",
+"kind": "speech"
+},
+{
+"entry": 617,
+"who": "Alcibiades",
+"text": "Cobbling.",
+"kind": "speech"
+},
+{
+"entry": 618,
+"who": "Socrates",
+"text": "So we attend to shoes through cobbling?",
+"kind": "speech"
+},
+{
+"entry": 619,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 620,
+"who": "Socrates",
+"text": "Do we care for our feet also through cobbling or through that skill by which we make our feet better?",
+"kind": "speech"
+},
+{
+"entry": 621,
+"who": "Alcibiades",
+"text": "By that skill.",
+"kind": "speech"
+},
+{
+"entry": 622,
+"who": "Socrates",
+"text": "And are not feet made better by that which also makes the rest of the body better?",
+"kind": "speech"
+},
+{
+"entry": 623,
+"who": "Alcibiades",
+"text": "I think so anyway.",
+"kind": "speech"
+},
+{
+"entry": 624,
+"who": "Socrates",
+"text": "And is that not gymnastics?",
+"kind": "speech"
+},
+{
+"entry": 625,
+"who": "Alcibiades",
+"text": "Definitely.",
+"kind": "speech"
+},
+{
+"entry": 626,
+"who": "Socrates",
+"text": "So do we care for the feet through gymnastics, and to what belongs to the feet through cobbling?",
+"kind": "speech"
+},
+{
+"entry": 627,
+"who": "Alcibiades",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 628,
+"who": "Socrates",
+"text": "And do we care for the hands by gymnastics, and to what belongs to the hand by ringmaking?",
+"kind": "speech"
+},
+{
+"entry": 629,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 630,
+"who": "Socrates",
+"text": "And do we care for the body by gymnastics, and to what belongs to the body by weaving and the other skills?",
+"kind": "speech"
+},
+{
+"entry": 631,
+"who": "Alcibiades",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 632,
+"who": "Socrates",
+"text": "So we care for the thing itself by one skill, and to what belongs to it by a different skill.",
+"kind": "speech"
+},
+{
+"entry": 633,
+"who": "Alcibiades",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 634,
+"who": "Socrates",
+"text": "Then you would not be caring for yourself whenever you are caring for what belongs to yourself.",
+"kind": "speech"
+},
+{
+"entry": 635,
+"who": "Alcibiades",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 636,
+"who": "Socrates",
+"text": "For it seems that the skill whereby someone may care for himself, and to what belongs to himself, is not the same.",
+"kind": "speech"
+},
+{
+"entry": 637,
+"who": "Alcibiades",
+"text": "It appears not.",
+"kind": "speech"
+},
+{
+"entry": 638,
+"who": "Socrates",
+"text": "Come on then, by what kind of skill could we ever care for our own selves?",
+"kind": "speech"
+},
+{
+"entry": 639,
+"who": "Alcibiades",
+"text": "I am unable to say.",
+"kind": "speech"
+},
+{
+"entry": 640,
+"who": "Socrates",
+"text": "Well, have we agreed this much anyway, that this is not a skill by which we could make anything that belongs to us better, but one whereby we could make ourselves better?",
+"kind": "speech"
+},
+{
+"entry": 641,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 642,
+"who": "Socrates",
+"text": "Now, could we ever recognise what skill makes a shoe better, without knowing a shoe?",
+"kind": "speech"
+},
+{
+"entry": 643,
+"who": "Alcibiades",
+"text": "Impossible.",
+"kind": "speech"
+},
+{
+"entry": 644,
+"who": "Socrates",
+"text": "Nor what skill makes a finger better, without recognising a finger?",
+"kind": "speech"
+},
+{
+"entry": 645,
+"who": "Alcibiades",
+"text": "True.",
+"kind": "speech"
+},
+{
+"entry": 646,
+"who": "Socrates",
+"text": "What about this? Could we ever know what skill makes ourselves better, if we did not recognise what precisely we ourselves are?",
+"kind": "speech"
+},
+{
+"entry": 647,
+"who": "Alcibiades",
+"text": "Impossible.",
+"kind": "speech"
+},
+{
+"entry": 648,
+"who": "Socrates",
+"text": "Now, is it the case that to ‘know thyself’ is easy, and was it some ordinary person who set up this inscription in the temple at Delphi, or is it difficult and not for everybody?",
+"kind": "speech"
+},
+{
+"entry": 649,
+"who": "Alcibiades",
+"text": "Socrates, I have often thought that it is for everybody, and often that it is extremely difficult.",
+"kind": "speech"
+},
+{
+"entry": 650,
+"who": "Socrates",
+"text": "Well, Alcibiades, whether it is easy or difficult, here is where we stand anyway. If we know it, we would be likely to know this ‘care for ourselves’, but without knowing it, we could never do so.",
+"kind": "speech"
+},
+{
+"entry": 651,
+"who": "Alcibiades",
+"text": "That is so.",
+"kind": "speech"
+},
+{
+"entry": 652,
+"who": "Socrates",
+"text": "Come then, by what means might we find the self itself? For in this way we may likely find what precisely we ourselves are, but while we are still in ignorance of this, we would presumably be unable to do so.",
+"kind": "speech"
+},
+{
+"entry": 653,
+"who": "Alcibiades",
+"text": "What you are saying is correct.",
+"kind": "speech"
+},
+{
+"entry": 654,
+"who": "Socrates",
+"text": "Stop there, by Zeus! To whom are you talking now? To no one except me?",
+"kind": "speech"
+},
+{
+"entry": 655,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 656,
+"who": "Socrates",
+"text": "Am I not also talking to you?",
+"kind": "speech"
+},
+{
+"entry": 657,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 658,
+"who": "Socrates",
+"text": "So, is Socrates the one who is talking?",
+"kind": "speech"
+},
+{
+"entry": 659,
+"who": "Alcibiades",
+"text": "Definitely.",
+"kind": "speech"
+},
+{
+"entry": 660,
+"who": "Socrates",
+"text": "And is Alcibiades the listener?",
+"kind": "speech"
+},
+{
+"entry": 661,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 662,
+"who": "Socrates",
+"text": "Does not Socrates talk using speech?",
+"kind": "speech"
+},
+{
+"entry": 663,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 664,
+"who": "Socrates",
+"text": "And I suppose you call talking and using speech the same thing.",
+"kind": "speech"
+},
+{
+"entry": 665,
+"who": "Alcibiades",
+"text": "Definitely.",
+"kind": "speech"
+},
+{
+"entry": 666,
+"who": "Socrates",
+"text": "And is not the user different from that which is used?",
+"kind": "speech"
+},
+{
+"entry": 667,
+"who": "Alcibiades",
+"text": "What do you mean?",
+"kind": "speech"
+},
+{
+"entry": 668,
+"who": "Socrates",
+"text": "For example, a cobbler presumably cuts leather with a curved blade, a knife and other instruments.",
+"kind": "speech"
+},
+{
+"entry": 669,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 670,
+"who": "Socrates",
+"text": "So on the one hand, there is the person who uses the instruments and cuts the leather, and on the other hand there are the instruments with which he does the cutting.",
+"kind": "speech"
+},
+{
+"entry": 671,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 672,
+"who": "Socrates",
+"text": "In the same way, the instruments with which the lyre player plays the lyre would be different from the lyre player himself, would they not?",
+"kind": "speech"
+},
+{
+"entry": 673,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 674,
+"who": "Socrates",
+"text": "That is what I was asking you just now. Does the user always seem to be different from what he uses?",
+"kind": "speech"
+},
+{
+"entry": 675,
+"who": "Alcibiades",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 676,
+"who": "Socrates",
+"text": "Now, what else can we say about the cobbler? Does he cut using the instruments alone or using his hands too?",
+"kind": "speech"
+},
+{
+"entry": 677,
+"who": "Alcibiades",
+"text": "His hands too.",
+"kind": "speech"
+},
+{
+"entry": 678,
+"who": "Socrates",
+"text": "So, he also uses these?",
+"kind": "speech"
+},
+{
+"entry": 679,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 680,
+"who": "Socrates",
+"text": "And does he also cut leather using his eyes?",
+"kind": "speech"
+},
+{
+"entry": 681,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 682,
+"who": "Socrates",
+"text": "And we agree that the user is different from that which is used?",
+"kind": "speech"
+},
+{
+"entry": 683,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 684,
+"who": "Socrates",
+"text": "So, are the cobbler and lyre player different from the hands and eyes with which they perform actions?",
+"kind": "speech"
+},
+{
+"entry": 685,
+"who": "Alcibiades",
+"text": "It appears so.",
+"kind": "speech"
+},
+{
+"entry": 686,
+"who": "Socrates",
+"text": "Does not a person actually make use of the entire body?",
+"kind": "speech"
+},
+{
+"entry": 687,
+"who": "Alcibiades",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 688,
+"who": "Socrates",
+"text": "Did we say the user is different from what is used?",
+"kind": "speech"
+},
+{
+"entry": 689,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 690,
+"who": "Socrates",
+"text": "So, is a person different from his own body?",
+"kind": "speech"
+},
+{
+"entry": 691,
+"who": "Alcibiades",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 692,
+"who": "Socrates",
+"text": "Then what precisely is the person?",
+"kind": "speech"
+},
+{
+"entry": 693,
+"who": "Alcibiades",
+"text": "I cannot say.",
+"kind": "speech"
+},
+{
+"entry": 694,
+"who": "Socrates",
+"text": "Well, you can say, at any rate, that he is the user of the body.",
+"kind": "speech"
+},
+{
+"entry": 695,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 696,
+"who": "Socrates",
+"text": "Now, does anything else use it except the soul?",
+"kind": "speech"
+},
+{
+"entry": 697,
+"who": "Alcibiades",
+"text": "Nothing else.",
+"kind": "speech"
+},
+{
+"entry": 698,
+"who": "Socrates",
+"text": "In that case, does the soul rule?",
+"kind": "speech"
+},
+{
+"entry": 699,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 700,
+"who": "Socrates",
+"text": "And, indeed, I think no one could come to any conclusion except the following.",
+"kind": "speech"
+},
+{
+"entry": 701,
+"who": "Alcibiades",
+"text": "What conclusion?",
+"kind": "speech"
+},
+{
+"entry": 702,
+"who": "Socrates",
+"text": "That the person is one of three things.",
+"kind": "speech"
+},
+{
+"entry": 703,
+"who": "Alcibiades",
+"text": "What are they?",
+"kind": "speech"
+},
+{
+"entry": 704,
+"who": "Socrates",
+"text": "Soul or body or both together, the whole.",
+"kind": "speech"
+},
+{
+"entry": 705,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 706,
+"who": "Socrates",
+"text": "Well then, did we agree that the actual ruler of the body is the person?",
+"kind": "speech"
+},
+{
+"entry": 707,
+"who": "Alcibiades",
+"text": "We agreed.",
+"kind": "speech"
+},
+{
+"entry": 708,
+"who": "Socrates",
+"text": "Now, does the body itself rule itself?",
+"kind": "speech"
+},
+{
+"entry": 709,
+"who": "Alcibiades",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 710,
+"who": "Socrates",
+"text": "In fact, we said that it is ruled.",
+"kind": "speech"
+},
+{
+"entry": 711,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 712,
+"who": "Socrates",
+"text": "In that case this would not be what we are looking for.",
+"kind": "speech"
+},
+{
+"entry": 713,
+"who": "Alcibiades",
+"text": "It seems not.",
+"kind": "speech"
+},
+{
+"entry": 714,
+"who": "Socrates",
+"text": "Well then, do both together rule the body and is that what the person is?",
+"kind": "speech"
+},
+{
+"entry": 715,
+"who": "Alcibiades",
+"text": "Perhaps this is so.",
+"kind": "speech"
+},
+{
+"entry": 716,
+"who": "Socrates",
+"text": "It is the least likely of all! For if one element has no share in ruling, I presume there is no way that both together can rule.",
+"kind": "speech"
+},
+{
+"entry": 717,
+"who": "Alcibiades",
+"text": "Correct.",
+"kind": "speech"
+},
+{
+"entry": 718,
+"who": "Socrates",
+"text": "But since neither the body nor the two together are the person, I think we are left with the conclusion that either he is nothing, or if he is something, the person is nothing else but soul.",
+"kind": "speech"
+},
+{
+"entry": 719,
+"who": "Alcibiades",
+"text": "Precisely so.",
+"kind": "speech"
+},
+{
+"entry": 720,
+"who": "Socrates",
+"text": "Now, is it necessary to prove to you even more clearly that the soul is the person?",
+"kind": "speech"
+},
+{
+"entry": 721,
+"who": "Alcibiades",
+"text": "By Zeus, no! I think that is quite enough.",
+"kind": "speech"
+},
+{
+"entry": 722,
+"who": "Socrates",
+"text": "Yes, and if it is proven, not precisely but in good measure, that is sufficient for us. For once we find what we have just passed over because it involves a lot of investigation, we shall then know precisely.",
+"kind": "speech"
+},
+{
+"entry": 723,
+"who": "Alcibiades",
+"text": "What was that?",
+"kind": "speech"
+},
+{
+"entry": 724,
+"who": "Socrates",
+"text": "It was stated earlier in a general way that we should first investigate the self itself. But now, instead of the self, we have considered what the person himself is. And perhaps this will suffice, for I presume we would say that nothing more properly belongs to ourselves than the soul?",
+"kind": "speech"
+},
+{
+"entry": 725,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 726,
+"who": "Socrates",
+"text": "Wouldn’t it be right to think of it as follows: you and I are conversing with one another, using words by means of soul, directed to soul?",
+"kind": "speech"
+},
+{
+"entry": 727,
+"who": "Alcibiades",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 728,
+"who": "Socrates",
+"text": "So this is what we said a little earlier, that Socrates is talking to Alcibiades using speech, directing the words, as it seems, not to the outward person but to Alcibiades, and he is the soul.",
+"kind": "speech"
+},
+{
+"entry": 729,
+"who": "Alcibiades",
+"text": "I think so anyway.",
+"kind": "speech"
+},
+{
+"entry": 730,
+"who": "Socrates",
+"text": "So whoever is commanding us to ‘know thyself’ is calling upon us to know the soul.",
+"kind": "speech"
+},
+{
+"entry": 731,
+"who": "Alcibiades",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 732,
+"who": "Socrates",
+"text": "So whoever knows anything that belongs to the body has known what belongs to himself, but has not known himself.",
+"kind": "speech"
+},
+{
+"entry": 733,
+"who": "Alcibiades",
+"text": "So he has.",
+"kind": "speech"
+},
+{
+"entry": 734,
+"who": "Socrates",
+"text": "Then to the extent that he is a doctor, no doctor knows himself, nor to the extent that he is a trainer, does any trainer.",
+"kind": "speech"
+},
+{
+"entry": 735,
+"who": "Alcibiades",
+"text": "It seems not.",
+"kind": "speech"
+},
+{
+"entry": 736,
+"who": "Socrates",
+"text": "So farmers and other craftsmen fall far short of knowing themselves. For it seems these people, at any rate, do not even know what belongs to themselves. Instead they are further from themselves on account of the skills they possess. For they know what belongs to the body, the things with which the body is cared for.",
+"kind": "speech"
+},
+{
+"entry": 737,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 738,
+"who": "Socrates",
+"text": "So, if sound-mindedness is knowing thyself, none of them are sound-minded on account of their skill.",
+"kind": "speech"
+},
+{
+"entry": 739,
+"who": "Alcibiades",
+"text": "I think not.",
+"kind": "speech"
+},
+{
+"entry": 740,
+"who": "Socrates",
+"text": "For that reason, of course, these skills themselves seem to be lowly and not subjects for a good man.",
+"kind": "speech"
+},
+{
+"entry": 741,
+"who": "Alcibiades",
+"text": "That is certainly the case.",
+"kind": "speech"
+},
+{
+"entry": 742,
+"who": "Socrates",
+"text": "Is it not the case once more, that whoever, for his part, cares for the body, cares for what belongs to himself, but not for himself?",
+"kind": "speech"
+},
+{
+"entry": 743,
+"who": "Alcibiades",
+"text": "Very likely.",
+"kind": "speech"
+},
+{
+"entry": 744,
+"who": "Socrates",
+"text": "Yes, but whoever cares for money cares neither for himself nor for what belongs to himself, but for something even more remote than what belongs to himself. Does he not?",
+"kind": "speech"
+},
+{
+"entry": 745,
+"who": "Alcibiades",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 746,
+"who": "Socrates",
+"text": "So the money-maker is no longer engaging in what belongs to himself.",
+"kind": "speech"
+},
+{
+"entry": 747,
+"who": "Alcibiades",
+"text": "Correct.",
+"kind": "speech"
+},
+{
+"entry": 748,
+"who": "Socrates",
+"text": "So, if someone has become the lover of the body of Alcibiades, he has not actually loved Alcibiades but something belonging to Alcibiades.",
+"kind": "speech"
+},
+{
+"entry": 749,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 750,
+"who": "Socrates",
+"text": "But does anyone who loves your soul, love you?",
+"kind": "speech"
+},
+{
+"entry": 751,
+"who": "Alcibiades",
+"text": "From this argument it appears that he must.",
+"kind": "speech"
+},
+{
+"entry": 752,
+"who": "Socrates",
+"text": "Would not the lover of your body depart and be gone once the bloom of youth had ceased?",
+"kind": "speech"
+},
+{
+"entry": 753,
+"who": "Alcibiades",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 754,
+"who": "Socrates",
+"text": "Yes, but the lover of your soul will not go away as long as it goes to the better.",
+"kind": "speech"
+},
+{
+"entry": 755,
+"who": "Alcibiades",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 756,
+"who": "Socrates",
+"text": "Well then, I am the lover who goes not away but remains with you when your bodily beauty is fading and all of the others have gone.",
+"kind": "speech"
+},
+{
+"entry": 757,
+"who": "Alcibiades",
+"text": "You do well, Socrates. May you never leave me.",
+"kind": "speech"
+},
+{
+"entry": 758,
+"who": "Socrates",
+"text": "Then you should yearn to be as beautiful as possible.",
+"kind": "speech"
+},
+{
+"entry": 759,
+"who": "Alcibiades",
+"text": "I shall yearn for this.",
+"kind": "speech"
+},
+{
+"entry": 760,
+"who": "Socrates",
+"text": "So, this is where you stand. There is not, it seems, nor has there been, a lover of Alcibiades, the son of Clinias, save one only, a person worthy of love, Socrates, the son of Sophroniscus and Phaenarete.",
+"kind": "speech"
+},
+{
+"entry": 761,
+"who": "Alcibiades",
+"text": "True.",
+"kind": "speech"
+},
+{
+"entry": 762,
+"who": "Socrates",
+"text": "Did you not say that my approach to you was just a little early since you would have approached me before then, wishing to find out why I was the only one who was not going away?",
+"kind": "speech"
+},
+{
+"entry": 763,
+"who": "Alcibiades",
+"text": "Yes, that is what happened.",
+"kind": "speech"
+},
+{
+"entry": 764,
+"who": "Socrates",
+"text": "Well then, this is the reason. I was the only lover of you, the others loved what belongs to you, but what belongs to you is passing its prime while you are beginning to blossom. And now I shall never leave you, unless you are corrupted by the Athenian populace and become ignoble. In fact, this is what I fear most, that you may become a lover of the populace and get corrupted by them, for many good Athenians have suffered this fate before you. Indeed, the populace ‘descended from the great-hearted Erechtheus’ has handsome features but you need to see it naked. So be sure to take the care I am speaking of.",
+"kind": "speech"
+},
+{
+"entry": 765,
+"who": "Alcibiades",
+"text": "What care?",
+"kind": "speech"
+},
+{
+"entry": 766,
+"who": "Socrates",
+"text": "Bless you! Embark upon civic affairs having first exercised and learned what needs to be learned, but not before then. Thus you may proceed in possession of an antidote and nothing terrible will happen to you.",
+"kind": "speech"
+},
+{
+"entry": 767,
+"who": "Alcibiades",
+"text": "What you are saying sounds good to me, Socrates, but try to explain in what way we may care for ourselves.",
+"kind": "speech"
+},
+{
+"entry": 768,
+"who": "Socrates",
+"text": "Well, to an extent we have reached a conclusion from our previous discussion, for we are fairly well agreed as to what we are. However, we were afraid in case we might get this wrong and unwittingly care for something else and not to ourselves.",
+"kind": "speech"
+},
+{
+"entry": 769,
+"who": "Alcibiades",
+"text": "That is it.",
+"kind": "speech"
+},
+{
+"entry": 770,
+"who": "Socrates",
+"text": "And after this, of course, we concluded that we should care for the soul and look to that.",
+"kind": "speech"
+},
+{
+"entry": 771,
+"who": "Alcibiades",
+"text": "Obviously.",
+"kind": "speech"
+},
+{
+"entry": 772,
+"who": "Socrates",
+"text": "While care for our bodies and our money should be handed over to others.",
+"kind": "speech"
+},
+{
+"entry": 773,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 774,
+"who": "Socrates",
+"text": "So in what way may we know it with the utmost clarity? Since once we know this, it seems we shall also know ourselves. By the gods, do we not understand the well formulated Delphic inscription which we have just mentioned?",
+"kind": "speech"
+},
+{
+"entry": 775,
+"who": "Alcibiades",
+"text": "Have you anything in particular in mind when you say this, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 776,
+"who": "Socrates",
+"text": "I shall tell you what I suspect that this inscription is saying and what it means to us. Indeed, there are not likely to be numerous examples of this, only the example based upon sight.",
+"kind": "speech"
+},
+{
+"entry": 777,
+"who": "Alcibiades",
+"text": "What do you mean by this?",
+"kind": "speech"
+},
+{
+"entry": 778,
+"who": "Socrates",
+"text": "Think about this yourself. If it was advising one of our eyes, just as if the eye was a person, and it said ‘see thyself’, what would we understand by the exhortation? Would it not mean that the eye should look at something in which it would see itself when it looked there?",
+"kind": "speech"
+},
+{
+"entry": 779,
+"who": "Alcibiades",
+"text": "Obviously.",
+"kind": "speech"
+},
+{
+"entry": 780,
+"who": "Socrates",
+"text": "Well, can we think of anything we might look at and see both the object and ourselves at the same time?",
+"kind": "speech"
+},
+{
+"entry": 781,
+"who": "Alcibiades",
+"text": "Yes, obviously, Socrates, when we look at mirrors and the like.",
+"kind": "speech"
+},
+{
+"entry": 782,
+"who": "Socrates",
+"text": "That is right. Now, is there anything of this kind present also in the eye with which we are seeing?",
+"kind": "speech"
+},
+{
+"entry": 783,
+"who": "Alcibiades",
+"text": "Definitely.",
+"kind": "speech"
+},
+{
+"entry": 784,
+"who": "Socrates",
+"text": "So you have noticed that the features of the person looking into the eye appear in the pupil of the person opposite, as though in a mirror, and we actually call the pupil ‘a doll’ because it is an image of the person who is looking in.",
+"kind": "speech"
+},
+{
+"entry": 785,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 786,
+"who": "Socrates",
+"text": "Then an eye beholding an eye and looking into the best part of it, the part with which it too is seeing, would see itself in this way.",
+"kind": "speech"
+},
+{
+"entry": 787,
+"who": "Alcibiades",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 788,
+"who": "Socrates",
+"text": "Yes, and if it looks into any other part of the person, or into anything else except what resembles this part, it will not see itself.",
+"kind": "speech"
+},
+{
+"entry": 789,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 790,
+"who": "Socrates",
+"text": "So if an eye is going to see itself, must it not look into an eye and into the region of the eye where the excellence of the eye happens to reside? And that excellence presumably is sight?",
+"kind": "speech"
+},
+{
+"entry": 791,
+"who": "Alcibiades",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 792,
+"who": "Socrates",
+"text": "Now, dear Alcibiades, if the soul too is going to know itself, must it not look into soul, and especially to that region of soul in which the excellence of soul, wisdom, resides, and to anything else that happens to resemble this?",
+"kind": "speech"
+},
+{
+"entry": 793,
+"who": "Alcibiades",
+"text": "I think so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 794,
+"who": "Socrates",
+"text": "Can we say that there is any region of soul more divine than this, the region associated with knowing and being wise?",
+"kind": "speech"
+},
+{
+"entry": 795,
+"who": "Alcibiades",
+"text": "We cannot.",
+"kind": "speech"
+},
+{
+"entry": 796,
+"who": "Socrates",
+"text": "So this part of the soul is most like a god, and anyone looking to this, having known all that is divine, both god and wisdom, would also come to know himself with certainty in this way.",
+"kind": "speech"
+},
+{
+"entry": 797,
+"who": "Alcibiades",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 798,
+"who": "Socrates",
+"text": "Well, just as a mirror is clearer than the reflector in the eye and also purer and brighter, does a god, in like manner, happen to be purer and brighter than what is best in our soul?",
+"kind": "speech"
+},
+{
+"entry": 799,
+"who": "Alcibiades",
+"text": "So it seems anyway, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 800,
+"who": "Socrates",
+"text": "Then in looking to a god we would also make use of that most beautiful reflector for human purposes, in furthering the excellence of the soul, and in this way we would certainly see and know our own selves.",
+"kind": "speech"
+},
+{
+"entry": 801,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 802,
+"who": "Socrates",
+"text": "Did we agree that to ‘know thyself’ is sound-mindedness?",
+"kind": "speech"
+},
+{
+"entry": 803,
+"who": "Alcibiades",
+"text": "Definitely.",
+"kind": "speech"
+},
+{
+"entry": 804,
+"who": "Socrates",
+"text": "In that case, without knowing ourselves or being sound-minded, would we be able to know what belongs to us, be it bad or good?",
+"kind": "speech"
+},
+{
+"entry": 805,
+"who": "Alcibiades",
+"text": "How could that actually happen, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 806,
+"who": "Socrates",
+"text": "Yes, to you it probably seems impossible to know that what belongs to Alcibiades is his, without knowing Alcibiades.",
+"kind": "speech"
+},
+{
+"entry": 807,
+"who": "Alcibiades",
+"text": "Of course it is impossible, by Zeus.",
+"kind": "speech"
+},
+{
+"entry": 808,
+"who": "Socrates",
+"text": "Then neither can we know that what belongs to us is ours, unless we know ourselves.",
+"kind": "speech"
+},
+{
+"entry": 809,
+"who": "Alcibiades",
+"text": "How could we?",
+"kind": "speech"
+},
+{
+"entry": 810,
+"who": "Socrates",
+"text": "So if we do not know what belongs to us, we do not know what belongs to our belongings either, do we?",
+"kind": "speech"
+},
+{
+"entry": 811,
+"who": "Alcibiades",
+"text": "Apparently not.",
+"kind": "speech"
+},
+{
+"entry": 812,
+"who": "Socrates",
+"text": "So we were not entirely correct when we agreed earlier that there are people who do not know themselves and yet know what belongs to themselves, and others who do not even know what belongs to their belongings. For it seems that it is one person and a single skill that beholds himself, what belongs to himself, and what belongs to the belongings of himself.",
+"kind": "speech"
+},
+{
+"entry": 813,
+"who": "Alcibiades",
+"text": "Very likely.",
+"kind": "speech"
+},
+{
+"entry": 814,
+"who": "Socrates",
+"text": "But whoever is ignorant of what belongs to himself would also, on the same basis, be ignorant of what belongs to others, I suppose.",
+"kind": "speech"
+},
+{
+"entry": 815,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 816,
+"who": "Socrates",
+"text": "And if he is ignorant of what belongs to others, he will also be ignorant of what belongs to cities.",
+"kind": "speech"
+},
+{
+"entry": 817,
+"who": "Alcibiades",
+"text": "He must.",
+"kind": "speech"
+},
+{
+"entry": 818,
+"who": "Socrates",
+"text": "Then a man like this could never become a statesman.",
+"kind": "speech"
+},
+{
+"entry": 819,
+"who": "Alcibiades",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 820,
+"who": "Socrates",
+"text": "Nor run a household either.",
+"kind": "speech"
+},
+{
+"entry": 821,
+"who": "Alcibiades",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 822,
+"who": "Socrates",
+"text": "Nor will he even know what he is doing.",
+"kind": "speech"
+},
+{
+"entry": 823,
+"who": "Alcibiades",
+"text": "No, not at all.",
+"kind": "speech"
+},
+{
+"entry": 824,
+"who": "Socrates",
+"text": "But will not a person who does not know fall into error?",
+"kind": "speech"
+},
+{
+"entry": 825,
+"who": "Alcibiades",
+"text": "Definitely.",
+"kind": "speech"
+},
+{
+"entry": 826,
+"who": "Socrates",
+"text": "And will not a person who falls into error act badly, both in private and public affairs?",
+"kind": "speech"
+},
+{
+"entry": 827,
+"who": "Alcibiades",
+"text": "How could he avoid it?",
+"kind": "speech"
+},
+{
+"entry": 828,
+"who": "Socrates",
+"text": "And in acting badly will he not be wretched?",
+"kind": "speech"
+},
+{
+"entry": 829,
+"who": "Alcibiades",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 830,
+"who": "Socrates",
+"text": "What about the people he acts for?",
+"kind": "speech"
+},
+{
+"entry": 831,
+"who": "Alcibiades",
+"text": "They will be wretched too.",
+"kind": "speech"
+},
+{
+"entry": 832,
+"who": "Socrates",
+"text": "So a person would not be able to be happy unless he were sound-minded and good.",
+"kind": "speech"
+},
+{
+"entry": 833,
+"who": "Alcibiades",
+"text": "He would not.",
+"kind": "speech"
+},
+{
+"entry": 834,
+"who": "Socrates",
+"text": "So the bad people are wretched.",
+"kind": "speech"
+},
+{
+"entry": 835,
+"who": "Alcibiades",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 836,
+"who": "Socrates",
+"text": "Then the man who has become rich is not yet free from wretchedness, but the soundminded man is.",
+"kind": "speech"
+},
+{
+"entry": 837,
+"who": "Alcibiades",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 838,
+"who": "Socrates",
+"text": "So, Alcibiades, the cities need neither walls nor triremes nor dockyards if they wish to be happy, neither do they need numbers or size, without excellence.",
+"kind": "speech"
+},
+{
+"entry": 839,
+"who": "Alcibiades",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 840,
+"who": "Socrates",
+"text": "In that case, if you do intend to engage in civic affairs properly and nobly, you must bestow excellence upon the citizens.",
+"kind": "speech"
+},
+{
+"entry": 841,
+"who": "Alcibiades",
+"text": "There is not another way.",
+"kind": "speech"
+},
+{
+"entry": 842,
+"who": "Socrates",
+"text": "But could anyone bestow what he does not possess?",
+"kind": "speech"
+},
+{
+"entry": 843,
+"who": "Alcibiades",
+"text": "No, how could he?",
+"kind": "speech"
+},
+{
+"entry": 844,
+"who": "Socrates",
+"text": "Then you should first acquire excellence yourself, and so should anyone else who is about to rule and attend to the city and to its affairs, and not just to himself and to his own affairs in private.",
+"kind": "speech"
+},
+{
+"entry": 845,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 846,
+"who": "Socrates",
+"text": "Then you should make justice and sound-mindedness available, rather than the power or the authority for yourself or the city to do as they please.",
+"kind": "speech"
+},
+{
+"entry": 847,
+"who": "Alcibiades",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 848,
+"who": "Socrates",
+"text": "And by acting in a just and sound-minded way, both you and the city will be acting in a manner beloved of God.",
+"kind": "speech"
+},
+{
+"entry": 849,
+"who": "Alcibiades",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 850,
+"who": "Socrates",
+"text": "And as we said before, you will act whilst looking to what is divine and bright.",
+"kind": "speech"
+},
+{
+"entry": 851,
+"who": "Alcibiades",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 852,
+"who": "Socrates",
+"text": "And, indeed, once you look there you will behold and come to know yourselves, and also the goods that are your own.",
+"kind": "speech"
+},
+{
+"entry": 853,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 854,
+"who": "Socrates",
+"text": "In that case, will you not act rightly and well?",
+"kind": "speech"
+},
+{
+"entry": 855,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 856,
+"who": "Socrates",
+"text": "Well then, if you act in this way, I am prepared to guarantee that you simply must be happy.",
+"kind": "speech"
+},
+{
+"entry": 857,
+"who": "Alcibiades",
+"text": "You are indeed a secure guarantor.",
+"kind": "speech"
+},
+{
+"entry": 858,
+"who": "Socrates",
+"text": "But if you act unjustly, looking to what is godless and dark, you will in all likelihood act in a manner resembling these because of your ignorance of yourselves.",
+"kind": "speech"
+},
+{
+"entry": 859,
+"who": "Alcibiades",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 860,
+"who": "Socrates",
+"text": "Yes, my dear Alcibiades, for what is likely to happen to someone in private or in public who has power to act as he pleases, but is lacking in intelligence? Take, for instance, a sick person with the power to do what he wishes but without having any medical intelligence, and who is so tyrannical that no one dares rebuke him. What will the outcome be? Is it not likely that his body will be ruined?",
+"kind": "speech"
+},
+{
+"entry": 861,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 862,
+"who": "Socrates",
+"text": "And in a ship, if someone has power to do what seems best, but is devoid of intelligence and excellence in helmsmanship, do you see what would happen to him and to his fellow sailors?",
+"kind": "speech"
+},
+{
+"entry": 863,
+"who": "Alcibiades",
+"text": "I think they would all perish.",
+"kind": "speech"
+},
+{
+"entry": 864,
+"who": "Socrates",
+"text": "And similarly, in a city and in every position of power and authority, does not bad action follow once excellence is forsaken?",
+"kind": "speech"
+},
+{
+"entry": 865,
+"who": "Alcibiades",
+"text": "It must.",
+"kind": "speech"
+},
+{
+"entry": 866,
+"who": "Socrates",
+"text": "So if there is to be happiness, excellent Alcibiades, it is not tyranny that must be provided either for yourself or the city, but excellence.",
+"kind": "speech"
+},
+{
+"entry": 867,
+"who": "Alcibiades",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 868,
+"who": "Socrates",
+"text": "But before they possess excellence it is better, not just for a child but also for a man, to be ruled by someone better rather than exercising rule.",
+"kind": "speech"
+},
+{
+"entry": 869,
+"who": "Alcibiades",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 870,
+"who": "Socrates",
+"text": "And is not the better also more noble?",
+"kind": "speech"
+},
+{
+"entry": 871,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 872,
+"who": "Socrates",
+"text": "And is the more noble, more fitting?",
+"kind": "speech"
+},
+{
+"entry": 873,
+"who": "Alcibiades",
+"text": "What else could it be?",
+"kind": "speech"
+},
+{
+"entry": 874,
+"who": "Socrates",
+"text": "So it is fitting that someone bad be a slave, since it is better.",
+"kind": "speech"
+},
+{
+"entry": 875,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 876,
+"who": "Socrates",
+"text": "Then badness befits a slave.",
+"kind": "speech"
+},
+{
+"entry": 877,
+"who": "Alcibiades",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 878,
+"who": "Socrates",
+"text": "But excellence befits the free.",
+"kind": "speech"
+},
+{
+"entry": 879,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 880,
+"who": "Socrates",
+"text": "In that case, my friend, should we not flee from the slavish spirit?",
+"kind": "speech"
+},
+{
+"entry": 881,
+"who": "Alcibiades",
+"text": "More than anything, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 882,
+"who": "Socrates",
+"text": "And are you now aware of your own condition? Does this befit a free man or not?",
+"kind": "speech"
+},
+{
+"entry": 883,
+"who": "Alcibiades",
+"text": "I think that I am very well aware of it.",
+"kind": "speech"
+},
+{
+"entry": 884,
+"who": "Socrates",
+"text": "Well, do you know how to escape this present predicament of yours? Let us not name it in the case of a noble man.",
+"kind": "speech"
+},
+{
+"entry": 885,
+"who": "Alcibiades",
+"text": "I do indeed.",
+"kind": "speech"
+},
+{
+"entry": 886,
+"who": "Socrates",
+"text": "How?",
+"kind": "speech"
+},
+{
+"entry": 887,
+"who": "Alcibiades",
+"text": "If it be your will, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 888,
+"who": "Socrates",
+"text": "That is not the right thing to say, Alcibiades.",
+"kind": "speech"
+},
+{
+"entry": 889,
+"who": "Alcibiades",
+"text": "What should I say?",
+"kind": "speech"
+},
+{
+"entry": 890,
+"who": "Socrates",
+"text": "If God wills it.",
+"kind": "speech"
+},
+{
+"entry": 891,
+"who": "Alcibiades",
+"text": "Those are my words then. And as well as this, I also declare that we are likely to exchange roles, Socrates, so that I take yours and you take mine. Indeed, from this day forth, there is no alternative but that I shall follow you and you will be followed by me.",
+"kind": "speech"
+},
+{
+"entry": 892,
+"who": "Socrates",
+"text": "How noble! So my love will turn out to be just like a stork if it, in turn, will now be cared for by the winged love it hatched within you.",
+"kind": "speech"
+},
+{
+"entry": 893,
+"who": "Alcibiades",
+"text": "Well, that is how matters stand, and I shall begin henceforth to care for justice.",
+"kind": "speech"
+},
+{
+"entry": 894,
+"who": "Socrates",
+"text": "And it is my wish that you may accomplish your objective. Yet, I have a foreboding, not from any lack of faith in your nature, but beholding the might of the city, I fear that it may overpower both me and you.",
+"kind": "speech"
+}
+]
+}
+]
+}

@@ -1,0 +1,378 @@
+[
+ {
+  "key": "alc1",
+  "title": "Alcibiades I",
+  "parts": 1,
+  "chars": 77980,
+  "speakers": [
+   "Alcibiades",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "alc2",
+  "title": "Alcibiades II",
+  "parts": 1,
+  "chars": 29196,
+  "speakers": [
+   "Alcibiades",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "apol",
+  "title": "Apology",
+  "parts": 3,
+  "chars": 61003,
+  "speakers": [
+   "Narrator",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "chrm",
+  "title": "Charmides",
+  "parts": 1,
+  "chars": 61307,
+  "speakers": [
+   "Socrates"
+  ]
+ },
+ {
+  "key": "clit",
+  "title": "Clitophon",
+  "parts": 1,
+  "chars": 12097,
+  "speakers": [
+   "Clitophon",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "crat",
+  "title": "Cratylus",
+  "parts": 1,
+  "chars": 134356,
+  "speakers": [
+   "Cratylus",
+   "Hermogenes",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "crit",
+  "title": "Critias",
+  "parts": 1,
+  "chars": 36762,
+  "speakers": [
+   "Critias",
+   "Hermocrates",
+   "Socrates",
+   "Timaeus"
+  ]
+ },
+ {
+  "key": "crito",
+  "title": "Crito",
+  "parts": 1,
+  "chars": 29859,
+  "speakers": [
+   "Crito",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "epist",
+  "title": "Epistles",
+  "parts": 1,
+  "chars": 66764,
+  "speakers": [
+   "Narrator",
+   "Plato"
+  ]
+ },
+ {
+  "key": "epin",
+  "title": "Epinomis",
+  "parts": 1,
+  "chars": 36788,
+  "speakers": [
+   "Athenian Stranger",
+   "Clinias"
+  ]
+ },
+ {
+  "key": "euthy",
+  "title": "Euthydemus",
+  "parts": 1,
+  "chars": 47184,
+  "speakers": [
+   "Crito",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "euth",
+  "title": "Euthyphro",
+  "parts": 1,
+  "chars": 37311,
+  "speakers": [
+   "Euthyphro",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "gorg",
+  "title": "Gorgias",
+  "parts": 1,
+  "chars": 202448,
+  "speakers": [
+   "Callicles",
+   "Chaerephon",
+   "Gorgias",
+   "Polus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "hippmaj",
+  "title": "Hippias Major",
+  "parts": 1,
+  "chars": 62196,
+  "speakers": [
+   "Hippias",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "hippmin",
+  "title": "Hippias Minor",
+  "parts": 1,
+  "chars": 31410,
+  "speakers": [
+   "Eudicus",
+   "Hippias",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "ion",
+  "title": "Ion",
+  "parts": 1,
+  "chars": 27934,
+  "speakers": [
+   "Ion",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "lach",
+  "title": "Laches",
+  "parts": 1,
+  "chars": 56326,
+  "speakers": [
+   "Boys",
+   "Laches",
+   "Lysimachus",
+   "Melesias",
+   "Nicias",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "laws",
+  "title": "Laws",
+  "parts": 12,
+  "chars": 809063,
+  "speakers": [
+   "Athenian Stranger",
+   "Clinias",
+   "Megillus",
+   "Narrator"
+  ]
+ },
+ {
+  "key": "lysis",
+  "title": "Lysis",
+  "parts": 1,
+  "chars": 52585,
+  "speakers": [
+   "Ctesippus",
+   "Hippothales",
+   "Lysis",
+   "Menexenus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "menex",
+  "title": "Menexenus",
+  "parts": 1,
+  "chars": 37799,
+  "speakers": [
+   "Menexenus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "meno",
+  "title": "Meno",
+  "parts": 1,
+  "chars": 71868,
+  "speakers": [
+   "Anytus",
+   "Meno",
+   "Servant",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "minos",
+  "title": "Minos¹",
+  "parts": 1,
+  "chars": 21073,
+  "speakers": [
+   "Companion",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "parm",
+  "title": "Parmenides",
+  "parts": 1,
+  "chars": 111058,
+  "speakers": [
+   "Aristoteles",
+   "Cephalus",
+   "Parmenides",
+   "Socrates",
+   "Zeno"
+  ]
+ },
+ {
+  "key": "phae",
+  "title": "Phaedo",
+  "parts": 1,
+  "chars": 161895,
+  "speakers": [
+   "Cebes",
+   "Crito",
+   "Echecrates",
+   "Phaedo",
+   "Poisoner",
+   "Simmias",
+   "Socrates",
+   "Warder",
+   "Xanthippe"
+  ]
+ },
+ {
+  "key": "phdr",
+  "title": "Phaedrus",
+  "parts": 1,
+  "chars": 134338,
+  "speakers": [
+   "Phaedrus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "phil",
+  "title": "Philebus",
+  "parts": 1,
+  "chars": 133328,
+  "speakers": [
+   "Philebus",
+   "Protarchus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "prot",
+  "title": "Protagoras",
+  "parts": 1,
+  "chars": 133258,
+  "speakers": [
+   "Companion",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "rep",
+  "title": "Republic",
+  "parts": 10,
+  "chars": 711873,
+  "speakers": [
+   "Narrator",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "soph",
+  "title": "Sophist",
+  "parts": 1,
+  "chars": 121057,
+  "speakers": [
+   "Socrates",
+   "Stranger",
+   "Theaetetus",
+   "Theodorus"
+  ]
+ },
+ {
+  "key": "stm",
+  "title": "Statesman",
+  "parts": 1,
+  "chars": 141295,
+  "speakers": [
+   "Socrates",
+   "Stranger",
+   "Theodorus",
+   "Young Socrates"
+  ]
+ },
+ {
+  "key": "symp",
+  "title": "Symposium",
+  "parts": 1,
+  "chars": 131881,
+  "speakers": [
+   "Agathon",
+   "Alcibiades",
+   "Apollodorus",
+   "Aristodemus",
+   "Aristophanes",
+   "Companion",
+   "Diotima",
+   "Eryximachus",
+   "Pausanias",
+   "Phaedrus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "tht",
+  "title": "Theaetetus",
+  "parts": 1,
+  "chars": 172091,
+  "speakers": [
+   "Euclides",
+   "Socrates",
+   "Terpsion",
+   "Theaetetus",
+   "Theodorus"
+  ]
+ },
+ {
+  "key": "tim",
+  "title": "Timaeus",
+  "parts": 1,
+  "chars": 188868,
+  "speakers": [
+   "Critias",
+   "Hermocrates",
+   "Socrates",
+   "Timaeus"
+  ]
+ }
+]

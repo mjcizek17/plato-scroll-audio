@@ -1,92 +1,107 @@
 name: audition
-# Renders audition/passage.json with each candidate engine, masters it, and commits the MP3s,
-# reference voices and speed reports to the `samples` branch.
+# Renders audition/passage.json with each candidate engine, masters it, and each job pushes its MP3,
+# reference voices, speed report and full log to the `samples` branch as soon as it finishes.
 on:
   push:
     branches: [main]
-    paths: ["audition/**", "engines/**", "tools/master.py", ".github/workflows/audition.yml"]
+    paths: ["audition/**", "engines/**", "tools/master.py", "tools/publish.sh", ".github/workflows/audition.yml"]
   workflow_dispatch:
 
 permissions:
   contents: write
 
+defaults:
+  run:
+    shell: bash -o pipefail -e {0}
+
 env:
   HF_HUB_DISABLE_PROGRESS_BARS: "1"
   PIP_CPU: "--extra-index-url https://download.pytorch.org/whl/cpu"
+  GITHUB_TOKEN: ${{ github.token }}
 
 jobs:
   kokoro:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
-      - run: sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
-      - run: pip install -q $PIP_CPU torch && pip install -q "kokoro>=0.9.4" soundfile "misaki[en]"
-      - run: cd engines && python kokoro_render.py ../out/kokoro
-      - run: python tools/master.py out/kokoro/lines audition/passage.json out/kokoro/kokoro.mp3
-      - uses: actions/upload-artifact@v4
+      - run: mkdir -p out/kokoro && sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
+      - run: (pip install -q $PIP_CPU torch && pip install -q "kokoro>=0.9.4" soundfile "misaki[en]") 2>&1 | tee -a out/kokoro/log.txt
+      - run: (cd engines && python kokoro_render.py ../out/kokoro) 2>&1 | tee -a out/kokoro/log.txt
+      - run: python tools/master.py out/kokoro/lines audition/passage.json out/kokoro/kokoro.mp3 2>&1 | tee -a out/kokoro/log.txt
+      - if: always()
+        uses: actions/upload-artifact@v4
         with: { name: kokoro, path: out/kokoro }
+      - if: always()
+        run: bash tools/publish.sh out/kokoro kokoro
 
   qwen:
-    runs-on: ubuntu-latest
-    timeout-minutes: 300
+    runs-on: ubuntu-24.04
+    timeout-minutes: 330
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg sox libsox-dev
-      - run: pip install -q $PIP_CPU torch torchaudio && pip install -q $PIP_CPU qwen-tts soundfile
-      - run: cd engines && python qwen_render.py ../out/qwen
+      - run: mkdir -p out/qwen && sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg sox libsox-dev
+      - run: (pip install -q $PIP_CPU torch torchaudio && pip install -q $PIP_CPU qwen-tts soundfile) 2>&1 | tee -a out/qwen/log.txt
+      - run: (cd engines && python qwen_render.py ../out/qwen) 2>&1 | tee -a out/qwen/log.txt
       - if: always()
-        run: python tools/master.py out/qwen/lines audition/passage.json out/qwen/qwen.mp3 || true
+        run: python tools/master.py out/qwen/lines audition/passage.json out/qwen/qwen.mp3 2>&1 | tee -a out/qwen/log.txt || true
       - if: always()
         uses: actions/upload-artifact@v4
         with: { name: qwen, path: out/qwen }
+      - if: always()
+        run: bash tools/publish.sh out/qwen qwen
 
   chatterbox:
-    needs: [kokoro, qwen]
+    needs: [kokoro]
     if: always()
-    runs-on: ubuntu-latest
-    timeout-minutes: 300
+    runs-on: ubuntu-24.04
+    timeout-minutes: 330
     strategy:
       fail-fast: false
       matrix:
         include:
           - { refs: kokoro, variant: original }
-          - { refs: qwen, variant: original }
-          - { refs: qwen, variant: turbo }
+    env:
+      NAME: chatterbox-${{ matrix.variant }}-${{ matrix.refs }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
-      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: mkdir -p out/cb && sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - uses: actions/download-artifact@v4
         with: { name: "${{ matrix.refs }}", path: "in/${{ matrix.refs }}" }
-      - run: pip install -q $PIP_CPU chatterbox-tts
-      - run: cd engines && python chatterbox_render.py ../in/${{ matrix.refs }}/refs ../out/cb ${{ matrix.variant }}
-      - run: python tools/master.py out/cb/lines audition/passage.json out/cb/cb.mp3
+      - run: pip install -q $PIP_CPU chatterbox-tts 2>&1 | tee -a out/cb/log.txt
+      - run: (cd engines && python chatterbox_render.py ../in/${{ matrix.refs }}/refs ../out/cb ${{ matrix.variant }}) 2>&1 | tee -a out/cb/log.txt
+      - run: python tools/master.py out/cb/lines audition/passage.json out/cb/cb.mp3 2>&1 | tee -a out/cb/log.txt
       - if: always()
-        uses: actions/upload-artifact@v4
-        with: { name: "chatterbox-${{ matrix.variant }}-${{ matrix.refs }}", path: out/cb }
+        run: bash tools/publish.sh out/cb "$NAME"
 
-  collect:
-    needs: [kokoro, qwen, chatterbox]
+  chatterbox-q:
+    needs: [qwen]
     if: always()
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { refs: qwen, variant: original }
+          - { refs: qwen, variant: turbo }
+    env:
+      NAME: chatterbox-${{ matrix.variant }}-${{ matrix.refs }}
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: mkdir -p out/cb && sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - uses: actions/download-artifact@v4
-        with: { path: art }
-      - run: |
-          git config --global user.name "audition-bot"
-          git config --global user.email "audition-bot@users.noreply.github.com"
-          git clone --depth 1 --branch samples "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" s \
-            || (git clone --depth 1 "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" s && cd s && git checkout --orphan samples && git rm -rqf .)
-          d="s/audition/run-${{ github.run_number }}"; mkdir -p "$d"
-          for a in art/*; do n=$(basename "$a"); mkdir -p "$d/$n"
-            cp "$a"/*.mp3 "$a"/*.json "$d/$n/" 2>/dev/null || true
-            [ -d "$a/refs" ] && cp -r "$a/refs" "$d/$n/" || true
-          done
-          echo "${{ github.sha }}" > "$d/commit.txt"
-          cd s && git add -A && git commit -qm "audition run ${{ github.run_number }}" && git push -q origin samples
+        with: { name: "${{ matrix.refs }}", path: "in/${{ matrix.refs }}" }
+      - run: pip install -q $PIP_CPU chatterbox-tts 2>&1 | tee -a out/cb/log.txt
+      - run: (cd engines && python chatterbox_render.py ../in/${{ matrix.refs }}/refs ../out/cb ${{ matrix.variant }}) 2>&1 | tee -a out/cb/log.txt
+      - run: python tools/master.py out/cb/lines audition/passage.json out/cb/cb.mp3 2>&1 | tee -a out/cb/log.txt
+      - if: always()
+        run: bash tools/publish.sh out/cb "$NAME"

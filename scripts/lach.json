@@ -1,0 +1,1535 @@
+{
+"key": "lach",
+"title": "Laches",
+"parts": [
+{
+"name": "Laches",
+"lines": [
+{
+"entry": 0,
+"who": "Lysimachus",
+"text": "Nicias and Laches, you have seen the man fighting in armour, but we did not tell you at the time why myself and Melesias here invited you to see him with us, but we shall tell you now. Indeed, we believe that it is necessary to speak openly, especially to the two of you. Now, there are some people who are contemptuous of this sort of thing, and if anyone asks them for advice they will not say what they think. Instead they try to guess what advice the person wants, and they say something that is contrary to their own opinion. But we believe that you are men of ample discernment, and based on this discernment you should tell us, in plain terms, what you think about the issues we are about to set before you. Now, the issue that I am leading up to at such length is as follows. We both have these sons: this is my friend’s son who bears the name of his grandfather, Thucydides; and this is my son who also bears his grandfather’s name, since we call him Aristides, after my father. Now, we have resolved to care for them as best we can, and not to do what most parents do when their sons reach adolescence and allow them to do whatever they wish. No, we have decided to make an immediate start at caring for them as best we can. So, realising that the two of you also have sons, we believed you, if anyone, cared about how they might, with attention, become as excellent as they possibly could. And if it turns out that you have not often thought about this sort of thing, we remind you that it should not be neglected and we invite you to join us in devising some means of caring for our sons. But, Nicias and Laches, you should also hear how we came to these decisions, even if it takes a little longer. In fact, Melesias and I take our meals together and the two lads dine with us. Now, as I also said at the beginning of our conversation, we are going to speak openly to you. For in the case of his own father, each of us can recount numerous noble achievements to the young men, some performed in time of war, some in times of peace, as they managed the affairs of our allies and of this city of ours. But when it comes to our own achievements, neither of us has anything to report. So we are ashamed of this in front of the boys, and we blame our own fathers for allowing us free rein once we reached adolescence while they were busy with other people’s affairs. So we point all this out to the young men, explaining that if they show no care for themselves and pay no heed to us, they will not be famous, while if they do care for themselves they may, perhaps, become worthy of the names they bear. Now, they say that they will heed us, while we for our part are considering what particular subjects or pursuits would render them as excellent as they could possibly be. Now, someone introduced us to this subject of fighting in armour, as a good subject for a young man to learn, and he praised this fellow whose exhibition you have just seen, and then told us to go and see it. So we decided we should go to see the man, and take you two along with us to see him too, and at the same time to be our advisors and, if you wish, co-operate with us in the care of our sons. That’s what we wanted to set before you. So at this stage we want you, for your part, to advise us about this particular subject, and whether it should be learned or not, and whether there is any other subject you can recommend for a young man, or any pursuit either. And please tell us how you will respond to the proposed co-operation.",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Nicias",
+"text": "As for myself, Lysimachus and Melesias, I applaud your idea, and I am ready to cooperate, and I think Laches here will do so too.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Laches",
+"text": "Yes, that’s true, Nicias. And what Lysimachus said just now about his own father and Melesias’ father too is, in my opinion, very relevant to them, to the two of us, and to everyone who engages in civic affairs, because almost as a rule what happens to them is just what he described. Whether it concerns their children or anything else, they set little value upon their private affairs, and manage them without proper care. Now, although you are explaining this very well, Lysimachus, I am surprised that you are calling upon the two of us as advisors on the education of the young men, and not calling upon Socrates here, who in the first place is from your own district, and secondly, whenever time is being spent on the sort of worthwhile subjects or pursuits for young men that you are seeking, Socrates is there.",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Lysimachus",
+"text": "What do you mean, Laches? Has Socrates here demonstrated an interest in this sort of thing?",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Laches",
+"text": "Yes, certainly, Lysimachus.",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Nicias",
+"text": "I can tell you about this too, just as well as Laches can. In fact, Socrates recently recommended a music teacher to me for my own son. His name is Damon, a pupil of Agathocles, and the most accomplished of men, not only in music, but in anything else you might deem worthwhile for young men to engage in at that age.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Lysimachus",
+"text": "Well, Socrates, Nicias, and Laches, men of my age do not really understand young people any more, since we spend most of our time at home because of our age. But if you, son of Sophroniscus, have any good advice to give to someone from your own district, then you should advise me. It is only right that you should. In fact, it so happens that you are my friend, through your father, since myself and your father were friends and associates, and to the day he died he never fell out with me. But something is coming back to me, and I am reminded from what has just been said, that when the young lads here are conversing with one another at home, they often mention Socrates, and they praise him highly. Yet I never asked them if they are referring to the son of Sophroniscus. So, boys, tell me, is this the Socrates you mention so often?",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Boys",
+"text": "Certainly, father. This is the man.",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Lysimachus",
+"text": "Well, by Hera, Socrates, it is good to see that you do right by your father, the best of men, especially in view of the mutual family connections that are about to be established between ourselves.",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Laches",
+"text": "Yes, indeed, Lysimachus, you should not let this man go. For I have also seen him elsewhere, doing right not only by his father but by his fatherland too. Yes, he retreated alongside me in the flight from Delium, and I am telling you that if the others had been prepared to act as he acted, our city would be standing tall, and a calamity like that would never have befallen her.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Lysimachus",
+"text": "This is fine praise indeed, Socrates, since it comes from trustworthy men, and because of the qualities they are praising in you. Now, rest assured that when I hear all this I am delighted that you are held in high esteem, and you should count me among those who have the highest regard for you. Now, you yourself really should have paid us a visit long before this and treated us as family. It is only right that you should. But from now on, since we now recognise one another, you have no choice but to get to know us, and make the acquaintance of ourselves and these young fellows here, so that you may preserve our mutual friendship. Well, you will do this of course, and we shall remind you again. However, what do you have to say about our initial discussion topic? What do you think? Is the subject suitable for the young men or not, I mean learning how to fight in armour?",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "Well, Lysimachus, I shall try to advise you about this matter as best I can, and what is more, I shall also do everything else you are asking me to do. However, since I am younger than anyone else here, and less experienced than they are, I think that what is most fitting is that I first listen to what they say and learn from them. Then, if I have anything to add to what they say, I should provide instruction at that stage, and try to convince yourself and these men too. Well, Nicias, why does one of you not speak first?",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Nicias",
+"text": "There is no reason not to, Socrates. Indeed, it seems to me that knowledge of this subject is of benefit to the young in lots of ways. In fact, it would be well for the young people to spend their time in this, rather than the pursuits they normally like to engage in when they are at leisure. This must improve their bodies, for it is just as good and just as strenuous as any physical exercise, and, at the same time, this exercise, and horsemanship too, are most appropriate to a free man. For only those who exercise with these instruments of war are trained in the struggle in which we engage and in the instruments upon which our struggle depends. What’s more, this subject will also be of some benefit in the battle itself, when it is necessary to fight in ranks alongside many others. However, its greatest benefit is when the ranks are broken and you must then fight one on one, either when pursuing someone who is warding off your attack, or when you yourself are in retreat and must ward off an attack by someone else. Someone with knowledge of this subject would suffer no harm when faced with a single opponent, or perhaps when faced with many. He would have the advantage in any situation. Then again, something like this also awakens an interest in another noble subject, for everyone who learns how to fight in armour would also develop an interest in the related subject of military tactics, and once he had grasped these and taken pride in them, he might then tackle the subject of generalship. And it is obvious by now that anything related to these, and all the subjects and pursuits that are noble and well worthwhile for a man to learn and practise, would all have their origin in this subject. But we should make an additional point, and it is not an insignificant one. This knowledge would make any man much bolder and braver in battle than he was before. And we should not disdain to mention, even if some think it is insignificant, that he will look more impressive where a man needs to look more impressive, where he needs to appear more formidable to the enemy because of his impressive appearance. So, Lysimachus, it seems to me, as I say, that these subjects should be taught to young men, and I have told you why I think so. But if Laches has a contrary view, I would gladly listen to it.",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Laches",
+"text": "Well, Nicias, to take any subject at all and say that it should not be learned presents a difficulty, since it does seem good to know everything. And if this armour business is indeed a subject, as its instructors claim and as Nicias says, then it should be learned. But if it is not a subject, and those who promise to teach it are deceiving us, or if it is actually a subject but not a very serious one, what need could there be to learn it? And I am saying this about it based upon the following observation: I think that if it amounted to anything it would not have been overlooked by the Spartans, people whose sole concern in life is to seek out and practise any subject or pursuit that might give them an advantage over others in war. And if these people have overlooked it, then the teachers of this subject surely have not overlooked the fact that, among the Greeks, the Spartans are the ones who are most serious about such matters, and that anyone who has won respect among them in this area would also make a great deal of money from the other cities, just as a tragedian does when he has won respect among ourselves. As a result, anyone who thinks that he is a good tragedian does not make a circuit of Attica, putting on performances in all the other outlying cities. No, he makes his way here directly and puts on a performance for us. It is the reasonable thing to do. But I observe that those who fight in armour regard Sparta as sacred ground, and they do not set even a toe there. They make their way around the city in a circle and would prefer to put on a performance for anyone else at all, especially for those who would confess that when it comes to warfare, lots of other cities are superior to themselves. And, Lysimachus, I have come across quite a few of these people in action and I have seen what they are like. So we may also consider the matter on this basis. Indeed, as a rule, not a single person who has practised fighting in armour has ever won fame in battle. Even though, in all the other disciplines, the people who become famous are the ones who practise, these fellows, in contrast it seems, meet with stark misfortune. Yes, and this Stesilaus, whom you saw along with me, putting on that performance in front of such a large crowd and making those great claims that he made about himself, well, I saw him elsewhere, in a real battle, actually putting on a better performance unintentionally. The ship he was serving on had rammed a transport vessel and he was fighting with an unusual weapon, a ‘spear-pike’ – as unusual as the man himself. Now, his general exploits are hardly worth recounting, except for the details of what happened to the spear-pike. For as he was fighting, it somehow got caught in the rigging of the other ship and wouldn’t budge. So Stesilaus tugged at it in an effort to free it but he was not able to, and the ships were moving. Well, at first he ran along the deck, holding onto the weapon, but then the other ship began to draw away and it dragged him after it, still holding on. He allowed the weapon to slip through his hands until he was left holding onto the end of the shaft. There was laughter and derisory applause from the men on the transporter at the sight of the fellow, and when someone threw a stone that landed on the deck at his feet, he finally let go of the spear-pike. By then, even the men on his own ship were no longer able to contain their laughter when they saw his weapon flapping about on the transporter. Now, all this may perhaps amount to something, as Nicias says, but those whom I have met are people like Stesilaus. So, as I said initially, whether it is a subject but of little benefit, or it is not a subject but people claim that it is and pretend that it is, in either case it is not worth trying to learn it. In fact, it seems to me that if a coward were to believe that he knew this subject, he would become bolder because of it, and the sort of man he actually is would become more obvious, while if a brave man were to do so, he would be under scrutiny from everyone else and would attract enormous criticism at even the slightest mistake. For pretensions to this sort of wisdom produce envy, and unless a man excels over others in excellence to an amazing extent, there is no way he can avoid becoming a laughing stock by claiming to possess this knowledge. Such is my opinion, Lysimachus, of any effort expended upon this subject. But as I told you initially, you should not let Socrates here go, but you should ask for his advice, based on his view of the issue before us.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Lysimachus",
+"text": "Well, I am asking you, Socrates. In fact, our meeting seems to me to require a sort of casting vote. For if these two men had concurred, there would be less need for this, but now, as you see, Laches has voted the opposite way to Nicias, so it would be nice to hear from you too. Which of the two men do you vote with?",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "What’s this, Lysimachus? Are you going to adopt the stance that the majority of us approve of?",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Lysimachus",
+"text": "What else could anyone do, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Socrates",
+"text": "And you, Melesias, would you do the same? Even if you had a meeting about how your son should exercise for a competition, would you be persuaded by the majority of us or by that person who happens to have been educated and exercised under a good trainer?",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Melesias",
+"text": "By that person, Socrates, more likely.",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Socrates",
+"text": "So, would you be more persuaded by him than by the four of us?",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Melesias",
+"text": "Probably.",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "Because, I presume, an issue should be decided based upon knowledge rather than numbers, if it is to be decided aright.",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Melesias",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "So, in this case too, we should first consider this particular question. Is there or is there not anyone among us who is skilled in the matter we are deliberating upon? And if there is, we should be persuaded by that one person and bid the others farewell. But if there is not, we should search for someone else to advise us. Or do you and Lysimachus think that what is now at stake is insignificant and does not concern what is actually the most important of your possessions? For, I believe, the entire estate of the father will be managed based upon the sort of people the children become, and whether or not the sons turn out well.",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Melesias",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "So it must be given a great deal of forethought.",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Melesias",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "Now, on the issue I just mentioned, how would we proceed if we wished to consider which of us is most skilled in the area of competitive contests? Would he not be the person who has learned and practised, and who has had good teachers of this particular skill?",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Melesias",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "Even before that, should we not consider what this subject, whose teachers we are seeking, actually is?",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Melesias",
+"text": "What do you mean?",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Socrates",
+"text": "Perhaps this will be more obvious as follows. I do not think we agreed at the outset what exactly it is that we are deliberating about and considering when we ask who among us is skilled in this, and who has acquired teachers for the sake of this, and who has not.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Nicias",
+"text": "But, Socrates, aren’t we discussing armour fighting and whether the young men should learn this or not?",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Socrates",
+"text": "Yes, certainly, Nicias, but when someone is considering a medicine for his eyes, and whether it should be applied or not, do you think his deliberation at that time is about the medicine or his eyes?",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Nicias",
+"text": "It is about his eyes.",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "And when someone is considering a bridle for a horse, and whether it should be attached or not, and when this should happen, presumably he is then deliberating about the horse, and not about the bridle.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Nicias",
+"text": "True.",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Socrates",
+"text": "So, in a word, whenever someone considers something for the sake of something else, his deliberation is actually about that other thing. His deliberation is not concerned with whatever he was considering for the sake of that other thing.",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Nicias",
+"text": "Necessarily.",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "So, we should consider whether the advisor is skilled in attending to that, namely to that for the sake of which we are engaging in these considerations.",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Nicias",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "So, at present we claim to be considering a subject for the sake of the souls of the young men, do we not?",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Nicias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Socrates",
+"text": "So we should consider if there is anyone among us who is skilled in attending to the soul, and is able to attend to it aright, and if there is anyone who has had good teachers?",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Laches",
+"text": "What’s this, Socrates? Have you not noticed that in some cases people have become more skilled without teachers than with teachers?",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "I have, Laches, but you would not be prepared to believe them if they claimed to be good practitioners unless they were able to present you with one or more well-executed deeds, born of their own skill, as evidence.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Laches",
+"text": "There you speak the truth.",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "So, Nicias and Laches, since Lysimachus and Melesias have called upon us to advise them about their two sons, being eager that their souls turn out as excellent as they possibly can, we, if we claim to have teachers, should show them the ones who are themselves good in the first place, and have attended to the souls of many young men, and secondly, have evidently given instruction to ourselves. Alternatively, if any one of us declares that he himself has not had a teacher but can recount some deeds of his own, then he should point out any Athenians or strangers, slaves or free men, who are generally acknowledged to have become good through his agency. But if none of this applies to us, we should bid them look for someone else, and not run the risk of corrupting the sons of our companions and incurring enormous reproach from our closest kin. Now, Lysimachus and Melesias, I am the first to admit that I myself have not had a teacher of this, even though I set my heart on the matter from my earliest years. But I cannot afford to pay money to the sophists, the only people who proclaimed that they could make me noble and good, and I am unable, to this day, to discover the skill for myself. Yet I would not be surprised if Nicias or Laches have discovered it or learned it. In fact, they are wealthier than I am, and so they may have learned from others, and indeed they are older, so they may have discovered it already. Now, I think they are able to educate a person, for they would never have expressed their views so fearlessly on the pursuits that are useful or harmful for the young unless they were convinced that they had sufficient knowledge. And although in general I believe them, I was surprised that they disagreed with one another. So, Lysimachus, I ask this of you in return. Just as Laches directed you a moment ago not to let me go, but to question me, I am now recommending that you do not let Laches and Nicias go, but ask them this question. Socrates denies that he has any knowledge of this matter, or that he is competent to decide which of you is speaking the truth, for he has neither discovered this sort of thing nor learned about it from anyone else. So, Nicias and Laches, you should tell us who is the most formidable person you have consulted in relation to the rearing of your sons; whether you are knowledgeable because you learned from someone else, or because you found out for yourselves; and if you did learn it, who were your teachers and who else has the same skill they have? We ask this in case you are too busy with affairs of state, in which case we could go to these people and persuade them, with gifts or favours or both, to take charge of our children, and yours too, so that they do not turn out badly and bring shame upon their ancestors. But if you have discovered this sort of thing yourselves, give us an example of some people whom you have already made good and noble through your care when they had previously been bad. For if you are now about to educate people for the first time, you should be careful lest you run risks, not with some worthless person, but with your own sons and the children of your friends, and simply end up, as the saying goes, practising pottery on too large a vessel. So, tell us which of these applies to you, and is appropriate in your case, and which is not. Find this out from them, Lysimachus, and do not let these men off.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Lysimachus",
+"text": "Gentlemen, although Socrates has, in my opinion, spoken well, you, Nicias and Laches, should decide for yourselves whether you wish to be questioned on such matters and give an account of them. Now, Melesias and myself would, of course, be delighted if you were willing to give a full response to everything that Socrates asked. In fact, I said at the very outset that we were going to invite you to advise us on this issue because we thought you were likely to care about this sort of thing, especially since your own children, just like ours, are almost of an age to be educated. So, if it makes no difference to you, speak, and consider this, along with Socrates, in the give and take of discourse with one another. For his point is well made; we are now deliberating about our most important possessions. So take a look and decide if this is what should be done.",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Nicias",
+"text": "Lysimachus, you seem to me, in truth, to know Socrates only through his father, and not to have associated with the man himself except when he was a child, when you came across him among the local people, as he accompanied his father to the temple or some other public gathering. But it is obvious that you are still unacquainted with the man in his mature years.",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Lysimachus",
+"text": "What makes you so sure, Nicias?",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Nicias",
+"text": "You seem to me to be unaware that whoever gets close to Socrates and engages in a dialogue with him must necessarily, even if he starts off by discussing something else at first, be led around by this man relentlessly in the discussion until he submits to giving an account of himself, the manner in which he is living his life at present, and how he has lived his life until now. And once he submits, Socrates will not let him go until he tests all this, well and truly. Now, I am used to him, and I know that it is necessary to undergo this process at his hands, and yet I know quite well that I too shall undergo this. Indeed, Lysimachus, I delight in engaging with the man, and I think there is no harm in being made aware that we have acted, or are acting, badly. Rather, a person who does not flee from these processes, but willingly embraces the maxim of Solon, and values learning for as long as he lives and does not presume that old age of itself brings good sense, he must necessarily be more careful about the rest of his life. For me, there is nothing strange or unpleasant in being tested by Socrates. I more or less knew a while ago that with Socrates present the conversation would not be about our sons, but about ourselves. So, as I say, there is no reason for me not to converse with Socrates in whatever way he wishes. But you should see where Laches here stands on the matter.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Laches",
+"text": "Nicias, my attitude to discussions is simple, or if you prefer, not simple, but twofold. In fact, someone might think me a lover of discourse, and then again a hater of discourse. For whenever I hear a man discoursing on the subject of excellence or any sort of wisdom, a true man who is worthy of the words he is speaking, I am delighted beyond measure when I see that both the speaker and the words spoken are mutually appropriate and in harmony. And such a person seems genuinely musical to me, attuned to the noblest harmony, not of a lyre or instruments of entertainment, but in truth he makes his own life a concord of words with deeds, attuned not, I believe, to the Ionic mode, nor to the Phrygian nor the Lydian, but to the Doric mode, which is the only harmony that is indeed Greek. When a man like this speaks, he makes me happy, and anyone would think me a lover of discourse because I accept what the man says so eagerly. But someone who behaves in the opposite way pains me, and the better he seems to speak, the greater the pain, and he makes me seem, in turn, to be a hater of discourse. Now, I’m not acquainted with Socrates’ words, but it seems that I do have previous experience of his deeds, and therein I found him worthy of noble words and total freedom of speech. So, if he also has this quality, we are like-minded, and I would gladly submit to scrutiny by such a man as this, and would not be reluctant to learn from him, since I too agree with that precept of Solon, with just one reservation: I am willing to grow old, learning a lot in the process, but only from worthy men. Let Solon concede this point to me, that my teacher should also be good, so that I do not turn out to be a difficult pupil with a distaste for learning. But if my teacher is to be younger than I am, or is not yet famous or has some other shortcoming of that kind, that does not concern me. So, Socrates, I invite you to teach me and refute me in whatever way you please, and also to learn, in turn, anything that I know, such is the regard I have for you ever since that day when you were my companion in danger and gave proof of your own excellence – the sort that a man who intends to do justice to himself ought to give. So say anything you like and do not take account of our age difference.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "It seems we cannot accuse you two of being reluctant to give advice and join our enquiry.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Lysimachus",
+"text": "But it’s our work you are doing, Socrates, for I count you as one of us, so take my place on behalf of the young men and make the enquiry. Find out whatever we need to know from these gentlemen, and then act as our adviser by discussing it with the boys. For I am inclined nowadays, because of my age, to forget for the most part the questions I intend to ask, and any answers too, and if other arguments are introduced during the process my memory goes completely, so you should do the talking. Go through the issues we are interested in among yourselves. I shall listen in, and then I, along with Melesias here, shall do whatever you suggest.",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "Nicias and Laches, we should comply with this request of Lysimachus and Melesias. Now, a moment ago we set about considering what instructors we have had in this kind of education, and what other people we have made better. Perhaps we would do well to investigate such questions ourselves. But I think the following enquiry leads to the same thing, and to an extent it proceeds more from principle. So if we happen to know, in relation to anything at all, that its presence in something makes that in which it is present better, and furthermore we are able to make it be present in that, it is obvious that we know the thing itself, that’s the matter on which we would be acting as advisers on how it might best and most easily be acquired. Perhaps you do not understand what I am saying, but you shall understand more easily from the following. If we happen to know that if sight is present to the eyes it makes those eyes in which it is present better, and if we are also able to make it present in eyes, it is obvious that we know exactly what sight is. And sight is the subject on which we would be acting as advisers on how it might best and most easily be acquired. For if we did not know what exactly sight itself was, or hearing either, we could hardly act as worthy advisers and physicians in relation to eyes or ears, and the manner in which someone might best acquire hearing or sight.",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Laches",
+"text": "That’s true, Socrates",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "Well, Laches, are there not two men now inviting us to counsel them on the manner in which their sons may be made better by the presence of excellence in their souls?",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Laches",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "Well then, the first thing we need is this. We need to know what precisely excellence is, do we not? For if, somehow, we were totally ignorant as to what precisely excellence happens to be, how could we act as advisers to anyone on how it may best be acquired?",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Laches",
+"text": "I don’t think we could do so at all, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "However, we do say that we know what it is, Laches.",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Laches",
+"text": "Yes, we say so.",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "And in the case of what we know, we could of course also, surely, say what it is.",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Laches",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "Well, excellent man, let us not consider excellence as a whole straight away, since that task is probably beyond us. But let us first see if we have sufficient knowledge of some part of it. Then the enquiry will, in all likelihood, be easier for us.",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Laches",
+"text": "Then let us do as you suggest, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "So, which of the parts of excellence should we choose? Or is it obviously the one that learning how to fight in armour seems to promote? And most people presumably think it promotes courage. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Laches",
+"text": "Yes, indeed, very much so.",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "In that case, Laches, we should first attempt to state what exactly courage is. Then, after that, we shall also consider the manner in which it may become present in young people, insofar as it can become present through the pursuits they engage in and the subjects they learn. So, as I say, try to state what courage is.",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Laches",
+"text": "By Zeus, Socrates. There is no difficulty in stating that if someone were prepared to remain at his post, ward off the enemy and not run away, then mark my words, he would be courageous.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "That is nicely put, Laches, and perhaps I am to blame for not expressing myself more clearly, but you have not answered the question I had in mind. You have answered a different one.",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Laches",
+"text": "What do you mean by this, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "I shall tell you, if I can. Presumably that man is courageous, the one you describe, the one who remains at his post and fights the enemy.",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Laches",
+"text": "Yes, that’s what I am saying.",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "And so am I. But what about someone who fights the enemy whilst fleeing rather than remaining at his post?",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Laches",
+"text": "Fleeing in what sense?",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "Presumably in the sense that the Scythians are said to fight whilst fleeing, no less than they do in pursuit. And Homer, in praise of the horses of Aeneas, says that they knew how to pursue and also to flee very swiftly, hither and thither. And he praises Aeneas himself for his knowledge of flight, and he refers to him as a ‘counsellor of flight’.",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Laches",
+"text": "And rightly so, Socrates, since he was referring to chariots, and you are talking about the Scythian horsemen. But although the cavalry fight in that way, the men at arms fight in the way I am describing.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "Except perhaps for the Spartans, Laches. Indeed, they say that when the Spartans at Plataea came across the men with the wicker shields, they were not willing to remain in position and do battle with them, so they fled. But once the Persian ranks had broken, they turned around and fought, just as horsemen do, and so won the battle of Plataea.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Laches",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "Well, this is what I meant earlier, that I am responsible for the fact that you did not answer properly because I did not ask the question properly. Indeed, I wanted to find out from you not just who are courageous among the infantry, but also among the cavalry and the entire warrior class; and not only who are courageous in battle, but also amidst perils at sea; and who are courageous in the face of disease or poverty or political issues. And furthermore, I also wanted to find out who are courageous not only when faced with pain or fear, but also who are formidable at combatting desire or pleasure, either by standing firm or rallying against them. For I presume, Laches, there are some people who are courageous in such situations as these.",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Laches",
+"text": "Very much so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "So all these people are courageous, but some possess courage in the face of pleasures, others in the face of pain or desire or fear, while others I believe display cowardice in the same situations.",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Laches",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "What exactly are these two, courage and cowardice? That is what I wanted to find out. So try once more to state firstly what courage, which is the same in all these instances, actually is. Or do you not fully understand what I am saying yet?",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Laches",
+"text": "Not entirely.",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "What I mean is this. It is as if I were asking what exactly speed is, which we encounter in running, in harp-playing, in speaking, in learning – a quality we exhibit to an extent in any activity worth mentioning, of hands, legs or mouth, and in speech and thought too. Is this how you speak of it too?",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Laches",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Socrates",
+"text": "Well, if someone were to ask me, “Socrates, what do you say this quality is, the one you refer to as speed in all these examples?” I would tell him that I call speed the power that gets a lot done in a short time, whether in speech or running or in anything else.",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Laches",
+"text": "And you would be right to say so.",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Socrates",
+"text": "Now, Laches, you should also try to describe courage in this way. What power, the same in the case of pleasure and in the case of pain, and in all the other examples we gave a moment ago, is referred to as courage?",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Laches",
+"text": "Well, it seems to me to be an endurance of the soul, if I must describe what naturally applies to them all.",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Socrates",
+"text": "But of course we must, if we are to answer the question we put to ourselves. Yet it appears to me that you certainly do not, as I see it, regard all endurance as courage. I justify this assertion as follows: I know fairly well, Laches, that you count courage among the qualities that are utterly noble.",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Laches",
+"text": "Among the very noblest, rest assured.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "Is not endurance, accompanied by wisdom, good and noble?",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Laches",
+"text": "Absolutely.",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Socrates",
+"text": "What if it is accompanied by ignorance? In that case, on the contrary, is it not harmful and damaging?",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Laches",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Socrates",
+"text": "Now, will you say that something like this is noble when it is damaging and harmful?",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Laches",
+"text": "No, Socrates, that would not be right.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "So you do not accept that endurance of this sort is courage, since it is not noble, and courage is noble.",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Laches",
+"text": "That is true.",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Socrates",
+"text": "So, based on your argument, wise endurance is courage.",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Laches",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Socrates",
+"text": "Well, let us see. In what respect is it wise? Is it wise in all respects, significant and trivial? For instance, if someone endures in spending his money wisely, knowing that he will gain more from spending it, would you call this man courageous?",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Laches",
+"text": "By Zeus, I would not.",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Socrates",
+"text": "What if someone is a physician, and his son, or someone else with a lung infection, is begging for drink or food, and he is unyielding and endures in his refusal?",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Laches",
+"text": "No, that is not courage either, not at all.",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Socrates",
+"text": "And in war, what about a man who is prepared to fight, who calculates wisely, who knows that others will come to his aid, and that he is fighting against fewer troops, inferior to those on his side, whilst holding the better ground? Would you say that this man, who endures with this sort of wisdom, is more courageous than the man in the opposing army who is prepared to stand his ground and endure?",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Laches",
+"text": "The man on the opposite side seems more courageous to me, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "And yet this man’s endurance is more foolish than the other man’s.",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Laches",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Socrates",
+"text": "So you will also say that a man with knowledge of horsemanship, who endures in a cavalry battle, is less courageous than someone who does so without that knowledge.",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Laches",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Socrates",
+"text": "And the one who endures, with knowledge of slinging or archery or any other skill, is less courageous.",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Laches",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Socrates",
+"text": "And those who are prepared to go down into a well and dive, and who demonstrate endurance in this, or in another task like this, without being trained, will you say that they are more courageous than those who are trained?",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Laches",
+"text": "Yes, Socrates, what else could anyone say?",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Socrates",
+"text": "Nothing, if he actually thinks so.",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Laches",
+"text": "Well then, I think so at any rate.",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Socrates",
+"text": "And yet, Laches, such people are running risks and demonstrating endurance in a more foolish manner than those who perform the action with knowledge of the skill.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Laches",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Socrates",
+"text": "In our earlier discussion, did not foolish boldness and endurance prove to be shameful and harmful?",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Laches",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Socrates",
+"text": "And yet courage was agreed to be something noble.",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Laches",
+"text": "Yes, that was agreed.",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Socrates",
+"text": "But now, on the contrary, we are saying that this shameful behaviour, foolish endurance, is courage.",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Laches",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Socrates",
+"text": "Well, do you think we are talking sense?",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Laches",
+"text": "By Zeus, Socrates, I do not.",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Socrates",
+"text": "So I presume, to use your phrase, Laches, you and I are not attuned to the Doric mode, for our deeds are not in concord with our words. In fact, if someone were listening to our discussion now, he might declare that in action we do, it seems, partake of courage, but in words I think he would say that we do not.",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Laches",
+"text": "Very true.",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Socrates",
+"text": "What about this? Do you think this is a good predicament for us to be in?",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Laches",
+"text": "No, not at all.",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Socrates",
+"text": "Well, do you want to accept our statement to this extent?",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Laches",
+"text": "To what extent, and what statement do you mean?",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Socrates",
+"text": "The statement that calls for endurance. So if you are willing, we too should stand our ground and endure in this search so that courage itself does not laugh at us, because we are not seeking it courageously if it turns out that endurance itself is courage after all.",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Laches",
+"text": "Socrates, I am prepared to persist even though I am unaccustomed to discussions of this sort. But in the light of what has been said, I am gripped by a thirst for victory, and I am truly annoyed that I find myself unable to express the concept I have. For although I seem to have a concept of what courage is, I do not know how it escaped me just now so that I cannot get my words together to state what it is.",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Socrates",
+"text": "Well, my friend, the good huntsman should pursue his quarry and not give up.",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Laches",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Socrates",
+"text": "So, let us also invite Nicias here to the hunt. Do you agree? He may be more resourceful than we are.",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Laches",
+"text": "I agree. Why wouldn’t I?",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Socrates",
+"text": "Come then, Nicias. If you have the power to do so, you should come to the aid of your friends, who are caught up in a storm of discourse and are perplexed. You surely see how perplexed we are, but if you say what you think courage is, you will free us from the perplexity and give certainty to your own concept by putting it into words.",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Nicias",
+"text": "Well, it has seemed to me, Socrates, for quite some time that you are not defining courage properly. For you are not referring to an excellent maxim, which I have heard you stating before.",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Socrates",
+"text": "What maxim, Nicias?",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Nicias",
+"text": "I have often heard you say that ‘each of us is good wherein he is wise and bad wherein he is foolish’.",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Socrates",
+"text": "Well, by Zeus, Nicias. That is true.",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Nicias",
+"text": "In that case, if the brave man is indeed good, it is obvious that he is wise.",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Socrates",
+"text": "Did you hear that, Laches?",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Laches",
+"text": "I did, but I do not really understand what he is saying.",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Socrates",
+"text": "Well, I think I understand, and the man seems to me to be saying that courage is a kind of wisdom.",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Laches",
+"text": "What kind of wisdom, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Socrates",
+"text": "Why not put this question to the man himself?",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Laches",
+"text": "I am.",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Socrates",
+"text": "Come on then, Nicias, tell him what sort of wisdom courage would be, according to your account. For I presume it is not the wisdom of flute-playing.",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Nicias",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Socrates",
+"text": "Nor indeed that of harp-playing.",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Nicias",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Socrates",
+"text": "But what is it then? Knowledge of what?",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Laches",
+"text": "That certainly is the right way to question him, Socrates. He should say what he says it is.",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Nicias",
+"text": "I say, Laches, that it is the knowledge of what is to be feared and what is to be ventured, in war or in any other situation.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Laches",
+"text": "How strangely he speaks, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Socrates",
+"text": "What have you in mind when you say this, Laches?",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Laches",
+"text": "What? Wisdom is surely distinct from courage.",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Socrates",
+"text": "Yet Nicias says otherwise.",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Laches",
+"text": "Indeed he does, and talks nonsense in the process.",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Socrates",
+"text": "Then let us instruct him rather than abusing him.",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Nicias",
+"text": "Well, Socrates, I think Laches wishes to make out that I too am talking nonsense because he was shown up for doing that sort of thing himself a moment ago.",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Laches",
+"text": "Yes, indeed, Nicias, and I shall attempt to prove this at any rate, for you are talking nonsense. So, for instance, in the case of diseases, aren’t the physicians the ones who know what is to be feared? Or do you think the courageous people know? Or do you call the physicians courageous?",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Nicias",
+"text": "No, not at all.",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Laches",
+"text": "Nor the farmers either, I suppose, even though they surely know what is to be feared with regard to the cultivation of the earth. And all the other practitioners know what is to be feared and what is to ventured in relation to their own areas of expertise. But that does not mean they are any more courageous.",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Socrates",
+"text": "What do you think Laches is saying, Nicias? He does seem to have a point.",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Nicias",
+"text": "He has a point alright, but it is not true.",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Socrates",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Nicias",
+"text": "Because he thinks physicians know something more about sick people than how to pronounce them healthy or ill. Yet this, surely, is the full extent of their knowledge. But, Laches, do you believe the physicians know if being healthy is to be feared by someone, more so than being ill? Or don’t you think that it is better in many cases not to recover from an illness? Yes, tell me this. Do you maintain that it is better, in every case, to be alive? In many cases is it not preferable to be dead?",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Laches",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Nicias",
+"text": "And do you think the same things are to be feared by those who are better off dead as by those who are better off alive?",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Laches",
+"text": "I do not.",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Nicias",
+"text": "Well, do you attribute this knowledge to the physicians or to any other practitioner, apart from the man who knows what is to be feared and what is not – the man I call courageous?",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Socrates",
+"text": "Do you understand what he is saying, Laches?",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Laches",
+"text": "I do. He is saying the soothsayers are the brave ones, for who else would know who is better off alive rather than dead? And what about yourself, Nicias? Do you admit to being a soothsayer, or are you neither a soothsayer nor courageous either?",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Nicias",
+"text": "What is this? Do you yourself think that it is the role of the soothsayer to know what is to be feared and ventured?",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Laches",
+"text": "I do, otherwise whose role could it be?",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Nicias",
+"text": "It is much more the role of the people I am speaking of, best of men, since the soothsayer need only recognise the signs of what will happen, whether someone will die or be ill or lose his property, whether he will be victorious or suffer defeat in war, or in any other contest. But it is no more a role for the soothsayer than for anyone else at all to decide which of these is best for someone to suffer or not suffer.",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Laches",
+"text": "Well, Socrates, I do not understand from this what he wants to say, for he is explaining that he does not refer to the soothsayer or the physician, or anyone else, as a man of courage unless he is saying that it is some god. In fact, as I see it, Nicias is not willing to admit honestly that he is talking nonsense. Instead, he twists this way and that in an effort to conceal his own perplexity. Yet you and I could have performed similar twists a moment ago if we had wanted to avoid seeming to contradict ourselves. Well, if our arguments were being presented in a court of law, there might be some reason to do this, but now, at a gathering of this sort, why would someone adorn himself vainly with empty words?",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Socrates",
+"text": "There is no reason to do so, Laches, but let us see. Perhaps Nicias thinks he has a point and is not saying all this just for the sake of talking. So let us find out from him, with greater clarity, what exactly he has in mind, and if it turns out that he has a point we shall go along with it, and if not we shall teach him.",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Laches",
+"text": "Well then, Socrates, if you want to find out, go ahead and find out. Perhaps I have found out enough.",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Socrates",
+"text": "That will not stop me. Indeed, the enquiry will be on my behalf and yours.",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Laches",
+"text": "Very well then.",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Socrates",
+"text": "So tell me, Nicias, or rather tell us both, since Laches and myself are sharing the conversation: are you saying that courage is knowledge of what is to be feared and what is to be ventured?",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Nicias",
+"text": "I am.",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Socrates",
+"text": "And this knowledge does not belong to everyone, since neither the physician nor the soothsayer will know this, nor will they be courageous unless they acquire this particular knowledge. Isn’t this what you were saying?",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Nicias",
+"text": "It was indeed.",
+"kind": "speech"
+},
+{
+"entry": 194,
+"who": "Socrates",
+"text": "So in fact, as the saying goes, ‘not every sow would know this’, nor would she be courageous.",
+"kind": "speech"
+},
+{
+"entry": 195,
+"who": "Nicias",
+"text": "I think not.",
+"kind": "speech"
+},
+{
+"entry": 196,
+"who": "Socrates",
+"text": "Obviously, Nicias, you do not believe that even the Crommyonian sow was courageous. And I am not saying this in jest. No, I think it is necessary that someone who maintains this should not accept that any wild beast is courageous, or agree that any wild animal is wise in this way, and thus maintain that a lion, a leopard or some boar knows what very few humans know, because it’s so hard to know. But someone who proposes that courage is what you are proposing it is must maintain that a lion, a stag, a bull or a monkey are, by nature, equally courageous.",
+"kind": "speech"
+},
+{
+"entry": 197,
+"who": "Laches",
+"text": "By the gods, Socrates, you are putting that well. And you should answer this truthfully for us, Nicias. Are you saying that these wild animals, who everyone agrees are courageous, are wiser than we are, or would you dare to go against everyone and not even call them courageous?",
+"kind": "speech"
+},
+{
+"entry": 198,
+"who": "Nicias",
+"text": "Laches, I do not call wild animals courageous, or anything else that does not fear what is to be feared because it lacks intelligence. Instead, I call them fearless or stupid. Do you think I even call all the children, who fear nothing because they lack intelligence, courageous? No, to my mind fearlessness and courage are not the same. I am of the opinion that courage and foresight belong to very few, while rashness, daring and fearlessness, devoid of foresight, belong to a vast number of men, women, children and wild beasts. So actions that you and most others call courageous, I call rash, but the wise actions I am referring to are courageous.",
+"kind": "speech"
+},
+{
+"entry": 199,
+"who": "Laches",
+"text": "Do you see, Socrates, how nicely this fellow adorns himself with words? Or so he thinks. Yet he is trying to deprive those who are universally agreed to be courageous of their due respect.",
+"kind": "speech"
+},
+{
+"entry": 200,
+"who": "Nicias",
+"text": "Laches, I am not referring to you, so take heart. Indeed, I declare that you are wise, and Lamachus too, if you are actually courageous, and so are a host of other Athenians.",
+"kind": "speech"
+},
+{
+"entry": 201,
+"who": "Laches",
+"text": "I could respond to that but I shall say nothing, so that you cannot accuse me of being, in truth, an abusive Aexonian.",
+"kind": "speech"
+},
+{
+"entry": 202,
+"who": "Socrates",
+"text": "Do not speak, Laches. In fact, you seem to be unaware that he has acquired this wisdom from our mutual friend, Damon, and Damon is a constant associate of Prodicus, who is reputed to be the very best of the sophists at making verbal distinctions of this kind.",
+"kind": "speech"
+},
+{
+"entry": 203,
+"who": "Laches",
+"text": "Yes, indeed, Socrates, it is more appropriate for a sophist to engage in such subtleties than a man whom the city chooses as her leader.",
+"kind": "speech"
+},
+{
+"entry": 204,
+"who": "Socrates",
+"text": "Blessed man, it is surely appropriate that those who provide leadership in matters of the greatest importance should partake of wisdom to the greatest extent. Yet I think Nicias merits questioning as to his point of view when he uses this word courage.",
+"kind": "speech"
+},
+{
+"entry": 205,
+"who": "Laches",
+"text": "Well, question him yourself, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 206,
+"who": "Socrates",
+"text": "That is what I am about to do, best of men. However, you should not assume that I will release you from your shared role in the argument, so pay attention and consider whatever is said, along with me.",
+"kind": "speech"
+},
+{
+"entry": 207,
+"who": "Laches",
+"text": "So be it, if it seems necessary.",
+"kind": "speech"
+},
+{
+"entry": 208,
+"who": "Socrates",
+"text": "So it does. And you, Nicias, should address us again from the beginning. You know, don’t you, that at the beginning of the discussion we were considering courage on the basis that it was a part of excellence?",
+"kind": "speech"
+},
+{
+"entry": 209,
+"who": "Nicias",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 210,
+"who": "Socrates",
+"text": "Did you not also give this answer: that it is a part, and there are other parts too, and when taken all together they are called excellence?",
+"kind": "speech"
+},
+{
+"entry": 211,
+"who": "Nicias",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 212,
+"who": "Socrates",
+"text": "Now, do you speak of these parts as I do? As well as courage, I call sound-mindedness, justice, and the like parts of excellence. Don’t you?",
+"kind": "speech"
+},
+{
+"entry": 213,
+"who": "Nicias",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 214,
+"who": "Socrates",
+"text": "Stop there, since we agree on these, and let us consider what is to be feared and what is to be ventured, in case you are of one view while we are of another. So we shall tell you what we think, and if you do not agree, you should instruct us. According to us, things that cause fear are to be feared, while those that do not are to be ventured. But it is not past evils that cause fear, or the present ones either, but only those that are anticipated, for fear is the anticipation of impending evil. Don’t you agree with me, Laches?",
+"kind": "speech"
+},
+{
+"entry": 215,
+"who": "Laches",
+"text": "Very much so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 216,
+"who": "Socrates",
+"text": "Well, Nicias, you have heard our views that, according to us, the impending evils are to be feared, while impending goods, or things that are not evil, are to be ventured. Is this the way you describe them, or is there another way?",
+"kind": "speech"
+},
+{
+"entry": 217,
+"who": "Nicias",
+"text": "This way.",
+"kind": "speech"
+},
+{
+"entry": 218,
+"who": "Socrates",
+"text": "And the knowledge of these you refer to as courage?",
+"kind": "speech"
+},
+{
+"entry": 219,
+"who": "Nicias",
+"text": "Precisely.",
+"kind": "speech"
+},
+{
+"entry": 220,
+"who": "Socrates",
+"text": "We should still consider whether we are all in agreement on a third issue.",
+"kind": "speech"
+},
+{
+"entry": 221,
+"who": "Nicias",
+"text": "What issue is that?",
+"kind": "speech"
+},
+{
+"entry": 222,
+"who": "Socrates",
+"text": "I shall tell you. It seems to myself, and to this man, that in cases where there is knowledge of something, there is not one knowledge that knows how things happened in the past, another concerned with how they are happening at present, and another dealing with how what has not yet happened will happen, and may best happen. No, it is the same knowledge. For example, in the case of past, present and future health, no other knowledge, apart from medicine, as one, superintends what is happening, what has happened, and how what is going to happen will unfold. And the same also holds for farming, in the case of what is produced from the earth. And when it comes to warfare, the two of you will of course bear witness to the fact that generalship, on the whole, best foresees the future, and it does not believe that it should be subservient even to the soothsayer in relation to the future. No, generalship should rule, as it has better knowledge of how military affairs are unfolding and will unfold. And so the law decrees that the soothsayer has no authority over the general. No, the general has authority over the soothsayer. Is this what we shall say, Laches?",
+"kind": "speech"
+},
+{
+"entry": 223,
+"who": "Laches",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 224,
+"who": "Socrates",
+"text": "What about this, Nicias? Do you agree with us, that in dealing with the same issues the same knowledge knows about the future, the present and the past?",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Nicias",
+"text": "I do, yes. That is how it seems to me, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 226,
+"who": "Socrates",
+"text": "Now, best of men, do you not also say that courage is knowledge of what is to be feared and ventured? Is this so?",
+"kind": "speech"
+},
+{
+"entry": 227,
+"who": "Nicias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 228,
+"who": "Socrates",
+"text": "And it was accepted that what is to be feared and what is to be ventured are future goods and future evils?",
+"kind": "speech"
+},
+{
+"entry": 229,
+"who": "Nicias",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 230,
+"who": "Socrates",
+"text": "And the same knowledge is concerned with the same matters in the future, or at any other stage?",
+"kind": "speech"
+},
+{
+"entry": 231,
+"who": "Nicias",
+"text": "This is the case.",
+"kind": "speech"
+},
+{
+"entry": 232,
+"who": "Socrates",
+"text": "In that case, courage is not only knowledge of what is to be feared and what is to be ventured. No, just like the other kinds of knowledge, it has knowledge not only of impending goods and evils, but also of those that are present, or past, or at any other stage.",
+"kind": "speech"
+},
+{
+"entry": 233,
+"who": "Nicias",
+"text": "So it seems, anyway.",
+"kind": "speech"
+},
+{
+"entry": 234,
+"who": "Socrates",
+"text": "So, Nicias, the answer you gave us constitutes part of courage, one third at best, even though we asked you what courage was as a whole. And indeed it now seems, based upon your argument, that courage is not just knowledge of what is to be feared and ventured, but according to your present argument, courage would more or less be knowledge of all good and evil in all cases. May we make this adjustment? What do you say, Nicias?",
+"kind": "speech"
+},
+{
+"entry": 235,
+"who": "Nicias",
+"text": "I think so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 236,
+"who": "Socrates",
+"text": "Now, do you think, blessed man, someone like this would be lacking in any excellence, if he actually knew good in its entirety, and fully understood how it arises, will arise, and has arisen, and understood evil in like manner? And do you think this man would be deficient in sound-mindedness or justice or holiness when he alone is equipped to pay careful attention to what is to be feared, or not, in relation to gods or humans, and to ensure good outcomes by knowing how to deal with them aright?",
+"kind": "speech"
+},
+{
+"entry": 237,
+"who": "Nicias",
+"text": "I think you have a point, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 238,
+"who": "Socrates",
+"text": "In that case, Nicias, what you are now describing would not be a part of excellence, but excellence in its entirety.",
+"kind": "speech"
+},
+{
+"entry": 239,
+"who": "Nicias",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 240,
+"who": "Socrates",
+"text": "Yet we said that courage is one of the parts of excellence.",
+"kind": "speech"
+},
+{
+"entry": 241,
+"who": "Nicias",
+"text": "Yes, we said that.",
+"kind": "speech"
+},
+{
+"entry": 242,
+"who": "Socrates",
+"text": "But what is now being described does not appear to be a part.",
+"kind": "speech"
+},
+{
+"entry": 243,
+"who": "Nicias",
+"text": "It seems not.",
+"kind": "speech"
+},
+{
+"entry": 244,
+"who": "Socrates",
+"text": "In that case, Nicias, we have not discovered what courage is.",
+"kind": "speech"
+},
+{
+"entry": 245,
+"who": "Nicias",
+"text": "Apparently we have not.",
+"kind": "speech"
+},
+{
+"entry": 246,
+"who": "Laches",
+"text": "But Nicias, my friend, I assumed you were going to make the discovery when you were so contemptuous of my responses to Socrates. Yes, I really had great hopes that you would discover it, using this wisdom you acquired from Damon.",
+"kind": "speech"
+},
+{
+"entry": 247,
+"who": "Nicias",
+"text": "That is nice, Laches. You still do not think it is a problem that you yourself, earlier, proved to know nothing about courage. No, as long as I am shown up as someone else like that, that is what you focus on, and it seems to make no difference to you that you know as little as I do about issues on which a man of any reputation should be knowledgeable. Now, you seem to me to be acting in a truly human fashion by focussing not upon yourself, but on other people. As for myself, I think the issues we have discussed have now been adequately dealt with, and if any of them have not been covered in a satisfactory manner I shall correct them in due course with the help of Damon, whom you somehow think you can ridicule without ever having set eyes on Damon himself, and with the help of others too. And once I am certain about them, I shall also teach you. I shall not begrudge you that, for you seem to me to be very much in need of instruction.",
+"kind": "speech"
+},
+{
+"entry": 248,
+"who": "Laches",
+"text": "Well, Nicias, you are wise, but nevertheless I am advising Lysimachus here, and Melesias, to bid yourself and myself farewell when it comes to the education of the young men. But as I said at the outset, they should hold on to this man, Socrates, and if my own sons had been at the right age I would have done the very same thing.",
+"kind": "speech"
+},
+{
+"entry": 249,
+"who": "Nicias",
+"text": "There I agree with you. If Socrates is prepared to look after the young men, do not search for anyone else. Indeed, I would gladly entrust Niceratus to this man if he were willing. But the fact is, every time I raise the matter with him he recommends someone else, and is unwilling to do it himself. But, Lysimachus, see if Socrates will be more responsive to you.",
+"kind": "speech"
+},
+{
+"entry": 250,
+"who": "Lysimachus",
+"text": "It is only right that he should, Nicias, since I would be willing to do a great deal for him that I would be reluctant to do for very many others. So what do you say, Socrates? Will you respond and share in our eagerness that the boys become as good as they possibly can?",
+"kind": "speech"
+},
+{
+"entry": 251,
+"who": "Socrates",
+"text": "The fact is, Lysimachus, that it would be a terrible thing to be reluctant to share in the eagerness that anyone become as good as possible. Now, if in the course of our earlier discussions I had turned out to be knowledgeable and these two gentlemen had not, it would have been right to invite me, in particular, to take on this role, but as it is we have all ended up in a similar state of perplexity. So why would anyone prefer one of us over the other? So, in my opinion, none of us should be chosen. But since that is how matters stand, think about the piece of advice I am about to give you. For I declare, gentlemen – and my statement is not to be made public – that all of us ought to search together for the best teacher we can find, for ourselves first and foremost, for we really need one, and then for the young men too, sparing neither money nor anything else. But I do not recommend that we remain in our present condition. And if anyone should laugh at us because we still see merit in frequenting teachers at our time of life, I think we should quote Homer who says that ‘modesty is not a good companion for a man in need’. And so we, paying no heed to what anyone may say, should jointly undertake the care of our own selves and of the young men.",
+"kind": "speech"
+},
+{
+"entry": 252,
+"who": "Lysimachus",
+"text": "Socrates, I am delighted at what you are saying, and insofar as I am the oldest man here, I am also the one who is most eager to learn, along with the young ones. So I want you to do something for me. Come to my home tomorrow at daybreak, without fail, so that we may deliberate on these very issues. But let us break up our gathering for the moment.",
+"kind": "speech"
+},
+{
+"entry": 253,
+"who": "Socrates",
+"text": "I shall do as you ask, Lysimachus, and come to you tomorrow, God willing.",
+"kind": "speech"
+}
+]
+}
+]
+}

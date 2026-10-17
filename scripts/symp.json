@@ -1,0 +1,2009 @@
+{
+"key": "symp",
+"title": "Symposium",
+"parts": [
+{
+"name": "Symposium",
+"lines": [
+{
+"entry": 0,
+"who": "Apollodorus",
+"text": "I do not feel ill-prepared to meet this request of yours. In fact, just the other day I happened to be going up to the city from home in Phalerum when an acquaintance of mine, some way off, saw me from behind and called out in jest, “Man of Phalerum, you, Apollodorus, will you not wait?” So I stopped and waited, and he said,",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Companion",
+"text": "“Why, I was actually looking for you just now as I wanted to find out all about the gathering of Agathon, Socrates and Alcibiades, and the others who were present at the banquet, and about the speeches on love. What were they? For someone who heard about it from Phoenix, the son of Phillip, recounted it to me, and he said that you also knew the story. However, he himself could not come up with anything in detail, so you should tell me the story, for it is only right that you report the words of your friend. But first, tell me, were you yourself present at this gathering or not?”",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Apollodorus",
+"text": "I replied, “Whoever reported this quite evidently reported nothing detailed, if you imagine that the gathering you are asking about was so recent that I could have been present.”",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Companion",
+"text": "“That is what I thought,” said he.",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Apollodorus",
+"text": "“How could you, Glaucon?” I asked. “Do you not know that it is many years since Agathon lived in Athens, and it is not yet three years since I began associating with Socrates and made it my business, on a daily basis, to know what he says and does? Before this I was running around on the whim of the moment in the belief that I was achieving something, when, in fact, I was more miserable than anyone, not unlike yourself now, believing that I should engage in every imaginable activity rather than in philosophy.”",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Companion",
+"text": "“Do not mock me,” said he. “Just tell me when this gathering happened.”",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Apollodorus",
+"text": "And I said, “Well, you and I were still children. It was when Agathon was victorious with his very first tragedy. On the day after, he himself and his chorus conducted the sacrifice for the victory festivities.”",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Companion",
+"text": "“So apparently it was quite some time ago,” he said. “Then who told you the story? Was it Socrates himself?”",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Apollodorus",
+"text": "“Not at all, by Zeus,” I replied. “It was the same person who told Phoenix, a certain Aristodemus from Cydathenaeum, a small man who was always barefoot. He was present at the gathering, being foremost among Socrates’ lovers at the time, or so it seems to me. In any case, I did eventually ask Socrates about some aspects of what I had heard from this fellow, and he confirmed for me what I had been told.”",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Companion",
+"text": "“Well, why not tell me the story?” he said. “The road into town is certainly well suited for talking and listening as we proceed.”",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Apollodorus",
+"text": "So we went on our way as he suggested, discussing the matter at the same time. Consequently, as I said at the outset, I am not ill-prepared. Therefore, since you people also need to be told the story, that is what I must do. In fact, it is extraordinary that whenever I contribute to philosophic discussions myself, or listen to other people, I am utterly delighted, quite apart from my belief in their benefits. But other discussions trouble me, especially those your wealthy money-makers engage in, and I pity you and your companions because you believe you are achieving something when you are achieving nothing. And you, for your part, probably think that I am in a sorry plight, and I believe your opinion is true. But in your case, I do not just believe it, I know it very well.",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Companion",
+"text": "Oh, you are always the same, Apollodorus. Yes, you are constantly denigrating yourself and everyone else. You give me the impression that you regard everyone, apart from Socrates, as wretched, beginning with yourself. Now, I do not know where exactly you got that nickname ‘manic’, yet that is how you always behave in discussions, railing against yourself and everyone else except Socrates.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Apollodorus",
+"text": "Dear friend, of course it is obvious that if I have such an attitude towards myself and yourselves, I must be mad or out of my wits.",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Companion",
+"text": "It is not worth arguing over this just now, Apollodorus. Instead, you should do what we asked you to do and no more. So, tell us about the speeches that were made.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Apollodorus",
+"text": "Well, they went somewhat as follows… But no, it is better that I try to tell you the story, from the beginning, in the same way that he told it.",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Apollodorus",
+"text": "Aristodemus said that he met Socrates, who had bathed and was wearing sandals — two rare activities for the man — and he asked where he was going in such fine array. Socrates said,",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "“To supper at Agathon’s house. In fact, I avoided the victory celebrations yesterday for fear of a crowd, but I agreed to make an appearance today. That is why I have adorned myself, so that beauty may go alongside beauty. What about you? How willing are you to come to supper uninvited?”",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Apollodorus",
+"text": "Aristodemus told me that he said,",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Aristodemus",
+"text": "“I will do whatever you tell me to do.”",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Socrates",
+"text": "“Then follow me,” said Socrates, “and we will spoil the proverb by changing it: ‘Good men go of their own accord to the banquets of good men.’ Indeed, Homer runs the risk not only of corrupting this proverb, but of showing contempt for it when he presents Agamemnon as a good man unsurpassed in warfare, and Menelaus as a ‘faint-hearted spearman’; yet when Agamemnon is conducting a sacrifice and celebrating, he has Menelaus arrive uninvited to the feast, a lesser man going to the feast of his superior.”",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Aristodemus",
+"text": "Aristodemus told me that when he heard this, he said, “Perhaps I too am running a risk here, Socrates, not the one you mentioned but the one depicted by Homer. I am an ordinary fellow going uninvited to the feast of a wise man. So, if you are bringing me with you, you need to decide what excuse you will offer, because I shall not confirm that I am there uninvited. I will say it is at your behest.”",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "As the two of us travel the road, one taking the lead, he said, “We shall consider what we are going to say. Anyway, let us go.”",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Apollodorus",
+"text": "Once they had discussed these matters, he told me that they set off. Then Socrates fell behind on the road, somehow directing his mind towards himself, and when Aristodemus waited for him he told him to go on ahead. When he reached Agathon’s house, he found that the door had been left open, and he told me that an amusing incident ensued there. For one of the slaves inside went up to him immediately and brought him to where the others were reclining, and he noted that they were already about to dine. As soon as Agathon saw him, he exclaimed,",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Agathon",
+"text": "“Ah, Aristodemus, you have arrived at just the right time to dine with us, and if you are here for any other purpose, defer the matter to another occasion. Yes, I was looking for you yesterday in order to invite you, but you were not to be found. Anyway, are you not bringing Socrates to us?”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Aristodemus",
+"text": "“I turned around,” said he, “and I saw that Socrates was not following me at all, so I explained that I had actually come here to supper with Socrates, at his invitation.”",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Agathon",
+"text": "“Yes, it is good of you to do so,” he said, “but where is the man?”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Aristodemus",
+"text": "“He was coming in behind me a moment ago, and I too am wondering where he might be.”",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Agathon",
+"text": "“You, slave boy, look for Socrates and bring him in,” said Agathon. Then he said, “Aristodemus, you should recline beside Eryximachus.”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Apollodorus",
+"text": "Aristodemus told me that one boy washed his feet so that he could recline, while another boy arrived and announced, “This fellow Socrates has withdrawn into the neighbour’s porch and is standing there.” Despite the slave’s request he did not want to come in.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Agathon",
+"text": "“Well, that is strange,” he said. “Why do you not call him again, and do not let him off this time?”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Aristodemus",
+"text": "Aristodemus told me that he said, “No, do not do that, just leave him. In fact, this is a habit of his. Sometimes he just withdraws, anywhere at all, and stands there. He will be here soon, believe me. Do not disturb him, just leave him.”",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Agathon",
+"text": "Agathon replied, “If that is what you think, then that is what we should do. You, slaves, entertain the rest of us. You always serve up whatever you please when there is no one in charge of you, so now — and this is something I have never done before — please regard myself and these other men as your invited dinner guests and attend upon us, so that we may have cause to praise you.”",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Apollodorus",
+"text": "After this, they dined, but Socrates did not come in. Agathon frequently gave an order that Socrates be sent for, but Aristodemus would not allow it. Now, it was not long before Socrates arrived, having spent less time there than usual, so they were about halfway through their meal. Then Agathon, who was reclining alone on the last couch, said,",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Agathon",
+"text": "“Come here, Socrates, and recline beside me so that, through contact with you, I may enjoy that piece of wisdom that came to you in the porch. Of course you found it and you have it, for you would not have come away without it.”",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Apollodorus",
+"text": "Socrates then sat down and said,",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "“It would be nice, Agathon, if wisdom were the sort of thing that flowed between us, from the fuller to the emptier once we were in contact with one another, just as water in cups flows through wool from the fuller to the emptier one. Yes, if wisdom is like this too, then I greatly prize my position alongside you, for I believe I will be filled with a copious beautiful wisdom by your side. For my wisdom would be ordinary, even as questionable as a dream, while yours would be resplendent and would hold great promise, young as you are; and this shone forth mightily from you, just the other day, and was put on display before the eyes of more than thirty thousand Greeks.”",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Agathon",
+"text": "“Socrates, you are being contemptuous!” said Agathon. “Yet, in due course, you and I shall submit these matters to judgement on the issue of wisdom, resorting to Dionysus as our judge. For the moment, you should turn your attention to your supper.”",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Apollodorus",
+"text": "After this, he said that once Socrates had reclined and eaten dinner along with the others, and they had poured libations, sung praise to the god and performed the other traditional practices, they turned their attention to drink. He reported that Pausanias then initiated an exchange that went somewhat as follows:",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Pausanias",
+"text": "“Well, gentlemen,” he said, “what is the least demanding way in which to drink our wine? Now, I am telling you that I really am in a bad way after the drinking yesterday. I need some breathing space, and I think the same also goes for most of you, since you were present yesterday. So let us consider the mildest manner in which we may drink our wine.”",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Aristophanes",
+"text": "Then Aristophanes said, “Yes Pausanias, it is good that you mention this issue of introducing some mildness into our drinking habits, for I am one of those who was soaked in it yesterday.”",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Apollodorus",
+"text": "He told us that when Eryximachus, the son of Acumenos, heard them, he said,",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Eryximachus",
+"text": "“Yes, that is well expressed, but there is still one person I would like to hear from. Agathon, how is your strength for further drinking?”",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Agathon",
+"text": "“No,” said he, “I am not at all strong enough either.”",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Eryximachus",
+"text": "“It seems like a godsend for us,” said Eryximachus, “for myself, I mean, and for Aristodemus, Phaedrus and these people, if the rest of you who are well able to drink have now given it up, since we are never up to it. And I will leave Socrates out of the reckoning, for he is able for either approach, so he will be satisfied regardless of what we do. Therefore, since I believe that none of the company is eager to drink a lot of wine, it may be less irksome if I tell you the truth about what drunkenness is actually like. One thing has become obvious to me from my practice of medicine: being drunk is bad for people. And I myself, given the choice, would have no desire to drink to excess, nor would I advise anyone else to do so, especially if they have a hangover from the previous day.”",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Phaedrus",
+"text": "Phaedrus of Myrrhinus interrupted and said, “Yes, indeed. For my part, I am well used to taking your advice, especially when you speak on medical matters, and the rest of the company would now be well advised to do the same.”",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Apollodorus",
+"text": "Well, once they had heard this, they all agreed not to have a drunken party on this occasion, but to drink just for pleasure.",
+"kind": "narration"
+},
+{
+"entry": 46,
+"who": "Eryximachus",
+"text": "“Since this has been decided,” said Eryximachus, “and each person is to drink only as much as he wishes and there is to be no compulsion, I propose in addition that we allow the flute-girl, who has just come in, to take her leave and perform for herself or, if she prefers, for the women of the house. We, for our part, should base today’s gathering upon speeches and, if you want, I am willing to propose the sort of speeches we should make.”",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Apollodorus",
+"text": "They all said they wanted this and they demanded that he make the proposal.",
+"kind": "narration"
+},
+{
+"entry": 48,
+"who": "Eryximachus",
+"text": "“Well,” said Eryximachus, “the source of this proposal is, as Euripides’ Melanippe says, ‘not my own story’. No, what I am going to relate concerns Phaedrus here. For Phaedrus occasionally makes a complaint to me: ‘Is it not awful, Eryximachus,’ says he, ‘that while there are hymns and praises composed by the poets to some other gods, not even one of our many notable poets has yet composed a single song of praise to Eros, Love, despite that god’s venerable age and greatness? Then again consider, if you please, the worthy sophists, the most excellent Prodicus for instance, who wrote prose works praising Heracles and others. Well, that is not so marvellous, but I once came across a book by a wise man in which salt was given amazing praise for its usefulness, and you may have seen lots more subjects of this sort being given praise. This great god has been neglected to such an extent that to this very day no man has ventured to praise him worthily, and yet they turn this sort of thing into a major issue, so I think that Phaedrus is making good points here. Therefore, I wish to make a contribution of my own and to gratify Phaedrus at the same time. What is more, it seems to me appropriate at present that this company honour the god. So, if you share this view we could occupy ourselves quite adequately with speeches. I think that each of us should deliver a speech in praise of Eros, Love, the most beautiful one he can make, proceeding from the right, beginning first with Phaedrus, since he is reclining in the first position and he is also, at the same time, the father of the proposition.”",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Socrates",
+"text": "“No one will cast a vote against you, Eryximachus,” said Socrates. “Nor indeed could I conceivably deny your request, I who declare that I know nothing other than matters of love; nor could Agathon and Pausanias; nor could Aristophanes, whose entire occupation is concerned with Dionysus and Aphrodite; nor could anyone else whom I see here. However, we who are reclining in last place are at a disadvantage. Yet, if those who speak before us speak adequately and beautifully, that should be enough for us. So good luck to Phaedrus. Let him begin and let him sing the praises of Eros.”",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Apollodorus",
+"text": "So the others all concurred, and they too made the same request that Socrates had made. Now, although Aristodemus did not fully recall everything each person said, nor do I, for my part, remember everything that he told me, nevertheless, I shall recount to you the parts of each person’s speech that I deem most worthy of mention.",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Apollodorus",
+"text": "First then, as I was saying, he told me that Phaedrus began by making the general point that Eros is a great god, a wonder to men — and even to gods — in all sorts of different ways, but especially in respect of his origin.",
+"kind": "narration"
+},
+{
+"entry": 52,
+"who": "Phaedrus",
+"text": "“The god,” said he, “is revered as most ancient and the evidence for this is as follows: Eros does not have any parents, nor are they mentioned by anyone, either poet or common man, and Hesiod says that Chaos arose first,",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Phaedrus",
+"text": "…and after that broad-bosomed Earth,. the steadfast eternal seat of all, and Love.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Phaedrus",
+"text": "“And Acusilaus says, along with Hesiod, that these two, Earth and Love, arose after Chaos. Parmenides too describes his origin:",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Phaedrus",
+"text": "The first of all the gods he devised was Love.",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Phaedrus",
+"text": "“Thus, it is accepted by numerous authorities that Love is most ancient. And being most ancient, he is responsible for the greatest benefits we receive. Indeed, I cannot say that there is any greater benefit from one’s youth upwards than a worthy lover, or, for a lover, than a worthy favourite. For the element needed to guide people throughout their lives if they intend to live noble lives is not something that family connections or honours or wealth or anything else can engender so well as Love. What am I referring to? Shame in the case of disgraceful actions, and love of honour in the case of noble actions, for in the absence of those two, it is not possible for a city or an individual to accomplish great and noble deeds. I declare then that a man who is in love and is exposed doing some disgraceful action, or submitting, through cowardice, to disgraceful treatment by another, would not be as concerned at being seen by his father, his companions or anyone else, as much as by his favourite. The same applies to the beloved. We observe that if he is ever detected in some shameful act, he is especially ashamed before his lovers.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Phaedrus",
+"text": "Therefore, if it could be arranged that a city or an army be composed of lovers and their beloveds, what better way might they organise their affairs than by abstaining from all shameful actions and prizing honour in one another’s eyes? And if such people were to fight alongside one another, even a few of them might, to coin a phrase, conquer the whole human race. For a man in love who was breaking rank or throwing away his weapons, would of course much rather be seen by anyone else at all than by his beloved. Instead of that he would choose to die many times.",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Phaedrus",
+"text": "“As for abandoning his favourite or not assisting him in the hour of danger, well there is none so base that Eros could not inspire him towards excellence, to be equal by nature to the very best. Homer says that the god ‘breathes might’ into some of the heroes and this, in truth, is what Eros actually does to those who are in love.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Phaedrus",
+"text": "“What is more, lovers alone are willing to die for the beloved, not only men but women too. For us Greeks, the case of Pelias’ daughter, Alcestis, provides enough evidence in support of my claim, since she alone was prepared to die for her husband, and although he had a father and a mother, she, his wife, because of her love, exceeded them in affection to such an extent that she proved them to be strangers to their own son, relatives in name only. And once she had performed this deed, her action was regarded as noble, not only by humanity but also by the gods. Accordingly, although many noble deeds are performed by so many people, there is a blessing the gods grant to very few: that their soul be sent back from Hades once more. But they did send her soul back, so delighted were they with her action. Such is the honour the gods bestow, especially upon the zeal and excellence associated with Love.",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Phaedrus",
+"text": "But they sent Orpheus, the son of Oeagrus, out of Hades as a failure, presenting him with a phantom of the woman he came to retrieve, without giving him the woman herself, because they deemed him faint-hearted, a harp player who, unlike Alcestis, did not dare to die for the sake of Love, but contrived to enter Hades whilst still alive. And so, for these reasons they imposed a punishment upon him: that his own death be at the hands of women. They did not grant him the same respect as they gave to Achilles, the son of Thetis, whom they sent to the Isles of the Blest, because having learned from his mother that he would be slain once he killed Hector, and would return home and die in old age if he did not do so, he made the daring choice, came to the aid of his lover Patroclus, and avenged him, choosing not merely to die for him but to follow his dead lover directly into death. Accordingly, the gods were so hugely delighted that they honoured him in a special way because he granted such importance to his lover.",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Phaedrus",
+"text": "And Aeschylus is talking nonsense when he says Achilles was the lover of Patroclus, when he was not only fairer than Patroclus, but fairer also than all the other heroes, and still beardless since he was much younger, as Homer tells us. Anyway, the fact is the gods most honour the virtue associated with Love, yet they are more astounded, delighted and generous when the beloved loves the lover than when lovers love their favourites. For a lover is more divine than a favourite; in fact, he is inspired. That is why they honoured Achilles more than Alcestis and sent him to the Isles of the Blest.",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Phaedrus",
+"text": "“And so I declare that Love is the most ancient and revered of the gods, and supreme when it comes to the human acquisition of excellence and blessedness in life and after death.”",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Apollodorus",
+"text": "He told me that this was the sort of speech Phaedrus delivered, and that after Phaedrus there were a number of others that he did not much remember. Leaving them aside, he recounted Pausanias’ speech.",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Pausanias",
+"text": "Pausanias said, “Phaedrus, I do not think our proposal to sing the praises of Love purely and simply has been presented in a proper manner. Indeed, if there were only one Eros, all would be well, but it so happens there is not just one. Since there is not only one Eros, it is better to declare, at the outset, which sort of Love we should praise. Now, I shall try to put this right, firstly by stating which Love we should praise, and then by delivering the praise in a manner worthy of the god. Indeed, we all know that there is no Aphrodite without Love. Therefore, if she were one, Love would be one, but since there are two Aphrodites, there must be two Loves. How could there not be two goddesses? One, the daughter of Uranus, is presumably the elder. She has no mother, and we give her the name ‘Heavenly’, while the other is younger, born of Zeus and Dione, and we call her ‘Common’. So it is also necessary that the Love who works with the latter be called Common, while the other Love be called Heavenly, and it is right to do so.",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Pausanias",
+"text": "Now, although it is necessary to praise all the gods, I should also attempt to explain what has been allotted to each of these Loves. For the following principle applies to every action: its performance, in its own right, is neither noble nor disgraceful. For example, what we are doing now, whether we drink, sing or converse, not one of these is noble in itself. No, they turn out like that in action, according to how the action is performed. When performed nobly and rightly it becomes good, and when not performed rightly it becomes disgraceful. This also applies to loving and to Love. Not all Love is noble and worthy of paeans of praise, only that which exhorts us to love in a noble manner.",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Pausanias",
+"text": "“Now, the Eros belonging to the Common Aphrodite is truly common. He behaves in whatever manner occurs to him, and he is the Love that the ordinary people experience. And such people, in the first place, love women no less than boys; secondly, they love the bodies of those whom they love, rather than their souls; and finally, with a view only to consummation, they engage with the least intelligent people they can find, heedless of whether they are acting nobly or not. Consequently, they do whatever occurs to them to do, regardless of whether it is good or not. For he comes from the goddess who is much the younger of the two, and, by birth, she partakes of the female as well as the male. But the Love belonging to the Heavenly goddess firstly partakes not of the female but of the male only, and so this love is the love of boys. Secondly, it is older with no trace of wantonness. Hence, those who are inspired with this Love are inclined towards the male, admiring the one who is naturally stronger and possesses more intelligence.",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Pausanias",
+"text": "“Indeed, one may recognise those who are impelled to boy-loving itself, in a pure manner, by this kind of love; for they do not love young boys, but only those who have begun to acquire intelligence, approaching the stage when the beard begins to grow. Yes, I think that those who love them at this stage are equipped to love them throughout their entire life, being with them and sharing a life together, without deceiving them because they trapped them when foolish and young, and making fools of them by leaving them to run off with someone else. There should also be a law against loving mere boys, so that a great deal of effort be not expended upon an unpredictable outcome, for it is unpredictable as to how young boys will turn out, for better or worse, in soul or in body. Now, although good men willingly impose this law upon themselves, it is also necessary to force the common sort of lovers to behave similarly, just as we, to the best of our ability, restrain them from loving free-born women. These are the people who have given rise to the criticism whereby some dare to suggest that it is shameful to gratify lovers. But they say this when they look at these lovers and behold their inappropriate and unjust behaviour, since it would, of course, not be right to censure any action performed in a respectable and lawful manner.",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Pausanias",
+"text": "“Furthermore, in other cities, the law relating to love is easy to understand because it has been simply defined. Yet here, and in Sparta, it is complicated. Now, in Elis and Boeotia, and wherever people are not clever speakers, it has been simply decreed that the gratification of lovers is good, and no one, old or young, would suggest that it is a disgrace. This, I presume, is to save them the trouble of trying to persuade the young people when they are such inadequate speakers. On the other hand, in Ionia, and lots of other places where they live under non-Greek rule, the gratification of lovers is regarded as shameful. For among the non-Greeks, this, along with philosophy and love of gymnastics, is shameful because the cities are under tyrannical rule. For I suppose it is not to the advantage of the rulers that enlarged views be engendered among the citizenry, nor strong friendships and associations either, and this is exactly what all these activities, and especially love, are inclined to bring about. Our own local tyrants learned this by experience, for Aristogeiton’s love and Harmodius’ friendship, which became steadfast, brought an end to the tyrants’ regime. Accordingly, wherever it is decreed that it is disgraceful to gratify lovers, the decree is there because of the bad state of those who established it, avarice on the part of the rulers and cowardice on the part of the citizenry. And wherever it is simplistically designated as noble, that is due to indolence in the souls of those who make the decree.",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Pausanias",
+"text": "“Here in Athens we have made much better regulations about this, but as I said, they are not easy to understand. Consider the fact that being openly in love is said to be more noble than being secretive, especially in loving the noblest and the most excellent types, even if they are uglier than others. Note also the wonderful encouragement given to a lover by everyone, so it is not as if he is doing something shameful, and if he captures the beloved we think it noble, and if he does not we think it a shame. And when it comes to his attempts to make a capture, the law grants freedom to the lover to perform extraordinary deeds, and be praised for doing so, deeds which, if anyone else dared perform them in pursuing or wishing to accomplish anything else apart from this, would incur the considerable reproaches of philosophy. Indeed, if anyone who wanted to get money from someone, or to hold high office or a position of power, were prepared to behave as lovers do towards their favourites, including supplications and prayers in their lovers’ pleas, swearing oaths, sleeping in doorways, willing to be subjected to slavery of a kind that even a slave would not accept, he would be prevented from adopting such a course of action by friends and foes alike, his enemies censuring him for his fawning and unworthy behaviour, his friends rebuking him and feeling ashamed on his behalf. Yet, when a lover engages in all these activities, he is viewed favourably, and the law allows him to proceed without censure, as if he were engaged in some utterly noble exploit. But the most bizarre aspect is that even when he swears an oath and breaks the terms of that oath, he is forgiven by the gods for, as the multitude declares, an oath of passion is no oath.",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Pausanias",
+"text": "“Accordingly, both gods and men have granted total freedom to the lover, as the laws here proclaim, and on this basis someone might presume that in this city, both loving and being friendly to lovers is regarded as entirely noble. But when people see fathers appointing tutors over beloved boys, forbidding them from conversing with their lovers and passing these instructions on to the tutors, when they see the boy’s peers or his companions criticising him for such behaviour, and his elders doing nothing to hinder the critics or reproach them for impropriety, anyone who sees this might well conclude, once again, that such behaviour is considered utterly disgraceful in this city. But I think the situation is as follows. As I said at the outset, it is not a simple matter. The behaviour, just by itself, is neither noble nor disgraceful, rather, if it is conducted nobly it is noble, if conducted disgracefully it is disgraceful. Now, by disgracefully I mean that he gratifies a degenerate person and does so in a degenerate manner; by nobly I mean that he gratifies a worthy person in a noble manner. And that common lover is degenerate. He loves the body rather than the soul, and, indeed, he is not constant, since the object of his love is not constant either. For, as soon as the bloom of the body, the very object of his love, fades, ‘he takes wings and departs’, dishonouring his many words and promises, while he who loves the character of a worthy person remains for life, since he melts into unity with the constant.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Pausanias",
+"text": "Now, our law wishes to test these two lovers well and truly, to gratify the one and avoid the other. So, that is why it encourages lovers to pursue, and favourites to flee, presiding over a contest to test exactly to which of the two types the lovers belong, and to which of the two types the loved ones belong. So, for this reason, firstly, it is regarded as a disgrace for the beloved to be taken quickly, so that there may be some lapse of time, and time is, in general, a good test. Secondly, it is considered a disgrace to be taken by money or political power, either when the beloved is terrified of suffering misfortune and lacks endurance or fails to despise favours that involve money or political outcomes. For none of these seem to be either certain or constant, quite apart from the fact that genuine friendship does not naturally arise from them. So, under our law, there is only one way left, if favourites are to gratify lovers in a noble manner. Indeed, our law is like the one whereby any form of consensual slavery of lovers to their favourites was not regarded as flattery or as blameworthy. Accordingly, there is also only one other consensual form of slavery left that is not blameworthy: the form concerned with excellence. For among us, if someone is prepared to tend upon another, expecting to be improved through his agency in wisdom or in any other aspect of excellence, this consensual slavery, for its part, is not regarded as disgraceful or as flattery.",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Pausanias",
+"text": "Now, it is necessary to combine these two laws together, the one concerned with loving boys and the one about loving wisdom and about excellence in general, if the gratification of a lover by his favourite be noble. For when lover and favourite get together, each having a law, one maintaining that he is justified in serving his obliging favourites in any way at all, the other that he is justified in rendering any services whatsoever to the person who makes him wise and good; the one able to contribute to intelligence and general excellence, the other wishing to acquire education and wisdom in general; then, when these two laws coincide and under those circumstances alone, is it noble for a favourite to gratify a lover, and not otherwise. In this situation, it is no disgrace even to be deceived, but in all other situations this gratification brings shame on a person whether he is deceived or not. For if someone who gratified a lover for the sake of his wealth, on the assumption that he was rich, were deceived and obtained no money because the lover turned out to be poor, this would be disgraceful nonetheless. For a person of this sort seems to show us something about himself, that he would render any service whatsoever to anyone at all for the sake of money, and this is not noble. Now, by the same argument, if someone who gratified a lover, on the assumption that he was good and that he himself was going to be improved by the friendship of the lover, were to be deceived because the fellow turned out to be bad and not possessed of excellence, the deception would be noble nevertheless. For that person, in turn, also seems to have revealed something about himself, that he would be eager to do anything for anyone for the sake of excellence and becoming a better person, and this, by contrast, is the most noble motivation of all. Thus, any gratification of any kind for the sake of excellence is noble.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Pausanias",
+"text": "This is the Love belonging to the heavenly goddess. It too is heavenly and of great value to the city and the citizenry, compelling the lover himself, and the beloved, to pay much attention to excellence. But all the others belong to the other goddess, the common one. There it is, Phaedrus. This is what I can contribute, extempore, on the subject of Love.”",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Apollodorus",
+"text": "Pausanias paused. “Yes, the sophists have taught me to use these balanced phrases.”",
+"kind": "narration"
+},
+{
+"entry": 75,
+"who": "Apollodorus",
+"text": "Then Aristodemus told me that Aristophanes was due to speak next, but it so happened, due to overeating or for some other reason, he had an attack of hiccups and was unable to speak, but he did say to Eryximachus, the physician, who was reclining on the next couch along from him,",
+"kind": "narration"
+},
+{
+"entry": 76,
+"who": "Aristophanes",
+"text": "“Eryximachus, it is only right that you put a stop to my hiccup or speak in my place while I stop it myself.”",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Eryximachus",
+"text": "Eryximachus replied, “Well, I shall do both, for I am going to speak in your place, and once you have stopped the hiccups, you will speak in mine. While I am speaking, if you hold your breath for a long time the hiccup may stop, otherwise gargle with water. And if it proves to be very persistent, grab anything at all to tickle your nose with, then sneeze. And if you do this once or twice it will stop, even if it is very persistent.”",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Aristophanes",
+"text": "“You should get on with your speech,” said Aristophanes, “while I do what you suggest.”",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Eryximachus",
+"text": "Eryximachus said, “Well, Pausanias began the speech nicely but did not finish it properly, so it seems that I am the one who must attempt to give it an ending. Indeed, I think he has distinguished the twofold Love nicely. But Love is present not only in the souls of human beings, and not only towards beautiful people. No, it is also towards much else, and is in other things too, in the bodies of all living beings, in whatever grows in the earth and, in a sense, in all of the things that are. I think it is most evident to me from my own profession, medicine, that the god is great and wonderful and extends over everything, over human affairs and divine affairs too.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Eryximachus",
+"text": "“I shall begin by speaking about medicine so that we may give a venerable status to that profession. For the nature of bodies involves this twofold Love, since it is accepted that the health and disease of the body are different and dissimilar, yet what is dissimilar desires and loves dissimilar. So, the Love present in a healthy body is one thing, that present in a sick body is another. And what Pausanias said a moment ago, that it is noble to gratify good people and a disgrace to gratify those who lack restraint, also applies in the case of our bodies themselves. It is noble to gratify what is good and healthy in each body, and we should do so, and the word ‘medically-skilled’ is associated with this process, whereas it is a disgrace to gratify the bad and the diseased, and these should be shown no favour if someone is to exercise this skill. For medical skill may be summed up as the knowledge of the loving disposition of the body towards being filled or emptied, and whoever has a thorough understanding of the noble and shameful Love involved in these is supreme in medical skill, while the person who can effect a transformation so that one love is acquired instead of another, or who knows how to engender it in cases where it is absent but should be present, and get rid of it when it should not be, he would be a good practitioner. For what is required is the ability to turn the most hostile elements that are in the body into friends that love one another, and the most hostile elements are the complete opposites: cold to heat, bitter to sweet, dry to moist, and everything of that sort. Once he knew how to engender Love and unanimity in these, our progenitor, Asclepius, instituted this profession of ours, according to the poets here whom I believe.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Eryximachus",
+"text": "“Now, I maintain that all medical skill is regulated through this god, and the same goes for gymnastics and agriculture, and it is obvious to anyone who pays it the slightest attention that the same principle applies to music, as Heraclitus perhaps wished to explain, although his words do not express it very well. For he says that the one, when diverging from itself, converges like the harmony of a bow and a lyre. But it is highly irrational to state that a harmony diverges, or comes from whatever is still diverging. No, what he probably meant to say was that the harmony arose from the previously divergent high and low notes when they later came into agreement under the influence of musical skill. For there would not, I presume, be harmony from high and low notes that are still diverging, since harmony is concord, and concord is an agreement, and it is impossible that there be agreement from whatever is diverging, as long as they are diverging. Yet it is impossible, by contrast, to harmonise what is diverging and not in agreement, just as rhythm too arises from fast and slow, which were previously divergent and later came to agreement. Here it is music that instils agreement in all these by engendering Love and unanimity between them, just as medicine did in the other instance, and music, for its part, is knowledge of love’s role in relation to harmony and rhythm.",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Eryximachus",
+"text": "Now, in the actual establishment of harmony and rhythm there is no difficulty in recognising the role of love, although the twofold Love is not yet present in these cases. But there is indeed a difficulty, and a good artificer is required, once it is necessary that rhythm and harmony be applied to humanity, either by composing them, which is called musical composition, or by making proper use of the melodies and measures that have already been devised, which is called education. For the same argument presents itself once more: that one should gratify the orderly people and do so in such a way that those who are not yet orderly may become more orderly, and one should safeguard the love of these people, and this is the noble one, the Heavenly One, the Love belonging to the Heavenly Muse. The other one, the Common One, belongs to Polyhymnia, and this should be applied cautiously wherever it is applied, so that one may reap the pleasure thereof yet engender no lack of restraint. Indeed, it is a major task in our profession to make good use of the desires associated with the culinary arts, so that a person may reap the pleasure without the ill-health. So, in music and in medicine and in everything else both human and divine, as far as practicable, we should be on the lookout for either kind of Love, for both are present.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Eryximachus",
+"text": "“Then too, the structure of the seasons of the year is dominated by these two Loves, and when the opposites just mentioned, heat and cold, dry and moist, attain an orderly Love for one another and acquire a moderate blend and harmony, they come bearing abundance and health to humanity and to the other creatures and plants, and they do no wrong. But whenever the wanton Love dominates the seasons of the year, he wreaks much destruction and much wrong. For plagues are inclined to arise under such conditions, and a variety of other diseases too among both animals and plants, and indeed frost, hail and mildew also arise from the mutual excesses and disorders of such love-based interactions as these, knowledge of which, associated with the motions of the stars and seasons of the year, is called astronomy. Then again, all sacrifices and the matters entrusted to the seer, both of which involve the intercommunion of gods and of men, are concerned with nothing else except protecting and curing Love. Indeed, all irreverence tends to arise when someone fails to gratify the orderly Love, does not honour him and venerate him in every action, but venerates the other kind in dealing with parents, living or dead, and with the gods. Now, in these cases, the task of watching over and curing those who are in love has been assigned to the seer, and this skill is an artificer of friendship between gods and us humans, because it knows which loving relationships of humanity incline us towards obedience and reverence.",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Eryximachus",
+"text": "“And so Love, altogether in its totality, possesses great and extensive power. More so, it is all powerful. But the Love associated with what is good, the one perfected in consort with sound-mindedness and justice, both among ourselves and among the gods, this possesses the greatest power, and provides us with all blessedness, enabling us to associate with and be friends with one another and with the gods, our superiors. Now it may well be that in my praise of Eros, I too have omitted a great deal, but that was not my actual intention. Anyway, if I have left anything out it is your job, Aristophanes, to make up the deficiency. Or if you intend to hymn the praises of the god in some other way, then please do so, since your hiccup has now stopped.”",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Apollodorus",
+"text": "Then Aristodemus told me that Aristophanes took his turn and said,",
+"kind": "narration"
+},
+{
+"entry": 86,
+"who": "Aristophanes",
+"text": "“It has stopped indeed, but not before the sneezing remedy was applied to it. So, I am surprised that the body’s good order has a desire for the sort of noises and tickling that sneezing represents, for it stopped the very moment I applied the sneezing remedy.”",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Eryximachus",
+"text": "Eryximachus replied, “Dear Aristophanes, watch what you are doing. You are making jokes when you are just about to speak, and although it is open to you to speak in peace, you are forcing me to be on the lookout for anything comical in your speech.”",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Aristophanes",
+"text": "Aristophanes responded, with a laugh, “Well spoken, Eryximachus, I will take back anything I have said. But please do not go on the lookout, as I am fearful over what I am about to say, not in case I say something comical, since that would be a profitable outcome, the custom of our comic Muse. No, I am afraid of saying something ridiculous.”",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Eryximachus",
+"text": "“Aristophanes,” said he, “you have fired a dart and you think you can make your escape. Well, pay attention. You will have to defend yourself. Speak accordingly, although perhaps I may let you off, if I see fit.”",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Aristophanes",
+"text": "“Very well, Eryximachus,” said Aristophanes. “I do intend to speak in a somewhat different manner from yourself and Pausanias, for people seem to be entirely unaware of the power of Love, since if they were aware of this they would provide huge temples and altars for him and perform enormous sacrifices, unlike what happens nowadays where none of this occurs in the case of Love, though he deserves it most of all. Indeed, among the gods he is the best friend to humanity, being the protector of humans and healer of those ills whose cure would constitute an enormous blessing for the human race. So I shall endeavour to explain his power to you, and you may then be the teachers to everyone else.",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Aristophanes",
+"text": "“First, you should learn the nature of humanity and what has happened to that, for in times past our nature was not the same as it is now, but otherwise. For in the first place there were three kinds of human being and not two as nowadays, male and female. No, there was also a third kind, a combination of both genders, but that has disappeared and only its name remains. For at the time, man-woman was a single form and a single name combining both male and female, but it does not exist today, even though the name persists as a term of reproach. Secondly, the shape of each human being, as a whole, was round with its back and sides forming a circle, each having four hands, the same number of legs as hands, and two identical faces situated on its opposite sides, four ears, two sets of genitalia, and you may deduce all the other details from what I have said. It also went about upright, as we do today, moving in either direction as it wished, and when it decided to embark upon a high-speed run, it pushed off with its eight limbs and moved with a rapid circular motion, just like acrobats who set their legs upright and travel around by tumbling with a circular motion.",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Aristophanes",
+"text": "“There were these three types, and they were like this because the initial birth of the male was from the sun, the female from the earth, and the one that partakes of both was from the moon, seeing that the moon also partakes of male and female. They themselves were circular and so was their motion, on account of their similarity to their parents. Now, their strength and power was terrifying, and they had such enormous ambitions that they even turned upon the gods, and what Homer says about Ephialtes and Otus relates to these humans: that they attempted to make an ascent to heaven so as to grapple with the gods. Zeus and the other gods deliberated as to what they should do, and they were at a loss, for they were not in a position to slaughter them and obliterate the race with thunderbolts as they had done to the Giants, since the honours and sacrifices that came from humanity would be obliterated too. Neither could they tolerate this outrageous behaviour.",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Aristophanes",
+"text": "“Then Zeus, having considered the matter at length, said, ‘I think I have come up with a device whereby human beings may still exist, and yet their unrestrained behaviour may cease because they will be weaker. For I shall now split each of them in two, and they will immediately be weaker and, at the same time, of more use to us gods because their number will increase. They will walk upright on two legs, but if they still seem to be behaving outrageously and are unwilling to be peaceful, I shall split them in two once more so that they will have to get around by hopping on one leg.’ Once he had said all this, Zeus split the humans in two in the same way that people cut sorb-apples when they are going to preserve them, or cut eggs with hairs. He instructed Apollo to turn the face and the half-neck around towards the cut so that the person, on seeing their own cut, would be more orderly. He also directed him to heal everything else.",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Aristophanes",
+"text": "“He turned the face around, drew the skin together from all sides over what is now called the stomach, as though he were tying a purse, and he tied up the single opening in the middle of the stomach to make what they call the navel. He also smoothed out the many other wrinkles, and articulated the chest using an instrument like the one that leather workers use when smoothing out the wrinkles in the leather with a last. A few wrinkles were left around the stomach itself and around the navel as a reminder of that ancient affliction. Now, since our nature had been cut in two, each half, longing for the half of itself, would go back to that, and throwing their arms around each other, embracing in an effort to grow back together again, they were dying out due to hunger and their general inactivity because they had no wish to do anything without one another. And whenever either of the halves died, the remaining half looked for another and embraced it, either encountering half of a woman, which we now refer to as a woman, or encountering the half of a man. Consequently, they were dying out. But Zeus took pity on them, came up with an alternative arrangement, and repositioned their genitalia to the front, for until then these were on the original outside, and they used to procreate and bear children not upon one another but upon the earth like the cicadas. So, he relocated their parts to the front in this way and thereby brought about generation in one another, by the male in the female.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Aristophanes",
+"text": "“This ensured that if male were to meet female in this embrace, there would be procreation and their race would continue. And, at the same time, if male were to meet male, at least there would be satisfaction from their intercourse. Their search would cease, and they could return to their activities and get on with the rest of their lives. So, love of one another is inherent in humanity from those past ages, reconstituting our ancient nature, endeavouring to make one out of two and cure the defect in the nature of humanity. Therefore, each of us is a counterpart of a human being since we have been cut in half and are like flat-fish, two produced from one, each constantly searching for the particular counterpart of itself. Now, those men who are a section cut from the combined type, the one that was then called a man-woman, they are lovers of women, and most adulterers have arisen from this type. So also have any women who love men and those who are adulteresses.",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Aristophanes",
+"text": "Any women who are a section cut from the female type do not pay much heed to men but are more inclined towards women. Female companions have arisen from this type. Those who are sections cut from the male type, pursue males and, while they are still boys, they love men and delight in lying with and being embraced by men, since they are slices of the male. These indeed are the very best of boys and youths, since they are by nature extremely manly. And although some people refer to them as shameless, this is a lie, for they do not behave as they do out of shamelessness. No, it is out of daring, courage and manliness that they cleave to those who are like themselves. There is ample proof of this. In fact, on reaching maturity, it is only this sort who prove themselves as men when it comes to civic affairs. Once they reach manhood they are lovers of boys and they do not, by nature, have an interest in marriage and begetting children, although they are forced into this by convention. Yet they are content to live with one another without marrying. Such a person indeed becomes, in every respect, a lover of boys or a boy who is affectionate to his lover, constantly cleaving to his own kind.",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Aristophanes",
+"text": "“Now, whenever the lover of boys, or of anyone else, encounters the very person who is the half of himself, they are wonderfully overcome by friendship, affinity and love, and are scarcely willing to be parted from one another even for a short time. These are the ones who continue with one another throughout their lives, although they would be unable to say what they want from one another for themselves. No one would presume that intercourse is the reason each takes such great eager delight in being with the other. No, the soul of each evidently wants something else which it is unable to express, yet it does have a sense of what it wants, but words fail. And if Hephaestus were to stand over them, tools in hand, when they were lying together, and were to ask, ‘Humans, what is it that you want for yourselves from one another?’ And if they were at a loss and he were to ask again, ‘Well, is this what you desire: to be together with one another as much as possible, so that you do not leave one another, day or night? For if that is what you long for, I am prepared to fuse you into one and weld you together so that you may become one rather than two and, being one, you could both live in communion for the duration of your life. And when you die, even there in Hades you could be one rather than two, having shared a common death. So, take a look and decide whether you desire this and would be content if you got it.’ Having heard all this, we know that there is no one who would turn down the offer, nor indeed would anyone want anything else. Each would literally believe they had heard a description of what they had desired all along: to come together and merge with the beloved and from two become one.",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Aristophanes",
+"text": "“So this is the explanation. It is because our original nature was as I described it and we were whole, and the name of the desire and pursuit of the whole is Love. Before that, I say, we were one, but we have now been scattered abroad by the god on account of our behaviour, just as the Arcadians were dispersed by the Spartans. So, there is a fear that if we are not well behaved towards the gods we may be sliced in two once more and go about like figures in profile on gravestones, sculpted in relief, sawn through along the line of our noses, mere half dice. That is why every man should encourage piety in relation to the gods in all matters, so that we may avoid that outcome and attain the other, with Love as our leader and commander.",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Aristophanes",
+"text": "“Let no one act in opposition to Love; acting in opposition means being hated by the gods, for having befriended the god and being reconciled to him, we shall find and meet up with the favourites that are our own, which is a rare achievement nowadays. Now, Eryximachus should not interject here, treating my speech as a comedy on the assumption that I am referring to Pausanias and Agathon. Perhaps these men do, in fact, belong to this category and are both male by nature, but what I am saying applies to everyone, both to men and to women, that our human race may attain blessedness provided we bring love to completion. We each find the beloved that is our own and go back to our original nature. So if this is the best arrangement, it must follow that, these days, the arrangement that comes closest to this is the best. This involves meeting a favourite who is naturally congenial to oneself. And the god who is responsible for this deserves our hymns of praise, and that god is Eros who is, at present, our greatest benefactor, leading us to our own, and providing us hereafter with great hope that, once we show due reverence to the gods, he will bring us back to our original nature, heal us and make us happy and blessed.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Aristophanes",
+"text": "“So, Eryximachus,” he said, “this is my speech about Love, quite different from yours. Now, remember what I asked of you. Please do not turn it into a comedy, so that we may also hear what each of the remaining speakers will say — the two remaining speakers in fact, since only Agathon and Socrates remain.”",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Apollodorus",
+"text": "I am told that Eryximachus said,",
+"kind": "narration"
+},
+{
+"entry": 102,
+"who": "Eryximachus",
+"text": "“Well, I will grant your wish since, in my view, your speech was most agreeably delivered. And if I was not a party to the fact that Socrates and Agathon are formidable when it comes to love, I would be quite afraid that they might be stuck for words because of the extent and variety of what has been said already. But now I am confident after all.”",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Socrates",
+"text": "Then Socrates said, “Eryximachus, you have contributed admirably to the competition, but if you were in my position, or more to the point, the position I will probably be in once Agathon has delivered a nice speech, you would be even more afraid and every bit as frightened as I am now.”",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Agathon",
+"text": "“You want to put a spell on me, Socrates,” said Agathon, “so that I will be in turmoil, thinking that the audience has a strong expectation that I am going to speak well.”",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Socrates",
+"text": "“I would be a very forgetful man, Agathon,” said Socrates, “if I were to believe that you would be in turmoil over a handful of people like us, when I saw your confidence and self-assurance as you ascended the stage with your actors, looked that vast audience straight in the eye, all set to present your own words to them, without any concerns whatsoever.”",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Agathon",
+"text": "“What is this, Socrates?” said Agathon. “Surely you do not believe that I am so obsessed with the theatre as to be unaware that, to a man of sense, a few intelligent people give more cause for fear than a crowd of stupid ones?”",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Socrates",
+"text": "“Agathon,” said he, “I would certainly not be doing the right thing by you if I were to presume any lack of refinement on your part. Rather, I know full well that if you were to meet some people whom you regarded as wise, you would have more respect for them than all the rest. Anyway, we would not be the wise folk, since we were there in the theatre along with the rest of the crowd, but if you did meet up with others who were actually wise, perhaps you would feel ashamed in front of them if you thought you were perhaps doing something disgraceful. Or what do you yourself say?”",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Agathon",
+"text": "“What you say is true,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Socrates",
+"text": "“Whereas, in front of some crowd, you would not feel ashamed if you thought you were doing something disgraceful, would you?”",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Phaedrus",
+"text": "Then he said Phaedrus interrupted saying, “Dear Agathon, if you respond to Socrates it will no longer make the slightest difference to him how our plan unfolds, as long as he has a partner in dialogue, especially someone handsome. Now, I enjoy listening to Socrates in dialogue, but I need to supervise our praises of Eros and ensure that I receive a speech from each one of you. So, once you have both bestowed such praises upon the god, you may at that stage engage in a dialogue.”",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Agathon",
+"text": "“Well said, Phaedrus,” retorted Agathon. “Indeed, there is no reason why I should not speak since there will be lots of opportunities for a dialogue with Socrates afterwards.",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Agathon",
+"text": "Now, I first propose to explain the manner in which I need to speak and then to deliver my speech. For all the previous speakers, in my opinion, have not sung the praises of the god, but have congratulated humanity on the benefits for which the god is responsible in their case. But no one has stated what sort of god he is who has bestowed these benefits. Now, there is a single correct approach to any praise of anything: one should describe what the subject is like, in the light of the sort of outcome he produces. Accordingly, it is right that we also praise Love, firstly for his characteristics, and then for his benefactions. So although all of the gods are blessed, Love, if such an utterance is allowed and will incur no retribution, is the most blessed of them all, being the most beautiful and the best.",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Agathon",
+"text": "“He is the most beautiful because he has the following characteristics. First, he is the youngest of the gods, Phaedrus, and he himself provides strong evidence for this by fleeing from and evading old age, fast as it obviously is. Anyway, it comes to us faster than we would like. Love naturally hates this and does not go anywhere near it. He constantly keeps company with the young and he himself is young. Indeed, the old saying captures it well, that like is always drawn to like. And I agree with Phaedrus on many issues but I do not agree that Eros is more ancient than Cronus and Iapetus. No, I say that he is the youngest of the gods, and ever young, and the ancient events involving the gods, as described by Hesiod and Parmenides, if these men are speaking the truth, occurred through Necessity and not through Love. For the castrations, imprisonments and the other acts of violence towards one another would not have occurred had Love been among them. Rather, there would have been friendship and peace, as there is now, since Love reigns among the gods.",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Agathon",
+"text": "“So, he is young, and as well as being young he is delicate, yet he stands in need of a poet the like of Homer, to portray his delicacy as a god. For Homer declares that Atē is a god and delicate too, or that her feet are delicate anyway, when he says:",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Agathon",
+"text": "Yet delicate are her feet for on the ground. She speeds not, only on the heads of men.",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Agathon",
+"text": "“Now, I think he uses a nice piece of evidence to demonstrate her delicacy: the fact that she doesn’t walk on what is hard but upon what is soft. So I shall have recourse to the same proof that Love is delicate, for he walks not upon the earth or upon our skulls which are not particularly soft, but he walks and dwells in the softest things of all. Indeed, he makes his home in the characters and the souls of gods and humans, and what’s more, not just in any random souls. No, if he encounters any soul possessing a hard character he departs, and if it has a soft character he dwells there. Therefore, since he touches the very softest of the very softest, both with his feet and with his entire being, he must be extremely delicate. Yet, although he is the youngest and the most delicate, he is supple in form as well. For if he was hard, he would not be able to envelop us completely, or to go unnoticed as he first enters into an entire soul and then re-emerges. Strong evidence for his measured and supple character is the gracefulness which, everyone agrees, Love possesses in abundance, for gracelessness and Love are constantly at war with one another.",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Agathon",
+"text": "“His beauty of complexion indicates that this god dwells among blossoms, for Love does not settle in a body or soul or anything whatsoever that does not blossom, or has faded, but he does settle and abide in a place of pretty flowers and sweet scent.",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Agathon",
+"text": "“Now, that is enough about the beauty of the god, although there is a great deal left to say, but we need to follow this with an account of his excellence. His greatest excellence is that he neither does injustice to god or man, nor suffers injustice at the hands of god or man. For if he experiences anything, he does not experience violence. Violence has no contact with Love, nor does he enact it either, for everyone serves Love willingly in everything, and whatever is willingly agreed by willing participants is just, as ‘the laws, sovereign of the city’ declare. In addition to this virtue of justice, he partakes of an abundance of sound-mindedness. For it is agreed that sound-mindedness is mastery over pleasures and desires, and that there is no pleasure stronger than Love, and since they are weaker, they would be mastered by Love, and he would be master and being master over pleasures and desires, Love would be pre-eminently sound-minded. In fact, when it comes to courage not even Ares, the god of war, can stand against Love. For Ares does not possess Love, rather Love possesses Ares, Love for Aphrodite that is, according to the story. The possessor is more dominant than the possessed, and since Love dominates the god who is most courageous of them all, he himself would be the most courageous.",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Agathon",
+"text": "“Now that we have described the justice, sound-mindedness and courage of the god, what remains is to describe his wisdom, and as far as possible we should endeavour not to be found wanting. And firstly, so that I, for my part, may exalt my own profession just as Eryximachus exalted his, I say that the god is a poet, so wise that he can make a poet of someone else. In any case, whoever is touched by Love becomes a poet even if he had previously been devoid of the Muse. So, we may fittingly use this as evidence that, in general, Love is a good poet whose creativity extends to the entire realm of the Muses. For one can neither bestow upon another, nor teach another, what one does not possess or does not know. And, indeed, who would oppose the claim that, in the case of the production of all living creatures, it is by Love’s wisdom that living creatures come into being and grow? Again we know, do we not, that any artificer involved in the other professions, who has this god as his teacher, turns out to be highly regarded and illustrious, while the one whom Love does not touch suffers oblivion? In fact, Apollo discovered archery, medicine and prophecy under the direction of desire and Love, so he too was the pupil of Love, as were the Muses in music, Hephaestus in metal-working, Athena in weaving, and Zeus in the rulership of gods and men. Therefore, these activities of the gods were indeed established once Love had been engendered, Love of beauty obviously, for there is no love of ugliness. Before that, as I said at the outset, endless calamities befell the gods, as we are told, because of the sovereignty of Necessity, but since this god was born, all that is good among gods and men has arisen from their love of beauty.",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Agathon",
+"text": "“Accordingly Phaedrus, in my view, Love himself is first, unsurpassed in beauty and goodness, and he is thereafter responsible for other qualities of this sort in others. I am moved to say something in verse, declaring that he is the one who brings",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Agathon",
+"text": "Peace to humanity,. Stillness and calm to the sea,. Rest to the winds and. Sleep in the midst of grief.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Agathon",
+"text": "“He it is who purges us of hostility and fills us with friendship; who makes us come together at gatherings of various kinds; who acts as our leader at festivals, at ceremonies and at sacrifices, bringing gentleness, banishing crudity, bestowing goodwill, withholding ill will, gracious and gentle; to the wise, a vision; to the gods, a marvel; envied by those with no portion of him; prized by those who have a fair share; father of luxury, splendour, ornament, graces, desire and longing; careful of the good, neglectful of the bad; helmsman, defender, ally, and saviour supreme in travail and fear, in yearning and in discourse; the adornment of all of the gods and of humanity; the best and most illustrious leader, whom every man should follow, singing beautiful hymns of praise, sharing in the song he sings, as he enchants the thought of every god and man.",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Agathon",
+"text": "“That is my speech, Phaedrus,” he said. “Partly playful, yet serious in due measure, to the best of my ability I lay it before the god.”",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Apollodorus",
+"text": "According to Aristodemus, everyone who was there applauded when Agathon finished speaking because the young man’s words had been so appropriately spoken, both with respect to himself and with respect to the god. Then Socrates looked at Eryximachus and said,",
+"kind": "narration"
+},
+{
+"entry": 125,
+"who": "Socrates",
+"text": "“Dear son of Acumenus, do you still think the fear I felt a while ago was unfounded? Surely what I said at the time was prophetic, that Agathon was going to speak wonderfully and that I would be at a loss.”",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Eryximachus",
+"text": "“To a certain extent,” said Eryximachus. “I think you did state prophetically that Agathon was going to speak well, yet I cannot accept that you could be at a loss.”",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Socrates",
+"text": "“Blessed man,” said Socrates, “how can I help but be at a loss, I or anyone else who is about to speak just after the delivery of such a beautiful, variegated speech as that? Although the rest of it was not quite so wonderful, who could avoid being awestruck towards the end on hearing the beauty of its words and phrases? Yet I myself, arriving at the conclusion that I would be unable to say anything that came anywhere near the beauty of his words, almost ran away, and would have fled out of shame had I anywhere to run to. In fact, the speech reminded me of Gorgias, and my predicament was much like what Homer describes. I was afraid in the end lest Agathon, in his speech, had sent the head of Gorgias, so formidable in speech, against my own speech and would turn me into speechless stone. And I then realised how ridiculous I was when I agreed to take my turn with the rest of you in giving praise to Love and when I said that I was proficient in all that belongs to love, although, as it turns out, I knew nothing about the process whereby anything at all should be given praise. For I was simple-minded enough to think that one should speak the truth about each of the subjects that are to be praised and, with this as a basis, select the most beautiful aspects thereof and present them in the most appropriate manner possible. And so I had very great expectations that I was going to speak well, on the presumption that I knew the true way to praise anything whatsoever.",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Socrates",
+"text": "But it turns out, it seems, that this is not the way to praise anything beautifully. Instead, one should attribute the most exalted and beautiful qualities to the object, whether it possesses them or not, and if it is a lie, well that does not matter. Indeed, it was stated at the outset, it seems, that each of us should merely seem to praise Love rather than actually praising him. That is why, in my view, you marshal every possible expression and attribute it to Love, proclaiming him to be such and such, and the cause of all manner of things, so that he may appear to be unsurpassed in beauty and excellence to people who do not recognise him of course, but surely not to the people who know. And the praise sounds beautiful and impressive too, yet I did not actually realise that this was the way to deliver praise, and in my ignorance, I too agreed to take my turn with you in this process.",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Socrates",
+"text": "“So, my tongue made a promise but my mind did not. Let’s bid it farewell then. Indeed, I am not going to give praise in that way, since I would not be able to do so. Yet I am prepared to speak the truth in my own way, if you want me to, rather than competing with your speeches and attracting ridicule. Therefore, you should decide whether a speech of this sort is needed, Phaedrus, whether it is necessary to hear the truth about Love, spoken with whatever sort of words and arrangement of phrases happens to occur to me.”",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Apollodorus",
+"text": "So Phaedrus agreed, and the others called upon Socrates to speak in whatever manner he himself thought he should speak.",
+"kind": "narration"
+},
+{
+"entry": 131,
+"who": "Socrates",
+"text": "“Well, Phaedrus,” said he, “even now, let me put a few little questions to Agathon so that I may agree something with him, and then proceed to speak.”",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Phaedrus",
+"text": "“Yes, I will allow it,” said Phaedrus. “Just ask.”",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Apollodorus",
+"text": "After that, according to Aristodemus, Socrates began somewhat as follows.",
+"kind": "narration"
+},
+{
+"entry": 134,
+"who": "Socrates",
+"text": "“Yes, indeed, dear Agathon, I thought you began your speech very nicely by saying that one should first describe the sort of god Eros himself is, and then describe what he does. This introduction pleases me greatly. So come on, since you have described beautifully and magnificently what he is like in general, tell me this too: is Love characterised as love of something or of nothing? Now, I am not asking if Love is love of a father or of a mother, for asking if Love is the love of father or mother would be ridiculous. No, it is as if I were asking about this father in itself. Is the father a father of someone or is he not? Presumably you would tell me, if you wished to answer properly, that the father is the father of a son or a daughter, would you not?”",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Agathon",
+"text": "“Very much so,” replied Agathon.",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Socrates",
+"text": "“Does not the same go for a mother?”",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Apollodorus",
+"text": "He also agreed with this.",
+"kind": "narration"
+},
+{
+"entry": 138,
+"who": "Socrates",
+"text": "“Well, then,” said Socrates, “answer just a few more questions so that you may understand better what I mean. For if I were to ask, ‘What about this? Is brother just what brother is, a brother of someone, or is he not?’”",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Apollodorus",
+"text": "He said that he is.",
+"kind": "narration"
+},
+{
+"entry": 140,
+"who": "Socrates",
+"text": "“Is he not a brother of a brother or a sister?”",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Apollodorus",
+"text": "He agreed.",
+"kind": "narration"
+},
+{
+"entry": 142,
+"who": "Socrates",
+"text": "“Now,” said he, “try also to describe Love. Is Love the love of nothing or of something?”",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Agathon",
+"text": "“He is certainly love of something.”",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Socrates",
+"text": "“Well, then,” said Socrates, “keep to yourself the memory of what it is love of, and tell me this: does Love desire that which he is the love of, or does he not?”",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Agathon",
+"text": "“He certainly does,” said Agathon.",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Socrates",
+"text": "“Does he have what he desires and loves, and then love it, or does he not have it?”",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Agathon",
+"text": "“He does not have it, or so it seems, at any rate,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Socrates",
+"text": "“Think about this,” said Socrates. “Rather than being likely, is it not necessarily the case that the one who desires, desires that which he lacks, and does not desire that which he does not lack? It seems to me, Agathon, that this is necessarily the case, strikingly so. How does it seem to you?”",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Agathon",
+"text": "“That is how it seems to me too,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Socrates",
+"text": "“Well said! Now, would someone who is tall wish to be tall, or would someone strong wish to be strong?”",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Agathon",
+"text": "“Based upon what has been agreed, that is impossible.”",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Socrates",
+"text": "“Because, being what he is, he would presumably not be lacking these qualities.”",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Agathon",
+"text": "“What you say is true.”",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Socrates",
+"text": "“But suppose someone strong were to wish to be strong, or a fast person to be fast, or a healthy person to be healthy,” said Socrates. “For perhaps someone might believe that in such cases and all similar cases, these people and those like them who have these qualities also desire the very qualities they have. Therefore, I am mentioning this so that we do not get misled. For if you think about it, Agathon, these men must, at that moment, have each of the qualities they have, regardless of what they wish, and surely no one would desire what he has? So, whenever someone says that I am healthy and I also wish to be healthy, or I am rich and I wish to be rich, and so I desire the very things that I have, we would say to him, ‘You, my good man, having acquired wealth, health and strength, also wish to retain them in the future since, at the present moment, you have them regardless of what you wish. So, consider the matter. Whenever you say, “I desire what I already have”, you are actually saying “I wish to have in future whatever I already have now”.’ He would have to agree would he not?”",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Apollodorus",
+"text": "Aristodemus said that Agathon concurred.",
+"kind": "narration"
+},
+{
+"entry": 156,
+"who": "Socrates",
+"text": "Then Socrates said, “Does this not involve loving that which is not immediately available to him, namely the future preservation and presence of these qualities?”",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Agathon",
+"text": "“Very much so,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Socrates",
+"text": "“So, it turns out that this person, and anyone else who has a desire, desires what is not immediately available and not present, something he does not have, something he himself is not and which he therefore lacks. It is for things of this sort that there is desire and Love.”",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Agathon",
+"text": "“Entirely so,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Socrates",
+"text": "“Come on, then,” said Socrates, “we should recapitulate what has been stated. Is not Love firstly a love of certain things, and secondly of things in which he is lacking?”",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Agathon",
+"text": "“Yes,” he said.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Socrates",
+"text": "“Now, as well as this, please remember what you said in your speech about what love is of. If you like I will remind you; for I think you said something to the effect that the various activities were established by the gods through their love of beauty. Is this not what you said?”",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Agathon",
+"text": "“Yes, I said that,” Agathon responded.",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Socrates",
+"text": "“And it is reasonable for you to say so, my friend,” said Socrates. “And if this is the case, would not Love be love of beauty and not of ugliness?”",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Apollodorus",
+"text": "He agreed.",
+"kind": "narration"
+},
+{
+"entry": 166,
+"who": "Socrates",
+"text": "“Now, did not we agree that he loves what he lacks and does not have?”",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Agathon",
+"text": "“Yes,” said he.",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Socrates",
+"text": "“Then Love is lacking in beauty and does not have it.”",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Agathon",
+"text": "“Necessarily,” said he.",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Socrates",
+"text": "“What about this? Would you say that something that lacks beauty, and has not acquired it, is beautiful?”",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Agathon",
+"text": "“Not at all.”",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Socrates",
+"text": "“So, do you still accept that Love is beautiful, if the things we have said hold good?”",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Agathon",
+"text": "And Agathon replied, “Socrates, it looks as if I did not know what I was talking about at the time.”",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Socrates",
+"text": "“And yet, you did speak beautifully, Agathon,” he said. “Please tell me a little more. Do you not think that anything good is also beautiful?”",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Agathon",
+"text": "“I do.”",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Socrates",
+"text": "“So, if Love is lacking in what is beautiful, and anything good is beautiful, then Love would also be lacking in what is good.”",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Agathon",
+"text": "“I would not be able to argue against you, Socrates,” he said, “so let it be as you say it is.”",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Socrates",
+"text": "“On the contrary, beloved Agathon,” said he, “you are unable to argue against the truth, since there is no difficulty in arguing against Socrates.”",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Socrates",
+"text": "Socrates said: “I am going to leave you be at this stage, and I shall attempt instead to recount to you a discourse concerning Love that I once heard from a woman of Mantinea, Diotima. She was wise in these matters and in many others, and on one occasion she secured a ten-year postponement of the plague for the people of Athens when they performed their sacrifices. She is the one who taught me about all that belongs to love, and the discourse is hers. Based upon what has been agreed by Agathon and myself, I shall attempt to recount it on my own, in whatever way I can. Now, as you explained, Agathon, what I should do first is describe Love himself, what he is and how he is characterised, and then go on to describe his works. So, I think it is easiest to recount the manner in which the stranger from Mantinea went about it at the time, since she questioned me closely. I used different words, but what I said to her was much the same as what Agathon said to me just now, that Love is a great god and it is love of whatever is beautiful. She then refuted me with the very arguments with which I refuted Agathon, showing that according to my own argument Love was neither beautiful nor good.",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Socrates",
+"text": "“So I said, ‘Diotima, what are you saying? Is Love, in fact, ugly and bad?’",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Diotima",
+"text": "She replied, ‘Show some respect, or do you think that something that is not beautiful would necessarily be ugly?’",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Socrates",
+"text": "‘Very much so.’",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Diotima",
+"text": "‘And would someone who is not wise be ignorant? Or do you not realise that there is something in between wisdom and ignorance?’",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Socrates",
+"text": "‘What is that?’",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Diotima",
+"text": "‘Are you not aware,’ said she, ‘that holding right opinions, even without being able to give an account, does not involve knowing, for how could something that is unreasoned be knowledge? Neither is it ignorance, for how could something that corresponds with what is, be ignorance? And surely right opinion is something of this sort, between understanding and ignorance.’",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Socrates",
+"text": "‘What you say is true,’ I replied.",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Diotima",
+"text": "‘Then do not insist that what is not beautiful must be ugly or that what is not good must be bad. And in the case of Love, when you yourself agree that he is neither good nor beautiful, do not presume further that he must be ugly and bad, but something between these two,’ said she.",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Socrates",
+"text": "‘And yet,’ said I, ‘certainly it is agreed by everyone that he is a great god.’",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Diotima",
+"text": "‘Do you mean by everyone who does not know him, or also by those who know him?’ she asked.",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Socrates",
+"text": "‘By all of them,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Diotima",
+"text": "She laughed and asked, ‘And how, Socrates, could those who maintain that he is not even a god agree that he is a great god?’",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Socrates",
+"text": "‘Who are these people?’ I asked.",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Diotima",
+"text": "‘You are one of them,’ said she, ‘and I am another.’",
+"kind": "speech"
+},
+{
+"entry": 194,
+"who": "Socrates",
+"text": "‘How can you say this?’ I asked.",
+"kind": "speech"
+},
+{
+"entry": 195,
+"who": "Diotima",
+"text": "‘Quite easily,’ she replied. ‘Yes. Tell me, do you not agree that all gods are happy and beautiful? Or would you dare to deny that any of the gods are beautiful and blessed?’",
+"kind": "speech"
+},
+{
+"entry": 196,
+"who": "Socrates",
+"text": "‘By Zeus, I would not,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 197,
+"who": "Diotima",
+"text": "‘And do you agree that the blessed are those who have acquired what is good and beautiful?’",
+"kind": "speech"
+},
+{
+"entry": 198,
+"who": "Socrates",
+"text": "‘Entirely so.’",
+"kind": "speech"
+},
+{
+"entry": 199,
+"who": "Diotima",
+"text": "‘And yet you have agreed that Love, because of a lack of whatever is good and beautiful, desires whatever he lacks.’",
+"kind": "speech"
+},
+{
+"entry": 200,
+"who": "Socrates",
+"text": "‘Yes, I have agreed.’",
+"kind": "speech"
+},
+{
+"entry": 201,
+"who": "Diotima",
+"text": "‘So, how could someone with no portion of what is beautiful and good be a god?’",
+"kind": "speech"
+},
+{
+"entry": 202,
+"who": "Socrates",
+"text": "‘In no way at all, as it seems.’",
+"kind": "speech"
+},
+{
+"entry": 203,
+"who": "Diotima",
+"text": "‘Can you now see’, she asked, ‘that you yourself do not regard Love as a god?’",
+"kind": "speech"
+},
+{
+"entry": 204,
+"who": "Socrates",
+"text": "‘What can Love be then?’ I asked. ‘Is he a mortal?’",
+"kind": "speech"
+},
+{
+"entry": 205,
+"who": "Diotima",
+"text": "‘Not in the least.’",
+"kind": "speech"
+},
+{
+"entry": 206,
+"who": "Socrates",
+"text": "‘Then what is he?’",
+"kind": "speech"
+},
+{
+"entry": 207,
+"who": "Diotima",
+"text": "‘As in the previous examples,’ said she, ‘in between mortal and immortal.’",
+"kind": "speech"
+},
+{
+"entry": 208,
+"who": "Socrates",
+"text": "‘What then, Diotima?’",
+"kind": "speech"
+},
+{
+"entry": 209,
+"who": "Diotima",
+"text": "‘A great spirit, Socrates. In fact, the entire realm of spirit lies between the divine and the mortal.’",
+"kind": "speech"
+},
+{
+"entry": 210,
+"who": "Socrates",
+"text": "‘What power does he have?’ I asked.",
+"kind": "speech"
+},
+{
+"entry": 211,
+"who": "Diotima",
+"text": "‘The power of interpreting and conveying entreaties and sacrifices from humanity to the gods, and any commands from the gods to humanity, and their favours too in return for our sacrifices. This realm lies between these two, filling up that space so that it binds the whole together with itself. Through this proceeds all prophecy, the craft of the priests concerning sacrifices, rituals and hymns, and all divination and enchantment. God does not mix with humanity, so any interaction and converse between gods and humanity, asleep or awake, is through spirit. He who is wise in such matters is a man of spirit, while he who is wise in anything else, based upon some expertise or dexterity, is base. Many and varied are these spirits, and Love is, indeed, among them.’",
+"kind": "speech"
+},
+{
+"entry": 212,
+"who": "Socrates",
+"text": "‘From what father and mother was he born?’ I asked.",
+"kind": "speech"
+},
+{
+"entry": 213,
+"who": "Diotima",
+"text": "‘The story is somewhat lengthy but I will tell you nevertheless,’ she replied. ‘When Aphrodite was born, the gods held a feast, and among them was Resource, the son of Cunning. Once they had dined, Poverty arrived, begging as she usually did at such festivities, and she hung about the doorways. Resource was drunk on nectar — indeed there was no wine in those days — so he went out into the garden of Zeus, was overcome with heaviness and fell asleep. Now, Poverty, because she herself was devoid of resource, contriving to have a child by Resource, lies down beside him, thus conceiving Love. That is why Love is also a follower and attendant of Aphrodite. Begotten at her birthday festivities, he is a lover by nature, drawn to beauty because Aphrodite is beautiful.",
+"kind": "speech"
+},
+{
+"entry": 214,
+"who": "Diotima",
+"text": "‘Now, since Love is the son of Resource and Poverty, he finds himself in the following circumstances. Firstly, he is always poor and far from being delicate and beautiful as so many people believe; rather he is hard, squalid, barefoot and homeless, always sleeping on the ground without covers, lying in the open air in doorways or on the streets, possessed of his mother’s nature, dwelling ever alongside lack. Then again, because of his father, he has designs upon anything beautiful and good; he is courageous, energetic and intense, a formidable hunter, always devising some schemes. He desires understanding and is resourceful in obtaining it. He is a life-long lover of wisdom, a clever enchanter, sorcerer, and sophist, by nature neither immortal nor mortal. Rather, on the self-same day he thrives and is alive at one moment whenever he is well resourced, but the next moment he is dying; yet he comes back to life again because of his father’s nature. Whatever resources he obtains are constantly slipping away, and so he is neither devoid of resources nor wealthy, and what is more he is midway between wisdom and ignorance.",
+"kind": "speech"
+},
+{
+"entry": 215,
+"who": "Diotima",
+"text": "‘This is how matters stand. None of the gods love wisdom, or desire to become wise, for they are wise already. Nor does anyone else who is wise, love wisdom. Neither do the ignorant, for their part, love wisdom or desire to become wise. Indeed, that is the very problem with ignorance: that someone who is neither noble nor good nor intelligent thinks that he himself has enough nobility, goodness and intelligence, and a person who does not think he lacks anything has no desire for what he thinks he has.’",
+"kind": "speech"
+},
+{
+"entry": 216,
+"who": "Socrates",
+"text": "‘Who then are those who love wisdom, Diotima,’ I asked, ‘if they are neither the wise nor the ignorant?’",
+"kind": "speech"
+},
+{
+"entry": 217,
+"who": "Diotima",
+"text": "‘Surely this is obvious by now, even to a child,’ said she. ‘It’s those who are in between these two, and Love would be among them. For wisdom is one of the supreme beauties, and Love is love of beauty, so Love necessarily loves wisdom, and since it loves wisdom it is between wisdom and ignorance. His origin explains why he is like this too, for his father is wise and well resourced, while his mother is unwise and ill-resourced. Such then is the nature of this spirit, beloved Socrates, and it is no wonder you thought that Love was as you said he was. And you thought, and what you are saying seems to prove this, that Love is what is loved rather than that which loves. That is presumably why Love seemed utterly beautiful to you. And, in fact, the object of love is what is really beautiful, delicate, perfect and revered, whereas that which loves has a different character, of the kind I have just described.’",
+"kind": "speech"
+},
+{
+"entry": 218,
+"who": "Socrates",
+"text": "I then said, ‘So be it, dear stranger, for you have explained this very well. Since Love is like this, what use is he to humanity?’",
+"kind": "speech"
+},
+{
+"entry": 219,
+"who": "Diotima",
+"text": "‘That, Socrates,’ said she, ‘is what I shall endeavour to teach you next. Now, although Love is like this and has come into being in this way, he is nevertheless, as you agree, the love of what is beautiful. So, what if someone were to ask us, “Socrates and Diotima, in what sense is Love a love of what is beautiful? Or to put it more clearly, if a person who loves has love of what is beautiful, what does he love?”’",
+"kind": "speech"
+},
+{
+"entry": 220,
+"who": "Socrates",
+"text": "‘To obtain them,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 221,
+"who": "Diotima",
+"text": "‘But your answer raises a further question of the following kind,’ she said. ‘What will someone obtain, should he obtain what is beautiful?’",
+"kind": "speech"
+},
+{
+"entry": 222,
+"who": "Socrates",
+"text": "‘That’, said I, ‘is a question to which I am, as yet, unable to give an immediate answer.’",
+"kind": "speech"
+},
+{
+"entry": 223,
+"who": "Diotima",
+"text": "‘Well,’ said she, ‘if someone were to substitute the word beauty with the word good, and ask you, “Come on, Socrates, what does a person who loves whatever is good, love?”’",
+"kind": "speech"
+},
+{
+"entry": 224,
+"who": "Socrates",
+"text": "‘To obtain it,’ I replied.",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Diotima",
+"text": "‘And what will someone obtain, should he obtain whatever is good?’",
+"kind": "speech"
+},
+{
+"entry": 226,
+"who": "Socrates",
+"text": "‘I am in a better position to answer this,’ said I. ‘He will be happy.’",
+"kind": "speech"
+},
+{
+"entry": 227,
+"who": "Diotima",
+"text": "‘Yes,’ she said. ‘It is through the acquisition of whatever is good that those who are happy, are happy. And is it the case that there is no need to ask further why someone who wishes to be happy, wishes to be so? Your answer seems to be final.’",
+"kind": "speech"
+},
+{
+"entry": 228,
+"who": "Socrates",
+"text": "‘What you say is true,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 229,
+"who": "Diotima",
+"text": "‘Now, do you think this wish, and this love, is common to all people, and that everyone always wishes that whatever is good be his, or what would you say?’",
+"kind": "speech"
+},
+{
+"entry": 230,
+"who": "Socrates",
+"text": "‘Just that,’ I replied. ‘This wish is common to all.’",
+"kind": "speech"
+},
+{
+"entry": 231,
+"who": "Diotima",
+"text": "‘In that case, Socrates,’ she asked, ‘since everyone loves the same thing all the time, why do we not also say that everyone loves rather than saying that there are some who love and some who do not?’",
+"kind": "speech"
+},
+{
+"entry": 232,
+"who": "Socrates",
+"text": "‘I too wonder about this,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 233,
+"who": "Diotima",
+"text": "‘There is nothing to wonder about,’ said she, ‘for we actually separate out a form of Love and we give it a name, assigning to it the name of the whole, Love, and we use other names for the other forms of Love.’",
+"kind": "speech"
+},
+{
+"entry": 234,
+"who": "Socrates",
+"text": "‘Can you give an example?’ said I.",
+"kind": "speech"
+},
+{
+"entry": 235,
+"who": "Diotima",
+"text": "‘For instance, you are aware that there are varieties of composition, for the cause by which anything whatsoever passes from non-being into being is composition in general. And so anything that is wrought by any skill whatsoever is a composition, and the artificers thereof are all poets.’",
+"kind": "speech"
+},
+{
+"entry": 236,
+"who": "Socrates",
+"text": "‘What you say is true.’",
+"kind": "speech"
+},
+{
+"entry": 237,
+"who": "Diotima",
+"text": "‘Nevertheless,’ said she, ‘you know that they are not all called composers. They have other names, since one portion has been distinguished from composition in its entirety, namely the part concerned with music and metre, and this has been referred to by the name of the whole, for this portion alone is called composition, and only those who hold to this aspect of composition are called composers.’",
+"kind": "speech"
+},
+{
+"entry": 238,
+"who": "Socrates",
+"text": "‘What you say is true,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 239,
+"who": "Diotima",
+"text": "‘Well, the same consideration also applies to Love. To sum up, any desire in anyone for whatever is good, and for being happy, is Love, “great and treacherous”. But those who have recourse to him in a variety of other ways, through money-making, or their love of gymnastics, or of wisdom, are not said to demonstrate love or to be lovers, while those who have recourse to one particular form, and apply themselves to that, adopt the name of the whole, Love, and are said to demonstrate love and to be lovers.’",
+"kind": "speech"
+},
+{
+"entry": 240,
+"who": "Socrates",
+"text": "‘That is probably true,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 241,
+"who": "Diotima",
+"text": "‘And although a story is told, according to which those who demonstrate Love are seeking the other half of themselves, my own account declares that love is neither of a half nor of a whole, unless these somehow happen to be good, my friend, since people are willing to have even their own feet and hands cut off, if they think these are detrimental to themselves. Indeed, in my view, people do not cling to their possessions except in cases where a person refers to the good as familiar, and as his own, and to the bad as alien, since there is nothing else that people love except the good. Or do you think there is?’",
+"kind": "speech"
+},
+{
+"entry": 242,
+"who": "Socrates",
+"text": "‘By Zeus, I do not,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 243,
+"who": "Diotima",
+"text": "‘Well, then,’ said she, ‘may we declare, without reservation, that people love the good?’",
+"kind": "speech"
+},
+{
+"entry": 244,
+"who": "Socrates",
+"text": "‘Yes,’ I replied.",
+"kind": "speech"
+},
+{
+"entry": 245,
+"who": "Diotima",
+"text": "‘What about this: should we not also propose that what they love is to have the good?’",
+"kind": "speech"
+},
+{
+"entry": 246,
+"who": "Socrates",
+"text": "‘We should also propose that,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 247,
+"who": "Diotima",
+"text": "‘And indeed not just to have it,’ said she, ‘but to have it always?’",
+"kind": "speech"
+},
+{
+"entry": 248,
+"who": "Socrates",
+"text": "‘That too,’ I replied.",
+"kind": "speech"
+},
+{
+"entry": 249,
+"who": "Diotima",
+"text": "‘Then to sum up, love is the love of having the good always.’",
+"kind": "speech"
+},
+{
+"entry": 250,
+"who": "Socrates",
+"text": "‘What you say is very true,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 251,
+"who": "Diotima",
+"text": "‘Now, since this is what Love always is,’ said she, ‘through what activity should those who pursue its object pursue it, if their eagerness and exertion is to be referred to as Love? What exactly is this act? Can you say?’",
+"kind": "speech"
+},
+{
+"entry": 252,
+"who": "Socrates",
+"text": "‘No, I cannot, Diotima. If I could, I would not be in awe of you and your wisdom, your constant visitor, intent on learning these very things from you.’",
+"kind": "speech"
+},
+{
+"entry": 253,
+"who": "Diotima",
+"text": "‘Then I shall tell you,’ said she. ‘It is the act of bringing forth in beauty, both in respect of the body and in respect of the soul.’",
+"kind": "speech"
+},
+{
+"entry": 254,
+"who": "Socrates",
+"text": "‘Some prophetic power is needed to appreciate exactly what you mean,’ I said. ‘I do not understand.’",
+"kind": "speech"
+},
+{
+"entry": 255,
+"who": "Diotima",
+"text": "‘Then,’ said she, ‘I shall speak with greater clarity. Indeed, Socrates,’ said she, ‘all people are pregnant either in respect of the body or in respect of the soul, and once we attain a certain age our nature has a desire to bring forth. But it is not able to bring forth in ugliness, only in beauty. In fact, the intercourse of man and of woman is a bringing forth. This is something divine and, among mortals, this pregnancy and begetting is an immortal element within them. But this cannot arise in anything unsuitable, and ugliness is ill-suited to all that is divine, while beauty suits it well. So, for coming into being, Beauty is Destiny and the goddess of childbirth too. That’s why whenever the pregnant one associates with beauty, it becomes gracious and, being gladdened, it melts, brings forth and begets. Yet whenever it associates with ugliness, it becomes sullen and, being pained, it contracts, turns away, shrinks back and does not beget; rather it holds onto its conception and carries it with difficulty. And so the pregnant one, who by now is swollen and ripe, becomes highly emotional when in the vicinity of the beautiful because it is freed of its great travail by the bearer of beauty. For love, Socrates, is not love of the beautiful as you seem to think.’",
+"kind": "speech"
+},
+{
+"entry": 256,
+"who": "Socrates",
+"text": "‘What is it then?’",
+"kind": "speech"
+},
+{
+"entry": 257,
+"who": "Diotima",
+"text": "‘It is love of the begetting and the bringing forth in beauty.’",
+"kind": "speech"
+},
+{
+"entry": 258,
+"who": "Socrates",
+"text": "‘Let it be so,’ said I.",
+"kind": "speech"
+},
+{
+"entry": 259,
+"who": "Diotima",
+"text": "‘Very much so,’ she said. ‘But why ever is it a love of begetting? Because for a mortal creature begetting is eternal and immortal, and from what we have agreed, since love is of the everlasting possession of the good, it is necessary to desire immortality along with the good. So, based upon this argument, love is, of necessity, also of immortality.’”",
+"kind": "speech"
+},
+{
+"entry": 260,
+"who": "Socrates",
+"text": "“Now, she taught me all this on the occasions when she presented discourses about love, and she once asked me, ‘Socrates, what do you think is the cause of this love and this desire? Have you not noticed that all animals are afflicted dreadfully when they have a desire to beget? Whether they are winged or go by foot, they are all laid low and afflicted by love, firstly for intercourse with one another, and then for the nurture of their offspring. Even the weakest are ready to do battle against the very strongest on behalf of their offspring and to die for them, being racked with hunger themselves so as to feed them, and prepared to do anything else at all. You might think that human beings do this based upon their reasoned calculation,’ she said, ‘but why are animals afflicted in this way by love? Do you have something to say?’",
+"kind": "speech"
+},
+{
+"entry": 261,
+"who": "Socrates",
+"text": "“And I said, once more, that I did not know, and she said, ‘How will you ever become expert in whatever belongs to love if you do not reflect on these questions?’",
+"kind": "speech"
+},
+{
+"entry": 262,
+"who": "Socrates",
+"text": "‘Well, as I just said, that is the very reason I have come to you, Diotima. I realise that I need teachers. So, tell me the reason for this too, and for whatever else is involved in all that belongs to love.’",
+"kind": "speech"
+},
+{
+"entry": 263,
+"who": "Diotima",
+"text": "‘Well,’ she said, ‘if you accept that by nature love is for what we have so often agreed it is for, this should be no surprise. The same argument applies in both cases. The mortal nature seeks, as best it can, to exist forever and to be immortal. And this is possible in only one way, through generation, because that continually leaves behind another new creature in place of the old. Since, even for the span of time that each individual creature is said to be alive and to be the same, for example a person is referred to as the same creature from childhood until old age, even though it never actually remains the same in itself, nevertheless it is referred to as the same. Rather, some parts are continually becoming new, while others are being lost. This applies to hair, flesh, bone, blood, indeed to the entire body, and not just to the body. For in the case of the soul too, its tendencies, habits, opinions, desires, pleasures, pains, fears, each of these is present to each of us, but they are never the same. Rather, as some of them are arising in us others are being lost. Much stranger even than these instances are the various things that we know. Not only are some arising in us while others are being lost, so that based on the various things that we know we are never the same, but the same thing also happens to every single thing that we know. So, what we call practice exists on the presumption that there is a shedding of knowledge, for forgetting is a departure of knowledge, while practice preserves the knowledge by engendering a new memory within us once more in place of what is leaving, so that the knowledge seems to be the same. Indeed, this is how anything mortal is preserved, not by being the same in every respect, like the divine, but by leaving behind something else, something new, something that is like what it was, in place of whatever is being lost through its old age. This, Socrates,’ she said, ‘is the mechanism by which the mortal partakes of immortality, both in body and in every other respect. The immortal does so in a different way. So, do not be surprised that every creature naturally reveres its own offspring, since this eagerness and love attends upon everything for the sake of immortality.’”",
+"kind": "speech"
+},
+{
+"entry": 264,
+"who": "Socrates",
+"text": "“And when I had heard this account I was amazed, and I exclaimed, ‘Is this so, wisest Diotima? Is this the truth of the matter?’",
+"kind": "speech"
+},
+{
+"entry": 265,
+"who": "Diotima",
+"text": "“And just like an accomplished sophist, she replied, ‘Doubt it not, Socrates, since even among humans, if you’d care to look at their love of honour, you would be astonished at their irrationality in the cases I have described unless you keep in mind, on reflection, the terrible state they get into over their love of being renowned and of “storing up immortal fame for all time.” On account of this, they are prepared to risk any dangers at all, even more than they would for their own children, to spend their money, endure any hardship whatsoever and even to die for the sake of this. Do you really think Alcestis would have died in place of Admetus, or that Achilles would have followed Patroclus into death, or that your own Codrus would have died in defence of the kingdom of his children, unless they believed there would be immortal memory of their own excellence, a memory we now possess? Far from it,’ she said. ‘No, I believe they all do all these deeds for the sake of immortal excellence and a glorious reputation of that sort, and the better people do this to a greater extent, because they love immortality.",
+"kind": "speech"
+},
+{
+"entry": 266,
+"who": "Diotima",
+"text": "‘Now,’ she said, ‘those who are pregnant in their bodies are more inclined towards women and are affected by love in this way, believing that they will secure immortality, fame and happiness for themselves for all time by begetting children. While as far as soul is concerned,’ said she, ‘those who are pregnant in their souls, even more than in their bodies, conceive and bring forth what belongs to the soul. So, what belongs to the soul? Understanding and excellence in general are indeed begotten by all the poets and by any artificers who are regarded as creative. Yet the most extensive and most beautiful understanding, by far, is the setting in order of our cities and our households, and its name is sound-mindedness and justice. What is more, when someone is pregnant with these in soul from a young age, being divine, and reaching an age where he develops a desire to bring forth and beget, he then, I presume, goes around searching for the beauty in which he may beget, for he will never beget in ugliness. Since the person is pregnant, he welcomes beautiful bodies rather than ugly ones, and should he also encounter a beautiful, noble and well-developed soul, he welcomes the twofold combination all the more. And towards this person he is immediately well resourced with words about excellence, and what a good man should be like, and how he should behave, and he sets about educating him. For being in contact with the beautiful one, and consorting therewith, what was conceived in times past is brought forth and begotten when the beautiful one is present, and when he is absent but remembered. And he joins with that person in the shared nurture of what they have begotten, so that such people maintain a much greater communion with one another, and a more constant friendship than children would afford, since their communion involves children who are more beautiful and more immortal. And everyone would prefer to have such children as these rather than the human kind, and looking at Homer and Hesiod and the other good poets, they envy the offspring of themselves that these poets leave behind, which furnish the poets with immortal glory and fame, since that is what the offspring itself is like. Or if you prefer,’ said she, ‘look at the sort of children Lycurgus left behind him in Sparta, saviours of Sparta and, in a sense, of Greece. Solon too is revered among yourselves as the begetter of your laws, as are other men in many other places, among Greeks and non-Greeks, for their display of so many noble deeds, and for begetting excellence of every kind. Many shrines have already been established for them because they had such children as these, but this has never yet happened because of human children.",
+"kind": "speech"
+},
+{
+"entry": 267,
+"who": "Diotima",
+"text": "‘Now, Socrates, you too could probably be initiated into all that belongs to love, yet I do not know if you are able for the final initiation and vision which is the aim of all this, provided the aspirant proceeds aright. So, I will tell you,’ said she, ‘and my eagerness shall not be found wanting. Try to follow me, if you can.",
+"kind": "speech"
+},
+{
+"entry": 268,
+"who": "Diotima",
+"text": "‘Indeed,’ said she, ‘whoever embarks upon this endeavour in the correct manner should begin, whilst young, by approaching beautiful bodies. Firstly, if his guide guides him aright, he should love a single body, beget beautiful words with that, and then recognise that the beauty in any body whatsoever is akin to that in any other body, and if he must pursue beauty associated with form, it would be most irrational not to regard the beauty in all the bodies as one and the same. Once he has recognised this, he should become a lover of all beautiful bodies and relax his intensity towards a particular one, despising it and regarding it as a trifle. After this, he should regard the beauty in souls as more honourable than the beauty in bodies, so it would be quite enough for him if someone fair of soul had even a little physical bloom. He would love that person, care for him, and bring forth and seek out such words as make young people better, so that he is compelled, in turn, to behold the beauty present in activities and in laws, and see that it is all completely interrelated, and come to regard beauty of body as something trivial. After the activities, he should be led on to knowledge, so that he might then see the beauty of knowledge, and looking then towards the vast beauty, be no longer delighted, like a slave in base and trivial servitude, by the beauty of some particular boy or man, or by a single activity. Turning instead to the open sea of beauty and contemplating that, he brings forth beautiful and magnificent words and reflections aplenty, in an ungrudging love of wisdom, until, strengthened and developed in that, he recognises a single knowledge of this kind, knowledge of a beauty I shall now describe.",
+"kind": "speech"
+},
+{
+"entry": 269,
+"who": "Diotima",
+"text": "‘Try’, said she, ‘to give me your fullest attention. For whoever has been instructed as far as this concerning love, contemplating the beauties properly and in due order, approaching then the final objective of all that belongs to love, will suddenly behold a beauty, wondrous in nature, for whose sake, Socrates, all his previous toils were undertaken; a beauty that first of all always is, and neither comes into being nor passes away, neither grows nor decays; a beauty that is not beautiful in one respect and ugly in another, nor beautiful at one moment and not so the next, nor beautiful in relation to one thing but ugly in relation to another, nor beautiful in this place but ugly in that, because it is beautiful to some people but ugly to others; nor again will beauty appear to him like some face or hands or anything at all that partakes of body, nor like some word, or some knowledge, nor as being located in something different, such as an animal or in earth or in heaven or in anything else, but rather as being always just by itself, of one form with itself, while all the other beauties share in this, in such a manner that somehow, in spite of their coming into being and passing away, this beauty undergoes neither increase nor decrease, nor is it affected at all. So, whenever someone, by being a lover of youths in the correct manner, ascends upwards from those beauties and begins to get clear sight of that beauty, he would almost be in touch with the final goal.",
+"kind": "speech"
+},
+{
+"entry": 270,
+"who": "Diotima",
+"text": "‘This, then, is indeed the correct manner of embarking upon whatever belongs to love or of being guided by someone else: beginning from these beauties to ascend ever upwards for the sake of that beauty, using these beauties as steps of ascent, from one to two, and from two to all beautiful bodies, and from beautiful bodies to beautiful activities, and from the activities to beautiful teachings, and from the teachings, finally to that teaching which is the teaching of that beauty itself and of no other, and ending with the realisation of what beauty itself is.",
+"kind": "speech"
+},
+{
+"entry": 271,
+"who": "Diotima",
+"text": "‘Here, above all, is our life worth living, my dear Socrates,’ said the stranger from Mantinea, ‘beholding beauty itself, a beauty which, once seen, will bear no comparison in your eyes with the gold or raiment or pretty boys and youths that so astound you now. Indeed, you and so many others, on seeing your favourites and being constantly in their company, would, if you possibly could, forgo even food and drink just to look at them and be with them.",
+"kind": "speech"
+},
+{
+"entry": 272,
+"who": "Diotima",
+"text": "‘Well, then,’ said she, ‘what if someone were to attain the sight of beauty itself, simple, pure and unalloyed, uncluttered by human flesh, by colours and all the other trappings of mortality, but was able to see clearly the divine beauty itself, single in form? Would you think this is a mediocre life for a human being,’ she said, ‘looking to that place and contemplating that beauty with that which is suited to do so, and being with it? Or do you not recognise,’ said she, ‘that there alone, beholding beauty with that with which one sees it, he would be enabled to bring forth not images of excellence, but true excellence, since he is in touch with true beauty, not an image? And bringing forth and nourishing true excellence, he is allowed to become a friend to the gods, and if any human being may be immortal, it is he.’”",
+"kind": "speech"
+},
+{
+"entry": 273,
+"who": "Socrates",
+"text": "“Well, Phaedrus, and everyone else too, that is what Diotima said, and I am persuaded by her, and having been persuaded I endeavour to persuade others that in acquiring this possession they will not easily obtain a better collaborator with human nature than Love. And so I declare that every man must honour Love, and I myself honour whatever belongs to love, and practise that above all else and call upon others to do so, and as best I can I praise the power and courage of Love, now and always.",
+"kind": "speech"
+},
+{
+"entry": 274,
+"who": "Socrates",
+"text": "“So, Phaedrus, that is my speech. You may regard it as a hymn of praise to Love, if you wish, otherwise call it whatever it pleases you to call it.”",
+"kind": "speech"
+},
+{
+"entry": 275,
+"who": "Apollodorus",
+"text": "Once Socrates had said all this, there was general praise, and Aristophanes was trying to explain that Socrates’ speech had made mention of his own speech. Suddenly there was a loud banging at the outer door, as though revellers had arrived, and the voice of a flute-girl was heard. So Agathon said to the slaves:",
+"kind": "narration"
+},
+{
+"entry": 276,
+"who": "Agathon",
+"text": "“Please investigate this, and invite them in if they are acquaintances and, if not, tell them that we are not drinking and are already drawing to a close.”",
+"kind": "speech"
+},
+{
+"entry": 277,
+"who": "Apollodorus",
+"text": "Not much later, they heard Alcibiades’ voice in the hall — extremely drunk, shouting loudly — and asking where Agathon was, and demanding to be brought to Agathon. He was led to the gathering by the flute-girl who was supporting him, and by some of his followers, and he stood in the doorway, garlanded in a thick wreath of ivy and violets with a vast quantity of ribbons on his head, and said,",
+"kind": "narration"
+},
+{
+"entry": 278,
+"who": "Alcibiades",
+"text": "“Greetings, gentlemen. Will you accept a drunk man, totally and extremely so, as your companion in drink? Or should we just leave once we have crowned Agathon, which was the reason why we came? You see,” he said, “I was not able to get here yesterday, but now I have come with ribbons on my head, so that I may crown the head of the wisest and fairest, if I so describe him, with ribbons from my own head. So, will you laugh at me because I am drunk? But even if you laugh, I know quite well that I am speaking the truth anyway. These are my terms, so just tell me, here and now, shall I come in or not? Shall we drink together, or not?”",
+"kind": "speech"
+},
+{
+"entry": 279,
+"who": "Apollodorus",
+"text": "Everyone applauded, and bade him enter and take a couch, and Agathon called him over. In he came, led by his cohort, untying the ribbons as he went so as to crown Agathon. Because the ribbons were in front of his eyes, he did not get a clear view of Socrates, but sat down beside Agathon, between him and Socrates, for Socrates had moved over when he saw him coming. As he sat down, he embraced Agathon and crowned him with the ribbons.",
+"kind": "narration"
+},
+{
+"entry": 280,
+"who": "Agathon",
+"text": "Then Agathon said, “Slaves, please take off Alcibiades’ sandals so that the three of us may recline on the couch.”",
+"kind": "speech"
+},
+{
+"entry": 281,
+"who": "Alcibiades",
+"text": "“Of course,” said Alcibiades, “but who is our third companion in drink?” And as he said this he was turning around to look, saw Socrates, jumped up and exclaimed, “By Heracles! What have we here? This fellow Socrates? What is more, you were lying here to ambush me, making a sudden appearance, as you usually do, wherever I least expected you to be. So, why are you here now? And, more to the point, why are you reclining there? You did not recline beside Aristophanes or someone else who is deliberately comical. Oh no, you contrived to be beside the handsomest person in the place.”",
+"kind": "speech"
+},
+{
+"entry": 282,
+"who": "Socrates",
+"text": "And Socrates said, “Agathon, see if you can defend me, as my love for this man has become a significant issue for me. Indeed, from the very moment I came to love him, no longer am I allowed even to glance at or speak to a beauty, not even one, or else this fellow gets jealous and envious, acts outrageously, abuses me verbally and can barely restrain his fists. Watch out, even now, in case he does something. Reconcile us, and should he attempt to use violence please defend me, as I am in utter dread of his mad devotion to his friends.”",
+"kind": "speech"
+},
+{
+"entry": 283,
+"who": "Alcibiades",
+"text": "“No,” said Alcibiades, “for you and me there is no reconciliation, and I will get my revenge on you for all this some other time. For now, Agathon,” he said, “give me back some of those ribbons so that I may crown this, this wondrous head of his. Then he will not rebuke me because I crowned you and did not crown him when he, for his part, is victorious over everybody with his words always, not just the day before yesterday like you.” And as he said this he took the ribbons, crowned Socrates, and lay back on the couch.",
+"kind": "speech"
+},
+{
+"entry": 284,
+"who": "Alcibiades",
+"text": "Once he had settled back he said, “Well, gentlemen, it seems that you are sober. That is not allowed. You should drink, since that is what we agreed. So, I am appointing myself the person in charge of drinking, until you have all drunk enough. So Agathon, let someone bring a large drinking-cup, if there is one. No, we do not need that, slave. Bring that wine-cooler instead,” he said, having noted that it held more than half a gallon. Once this had been filled, he first quaffed its contents himself and then directed that it be refilled for Socrates. As this was happening, he said,",
+"kind": "speech"
+},
+{
+"entry": 285,
+"who": "Alcibiades",
+"text": "“With Socrates, gentlemen, my cleverness comes to nothing. Yes, however much anyone orders him to drink, that he drinks in full without even getting the slightest bit drunk.”",
+"kind": "speech"
+},
+{
+"entry": 286,
+"who": "Apollodorus",
+"text": "The slave filled the cup and Socrates drank it, and Eryximachus said,",
+"kind": "narration"
+},
+{
+"entry": 287,
+"who": "Eryximachus",
+"text": "“Alcibiades, whatever are we doing? Are we simply going to drink like men with a thirst on them, without either speaking or singing over our drinking cup?”",
+"kind": "speech"
+},
+{
+"entry": 288,
+"who": "Alcibiades",
+"text": "So Alcibiades said, “Greetings to you Eryximachus, the best son of the best and most sound-minded of fathers.”",
+"kind": "speech"
+},
+{
+"entry": 289,
+"who": "Eryximachus",
+"text": "“And the same to you,” said Eryximachus, “but what are we to do?”",
+"kind": "speech"
+},
+{
+"entry": 290,
+"who": "Alcibiades",
+"text": "“Whatever you say. Yes, we should be persuaded by you, ‘for one medical man is worth just as much as many others.’ So prescribe whatever you wish.”",
+"kind": "speech"
+},
+{
+"entry": 291,
+"who": "Eryximachus",
+"text": "“Then listen,” said Eryximachus. “Before you came in we decided that each of us in turn, from left to right, should deliver a speech on Love, the fairest we could, and sing his praises. Now, everyone else has spoken, and since you have not spoken, but have finished drinking, it is only right that you speak, and having done so, give Socrates any instruction you like, and he should do the same to the person on his right, and so on.”",
+"kind": "speech"
+},
+{
+"entry": 292,
+"who": "Alcibiades",
+"text": "“Well, Eryximachus,” he said, “that is a nice formulation, yet it would not be fair to pit a drunken man’s speech against speeches from sober men. What is more, my friend, do you believe anything of what Socrates said earlier? Are you aware that the facts are the complete opposite of what he said? Indeed, if I praise anyone other than himself, god or human, when the fellow is present, he will not restrain his hands from me.”",
+"kind": "speech"
+},
+{
+"entry": 293,
+"who": "Socrates",
+"text": "“Can you not mind your words?” said Socrates.",
+"kind": "speech"
+},
+{
+"entry": 294,
+"who": "Alcibiades",
+"text": "“By Poseidon,” said Alcibiades, “do not oppose me, for there is no one else at all whom I would praise when you are present.”",
+"kind": "speech"
+},
+{
+"entry": 295,
+"who": "Eryximachus",
+"text": "“Then do so, if you want to,” said Eryximachus. “Praise Socrates.”",
+"kind": "speech"
+},
+{
+"entry": 296,
+"who": "Alcibiades",
+"text": "“What are you saying?” said Alcibiades. “Do you think I should do this, Eryximachus? Attack him and punish the man in front of you all?”",
+"kind": "speech"
+},
+{
+"entry": 297,
+"who": "Socrates",
+"text": "“You! What have you in mind?” said Socrates. “Will you praise me for amusement, or what are you going to do?”",
+"kind": "speech"
+},
+{
+"entry": 298,
+"who": "Alcibiades",
+"text": "“I am going to speak the truth, if you will allow me to. Will you?”",
+"kind": "speech"
+},
+{
+"entry": 299,
+"who": "Socrates",
+"text": "“Yes, of course, the truth I allow, and even command you to speak.”",
+"kind": "speech"
+},
+{
+"entry": 300,
+"who": "Alcibiades",
+"text": "“I shall not delay then,” said Alcibiades, “and yet, there is something you need to do. If I say anything that is not true, stop me in mid-sentence if you wish, and say that I am telling a lie, for, I shall not tell lies deliberately. And yet, if my recollection flits hither and thither as I speak, do not be surprised; for, in my condition it is no easy matter to detail your strangeness fluently, and in due order.",
+"kind": "speech"
+},
+{
+"entry": 301,
+"who": "Alcibiades",
+"text": "“By means of images, gentlemen, that is how I shall attempt to praise Socrates. Now, although he himself will probably think that this is for amusement, the image will actually be for the sake of truth rather than amusement. Indeed, I declare that he is just like those statues of Silenus the craftsmen make, the ones that are found in statue shops, holding pipes or a flute, which when opened into two halves are found to contain images of the gods within them. What is more, I declare that he resembles Marsyas, the Satyr. Yes, even you, Socrates, would presumably not dispute the fact that you resemble these creatures in form. But now, hear how you also resemble them in other respects. You are insolent, are you not? Indeed, if you do not agree I shall provide witnesses. But are you not a flute player? Yes, a more amazing player than that fellow anyway. He enchanted people by means of his instruments, with the power from his mouth, and so does anyone today who plays his compositions on the flute, and I say that whatever Olympus played belonged to Marsyas, who taught him. Anyway, his compositions alone render the hearers possessed, whether played by a good flute player or a mediocre flute-girl, and because they are divine, they show us who stands in need of the gods and their initiations.",
+"kind": "speech"
+},
+{
+"entry": 302,
+"who": "Alcibiades",
+"text": "“Now, you differ from Marsyas in one respect only. You can do the very same thing without instruments, by means of bare words. At any rate, whenever we hear someone else, even an extremely good speaker, speaking other words, it is of no real interest to anyone. Yet when someone hears you, or hears your words spoken by someone else, even by an utterly abysmal speaker, regardless of whether a woman, a man, or a youth hears them, we are astounded and possessed. I myself, gentlemen — except that I would seem completely drunk — would have told you, on oath, how I have been affected by the words of this man and am still affected even now. For whenever I hear him my heart leaps more than that of the frenzied Corybantes, and tears flow because of this man’s words, and I see that a whole host of others are affected in the same way. Now, when I heard Pericles, or the other good speakers, I thought they spoke well, but I did not experience anything of this kind, nor was my soul troubled, nor was I angered at my condition of slavery. Yet this Marsyas here has often brought me to the point where life did not seem to be worth living, because of the state I was in. Yes, Socrates, and you will not deny that this is true. And even now I myself know full well that if I were prepared to give him a hearing I could not hold firm, but would experience the same effects. For he compels me to accept that although there is much that I lack, I neglect myself, and am busy with the affairs of the Athenian populace. So I block my ears forcibly as though I were hearing the Sirens. I depart and am gone, for fear that I might grow old seated alongside him.",
+"kind": "speech"
+},
+{
+"entry": 303,
+"who": "Alcibiades",
+"text": "“There is something you might think that I do not have within me, a feeling of shame towards any other person. Well, I experience this towards him and no one else. Only towards him do I feel shame. For I am fully aware that although I am unable to argue against him and to evade doing what he directs me to do, yet when I get away from him, reputation in the eyes of the populace gets the better of me. So, I take to my heels and run away, and whenever I see him, our mutual agreements reduce me to shame. Yes, on many occasions I would have been pleased to see him no longer among us, and yet if that were to happen, I know quite well that I would be in far greater distress. So I just do not know how to deal with the man.",
+"kind": "speech"
+},
+{
+"entry": 304,
+"who": "Alcibiades",
+"text": "“That is how the flute songs of this satyr have affected me and many others. Hear now from me how closely he resembles the figures I likened him to, and how wondrous is the power he possesses. For mark my words, not one man among you knows him, but since I have begun, I will show you. Note the fact that Socrates has a loving disposition toward the beautiful ones, constantly associates with them, and is smitten, and what is more, he is in ignorance about everything, and knows nothing. That is his outward appearance. Is this not what a Silenus is like? Very much so. So this is the external guise he dons, just like the carved Silenus. But on the inside, my comrades in drink, once he is opened, can you even imagine how full of sound-mindedness he is? Take it from me, it is of no interest to him if someone is handsome. No, he despises this more than anyone could ever imagine. Nor does it matter if someone is wealthy or possesses any other honour that the multitude counts as a blessing. He thinks that all these acquisitions are worth nothing and that we are nothing. Mark my words. He is ironical too and spends his entire life playing games with people. But when he has become serious and open, I do not know if anyone has seen the delights that lie within. But I did see them once, and to me they seemed so divine and golden, so utterly beautiful and wondrous, that I simply had to do whatever Socrates told me to do.",
+"kind": "speech"
+},
+{
+"entry": 305,
+"who": "Alcibiades",
+"text": "“I thought that he was in earnest about my youthful charm, and I regarded it as a god-send and wondrous piece of good luck for me, that by gratifying Socrates I might be able to hear everything the man knew, for I had an amazingly high opinion of my youthful attractions. Now, once I had thought about all this, although I was not previously in the habit of being alone with him with no attendant present, I then began sending the attendant away and being alone with him. Yes, I must tell you the truth in its entirety, so you should pay attention and, Socrates, contradict me if I lie. Anyway, gentlemen, I was all alone with him, and I thought he would immediately converse with me in solitude, as a lover does to his beloved. I was glad. But nothing of this sort happened at all. Νo, he would converse with me as usual, and after we had spent the day together he would depart and be gone. After this I invited him to join me in the gymnasium and I did exercise with him hoping to make some progress there. Now, he exercised with me and we wrestled many times when there was no one around, and… how should I say this? I still made no progress!",
+"kind": "speech"
+},
+{
+"entry": 306,
+"who": "Alcibiades",
+"text": "“Since I was achieving nothing with this approach, it seemed to me that I should approach the man with force, and not relent, and since I had set about this in the first place, I should now find out what the problem was. So I invited him to dine with me, just like a lover contriving after his beloved. Even then he was slow to accept my invitation, but nevertheless he was persuaded after a while. The first time he came he wanted to leave as soon as dinner was over, and on that occasion, I let him go, out of shame. Next time I had a plan. Once we had dined I kept the conversation going far into the night, and when he wanted to leave I made the excuse that it was too late, and I forced him to stay over. He lay down on the couch beside mine, the one he had reclined on at dinner, and no one else was sleeping in the house besides ourselves. Up to this point I could properly tell the story to anyone, but you wouldn’t hear the next part from me were it not, firstly, for the fact that, as the saying goes, ‘the truth comes from wine and from children’, and also because it does not seem right to me, now that I am praising Socrates, to hush up a splendid deed of his. And yet, I too have experienced being bitten by the viper. Indeed, they say, I believe, that someone who experiences this is unable to describe what it is like. No one can do so except the people who have been bitten. They alone can understand and be forgiving if people are inclined to do or say anything at all on account of the agony. Now, I have been bitten by something more painful, bitten too in the most painful part of me, in my heart or soul or whatever it should be called. There I have been assailed and bitten by philosophical arguments, which take hold, more fiercely than a viper, of a young soul not devoid of talent, grab it and make it do and say just about anything. I see Phaedrus here, Agathon too, Eryximachus, Pausanias, Aristodemus and Aristophanes, not to mention Socrates himself and anyone else who is present. Yes, you have all shared in the madness and frenzy of philosophy, so you should all listen to me. Indeed, you will forgive me for doing what I did then and for saying what I am saying now. The slaves and anyone else who is profane and crude should affix some very large doors to their ears.",
+"kind": "speech"
+},
+{
+"entry": 307,
+"who": "Alcibiades",
+"text": "“Well then, gentlemen, once the lamp had been extinguished and the slaves were out of the room, I decided I should dispense with the verbal niceties and speak my mind to him freely. So I shook him and said, ‘Socrates, are you asleep?’",
+"kind": "speech"
+},
+{
+"entry": 308,
+"who": "Socrates",
+"text": "‘Not at all,’ he replied.",
+"kind": "speech"
+},
+{
+"entry": 309,
+"who": "Alcibiades",
+"text": "‘Well, do you know what I have been thinking?’",
+"kind": "speech"
+},
+{
+"entry": 310,
+"who": "Socrates",
+"text": "‘What is it?’",
+"kind": "speech"
+},
+{
+"entry": 311,
+"who": "Alcibiades",
+"text": "‘I think that you alone are worthy to become my lover,’ I said, ‘and it appears to me that you are reluctant to raise the matter with me. My position is as follows. I believe it would be utterly senseless of me not to gratify you in this respect and in respect of any property you might ask of me or of my friends. Indeed, for me nothing takes precedence over my becoming as good as I possibly can, and in this I believe I have no ally more accomplished than you. If I failed to gratify a man like you, I would feel far more shame before the men of understanding than I would before the mindless rabble.’",
+"kind": "speech"
+},
+{
+"entry": 312,
+"who": "Alcibiades",
+"text": "“Having heard all this, loaded with irony and very much himself, he said, in his accustomed manner,",
+"kind": "speech"
+},
+{
+"entry": 313,
+"who": "Socrates",
+"text": "‘Dear Alcibiades, you must in truth be no ordinary man if what you say about me happens to be true, and there is some power in me that can make you a better person. For in that case, you are seeing a boundless beauty in me which is vastly superior to your fine features. Now, if you have seen it and you are trying to associate with me and exchange one beauty for another, then you are planning to get the better of me to no small extent. Rather, you are trying to acquire the truth of beauties instead of an opinion, and you are really thinking to exchange gold for brass. But you should take a better look, bless you, in case I am nothing, and you do not notice this. I tell you, keen vision at the mental level begins when the vision of our eyes starts to go into decline, and you are still a long way from that.’",
+"kind": "speech"
+},
+{
+"entry": 314,
+"who": "Alcibiades",
+"text": "“Once I had heard this, I said: ‘I have said what I have to say and I have spoken my mind, so you yourself should now consider what you believe is best for you and for me.’",
+"kind": "speech"
+},
+{
+"entry": 315,
+"who": "Socrates",
+"text": "‘Yes, that is well expressed,’ he said. ‘Indeed, from now on we will deliberate and do whatever appears best for both of us in relation to these issues or any others.’",
+"kind": "speech"
+},
+{
+"entry": 316,
+"who": "Alcibiades",
+"text": "“Well then, after this exchange, and having fired my darts at him, I thought I had wounded my quarry. Anyway, I stood up, gave him no further opportunity to speak, wrapped my own garment around him for it was winter, lay down under his short cloak, threw both arms around this truly supernatural and wonderful person, and lay there all night. And you will not say that I am lying about any of this either, Socrates. And yet, after my having done all this, he was so superior, contemptuous and overbearing as to laugh at my youthful charm, and, gentlemen of the jury, I did hold that in very high regard. Yes, you will be judges of the arrogance of Socrates for, mark my words ye gods and goddesses, I got up after sleeping with Socrates and nothing more had taken place than if I had slept with my father or elder brother.",
+"kind": "speech"
+},
+{
+"entry": 317,
+"who": "Alcibiades",
+"text": "“What state of mind do you think I was in after this episode? Although I felt disrespected, I still admired his nature, his sound-mindedness and his courage, for I had encountered the sort of man I had not believed I would ever encounter: such intelligence, such restraint! And so, although I was unable to be angry with him and be deprived of his company, I was still at a loss as to how to lead him on. Indeed, I knew full well that he was much more invulnerable to wealth than Ajax was to weapons of iron, completely so, and he had evaded the only means whereby I thought I could capture him. So I was at a loss, and I went about, a more abject slave to the man than anyone else on earth.",
+"kind": "speech"
+},
+{
+"entry": 318,
+"who": "Alcibiades",
+"text": "“Well, this all happened to me at an earlier date, and afterwards we were together on the military campaign at Potidaea and we shared the same mess there. Now, in the first place, in hard times he was superior not only to me but to everyone else. When we were forced to go without food because we had been cut off somehow, as happens on such campaigns, the endurance of the others was nothing in comparison with his. And yet, in times of plenty, he alone was able to enjoy them, and in particular when it came to drinking, despite his unwillingness, he could defeat everyone if he was ever compelled to do so, and what is most amazing of all, no man alive has ever yet seen Socrates drunk. Yes, and I think that will be verified quite soon. Now, when enduring the winter — indeed the cold season up there is awful — he worked wonders, especially when on one occasion there was a terrible frost, and everyone either refused to go out or, if they did go out, they were clothed to a wondrous extent, wore shoes and swathed their feet in felt and wool. Yet this man went out among them wearing the sort of cloak he used to wear before it got cold, traversed the ice more easily than everyone else because he wore no shoes, and all the soldiers looked askance at him because they thought he despised them. Be that as it may, it is also worth hearing ‘what this man of endurance dared to do’ on one occasion while we were there on campaign. He began reflecting upon something one morning, standing there considering it, and when he was unsuccessful he did not give up, but stood there and kept enquiring. By midday people had noticed, and they said to one another, in amazement, that Socrates had been standing still since dawn thinking about something. Finally, when evening came, some Ionians came out after supper, for it was summertime, brought their pallets with them so as to sleep in the cool air, and at the same time, keep watch to see if he would stand there all night. There he stood until dawn came and the sun had risen. Then he uttered a prayer to the sun and went on his way.",
+"kind": "speech"
+},
+{
+"entry": 319,
+"who": "Alcibiades",
+"text": "“Would you like to hear about the battle? Well, it is only right to give him due credit in this area too. In fact, when the battle took place, the one for which the generals gave me the award for bravery, it was he of all men who saved my life. I was wounded and he could not bring himself to desert me. No, he helped rescue both myself and my armour. Now, Socrates, at the time I called upon the generals to give the award for bravery to you, and you cannot rebuke me for saying this, nor can you claim that I am lying. Anyway, when the generals wanted to give me the award in view of my status, you yourself were more eager than the generals that I should have it rather than you.",
+"kind": "speech"
+},
+{
+"entry": 320,
+"who": "Alcibiades",
+"text": "“Then again, gentlemen, Socrates was a sight worth seeing when the army was in retreat at the battle of Delium. Yes, as it happened, I was there on horseback, while he was on foot, in armour. At that stage everyone had scattered and he was retreating along with Laches, the general. I came upon them, and as soon as I saw them I called upon them both to be courageous, and I said that I would not desert either of them. Here I had even a finer perspective on Socrates than I had at Potidaea, for I had less fear because I was on horseback. Firstly, I could see how superior he was to Laches in composure, and what is more he seemed to me — if I may use your phrase, Aristophanes — to be proceeding, even on the battlefield, just as he does in the city, ‘head held high and darting his eyes’, calmly observing friends and enemies, making it obvious that whoever touched this man would meet with some tough resistance. That is why he and his companion made their retreat in safety. As a general rule, those who behave in this manner on the battlefield are never touched; no, it is the soldiers who are fleeing headlong who are pursued by the enemy.",
+"kind": "speech"
+},
+{
+"entry": 321,
+"who": "Alcibiades",
+"text": "“Now, I could find many other points on which to praise Socrates, and many more wonders too, although if I reflect on his conduct in general, such behaviour could probably be attributed to other people too. Yet the fact that he is like no other man of past ages, or anyone alive today, that’s what merits our unbounded amazement. Asked who Achilles was like, you could compare him to Brasidas and others, and you could liken Pericles to Nestor or Antenor, and there are others too, and you could make other comparisons on the same basis. But whom is this person like? He is so strange, that try as you might, you would not find anyone who even approaches the man himself or his words, either nowadays or in times past. You’d have to compare him to the creatures I mentioned, to the Sileni and satyrs, rather than to any human being, both himself and his words too.",
+"kind": "speech"
+},
+{
+"entry": 322,
+"who": "Alcibiades",
+"text": "“Yes, and this is what I omitted saying at the outset, that even his words are very like the Sileni that can be opened. If anyone were willing to listen to Socrates’ words, they would appear highly comical at first, words and phrases that clothe his speech, like the skin of some wanton satyr. Yes, he speaks of pack-asses and smiths, cobblers and tanners, and he seems to be continually making the same points about the same issues, so that any inexperienced or ignorant person would laugh at what he says. But, if you were to behold them when they are opened, and get inside them, you would find, firstly, that these words alone have intelligence within them, and that they are utterly divine, containing within themselves a vast number of elevated images of excellence, so far-reaching that they extend to everything that should properly be considered by anyone who intends to be noble and good.",
+"kind": "speech"
+},
+{
+"entry": 323,
+"who": "Alcibiades",
+"text": "“These, gentlemen, are my praises of Socrates, and I have also added my criticisms by telling you the wrongs he has done me. Yes, and I am not the only one to whom he has done this; no, he deceives Charmides, the son of Glaucon, Euthydemus, the son of Diocles, and many others in his guise as a lover, while he himself becomes more a beloved than a lover. I am making these points particularly to you, Agathon, lest you be deceived by him. Mind that you learn from our experiences and don’t learn through suffering, like the fool in the proverb.”",
+"kind": "speech"
+},
+{
+"entry": 324,
+"who": "Apollodorus",
+"text": "Once Alcibiades had said all this, there was laughter at the frankness of the man because he still seemed to be in love with Socrates. Then Socrates himself said:",
+"kind": "narration"
+},
+{
+"entry": 325,
+"who": "Socrates",
+"text": "“It seems to me, Alcibiades, that you are sober, or else you would not have attempted to conceal the real reason why you are saying all this by wrapping it up so cleverly, slipping it in at the end as a mere verbal aside, as if you didn’t say everything for one reason alone: to set myself and Agathon at variance with one another, on the presumption that I should love you and no one else, and that Agathon should be loved by you and by no one else. But you did not get away with it. No, your Satyr-play or Silenus-play has been exposed. But, my dear Agathon, do not let him make any more headway, but instead, see to it that no one sets you and me at odds.”",
+"kind": "speech"
+},
+{
+"entry": 326,
+"who": "Agathon",
+"text": "So Agathon replied, “Yes, indeed, Socrates, you are probably speaking the truth, as evidenced by his reclining between you and me in order to keep us apart. But he will get no further. I will go over and recline beside you.”",
+"kind": "speech"
+},
+{
+"entry": 327,
+"who": "Socrates",
+"text": "“Very well,” said Socrates. “Recline here, below me.”",
+"kind": "speech"
+},
+{
+"entry": 328,
+"who": "Alcibiades",
+"text": "“By Zeus,” said Alcibiades, “there is no end to what I must suffer at this man’s hands. He thinks he has to get the better of me in every respect. But, blessed man, if you will not allow anyone else to recline between us, why not allow Agathon to do so?”",
+"kind": "speech"
+},
+{
+"entry": 329,
+"who": "Socrates",
+"text": "“Impossible,” said Socrates, “for once you have praised me, I must praise the person on my right. So, if Agathon reclines below you, will he not presumably praise me again before he has received praise from me, as he should? So let it be, my friend, and do not envy the young man because he receives praise from me, for I am indeed extremely eager to sing his praises.”",
+"kind": "speech"
+},
+{
+"entry": 330,
+"who": "Agathon",
+"text": "“Yes, yes!” exclaimed Agathon. “There is no way I can remain here, Alcibiades. No, it is much better that I change places so that I may be praised by Socrates.”",
+"kind": "speech"
+},
+{
+"entry": 331,
+"who": "Alcibiades",
+"text": "“This is what always happens,” said Alcibiades. “When Socrates is around it is impossible for anyone else to share the company of the beautiful ones. Even now, see how resourceful he is at finding a convincing excuse, so that this handsome fellow may recline beside Socrates himself.”",
+"kind": "speech"
+},
+{
+"entry": 332,
+"who": "Apollodorus",
+"text": "Now, Agathon was getting up in order to recline beside Socrates when a whole crowd of revellers suddenly arrived at the doors and finding that they had been left open by someone who had left, they came right into our party and reclined on the couches. There was total confusion, all order was lost, and everyone was forced to drink vast quantities of wine. Aristodemus told us that Eryximachus, Phaedrus and a few others got up and left, while he himself fell asleep, and slept for quite some time, for the nights were long at that time of year. Towards daybreak, he awoke to the crowing of the cocks, and saw that everyone else was either asleep or departing. Agathon, Aristophanes and Socrates were the only ones still awake, drinking from a large cup that they passed from left to right as Socrates engaged them in discussion. Aristodemus said that he did not recall most of the discussion because he had missed the start of it, and he was beginning to doze off anyway. Yet he did say, by way of summary, that Socrates was compelling them to agree that the man who knows how to compose comedies also knows how to compose tragedies, and that the skilled tragedian is also a comic poet. Well, as they were being pressed on these points, they were not following particularly well and they were nodding off. Aristophanes was the first to fall asleep, and, as day was breaking, so too did Agathon. Then Socrates, having lulled them to sleep, got up and went out, and Aristodemus followed him as usual. When he got to the Lyceum he washed himself, spent the day just like any other, and having done so, he went home in the evening to rest.",
+"kind": "narration"
+}
+]
+}
+]
+}

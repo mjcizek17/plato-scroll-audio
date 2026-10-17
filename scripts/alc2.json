@@ -1,0 +1,1067 @@
+{
+"key": "alc2",
+"title": "Alcibiades II",
+"parts": [
+{
+"name": "Alcibiades II",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "Alcibiades, are you on your way to pray to the god?",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Alcibiades",
+"text": "Certainly, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "I must say that you look sullen and downcast as if you were preoccupied with something.",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Alcibiades",
+"text": "And what might preoccupy someone, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "What I regard as the greatest preoccupation, Alcibiades. Come on, by Zeus, don’t you think that the gods to whom we pray, in public and private, sometimes grant our requests and sometimes do not, and favour some people and not others?",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Alcibiades",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "Don’t you think it requires great foresight to avoid praying unwittingly for great evils, thinking them to be good when the gods happen to be disposed to grant whatever one hap c pens to pray for? Just as Oedipus is said to have prayed impetuously that his sons would divide their inheritance by the sword, and although it was open to him to pray for some means of averting the evils he was facing, he called down further curses in addition. Consequently, all these developments came to pass, and from these came many more terrible events which we need not recount in detail.",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Alcibiades",
+"text": "But, Socrates, you have described a man who was mad, for who do you think would dare utter such prayers whilst sane?",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "And do you think being mad is the opposite of being wise?",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Alcibiades",
+"text": "I certainly do.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "And do you think some people are unwise while others are wise?",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Alcibiades",
+"text": "They are indeed.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "Come on then, let’s consider who precisely these people are. We have agreed that there are the unwise and the wise, and others who are mad.",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Alcibiades",
+"text": "Yes, we have agreed.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "And what’s more, there are some who are healthy?",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Alcibiades",
+"text": "There are.",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "Aren’t there others who are unhealthy?",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Alcibiades",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "And they are not the same?",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Alcibiades",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "Now, are there any others who are in neither of these conditions?",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Alcibiades",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "For it is necessary that a person be either ill or not ill.",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Alcibiades",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "Well then, when it comes to wisdom and unwisdom, do you hold the same view?",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Alcibiades",
+"text": "How do you mean?",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "Do you think it is only possible to be wise or unwise, or is there a third condition in between which makes a person neither wise nor unwise?",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Alcibiades",
+"text": "No, there is not.",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "So, it is necessary to be in one or the other of these conditions.",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Alcibiades",
+"text": "So it seems to me, at any rate.",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "Don’t you remember agreeing that madness is opposite to wisdom?",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Alcibiades",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "And also that there is no third condition in between which makes a person neither wise nor unwise?",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Alcibiades",
+"text": "Yes, I agreed.",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "Now, can there possibly be two opposites of one thing?",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Alcibiades",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "So it seems that unwisdom and madness are the same.",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Alcibiades",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "So, we would be right to say that all unwise people are mad, Alcibiades, and this applies not just to any of your peers who happen to be unwise, as some are, but even to your elders. Indeed, by Zeus, don’t you think that in our city the wise are few while most people are unwise, and these people you refer to as mad?",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Alcibiades",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "Now, do you think we could live happily as fellow citizens alongside so many mad people for so long without paying the penalty of being assailed or assaulted and suffering under the familiar behaviour of mad people? No, look for yourself, blessed man, this is not the situation we find ourselves in.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Alcibiades",
+"text": "No, how could it be, Socrates? It looks as if the situation is not as I had thought.",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "I don’t think so either. But consider the matter carefully in another way.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Alcibiades",
+"text": "What way do you mean?",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "I shall tell you. We understand that some people are ill, do we not?",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Alcibiades",
+"text": "We certainly do.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "Now, do you think that a sick person necessarily has gout or fever or eye inflammation, or don’t you think that someone suffering from none of these may be sick with some other illness? For there are presumably many illnesses and not just these three.",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Alcibiades",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "Now, do you think that every eye inflammation is a disease?",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "And is every disease an eye inflammation?",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Alcibiades",
+"text": "I certainly don’t think so, although I am at a loss as to what I am saying.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "But if you give me your attention, the two of us, seeking together, may find what we are looking for.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Alcibiades",
+"text": "Well, I am paying attention, Socrates, to the best of my ability.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "Did we not agree that although every eye inflammation is a disease, not every disease is an eye inflammation? contrast, not all who are ill have fever or gout or an eye inflammation, I presume. Rather, although everything of this sort is a disease, according to those whom we call physicians they differ in the effect they have. For they are not all alike, nor do they operate in like manner, but each acts in accordance with its own capacity even though they are all diseases. In the same way, we understand some people to be artisans, do we not?",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Alcibiades",
+"text": "We certainly do.",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "Aren’t there cobblers and carpenters and sculptors, and a whole host of others whom we need not mention individually? They have their own particular parts of craftsmanship, and they are all craftsmen, but they are not all carpenters or cobblers or sculptors, even though all of them are craftsmen.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Alcibiades",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "Well, people have also been allocated unwisdom in this way too. Some who possess the largest portion of this we refer to as mad, while those who have the least portion are called stupid, although those who prefer to use nice-sounding names refer to them as great d hearted or simple, or again as innocent, inexperienced or senseless. And you will, on investigation, discover many other names, though these are all unwisdom, but the names differ, just as it was evident to us that a skill differs from a skill and a disease from a disease. Or how does it seem to you?",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Alcibiades",
+"text": "As you say.",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "Then we should go back over the argument again from this point. For it was said, presumably, at the outset that it was necessary to consider who precisely the wise and the unwise people are, since we agreed that there are such people. Did we not?",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Alcibiades",
+"text": "Yes, this was agreed.",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "Now, do you understand the wise to be those who know what to do and what to say?",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Alcibiades",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "Who then are the unwise? Are they the people who know neither of these?",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Alcibiades",
+"text": "They are.",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "Will those who do not know either of these unwittingly do and say things they shouldn’t?",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Alcibiades",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "I spoke of these people, Alcibiades, and I said that Oedipus was an example. But nowadays you will still find many such people, not acting in anger as Oedipus did, nor believing that they are praying for bad things, but for good things. That man neither prayed so nor thought so, but there are others who are in the opposite predicament. For I imagine that if the god, to whom you are on your way, were to make himself manifest to you first, before you prayed for anything, and were to ask you if you would be content with becoming tyrant of the city of Athens, and you were to regard this as mean and insignificant, he might then add tyranny over all the Greeks. But what if he saw that this still seemed inadequate unless he also promised all of Europe, and he promised not only that, but the recognition by everyone, there and then, if you so desired, that Alcibiades, the son of Clinias, is their tyrant? I think you would depart in delight as though you had obtained the greatest possible goods.",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Alcibiades",
+"text": "And so, I believe, Socrates, would anyone else if advantages of this sort were to come their way.",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "And yet you would have no desire to trade your own life even for the territory and tyranny of all the Greeks and non-Greeks.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Alcibiades",
+"text": "I think not. How could I when I’m not going to make any use of these advantages?",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "And what if you were going to use them, but harmfully and badly? You would have no such desire under these circumstances either, would you?",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Alcibiades",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "So, you see that it is not safe either to unthinkingly accept what is given, or to pray for some outcome if one is going to be harmed by this or lose one’s life entirely. We could speak of so many people who, at some stage, set their hearts upon tyranny and made it their business to attain it, as if they were achieving something good, but whose life was then lost through conspiracies because of the tyranny. And I presume you are not unaware of certain events of today or yesterday, when Archelaus, the tyrant of Macedon, had a lover who loved tyranny just as much as Archelaus loved him, and who killed his lover, Archelaus, so as to become tyrant and a happy man. But having held the role of tyrant for three or four days, he in turn was the victim of a plot by some others and was slain. You also see examples among our own citizens which we have not heard from other sources. Indeed, we know first-hand of those who set their hearts upon military command, but having acquired this, some still remain exiles from this city while others have lost their lives. But even those who seem to have done best have faced many dangers and terrors, not just in their military command, but when they returned to their own homeplace where they have been constantly besieged by informers, just as much as they were by the enemy. As a result, some of them prayed to have no military command rather than being a general. Now, if these dangers and troubles were of some advantage, this might make sense, but the situation is the very opposite. And you will also find that the situation is the same in relation to offspring. Some people have prayed that children might be born to them, but once they have been born, the parents had been subjected to the greatest misfortunes and tribulations. For some whose children were degenerate in the extreme have spent their entire lives in tribulation, while others had good children who met with disaster. So they were deprived of their children, and were thus subjected to just as much bad luck as the others, and wished that no children had ever been born to them. But, nevertheless, although these people and many others like them are so very plain to be seen, it is hard to find anyone who would refuse to accept what is given, or who would stop praying when the object of their prayers was about to be attained. But most people would not refuse the grant of a tyranny, or of military command, or lots of other things whose possession would do them more harm than good. They would, rather, pray for those things if they did not already have them. But a little later they sometimes recant, taking back their prayers for whatever they initially prayed for. So, I question whether we humans are blaming the gods without reason, when we ourselves, by our own recklessness and unwisdom, you might say, incur more sorrows than fate decreed. It is quite likely then, Alcibiades, that a certain poet was wise, despite having stupid friends whom he saw working and praying for things that were not good, although they thought they were. He uttered a prayer in common, on all their behalf, saying: King Zeus, give us what is good whether we pray for it or not, Avert what is bad for us even if we pray for it. Now, I believe the poet is making a good, sound point here, but if you have any views to the contrary, please don’t keep them quiet.",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Alcibiades",
+"text": "It is difficult, Socrates, to contradict a good point. But this much I am aware of: just how much evil is caused to humanity by ignorance, when it seems we forget ourselves because of this, and enact, or, worst of all, pray to be granted the greatest evils. Now, this is something no one believes about themselves. Each believes, rather, that they are well are not speaking correctly when we criticise ignorance in this offhand way if we don’t also mention what the ignorance is of, and that it is good for some people in certain situations, just as it is bad for those others.",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Alcibiades",
+"text": "How do you mean? Is there anything at all that it is better for anyone at all, in any situation, to have ignorance of rather than knowledge?",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "Well, I for one think so, don’t you?",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Alcibiades",
+"text": "By Zeus, I do not.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "But surely I am not to form this unfavourable view of you, that you would wish to behave towards your own mother just as Orestes and Alcmaeon did, and some others too who behaved in the same way towards their own mothers.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Alcibiades",
+"text": "Mind what you say, by Zeus, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "But, Alcibiades, it is not the person who says that you would not wish to behave like this whom you should bid to mind what he says, but rather anyone who says the opposite. For the deed seems so very awful to you that it should not even be mentioned in such a casual manner. But do you think that Orestes, if he happened to be wise and had known what was best for himself to do, would have dared to behave in such a manner?",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Alcibiades",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "Nor, I believe, would anyone else.",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "So, ignorance of what is best and to ignore what is best are, it seems, bad?",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Alcibiades",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "Both for that person and all others?",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Alcibiades",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Socrates",
+"text": "Well, let’s consider the following case. What if it were suddenly to occur to you that it was a good idea to go to the door of Pericles, your own guardian and friend, carrying a dagger, and ask if he was at home with the intention of killing that man himself and no one else, and they told you that he was at home? Now, I am not saying that you would actually wish to do any of this, unless you were ever to get an idea which could, of course, easily occur to someone who is ignorant of what is best, thinking that what is actually worst is, at the time, best. Or don’t you think so?",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Alcibiades",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "Now, if you arrived, entered, and saw that man, but did not recognise him and thought he was someone else, would you still dare to kill him?",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Alcibiades",
+"text": "No, by Zeus, I should think not.",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Socrates",
+"text": "For the person you wished to kill was presumably that man and not some random person. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "Well, if you were to make the attempt many times, always failing to recognise Pericles when you were about to do the deed, you would never lay a hand on him.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Alcibiades",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Socrates",
+"text": "What about this? Do you think Orestes would ever have laid hands upon his mother if he, in like manner, had failed to recognise her?",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Alcibiades",
+"text": "No, I don’t think so.",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "For he did not, presumably, intend to kill any random woman, or the mother of anyone at all, but only his own mother.",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Alcibiades",
+"text": "This is so.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "So, it is better for those with such dispositions, possessed of such intentions, to be ignorant of these things.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Alcibiades",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Socrates",
+"text": "Do you see that for some people, in some situations, there are things which it is good to be ignorant of. It is not bad, as you thought previously.",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Alcibiades",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "Yet if you care to consider the consequence of this, you are likely to think it most strange.",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Alcibiades",
+"text": "What precisely, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Socrates",
+"text": "That it is likely, in a sense, that the acquisition of other kinds of knowledge, if they are acquired without knowledge of what is best, are seldom of benefit, and in most cases do harm to the possessor. Think of it this way. Don’t you think it necessary that whenever we are about to do or say anything, we must actually know about or think that we know about whatever it is we are going to say or do?",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Alcibiades",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Socrates",
+"text": "Don’t the rhetoricians, for example, either know how to advise us, or think they know how to advise us from time to time, sometimes about war and peace, sometimes about the construction of walls or the equipping of harbours. In short, whatever the city does in its internal or external dealings is all done on the advice of the rhetoricians.",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Alcibiades",
+"text": "True.",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Socrates",
+"text": "See what follows.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Alcibiades",
+"text": "If I am able.",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Socrates",
+"text": "You surely refer to people as wise and unwise?",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Alcibiades",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Socrates",
+"text": "Don’t you call most people unwise and a few people wise?",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Alcibiades",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Socrates",
+"text": "In both cases, don’t you look to some criterion?",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Socrates",
+"text": "Now, do you call someone wise who knows how to give such advice without knowing whether it is best or when it is best?",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Alcibiades",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Socrates",
+"text": "Nor, I believe, is someone who knows about warfare itself without knowing when it is best and for how long a time it is best. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Socrates",
+"text": "Nor again is someone who knows how to kill another, or take away his money, or make him an exile from his homeland without knowing when this is best and to whom this is best done?",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Alcibiades",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Socrates",
+"text": "Then there is the person who knows about things of this sort and also has knowledge of what is best, which is presumably the same as knowledge of what is beneficial. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Alcibiades",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Socrates",
+"text": "This person we shall call wise, and a competent adviser both to the city and to himself, while someone who is not like this we shall call the opposite of these. What do you think?",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Alcibiades",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Socrates",
+"text": "other sport, or anything else of that sort that we know by means of a skill? What do you call someone who knows what is done better by that particular skill? In the case of the skill of horse riding, isn’t he a horse rider?",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Alcibiades",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Socrates",
+"text": "And in the case of the skill of boxing, I imagine, he is a boxer, and in the case of the skill of flute playing, he is a flute player, and the same holds for the other skills. Or do you think they are somehow different?",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Alcibiades",
+"text": "No, that’s it.",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Socrates",
+"text": "Now, do you think it is necessarily the case that someone who is knowledgeable about any of these is also a wise man, or shall we maintain that much more is required?",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Alcibiades",
+"text": "Much more, by Zeus.",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Socrates",
+"text": "Suppose there was a state consisting of good archers and flute players, athletes too, and other skilled people, mixed in with the people we mentioned earlier who know about warfare itself and about slaughter itself, and with rhetoricians puffed up with political conceit, all of whom were devoid of the knowledge of what is best and knew not when and towards whom it was better to employ their particular skills. What kind of a state do you think that would be?",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Alcibiades",
+"text": "A bad one, Socrates, in my view.",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Socrates",
+"text": "You would indeed say so, I believe, once you saw each of them competing to allocate influence in civic affairs to the part ‘wherein he happens to do best’. And I mean what is best by the standard of his particular skill, which is far wide of the mark of what is best for the city and for himself, since I believe he puts his faith in opinion devoid of reason. And this being the case, wouldn’t we be right to say that we should expect such a state to be full of upheaval and lawlessness?",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Alcibiades",
+"text": "Right indeed, by Zeus.",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Socrates",
+"text": "Didn’t we believe it necessary that we either think that we know about, or actually know about, whatever we are just about to do or say?",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Alcibiades",
+"text": "We did.",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Socrates",
+"text": "What if someone does what he knows about, or thinks he knows about, and, in addition, knows what is beneficial? Won’t we maintain that he is an asset to the city and to himself?",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Alcibiades",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Socrates",
+"text": "But I imagine under the opposite circumstances, he is an asset neither to the city nor to himself.",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Alcibiades",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Socrates",
+"text": "Now then, do you still hold the same view as before or is it somehow different?",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Alcibiades",
+"text": "No, it is the same.",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Socrates",
+"text": "Did you say that you refer to most people as unwise and to a few as wise?",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Alcibiades",
+"text": "I did.",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Socrates",
+"text": "And now we are saying once more that most people are far wide of the mark of what is best because, I believe, they put their faith in opinion devoid of reason.",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Alcibiades",
+"text": "So we say.",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Socrates",
+"text": "So, it is to the advantage of most people neither to know, nor think that they know, if they are going to be emboldened to engage in certain actions they are knowledgeable about, or think they are knowledgeable about, when such actions will, in general, be more harmful than beneficial.",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Alcibiades",
+"text": "Very true.",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Socrates",
+"text": "Do you see then that I was apparently right when I said that it is likely that the acquisition of various kinds of knowledge – if someone acquires them without acquiring the knowledge of what is best – is seldom of benefit and for the most part does harm to their possessor?",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Alcibiades",
+"text": "Well, if I didn’t think so at the time, I do now, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Socrates",
+"text": "It is necessary, then, for a city or a soul to cleave to this knowledge, exactly as a sick person cleaves to a physician, or someone who is going to sail in safety cleaves to a helmsman. For in the absence of this knowledge, the more brightly the breeze of chance wafts them, either towards the acquisition of wealth or physical strength, or anything else of that sort, the greater the error, it seems, that naturally arises from these things. And someone who has acquired a reputation for being very learned or highly skilled, while being bereft of this knowledge and led by one or other of the various kinds of knowledge, will rightly end up in very stormy waters indeed, will he not, since he is, I believe, embarking upon the ocean without a helmsman, with but a short span of life to run? And so, the words of the poet seem to me to apply to this case, where he accuses someone, saying, “He knows many works, but he knows them all badly.”7",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Alcibiades",
+"text": "But why exactly is the line from the poet applicable, Socrates? Indeed, it does not seem at all relevant to me.",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Socrates",
+"text": "And yet it is highly relevant, but this poet speaks in riddles, best of men, like almost all poets. For all poetry naturally uses riddles, and it is not just anyone who can understand. And in addition to this natural tendency, whenever it takes hold of a possessive person who is reluctant to display his own wisdom to us and wishes to conceal it as much as possible, it proves exceedingly difficult to understand what each of them has in mind. For you surely don’t think that Homer, the most divine and the wisest of poets, was unaware that it is not possible to ‘know badly’. For he was the one who said that Margites, although he knew many things, knew them all badly. But he was, I believe, speaking in riddles, and used ‘badly’ in place of ‘bad’, and ‘knew’ in place of ‘to know’. Now, if we put this together, ignoring the metre, what he means turns out to be that “he knew many works, but it was bad for him to know all these”. Of course, if it was indeed bad for him to know a great deal, he proves to be a degenerate person if we are to believe our previous arguments.",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Alcibiades",
+"text": "And I think we should, Socrates. Yes, if I were to have difficulty in accepting these arguments, it would be hard for me to be convinced by any arguments.",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Socrates",
+"text": "And you are right to think so.",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Alcibiades",
+"text": "But I am having second thoughts about this.",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Socrates",
+"text": "But come on, by Zeus, you surely see the nature and extent of the difficulty in which, I believe, you have shared. You are incessantly changing your position this way and that, and whatever seems certain to you is forgotten and you no longer hold that view at all. And even now, if the god to whom you are presently proceeding were to make himself manifest and ask you, before you had uttered a single prayer, if it would be enough for you to have any of those things that were mentioned at the outset, or whether he should leave you to pray just by yourself, which do you think would yield the best outcome – accepting what the god offers, or praying on your own?",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Alcibiades",
+"text": "But by the gods, Socrates, I would not be able to respond to you offhand. I believe, rather, that your question is impetuous, and I believe that, in truth, this requires a great deal of care lest a person unwittingly prays for what is bad for himself thinking it to be good, then a little later, as you said, he recants and takes back all the prayers he first uttered.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Socrates",
+"text": "Didn’t that poet I mentioned at the beginning of our discussion know better than us",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Socrates",
+"text": "Well the Spartans too, Alcibiades, either in admiration for this poet or because they had worked it out for themselves, frequently utter a similar prayer in private and in public, calling upon the gods to grant them the beautiful and the good. No one would ever hear them praying for more than this. Consequently, to this very day they are no less fortunate than any other people. And so, even if everything does not turn out fortunately for them, it is not because of this prayer of theirs. It is up to the gods, I believe, either to grant whatever someone happens to pray for, or the very opposite of this. And I would like to tell you another story that I once heard from one of our elders. A conflict had arisen between the Athenians and the Spartans, but whenever there was a battle by sea or by land, it always turned out that our city met with misfortune and was unable ever to prevail. Now, the Athenians, being troubled by this development and being at a loss to find any means of averting their ongoing difficulties, decided among themselves that the best course was to send a question to Ammon, and enquire further as to why exactly the gods grant victory to the Spartans rather than to themselves. “We”, they said, “bring them more sacrifices than the rest of the Greeks, more perfect too, and like no other peoples we have embellished their temples with offerings, and have bestowed expensive, solemn processions upon the gods every single year, and have spent more money than all other Greek peoples put together. None of these matters is a concern to the Spartans, and their attitude towards the gods is so demeaning that they consistently sacrifice defective animals, and, in general, their respect falls considerably short of ours even though they have accumulated just as much wealth as our city.” Once they had said all this and asked what they needed to do to find deliverance from their present evils, the prophet called them to him and gave this response, and nothing more, for it was obviously all the god would allow. “Athenians,” said he, “the god Ammon says ‘I prefer the reverent utterance of the Spartans to all the sacrifices of the Greeks.’” This is as much as he said, and not one word further. Now, I think that the reverent utterance that the god refers to is nothing other than their prayer, for it really is very different from the prayers of others. As for the rest of the Greeks, some present the gods with golden horned oxen, while others bestow offerings, praying for whatever occurs to them to pray for, be it good or be it bad. And as they utter their irreverent words, the gods hear them but refuse to accept these expensive processions and sacrifices. But I believe that great vigilance is required, and deliberation too, as to what precisely should be said and what should not. And in Homer you will also find other accounts similar to these. For he says that the Trojans, setting up their camp: They accomplished likewise full sacrifices before the Immortals, and the winds wafted the savour aloft from the plain to the heavens in its fragrance; and yet the blessed gods took no part of it. They would not; so hateful to them was sacred Ilion, and Priam, and the city of Priam of the strong ash spear. And so it was not to their advantage to offer sacrifices and pay tribute in vain with their gifts since they were hated by the gods. For I don’t think the way of the gods is such that they are influenced by gifts, like some base profiteer. And our argument is indeed absurd if we claim to be superior to the Spartans in this respect. For it would surely be terrible if the gods were looking at our sacrifices and gifts rather than the soul, and whether any happens to be holy and just. I believe that they look at this much more than at those costly processions and sacrifices that a city or an individual may well offer on an annual basis, even though they have done great wrong to the gods or their fellow man. But the gods, since they are not corrupt, despise all these gifts, as the gods and the prophet of the gods declare. And so it is likely that in the eyes of the gods and of reasonable people, justice and wisdom are especially honoured, and the wise and the just people are none other than those who know what to do and what to say, both to gods and humans. But I would also like to find out what you think about these matters.",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Alcibiades",
+"text": "Well, Socrates, my view does not differ from yours or from the god’s, for it would not be reasonable for me to cast my vote against the god.",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Socrates",
+"text": "Don’t you remember saying that you were in great perplexity lest you might unwittingly pray for evils, thinking them to be good?",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Alcibiades",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Socrates",
+"text": "You now see how unsafe it is for you to go to the god in prayer, in case it turns out that he, hearing your irreverent words, declines to accept this sacrifice, and you perhaps reap something else in addition. So I think it best that you keep quiet, for I don’t think you are willing to use the Spartan prayer due to your great-heartedness, which is our nicest word for folly. So it is necessary to wait until one has learned how one should behave towards gods and men.",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Alcibiades",
+"text": "How long will that take, Socrates, and who will be my educator? I think I would be pleased to see who that person is.",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Socrates",
+"text": "The one who cares about you, but it seems to me that just as Homer recounts that Athena removed the mist from the eyes of Diomedes, That he might well recognise both God and man so you too should first have the mist that currently envelops your soul removed. Only then will you acquire the ability to recognise both good and evil. For at the moment I don’t think you’re able to do this.",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Alcibiades",
+"text": "Let him remove the mist or whatever else he wishes to call it. For whoever this person may be, I am prepared to comply, without evasion, with anything he commands, provided I am going to become better.",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Socrates",
+"text": "And he too is wonderfully well disposed towards you.",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Alcibiades",
+"text": "Well, I think it best to defer the sacrifice until then.",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Socrates",
+"text": "And you are right to think so, for it is safer than taking a risk when there is such a danger.",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Alcibiades",
+"text": "What about this Socrates? I shall crown you with this garland, since I believe you have advised me so well, and later, when I behold the arrival of that day, we shall bestow garlands and all other traditional gifts upon the gods. And if they are willing, that day will not be long in coming.",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Socrates",
+"text": "And I shall accept this too, and I gladly anticipate any other gifts you may give me. And just as Euripides makes Creon say, upon seeing Tiresias wearing garlands and hearing that he obtained them from the enemy as offerings because of his skill, I take your garlands of victory as a good omen, For we are tossed upon the waves as you well know. so too do I take this opinion of yours as an omen. For I think that I too am tossed upon the waves, just as much as Creon, and I would like to win a victory over your lovers.",
+"kind": "speech"
+}
+]
+}
+]
+}

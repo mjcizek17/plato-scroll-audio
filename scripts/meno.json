@@ -1,0 +1,3449 @@
+{
+"key": "meno",
+"title": "Meno",
+"parts": [
+{
+"name": "Meno",
+"lines": [
+{
+"entry": 0,
+"who": "Meno",
+"text": "Well, Socrates, can you tell me if excellence can be taught? Or is it incapable of being taught but attained instead through practice? Or is it incapable of either being attained through practice or learned, and does it come to people rather by nature or by some other means?",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Socrates",
+"text": "Meno, previously the Thessalians were famous among the Greeks, and much admired for their horsemanship and their wealth, but nowadays I think they are also admired for their wisdom, especially the people of Larissa, the fellow citizens of your companion Aristippus. In your case, Gorgias is responsible for this, for when he arrived in their city he captured the foremost of the Aleudae – among whom were your lover, Aristippus, and other leading Thessalians – since they were lovers of his wisdom. What is more, he got you into the habit of answering fearlessly and magnificently when anyone asks you anything, after the manner of those who know, by putting himself forward to be questioned by any Greeks who wish, on any topic they wish, and answering all comers.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "In this part of the world, Meno, my friend, the situation is the exact opposite. It is as if a dearth of wisdom has set in, and it looks as if wisdom has departed from these regions to yours. And so, if you intend to question anyone hereabouts in that manner, there is no one who will not laugh at you and say, “Stranger, you probably think that I am some blessed person who knows whether excellence can be taught or knows how it arises. Yet, so far am I from knowing whether excellence can be taught or not, that as it happens, I do not even know what exactly excellence itself is at all.”",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Socrates",
+"text": "That is the situation I am in myself, Meno, just as badly off as my fellow citizens in this matter, and I blame myself for knowing absolutely nothing about excellence. And when I do not know what something is, how could I know what sort of thing it is? Or do you think that anyone who is totally ignorant as to who Meno is, could know if he is handsome or wealthy or well-born or the exact opposite of these? Does this seem possible to you?",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Meno",
+"text": "Not to me. But, Socrates, is this what we are to tell our people back home, that in truth, you do not even know what excellence is?",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Socrates",
+"text": "Not only that, my friend, but also that I have never yet come across anyone else who, in my opinion, knows either.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Meno",
+"text": "What? Did you not meet Gorgias when he was down here?",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "I did.",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Meno",
+"text": "Well, did you not think that he knew?",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Socrates",
+"text": "Meno, my memory is not very good, so at the moment I am unable to say how he seemed to me at the time. But perhaps he did know, and perhaps you know what the man said, so remind me of how he explained this. Or speak for yourself if you prefer, for I presume that you think what he thinks.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Meno",
+"text": "I do indeed.",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "Then we should let the man alone since he is not here anyway. So, what about you, by the gods, Meno, what do you say excellence is? Speak and do not begrudge me in case by sheer good fortune I have been deceived, and it may turn out that yourself and Gorgias are indeed men of knowledge, despite my statement that I have never yet encountered anyone who does know.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Meno",
+"text": "Well, it’s not difficult to say, Socrates. Firstly, if you like, the excellence of a man is easy, being competent in relation to civic affairs, doing well by his friends and badly by his enemies, while being careful that he himself does not suffer such harm. Or take the excellence of a woman, that is not difficult to describe either; she should manage the household nicely, look after its contents and be attentive to her husband. The excellence of a child is different again, whether male or female. Then there is the excellence of an old man, or if you prefer, the excellence of a free man, or even the excellence of a slave. And there is a whole host of other excellences, so it is not a challenge to say what excellence is since there is an excellence for every particular activity and time of life, and for any work we engage in. And I believe, Socrates, the same goes for badness.",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "What a piece of good fortune, Meno! In my search for a single excellence I have discovered a swarm of them courtesy of you. Anyway, Meno, based upon this image of a swarm, if I were to ask you about the bee and what precisely its essence is, and you said that there are lots of bees of many varieties, how would you respond if I were to ask you, “So, are you saying that they are many and variegated, and that they differ from one another, in being bees? Or do they not differ in this but in some other respect, such as their beauty or size or something else of that sort?” Tell me how you would reply if you were questioned in that way.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Meno",
+"text": "That’s it, one does not differ from the other in that they are bees.",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "Now, what if I were to go on and ask, “Well, Meno, tell me just what it is by which they do not differ but are all the same. What do you say this is?” You would, I presume, be able to tell me.",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Meno",
+"text": "I would.",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Socrates",
+"text": "Similarly, in the case of the excellences, even if they are numerous and variegated, all of them possess a single form that is the same and which makes them all excellences. And when one is asked to show what excellence actually is, it would presumably be right to answer the question by looking to that form. Or do you not understand what I am saying?",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Meno",
+"text": "Well, I think I understand, although I do not yet grasp what you are asking me as well as I’d like to.",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Socrates",
+"text": "Do you think this only applies to excellence, Meno, that there is one excellence that belongs to man, another that belongs to woman and so on? Or does it also apply to health and to size and to strength in like manner? Do you think the health of a man is one thing, while that of a woman is another? Or is the form the same in every instance where health is present, be it in a man or in anything whatsoever?",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Meno",
+"text": "I think that the health of a man and of a woman is the same anyway.",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "What about size and strength? If a woman is strong, will she be strong on account of the same form and the same strength? And by “the same”, I mean that strength does not differ in being strength, whether it occurs in a man or a woman. Or do you think that it differs?",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Meno",
+"text": "I do not.",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "But will excellence differ in being excellence, whether it occurs in a child or in an older person, in a man or in a woman?",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Meno",
+"text": "To me, Socrates, this example somehow seems different from those other examples.",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "What about this? Didn’t you say that excellence consists for a man in the good management of a city, and for a woman in the good management of a household?",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Meno",
+"text": "I did.",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "Now, is it possible to manage a city or household or anything whatsoever, properly, without managing it sound-mindedly and justly?",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Meno",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "And if they manage them sound-mindedly and justly, won’t they manage them with justice and sound-mindedness?",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Meno",
+"text": "They must.",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Socrates",
+"text": "So, if they are going to be good, what a man or a woman both need is the same – justice and sound-mindedness.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Meno",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Socrates",
+"text": "What about a child or an old person? Surely they could never become good whilst being unrestrained and unjust?",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Meno",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "What if they are sound-minded and just?",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Meno",
+"text": "Yes, then it is possible.",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Socrates",
+"text": "So, all people are good in the same manner, since they all become good by attaining the same qualities.",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Meno",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "And obviously they would not be good in the same manner if they did not possess the same excellence.",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Meno",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "Well, given that the excellence of every person is the same, try to recount and recollect what Gorgias says that it is, since you do share his view.",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Meno",
+"text": "If you are really looking for one formulation applicable in all cases, it is the ability to rule over people.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Socrates",
+"text": "Yes, that is what I am looking for, but in that case, does the same excellence belong to a child and also to a slave, Meno? Can he rule over his master? And do you think someone who exercises such rule would still be a slave?",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Meno",
+"text": "No, I don’t really think so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "No, it is not likely, best of men. Indeed, consider the following question too. You refer to the ability to rule, shouldn’t we add the words “justly and not unjustly” to this formulation?",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Meno",
+"text": "I think so anyway, Socrates, since justice is an excellence.",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "Is it excellence, Meno, or is it an excellence?",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Meno",
+"text": "What do you mean?",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Socrates",
+"text": "This applies to anything at all. Take roundness if you like. I would say that is a shape, and not simply that it is shape, and I would refer to it in this way because there are other shapes too.",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Meno",
+"text": "And you’re right to say so, since I too am saying that justice is not the only excellence. There are others.",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Socrates",
+"text": "What are they? Tell me. I would be able to mention other shapes to you if you were to tell me to do so. Now list some other excellences for me.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Meno",
+"text": "Well, I think courage is an excellence, so too is sound-mindedness, wisdom and magnanimity, and there are a whole host of others.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "We are in the same predicament once more, Meno. We have found numerous excellences whilst looking for one, but there is a difference this time. We are unable to find the one that runs through all of them.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Meno",
+"text": "Indeed, Socrates, I am not yet able, as I was in the other instances, to find what you are looking for and come up with one excellence that applies to them all.",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "That is to be expected, but I am eager that we focus on this if I am able. Now you understand, I presume, that this is how matters stand in every case. If someone were to go on and ask you about what I just mentioned, “What is shape, Meno?”, and you were to reply “roundness”, and he were to ask you what I asked, “Is roundness shape, or is it a shape?”, you would of course say that it is a shape.",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Meno",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "Isn’t that because there are other shapes too?",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "And could you say what sort they are if he went on to ask you that?",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Meno",
+"text": "I could.",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "And if he also asked you in the same way about colour and what it is, and when you replied “white”, the questioner then interjected, “Is white colour, or a colour?”, would you say that it is a colour because there happen to be other colours too?",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Meno",
+"text": "I would.",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "And if he told you to mention other colours, could you mention others that, as it happens, are no less colours than white is?",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "Now, if, like me, he continued the argument and said, “We continually arrive at multiplicity. Do not describe it to me in this way. Rather, since you refer to these multiplicities by a single name, and you assert that every one of them is a shape – even those that are most opposite to one another – what precisely is it that prevails in round no less than in straight, which you call shape, and by which you agree that round is a shape no less than straight?” Isn’t that what you say?",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Meno",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "Well then, whenever you speak of them in this way, are you then asserting that round is no more round than straight, and that straight is no more straight than round?",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Meno",
+"text": "Certainly not, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "Yet you assert that round is no more a shape than straight is, nor is one shape more so than any other.",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Meno",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "Then, what precisely is it that bears the name ‘shape’? Try to say. Now, if you were to reply to someone who questioned you in this way about shape or about colour, “Well, good fellow, I do not understand what you want and I do not know what you mean”, he might well be surprised and say, “Do you not understand that I am looking for some one thing that is the same and applies to all these instances?” Could you not even respond in these cases, Meno, if someone were to ask, “You refer to round, straight and so on, as shapes. What is that same something that applies to them all?” Try to say what it is so that you may get some practice related to our question concerning excellence.",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Meno",
+"text": "No, Socrates, you tell me instead.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "You want me to do you a favour?",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Meno",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "And will you also be willing to tell me about excellence?",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Meno",
+"text": "I will.",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "Then we should make the effort. It is worth it.",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Meno",
+"text": "Yes, very much so.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "Come on then, we should try to tell you what shape is. Let us see if you would accept that it is as follows. Let shape for us be that alone, among things that are, that always follows colour. Is that satisfactory for you or are you somehow looking for something different? Indeed, even if you were to describe excellence in this way I would be content.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Meno",
+"text": "But that account is silly, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "What do you mean?",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Meno",
+"text": "Well, according to your account, shape, I presume, is what always follows colour. So be it. But what if someone were to say that he did not know colour, and is now just as puzzled about that as he was about shape? What response do you think you would have given him?",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "The truth. And if the questioner was one of the wise, argumentative and combative types, I would say to him, “I have said what I have said, and if I am not speaking correctly it is your job to take up my argument and refute it.” However, if we were friends as you and I are now, and we wished to engage in a dialogue with one another, I would need to respond somewhat more gently and more dialectically. And the more dialectical approach is probably not only to give truthful answers, but also to proceed via whatever the person being questioned admits that he knows. So I shall endeavour to talk with you in this way too.",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "Now, tell me, is there something that you refer to as an end? By this I mean a sort of limit or boundary. I am saying that these are all the same. Perhaps Prodicus would take exception to this, but you, for your part, would presumably refer to something as having been “limited” or “ended.” That is the sort of thing I mean. It is nothing complicated.",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Meno",
+"text": "Well, I do use those terms and I think I understand what you mean.",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "What about this? Is there anything you refer to as flat, and anything else you call solid, in the case of geometrical constructions for example?",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Meno",
+"text": "Yes, I use these terms.",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Socrates",
+"text": "Well, from these examples you should now understand what I mean by shape. For I am saying of every shape that this is what limits a solid. Or I might say, in short, that shape is the limit of a solid.",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Meno",
+"text": "And what do you say colour is, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "You are quite overbearing, Meno, demanding that an old man answer hard questions when you yourself are unwilling to recollect what Gorgias said and tell me what exactly he said excellence was.",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Meno",
+"text": "I will answer you once you have answered me, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Socrates",
+"text": "From the way you converse, Meno, anyone would realise, even if they were blindfolded, that you are handsome and still have admirers.",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Meno",
+"text": "Why so?",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "Because all you do when you are speaking is issue commands, just as dainty young men do, since they can exercise tyrannical power as long as they are in the bloom of youth. And you have probably recognised by now that I am at a disadvantage with handsome folk, so I will oblige you and answer your question.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Meno",
+"text": "Yes, certainly, do me that favour.",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Socrates",
+"text": "Would you like me to respond, based upon the approach of Gorgias, in a way you are most likely to follow?",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Meno",
+"text": "I would like that, of course.",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "Don’t you both agree with Empedocles that there are certain emanations from things that are?",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Meno",
+"text": "Emphatically.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "And are there passages into which and through which these emanations pass?",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Meno",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Socrates",
+"text": "And do some emanations fit into some passages, while others are smaller or larger than the passages?",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Meno",
+"text": "This is the case.",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "Now, isn’t there also something that you call sight?",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Socrates",
+"text": "Well, from all this, “mark thou my words”, as Pindar said. For colour is an emanation from shapes which, being commensurate with sight, is perceptible.",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Meno",
+"text": "Socrates, I think your answer has been expressed excellently.",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Socrates",
+"text": "Indeed, it was probably stated in a manner that was familiar to you, and at the same time I am sure you realise that from this answer you would also be able to say what sound is, smell too, and numerous other phenomena of this kind.",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Meno",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Socrates",
+"text": "In fact, Meno, the answer was dramatic, so it was more pleasing to you than the one concerning shape.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Meno",
+"text": "It was.",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Socrates",
+"text": "But it is not a better answer. No, son of Alexidemus, I am persuaded that the other one is better. I believe you will think so too, provided you are not compelled to leave prior to the mysteries, as you were saying yesterday, but stay about and be initiated.",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Meno",
+"text": "Well Socrates, I would stay if you would give me lots of answers like this.",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Socrates",
+"text": "In that case I shall not be found wanting in my eagerness to deliver answers of this kind, for both our sakes, although I may not be up to the task of delivering a lot of them. So come on, you should also try to fulfil your promise to me and explain what excellence is as a whole, and stop turning the one into many, as witty folk say every time someone breaks something. Instead you should tell me what excellence is, leaving it whole and sound in the process, now that you have these examples from me.",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Meno",
+"text": "Well, it seems to me, Socrates, that excellence is what the poet says it is, “to delight in beauties and to have power”. This I say is excellence, to desire beautiful things and be able to acquire them.",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Socrates",
+"text": "Are you saying that someone who desires beautiful things is desirous of what is good?",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Meno",
+"text": "Definitely.",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Socrates",
+"text": "So, is it the case that there are some people who desire what is bad while others desire what is good? Don’t you think, best of men, that everyone desires what is good?",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Meno",
+"text": "I do not.",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Socrates",
+"text": "Then some desire what is bad?",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Socrates",
+"text": "Are you saying they believe that what is bad is good, or do they recognise that it is bad and desire it nevertheless?",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Meno",
+"text": "I think they do both.",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Socrates",
+"text": "So, Meno, do you actually think that someone who recognises that what is bad is bad, desires it nevertheless?",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Meno",
+"text": "Definitely.",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Socrates",
+"text": "What do you mean by ‘desires’? Does he desire that it be his?",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Meno",
+"text": "That it be his, yes. What else could it mean?",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Socrates",
+"text": "Does he presume that what is bad benefits the person who gets it, or does he recognise that it harms whoever has it?",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Meno",
+"text": "There are some people who presume that what is bad benefits them, while others recognise that it harms them.",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Socrates",
+"text": "And do you think that those who presume that what is bad benefits them, recognise that what is bad is bad?",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Meno",
+"text": "No, I don’t really think so.",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Socrates",
+"text": "Then it is obvious that these people who are unaware that it is bad, do not desire what is bad, rather they desire what they presume to be good, but is actually bad. So those who are unaware of this and presume that it is good, obviously have a desire for what is good. Isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Meno",
+"text": "They probably do.",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Socrates",
+"text": "What about this? Those people who, according to you, desire what is bad whilst believing that what is bad harms the person who gets it, don’t they recognise that it will harm them?",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Meno",
+"text": "They must.",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Socrates",
+"text": "But don’t they presume that those who are harmed are wretched to the extent that they incur harm?",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Meno",
+"text": "They must presume this too.",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Socrates",
+"text": "And don’t they presume that wretched people are in a sorry plight?",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Meno",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Socrates",
+"text": "Is there anyone who wishes to be wretched and in a sorry plight?",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Meno",
+"text": "I think not, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Socrates",
+"text": "Well, Meno, since no one wants to be like this, no one wants what is bad. For to be wretched is to desire what is bad and obtain it, what else?",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Meno",
+"text": "It looks as though you are speaking the truth, Socrates, and that no one wants what is bad.",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Socrates",
+"text": "Didn’t you say just now that excellence is to wish for what is good and to have the power to acquire it?",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Meno",
+"text": "I said that, indeed.",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Socrates",
+"text": "Doesn’t the wish that you mention belong to everyone, and in that respect anyway, no one is better than anyone else?",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Meno",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Socrates",
+"text": "It is obvious then that if one person is indeed better than another, he must be better on the basis of the power you mentioned.",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Meno",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Socrates",
+"text": "Then according to your account, this, it seems, is excellence, the power of acquiring what is good.",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Meno",
+"text": "Yes, Socrates, I think that the situation is exactly as you now understand it.",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Socrates",
+"text": "Then let us see if this statement of yours is true, for you may actually have a point. Are you saying that excellence is the ability to acquire what is good?",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Meno",
+"text": "I am.",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Socrates",
+"text": "And do you refer to the likes of health and wealth as good?",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Meno",
+"text": "And the acquisition of gold and silver, and of honour and high office in the city.",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Socrates",
+"text": "Are you saying that anything else is good besides the likes of these?",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Meno",
+"text": "No, but I am saying that everything of this sort is good.",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Socrates",
+"text": "So be it. Then according to Meno, the ancestral friend of the Great King, the acquisition of gold and silver is excellence. And would you add that this acquisition of wealth should be done in a just and holy manner, Meno, or does it make no difference to you if someone acquires it unjustly? Do you call it excellence all the same?",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Meno",
+"text": "Of course not, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Socrates",
+"text": "Then it is badness.",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Meno",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Socrates",
+"text": "So, it seems that justice or sound-mindedness or holiness or some other part of excellence must accompany this acquisition of wealth, or else it will not be excellence even though it provides what is good.",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Meno",
+"text": "Indeed, how could there be excellence if these are absent?",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Socrates",
+"text": "Yet, not to acquire gold and silver whenever it would be unjust to do so, either for yourself or for someone else, that non-acquisition would also be excellence, wouldn’t it?",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Meno",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Socrates",
+"text": "So, the acquisition of such goods would no more constitute excellence than their non-acquisition. It seems, rather, that whatever is accompanied by justice will be excellence, and whatever is devoid of anything of this sort will be badness.",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Meno",
+"text": "I think that the situation must be as you describe it.",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Socrates",
+"text": "Didn’t we say a little earlier that each of these, justice, sound-mindedness and everything of that sort, is a part of excellence?",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Socrates",
+"text": "In that case, Meno, are you playing games with me?",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Meno",
+"text": "In what way, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Socrates",
+"text": "Because earlier on I asked you not to break up excellence, or cut it into pieces, and I gave you examples of how you should respond. Yet you have paid no attention to this and you are now telling me that excellence is the ability to acquire what is good, and to do so with justice. But don’t you say that justice is a part of excellence?",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Meno",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Socrates",
+"text": "Then it follows from what you are agreeing to, that to enact whatever you enact along with a part of excellence, is excellence, for you accept that justice is a part of excellence and so is each of the others. Well then, why am I saying this? Because although I asked you to state what excellence is as a whole, you are far removed from saying what it is. Instead you are saying that any action is excellence as long as it is enacted along with a part of excellence, as if you had told me what excellence as a whole is, and I already recognised it, even if you also break it up into parts.",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Socrates",
+"text": "So, in my view, dear Meno, you need to face the same question again from the beginning. If every action accompanied by a part of excellence, is excellence, what then is excellence? For that is what someone means when he says that every action accompanied by justice is excellence. Or do you think that it is unnecessary for you to face the same question once more? Do you believe, rather, that someone who does not know what excellence itself is, knows what a part of excellence is?",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Meno",
+"text": "No, I don’t think so.",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Socrates",
+"text": "Indeed, if you also remember, when I answered you earlier about shape, we rejected the sort of answer that tries to respond in terms of what is still being investigated and is not yet agreed upon.",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Meno",
+"text": "And we were right to reject it, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Socrates",
+"text": "Well, best of men, do not presume that by giving an answer in terms of the parts of excellence, you will explain it to anyone when you are still investigating what it is as a whole. Nor will you explain anything else by describing it in this way. Rather, it will be necessary to face the same question once more; this excellence that you keep referring to, what is it? Or do you think I am talking nonsense?",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Meno",
+"text": "I think that what you are saying is right.",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Socrates",
+"text": "Then answer once more, from the beginning, what do you and your associate say that excellence is?",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Meno",
+"text": "Being perplexed yourself and making others perplexed, that is all you do, Socrates. I heard that even before I met you. And now, as I see it, you are enchanting and bewitching me, almost casting a spell on me, so that I have become utterly perplexed. And if I may be permitted a jest, I think you are extremely like the flat torpedo fish in your appearance and in other respects too. For it always numbs anyone who approaches or touches it, and I think you have just done something like that to me, since I am truly numbed in my soul and in my mouth, and I do not have any answer to give you. Yet, on countless occasions I have delivered a whole range of speeches about excellence to lots of people, and they were really good, or so I thought anyway. But now I am not even able to say what it is at all. And I think you are well advised neither to travel abroad nor be away from home, for if you were to do this sort of thing as a stranger in another city, you would probably be locked up as a sorcerer.",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Socrates",
+"text": "You are a mischief-maker, Meno, and you almost deceived me.",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Meno",
+"text": "What point are you making, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Socrates",
+"text": "I realise why you presented a likeness of me.",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Meno",
+"text": "Why do you think I did it?",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Socrates",
+"text": "So that I would present a likeness of you in return. There is one thing I know about all you fair fellows. You delight in playing with likenesses, it benefits you. For the likenesses of the fair are also fair, but I shall not present a likeness of you in return. Now, if the torpedo fish being numb itself also makes others numb, then I am like it, but otherwise I am not. For I do not make other people perplexed while being free from perplexity myself. No, I make other people perplexed while I am even more perplexed than anyone. And at the moment, on the question of what excellence is, I do not know, while you, perhaps, knew before you got in touch with me, but now you are like a man who does not know. But I want to look at this along with you and enquire into what exactly it is.",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Meno",
+"text": "And in what way will you enquire into something when you do not know what it is at all? Yes, what sort of thing that you do not know will you put forward as an object of enquiry? And even if, at best, you do encounter it, how will you know that this is the thing that you did not know?",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Socrates",
+"text": "I understand the point you wish to make, Meno. Do you see that you are introducing a captious argument, according to which it is not possible for a person to enquire either into what he knows or into what he does not know? For he would not enquire into what he knows, because he knows that already, and someone like this has no need for enquiry. Neither would he enquire into what he does not know, for he does not even know what he is to enquire into.",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Meno",
+"text": "Don’t you think this argument is well formulated, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Socrates",
+"text": "I do not.",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Meno",
+"text": "Can you say why?",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Socrates",
+"text": "I can, for I have heard about matters divine from wise men and women.",
+"kind": "speech"
+},
+{
+"entry": 194,
+"who": "Meno",
+"text": "What did they propose?",
+"kind": "speech"
+},
+{
+"entry": 195,
+"who": "Socrates",
+"text": "Something true and beautiful, in my view anyway.",
+"kind": "speech"
+},
+{
+"entry": 196,
+"who": "Meno",
+"text": "What was it and who were the people who said it?",
+"kind": "speech"
+},
+{
+"entry": 197,
+"who": "Socrates",
+"text": "Those who said it were priests and priestesses who cared about being able to give an explanation of their practices. Pindar expresses it too, and so do numerous other poets who are divine. What they say is as follows. Decide for yourself whether they are speaking the truth, for they say that the soul of man is immortal, and at one time it comes to an end and they call this “death”, and at another time it comes to birth once more, but it is never destroyed. For these reasons then, we should live our lives in the utmost holiness. For, “From whomsoever Persephone accepts a penalty for an ancient affliction, / Their souls she sends once more to the sun above, in the ninth year. / From these arise illustrious kings, and men, mighty in strength, supreme in wisdom, / And ever after they are called sacred heroes by humanity.”",
+"kind": "speech"
+},
+{
+"entry": 198,
+"who": "Socrates",
+"text": "Now, since the soul is immortal and has come to birth many times, and has beheld everything there is, both here and in Hades, there is nothing she has not learned. So it is no wonder that she is able to recollect what she knew previously about excellence or about other things. Indeed, since all of nature is akin and the soul has learned all things, there is nothing to prevent someone who has only recalled one – a process that people call learning – from discovering all the others, provided he is courageous and does not tire of the enquiry, for enquiring and learning are wholly recollection. So, we should not be persuaded by this captious argument, for it will only make us idle, and it is pleasant only to the ears of feeble folk, while this one will make us active and inquisitive. Placing my trust in its truth, I want to enquire along with you into what excellence is.",
+"kind": "speech"
+},
+{
+"entry": 199,
+"who": "Meno",
+"text": "Yes, Socrates, but what do you mean by this statement that we do not learn and what we call learning is recollection? Can you teach me that this is the case?",
+"kind": "speech"
+},
+{
+"entry": 200,
+"who": "Socrates",
+"text": "Meno, I said but a moment ago that you are a mischief-maker, and now, so that I might immediately be shown up as contradicting myself, you are asking if I am able to teach you when I am saying that there is no teaching, only recollection.",
+"kind": "speech"
+},
+{
+"entry": 201,
+"who": "Meno",
+"text": "Not at all, by Zeus, Socrates, that was not my intention, I said that out of habit. But if you are somehow able to prove that what you are saying holds true, please do so.",
+"kind": "speech"
+},
+{
+"entry": 202,
+"who": "Socrates",
+"text": "Well, that is not easy. Nevertheless, I am willing to make the effort for your sake. So please summon for me one of these many servants of yours, whichever one you please, so that I may demonstrate this to you in his case.",
+"kind": "speech"
+},
+{
+"entry": 203,
+"who": "Meno",
+"text": "Certainly. You, come here!",
+"kind": "speech"
+},
+{
+"entry": 204,
+"who": "Socrates",
+"text": "Is he Greek and does he speak Greek?",
+"kind": "speech"
+},
+{
+"entry": 205,
+"who": "Meno",
+"text": "Yes, very much so, he was born in the house.",
+"kind": "speech"
+},
+{
+"entry": 206,
+"who": "Socrates",
+"text": "Now, pay attention as to whether he seems to you to be recollecting or learning from me.",
+"kind": "speech"
+},
+{
+"entry": 207,
+"who": "Meno",
+"text": "I will pay attention.",
+"kind": "speech"
+},
+{
+"entry": 208,
+"who": "Socrates",
+"text": "So tell me, boy, do you recognise that a square figure is like this?",
+"kind": "speech"
+},
+{
+"entry": 209,
+"who": "Servant",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 210,
+"who": "Socrates",
+"text": "Then a square is a figure having all of these four sides equal?",
+"kind": "speech"
+},
+{
+"entry": 211,
+"who": "Servant",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 212,
+"who": "Socrates",
+"text": "Doesn’t it also have these lines through the middle, equal?",
+"kind": "speech"
+},
+{
+"entry": 213,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 214,
+"who": "Socrates",
+"text": "Couldn’t a figure like this be larger or smaller?",
+"kind": "speech"
+},
+{
+"entry": 215,
+"who": "Servant",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 216,
+"who": "Socrates",
+"text": "Now, if this side was two feet and this was two feet, how many feet would the whole figure be? Look at it this way: if it was two feet this way and only one foot this way, wouldn’t the figure be once two feet?",
+"kind": "speech"
+},
+{
+"entry": 217,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 218,
+"who": "Socrates",
+"text": "But since it is also two feet this way, wouldn’t it be twice two feet?",
+"kind": "speech"
+},
+{
+"entry": 219,
+"who": "Servant",
+"text": "It would.",
+"kind": "speech"
+},
+{
+"entry": 220,
+"who": "Socrates",
+"text": "So, is the whole twice two feet?",
+"kind": "speech"
+},
+{
+"entry": 221,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 222,
+"who": "Socrates",
+"text": "How much is twice two feet? Work it out and tell me.",
+"kind": "speech"
+},
+{
+"entry": 223,
+"who": "Servant",
+"text": "Four, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 224,
+"who": "Socrates",
+"text": "Now, would there be another figure, double this one, but like it, having all its sides equal just as this one does?",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 226,
+"who": "Socrates",
+"text": "So, how many feet will it be?",
+"kind": "speech"
+},
+{
+"entry": 227,
+"who": "Servant",
+"text": "Eight.",
+"kind": "speech"
+},
+{
+"entry": 228,
+"who": "Socrates",
+"text": "Come on then, try to tell me what length each side of that figure will be. Since it is two feet in this case, what length is the side of the double of this?",
+"kind": "speech"
+},
+{
+"entry": 229,
+"who": "Servant",
+"text": "Obviously, Socrates, it is double.",
+"kind": "speech"
+},
+{
+"entry": 230,
+"who": "Socrates",
+"text": "Meno, do you see that I am teaching this boy nothing? All I do is ask questions. And now the fellow thinks he knows the sort of line from which the eight-foot figure will arise. Is that how it seems to you?",
+"kind": "speech"
+},
+{
+"entry": 231,
+"who": "Meno",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 232,
+"who": "Socrates",
+"text": "And does he know?",
+"kind": "speech"
+},
+{
+"entry": 233,
+"who": "Meno",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 234,
+"who": "Socrates",
+"text": "Does he think the eight foot figure comes from the double line?",
+"kind": "speech"
+},
+{
+"entry": 235,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 236,
+"who": "Socrates",
+"text": "Now, watch him recollecting, in due order, in the way that one should recollect.",
+"kind": "speech"
+},
+{
+"entry": 237,
+"who": "Socrates",
+"text": "Tell me, boy, are you saying that the double figure arises from the double line? I am referring to a figure like this one, not long on one side and short on the other. No, let it be equal on every side, just like this one but double this one, eight feet. Now, see if this still seems to you to come from the double side.",
+"kind": "speech"
+},
+{
+"entry": 238,
+"who": "Servant",
+"text": "To me, yes.",
+"kind": "speech"
+},
+{
+"entry": 239,
+"who": "Socrates",
+"text": "Doesn’t the side become double if we add another line of the same length, here.",
+"kind": "speech"
+},
+{
+"entry": 240,
+"who": "Servant",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 241,
+"who": "Socrates",
+"text": "And you say that we will get an eight-foot figure from this, once four sides of this length have been constructed?",
+"kind": "speech"
+},
+{
+"entry": 242,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 243,
+"who": "Socrates",
+"text": "Then, let us draw four equal lines from this line. Is this the figure which according to you will be eight feet?",
+"kind": "speech"
+},
+{
+"entry": 244,
+"who": "Servant",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 245,
+"who": "Socrates",
+"text": "In this new figure, aren’t there four squares, each equal in size to the four-foot square?",
+"kind": "speech"
+},
+{
+"entry": 246,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 247,
+"who": "Socrates",
+"text": "So what size has it become? Isn’t it four times this size?",
+"kind": "speech"
+},
+{
+"entry": 248,
+"who": "Servant",
+"text": "It must be.",
+"kind": "speech"
+},
+{
+"entry": 249,
+"who": "Socrates",
+"text": "Now, is a square that is four times the size, a double?",
+"kind": "speech"
+},
+{
+"entry": 250,
+"who": "Servant",
+"text": "Not at all, by Zeus.",
+"kind": "speech"
+},
+{
+"entry": 251,
+"who": "Socrates",
+"text": "How many times is it multiplied?",
+"kind": "speech"
+},
+{
+"entry": 252,
+"who": "Servant",
+"text": "Fourfold.",
+"kind": "speech"
+},
+{
+"entry": 253,
+"who": "Socrates",
+"text": "Then, boy, the quadruple figure, and not the double figure, arises from the double side.",
+"kind": "speech"
+},
+{
+"entry": 254,
+"who": "Servant",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 255,
+"who": "Socrates",
+"text": "Four times four is sixteen, isn’t it?",
+"kind": "speech"
+},
+{
+"entry": 256,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 257,
+"who": "Socrates",
+"text": "But what size line gives an eight-foot figure? Don’t we get a quadruple space from this one?",
+"kind": "speech"
+},
+{
+"entry": 258,
+"who": "Servant",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 259,
+"who": "Socrates",
+"text": "And we get this quarter-sized square here, from this line here that is half as long?",
+"kind": "speech"
+},
+{
+"entry": 260,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 261,
+"who": "Socrates",
+"text": "So be it. And isn’t the eight-foot figure double this one, and half that one?",
+"kind": "speech"
+},
+{
+"entry": 262,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 263,
+"who": "Socrates",
+"text": "Then, it will be produced from a line that is longer than this line, but from one that is shorter than that line. Isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 264,
+"who": "Servant",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 265,
+"who": "Socrates",
+"text": "Well said. Yes, you should answer based upon what you think. And tell me, wasn’t this line two feet and that one four feet?",
+"kind": "speech"
+},
+{
+"entry": 266,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 267,
+"who": "Socrates",
+"text": "Now, the line belonging to the eight-foot figure should be longer than this two-foot line, and shorter than the four-foot line.",
+"kind": "speech"
+},
+{
+"entry": 268,
+"who": "Servant",
+"text": "It should.",
+"kind": "speech"
+},
+{
+"entry": 269,
+"who": "Socrates",
+"text": "Now, try to state what length you claim it is.",
+"kind": "speech"
+},
+{
+"entry": 270,
+"who": "Servant",
+"text": "Three feet?",
+"kind": "speech"
+},
+{
+"entry": 271,
+"who": "Socrates",
+"text": "Well, if it is to be three feet, shouldn’t we add on a half of this line, and will it then be three feet? Yes, this is two and that is one. And on this side, in like manner, this is two and that is one, and the figure that you are referring to arises.",
+"kind": "speech"
+},
+{
+"entry": 272,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 273,
+"who": "Socrates",
+"text": "Now, if this side is three and that side is three, doesn’t the entire figure become thrice three feet?",
+"kind": "speech"
+},
+{
+"entry": 274,
+"who": "Servant",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 275,
+"who": "Socrates",
+"text": "And how much is thrice three feet?",
+"kind": "speech"
+},
+{
+"entry": 276,
+"who": "Servant",
+"text": "Nine.",
+"kind": "speech"
+},
+{
+"entry": 277,
+"who": "Socrates",
+"text": "And how many feet should the double figure be?",
+"kind": "speech"
+},
+{
+"entry": 278,
+"who": "Servant",
+"text": "Eight.",
+"kind": "speech"
+},
+{
+"entry": 279,
+"who": "Socrates",
+"text": "So, the eight-foot figure does not arise from the three-foot line either.",
+"kind": "speech"
+},
+{
+"entry": 280,
+"who": "Servant",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 281,
+"who": "Socrates",
+"text": "From what sort of line then? Try to tell us exactly and if you do not want to give a number, point out the kind of line.",
+"kind": "speech"
+},
+{
+"entry": 282,
+"who": "Servant",
+"text": "No, by Zeus, Socrates, I just do not know.",
+"kind": "speech"
+},
+{
+"entry": 283,
+"who": "Socrates",
+"text": "Well, Meno, do you recognise where he is at this stage in the process of recollection? At first he did not know the length of the side of the eight-foot figure, and even now he does not yet know. But he thought that he knew then, and he answered boldly as if he knew, and did not think that he was at a loss. But he is now at a stage where he thinks he is at a loss, since he neither knows nor even thinks that he knows.",
+"kind": "speech"
+},
+{
+"entry": 284,
+"who": "Meno",
+"text": "What you say is true.",
+"kind": "speech"
+},
+{
+"entry": 285,
+"who": "Socrates",
+"text": "Isn’t he now better off in relation to the topic he did not know?",
+"kind": "speech"
+},
+{
+"entry": 286,
+"who": "Meno",
+"text": "I agree with this too.",
+"kind": "speech"
+},
+{
+"entry": 287,
+"who": "Socrates",
+"text": "Now, having made him perplexed and numbed him, as does a torpedo fish, have we done him any harm?",
+"kind": "speech"
+},
+{
+"entry": 288,
+"who": "Meno",
+"text": "Not in my opinion, anyway.",
+"kind": "speech"
+},
+{
+"entry": 289,
+"who": "Socrates",
+"text": "Indeed, it is quite likely that we have made some contribution towards finding out how matters stand, for now that he does not know he will be quite glad to search. But earlier he would have presumed readily that it is acceptable to declare repeatedly, in front of large audiences, that the double figure must have the double side.",
+"kind": "speech"
+},
+{
+"entry": 290,
+"who": "Meno",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 291,
+"who": "Socrates",
+"text": "Earlier on, do you think he would have undertaken to enquire into and learn this topic, a topic which he thought he knew but did not know, before he was cast into a state of perplexity through which he realised that he did not know but yearned to know?",
+"kind": "speech"
+},
+{
+"entry": 292,
+"who": "Meno",
+"text": "No, I do not think so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 293,
+"who": "Socrates",
+"text": "So, has he benefited from being numbed?",
+"kind": "speech"
+},
+{
+"entry": 294,
+"who": "Meno",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 295,
+"who": "Socrates",
+"text": "Then observe what he will discover from this perplexity by enquiring along with me, while I do no more than ask questions without teaching him. And be on the lookout in case you find me, somehow, teaching him and expounding to him rather than asking for his opinions on this.",
+"kind": "speech"
+},
+{
+"entry": 296,
+"who": "Socrates",
+"text": "So tell me, boy, isn’t this our four-foot figure? Do you understand?",
+"kind": "speech"
+},
+{
+"entry": 297,
+"who": "Servant",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 298,
+"who": "Socrates",
+"text": "And may we add another figure equal to this one?",
+"kind": "speech"
+},
+{
+"entry": 299,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 300,
+"who": "Socrates",
+"text": "And is this third figure equal to both of these?",
+"kind": "speech"
+},
+{
+"entry": 301,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 302,
+"who": "Socrates",
+"text": "And may we fill in this space that is left in the corner?",
+"kind": "speech"
+},
+{
+"entry": 303,
+"who": "Servant",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 304,
+"who": "Socrates",
+"text": "Now, there are these four equal figures, aren’t there?",
+"kind": "speech"
+},
+{
+"entry": 305,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 306,
+"who": "Socrates",
+"text": "Well then, how many times larger is the entire figure than this original figure?",
+"kind": "speech"
+},
+{
+"entry": 307,
+"who": "Servant",
+"text": "Four times as large.",
+"kind": "speech"
+},
+{
+"entry": 308,
+"who": "Socrates",
+"text": "But we wanted one that was twice as large, or do you not remember?",
+"kind": "speech"
+},
+{
+"entry": 309,
+"who": "Servant",
+"text": "I certainly do.",
+"kind": "speech"
+},
+{
+"entry": 310,
+"who": "Socrates",
+"text": "Now, doesn’t this line from one corner to another cut each of these figures in two?",
+"kind": "speech"
+},
+{
+"entry": 311,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 312,
+"who": "Socrates",
+"text": "Then there are these four equal lines enclosing this figure here?",
+"kind": "speech"
+},
+{
+"entry": 313,
+"who": "Servant",
+"text": "There are.",
+"kind": "speech"
+},
+{
+"entry": 314,
+"who": "Socrates",
+"text": "Now look, what size is this figure?",
+"kind": "speech"
+},
+{
+"entry": 315,
+"who": "Servant",
+"text": "I do not understand.",
+"kind": "speech"
+},
+{
+"entry": 316,
+"who": "Socrates",
+"text": "There are these four figures. Hasn’t each internal line cut off half of each figure? Isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 317,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 318,
+"who": "Socrates",
+"text": "Now, how many of that size are in this?",
+"kind": "speech"
+},
+{
+"entry": 319,
+"who": "Servant",
+"text": "Four.",
+"kind": "speech"
+},
+{
+"entry": 320,
+"who": "Socrates",
+"text": "How many are in that one?",
+"kind": "speech"
+},
+{
+"entry": 321,
+"who": "Servant",
+"text": "Two.",
+"kind": "speech"
+},
+{
+"entry": 322,
+"who": "Socrates",
+"text": "And what is four in relation to two?",
+"kind": "speech"
+},
+{
+"entry": 323,
+"who": "Servant",
+"text": "Double.",
+"kind": "speech"
+},
+{
+"entry": 324,
+"who": "Socrates",
+"text": "Then how many feet is this figure?",
+"kind": "speech"
+},
+{
+"entry": 325,
+"who": "Servant",
+"text": "Eight feet.",
+"kind": "speech"
+},
+{
+"entry": 326,
+"who": "Socrates",
+"text": "From what line does it arise?",
+"kind": "speech"
+},
+{
+"entry": 327,
+"who": "Servant",
+"text": "From this one.",
+"kind": "speech"
+},
+{
+"entry": 328,
+"who": "Socrates",
+"text": "From the one that runs from corner to corner of the four-foot figure?",
+"kind": "speech"
+},
+{
+"entry": 329,
+"who": "Servant",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 330,
+"who": "Socrates",
+"text": "The experts call this the diagonal. So, if ‘the diagonal’ is its name, then according to you, Meno’s boy, the double figure would arise from the diagonal.",
+"kind": "speech"
+},
+{
+"entry": 331,
+"who": "Servant",
+"text": "Yes, certainly, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 332,
+"who": "Socrates",
+"text": "How does this seem to you, Meno? Did he respond with any opinion that was not his own?",
+"kind": "speech"
+},
+{
+"entry": 333,
+"who": "Meno",
+"text": "No, they were his own.",
+"kind": "speech"
+},
+{
+"entry": 334,
+"who": "Socrates",
+"text": "And yet, as we agreed a little earlier, he did not know.",
+"kind": "speech"
+},
+{
+"entry": 335,
+"who": "Meno",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 336,
+"who": "Socrates",
+"text": "Yet he had these opinions within him, didn’t he?",
+"kind": "speech"
+},
+{
+"entry": 337,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 338,
+"who": "Socrates",
+"text": "So the person who does not know about something has true opinions within him concerning what he does not know?",
+"kind": "speech"
+},
+{
+"entry": 339,
+"who": "Meno",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 340,
+"who": "Socrates",
+"text": "And now these opinions have just been stirred up again within him, just like a dream. But if someone will put these same questions to him repeatedly, in varying forms, you know that he will finally come to know about these issues with as much precision as anyone.",
+"kind": "speech"
+},
+{
+"entry": 341,
+"who": "Meno",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 342,
+"who": "Socrates",
+"text": "Therefore, if someone asks him questions without teaching him, he will come to know by recovering the knowledge himself, from himself.",
+"kind": "speech"
+},
+{
+"entry": 343,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 344,
+"who": "Socrates",
+"text": "But recovering knowledge himself, from himself, is recollection, isn’t it?",
+"kind": "speech"
+},
+{
+"entry": 345,
+"who": "Meno",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 346,
+"who": "Socrates",
+"text": "Now, isn’t it the case that the fellow either acquired the knowledge he now possesses at some stage, or else he always possessed it?",
+"kind": "speech"
+},
+{
+"entry": 347,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 348,
+"who": "Socrates",
+"text": "Well, if he always possessed it then he was always knowledgeable. Then again, if he acquired it at some stage it could not be during the present life that he acquired it. Or has someone taught him geometry? Indeed, he will do the same thing when it comes to any aspect of geometry or any of the other subjects. So, is there anyone who has taught him all this? You really should know, especially since he was born and reared in your own house.",
+"kind": "speech"
+},
+{
+"entry": 349,
+"who": "Meno",
+"text": "Well, I know that no one has ever taught him.",
+"kind": "speech"
+},
+{
+"entry": 350,
+"who": "Socrates",
+"text": "But he does possess these opinions, doesn’t he?",
+"kind": "speech"
+},
+{
+"entry": 351,
+"who": "Meno",
+"text": "Apparently he must, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 352,
+"who": "Socrates",
+"text": "Yet, if he did not acquire them in his present life, is it not evident at this stage that he possessed and had learnt them at some other time?",
+"kind": "speech"
+},
+{
+"entry": 353,
+"who": "Meno",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 354,
+"who": "Socrates",
+"text": "Then this was the time when he was not a human being?",
+"kind": "speech"
+},
+{
+"entry": 355,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 356,
+"who": "Socrates",
+"text": "Now, if both at the time when he was and at the time when he was not a human being, there were true opinions within him which become knowledge once awakened by questioning, does his soul then possess understanding throughout all time? For it is obvious that throughout all time he either was or was not a human being.",
+"kind": "speech"
+},
+{
+"entry": 357,
+"who": "Meno",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 358,
+"who": "Socrates",
+"text": "Then, if the truth about things that are is always in our soul, the soul would be immortal. And so, whatever you do not know at present is something you don’t remember, and you should try bravely to enquire into it and recollect it.",
+"kind": "speech"
+},
+{
+"entry": 359,
+"who": "Meno",
+"text": "Socrates, I’m not sure how, but I think you have a point.",
+"kind": "speech"
+},
+{
+"entry": 360,
+"who": "Socrates",
+"text": "Yes, Meno, that is how I seem to myself too. Now, I would not affirm every aspect of this argument with total confidence, yet we would be better, more manly, and less idle, through believing that we should enquire into what we do not know, rather than believing that it is not within our power to find out or even to enquire into what we do not know. That is a proposition I would maintain insistently, as best I could, in word and in deed.",
+"kind": "speech"
+},
+{
+"entry": 361,
+"who": "Meno",
+"text": "Here again, Socrates, I think you have a point.",
+"kind": "speech"
+},
+{
+"entry": 362,
+"who": "Socrates",
+"text": "Well, since we are of one mind that we should enquire into whatever we do not know, would you like to undertake a joint enquiry into what precisely excellence is?",
+"kind": "speech"
+},
+{
+"entry": 363,
+"who": "Meno",
+"text": "Yes, certainly, and yet, Socrates, it would please me most to consider my initial question, and hear whether we should undertake this enquiry on the basis that excellence comes to people by being taught, or by nature, or comes in some manner yet to be specified.",
+"kind": "speech"
+},
+{
+"entry": 364,
+"who": "Socrates",
+"text": "Well, Meno, if I had control, not only of myself but also of you, we would not have considered whether excellence is teachable or not teachable until we had first enquired into what it is. However, since you do not even attempt to control yourself, so that you might actually be free, but you attempt to control me, and you do control me, I shall go along with you. What else can I do? So, it seems we must consider the sort of thing this is, when we do not yet know what it is. Now, please relax your control over me just a little and agree to consider whether it is teachable, or how it comes to people, on the basis of a hypothesis. And by “on the basis of a hypothesis”, I am referring to just what geometers frequently consider if someone asks them about a figure; for instance, if it is possible to inscribe this triangular figure in this particular circle. One of them might reply, “I do not yet know if this figure is of this sort, yet I have a hypothesis of a kind that is applicable to this matter as follows. If this is the sort of figure that, when applied to the straight line provided by the circle, falls short by a figure like the one that has just been applied, then I think one consequence follows. But a different consequence follows if it is not possible for this to happen. So, by using this hypothesis, I am willing to tell you the solution to the problem of whether the inscription of this figure in the circle is impossible or not.”",
+"kind": "speech"
+},
+{
+"entry": 365,
+"who": "Socrates",
+"text": "So, we too can treat of excellence in this way, since we do not know either what it is or the sort of thing it is, by using a hypothesis to consider whether it is teachable or not teachable. We may discuss it as follows. Which of the things associated with the soul must excellence be like if it is to be teachable or not teachable? Firstly, if it is like or unlike knowledge, is it teachable or not, or as we put it a moment ago, recollectable? But it should make no difference which of the names we use. Is it teachable? Is it not obvious to everyone that people are taught knowledge and nothing else?",
+"kind": "speech"
+},
+{
+"entry": 366,
+"who": "Meno",
+"text": "So it seems to me anyway.",
+"kind": "speech"
+},
+{
+"entry": 367,
+"who": "Socrates",
+"text": "Yes, and if excellence is a form of knowledge, it would obviously be teachable.",
+"kind": "speech"
+},
+{
+"entry": 368,
+"who": "Meno",
+"text": "It would of course.",
+"kind": "speech"
+},
+{
+"entry": 369,
+"who": "Socrates",
+"text": "So, we settled that issue quickly enough; if excellence is like this, it is teachable, and if it is not like this, it is not.",
+"kind": "speech"
+},
+{
+"entry": 370,
+"who": "Meno",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 371,
+"who": "Socrates",
+"text": "Then, it seems the next thing we must consider is whether excellence is knowledge, or something different from knowledge.",
+"kind": "speech"
+},
+{
+"entry": 372,
+"who": "Meno",
+"text": "Yes, this in my view is the next question we should consider.",
+"kind": "speech"
+},
+{
+"entry": 373,
+"who": "Socrates",
+"text": "What about this? Do we agree that excellence is something good, and does this hypothesis that excellence is good, stand according to us?",
+"kind": "speech"
+},
+{
+"entry": 374,
+"who": "Meno",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 375,
+"who": "Socrates",
+"text": "Then, if anything else is also good, apart from knowledge, excellence might, perhaps, not be a form of knowledge. However, if nothing is good that knowledge does not encompass, our suspicion that it is a form of knowledge would be correct.",
+"kind": "speech"
+},
+{
+"entry": 376,
+"who": "Meno",
+"text": "This is the case.",
+"kind": "speech"
+},
+{
+"entry": 377,
+"who": "Socrates",
+"text": "What is more, we are good on account of excellence?",
+"kind": "speech"
+},
+{
+"entry": 378,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 379,
+"who": "Socrates",
+"text": "And if good, then beneficent, for everything good is beneficial, is it not?",
+"kind": "speech"
+},
+{
+"entry": 380,
+"who": "Meno",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 381,
+"who": "Socrates",
+"text": "Then excellence too is beneficial?",
+"kind": "speech"
+},
+{
+"entry": 382,
+"who": "Meno",
+"text": "From what has been agreed, it must be.",
+"kind": "speech"
+},
+{
+"entry": 383,
+"who": "Socrates",
+"text": "Then let us consider the kinds of things that benefit us, taking each in turn. There is health, strength, beauty and, indeed, wealth. We say that these and the like of these are beneficial, don’t we?",
+"kind": "speech"
+},
+{
+"entry": 384,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 385,
+"who": "Socrates",
+"text": "But we also say that these same things sometimes do harm, or do you deny that this is the case?",
+"kind": "speech"
+},
+{
+"entry": 386,
+"who": "Meno",
+"text": "No, this is the case.",
+"kind": "speech"
+},
+{
+"entry": 387,
+"who": "Socrates",
+"text": "Then consider this. What is it that benefits us whenever it guides us in relation to each of these, and what is it that harms us whenever it guides us? Isn’t it the case that whenever their correct usage guides us, that benefits us, and whenever it does not we are harmed?",
+"kind": "speech"
+},
+{
+"entry": 388,
+"who": "Meno",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 389,
+"who": "Socrates",
+"text": "Well then, let us also consider this in relation to the soul. Do you say that there is sound-mindedness, justice, courage, ease of learning, retentiveness and magnanimity, and everything of that sort?",
+"kind": "speech"
+},
+{
+"entry": 390,
+"who": "Meno",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 391,
+"who": "Socrates",
+"text": "Then consider any of these that you think are not knowledge but are different from knowledge. Don’t they sometimes harm us and sometimes benefit us? Take courage, for instance. If courage is not understanding, but a sort of boldness, then when a man is bold in the absence of reason, he is harmed, and when reason is present, he is benefited, is he not?",
+"kind": "speech"
+},
+{
+"entry": 392,
+"who": "Meno",
+"text": "He is.",
+"kind": "speech"
+},
+{
+"entry": 393,
+"who": "Socrates",
+"text": "Doesn’t the same go for sound-mindedness and ease of learning; whatever is learned or inculcated is beneficial when accompanied by reason, and is harmful in the absence of reason?",
+"kind": "speech"
+},
+{
+"entry": 394,
+"who": "Meno",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 395,
+"who": "Socrates",
+"text": "In short then, everything the soul undertakes and endures ends in happiness when guided by understanding, and ends in its opposite when guided by folly.",
+"kind": "speech"
+},
+{
+"entry": 396,
+"who": "Meno",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 397,
+"who": "Socrates",
+"text": "So, if excellence is something that is in the soul and it is, necessarily, beneficial, then it must be understanding, since all things associated with the soul are neither beneficial nor harmful just by themselves, yet they become beneficial or harmful through the presence of understanding or of folly. So, according to this argument, since excellence is beneficial, it must be a kind of understanding.",
+"kind": "speech"
+},
+{
+"entry": 398,
+"who": "Meno",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 399,
+"who": "Socrates",
+"text": "What is more, everything else we mentioned, wealth and the like, is sometimes good and sometimes harmful. So, just as understanding, by its guidance, makes what belongs to the soul beneficial to the rest of the soul while folly renders them harmful, so also does the soul make these beneficial by using and controlling them aright, and harmful by doing so in an incorrect manner. Isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 400,
+"who": "Meno",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 401,
+"who": "Socrates",
+"text": "And does the intelligent soul guide correctly while the foolish soul leads us to error?",
+"kind": "speech"
+},
+{
+"entry": 402,
+"who": "Meno",
+"text": "This is so.",
+"kind": "speech"
+},
+{
+"entry": 403,
+"who": "Socrates",
+"text": "Then it is possible to declare that in general, for any person, everything else depends upon the soul, while anything belonging to the soul itself depends upon understanding if it is to be good. And by this argument what is beneficial would be understanding, but do we accept that excellence is beneficial?",
+"kind": "speech"
+},
+{
+"entry": 404,
+"who": "Meno",
+"text": "We certainly do.",
+"kind": "speech"
+},
+{
+"entry": 405,
+"who": "Socrates",
+"text": "Then we are saying that excellence is understanding, either the sum total, or a part thereof.",
+"kind": "speech"
+},
+{
+"entry": 406,
+"who": "Meno",
+"text": "Socrates, I think this has been very well expressed.",
+"kind": "speech"
+},
+{
+"entry": 407,
+"who": "Socrates",
+"text": "Well, if that is how matters stand, then good people would not be good by nature.",
+"kind": "speech"
+},
+{
+"entry": 408,
+"who": "Meno",
+"text": "No, I do not think so.",
+"kind": "speech"
+},
+{
+"entry": 409,
+"who": "Socrates",
+"text": "Indeed, if this were so, one consequence, I presume, would be the following. If the good were good by nature, presumably there would have been people who recognised for us which of the young folk were good by nature. And once they had revealed this, we would have taken these youths in hand, guarded them in the citadel, having placed our seal upon it, as more important than gold, so that no one could corrupt them and they would be useful to their cities once they had come of age.",
+"kind": "speech"
+},
+{
+"entry": 410,
+"who": "Meno",
+"text": "That sounds reasonable anyway, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 411,
+"who": "Socrates",
+"text": "Well then, since the good are not good by nature, do they become good by learning?",
+"kind": "speech"
+},
+{
+"entry": 412,
+"who": "Meno",
+"text": "At this stage I think this must be so, and obviously, Socrates, based upon the hypothesis, if indeed excellence is knowledge, it is teachable.",
+"kind": "speech"
+},
+{
+"entry": 413,
+"who": "Socrates",
+"text": "Perhaps, by Zeus, but were we not right in agreeing to this?",
+"kind": "speech"
+},
+{
+"entry": 414,
+"who": "Meno",
+"text": "Well, it seemed right a moment ago, at any rate, when we said it.",
+"kind": "speech"
+},
+{
+"entry": 415,
+"who": "Socrates",
+"text": "But it should seem right, not only a moment ago, but also now and in the future, if it is to be at all sound.",
+"kind": "speech"
+},
+{
+"entry": 416,
+"who": "Meno",
+"text": "What’s this? What has occurred to you? Why do you have misgivings and doubts as to whether excellence is knowledge?",
+"kind": "speech"
+},
+{
+"entry": 417,
+"who": "Socrates",
+"text": "I will tell you, Meno. I am not retracting as incorrect the proposition that excellence is teachable if, in fact, it is knowledge. But consider this. Do you think it is reasonable for me to doubt whether it is knowledge? Indeed, tell me this. If anything at all, not only excellence, is teachable, mustn’t there also be people who teach it and people who learn it?",
+"kind": "speech"
+},
+{
+"entry": 418,
+"who": "Meno",
+"text": "Yes, I think so.",
+"kind": "speech"
+},
+{
+"entry": 419,
+"who": "Socrates",
+"text": "And conversely too, if there were neither teachers nor students of something, would we be right to conjecture that it is not teachable?",
+"kind": "speech"
+},
+{
+"entry": 420,
+"who": "Meno",
+"text": "That is the case, but do you think there are no teachers of excellence?",
+"kind": "speech"
+},
+{
+"entry": 421,
+"who": "Socrates",
+"text": "Well, I have often searched to find out whether there are any teachers of excellence, but no matter what I do I am unable to find any, even though I have conducted the search in company with many people, particularly those whom I regard as most experienced in this matter. And now Anytus here has sat down beside us at just the right time. Let us hand a part of the enquiry over to him. It would be reasonable for us to include him since, in the first place, Anytus here is the son of a wealthy and wise father, Anthemion, who became wealthy not by chance or by being given money, in the way that Ismenias of Thebes has just recently come into possession of the wealth of Polycrates. No, he acquired it by his own wisdom and industry. Then again, in general, he did not seem to be an arrogant citizen, or pompous, or offensive; rather, he was a well behaved, orderly man. He then gave a good upbringing and education to his son here, as most Athenians agree, since they choose him for the most significant positions of power. So it is only right to investigate whether or not there are teachers of excellence and who they are, along with a person such as this.",
+"kind": "speech"
+},
+{
+"entry": 422,
+"who": "Socrates",
+"text": "So, Anytus, you should investigate this along with us, along with myself and your guest, Meno, who the teachers of this subject might be? Think about it this way, if we wanted Meno here to become a good physician, to what teachers would we send him? Wouldn’t it be to the physicians?",
+"kind": "speech"
+},
+{
+"entry": 423,
+"who": "Anytus",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 424,
+"who": "Socrates",
+"text": "And what if we wanted him to become a good cobbler? Wouldn’t we send him to the cobblers?",
+"kind": "speech"
+},
+{
+"entry": 425,
+"who": "Anytus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 426,
+"who": "Socrates",
+"text": "And the same goes for any other examples?",
+"kind": "speech"
+},
+{
+"entry": 427,
+"who": "Anytus",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 428,
+"who": "Socrates",
+"text": "Then tell me about these same examples once again, as follows. We say that we would be right in sending him to the physicians if we wanted him to become a physician. And whenever we say this, do we mean that we would be acting sensibly in sending him to those who lay claim to this skill, rather than those who do not, and to those who charge a fee on this very basis, proclaiming themselves to be teachers of anyone who wishes to come and learn? If these were our criteria we would be right to send him, wouldn’t we?",
+"kind": "speech"
+},
+{
+"entry": 429,
+"who": "Anytus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 430,
+"who": "Socrates",
+"text": "Don’t these same criteria also apply to flute-playing and to anything else? When we wish to make someone a flautist, it is highly irrational to be unwilling to send him to those who promise to teach the skill, and who charge a fee for doing so, but to trouble some other people instead, people who neither claim to be teachers nor have a single pupil of the subject which we expect the person we send to learn from them. Don’t you think that would be highly illogical?",
+"kind": "speech"
+},
+{
+"entry": 431,
+"who": "Anytus",
+"text": "Yes, by Zeus, I do, and quite stupid too.",
+"kind": "speech"
+},
+{
+"entry": 432,
+"who": "Socrates",
+"text": "Well said. Now there is an opportunity for you and me to conduct a joint deliberation in relation to this guest here, Meno. Indeed, Anytus, the fellow has been telling me for some time that he desires that wisdom and excellence by which people manage their households and cities in the right way, care for their own parents, and know how to receive strangers or send them on their way in a manner worthy of a good man. So think about this excellence and whom we would be right to send him to, if we were to send him to someone. Or is it obvious from the earlier discussion that we should send him to those who promise to act as teachers of excellence, and proclaim themselves available as such to any Greeks who wish to learn, levying a fixed charge which they have set?",
+"kind": "speech"
+},
+{
+"entry": 433,
+"who": "Anytus",
+"text": "Socrates, who are these people you are referring to?",
+"kind": "speech"
+},
+{
+"entry": 434,
+"who": "Socrates",
+"text": "Surely you know yourself that these are the people whom everyone calls sophists?",
+"kind": "speech"
+},
+{
+"entry": 435,
+"who": "Anytus",
+"text": "By Heracles, Socrates, mind what you say. May no one acquainted with me, friend or relation, citizen or stranger, ever be gripped by such madness as to frequent these people and become warped by them, for they are evidently an affliction and a corrupting influence upon their followers.",
+"kind": "speech"
+},
+{
+"entry": 436,
+"who": "Socrates",
+"text": "What do you mean, Anytus? There are many people who claim that they know how to do some good, but are these men, in particular, so different from the others that they do not benefit whatever is entrusted to them, as the others do, but they do the very opposite, they actually corrupt it? And is it for these services that they openly request financial payment? I just cannot believe you, for I know one man, Protagoras, who accumulated more money from this wisdom than Pheidias, whose beautiful works are plain to see, and ten other sculptors combined. Indeed what you are saying is preposterous, since those who repair old shoes and clothing could not avoid detection for thirty days if they kept returning the clothes and shoes in worse condition than they received them. No, if they behaved like that, they would quickly die of starvation. Yet Protagoras spent more than forty years corrupting those who associated with him, and sending them away in a worse condition than when he took them on, without being noticed by the whole of Greece. For I believe he was nearly seventy when he died and had spent forty years in the profession, and throughout that entire period, and even to this very day, he was always well regarded. And not just Protagoras but a whole host of others too, some born before him, some still alive today. Well then, should we say, based upon your position, that they deceive and corrupt the young people knowingly, or without even noticing it themselves? And shall we accuse these people, whom some say are the wisest of men, of being as mad as that?",
+"kind": "speech"
+},
+{
+"entry": 437,
+"who": "Anytus",
+"text": "No, they are very far from madness, Socrates. In fact, it is much more the case that the young people who give them money are mad, and those who let them do so, their relatives, are even more mad, and by far the maddest of all are the cities that allow them free entry, and do not drive away any stranger who even attempts to engage in anything of this kind or any citizen either.",
+"kind": "speech"
+},
+{
+"entry": 438,
+"who": "Socrates",
+"text": "What is this, Anytus, have any of the sophists done you an injustice? Why are you so hard on them?",
+"kind": "speech"
+},
+{
+"entry": 439,
+"who": "Anytus",
+"text": "No, by Zeus, to this day I have never even dealt with one of them, nor would I allow any of my own people to do so either.",
+"kind": "speech"
+},
+{
+"entry": 440,
+"who": "Socrates",
+"text": "Then you have no experience whatsoever of these men?",
+"kind": "speech"
+},
+{
+"entry": 441,
+"who": "Anytus",
+"text": "Yes, and I hope it remains so.",
+"kind": "speech"
+},
+{
+"entry": 442,
+"who": "Socrates",
+"text": "Blessed man, how could you know whether there is anything good or bad in their subject when you have no experience of it whatsoever?",
+"kind": "speech"
+},
+{
+"entry": 443,
+"who": "Anytus",
+"text": "Easily, I know who these men are, in any case, whether I have experience of them or not.",
+"kind": "speech"
+},
+{
+"entry": 444,
+"who": "Socrates",
+"text": "Perhaps you are a seer, Anytus, since from what you yourself are saying, I wonder how else you could know about these people. But of course we are not looking for the people who would make Meno worse if he went to them, let them be the sophists if you like. Tell us instead, and do a good deed for your family friend too, by advising him whom in this vast city he should go to, in order to attain eminence in the excellence I described just now.",
+"kind": "speech"
+},
+{
+"entry": 445,
+"who": "Anytus",
+"text": "Why don’t you advise him yourself?",
+"kind": "speech"
+},
+{
+"entry": 446,
+"who": "Socrates",
+"text": "Well, I have already stated who, in my view, the teachers of these excellences are, but according to you I was talking nonsense, and perhaps you have a point. So you should take your turn instead and tell him to whom he should go. Mention any name you like.",
+"kind": "speech"
+},
+{
+"entry": 447,
+"who": "Anytus",
+"text": "But why should he be given the name of a particular person? Indeed any noble and good Athenian he comes across will make him a better person than the sophists would, provided he is willing to take their advice.",
+"kind": "speech"
+},
+{
+"entry": 448,
+"who": "Socrates",
+"text": "And did these good and respectable folk become like this spontaneously? And although they have not learned from anyone else, are they able nevertheless to teach others what they themselves have not learned?",
+"kind": "speech"
+},
+{
+"entry": 449,
+"who": "Anytus",
+"text": "Well, I expect that these people have learned from their predecessors who were also good and respectable. Don’t you think there have been many good men in this city?",
+"kind": "speech"
+},
+{
+"entry": 450,
+"who": "Socrates",
+"text": "I do, Anytus, and I think that there are people here who are good at civic affairs, and there have been just as many in the past as there are now, but were they also good teachers of their own excellence? That is the question that our discussion is concerned with, not whether there are good men here or not, nor whether there were any in the past, but whether excellence is teachable. That is what we have been considering all along. In considering this, we are considering whether the good men of today and their predecessors also knew how to impart to anyone else the excellence that made them good, or whether this is incapable of being imparted by a person, or acquired from someone else. This is what Meno and I have been investigating for some time. Consider it as follows, from your own viewpoint. Wouldn’t you say that Themistocles was a good man?",
+"kind": "speech"
+},
+{
+"entry": 451,
+"who": "Anytus",
+"text": "I would, him most of all.",
+"kind": "speech"
+},
+{
+"entry": 452,
+"who": "Socrates",
+"text": "In that case, would you say that he was also a good teacher, and if anyone was ever a good teacher of his own excellence, he was one?",
+"kind": "speech"
+},
+{
+"entry": 453,
+"who": "Anytus",
+"text": "Yes, I think so, if he actually wanted to be.",
+"kind": "speech"
+},
+{
+"entry": 454,
+"who": "Socrates",
+"text": "But do you think he wouldn’t have wanted some other people to become good and respectable, especially, I presume, his own son? Or do you think he was jealous of him and deliberately withheld the excellence whereby the man himself was good? Or have you not heard that Themistocles had his son, Cleophantus, taught to be a good horseman? Well, he used to keep his balance standing upright on horseback and throw a javelin from there. And he also performed lots of other wonderful feats in which his father had him instructed and rendered wise, all of which depended upon having good teachers. Haven’t you heard this from the older generation?",
+"kind": "speech"
+},
+{
+"entry": 455,
+"who": "Anytus",
+"text": "I have heard this.",
+"kind": "speech"
+},
+{
+"entry": 456,
+"who": "Socrates",
+"text": "So no one could have alleged that the nature of his son was bad anyway.",
+"kind": "speech"
+},
+{
+"entry": 457,
+"who": "Anytus",
+"text": "Probably not.",
+"kind": "speech"
+},
+{
+"entry": 458,
+"who": "Socrates",
+"text": "What about this? Have you ever yet heard from anyone, young or old, that Cleophantus, the son of Themistocles, was a man good and wise in the same accomplishments as his father?",
+"kind": "speech"
+},
+{
+"entry": 459,
+"who": "Anytus",
+"text": "Certainly not.",
+"kind": "speech"
+},
+{
+"entry": 460,
+"who": "Socrates",
+"text": "Well then, should we presume that although he wanted his own son to be educated in these feats, he still made him no better than the next man in the very excellence that made Themistocles himself wise, if, in fact, excellence is actually teachable.",
+"kind": "speech"
+},
+{
+"entry": 461,
+"who": "Anytus",
+"text": "Probably not, by Zeus.",
+"kind": "speech"
+},
+{
+"entry": 462,
+"who": "Socrates",
+"text": "And yet that is the kind of teacher of excellence he was, this man who, according to you, was also among the very best men of former generations. But let us consider someone else, Aristides, the son of Lysimachus. Wouldn’t you agree that he was a good man?",
+"kind": "speech"
+},
+{
+"entry": 463,
+"who": "Anytus",
+"text": "I would, entirely so.",
+"kind": "speech"
+},
+{
+"entry": 464,
+"who": "Socrates",
+"text": "Didn’t this man also educate his own son, better than any other Athenian, in everything that depends upon teachers? But do you think he made him a better man than anyone else? Indeed you have presumably dealt with him and you can see what he is like. Or take Pericles, if you like, such a magnificently wise man. Do you know that he reared two sons, Paralus and Xanthippus?",
+"kind": "speech"
+},
+{
+"entry": 465,
+"who": "Anytus",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 466,
+"who": "Socrates",
+"text": "Then you also know that he had them taught to be horsemen, as good as any in Athens, and he had them educated to be as good as anyone in music, athletics and anything else that involves a skill. But did he not want to turn them out as good men? I think he did. He wanted to, but perhaps excellence is not teachable. And in case you think that only a few Athenians – mediocre ones at that – are unable to achieve this, bear in mind that Thucydides, for his part, reared two sons, Melesias and Stephanus, and had them well educated in general, and they were also the best wrestlers in Athens. In fact, he entrusted one son to Xanthius and the other to Eudorus, and these were reputedly the most accomplished wrestlers of that era. Don’t you remember?",
+"kind": "speech"
+},
+{
+"entry": 467,
+"who": "Anytus",
+"text": "So I hear, anyway.",
+"kind": "speech"
+},
+{
+"entry": 468,
+"who": "Socrates",
+"text": "Isn’t it obvious that if excellence can be taught, this man would never have had his own children taught these subjects whose instruction costs money, and not have had them taught the very subjects that produce good men, when that instruction costs nothing? Or was Thucydides perhaps a mediocre fellow after all, who did not have so many friends among the Athenians and her allies? He also belonged to an important family, and he had great influence in the city and throughout the rest of the Greek world. So, if excellence were indeed teachable, he would have found someone to make good men of his own sons, some fellow-citizen or some stranger, if he did not have time to do it himself because of his civic concerns. In any case, friend Anytus, it seems that excellence is not teachable.",
+"kind": "speech"
+},
+{
+"entry": 469,
+"who": "Anytus",
+"text": "Socrates, you seem all too ready to speak ill of people, so I would like to give you some advice, if you are prepared to heed me. Be careful, because in any city it is probably easier to do a person harm rather than do them good, but this is especially so in this city. But I think you know this yourself.",
+"kind": "speech"
+},
+{
+"entry": 470,
+"who": "Socrates",
+"text": "Oh, Meno, I think that Anytus is angry and I am not at all surprised. For he thinks, firstly, that I am denigrating the men I mentioned, and what is more, he believes that he himself is one of them. But if the fellow ever realises what speaking ill is actually like, he will stop being angry, but he does not realise this at the moment. However, you should tell me, aren’t there noble and good men among your people too?",
+"kind": "speech"
+},
+{
+"entry": 471,
+"who": "Meno",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 472,
+"who": "Socrates",
+"text": "Well then, are these people prepared to put themselves forward as instructors of the young, and accept that they are teachers and that excellence can be taught?",
+"kind": "speech"
+},
+{
+"entry": 473,
+"who": "Meno",
+"text": "Not at all, Socrates, by Zeus, you sometimes hear them saying that it is teachable and sometimes that it is not.",
+"kind": "speech"
+},
+{
+"entry": 474,
+"who": "Socrates",
+"text": "Well, should we declare that they are teachers of this subject when they do not agree on this very issue?",
+"kind": "speech"
+},
+{
+"entry": 475,
+"who": "Meno",
+"text": "I don’t think so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 476,
+"who": "Socrates",
+"text": "What about these sophists, the only ones who actually profess to do so. Do you think that they are teachers of excellence?",
+"kind": "speech"
+},
+{
+"entry": 477,
+"who": "Meno",
+"text": "That is what I admire most about Gorgias, Socrates. You would never hear him promising to do this, and he laughs at anyone else if he hears them making such a promise. Rather he believes one should turn people into clever speakers.",
+"kind": "speech"
+},
+{
+"entry": 478,
+"who": "Socrates",
+"text": "So do you not even think that the sophists are teachers?",
+"kind": "speech"
+},
+{
+"entry": 479,
+"who": "Meno",
+"text": "I can’t say, Socrates. In fact, I am in the same position as everyone else; sometimes I think they are and sometimes that they are not.",
+"kind": "speech"
+},
+{
+"entry": 480,
+"who": "Socrates",
+"text": "Do you know that you and the other politicians are not the only ones who sometimes think excellence is teachable and sometimes that it is not, and that the poet, Theognis, also says the same thing?",
+"kind": "speech"
+},
+{
+"entry": 481,
+"who": "Meno",
+"text": "In what poem?",
+"kind": "speech"
+},
+{
+"entry": 482,
+"who": "Socrates",
+"text": "In the elegiacs where he says, “Eat and drink with men of great power. / Sit with them and please them too. / For you will learn good from the good. / But if you consort with the bad, / You will lose even the intelligence you have.” Do you notice that in these lines he speaks as though excellence is teachable?",
+"kind": "speech"
+},
+{
+"entry": 483,
+"who": "Meno",
+"text": "Apparently so.",
+"kind": "speech"
+},
+{
+"entry": 484,
+"who": "Socrates",
+"text": "But in other lines he changes his view somewhat. “If,” says he, “intelligence could be generated, and instilled in a man,” he says, I believe, that those who had the ability to do so “would gather large rewards aplenty”, and “Never would a good father produce a bad son, once he was persuaded by the words of the wise. But you will never make the bad man good by teaching him.” Do you recognise that he says the opposite this time, on the same issues?",
+"kind": "speech"
+},
+{
+"entry": 485,
+"who": "Meno",
+"text": "Apparently so.",
+"kind": "speech"
+},
+{
+"entry": 486,
+"who": "Socrates",
+"text": "Well, can you think of any other subject in which those who claim to be teachers are neither recognised as teachers of other people, nor indeed as being knowledgeable themselves, but are recognised as badly off when it comes to the very subject of which they claim to be teachers; while on the other hand, those who are themselves recognised as noble and good, sometimes claim that the subject is teachable and sometimes that it is not? Would you say that people in such confusion over an issue could be teachers in the strict sense of the word?",
+"kind": "speech"
+},
+{
+"entry": 487,
+"who": "Meno",
+"text": "By Zeus, I would not.",
+"kind": "speech"
+},
+{
+"entry": 488,
+"who": "Socrates",
+"text": "Well, if neither the sophists nor the good and noble people themselves are teachers of the subject, is it obvious that there would be no other teachers?",
+"kind": "speech"
+},
+{
+"entry": 489,
+"who": "Meno",
+"text": "Yes, I think so.",
+"kind": "speech"
+},
+{
+"entry": 490,
+"who": "Socrates",
+"text": "And if there are no teachers, there are no pupils either?",
+"kind": "speech"
+},
+{
+"entry": 491,
+"who": "Meno",
+"text": "I think the situation is as you describe it.",
+"kind": "speech"
+},
+{
+"entry": 492,
+"who": "Socrates",
+"text": "But we have agreed that a subject that has neither teachers nor pupils is not teachable?",
+"kind": "speech"
+},
+{
+"entry": 493,
+"who": "Meno",
+"text": "We have agreed.",
+"kind": "speech"
+},
+{
+"entry": 494,
+"who": "Socrates",
+"text": "Now, apparently, there are no teachers of excellence anywhere?",
+"kind": "speech"
+},
+{
+"entry": 495,
+"who": "Meno",
+"text": "This is so.",
+"kind": "speech"
+},
+{
+"entry": 496,
+"who": "Socrates",
+"text": "And if there are no teachers, there are no pupils either?",
+"kind": "speech"
+},
+{
+"entry": 497,
+"who": "Meno",
+"text": "It appears that this is so.",
+"kind": "speech"
+},
+{
+"entry": 498,
+"who": "Socrates",
+"text": "So excellence would not be teachable?",
+"kind": "speech"
+},
+{
+"entry": 499,
+"who": "Meno",
+"text": "It seems not, if, in fact, we have considered this in the correct manner. So I really wonder, Socrates, are there any good men at all, and by what process do good people become good?",
+"kind": "speech"
+},
+{
+"entry": 500,
+"who": "Socrates",
+"text": "I fear, Meno, that you and I are both mediocre fellows and that you have not been competently educated by Gorgias, nor I by Prodicus. So we should turn our attention to ourselves most of all and seek out someone who will make us better in one way or another. I say this in view of the previous enquiry, where we, quite ridiculously, overlooked the fact that it is not only under the guidance of knowledge that people conduct their affairs in a correct and competent manner. And that is probably why the understanding of the precise manner in which good men arise is escaping us too.",
+"kind": "speech"
+},
+{
+"entry": 501,
+"who": "Meno",
+"text": "What do you mean by this, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 502,
+"who": "Socrates",
+"text": "As follows. Good men must be beneficent, we were right to agree that this must be the case, weren’t we?",
+"kind": "speech"
+},
+{
+"entry": 503,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 504,
+"who": "Socrates",
+"text": "And were we perhaps also right to agree that they will be beneficent, if they guide our affairs aright?",
+"kind": "speech"
+},
+{
+"entry": 505,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 506,
+"who": "Socrates",
+"text": "But it looks as if we were not right to agree that someone who does not have understanding is unable to guide us aright.",
+"kind": "speech"
+},
+{
+"entry": 507,
+"who": "Meno",
+"text": "What do you mean?",
+"kind": "speech"
+},
+{
+"entry": 508,
+"who": "Socrates",
+"text": "I will tell you. If someone who knew the way to Larissa, or anywhere else you like, were to go there and act as a guide to others, wouldn’t he guide them rightly and in a competent manner?",
+"kind": "speech"
+},
+{
+"entry": 509,
+"who": "Meno",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 510,
+"who": "Socrates",
+"text": "But what if someone had a right opinion as to what the way is, but had never gone there, nor did he possess the knowledge, wouldn’t he also guide them aright?",
+"kind": "speech"
+},
+{
+"entry": 511,
+"who": "Meno",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 512,
+"who": "Socrates",
+"text": "And presumably, as long as he has right opinion concerning matters of which the other man has knowledge, he will be no worse a guide than the man who understands the matter, because what he thinks is true, even though he does not have understanding.",
+"kind": "speech"
+},
+{
+"entry": 513,
+"who": "Meno",
+"text": "No worse, indeed.",
+"kind": "speech"
+},
+{
+"entry": 514,
+"who": "Socrates",
+"text": "So when it comes to rightness of action, true opinion is no worse a guide than understanding. And this is what we omitted just now in considering the sort of thing that excellence is. We said that understanding alone guides us in acting aright, whereas, in fact, there was also true opinion.",
+"kind": "speech"
+},
+{
+"entry": 515,
+"who": "Meno",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 516,
+"who": "Socrates",
+"text": "So, right opinion is of no less benefit than knowledge.",
+"kind": "speech"
+},
+{
+"entry": 517,
+"who": "Meno",
+"text": "To a certain extent, Socrates, but the person who has knowledge would always succeed, while the person with right opinion would sometimes succeed and sometimes not.",
+"kind": "speech"
+},
+{
+"entry": 518,
+"who": "Socrates",
+"text": "What do you mean? Wouldn’t someone who always has right opinion always succeed, as long as he forms right opinions?",
+"kind": "speech"
+},
+{
+"entry": 519,
+"who": "Meno",
+"text": "Apparently he must, so I wonder, Socrates, in that case, why exactly knowledge is regarded as much more valuable than right opinion, and in what respect they differ from one another?",
+"kind": "speech"
+},
+{
+"entry": 520,
+"who": "Socrates",
+"text": "Do you know why you are wondering, or should I tell you?",
+"kind": "speech"
+},
+{
+"entry": 521,
+"who": "Meno",
+"text": "You really should tell me.",
+"kind": "speech"
+},
+{
+"entry": 522,
+"who": "Socrates",
+"text": "It is because you have not paid attention to the statues of Daedalus, but perhaps where you come from there are none.",
+"kind": "speech"
+},
+{
+"entry": 523,
+"who": "Meno",
+"text": "What are you getting at, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 524,
+"who": "Socrates",
+"text": "That these too, if they have not been tied down, take flight and run away, yet once they have been tied down, they stay in place.",
+"kind": "speech"
+},
+{
+"entry": 525,
+"who": "Meno",
+"text": "So what?",
+"kind": "speech"
+},
+{
+"entry": 526,
+"who": "Socrates",
+"text": "To acquire one of this man’s creations when it has been let loose is of no great value. It is just like acquiring a runaway slave: it does not stay in place. But once it has been tied down it is very valuable, for his works are extremely beautiful. Now, what have I in mind when I refer to these statues? I am thinking of true opinions. For true opinions, too, are a worthy possession for as long as they remain with us and everything they accomplish is good, yet they are not inclined to stay in place for long; rather, they run away out of a person’s soul, and so they are not very valuable until the person ties them down by working out the cause. And this, my friend Meno, as we agreed earlier, is recollection. Once they have been tied down, they become knowledge and are stable. And that is why knowledge is valued more highly than right opinion, and knowledge differs from right opinion in being tied down.",
+"kind": "speech"
+},
+{
+"entry": 527,
+"who": "Meno",
+"text": "Yes, by Zeus, Socrates, it seems to be something of this sort.",
+"kind": "speech"
+},
+{
+"entry": 528,
+"who": "Socrates",
+"text": "And yet, I too am speaking as someone who does not know, someone who is making conjectures. But I do not think I am merely conjecturing that right opinion and knowledge are different; rather, if indeed I were to claim to know anything, and there is little I would claim, this is one thing I would include among things that I know.",
+"kind": "speech"
+},
+{
+"entry": 529,
+"who": "Meno",
+"text": "And rightly you say so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 530,
+"who": "Socrates",
+"text": "What about this? Isn’t it right to say that true opinion is no less effective than knowledge in guiding the performance of each activity?",
+"kind": "speech"
+},
+{
+"entry": 531,
+"who": "Meno",
+"text": "Yes, I think that is also true, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 532,
+"who": "Socrates",
+"text": "So, right opinion will not be at all inferior to knowledge or less beneficial to our activities, nor will a man who has right opinion be less beneficent than a man with knowledge.",
+"kind": "speech"
+},
+{
+"entry": 533,
+"who": "Meno",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 534,
+"who": "Socrates",
+"text": "And, indeed, we agreed that the good man is beneficent.",
+"kind": "speech"
+},
+{
+"entry": 535,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 536,
+"who": "Socrates",
+"text": "Well then, since it is not because of knowledge alone that men are good and beneficent to their cities, if they are, but also because of right opinion, and since neither of these, neither knowledge nor right opinion, belongs to people by nature... Or do you think either of them is present by nature?",
+"kind": "speech"
+},
+{
+"entry": 537,
+"who": "Meno",
+"text": "I do not.",
+"kind": "speech"
+},
+{
+"entry": 538,
+"who": "Socrates",
+"text": "Well, since these are not present by nature, neither would the good be good by nature.",
+"kind": "speech"
+},
+{
+"entry": 539,
+"who": "Meno",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 540,
+"who": "Socrates",
+"text": "And since they are not good by nature, we went on to consider whether excellence is teachable.",
+"kind": "speech"
+},
+{
+"entry": 541,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 542,
+"who": "Socrates",
+"text": "Didn’t it seem that if excellence is understanding, it is teachable?",
+"kind": "speech"
+},
+{
+"entry": 543,
+"who": "Meno",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 544,
+"who": "Socrates",
+"text": "And if there were any teachers it would be teachable, and if there were none it would not be teachable?",
+"kind": "speech"
+},
+{
+"entry": 545,
+"who": "Meno",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 546,
+"who": "Socrates",
+"text": "But then have we agreed that there are no teachers of excellence?",
+"kind": "speech"
+},
+{
+"entry": 547,
+"who": "Meno",
+"text": "We have.",
+"kind": "speech"
+},
+{
+"entry": 548,
+"who": "Socrates",
+"text": "So, have we agreed that it is not teachable, nor is it understanding?",
+"kind": "speech"
+},
+{
+"entry": 549,
+"who": "Meno",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 550,
+"who": "Socrates",
+"text": "But do we agree that it is good?",
+"kind": "speech"
+},
+{
+"entry": 551,
+"who": "Meno",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 552,
+"who": "Socrates",
+"text": "And that whatever guides us aright is beneficial and good?",
+"kind": "speech"
+},
+{
+"entry": 553,
+"who": "Meno",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 554,
+"who": "Socrates",
+"text": "And that these two alone, true opinion and knowledge, guide us aright, and the person who possesses them guides aright. For whatever unfolds aright due to chance does not happen through human guidance. But whatever is guided aright by man is really guided by these two, true opinion and knowledge.",
+"kind": "speech"
+},
+{
+"entry": 555,
+"who": "Meno",
+"text": "I think this is so.",
+"kind": "speech"
+},
+{
+"entry": 556,
+"who": "Socrates",
+"text": "In that case, since excellence is not teachable, can excellence still be knowledge?",
+"kind": "speech"
+},
+{
+"entry": 557,
+"who": "Meno",
+"text": "Apparently not.",
+"kind": "speech"
+},
+{
+"entry": 558,
+"who": "Socrates",
+"text": "So, one of the two things that are good and beneficial has been ruled out, and knowledge would not be our guide in political activity.",
+"kind": "speech"
+},
+{
+"entry": 559,
+"who": "Meno",
+"text": "I think not.",
+"kind": "speech"
+},
+{
+"entry": 560,
+"who": "Socrates",
+"text": "So, men such as Themistocles and people like him, and those whom Anytus here mentioned earlier, do not guide their cities by means of any wisdom or by being wise. That is also why they are unable to turn others into men like themselves. It is because they are not the sort of men they are on account of knowledge.",
+"kind": "speech"
+},
+{
+"entry": 561,
+"who": "Meno",
+"text": "That is probably how matters stand, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 562,
+"who": "Socrates",
+"text": "Well, if this does not happen by means of knowledge, then what is left is sound opinion. Through recourse to this the statesmen regulate their cities, being no better off than soothsayers and prophets when it comes to knowledge. For these people too speak many and true things whilst divinely inspired, but they have no knowledge of what they are saying.",
+"kind": "speech"
+},
+{
+"entry": 563,
+"who": "Meno",
+"text": "It looks as if this is so.",
+"kind": "speech"
+},
+{
+"entry": 564,
+"who": "Socrates",
+"text": "In that case, Meno, don’t these men deserve to be called divine, when they successfully accomplish so much that is so important, in their deeds and in their words, without possessing reason?",
+"kind": "speech"
+},
+{
+"entry": 565,
+"who": "Meno",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 566,
+"who": "Socrates",
+"text": "So we would be right to refer to the prophets and soothsayers, whom we just mentioned, as divine, and all the poets too. And we would declare that the statesmen too are no less divine and divinely inspired than these, being inspired and possessed by the god whenever they achieve success when speaking on so many important issues, knowing nothing about what they are speaking of.",
+"kind": "speech"
+},
+{
+"entry": 567,
+"who": "Meno",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 568,
+"who": "Socrates",
+"text": "And the women too, doubtless, refer to good men as divine, Meno, and whenever the Spartans praise some good man, they say “this man is divine”.",
+"kind": "speech"
+},
+{
+"entry": 569,
+"who": "Meno",
+"text": "And they appear to be speaking correctly, Socrates, although Anytus here will perhaps be annoyed with you for saying this.",
+"kind": "speech"
+},
+{
+"entry": 570,
+"who": "Socrates",
+"text": "That does not concern me; we shall converse with him some other time. But now, if we have enquired and spoken properly throughout this entire discussion, excellence would not be natural, nor could it be taught; rather, it would come to those who receive it as a divine portion, without reason, unless there were among our statesmen someone capable of turning another person into a statesman. And if there were such a person, he might almost be described among the living as Homer describes Teiresias among the dead, when he says of him “He alone, of those in Hades, is conscious. / While the others are flitting shadows.” In the same way, here among us, such a person would also be true substance, alongside shadows, when it came to excellence.",
+"kind": "speech"
+},
+{
+"entry": 571,
+"who": "Meno",
+"text": "I think you have expressed that beautifully, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 572,
+"who": "Socrates",
+"text": "Well then, Meno, based upon this reasoning, it appears to us that excellence accrues to those who receive it as a divine portion. However, we shall know this with clarity when we first set about investigating what precisely excellence is in itself, before considering the manner in which excellence accrues to people. But it is now time for me to go somewhere else, and you should also convince your friend Anytus here of the very same things you yourself have been persuaded of so that he may be more gentle. For if you do persuade him, you will do a service to the people of Athens too.",
+"kind": "speech"
+}
+]
+}
+]
+}

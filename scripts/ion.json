@@ -1,0 +1,1037 @@
+{
+"key": "ion",
+"title": "Ion",
+"parts": [
+{
+"name": "Ion",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "Greetings Ion, from where are you visiting us today? From your home in Ephesus?",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Ion",
+"text": "Not at all, Socrates. No, I have come from the festival of Asclepius at Epidaurus.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "Oh, have the Epidaurians also instituted a contest for rhapsodes in honour of the god?",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Ion",
+"text": "They have indeed, and for music and poetry in general.",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "Well then, did you compete for us? How did you get on?",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Ion",
+"text": "We came away with first prize, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "That is good to hear. Make sure that we win at the Panathenaea too.",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Ion",
+"text": "That will happen, God willing.",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "And indeed, Ion, I have often been envious of the skill of you rhapsodes. For it is always appropriate to this profession of yours that you are dressed up and look as beautiful as you possibly can. And again, we envy the fact that you need to occupy your time with various poets, lots of them, good ones too, and especially with Homer, the best and most divine of them all, and thoroughly understand his thought and not his words alone. For no one could ever be a good rhapsode unless he understood the sayings of the poet. Indeed, the rhapsode must act for the audience as an interpreter of the thought of the poet, and it is impossible to do this properly without knowing what the poet means. And all this is enviable.",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Ion",
+"text": "That’s true, Socrates. Yes, for me this constitutes the main function of my skill. Indeed, I believe that I discourse on Homer more beautifully than anyone else. And I think neither Metrodorus of Lampsacus, nor Stesimbrotos of Thasos, nor Glaucon, nor anyone else that was ever born has had so many beautiful reflections to offer on Homer as I have.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "Well said, Ion. Yes, you obviously won’t begrudge me a demonstration.",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Ion",
+"text": "Yes indeed, Socrates, it is well worth hearing how nicely I have embellished Homer. I believe I deserve to be crowned with a wreath of gold by the Homerids.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "And I shall indeed make time to listen to you some time, but for now please answer this question for me. Are you an expert only on Homer, or on Hesiod and Archilochus too?",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Ion",
+"text": "Not at all, Socrates, only on Homer. I think that is enough.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "And is there anything about which both Homer and Hesiod say the same things?",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Ion",
+"text": "Yes, I think there are many.",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "Now, would you better interpret what Homer says about such matters than what Hesiod says?",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Ion",
+"text": "Well, Socrates, on matters where they say the same things, it would make no difference.",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "What about matters where they do not say the same things? For example, both Homer and Hesiod have something to say about prophecy.",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Ion",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "Well then, would you yourself or one of the good prophets better explain the extent to which these two poets agree about prophecy, and the extent to which they differ?",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Ion",
+"text": "One of the prophets.",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "But if you were a prophet, if you were indeed able to explain what they agree about, wouldn’t you know also how to explain what they differ about?",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Ion",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "So, on what precisely are you an expert in relation to Homer, but not in relation either to Hesiod or the other poets? Or does Homer speak on some matters that are different from what all the other poets speak of? Doesn’t Homer give accounts of warfare and the dealings with one another of good people and bad, private citizens and craftsmen, and how the gods deal with one another and with humanity, what happens in heaven and in Hades, and the births of gods and heroes? Are these not the subjects of Homer’s poetry?",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Ion",
+"text": "That’s true, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "What about the other poets? Don’t they write on the same subjects?",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Ion",
+"text": "Yes, Socrates, but they don’t compose like Homer does.",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "I see. Are they worse?",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Ion",
+"text": "Much worse.",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "And is Homer better?",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Ion",
+"text": "Better indeed, by Zeus.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "Well now, dearest Ion, whenever a number of people are speaking about arithmetic and one person speaks better than the others, someone will presumably recognise who the good speaker is?",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Ion",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "Now, will the same person or someone else also recognise the bad speaker?",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Ion",
+"text": "The same person, I presume.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "Wouldn’t that person be someone who is skilled in arithmetic?",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "What about this? Whenever a number of people are speaking about the kind of foods that are healthy, and one person speaks best, will a different person or the same person recognise that the best speaker speaks best and that the worse speaker speaks worse?",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Ion",
+"text": "The same person, of course.",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "Who is this person? What is the name for him?",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Ion",
+"text": "A physician.",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "To sum up, then, we are saying that when a number of people are speaking about the same matters, the same person will always recognise both who is speaking well and who is speaking badly. Or if the person does not recognise who is speaking badly, neither will he, of course, recognise who is speaking well on the same matter.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Ion",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "So the same person is an expert in relation to both?",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "Now, you maintain, don’t you, that Homer and the other poets, including Hesiod and Archilochus, speak about the same things but not in the same way; one speaks well, the others not so well.",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Ion",
+"text": "Yes, and what I say is true.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "Therefore, since you recognise who speaks well, you would also recognise that those who speak less well are speaking worse.",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Ion",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "In that case, best of men, we shall not be in error if we say that Ion is as much an expert when speaking about Homer as he is when speaking of the other poets, since he himself agrees that the same person will be an adequate judge of all those who speak about the same matters, and all of the poets write, more or less, about the same things.",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Ion",
+"text": "Well then, Socrates, can you explain why, when someone discusses some other poet, I pay no attention and am unable to contribute anything of note? I simply doze off. But once someone mentions Homer, I am immediately awake, I pay attention and have plenty to say.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "This is not a difficult question, my friend. No, it is obvious to anyone that you lack the ability to speak skilfully and knowledgeably about Homer. For if you were able to speak skilfully about him you would also be able to speak about all the other poets, since poetry is presumably one whole, is it not?",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Ion",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "Now, once someone grasps any other skill as a whole, will the same manner of enquiry apply to all of the other skills? Do you need me to explain what I mean by this, Ion?",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Ion",
+"text": "I do, by Zeus, Socrates. Indeed, I enjoy listening to you wise men.",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "I wish you were speaking the truth, Ion. But it is, I believe, you rhapsodes and actors and those whose poems you recite, who are wise, while I do nothing but speak the truth like any common person. Take the question I just asked you. See how ordinary and commonplace it is. Anyone at all could understand my meaning. Is the enquiry the same once someone has understood a skill as a whole? Let’s come to an understanding by means of an argument. Is there a skill of painting as a whole?",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "And there are, and there have been, many good and not so good painters.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Ion",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "Well, have you ever come across anyone who is an expert in pointing out what Polygnotus, the son of Aglaophon, paints well, and what he does not, while being unable to do so in the case of other painters? Do you know anyone who dozes off, is at a loss, and has nothing to contribute whenever anyone exhibits the works of the other painters, but is wide awake, attentive, with plenty to say when asked to give an opinion on Polygnotus or any other painter you wish, and on that one alone?",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Ion",
+"text": "No, by Zeus. Not at all.",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "What about sculpting? Have you ever come across anyone who is an expert in explaining what’s good about the works of Daedalus, son of Metion, or Epeius, son of Panopeius, or Theodorus, son of Zamion, or any other individual sculptor, but is at a loss, dozes off, and has nothing to say, when faced with the works of the other sculptors?",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Ion",
+"text": "No, by Zeus, I have not come across this either.",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "Then again, in the case of flute-playing, or playing the cithara whilst singing or not singing, or performing as a rhapsode, I am sure you have never come across someone who is an expert in explaining about Olympus or Thamyrus or Orpheus or Phemion, the Ithacan rhapsode, while being at a loss about Ionos of Ephesus, with nothing to contribute in relation to what he performs well or ill.",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Ion",
+"text": "I am unable to argue against you on this, Socrates. But I am aware that I speak more beautifully about Homer than anyone else. I have plenty to say, and everyone agrees that I speak well. But I don’t speak well about the others. So please, look at what this means.",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "I am looking, Ion, and I’m going to show you what this means, in my opinion. Indeed, as I just said, your speaking well about Homer is not a skill you possess but a divine power that moves you, like the power in the stones that Euripides called Magnets and most people call Heraclean. And, indeed, the stone itself not only attracts rings that are made of iron, but also imparts power to the rings themselves so that they in turn are able to do the same thing as the stone, and attract other rings. Sometimes there is a very long chain of iron rings, but these are all suspended by the power derived from that stone. In this way, too, the Muse herself inspires people, and through these inspired people others are also inspired in a connected chain. For all our epic poets, the good ones, deliver all of their beautiful poems, not by skill, but whilst inspired and possessed. The same holds for our good lyric poets. Just as Corybantes are not in their sane mind when they dance, so too do our lyric poets compose their beautiful melodies when they enter into the harmony and rhythm, and are frenzied and possessed like the bacchants who draw honey and milk from the rivers whilst possessed, but not when they are in their sane mind. The soul of our lyric poets does this too, as they themselves confirm. The poets tell us, I believe, that from springs flowing with honey in some gardens and groves of the Muses, they fly like bees gathering melodies and bringing them to us, just as bees do. And what they say is true. For a poet is something light, winged and sacred, unable to compose until inspired, out of their sane mind, with reason no longer present within. But as long as anyone retains possession of this, it is impossible for such a person to compose anything or to engage in prophecy. Now, since it is not by skill but by a divine portion that they compose and have so many beautiful things to say about various matters, as you do about Homer, each of them can only compose in a beautiful manner whatever the Muse impels them to compose. In one case, this will be dithyrambs, and in another it will be encomia or dance songs or epics or iambics, and each of them will be bad at anything else. For they do not speak any of this because of skill, but because of the divine power, since, if in one case they knew how to speak beautifully by means of skill, they would also know how to do so in all other cases too. That is why the god takes reason away from them, using them as his underlings, like prophets and divine seers. This is so that we who hear them may know that the speakers, being devoid of reason, are not the ones making such valuable pronouncements. Rather, the god himself is speaking, making pronouncements to us through these people. A great proof of this argument is the example of Tynnichos of Chalcis, who never composed another work that anyone might deem worthy of mention, but he did compose the hymn that everyone sings, perhaps the most beautiful melody of all, which really is, as he says himself, “an invention of the Muses”. Indeed, I believe that in this case in particular, the god is demonstrating to us beyond doubt that these beautiful compositions are not human productions of mere humans, but are divine compositions of gods. The poets then are nothing more than the gods’ interpreters, possessed by one or other of the gods. To point this out to us, the god deliberately sang this most beautiful song through the least of our poets. Do you think this is true, Ion?",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Ion",
+"text": "Yes, by Zeus, I do indeed. For your words touch my soul, Socrates, and I believe that it is by a divine portion that the good poets interpret for us these pronouncements from the gods.",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "Don’t you rhapsodes, in turn, interpret for us the pronouncements of the poets?",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Ion",
+"text": "That’s true too.",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "Then you are interpreters of interpreters?",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Ion",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "Well, stop there, Ion. Answer the question I’m about to ask you and hide nothing. You do well at reciting epic poems and utterly astonish your audience by singing of Odysseus leaping onto the threshold, revealing himself to the suitors and pouring forth the arrows at his feet, or of Achilles lunging at Hector, or when reciting something piteous about Hecuba or Priam. Now, when you do this, are you in your sane mind or are you outside of yourself? Does your inspired soul believe that you are in the midst of the events you are describing in Ithaca or Troy, or wherever the epics are based?",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Ion",
+"text": "The example you are giving is quite clear, Socrates. I’ll hide nothing from you. Indeed, when I recount something piteous, my eyes fill with tears, and when the story is frightening or awful, the hairs of my head stand on end from fear and my heart pounds.",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "Well then, Ion, are we to say that a person is sane of mind who, adorned in finery and wearing a wreath of gold, laments at sacrifices and festivals although none of his adornments are under threat? Is a person sane of mind who is fearful in front of more than 20,000 friendly people, even though none of them are robbing him or doing him wrong?",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Ion",
+"text": "No, by Zeus, Socrates, not really, to tell you the truth.",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Socrates",
+"text": "Now, are you aware that you rhapsodes also affect most of your audience in these same ways?",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Ion",
+"text": "I know only too well. Yes, every time I look down upon them from the stage they are weeping, looking at me in awe, sharing the astonishment of the tales. In fact, I need to pay close attention to them because if I set them weeping, I’ll be laughing for the money I make, but if I set them laughing, I’ll be weeping for the money I’ve lost.",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Socrates",
+"text": "Now, do you know that the spectator is the last of the rings I spoke of which receive from one another the power that comes from the Heraclean stone? The intermediate ring is yourself, the rhapsode, or actor, and the first ring is the actual poet. But the god, making all of these people dependent on one another for their power, through them, draws the soul of us humans to wherever he wishes. And a vast chain of dancers, teachers and tutors hangs from the side of the rings suspended from the Muse, just as they do from that original stone. One poet hangs upon one Muse, another poet upon another Muse, and we use the phrase “he is possessed”, and this is well-nigh the case because he is ‘held’. And from these initial rings (the poets), others in turn are hanging and are inspired from another, some from Orpheus and others from Musaeus, but most are held and inspired by Homer. You, Ion, are one of those. You are possessed by Homer, and once any other poet is recited you fall asleep and have nothing to say. But once some strain of this poet is uttered you are immediately awake, your soul dances, and you have plenty to say. This is because you don’t say what you say about Homer due to skill or knowledge, but due to possession and a divine portion. You are just like the Corybantes who are keenly aware only of the particular melody of the god who possesses them, and are well equipped with gestures and phrases for that melody, but pay no heed to the others. And, Ion, you asked me to explain why you have so much to say about Homer but not about the others. Well, this is because you are an expert advocate of Homer due to a divine portion rather than skill.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Ion",
+"text": "Well said, Socrates. However, I would be surprised if you were to speak well enough to convince me that when I praise Homer, I do so whilst possessed or insane. And I don’t think you would hold this view of me if you were to hear me speaking about Homer.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "And I do want to hear you, but not before you answer the following question for me. Which of the topics dealt with by Homer are you good at speaking about? Surely not about all of them?",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Ion",
+"text": "Mark my words, Socrates, there are no exceptions.",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Socrates",
+"text": "Surely this is not true of the topics referred to by Homer, of which you have no knowledge?",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Ion",
+"text": "What sort of topics does Homer speak of which I know nothing about?",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "Doesn’t Homer, in various places, make many references to skills? For example, about chariot driving. If I can recall the lines, I’ll recite them for you.",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Ion",
+"text": "No, I’ll recite them. I certainly remember them.",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "Then tell me what Nestor says to his son, Antilochus, when advising him to be careful about the turning post during the chariot race in honour of Patroclus.",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Ion",
+"text": "“...and yourself, in the well-polished chariot, lean over / a little to the left of the course, and as for your right horse, whip him / and urge him along, slackening your hands to give him his full rein, / but make your left-hand horse keep hard against the turning-post / so that the hub’s edge of your fashioned wheel will seem to be / touching it, yet take care not really to brush against it...”",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Socrates",
+"text": "That’s enough. Now, Ion, who would better understand whether or not, in these lines, Homer is speaking correctly? A physician or a charioteer?",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Ion",
+"text": "A charioteer, of course.",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "Is this because he possesses that particular skill, or for some other reason?",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Ion",
+"text": "No, it’s because he has the skill.",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Socrates",
+"text": "So, has each of the skills been endowed by the god with the ability to understand some activity? For, presumably, whatever we understand through the skill of steering could not also be understood by medical skill.",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Ion",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "Nor could whatever is understood through medical skill also be understood through the skill of carpentry.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Ion",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Socrates",
+"text": "Isn’t it the case with all skills that whatever we understand by one skill, we could not understand by another? But answer me this first. Do you agree that one skill is different from another?",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "Do you argue, as I do, that whenever there is a knowledge of various things and a knowledge of various other things, I call one knowledge a skill, and the other knowledge a different skill. Is this what you do too?",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "Indeed, if knowledge were somehow a knowledge of the same things, why would we maintain that one knowledge is different from another, when the same things could be known by both? For instance, I understand that these fingers are five in number, and you understand the same thing about them as I do. And if I were to ask you if we both know the same things by the same skill, namely arithmetic, or by a different skill, you would of course maintain that it is by the same skill.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Socrates",
+"text": "Well, you may now answer the question I was about to ask you earlier. Do you think this is so for all skills? Are the same things necessarily understood by the same skill, while whatever is not the same is understood by a different skill? But if the skill is different, must it not also understand different things?",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Ion",
+"text": "Yes, Socrates, that’s what I think.",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "Won’t someone who does not possess a particular skill be unable properly to understand whatever accounts or activities are associated with that skill?",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Ion",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Socrates",
+"text": "Now, in relation to the lines you recited, would you or a charioteer better understand whether or not Homer is speaking correctly?",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Ion",
+"text": "A charioteer.",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Socrates",
+"text": "Presumably because you are a rhapsode, but not a charioteer?",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Socrates",
+"text": "And the skill of a rhapsode is different from that of a charioteer?",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Socrates",
+"text": "So, if it is different, it is also a knowledge of different things.",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Socrates",
+"text": "What about the passage where Homer recounts how Hecamede, Nestor’s concubine, gives the wounded Machaon a posset to drink? He says something like this: “With Pramnian wine, she grated goat’s-milk cheese into it with a bronze / grater, with onion on the side as an appetizer for the drink.” Does it belong to the skill of the physician or the skill of the rhapsode to fully understand aright whether or not Homer is speaking correctly in these lines.",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Ion",
+"text": "The skill of the physician.",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Socrates",
+"text": "What about when Homer says: “She plummeted to the sea floor like a lead weight which, mounted / along the horn of an ox who ranges the fields, goes downward / and takes death with it to the raw-ravening fish.” Should we say that it belongs to the art of the angler rather than of the rhapsode to decide what he is saying and whether he is speaking correctly or incorrectly?",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Ion",
+"text": "The angler of course, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Socrates",
+"text": "Then, consider this. Suppose you, as the questioner, were to ask me, “Well, Socrates, since you are finding in Homer what is appropriate for each of these skills to decide upon, please find out for me also, in the case of the prophet and prophecy, what sort of things are for the prophet to decide upon and appreciate whether Homer has composed well or ill.” Observe how easily and truly I shall reply to you. Indeed, there are numerous instances. For example, in the Odyssey, he recounts that the prophet Theoclymenos, a descendant of Melampos, says to the suitors: “Fortunate fellows, what evil has come upon you? Your heads and faces and / limbs are shrouded in night and darkness; a sound of wailing has broken out, / your cheeks are covered with tears. All the forecourt is huddled with ghosts, / the yard is full of them as they flock down to the underworld and the darkness. / The sun has perished out of the sky, and a foul mist has come over.” And there are many examples in the Iliad too – for example, in the Battle at the Wall, where he says: “As they were urgent to cross a bird sign had appeared to them, / an eagle, flying high and holding to the left of the people / and carrying in its talons a gigantic snake, blood-coloured, / alive still and breathing, it had not forgotten its warcraft / yet, for writhing back it struck the eagle that held it / by chest and neck, so that the eagle let it drop groundward / in pain of the bite and dashed it down in the midst of the battle / and itself, screaming high, winged away down the wind’s blast.” I shall maintain that it belongs to the prophet to consider and judge these passages and their like.",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Ion",
+"text": "What you say is true, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Socrates",
+"text": "And what you are saying is also true, Ion. Come on then, and do for me what I did for you. I selected, from the Odyssey and Iliad, passages that treat of the prophet and of the physician and of the angler. Now, since you have more experience of Homer than I have, Ion, you should select passages that treat of the rhapsode and the rhapsode’s skill, passages that the rhapsode, more so than anyone else, should consider and judge.",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Ion",
+"text": "All of them, Socrates. That’s my answer.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Socrates",
+"text": "All of them, Ion? That’s not your answer, or are you so forgetful? And yet it would be quite inappropriate for a rhapsode to be forgetful.",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Ion",
+"text": "What am I forgetting?",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Socrates",
+"text": "Don’t you remember agreeing that the rhapsode’s skill is different from that of the charioteer?",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Ion",
+"text": "I remember.",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Socrates",
+"text": "Don’t you agree that, being different, it would understand different things?",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Socrates",
+"text": "So, according to your argument, neither the rhapsode nor the rhapsode’s skill will know everything.",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Ion",
+"text": "Perhaps, Socrates, with the exception of such matters as these.",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Socrates",
+"text": "By “such matters as these” do you mean more or less anything that belongs to the other skills? But since it does not know everything, what sort of things will it know?",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Ion",
+"text": "The sort of thing that is appropriate for a man to say, I suppose, or for a woman either, or for a slave or free man, or for a subject or someone in charge.",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Socrates",
+"text": "So, are you saying that a rhapsode will know better than a steersman the sorts of things that are appropriate for a person in charge of a ship to say when at sea in a storm?",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Ion",
+"text": "No, a steersman knows this.",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Socrates",
+"text": "But will the rhapsode know better than the physician what sort of thing is appropriate for someone in charge of the sick to say?",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Ion",
+"text": "He won’t know this either.",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Socrates",
+"text": "But you say that he knows the sort of thing that is appropriate for a slave to say?",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Socrates",
+"text": "Are you saying, for instance, that a rhapsode, rather than a cowherd, will know what sort of things are appropriate for a slave who is a cowherd to say to soothe the cattle when they are wild?",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Ion",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Socrates",
+"text": "Will he know the sort of things that are appropriate for a woman who spins wool to say about the working of wool?",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Ion",
+"text": "No.",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Socrates",
+"text": "Will he know then the sort of things that are appropriate for a man who is a general to say to his soldiers when exhorting them?",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Ion",
+"text": "Yes, the rhapsode will know that sort of thing.",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Socrates",
+"text": "But why? Is the skill of the rhapsode the skill of the general?",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Ion",
+"text": "Well, I myself would at least know the sorts of things that are appropriate for the general to say.",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Socrates",
+"text": "For you are, perhaps, also skilled as a general, Ion. And indeed, if you happened to be skilled simultaneously in both horsemanship and lyre-playing, you would understand when horses are being handled well or handled badly. But what if I were to ask you, Ion, by what skill you understand that horses are being well handled? Is it by the skill of the horseman or the skill of the lyre player? How would you answer me?",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Ion",
+"text": "By the skill of the horseman. That would be my reply.",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Socrates",
+"text": "Now, if you also recognised those who play the lyre well, you would accept that you do so by means of your skill as a lyre player, not by your skill as a horseman,",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Ion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Socrates",
+"text": "When you understand military matters, are you doing so by means of your skill as a general or as a good rhapsode?",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Ion",
+"text": "I don’t think there is any difference.",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Socrates",
+"text": "How so? You say there is no difference. Are you saying that the rhapsode’s skill and the general’s skill are one, or are they two?",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Ion",
+"text": "In my opinion, they are one.",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Socrates",
+"text": "So, anyone who is a good rhapsode turns out to be a good general too?",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Ion",
+"text": "Very much so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Socrates",
+"text": "Therefore, anyone who happens to be a good general is also a good rhapsode.",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Ion",
+"text": "No, I don’t agree with that.",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Socrates",
+"text": "But you do agree that anyone who is a good rhapsode is also a good general?",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Ion",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Socrates",
+"text": "Aren’t you the best rhapsode of all the Greeks?",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Ion",
+"text": "By far, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Socrates",
+"text": "And also the best general of all, Ion?",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Ion",
+"text": "Of that you may be sure, Socrates, and I have learned this from Homer.",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Socrates",
+"text": "Why then, by the gods, Ion, do you go around Greece as a rhapsode and not as a general, when you are both the best rhapsode of all the Greeks and the best general too? Or do you think that the Greeks have a great need for a rhapsode crowned with a wreath of gold, but no need for a general?",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Ion",
+"text": "Well, Socrates, our city is under the rulership and military command of your city and has no need for a general, and neither your people nor the Spartans would choose me as a general because they think that they have enough themselves.",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Socrates",
+"text": "Ion, my good man, you do know Apollodorus of Cyzicus?",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Ion",
+"text": "Who is he?",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Socrates",
+"text": "A man whom the Athenians have often chosen for themselves as a general, even though he is a foreigner. And this city appoints Phanosthenes of Andros and Herakleides of Clazomenae to military command and other positions of authority, proving that they are noteworthy even though they are foreigners. So why would Ion of Ephesus not be chosen as a general, and respected, if he too seems worthy of note? You Ephesians were originally Athenians, were you not, and Ephesus is a city second to none? But in fact, Ion, if your claim to be able to praise Homer with knowledge and expertise is actually true, you are doing me an injustice. You promise me that you have knowledge of the manifold beauties of Homer, and you say that you will demonstrate them. But you deceive me and you fall far short of demonstrating them, and you are not even prepared to explain on what matters you are an expert, even though I have been imploring you for some time. You are much like Proteus, assuming all sorts of forms, turning this way and that, until finally you escape me by appearing in the guise of a general to avoid demonstrating your expertise in the wisdom of Homer. Now, if you have expertise in Homer, then, as I said just now, by promising to give me a demonstration you have deceived me, and you are acting unjustly. However, there is no injustice if you have no expertise but are describing the manifold beauties of the poet possessed, as I said, by a divine portion from Homer, while knowing nothing. So, decide whether you want us to regard you as an unjust man or as divine.",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Ion",
+"text": "There is a big difference Socrates. Indeed, the divine is regarded as better by far.",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Socrates",
+"text": "In that case, Ion, we grant you this better portion – to be divine and not to praise Homer based on some expertise.",
+"kind": "speech"
+}
+]
+}
+]
+}

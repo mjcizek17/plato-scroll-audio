@@ -1,0 +1,365 @@
+{
+"key": "menex",
+"title": "Menexenus",
+"parts": [
+{
+"name": "Menexenus",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "Menexenus, are you coming from the Agora, or from where?",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Menexenus",
+"text": "Yes, from the Agora, Socrates, from the Council Chamber in fact.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "Why exactly were you at the Council Chamber? Or is it obvious that you think you have completed your philosophic education and intend to turn to more important subjects because you believe that you are now up to the task? My wonderful fellow, are you, at your age, turning your hand to exercising authority over us, your elders, so that your house may keep up its tradition of looking after us?",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Menexenus",
+"text": "Socrates, if you allow me to assume public office and advise me to do so, I’ll be eager, but not otherwise. On this occasion, I went to the Council Chamber because I found out that the Council was about to select someone to speak over the war dead. You know, of course, that they are about to arrange their funeral rites.",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "Certainly, but whom did they select?",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Menexenus",
+"text": "No one, they put it off until tomorrow. However, I think that Archinus or Dion will be selected.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "And, indeed, Menexenus, to die in battle seems to be a noble fate in all sorts of ways. For even if someone dies in poverty, he gets a noble and magnificent burial, and he wins praise although he was an ordinary fellow, praise from wise men who do not speak at random but in speeches prepared long before. These people utter their praises so well, speaking of qualities each individual possesses and does not possess, using such splendid verbal embellishments that they enchant our souls as they praise the city in all sorts of ways, the war dead too, and our ancestors who went before us, and, indeed, ourselves who are still alive. And so, Menexenus, I myself, when praised by them, am ennobled by them, and every time I listen, spellbound, I believe there and then that I have become greater, nobler and more exalted.",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "And it often happens that some foreigners are regularly present along with me as part of the audience, and suddenly I become more exalted in their eyes. And, indeed, these people seem to be affected in the same way, both in relation to myself, and to the city in general which they believe to be more wonderful than they previously thought it to be, because they are won over by the speaker. This feeling of exaltation remains with me for three days or more, so deeply does the stream of speech and sound from the speaker sink in through my ears. Only with difficulty, in four or five days, do I remember myself and realise that I am here on earth. Until then I just imagine that I am dwelling on the Isles of the Blest, so accomplished are these rhetoricians of ours.",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Menexenus",
+"text": "Socrates, you are always mocking the rhetoricians. However, on this occasion, I think that whoever is selected won’t be well prepared since the selection has been left very late, and so the speaker will probably be compelled, more or less, to improvise their speech.",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Socrates",
+"text": "How could that be so, my good friend? Each of these fellows has speeches already prepared, and, what’s more, it is not difficult to improvise such speeches either. Indeed, if someone had to speak well of Athenians before an audience of Peloponnesians, or of Peloponnesians before Athenians, a good rhetorician would be required who could be persuasive and well respected. But when performing before the very people he is praising, it is no great achievement to seem to speak well.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Menexenus",
+"text": "You think not, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "Indeed not, by Zeus.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Menexenus",
+"text": "Do you think that you yourself could deliver the speech if required, and if the Council selected you?",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "Well, Menexenus, it would be no surprise if I too were able to deliver the speech. I happen to have a teacher of rhetoric who is far from ordinary. In fact, she has produced many a good rhetorician, including one, Pericles, the son of Xanthippus, who surpasses all other Greeks.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Menexenus",
+"text": "Who is she? Or are you obviously referring to Aspasia?",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "Yes I am, and to Connus, the son of Metrobius. For these are my two teachers, he of music, she of rhetoric. It is hardly surprising then that a man, trained in this way, is an accomplished speaker. But even a person who had been less well educated than me, having been taught music by Lamprus or rhetoric by Antiphon of Rhamnous, even he could be well respected when praising Athenians before an audience of Athenians.",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Menexenus",
+"text": "And what would you have to say if you were required to speak?",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Socrates",
+"text": "Although I probably have nothing of my own to say, I listened yesterday to Aspasia rehearsing a funeral oration about these very people. She had heard what you just reported, that the Athenians are about to select a speaker. So she went through a speech for me as it should be delivered, partly improvised, partly prepared in advance by cobbling together various parts left over from when she, as I believe, composed the funeral oration that Pericles delivered.",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Menexenus",
+"text": "Can you actually remember what Aspasia said?",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Socrates",
+"text": "Yes, unless I am mistaken. I learned the speech from her at any rate, and I was lucky to escape being beaten when my memory failed me.",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Menexenus",
+"text": "So why don’t you run through it?",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "In case my teacher gets angry with me for making her speech public.",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Menexenus",
+"text": "No fear of that, Socrates, but speak on and you will please me greatly whether you choose to recite Aspasia’s speech or someone else’s. Just speak.",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "But perhaps you will laugh at me if you think I am still playing games in my old age.",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Menexenus",
+"text": "Not at all, Socrates, just speak anyway.",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "But, of course, you deserve to be gratified, and even if you were to call upon me to undress and dance, I would gratify you since we are alone. So listen, for she spoke, I believe, initially of the dead themselves in the following way.",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "“By our actions, these men have received all that they themselves deserve, possessed of which they proceed on that fated procession, accompanied in community by the city, and in private by their families. But the law also ordains that one remaining honour be bestowed upon them in words, and that’s what is now required. For, by a well-delivered speech, remembrance and honour are assured to those who perform noble deeds, from all who hear of them. What is needed then is a speech that will give sufficient praise to the dead, while gently exhorting the living by calling upon their offspring and brothers to imitate the excellence of such people, and by consoling their mothers and fathers or any of their remaining ancestors who are still alive.",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "“So what sort of speech might portray this for us? Where might we rightly begin our praise of such good men who, whilst living, gladdened their compatriots by their excellence, and, in death, purchased the salvation of the living? I believe we should praise these men in accord with nature and the manner in which they became good. They became good because of their birth from good parents. So we should first praise their noble origins, and then their upbringing and education. After that we shall display the catalogue of their deeds and show how noble these were, and how worthy of their lineage. Their ancestry was primarily responsible for their noble birth. Their descent was not from outsiders, nor did their lineage turn such descendants into mere settlers in this land, mere arrivals from elsewhere. They were, rather, sprung from the very land itself, inhabiting their true fatherland, living there, being reared not by a stepmother like other peoples, but by their own mother; this land in which they dwelt and under which they now lie in death in familiar regions of the land that bore them, nurtured them, and has now received them back again. But it is only right to begin by honouring the mother herself, for in this way it follows that we honour the noble birth of these men at the same time.",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "“Our land is worthy of praise not just by ourselves but by all peoples for all sorts of reasons, but first and foremost because it happens to be beloved of the gods. Proof of our assertion lies in the disputation of the gods about this land, and the associated judgement. And surely it is only right that all of us humans should praise the land that the gods praise? The second basis for deserved praise of our land would be that in an age in which the entire earth was productive and brought forth a vast variety of creatures, wild and tame, our land proved to be undefiled, producing no wild animals, but of all creatures it chose to give birth to the human being, who exceeds all others in understanding and who alone believes in justice and the gods. Strong evidence for this assertion lies in the fact that the land has given birth to the ancestors of these people, and to ours too. For anything that gives birth possesses the nutriment needed by its offspring, and by this fact we can see whether a woman is the true birth mother or just a foster mother who lacks the fount of nutriment for the offspring. And our land, our mother, provides evidence enough that she brought forth us humans, for at the time she alone was first to bear human nutriment, food consisting of wheat and barley by which the human race is best and most excellently nourished, proving that she really did bring forth this living being. And it is best to accept evidence of this sort as applicable more to the land than to woman, for in conceiving and giving birth, earth does not imitate woman; no, woman imitates earth. But she did not begrudge this food; rather, she also apportioned it to others. After this she brought forth the olive for her children to help them in their travails. And having nurtured and reared them to adulthood, she brought in gods as their rulers and teachers, whose names we already know, so we should leave these aside for now. The gods equipped us for life by educating us first in skills for use in our daily lives, and also for the defence of our country by teaching us the acquisition and use of arms.",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "“Having been born and educated in this way, the ancestors of these people lived under a civic arrangement, which they framed for themselves and merits a brief mention now. For a civic arrangement is a nurturer of humanity, a good one of good people, a bad one of bad people. So it is necessary to show that our ancestors were nurtured under a good civic arrangement because of which they were good people, as are the present generation, including the fallen who lie here before us. For this civic arrangement was then, and is now, the rule of the best, under which we live as citizens today, and for the most part always have done since that past era. One person calls this democracy, another names it as they please, but it is, in truth, aristocracy with popular approval. For although we always have kings, these are sometimes hereditary and sometimes selected. Yet, for the most part, the people hold power in the city, and they devolve power and positions of authority to those deemed best at any time, and no one is excluded from power by weakness or poverty or the obscurity of their ancestry, nor are they preferred for the opposite reasons as happens in other cities. There is but one criterion, that whoever is regarded as wise and good exercises power and authority.",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "“Equality of birth is responsible for our civic arrangement. Other cities are constituted from people of all sorts who are not equal, so that their civic arrangements, which are tyrannies and oligarchies, are also unequal. Their inhabitants regard one another in some cases as slaves, in other cases as masters, while we and our kindred, all brothers born of the same mother, do not expect to be slaves or masters of one another. Our natural equality of birth compels us to seek equality under the law, lawfully, and to yield to one another in nothing except a reputation for excellence and wisdom.",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Socrates",
+"text": "“As a consequence, the fathers of these people, our fathers too, and the people themselves, all of noble birth, having been reared in total freedom have displayed many noble deeds for all to see, both in private and in public, in the belief that they should fight for freedom with Greeks on behalf of Greeks, and with non-Greeks on behalf of all Greeks. The story of how they defended their own country when Eumolpus and the Amazons and others before that waged war against it, and how they defended the Argives against the Cadmeans, and the Heraclids against the Argives, deserves more time to recount. But their excellence has already been well hymned in verse by the poets and proclaimed to all. So, if we were to attempt to do justice to these same exploits in plain prose, we would probably appear second-rate. That’s why I think we should leave them aside, since they have received the praise they deserve. But there are other deeds which still lie forgotten, for which no poet has yet received a reputation worthy of these worthy themes. These, I believe, should be mentioned, praising them and drawing out subjects for others to set down in odes and poetry in general, in a manner worthy of those who performed the deeds.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "“The first of these occurred when the Persians were in control of Asia and were in the process of enslaving Europe. The children of this land – our parents – withstood them, and it is right and necessary to mention them first and praise their excellence. Now, if anyone is to praise this well, they need to look at it having gone back in time, mentally, to that era when all Asia was already enslaved by the third king. The first of these kings was Cyrus who liberated the Persians, his fellow countrymen, by his own determination. At the same time, he also enslaved the despotic Medes and ruled over the rest of Asia as far as Egypt. His son ruled Egypt, and Libya too, as far as he was able to advance. The third king, Darius, with his land forces, set their boundary as far away as Scythia, and dominated the seas and the islands with his navy so that no one even thought of opposing him. All peoples were mentally enslaved because the Persian Empire had enslaved so many great military nations.",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Socrates",
+"text": "“Darius made an accusation against ourselves and the Eritreans. On the pretext that we had plotted against Sardis, he sent 500,000 men in transport ships and battleships along with 300 ships of war. Datis was in command, and Darius told him to return, bringing the Eritreans and Athenians in captivity if he wished to keep his own head. He sailed to Eritrea against men who were among the most famous of the Greeks in warfare at the time, and whose numbers were not small. These he overpowered in three days, and he then conducted a search of their entire territory so that no one would escape him. This is how he did it. Having arrived at the borders of Eretria, his soldiers positioned themselves at intervals from sea to sea. They joined hands and went through the entire region so that they would be able to say to their king that no one could have escaped them. With the same intention, they set sail from Eritrea to Marathon, assuming it would be easy for them to subject the Athenians to the same fate as the Eritreans and place them under the yoke of captivity. Although they had implemented their plans, and their attempted enslavement was underway, no fellow Greeks came to the aid of the Eritreans and the Athenians except for the Spartans, who arrived the day after the battle. All the others were terrified, and they kept quiet, prizing their temporary safety. By placing yourself in their situation, you may realise the sort of men these were in terms of excellence, who took on the might of the non-Greeks at Marathon, chastened the pride of all Asia, and were the very first people to erect a victory trophy over the non-Greeks, thus becoming leaders who taught everyone else that the might of the Persians was not invincible, but that numbers and wealth always yield to excellence. So, I declare that these men were not only the fathers of our physical bodies, but also of freedom for ourselves and for all those who dwell on this continent. Indeed, once they beheld this achievement, the Greeks, as pupils of the soldiers of Marathon, were emboldened to run the risks involved in the subsequent battles for the sake of our security.",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "“Now, although we must in our speech grant primacy to these people, second place should go to those who were victorious in the naval battles around Salamis and at Artemisium. There is, of course, much to recount about these men too, and the sorts of onslaughts they endured by land and by sea, and how they defended themselves against these. But I shall also mention what I regard as their supreme achievement, that they completed the next task after the accomplishments at Marathon. For the victors at Marathon only demonstrated to their fellow Greeks that a few of them could defeat many non-Greeks in a land battle. But in a naval battle, the doubt remained, and the Persians were reputed to be invincible by sea because of their numbers, their wealth, their skill and their strength. So of all the achievements of the men who fought the naval battles at the time, what deserves our praise is the fact that they did away with this remaining fear among the Greeks by stopping them from being afraid of large numbers of ships and men. It follows, then, that the rest of the Greeks were educated by the soldiers who fought at Marathon and the sailors who fought at Salamis. They learned the discipline of not fearing the non-Greeks either by land, as taught by one group, or by sea, as taught by the other. But I maintain that, both in rank and in excellence, the action at Plateia for the security of Greece came third, and here at last was a joint endeavour of the Spartans and the Athenians. All these men warded off the greatest and most grievous danger, and we are praising them now for this display of excellence, as will our successors in time to come.",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "“But afterwards, many Greek cities were still aligned with the non-Greeks, and it was reported that the King himself was planning to make another attempt against the Greeks. It is only right, then, for us to mention those who brought the endeavours of their predecessors for our security to a conclusion by clearing out all the non-Greeks and driving them from our waters. These were the sailors who fought at Eurymedon and the soldiers who waged war against Cyprus, and those who sailed to Egypt and lots of other places. These are people we should mention with gratitude because they forced the King, out of fear, to pay attention to his own security rather than plotting the annihilation of the Greeks.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "“Now, this war against the non-Greeks was endured to the very end by our entire city, on our own behalf, and on behalf of all Greek speaking peoples. But when peace had come and our city had won respect, we suffered the fate that tends to befall those who are successful. We were the victims first of a general rivalry, and then of jealousy, which drew this city, against its will, into a war against our fellow Greeks. After this, once the war was underway, whilst fighting for the freedom of the Boeotians, we met with the Spartans at Tanagra, and although the battle was indecisive, the subsequent action did decide the matter, for the Spartans withdrew and departed, deserting the very people they were assisting, while on the third day our army won a victory at Oenophyta and justly brought back the people who had been unjustly expelled. These warriors, then, were the first who, after the Persian war, assisted their fellow Greeks against fellow Greeks in the cause of freedom, proved themselves to be good men who liberated those whom they helped, and having been honoured by the city, were the first to be buried here in this tomb.",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Socrates",
+"text": "“But subsequent to these events there was an extensive war, and all the Greeks marched against us and ravaged our territory, treating this city as it ill deserved. Yet when our troops had defeated them at sea and captured the Spartan leaders at Sphacteria, we could have slaughtered them, but we let them go, sent them back, and made peace, taking the view that we should pursue a war against our fellow Greeks only to the point of victory, and should not do violence to the common fellowship of the Greek peoples because of resentment particular to our own city. However, against non-Greeks, war should, we thought, be pursued to the point of destruction. These men deserve our praise, men who fought in the war and who now lie here, because they proved that if anyone argues that in the previous war – the one against the non-Greeks – any other peoples were superior to the Athenians, that argument is entirely untrue. These men here have proved this by prevailing militarily in the strife amongst the Greeks by getting the better of the leaders of the other Greeks, and by defeating, on their own, the very people alongside whom they had once defeated the non-Greeks.",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "“After the peace, a third war broke out, terrible and unexpected, in which many good men died, men who lie here. Many fell during the Sicilian campaign whilst fighting for the freedom of the Leontinians. Faithful to their oaths, they sailed to those regions, but because of the length of the journey and because our city was in difficulty and unable to support them, they met with misfortune and abandoned the campaign. But their enemies who fought against them had more praise for the sound-mindedness and excellence of these men than other people have for their own friends. Many others fell in the naval battles at the Hellespont, where they captured the entire enemy fleet in a single day and won numerous other victories.",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "“I said that this war was terrible and unexpected. What I meant was that the other Greek cities became so determined to defeat us that they dared to make representations to the hated king, whom they had expelled during their alliance with ourselves. They asked him, on their own account, to come back again, non-Greeks leagued against Greeks, thus gathering the united forces of the Greeks and non-Greeks against our city. Here it was that the strength and excellence of our city shone forth. For they believed that we were already worn down by war, and although our navy was under threat in Mytilene, we sent sixty ships to the rescue. Our citizens manned these themselves and proved themselves beyond dispute to be the very best of men by defeating their enemies and liberating their fellows. But they met with undeserved misfortune when their bodies were not taken from the water to lie before us here. That’s why it is necessary to remember these men and to praise them always, for it was because of their excellence that we were victorious, not alone in that sea battle but also in the rest of the war. Indeed, it was because of them that our city earned the reputation for never being worn down by war, not even if the whole world assails us. And the reputation is a true one, for we were not subjugated by other people but by our own dissensions. We were undefeated by the others, and remain so to this day. We ourselves were the ones who defeated ourselves, we were indeed responsible for our own defeat.",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "“After all this, when calm had returned and we were at peace with the others, a civil war was fought, but in such a way that if strife is indeed the fate of humanity, no one would pray that his own city might suffer this disease in any other way. So readily and familiarly did the citizens of the Piraeus and the mother city consort with one another and, contrary to expectations, with the other Greeks too, so naturally did they settle the war against the forces at Eleusis, that the only explanation for all this is their genuine kinship, producing firm friendship and unity in practice, not in mere words. What’s needed then is to remember those who died at one another’s hands in this war, and to reconcile them through prayers and sacrifices such as these, praying to those who now have power over them, since we too have been reconciled. For it was not through evil that we set upon one another, nor through enmity, but through misfortune. To this do we, the living, bear witness ourselves. For we, being of the same stock as those men, are forgiving towards one another for what we did and what we suffered.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "“After this there was complete peace among us, the city remained quiet, we were forgiving towards the non-Greeks, because although they had suffered badly at our hands, they had nevertheless put up a decent defence. But we were angry with our fellow Greeks, remembering how, despite the good we had done them, they showed their gratitude by aligning with the non-Greeks and depriving us of the very ships that had once saved even themselves, and by dismantling our walls, the very walls we sacrificed to save their walls from falling. Our city came to the view that it would no longer defend other Greek cities when threatened with enslavement, either by Greeks or by non-Greeks, and we stood by that decision. Now, such being our thinking, the Spartans decided that since we, the protectors of freedom, had fallen, now was their opportunity to enslave the others, and they set about doing just that.",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "“But why prolong this? For the next events did not happen to people of old in times long past. Indeed, we ourselves know that the foremost peoples among the Greeks – the Boeotians, Argives and Corinthians – being terror-struck, came to need our city, and miraculously, so too did the King, who was so worried that he turned for salvation to no other city than our city, which he had been so eager to destroy. What’s more, if anyone were to level a justifiable accusation against this city, they could rightly accuse it only of being excessively compassionate and of favouring the weak. And, indeed, it was unable to hold out and stand by its decision not to assist any of those Greeks who had wronged it, if any of them were being enslaved. Rather, it relented, came to their aid, and by assisting them it freed the Greeks from slavery so that they were free until such time as they enslaved one another once more. But it dared not render assistance to the King for fear of bringing shame upon the victory trophies raised at Marathon, Salamis and Plateia. Rather, by allowing only exiles and volunteers to provide assistance, it undoubtedly saved him. Having refortified its walls and rebuilt its navy, it took on the struggle since it was necessary to do so, and fought for the Parians against the Spartans.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Socrates",
+"text": "“But the King was afraid of our city because he had seen the Spartans give up on naval warfare against us. So, because he wanted to withdraw, he demanded, if he was to fight alongside us and the other allies, that we surrender the mainland Greeks whom the Spartans had previously given over to him. He assumed we would be unwilling to grant his request, thus giving him an excuse to withdraw from the alliance. In the case of the others he was mistaken, for they were willing to hand them over to him, and so the Corinthians, Argives, Boeotians, and the other allies swore a covenant to hand over the mainland Greeks if the King would give them money. But we alone dared not hand them over or swear the oath. This shows the nobility of our city and how free, resolute and sound it is, with a natural hatred of the non-Greeks because we are purely Greek, devoid of non-Greek admixture. Indeed, there dwell among us none of the offspring of Pelops, nor of Cadmus or Aegyptus, nor of Danaus, nor of the various other peoples who are non-Greeks by nature but Greeks by convention. But we live as actual Greeks, not half-non-Greeks, and so our city is imbued with a pure hatred of this alien nature. Nevertheless, we stood alone once more because of our reluctance to perform a disgraceful and unholy deed by handing Greeks over to non-Greeks. Now, despite finding ourselves in the same predicament as led to our subjugation previously, we settled the conflict, with God’s help, on better terms than we did before. For we concluded the war retaining our walls, our ships, and our own colonies, so glad too were our enemies to be quit of the conflict. Yet we lost good men in that war, as they dealt with the difficult terrain at Corinth and with treachery at Lechaeum. Good too were the men who freed the King and drove the Spartans from our waters. I am reminding you of them and it is fitting that you too should praise and glorify such men as these.",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "“These, indeed, were the achievements of those men who now lie here, and of the others who died for this city. Many noble deeds have been described, and many more deeds, even more noble than these, remain. Indeed, many days and nights would prove insufficient for anyone who set about recounting all of them. So what is needed is to remember these men, and every one of us should exhort their descendants, as if on the battlefield, never to withdraw from the struggle by yielding to cowardice. And so, O sons of good men, I myself am calling upon you now and hereafter, and wherever I encounter you I shall remind and exhort you to set your hearts upon being the very best of men. At the moment it is only right that I tell you what your fathers, when they were about to face danger, directed us to proclaim to those who are always left behind, in case anything was to happen to them. I will tell you what I heard from the men themselves, and also, based upon what they said then, the sort of things they might like to say to you now if they were able to do so. But you must imagine that you are hearing whatever I proclaim directly from the men themselves. What they said was this:",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "“‘Sons, the present situation itself makes it plain that you were born of good fathers. We who had the opportunity to live without honour, choose rather to die an honourable death before we would draw criticism down upon yourselves and your successors, and bring shame upon our own fathers and our entire ancestry. Indeed, we believe that life is not worth living for anyone who brings shame upon his own, and that such a person is a friend neither of the gods nor of humanity, neither during his life on earth nor beneath the earth in death. So you should remember our words, and if you practise anything else, practise it along with excellence, knowing that in the absence of this all possessions and activities are shameful and base. For neither does wealth bring distinction to someone who has acquired it with cowardice, for such a person is wealthy because of something else and not because of himself, nor does beauty and strength of body appear fitting when these dwell within a base coward; they are not fitting, they make their possessor conspicuous, and they highlight his cowardice. And any knowledge that is sundered from justice and from excellence in general proves to be mere chicanery and not wisdom.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "“‘For all these reasons you should strive in every way, first and last, by all means, to be possessed of the utmost zeal, particularly to exceed ourselves and our predecessors in glory. But mark my words, if you fall short and we triumph over you in excellence, our victory will be a source of shame, but if we lose out to you, our defeat will bring happiness. And we would best be defeated and you would triumph if you were prepared not to trade upon the reputation of your ancestors, nor to waste it, realising that for a man who thinks he amounts to something, there is nothing more disgraceful than to secure honour for himself, not in his own right, but through the reputation of his ancestors. For honours belonging to ancestors are a noble and exalted treasure to the descendants. But to use up a treasury of wealth and honours, and bequeath none to your children because of a deficiency of wealth and reputation of your own, is base and unmanly. And if you practise these precepts, you will join us as friends meeting friends whenever fate and destiny carry you here. But if you heed them not and play the coward, no one here will receive you graciously. So let these words be spoken to our sons.",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "“‘Those of us who have fathers and mothers still living should encourage them to bear the misfortune, should it befall them, as easily as possible, and we should not join in their lamentations, for they will need no additional cause for sorrow. The present misfortune will indeed be enough to provide that. We should rather, with soothing and healing words, remind them that in matters of the greatest importance, their prayers have already been heard by the gods. For they did not pray for their sons to become immortal, but for them to become good and renowned, and they have already succeeded in these great achievements. For a mortal man, everything in his own life does not easily turn out according to plan. And if they bear the misfortunes courageously, they shall be regarded, in truth, as fathers of brave sons, who are just as brave themselves. But if they yield to unmanliness, they shall create the suspicion either that they are not our fathers, or that the people who praise us have been deceived. Neither option is acceptable. They should, rather, praise us most of all with their deeds, thus proving themselves, plainly and truly, to be the fathers of men who are indeed men. For the old saying ‘nothing in excess’ seems to be a good one and well worth quoting. That man is best equipped for life who relies upon himself for everything, or almost everything; that leads to happiness, and does not depend upon other people being compelled, as a consequence, to fare either well or badly in his own affairs as others’ misfortunes fluctuate. This is the sound-minded man, the courageous man, the wise man. Such a man, as wealth and children come and go, will best abide by this maxim, and will, because of his self-reliance, be seen neither rejoicing nor grieving to excess.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "“‘These are the sort of people we ask our own kinfolk to be, such is our wish and our declaration, and we are now presenting ourselves as such, devoid of tribulation or trepidation, even if we should meet with death in the present struggle. So we implore our fathers and mothers to live out their lives with this same attitude, knowing that they will not really please us by singing dirges and lamenting over us. Rather, if the dead have any awareness of the living, they would greatly displease us by behaving in this way, by debasing themselves and bearing their sorrows so heavily. But by bearing them lightly and in due measure, they would greatly delight us. For our lives will, by then, have come to an end in the most noble death that humans can meet with, so it is more important to glorify these than to lament them. But by caring for our wives and children, and nurturing them, thus turning their attention to this world, they might best forget their misfortune and live a life that is better, more upright, and more pleasing to ourselves. That is a sufficient message to relay from us to our kindred, and we could exhort the city to look after our fathers and sons for us, educating the one systematically, while supporting the others in old age as they deserve. But we already know that the city will care adequately for these people, even without our exhortation.’",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Socrates",
+"text": "“These are the words, O children and parents of the fallen, which they directed us to relay and which I am doing my eager best to relay. And I myself, on their behalf, ask their children to imitate these people and ask their parents to be optimistic about themselves because we, both individually and collectively, shall support you in your old age and care for you whenever any of us encounters any of you. And in the case of the city, you know, I presume, the care it exercises, and that it does so by instituting laws concerning the children and forebears of those who have died in war, and that, more than for any other citizens, the very highest authority is commanded to guard against any injustice being done to the fathers or mothers of such people. The city assists in raising their children, being eager that their status as orphans is concealed as much as possible. While they are yet children, it installs itself in the role of father, and once they have come to manhood it sends them forth on their own worldly duties arrayed in battle armour, showing them reminders of their fathers’ pursuits, giving them the instruments of their paternal excellence, and at the same time, for the sake of the omen, reminding them to begin the journey back to the ancestral hearth, there to rule with power, adorned in full armour. The city never fails to honour these fallen men. Every year it performs the traditional rites publicly for all, the very ones that are conducted by each citizen in private. And what’s more, it has instituted athletic and equestrian competitions, and contests in music of all sorts. Indeed, it stands, in general, in the position of son and heir to the departed, acting as a father of their sons and as a guardian of their parents, exercising every care for all of them always. Ponder all this and bear the misfortune more gently, for you will in this way be most pleasing to the living and the dead and will most easily serve others and yourselves. Now that you and all the others have publicly lamented the departed according to custom, you should go on your way.”",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "There you have it, Menexenus, the speech of Aspasia of Miletus.",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Menexenus",
+"text": "By Zeus, Socrates, Aspasia is remarkable according to you, if, being a woman, she is able to compose a speech of this sort.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "Well, if you don’t believe me, come along with me and hear her speaking.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Menexenus",
+"text": "Socrates, I have come across Aspasia many times and I know the sort of woman she is.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "Well then, don’t you admire her and aren’t you grateful to her now for the speech?",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Menexenus",
+"text": "Yes, Socrates, I am very grateful for this speech, to her or to the person, whoever it was, who relayed it to you. And for many reasons, I am grateful to the present speaker.",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "Very well, but please don’t denounce me to her so that I may, on another occasion, relay to you lots of beautiful political speeches of hers.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Menexenus",
+"text": "Rest assured I shan’t denounce you. Just relay the speeches.",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "Yes, you will have your speeches.",
+"kind": "speech"
+}
+]
+}
+]
+}

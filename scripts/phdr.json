@@ -1,0 +1,2639 @@
+{
+"key": "phdr",
+"title": "Phaedrus",
+"parts": [
+{
+"name": "Phaedrus",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "Dear Phaedrus, where are you going to and where are you coming from?",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Phaedrus",
+"text": "I have been with Lysias, the son of Cephalus, and I am going for a walk outside the walls for I have spent a long time sitting with him since early this morning. On the advice of Acumenus, your friend and mine, I take my walks on the open roads, for he says that these walks are more refreshing than those through the streets.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "Indeed, my friend, he is right to say so. Anyway, it seems that Lysias has been in town.",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Phaedrus",
+"text": "Yes, staying with Epicrates, in the house that belonged to Morychus, near the Olympieum.",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "Well then, how did you spend the time? Or is it obvious that Lysias entertained you with speeches?",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Phaedrus",
+"text": "You will find out if you have the time to come along and listen.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "What is this? Don’t you realise that, as Pindar puts it, I shall accord ‘a higher status than any other business’ to hearing how you and Lysias spent your time?",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Phaedrus",
+"text": "In that case, lead on!",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "Please tell me.",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Phaedrus",
+"text": "Very well, Socrates. Anyway, it is appropriate that you hear this. You see, the speech on which we spent our time was, in a certain sense, concerned with love. Yes, in fact, Lysias wrote about some beautiful fellow being tempted, but not by a lover. That was the clever aspect of this, for he says that one should favour a non-lover more than a lover.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "How noble! But I wish he would write that one should favour the poor rather than the rich, or the old rather than the young, and refer to qualities which I and so many others possess. Then the arguments would really be clever and of public benefit. Anyway, I am so enthusiastic to hear you that I will not leave you, even if you take a walk as far as Megara and, like Herodicus, go back once more when you reach the city walls.",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Phaedrus",
+"text": "What are you saying, excellent Socrates? Do you think that I, an amateur, could recall speeches which Lysias, the most formidable writer alive, composed at leisure over a considerable period of time, in a manner worthy of the author? Far from it, and yet that is an ability I always wanted to have more than any amount of gold.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "Oh Phaedrus! If I do not know Phaedrus then I have also forgotten myself. But since neither of these possibilities is the case, I know quite well that when listening to Lysias’ speech he did not hear it only once, rather he asked the speaker to repeat it many times and the speaker obeyed eagerly. But this was not enough for him, and in the end he got his hands on the script and studied whatever interested him most. He sat doing this from early morning, grew tired and went out for a walk, and I believe, by the dog, he had learned the speech by heart, unless it was particularly long. And as he was going outside the wall to rehearse it, he met someone suffering from a love of hearing discourses, and when he saw him he was delighted to have a fellow enthusiast and he bid him ‘lead on’. Yet when this lover of discourses asked him to speak he gave himself airs, as if he was not so keen to speak. But in the end he was going to speak anyway, even if no one was prepared to listen. So, Phaedrus, you should ask him to do now what he will soon do in any case.",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Phaedrus",
+"text": "In truth, the best course by far is for me to speak in the way that I can since I do not think you will ever release me until I speak somehow, in some way.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "Yes, what you are thinking about me is entirely true.",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Phaedrus",
+"text": "Then that is exactly what I shall do. Now, the fact is, Socrates, I certainly have not learned the words by heart. However, I have an understanding of almost all those sections in which he says the lover and the non-lover differ, and I shall give a summary of each aspect in turn, beginning with the first.",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "Yes, dearest, when you have first shown me what exactly you are holding in your left hand underneath your cloak. Indeed, I suspect you have the actual speech. And if that is what it is, then you must appreciate that although I do love you very much, you cannot really expect that I shall allow you to practise on me when Lysias is actually present. So come on, show it to me.",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Phaedrus",
+"text": "Stop! You have robbed me of the hope I had of practising on you. Now, where would you like to sit so that we may read it?",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "Let us turn off here and go along the Ilissus, then we can sit quietly wherever you please.",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Phaedrus",
+"text": "It seems fortunate then that I happen to be barefoot, and you, of course, always are. So, it is very easy for us to walk along in the stream and bathe our feet, not an unpleasant prospect, especially at this time of year and this hour of day.",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "Lead on then, and let us keep our eye out for somewhere we may sit.",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Phaedrus",
+"text": "Well, do you see that lofty plane tree?",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Phaedrus",
+"text": "There is shade there and a moderate breeze and grass to sit upon, or even to lie upon should we so wish.",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "Please lead on.",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Phaedrus",
+"text": "Tell me, Socrates, wasn’t it from somewhere around here that Boreas is said to have snatched Orithyia from the banks of the Ilissus?",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "Yes, that is what they say.",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Phaedrus",
+"text": "Was it from here, then? The brook is delightful anyway, and it looks clean and bright and suitable for maidens to play alongside.",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "No, it was from two or three stades further downstream, at the place where we cross over to Agra, and I think there is an altar to Boreas at the spot.",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Phaedrus",
+"text": "I have never actually noticed it. But by Zeus, tell me Socrates, do you believe that this story is true?",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "Well, if I disbelieved it as the wise men do I would not be unusual. In that case, I would declare sagaciously that Boreas, the north wind, blew her off the nearby rocks as she was playing with Pharmacea, and of course, having died in this way, she was said to have been borne away by Boreas. Or else it was the Areopagus, for they tell another story in which she is snatched away from there and not from here. Now, Phaedrus, I regard such explanations in general as delightful, but they are the province of a very clever, hard-working, not entirely fortunate person, who, because of this account, also needs to correct our understanding of the nature of Centaurs and then of Chimeras. And a host of such creatures floods in – Gorgons, Pegasi, and an unimaginable multitude of other extraordinary legendary animals. If someone who does not believe in these stories tries to make them sound reasonable through recourse to some common-sense wisdom, such a person will be very busy, but I have no time whatsoever for them. I will tell you the reason, my friend. I am not yet able, in the words of the Delphic inscription, to ‘know myself’. In fact, investigating extraneous matters while I am still ignorant of this appears ridiculous to me. So, I bid farewell to these issues. I accept the traditional views about them as I have just explained, and I do not investigate them, but I investigate myself instead. Am I, perchance, some beast more complex and more lustful than Typho, or a gentler and simpler creature endowed by nature with a divine and unpretentious fate? But look, my friend, to interrupt our discussion, isn’t this the tree you were leading us to?",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Phaedrus",
+"text": "Yes, this is it.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "Well, by Hera, this is a really beautiful place to rest. The plane tree itself is so broad and tall. See the height and the glorious close shade of the agnus castus, and how it is in full bloom, filling the place with the finest scent. The most delightful spring beneath the plane tree is flowing with the coolest water, as my foot can testify. And from the statuettes and shrines, it seems the place is sacred to some Nymphs and to Achelous.",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Socrates",
+"text": "And what is more, the airiness of the place is so attractive and intensely pleasant, echoing clear and summer-like with the chorus of the cicadas. Most exquisite of all is the grass, which has grown on a gentle slope, just perfect to rest one’s head on. Dear Phaedrus, what an excellent guide you are!",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Phaedrus",
+"text": "And you prove to be a wonderful and highly unusual person! Yes, from what you are saying, you really seem more like a visitor who is sightseeing than a native. In fact, you never go travelling like this outside our own borders, and I do not think you even go outside the walls at all.",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "Forgive me, my excellent friend. For I am a lover of learning, and the rural haunts and the trees do not of themselves teach me anything, while the people in the city do. However, I think you have discovered the special potion for getting me out. For just as people lead hungry animals by waving a branch or piece of fruit, it turns out that you may also lead me about in this way through Attica, or anywhere else you please, by offering me scrolls of speeches. Well, now that we have arrived here, I think I shall lie down for the moment, and you should adopt any position you think easiest for reading, and then go ahead and read.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Phaedrus",
+"text": "Well, listen.",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Phaedrus",
+"text": "“You know about my affairs, and you have heard how I think it best for us to arrange things, but I do not deserve to fail in my request just because I am not actually your lover, since, in the case of lovers, there is regret for any good they may have done once the desire comes to an end, but in the case of non-lovers, there is no occasion on which it is appropriate for them to change their minds. For they do good based upon their own capacity, not under compulsion but willingly, by deciding what is best for their own private interests. But lovers keep thinking about any harm done to their own interests on account of love, and any good they themselves have done, and once they add any hardship they have sustained into the reckoning, they conclude that their loved ones have received all the favours they deserve a long time ago. But the non-lovers do not have to excuse the neglect of their own affairs on this account, or reckon up the trouble they have taken, or accept any blame for quarrels with relatives. Accordingly, since all such impediments are out of the way, nothing remains but to engage eagerly in actions which he thinks will please them.",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Phaedrus",
+"text": "“And yet it may be argued that lovers deserve great credit for this, since they claim to have the utmost affection for those whom they love, and they are prepared to favour their loved ones in word and in deed and be hated by others in the process. But if lovers are speaking the truth, it is easy to appreciate that anyone they love in the future will be more important to them than their present loved ones, and if the new ones so wish, they will even harm the old ones. Furthermore, how could it be reasonable to entrust this sort of thing to someone possessed of such an affliction as this, an affliction that no experienced person would ever attempt to prevent. And, indeed, they themselves accept that they are more sick than sound-minded, and that they realise that their thinking is disordered, but are unable to control themselves. So, once lovers return to their right mind, how could they regard as sound any decisions which were made under such circumstances? What is more, if you were to choose the best from amongst your lovers, your selection would be drawn from a small number, but if on the other hand you were to choose the most suitable from among all the others, you would be choosing from a greater number, where you would have much more hope of encountering someone worthy of your affections.",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Phaedrus",
+"text": "“Again, perhaps you are afraid of established convention, afraid that you will be found out by people and incur disgrace. Yet the likelihood is that lovers, believing that they are just as well regarded by others as they are by themselves, will feel an urge to speak out, and with an eye to their reputation proclaim to everyone that their efforts have not been for nothing. However, the non-lovers, as they are in control of themselves, are likely to choose the best course, rather than reputation in the eyes of their fellow men. But again, in the case of the lovers, most people must see or hear of them following their loved ones, and making quite a business of doing so. Consequently, whenever they are seen conversing with one another, it is assumed that they are getting together about a current or impending flirtation. But in the case of non-lovers, no one ever tries to criticise them because they get together, since they realise that it is necessary to talk to someone, either on account of friendship or some other enjoyment. What is more, suppose you became alarmed, thinking that it is difficult for a friendship to endure, and while a falling-out under other circumstances brings misfortune which is shared by both parties, the harm you suffer is enormous when you give away what is most important to you. In that situation it would be reasonable to be more afraid of your lovers, for their afflictions are many, and they think everything that happens is directed at harming them.",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Phaedrus",
+"text": "“On account of this, they also discourage the loved ones from meeting with other people, fearing those who have money in case they might surpass them in wealth, and fearing those who are educated in case they might prove superior in intelligence, and they are also wary of the power of anyone else who possesses any other advantage. Now, once they have persuaded you to incur the enmity of those people, the lovers leave you bereft of friends, and if you show more intelligence than they do by looking to your own interest, you will find yourself at odds with them. Yet those who are not lovers but have attained what they wanted on account of excellence, would not be envious of these associates of yours. Instead, those who are not in love would detest those who refuse you, realising that you are being slighted by these fellows and benefited by your associates, and in consequence, they will have a much greater hope of friendship from the affair than enmity.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Phaedrus",
+"text": "“What is more, most lovers develop a desire for the body first, before they have come to know your character or your other personal qualities, so that it is not clear whether they will still want to be friends with you once the passion has abated. Whereas, in the case of those who are not lovers but were friends with one another before all this took place, the friendship is not likely to be diminished by any of their pleasant experiences, but these are likely to be left as memorials for what is about to unfold. What is more, it better becomes you to be persuaded by me rather than by a lover, for those men praise your actions and utterances regardless of their merit, sometimes from a fear of being disliked, and also because their desire impairs their own judgement. Yes, this is the sort of behaviour that love exhibits. It makes those who are unfortunate regard anything which does not cause pain to others as an annoyance, while it compels those who are fortunate to praise pleasures that are unworthy of them. Consequently, it is much more appropriate to pity the loved ones than to envy them.",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Phaedrus",
+"text": "“However, if you trust in me, firstly I shall not associate with you to pander to the pleasure of the moment, but with an eye to your future advantage; not weakened by love, but master of myself; not resorting to bitter enmity over trifles, but slowly arousing a moderate anger over major issues. The unintentional wrongs I forgive, the intentional ones I try to prevent, for these are the proofs of a friendship that will endure for a long time. But if you are still of the view that a strong friendship cannot arise unless the person is a lover, then you need to ponder that on this basis, we would not prize our sons very much, or our fathers or mothers, nor would we have acquired faithful friends who had become friends, not out of that sort of desire but through pursuits of a different nature.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Phaedrus",
+"text": "“Again, if we ought to favour those who are most in need, then it is also appropriate in other situations to do good, not to the best, but to those who are most lacking, for they will be most grateful since they are relieved of the greatest misfortunes. What’s more, even in the case of private parties, it is not your friends who deserve to be invited, but beggars and those who need sustenance, for these people will be delighted with you, follow you and throng about your doors. They will be most pleased and most grateful and will pray that you may have many advantages.",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Phaedrus",
+"text": "“No, perhaps it is not appropriate to grant favours to those who are in greatest need, but those who can best return the favour; not to mere beggars, but those who deserve the attention; not to the sort who will just enjoy the benefit of your best years, but anyone who will share their own advantages with you when you have grown older; not to those who seek reputation in the eyes of others once they have achieved their objective, but anyone who will remain silent from a sense of shame in the eyes of all; not to those who will enjoy a short interval with you, but those who will be your friend in the same way throughout your entire life; not to someone who will seek an excuse for enmity once his desire abates, but those who will display their own excellence once you are past your prime.",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Phaedrus",
+"text": "“Now, keep in mind what I have told you and consider this point too. Friends give warnings to lovers about their debased way of life, but in the case of non-lovers, none of their acquaintances has ever censured them for poor judgement of their own affairs on that account. So, perhaps you may ask if I am exhorting you to gratify all non-lovers? But I do not think that even a lover would advise you to have the same attitude towards all lovers. For in that case, it would not merit the same gratitude from the recipient, nor could you keep it a secret from the others if you so wished. Whereas what is needed is that no harm at all should arise from this, and both parties should benefit.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Phaedrus",
+"text": "“Now, I think I have said enough, but if you want more because you think I have left something out, just ask.”",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Phaedrus",
+"text": "Well, how does the speech sound to you, Socrates? Isn’t it extraordinary, especially in its use of language?",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "Yes, my friend, miraculous. It has astounded me! And I have had this experience because of you, Phaedrus, for I was watching you as you were reading and it seemed to me that you were made brighter by the speech. So, realising that you understand such matters better than I do, I followed you, and in the process I joined you in the wild frenzy, my divine friend.",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Phaedrus",
+"text": "Come now, does it all sound like a joke?",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "What? You think I am joking and not being serious?",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Phaedrus",
+"text": "Not at all, Socrates, but by Zeus, the god of friendship, tell me the truth. Do you think there is anyone else in Greece who could deliver a more magnificent and expansive speech than this on the same topic?",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "What? Does the speech deserve praise from you, or from me, on the basis that the author has actually said what needed to be said, and not on the sole basis that each of the expressions he fashioned was clear, well rounded and precise? For if that is a requirement, I must concede the point to you, since on account of my nothingness I had overlooked this. I attended only to the rhetoric of the speech, and I do not think that even Lysias himself would regard that as satisfactory. And in fact, Phaedrus, although you may have a different view on this, I thought he made the same points twice or three times, as he was not really up to the task of saying a great deal on the same topic. Or perhaps he had no concern about a detail of that sort. And he appeared quite spirited to me, showing off that he could say the same thing in one way and then in another way, and say it superlatively on both occasions.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Phaedrus",
+"text": "You are talking nonsense, Socrates, for this is the most significant feature of the speech. In fact, it omits nothing that is worth saying on the topic, so that nothing else can ever be said that is more expansive and more significant than what he has said.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "There I can agree with you no longer, for the wise men and women of old who have spoken and written on these matters will refute me if I give my assent just to gratify you.",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Phaedrus",
+"text": "Who are these people? And where have you heard anything better than this?",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "Well, I cannot really say at the moment though I obviously heard it from someone … perhaps from the lovely Sappho or the wise Anacreon or even from some prose writers. So, how do I come to this conclusion? My breast is somehow full, my wonderful friend, and I feel I could say something else besides what Lysias said and no worse. Now, because I recognise my own ignorance, I am well aware that it was not from myself that I formed any of these notions. So, I think the only alternative is that I have been filled through my ears by streams flowing from elsewhere, as though I were a vessel. But again, on account of my dullness, I have actually forgotten how and from whom I heard this.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Phaedrus",
+"text": "Very well, noblest of friends, you have expressed it perfectly. In fact, I will not even ask you to tell me from whom you heard this and how, as long as you do what you just said. Undertake to deliver a better speech than the one on the scroll, just as long and with different content, and I promise you that like the Nine Archons, I shall erect a life-sized golden image at Delphi, not just of myself but also of you.",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "Phaedrus, you are very dear and truly golden if you think I am claiming that Lysias went completely awry, and I can say something entirely different. I do not think that would happen to even the most ordinary writer. For instance, in the case of this speech, do you think anyone asserting that the non-lover should be favoured more than the lover could avoid praising the prudence of the former and censuring the irrationality of the latter, and then have something else to say instead? No, these arguments are in a sense mandatory, and in such cases we should praise their construction and not their contrivance. However, in the case of arguments which are not mandatory and are difficult to contrive, we should praise the contrivance as well as their construction.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Phaedrus",
+"text": "I am going along with your suggestion, for what you have said sounds reasonable to me. So, what I shall do is this. I shall allow you to propose that the lover is more sick than the non-lover and provided the rest of what you say is different, more expansive and more worthy than Lysias’ speech, your statue in beaten metal shall stand beside the offering of the Cypselids at Olympia.",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "Phaedrus, you have taken the matter seriously because I attacked one of your favourites in jest. Do you actually think that I shall, in truth, attempt to make a different and more ornate speech, exceeding the wisdom of that man?",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Phaedrus",
+"text": "On this issue, my friend, you are in the same predicament that I was in. In fact, it is all the more necessary that you speak in any way you can so that we are not compelled to adopt the farcical exchanges of stage comedies. Take care you do not force me to come out with ‘Oh, Socrates! If I do not know Socrates then I have forgotten myself’ or, ‘he wanted to speak but gave himself airs’. No, you need to appreciate that we shall not be leaving this place until you speak all that you said you had ‘in your breast’. We are alone in an isolated spot and I am stronger and younger than you, so taking all of this into account ‘mark thou my words’ and do not opt to speak under compulsion when you can do it voluntarily.",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "Bless you, Phaedrus! But I shall be a laughing stock, extemporising as an amateur alongside a fine poet about the same topics.",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Phaedrus",
+"text": "Do you appreciate the position you are in? Stop being coy with me! In fact, I have something to say that will pretty well force you to speak.",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "Do not say it then!",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Phaedrus",
+"text": "Oh, but I shall say it! And my utterance will be an oath. In fact, I swear to you by... by what god... by this plane tree here if you like. I declare that if you do not deliver the speech here, in its very presence, I shall never perform another speech for you or tell you about one either.",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "Oh, you wretch! How well you have discovered what it is that compels a lover of discourse to do your bidding!",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Phaedrus",
+"text": "Then why try to evade it?",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "I can do so no longer now that you have sworn this. Indeed, how could I hold myself back from banquets of this sort?",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Phaedrus",
+"text": "Then speak!",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "Well, do you know how I shall proceed?",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Phaedrus",
+"text": "In what respect?",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "I shall rush through the speech as quickly as possible, speaking with my head covered to avoid looking at you and losing my way out of sheer embarrassment.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Phaedrus",
+"text": "Just speak and arrange the other details as you please.",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "Come then, O ye clear-voiced Muses. Whether you are so described because of the nature of your song, or after the musical race of the clear-voiced Ligurians, join with me in this story which this excellent man here compels me to relate, so that his companion who seemed wise to him even before this, may now seem even wiser.",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "Once upon a time there was a boy, more a youth really, very handsome too, and he had very many lovers. But one of them was wily, and although he was no less in love than the others, he had persuaded the boy that he did not love him. And on one occasion as he sought favour, he was persuading him of this very point, that one should favour the non-lover in preference to the lover. And so he said this:",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Socrates",
+"text": "“Whatever the issue, my boy, a single principle applies to those who intend to deliberate properly. They need to know what it is they are deliberating about, or else they must go entirely awry. However, most people are unaware of the fact that they do not know the essence of each thing. Therefore, on the basis that they already know, they come to no agreement at the outset of the enquiry and proceed to pay a predictable penalty. They agree with neither themselves nor one another. Now, you and I should avoid this shortcoming which we censure in others, and since the issue before us both is whether one should accord more friendship to the lover or to the non-lover, we should propose an agreed definition of love – what it is like and what power it possesses – and looking thereto and referring thereto, let us conduct our enquiry into whether love furnishes benefit or harm. Now, it is obvious to everyone, of course, that love is a desire, but we also know that even non-lovers desire the beautiful. On what basis then do we distinguish the lover from the non-lover? We need to recognise that there are two ruling and leading principles in each of us which we follow wherever they may lead: one is an inborn desire for pleasure, while the other is an acquired opinion which aims for the best. These two principles within us are sometimes in concord, but on occasion they are in conflict, and then, sometimes one, sometimes the other, is dominant. Now, when opinion that leads through reason to the best and is dominant, that dominion is called sound-mindedness, but when desire drags us irrationally towards pleasure, and is ruling in us, its rule is referred to as lust. And yet lust goes under many names, for it has many aspects and many parts, and whatever aspect happens to be most in evidence bestows its own name upon the possessor, a name that is neither admirable nor worth acquiring. So, when the desire associated with food dominates over the excellence of reason and over the other desires, gluttony will be in evidence, and its possessor will also be referred to by the same name. And again, when its tyrannical control is related to drink, it is obvious what name we shall give to its possessor when it leads him in that direction. And in the case of other people of this sort, it is evidently appropriate to call them by the names of the appropriate desires, whichever one is in control at that time.",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "“Now, the type of desire which has prompted all that has been said is quite evident at this stage, but what is spoken is very much clearer than what is unspoken. So, once the desire devoid of reason has overpowered opinion conducive towards what is right, and has led towards delight in beauty, it too, for its part, is impelled forcefully towards bodily beauty by desires kindred to itself. Once this gains the ascendancy, it acquires a name derived from that very force and is called love.”",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Socrates",
+"text": "Well now, dear Phaedrus, does it seem to you, as it does to me, that I am undergoing some divine experience?",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Phaedrus",
+"text": "Yes, certainly, Socrates, an extraordinary fluency has taken hold of you.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "Hear me out in silence then. For this really seems to be such a divine place that you must not be surprised if I actually get caught by the Nymphs on occasion as I proceed with the speech. Yes, even at this stage I am almost enunciating verses of poetry.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Phaedrus",
+"text": "What you are saying is very true.",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Socrates",
+"text": "And you are the one who is responsible for this! Anyway, listen to the rest of it, for the attack may perhaps be averted. However, these matters will be cared for by god; we for our part should return to our speech to the boy.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "“There it is, my brave one! Now that the subject of our deliberations has been described and defined, what remains is to keep this in view, and state what benefit and what harm accrues to someone who favours a lover, and to someone who favours a non-lover. Now, it must be the case, I presume, that anyone who is ruled by desire and enslaved by pleasure will render a loved one as pleasing to himself as possible. Whatever offers no resistance is an utter delight to a sick man, whereas the equal or the stronger is detestable. So, the lover will not willingly tolerate either an equal or a stronger person as a favourite, and he will always make him weaker and inferior; and the fool is weaker than the wise man, the coward than the brave, the poor speaker than the orator, and a dull man is weaker than a clever one.",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "“When all these mental inadequacies, and more besides, develop in the loved one or are present by nature, the lover must be delighted. And if they are absent, he must contrive their presence or else forgo his momentary pleasure. Of course, the lover must be jealous and is a source of great harm through keeping the loved one away from numerous other associations which are advantageous and might make him a better man. And the greatest harm is done by barring him from an association whereby he might become most wise, namely divine philosophy. The lover must keep his favourite far away from this, as he is terrified of being held in contempt. And in other subjects, he must arrange that the loved one is completely ignorant and looks to the lover for everything, a state of affairs which would be delightful to the lover but very damaging to himself. Therefore, when it comes to the mental realm, a man in love is not useful at all either as a guardian or as a companion.",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "“As well as this, we also need to look to the condition of the body, and the nature and the extent of the care it will receive from someone who has gained control over it when that person is under compulsion to pursue pleasure in preference to good. Well, he will be seen pursuing someone who is feeble rather than tough, reared not in pure sunlight but beneath flickering shade, unaccustomed to manly exertions and harsh sweaty work, but quite used to a soft and unmanly way of life, adorned with extraneous colours and decorations because the natural qualities are absent. And he also engages in all the activities associated with such traits, but these are obvious and it is not worth continuing the list any further. Rather, we may proceed to another issue once we have summed this up in a single sentence. For such a feeble body, in war and in other circumstances where the need is great, gives courage to the enemy and strikes fear into friends and even lovers.",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "“So, let us accept that this is indeed obvious and proceed to formulate the next question. What benefit, or what harm, does the company and guardianship of a man in love afford us in relation to our property? Well, this much at least is evident to everyone and especially to the lover, that he would pray above all that the loved one be bereft of his dearest, most beneficent and most divine possessions. For the lover would welcome it were the loved-one to be deprived of father and mother, relatives and friends, believing them to be obstructive influences, critical of his delightful association with the loved one. But then, if the loved one has some property, gold or some other possession, he will regard him as not so easy to catch, and not so easy to manage once he has been caught. Accordingly, the lover really must begrudge his favourite any property he has acquired and be pleased if it is lost. What is more, the lover will pray that his favourite may be un-wed, childless and without a household for as long as possible, because he wants to enjoy the sweetness for himself for as long as possible.",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "“Now, there are other depravities too, but in most cases, by some miracle, they are combined with a momentary pleasure, for instance, the flatterer is a dreadful monster who does a lot of harm, yet nature has commingled in him a certain delight which is not devoid of charm. A courtesan too may be censured as harmful, and so may a host of creatures with similar tendencies and behaviours in whom there is also pleasure, even though it is fleeting. But a lover, in addition to the harm he does, is the least pleasant person of all for loved ones to spend the day with. Yes, there is actually an old saying that ‘same age delights same age’, and I think it means that the equality of years leads to an equality of pleasure and produces friendship on account of this similarity. Yet even in these cases, they can get more than enough of one another’s company. Now, of course necessity is said, in general, to be a burden to everyone, and in addition to their dissimilarity, this principle is especially applicable to a lover and his favourite. For an older man consorting with a younger man does not willingly leave him day or night but is impelled by necessity and the sting of desire which draws the man on, affording him constant pleasures as he sees, hears, touches and is aware of the loved one through every sense so that he serves him diligently and delightedly.",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Socrates",
+"text": "“But what sort of consolation and what pleasure does the lover, for his part, grant to the loved one to ensure that the time they spend together does not end in utter disgust at beholding an aged face past its prime, and other features to match? For isn’t it the case that none of these are pleasant to hear described, but the constant unavoidable experience is even worse as he is watched over by a guardian who is suspicious of everyone and everything, and he hears inappropriate and exaggerated praise and criticism too, which are intolerable when the man is sober, but embarrassing as well as intolerable when he has taken to drink and engages in unbridled and wearisome outspokenness?",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Socrates",
+"text": "“Now, when he is in love he is harmful and disgusting, but once the love abates he is untrustworthy thereafter to that very person whom he induced, with difficulty, to endure his tiresome company for that short time, a feat he accomplished by making numerous promises of future advantages, accompanied by countless oaths and imprecations.",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "“But when it is time to deliver on the promises, he has changed the ruler and leader within himself to reason and sound-mindedness, instead of love and madness. He has become a different person, but the loved one is unaware of this. So, as though he were talking to the same person, the loved one demands a favour from him, reminding him of what was done and what was said in the past. The lover, on the other hand, is ashamed and does not dare to say that he has become someone else, nor is he able to stand by the oaths and promises sworn under the former rule of unreason. At this stage, he has acquired reason and has become sound-minded in order to avoid becoming like that other person and being the same again by doing the same things he did before. He becomes a fugitive from all this, and he who was once a lover is compelled to betray his promises, and with the flipping of an oyster shell he turns and takes flight. And the loved one is compelled to pursue him, crying to heaven in anger having misunderstood the entire relationship from the outset. He should not, as it turns out, ever have favoured a man who is in love and perforce, unreasonable. No, far better to favour someone who is not in love and who is, therefore, reasonable. Otherwise, he would be compelled to place himself at the mercy of an unfaithful, awkward, jealous and disgusting person who is surely detrimental to his property, detrimental also to his bodily well-being, but utterly detrimental to the development of his soul, and in truth there neither is nor shall there ever be anything more precious than this in the eyes of men or gods. So, you need to understand all of this, my boy, and appreciate that the affection of a lover is not accompanied by good intentions, but is a sort of hunger for food. Its aim is satisfaction, for",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Socrates",
+"text": "As wolves have a liking for lambs. So do lovers have affection for loved ones.”",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Socrates",
+"text": "That is it, Phaedrus. You shall not hear me saying any more than this. Please let that be the end of the speech now.",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Phaedrus",
+"text": "And yet, I thought this was half of the speech and you would say an equal amount about why the non-lover should be favoured to a greater extent, stating, in turn, all the advantages he affords. Why ever are you stopping at this stage, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "Bless you. Do you not realise that I am already uttering epic verses, not just poetic verses, even though I am being critical? So, what do you think I shall come out with if I start to praise the other man? Surely you realise that I shall be undisguisedly inspired by the Nymphs to whom you have deliberately exposed me. So I should say, in short, that this other man has advantages which are the opposite of anything we have reviled in the first man. Yes, why do we need a long speech? In fact, enough has been said about both of them. And so on this basis, my story may suffer whatever fate it deserves to suffer, whilst I cross over this river and take myself away, before you force me into something even worse.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Phaedrus",
+"text": "Not yet, Socrates, not until the heat subsides anyway. Don’t you see that it is almost mid-day and the sun is at its height? No, let us wait here while we discuss all that has been said. We can go as soon as it cools down.",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Socrates",
+"text": "Phaedrus, when it comes to speeches, you are divine and utterly amazing. In fact, I think that of all the speeches produced during your lifetime, no one has been responsible for producing more than you, either by delivering them yourself or somehow forcing someone else to do so. With the exception of Simmias, the Theban, you are far ahead of everyone else, and I think you have now become responsible once more for the delivery of a speech.",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Phaedrus",
+"text": "Well, that is good news anyway, but how did this happen, and what speech are you referring to?",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "I was about to cross over the river, my friend, when the daimon came, the usual sign which comes to me, always holding me back from something I am about to do. And I seemed to hear a voice from there which would not allow me to depart until I had made atonement, because I have actually transgressed the divine. Now, although I am actually a seer, I am not a very significant one, but like undistinguished writers I am good enough for my own purposes, and therefore I now understand exactly what the transgression is. Yes, I tell you my friend, the soul too is prophetic, for something troubled me as I was delivering the speech just now, and I somehow felt ashamed that, in the words of Ibycus, ‘I am sinning against the gods in return for reputation before men.’ But I have now recognised my transgression.",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Phaedrus",
+"text": "Yes, but what do you mean?",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "That was an awful speech you brought here, Phaedrus, and the one you made me deliver was awful too.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Phaedrus",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Socrates",
+"text": "It was silly and just short of blasphemous. What could be more awful than that?",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Phaedrus",
+"text": "Nothing, if what you say is true, that is.",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "What is this? Don’t you believe that Love is the son of Aphrodite and a god?",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Phaedrus",
+"text": "So they say, anyway.",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Socrates",
+"text": "Not according to Lysias, or according to your speech, the one spoken out of my mouth once it had been bewitched by you. But if Love is, as indeed it is, a god or something divine, it could not be anything bad. Yet both these speeches about love have stated that it is bad, and so in this regard, they have committed a transgression concerning love. And what is more the silliness of the speeches was very clever, for without saying anything sound or true they made a solemn pretence of doing so, on the off chance that they might deceive some paltry specimens of humanity and win their esteem.",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Socrates",
+"text": "Therefore, my friend, it is necessary for me to be purified, and there is an ancient purification for those who have transgressed in storytelling, one that Homer was unaware of but was known to Stesichorus, for when he was deprived of his eyesight because he spoke ill of Helen, he did not, like Homer, fail to understand why. No, since he was a votary of the Muses, he understood the reason and immediately wrote:",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Socrates",
+"text": "This story is not true,. You never embarked on the well-benched ships. Nor went to the citadel of Troy.",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Socrates",
+"text": "And once he had completed the entire ‘recantation’, as it is called, his sight returned straightaway. Now, I shall, on this particular issue anyway, act more wisely than these poets. In fact, before anything happens because I spoke ill of Love, I shall attempt to deliver a recantation to him with my head bare, and not covered out of shame, as it was before.",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Phaedrus",
+"text": "Socrates, that is the most delightful thing you could have said to me.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "And you also recognise, good Phaedrus, how shameless both speeches were, mine and the one you recited from the scroll. For suppose someone of a noble and gentle disposition should happen to hear us, someone in love with another person of a similar disposition or who had loved such a person once before. When we say that lovers arouse enormous enmity on account of trifles, and are jealous and malicious towards their favourites, won’t he imagine that he is listening to people reared somehow among sailors, people who, when it comes to love, have beheld nothing free? Would he not be very far from agreeing with our criticisms of love?",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Phaedrus",
+"text": "By Zeus, Socrates, he probably would.",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Socrates",
+"text": "Anyway, I am ashamed before this man and I am afraid of love itself, so I want to wash away the distasteful sound with the taste of a fresh speech. And I advise Lysias also to write, as soon as he can, that in similar circumstances the lover should be favoured more than the non-lover.",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Phaedrus",
+"text": "Well, you may rest assured that this is what will happen, for once you have delivered your speech in praise of the lover it is absolutely inevitable that Lysias, under my compulsion, will write another in turn on the same topic.",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Socrates",
+"text": "This I believe, as long as you are the person you are.",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Phaedrus",
+"text": "Speak then with confidence!",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Socrates",
+"text": "But where is my loved one, the boy I was talking to? He needs to hear this speech too, and if he does not hear it he may go ahead and favour a non-lover.",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Phaedrus",
+"text": "He is here, always close by your side whenever you want him.",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Socrates",
+"text": "Well then, my beautiful boy, you need to understand that the previous speech was from Phaedrus, the son of Pythocles from Myrrhinous, while the one I am about to deliver is from Stesichorus, the son of Euphemus from Himera. I must declare that:",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Socrates",
+"text": "A story is not true if it states that one should bestow more favour on the non-lover when a lover is present, just because the one is mad and the other is sound-minded. For if it were simply the case that madness is bad, it would be acceptable to say this. However, enormous advantages now come to us through madness once it is given as a divine gift. In fact, the prophetess at Delphi and the priestesses at Dodona do a great deal of good for Greece, both privately and publicly, when they are mad, but they accomplish little or nothing when they are sound-minded. And if we were also to mention the Sibyl and those others who have recourse to inspired prophecy, foretelling many things to many people and correcting their ways for the future, we would be giving a lengthy description of what is obvious to everyone.",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Socrates",
+"text": "And yet, it is worth producing the evidence that those ancients who assigned the names did not regard madness as shameful or a matter of reproach, or else they would not have connected this particular word with the sublime skill that discerns the future by calling that skill manic. No, they realised that it was good, and gave it that name whenever it arises from divine providence. But people today, tastelessly inserting the letter T, have called it ‘mantic’. And when people in their right minds conduct their enquiry into the future through birds and other signs, which furnish human opinion with intelligence and information on the basis of thought, the ancients called the skill ‘oionoistic’, but nowadays the moderns, being solemn with their long O sounds, call it ‘oiōnistic’. And so, to this extent, the mantic is more perfect and venerable than the oiōnistic when name is compared to name and outcome is compared to outcome. And to this extent, the ancients bear witness to the superiority of madness from God over sound-mindedness originating among humans.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Socrates",
+"text": "Then again, when diseases and the greatest afflictions occur in certain families, born of guilt from the distant past, madness has arisen, and exercising its prophetic power has found a means of release for those in need by resorting to prayers and services to the gods. From this, madness hits upon purifications and rites, rendering its possessor healthy, there and then and for all time, by finding a way out of the present evils for the person who is mad and possessed in the right way. A third madness and possession is from the Muses. This takes a tender and pure soul, arouses her and sends her into a frenzy of odes and other poetry, embellishes countless deeds of the ancient past, and educates future generations. But the man who arrives at the portals of poetry devoid of the Muses’ madness, convinced that he may be a poet through competent technique, is himself incomplete and so is his poetry; and those works of a sound-minded man are set at nought by the poetry of the man who is mad.",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Socrates",
+"text": "Such are the beautiful achievements wrought by madness born of the gods, and I could relate even more to you, so let us have no fear on that account. Nor should any argument trouble us and make us afraid that we should prefer the sound-minded person as a friend rather than the moved one. No, this argument should triumph only if it proves that love is not sent by the gods as a boon both to the lover and the loved one. But we, for our part, must prove the very opposite: that the madness of love is given by the gods to confer the greatest good fortune. And the proof will sound incredible to the clever folk but credible to the wise.",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Socrates",
+"text": "Now, we should first understand the truth about the nature of the soul, both human and divine, by looking to what happens to it and what it does. The beginning of the proof is as follows.",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Socrates",
+"text": "All soul is immortal because the ever-moving is immortal, but that which moves another, and is moved by another, ceases living if it ceases moving. Indeed, only that which moves itself, since it does not depart from itself, never stops moving, and this is also the fount and source of motion for anything else that moves. But source is not generated, for everything that is generated must be generated from source, but it must not come from one. For if source were to be generated from something it would no longer be source. And since it is un-generated it must also be indestructible. For of course, once source is destroyed it will never be generated from something, nor will anything else be generated from it, since all things must be generated from source. Accordingly, whatever moves itself is the source of motion, and this can be neither generated nor destroyed, or else the entire heaven and all the earth would collapse into one and be static, without anything from which motion could ever be generated again. And since it has been shown that whatever is moved by itself is immortal, anyone who states that this is the very essence and definition of soul will not be put to shame. For every body to which movement comes from outside is soulless, but if the movement comes from within itself then that body is ensouled, because that is the nature of soul. But if it is the case that whatever moves itself is nothing other than soul, soul would, of necessity, be both un-generated and immortal.",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Socrates",
+"text": "Well, that is enough about its immortality, but now we should say something about its form. To describe the kind of thing it is would require utterly divine powers and a lengthy exposition, but to say what it resembles would yield a shorter account befitting the powers of humans, so that is what we should present. Let it resemble the united power of a team of winged horses and their charioteer. Now, in the case of the gods, the horses and the charioteers are themselves all good and they come from good stock, but the teams belonging to others are a mixture. Now, our ruler, in the first place, has control of a pair of horses, and what is more, one of these horses is noble and good and such is his lineage too, while the other horse is of the opposite sort and of opposite lineage. So the control of our chariot is, of necessity, a difficult and troublesome task.",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Socrates",
+"text": "We should now try to explain how living beings have come to be called mortal and immortal. All soul cares for everything devoid of soul, and it traverses the entire heaven, coming into being in various forms at various times. When perfect and furnished with wings, it soars aloft and controls the entire universe. But once it has lost its wings it is borne along until it reaches something solid, and there it makes its abode, taking on an earthly body that seems to be self-moving on account of the power of the soul, and this combination is called a living being, a body and soul conjoined, and it is given the designation of mortal. It is not immortal on the basis of a single reasoned argument; however, without seeing or properly understanding God, we do imagine some living creature possessing a soul and possessing a body which are conjoined for all time. Well, let these matters be arranged and described in whatever manner is pleasing to God, and let us understand instead the reason for the loss of the wings. Why does the soul lose them? The answer is something like this:",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Socrates",
+"text": "The power of the wing naturally draws that which is weighty upwards, raising it aloft to where the race of the gods dwells, and the wing somehow has more communion with the divine than anything else associated with the body. Now, the divine is noble, wise, good and everything of that sort, so the wing of the soul is nourished most by these and it grows, but it is withered and destroyed by the opposite qualities such as deformity and baseness. Now, Zeus, the supreme ruler in heaven, driving a winged chariot, is first to go forth, bringing order to all and caring for all, while the army of gods and daimons follows him arranged in eleven bands. For Hestia alone remains in the dwelling place of the gods, but the others, who are counted among the twelve gods, assume command and lead their cohort based upon the rank assigned to each.",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Socrates",
+"text": "Now, many and blessed are the sights and the pathways within heaven, and the well-favoured race of gods makes its course through these, each of the gods doing what belongs to himself, while anyone who wishes and is able to do so follows after, for envy stands outside the heavenly choir. But when they go to a feast or a banquet, they proceed to the summit of the vault above the heavens and the way is steep. And yet the evenly balanced chariots of the gods, obedient to the rein, make their way easily. But for the others it is difficult. For the horse with bad tendencies weighs them down, because it is heavy and inclined to sink to the ground unless it has been well trained by the charioteers. Here indeed lies pain and struggle for the soul. For whenever the souls that are called immortal attain the summit, they proceed outside and stand at the back of the heaven, and once they stand there, the revolution carries them around and they contemplate the sights outside of the heaven.",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Socrates",
+"text": "But none of the poets of this world has ever yet sung the praises of the region beyond the heaven, nor will they ever sing them in a worthy manner. But we must dare to speak the truth anyway, especially when truth is our theme. So this is how it is: this region contains the colourless, utterly formless, intangible being that actually is, with which the realm of true knowledge is concerned, seen only by reason, the pilot of the soul. Now, since the mind of a god is nourished by reason and unmixed knowledge, so too is every soul that cares to receive what is proper to it. Eventually, beholding what is, the soul is delighted, and contemplating the truth, it is nourished and gladdened, until the revolution carries it around in a circle to the same place. In the revolution, soul has sight of justice itself, sound-mindedness and knowledge; not knowledge to which becoming is added, this is knowledge different under different circumstances, concerned with what we normally call ‘things that are’; no, it is the knowledge of that which really is. And once the soul has, in like manner, contemplated and feasted upon the other things that really are, it descends once more into the inner heaven and goes home. And when soul arrives there, its charioteer stations the horses at the feeding stall, sets ambrosia before them and gives them nectar to drink.",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Socrates",
+"text": "Such is the life of the gods. But the other souls, that best follow and resemble a god, raise up the head of their charioteer into the outer region and are borne around with the revolution, troubled by the horses and barely having sight of the things that are. Others ascend sometimes but descend at other times, and being impelled by the horses they see some things and fail to see others. And yet all of the other souls follow out of a yearning for the upper region, but they are unable to attain it, and are borne along beneath the surface, knocking against one another and trampling one another as each tries to get ahead of the other. This results in tribulation, conflict and perspiration in which many souls are maimed due to poor charioteering, and many wings are badly broken. But after much exertion, failing in their vision of what is, they depart, and once they leave they feed upon opinion.",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Socrates",
+"text": "The reason for the great eagerness to behold the plain of truth is that the nutriment appropriate to the best part of soul lies on the meadow there, and the nature of the wing which lifts the soul upwards is nourished by this. And the ordinance of necessity is as follows: any soul that has become a companion to a god and has sight of any of the truths is safe until the next revolution, and if the soul can do this continually, it is always preserved from harm. But whenever it does not see, because it cannot keep up, and is filled with forgetfulness and vice and weighed down through some mischance and sheds its wings on account of the heaviness and falls to the ground, the law decrees that the soul be not implanted in any beastly nature at its first birth. Rather, the soul that has seen most is implanted in the seed of a man who will become a philosopher or a lover of beauty or a musical and loving person. Those in the second rank enter into lawful kings or military and sovereign natures, the third into political and administrative or financially oriented types, the fourth into a lover of hard exercise or someone who will be concerned with bodily healing, the fifth will have the life of a prophet or someone involved with mystic rites, the sixth will be suited to the poetic life or one that involves some other imitative activity, the seventh to that of a craftsman or farmer, the eighth to that of a sophist or demagogue, and the ninth to that of a tyrant.",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Socrates",
+"text": "Now, in all these cases, whoever has behaved justly obtains a better destiny, while whoever behaves unjustly obtains a worse. For the soul does not ever arrive back at the same place it came from for ten thousand years, because it does not become winged until that time has elapsed, unless it is the soul of one who has genuinely loved wisdom or combined his love of boys with a love of wisdom. These souls become winged in the third cycle of a thousand years if they have chosen this life thrice in succession, and in the three thousandth year they depart. As for the others, once they have completed their first life they encounter judgement, and having been judged, some go to places of correction beneath the earth where they pay the full penalty while others are borne aloft by justice to some place in the heaven and spend their time as they deserve based on how they lived their life when in a human form. But in the thousandth year both arrive for allocation and choice of the second life, and they choose the one they want. At this stage a human soul takes on the life of a beast, and from a beast someone who was once a human enters a human being again. Indeed, a soul that has never beheld the truth will not attain the human condition. For a human being must understand what is said on the basis of form, proceeding from many perceptions to one inferred through reasoning. And this is recollection of those things our soul knew when it accompanied the god, and with a downward glance on things that are now said to be, lifted its gaze to what actually is. Therefore, it is right indeed that only the mind of the philosopher be winged, for by the power of memory it is always as close as it can be to those things by whose proximity a god is divine. And, indeed, someone with proper recourse to such reminders, being continually initiated into perfect mysteries, is the only one who actually becomes perfect. And standing apart from the preoccupations of humanity and getting close to the divine, the person is criticised by the multitude for being disturbed, but the multitude overlooks the fact that he is divinely inspired.",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Socrates",
+"text": "Now, this is what our entire discourse concludes about the fourth kind of madness. Whenever someone sees some beauty in this world, and being reminded of the true beauty becomes winged and flutters eagerly to fly aloft but cannot do so, he gazes upwards like a bird, heedless of what is below, and this is the reason he is regarded as mad. So, this is itself the best of all the forms of divine possession, and its origin is the best. It is best for the possessor and for someone who comes to share in it, and when partaking of this madness the man who loves what is beautiful is called a lover. For as we said, every soul of man has, in the course of nature, contemplated things that are, or else it would not have entered into this human form. But it is not easy for every soul to remember those former visions based on what they see here. Perhaps at that time they saw the things there only briefly or met misfortune when they fell down here and being turned toward injustice by bad company forgot the sacred visions they once saw. Few souls indeed remain in whom there is adequate memory, but when these behold any likenesses of the things that are there, they are astounded and can no longer contain themselves, but they do not understand what the experience is because their awareness is inadequate. Now, there is no splendour in the present likenesses of justice, sound-mindedness and everything else that souls revere. But just a few, having recourse to their resemblances, contemplate the form they actually resemble with difficulty through organs that are dull.",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Socrates",
+"text": "However, beauty was there to be seen at that time, shining brightly, when in company with a blissful cohort the souls saw a blessed vision and contemplated it, we ourselves following Zeus, others following some other god. We were initiated into what it is proper to call the most blessed of the mysteries which we celebrated, perfect in ourselves, and unaffected by those evils that lay in wait for us thereafter. Being initiated into perfect, simple, unmoved and blissful revelations, we stood as initiates in a pure light, and we were pure and not entombed in this so-called body that we carry around with us, imprisoned like an oyster in its shell.",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Socrates",
+"text": "Now, let these be our tributes to memory, for whose sake I have just spoken at such length, yearning for what was once seen. But as for beauty, as we have just said, it was there with those others and it was shining, and when we arrived here we apprehended it through the clearest of our senses as it glistened in its clarity. Indeed, sight is the keenest of the perceptions furnished to us through the body. Wisdom is not seen, for it would arouse formidable loves if anything of this sort were to present a clear image of itself to the eye, and the same goes for other objects of love. But this role now belongs to beauty alone, and accordingly it is most resplendent and most beloved.",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Socrates",
+"text": "Now, someone who is not a new initiate, or who has been corrupted, is not transported readily from here to there towards beauty itself when he sees something here that bears its name. And so he does not look upon it with reverence, but gives himself over to pleasure and tries to behave like a four-legged animal and beget offspring, and keeping close company with wantonness, he is not afraid or ashamed to pursue pleasure contrary to nature. But when a recent initiate, who had seen a great deal at the time, beholds a god-like face or bodily form which imitates beauty well, he shudders at first and some of the former fears come over him. Then he looks upon it as a god and becomes reverential, and if he was not afraid of a reputation for utter madness he would offer sacrifices to his favourites as if to a statue and a god. Once he has seen him, the shuddering gives way as usual, and he is seized by perspiration and unaccustomed warmth, for he is warmed when he receives the outpouring of beauty through his eyes, an outpouring by which the nature of the wing is nourished. The areas from which it grows are melted by the warmth, regions that have been closed over for some time by this hardness and prevented from growing anew, and with the influx of nutriment the shaft of the wing swells and surges forth in growth beneath the whole form of the soul, for the entire soul was winged at one time. As this goes on it boils and throbs all over, and the experience is like that of children when they first grow teeth and an irritation and pain arise in the gums. The same thing happens to the soul that begins to grow wings; it seethes and is pained and tickled as it grows its wings. Whenever the soul looks to the beauty of the boy, it receives portions that emanate and flow from there, and for this reason we give them the name ‘longing’. Receiving these, the soul has respite from its pain and rejoices, but when it gets separated and becomes arid, the openings of the channels from which the wings shoot dry up and close, blocking the new growth of the wing. This is trapped inside along with the desire, throbbing like a blood vessel, each stinging at its own particular exit channel, so that the soul is stung all over and is maddened and pained. However, once soul has further memory of the beautiful one it rejoices. Because the pain and the rejoicing are mixed, the soul is dismayed by the strangeness of the experience, and being frustrated to the point of fury, is unable in its madness either to sleep by night or remain still by day, but it runs to wherever it thinks it may behold the possessor of the beauty it longs for. Once the soul sees him and allows the desire to pour over it, it releases what was previously closed in. It secures a respite, its stings and pains cease, and for that moment the soul enjoys once more that sweetest pleasure. Now, soul does not give this up willingly, nor does it set anyone above the beautiful one. No, forgetting mother, brothers and all her companions it thinks nothing of losing its substance through neglect, and despising the standards and decorum on which it previously prided itself, soul is ready to act as a slave and lie down wherever anyone allows it closest to the one it yearns for. Indeed, as well as revering the possessor of beauty, the soul also finds that he is the only healer of her intense suffering.",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Socrates",
+"text": "So, fair boy, the recipient of my discourse, this is the condition that humanity refers to as love, but when you hear what the gods call it you will probably laugh because of your extreme youth. But I believe that some experts on Homer quote two lines about love from his secret works, the second of which is quite outrageous and not particularly metrical. What they recite is this:",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Socrates",
+"text": "All the mortals call him winged Erōs. But because he must grow wings the immortals call him Pteros.",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Socrates",
+"text": "Well, you may be persuaded by these lines or you may not, but in any case the cause and the actual experience of those in love is as I have described.",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Socrates",
+"text": "Now, any follower of Zeus who has been taken by love is able to bear the burden of the winged one with equanimity, while those who attend upon Ares and have traversed the circuit along with him, once they have been captured by love and think they have suffered some injustice at the hand of their loved one, become murderers, and are quite prepared to sacrifice themselves and their favourites. And each person lives in this way, revering and imitating as best he can the particular god in whose cohort he follows, as long as he remains uncorrupted and is living out his first life here; and in this manner he interacts and behaves towards his loved ones or anyone else.",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Socrates",
+"text": "Each person selects his love from among the beautiful ones based upon character and behaving as if the loved one is himself a god. Each constructs a kind of statue for himself and adorns it as an object of reverence and worship. Those from the cohort of Zeus seek out in their loved ones a soul that resembles Zeus, so they look for someone who is by nature both philosopher and leader. And once they find him and have come to love him, they do all they can to turn him into a person of that kind. Now, if they have not embarked upon the practice before, then they attempt to learn at this stage from any source they can, and they search themselves, and following the traces within themselves they find that they are well equipped to discover the nature of their own god on account of their intense compulsion to look towards that god. And reaching out to him by means of memory, they are inspired, and adopt his habits and activities in so far as it is possible for a human to partake of the divine. And of course, believing the loved one is responsible for all this, they become even more affectionate, and if they draw upon the well-springs of Zeus, as the Bacchants do, they pour the waters forth again over the soul of their loved one, making him as like unto their own god as possible.",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Socrates",
+"text": "Those who for their part follow Hera seek the regal sort, and once they find him they do all the same things to him. And the followers of Apollo and each of the gods, proceeding in the same way with reference to their god, seek a similar nature in their own favourite. When they gain possession of him, they themselves imitate the god, and they also persuade and discipline their favourites, leading them into the behaviour and character of that god, each according to ability without recourse to envy or petty resentment towards their favourites. Rather, they act as they do in an effort to bring the loved one into complete and comprehensive resemblance to themselves and the god whom they revere. Now, the eagerness of those who truly love, and the consummation thereof, becomes noble and blessed provided they attain what they desire in the manner I describe, through an affection of one for the other born of the madness of love, once the loved one has been captured. Now, the manner of his capture is as follows.",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Socrates",
+"text": "At the beginning of this story we divided each soul in three: two elements were like horses and the third like a charioteer. Let us allow these comparisons to stand. However, although one of the horses is good and the other is not, we have not described the excellence of the good one or the vice of the bad one, so we should explain this now. Well, the horse standing in the better position has an upright aspect. He is clean-limbed, stately, with aquiline features, white in colour, with black eyes, a lover of honour conjoined with sound-mindedness and modesty, and a companion of true reputation. He has no need of the whip for he is controlled by the word of spoken command alone. But the other one is misshapen, gross, put together at random, with a powerful short neck, a flat face, black in colour, grey and bloodshot eyes, a companion of wantonness and pretension, woolly about the ears, deaf, reluctantly yielding to whip and spur combined.",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Socrates",
+"text": "Now, whenever the charioteer beholds the vision that awakens love, the entire soul is warmed through the sense and is filled with tickling and the stings of yearning. The horse that is obedient to the charioteer is restrained by reverence at that moment as always, and it holds itself back from leaping upon the loved one, while the other one no longer heeds the whip or spur of the charioteer, but moves with a powerful leap, and causing enormous difficulties to the other horse and to the charioteer, it forces them to approach their favourites and make mention of the delight of amorous pursuits. The other two offer resistance initially, troubled at being forced into dreadful and unlawful acts. But in the end, when there is no limit to the affliction, they go along with him, give up and consent to do as they are bidden. And once they get close to him, they also behold the gleaming face of the loved one. When the charioteer sees this, his memory is transported to the nature of the beautiful, and he beholds it once more, seated alongside sound-mindedness, upon a sacred throne. At the sight of this, being filled with awe and reverence, he falls backwards, and with this he is forced to pull back upon the reins so strongly that both horses end up seated on their haunches. One is willing, as he offers no resistance, but the wanton horse is extremely unwilling. When they are further away, one horse, on account of his modesty and amazement, drenches the entire soul with perspiration, while the other, once he recovers from the pain he incurred from the bit and from his fall, gradually recovers his breath and engages in angry abuse, greatly reviling the charioteer and his companion horse for their cowardice and weakness in abandoning their position and their agreement. And he impels them forward once more against their will, and he agrees only reluctantly to their pleading to defer this to another occasion. But when the arranged time comes, they pretend to forget, but he reminds them. He becomes violent, neighing and pulling, he compels them to approach the favourite once more with the same propositions. And once they get close, he puts his head down and stretches out his tail, bites into the bit, and drags them forward with no shame at all. But the charioteer undergoes the same experience as before, with even greater intensity. He falls back like a runner from a starting rope, wrenching the bit back from the teeth of the wanton horse with an even greater force. Bloodying his foul-speaking tongue and jaws, and pinning his legs and haunches to the ground, he inflicts pain. Once the evildoer has suffered this a number of times, he gives up his wantonness, he is humbled, and at that stage he follows the providence of the charioteer, and whenever he beholds the beautiful one he is overpowered by fear. And as a consequence, the soul of the lover follows its favourite thereafter in reverence and awe.",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Socrates",
+"text": "Now, as the loved one is served as the equal of a god, receiving total service from a lover who is no pretender but has experienced true love, the loved one is naturally the friend of the one who serves him. And even if, perchance, he has been misled by his schoolmates, or anyone else who says that it is disgraceful to associate with a lover, and he rejects the lover on that account, eventually, in the course of time, age and fate lead him to admit the lover into his company. For it is decreed that bad can never be friend to bad nor can good avoid being friend to good. But once he allows him in and accepts his conversation and company, the goodwill emanating from the lover astonishes the loved one as he becomes aware that not even all his other friends and associates combined furnish a single portion of friendship to compare with this god-inspired friend.",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Socrates",
+"text": "But if this arrangement goes on for some time and there is close contact in the gymnasium and other meeting places, then at last, the spring of that stream which Zeus called longing when he was in love with Ganymede, is borne copiously towards the lover and some of it sinks into him, while the rest flows without, once he has been filled to overflowing. And like breath or an echo rebounding from a smooth hard surface and carried once more to the place from which it issued forth, so too does the stream of beauty travel back to the beautiful one through the eyes, the natural way to go into the soul. Arriving there, it excites the soul, moistens the openings for the wings, stimulates their growth, and also fills the soul of the loved one in turn with love. Now, he loves, but he is puzzled as to what he loves; neither does he know what he is experiencing nor is he able to express it. Like someone who has caught an eye disease from another person, he is unable to explain its cause. He sees himself in the lover just as if he were looking in a mirror, but he is unaware of this. And whenever his lover is present he has relief from his pain, and so too does the lover for the same reasons. But whenever he is absent, for those same reasons again, he yearns and he is yearned for. In the returned love he possesses an image of love, but he does not call it love because he thinks it is not love but friendship. His desires are like those of the lover but they are weaker; to see, touch, kiss and to lie down with him and, indeed, in all likelihood, this happens very soon afterwards.",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Socrates",
+"text": "Now, as they lie together the uncontrolled horse of the lover has something to say to the charioteer, and he claims some small recompense in return for his numerous afflictions. But in the case of the loved one this horse has nothing to say, but swollen with desire and in some confusion, he embraces and kisses the lover as though he were welcoming an extremely well-intentioned man, and when they are lying together, he is unable to refuse his own part in gratifying the man in love, if he should ask for anything. But his companion horse, for its part, along with the charioteer resists these tendencies with modesty and with reason. Now, if the very best part of mind, the part that leads to an ordered life and to philosophy, is victorious, they live their life here in blessedness and concord, masters of themselves and orderly, enslaving whatever produces degeneracy in the soul and granting freedom to whatever renders it excellent. And when they die, they are winged and light, having won a victory in one of three bouts in the true Olympic games, and neither human sound-mindedness nor divine madness can confer a greater good upon a man than this.",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Socrates",
+"text": "However, if they resort to a coarser life, loving honour and not wisdom, then perhaps when drunk or in some careless moment, the uncontrolled horses in them both, catching the souls off their guard, draw them together, make that choice which most people call blessed, and obtain what they desire. Once this has happened they continue the practice thereafter, but sparingly, because their activity has not been accepted by the entire mind. And so, to a lesser extent than the others, they live their lives as friends to one another, throughout their love and also when they have gone beyond it, for they believe they have given and received enormous assurances from one another which it is not lawful to forsake by ever becoming enemies. When their lives end, they are unwinged, but they depart from the body eager to grow wings, so they derive no small recompense from their madness born of love. For it is not ordained that those who have already commenced their journey beneath the heavens should yet enter into darkness or journey beneath the earth. Instead, they live a bright life journeying with one another in blessedness, and on account of their love their plumage is alike when they become winged.",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Socrates",
+"text": "These, my boy, are the blessings great and divine that the friendship of a lover will bestow upon you, while the familiarity of the non-lover is adulterated with a mortal sound-mindedness and what it dispenses is mean and mortal. Engendering in the friendly soul a slavishness that most people praise as a virtue, the non-lover condemns her to roll about the earth and beneath the earth, mindlessly, for nine thousand years.",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Socrates",
+"text": "This recantation, O beloved Eros, is bestowed upon you. It is the finest and most excellent my ability can offer, especially in its use of some poetic language, under compulsion from Phaedrus. Forgive what was said previously and look upon these words with favour. Be kind and gentle, and do not take away the skill in love that you have bestowed upon me, and do not, in your anger, impair it. And grant me, even more than now, to be revered in the eyes of the fair. If Phaedrus and I said anything offensive to you earlier, blame Lysias, the father of the argument. Bar him from speeches of this sort and turn him to philosophy, just as his brother Polemarchus has turned, so that this lover of his may no longer be pulled in two directions as he is now but may simply direct his life towards love accompanied by philosophical discourse.",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Phaedrus",
+"text": "I join you in prayer, Socrates. If this is what is best for us then may it be so. But I have been amazed for some time at how much more beautifully you crafted this speech than the previous one. So, I am hesitant in case Lysias may look ordinary if he actually consents to present another speech to rival it. Indeed, my wonderful friend, some politician was abusing him recently and he criticised Lysias on this point, and throughout the abuse he kept calling him a ‘speechwriter’. So, perhaps we may find that he gives up writing out of concern for his reputation.",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Socrates",
+"text": "Young man, the opinion you are expressing is laughable, and you are quite wrong about your friend if you think he is as timid as that. But perhaps you believe that the man who was abusing him meant this as a reproach.",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Phaedrus",
+"text": "Well, that is how it seemed, Socrates. And I presume you yourself are aware that the most powerful and important people in the city are ashamed to write speeches and leave behind their own written compositions. They are fearful of their reputation thereafter, and the possibility that they might be called sophists.",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Socrates",
+"text": "You are unaware, Phaedrus, that the sweet elbow gets its name from the long elbow of the Nile, and as well as the elbow, you do not appreciate that the most self-important politicians are the ones who most love speech writing and leaving behind written records. At any rate, whenever they write a speech, they are so delighted by those who approve of it that they write the names of these admirers into the beginning of the speech.",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Phaedrus",
+"text": "What do you mean by this? I do not understand.",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Socrates",
+"text": "Don’t you understand that in the writings of politicians the name of the approver is written first?",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Phaedrus",
+"text": "In what way?",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Socrates",
+"text": "For instance, the politician writes, ‘It was resolved by the Council’ or ‘by the people’ or both, and says, ‘He declared’ referring of course to himself in a very solemn manner and praising himself. After this he speaks, showing off his own wisdom to his approvers, sometimes producing a very lengthy composition. Isn’t this sort of thing a composed speech? Does it seem otherwise to you?",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Phaedrus",
+"text": "Not to me.",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Socrates",
+"text": "Now, if the speech enters the records, the composer leaves the place of assembly in delight. But if it is left out of the records, and he does not enter the ranks of speechwriters, and his words are not worth writing down, both he himself and his companions go into mourning.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Phaedrus",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Socrates",
+"text": "Obviously, because they regard this activity as a thing of wonder which they do not hold in contempt.",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Phaedrus",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Socrates",
+"text": "What about this? Once he becomes such a competent orator or king that he acquires the power of a Lycurgus, a Solon, or a Darius, becomes immortal as a speechwriter in the eyes of the city, won’t he believe that he himself, whilst still living, has become the equal of a god? And won’t succeeding generations think the same thing about him on seeing his compositions?",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Phaedrus",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Socrates",
+"text": "Now, do you believe that anyone of that sort, whoever he is or however negative his attitude to Lysias, would criticise him just because he composes speeches?",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Phaedrus",
+"text": "Well, that is unlikely, at least on the basis of what you have just said, for in that case, it seems, he would be criticising his own heart’s desire.",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Socrates",
+"text": "So, it is obvious to everyone that speech writing is not shameful, not in itself anyway.",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Phaedrus",
+"text": "How could it be?",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Socrates",
+"text": "But I believe that the disgrace lies not in speaking or writing properly, but shamefully and badly.",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Phaedrus",
+"text": "Obviously.",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Socrates",
+"text": "So, what approach leads us to write properly, and what approach leads to its opposite? Do we need to test Lysias on these issues, or anyone else who has ever written or will write a political or personal composition, whether in verse like a poet or in prose like an ordinary person?",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Phaedrus",
+"text": "Are you really asking if we need to test them? What else is there to live for, I might ask, if not for the sake of pleasures of this sort? Surely not for the sake of pleasures that must be preceded by pain if they are to be enjoyed, a feature of most pleasures associated with the body. And so they are rightly referred to as slavish.",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Socrates",
+"text": "Well, it seems we have plenty of free time. And I think that the cicadas above our heads are looking down upon us as they sing and converse with one another in the heat. Now, if they were also to see the two of us, like most people at midday, not conversing but slumbering, enchanted by them due to our mental lethargy, they would quite rightly laugh at us and regard us as slaves who had arrived at their abode to spend the afternoon asleep, like sheep around a spring. But if they see us conversing and sailing past them as if they were Sirens and we were immune to their charms, perhaps they would be pleased, and grant us that special gift they have from the gods for bestowal upon humanity.",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Phaedrus",
+"text": "But what is it they possess? Apparently I have not heard of it.",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Socrates",
+"text": "Well, it is most inappropriate for someone who loves the Muses not to have heard of such matters. Anyway, it is said that these creatures were once humans in the ages before the Muses existed, and when the Muses came into being and song was made manifest, some people of that age were actually so stricken with pleasure that they neglected eating and drinking in favour of singing and did not even notice that they had died. After that, the race of cicadas sprang forth from them, having acquired a gift from the Muses, which meant they were born with no need for nutriment, but they immediately start singing, without either eating or drinking, until the day they die. Afterwards, they go to the Muses to report who in this realm pays respect to each one of them. And so they tell Terpsichore of those who have honoured her in dance, and they render them more agreeable to her, and they tell Erāto of those who honour her in matters of love, and they report to the other Muses in a similar fashion based upon the kind of honour that belongs to each. But to Calliope, the eldest, and to Ourania, next in age, they tell of those who spend their lives in philosophy and honour the music of these two Muses who are most associated with the heaven and with discourse, both human and divine, and send forth the most beautiful sound. So, there are very many reasons why we should converse in the middle of the day rather than sleep.",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Phaedrus",
+"text": "Yes, indeed, we should converse.",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Socrates",
+"text": "Well then, a moment ago we proposed to consider the manner in which a speech may be properly spoken or written, or badly spoken or written, so let us consider this.",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Phaedrus",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Socrates",
+"text": "Now, for anything to be spoken properly and well, mustn’t the mind of the speaker know the truth about the matters on which they intend to speak?",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Phaedrus",
+"text": "What I have heard on this question, dear Socrates, is that someone who intends to be an orator need not understand what is actually just, but only what will seem so to the majority of those who will pass judgement, and need not understand what is truly good, but only what will seem so. For persuasion arises from these seemings and not from the truth.",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Socrates",
+"text": "Whatever the wise may say, Phaedrus, ‘must not be cast aside’. Instead we should ask ourselves if they are right, and this statement in particular should not be dismissed.",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Phaedrus",
+"text": "What you say is correct.",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Socrates",
+"text": "Let us consider it then.",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Phaedrus",
+"text": "In what way?",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Socrates",
+"text": "If I were to persuade you to acquire a horse to repel our enemies, and we were both ignorant about horses, but I did happen to know this much about you: that Phaedrus believes that a horse is ‘the tame animal with the largest ears...’",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Phaedrus",
+"text": "That would be ridiculous, Socrates!",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Socrates",
+"text": "Not yet! But it would be ridiculous if I were so eager to persuade you that I composed a speech in praise of the donkey, calling it a horse and saying that the beast is well worth acquiring for domestic and military purposes, useful both for fighting and for its ability to carry equipment, and beneficial in many other ways.",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Phaedrus",
+"text": "Then it would be utterly ridiculous.",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Socrates",
+"text": "Now, isn’t it better to be ridiculous and friendly, rather than clever and hostile?",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Phaedrus",
+"text": "So it appears.",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Socrates",
+"text": "Well, suppose an orator, who is ignorant of good and evil, takes hold of a city in a similar state of ignorance, and persuades the people not by praising some silly donkey as if it were a horse, but by praising evil as if it were good. And suppose this orator studies the opinions of the multitude, and persuades them to do evil rather than good, what sort of harvest do you think this rhetoric will reap thereafter from the seeds it has sown?",
+"kind": "speech"
+},
+{
+"entry": 194,
+"who": "Phaedrus",
+"text": "It will not be very good.",
+"kind": "speech"
+},
+{
+"entry": 195,
+"who": "Socrates",
+"text": "Now, my good man, have we been reviling this skill in speaking more crudely than we should? Perhaps it might respond, ‘Strange people, why on earth are you talking such nonsense? Indeed, I do not compel anyone to learn how to speak in ignorance of the truth. No, if my advice counts for anything, they should acquire truth first and then have recourse to me. In fact, my proud boast is that without me, someone who knows things that are will not have the skill to persuade anyone else.’",
+"kind": "speech"
+},
+{
+"entry": 196,
+"who": "Phaedrus",
+"text": "And would the skill be right to say all this?",
+"kind": "speech"
+},
+{
+"entry": 197,
+"who": "Socrates",
+"text": "I think it would, provided the arguments that are descending upon it bear witness to the fact that it is a skill. For I seem, somehow, to hear some arguments approaching and testifying that it is lying, and that it is not a skill but an unskilled trick. And a Spartan is declaring that there is not, nor shall there ever be, a real skill in speaking unless there is contact with truth.",
+"kind": "speech"
+},
+{
+"entry": 198,
+"who": "Phaedrus",
+"text": "These are necessary arguments, Socrates. Bring them here and let us scrutinise what they are saying and how.",
+"kind": "speech"
+},
+{
+"entry": 199,
+"who": "Socrates",
+"text": "Come hither then, you noble creatures, and persuade Phaedrus, this begetter of fair offspring, that unless he engages properly in philosophy, he will never be able to speak properly about anything. So, let Phaedrus answer your questions.",
+"kind": "speech"
+},
+{
+"entry": 200,
+"who": "Phaedrus",
+"text": "Just ask.",
+"kind": "speech"
+},
+{
+"entry": 201,
+"who": "Socrates",
+"text": "Well then, wouldn’t rhetoric as a whole be a skill which leads the soul through words, not only in law courts and any other public meetings, but also in private? Isn’t it the same skill whether it involves minor or major issues and, strictly speaking, deserving of no more respect when dealing with important matters rather than trivial ones? Is this what you have heard?",
+"kind": "speech"
+},
+{
+"entry": 202,
+"who": "Phaedrus",
+"text": "No, by Zeus, it’s not as extensive as that! Rather, the skill in speaking and writing mainly applies to lawsuits and also to delivering public orations. I have not heard of this wider application.",
+"kind": "speech"
+},
+{
+"entry": 203,
+"who": "Socrates",
+"text": "What? Have you only heard the systems of rhetoric that Nestor and Odysseus composed in their spare time at Troy and have you not heard those of Palamedes?",
+"kind": "speech"
+},
+{
+"entry": 204,
+"who": "Phaedrus",
+"text": "No, by Zeus, nor those of Nestor either, unless you are turning Gorgias into Nestor, and Thrasymachus and Theodorus into Odysseus.",
+"kind": "speech"
+},
+{
+"entry": 205,
+"who": "Socrates",
+"text": "Perhaps. Anyway, let’s leave these fellows aside. You should state what legal disputants engage in, in courts of law. Do they not contradict one another? Or what shall we say?",
+"kind": "speech"
+},
+{
+"entry": 206,
+"who": "Phaedrus",
+"text": "Exactly that.",
+"kind": "speech"
+},
+{
+"entry": 207,
+"who": "Socrates",
+"text": "About what is just and what is unjust?",
+"kind": "speech"
+},
+{
+"entry": 208,
+"who": "Phaedrus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 209,
+"who": "Socrates",
+"text": "Won’t someone who does this by means of a skill make the same thing appear just at one moment and, if the person wishes, unjust the next moment to the very same people?",
+"kind": "speech"
+},
+{
+"entry": 210,
+"who": "Phaedrus",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 211,
+"who": "Socrates",
+"text": "And when engaged in public speaking that person will make the same thing seem good to the populace at one moment and the very opposite the next?",
+"kind": "speech"
+},
+{
+"entry": 212,
+"who": "Phaedrus",
+"text": "Just so.",
+"kind": "speech"
+},
+{
+"entry": 213,
+"who": "Socrates",
+"text": "And we know, don’t we, that the Eleatic Palamedes speaks with a skill that makes the same things appear to those listening as like and unlike, one and many, at rest and in motion?",
+"kind": "speech"
+},
+{
+"entry": 214,
+"who": "Phaedrus",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 215,
+"who": "Socrates",
+"text": "So, verbal contradiction is not associated only with law courts and public speaking but apparently, if it is actually a skill, it is a single skill associated with all verbal utterances. By means of this skill, someone will be able to make anything that is capable of resembling anything else resemble that which it is capable of resembling and bring to light any other resemblance that has been hidden.",
+"kind": "speech"
+},
+{
+"entry": 216,
+"who": "Phaedrus",
+"text": "What sort of activity are you describing?",
+"kind": "speech"
+},
+{
+"entry": 217,
+"who": "Socrates",
+"text": "I think it will become clearer if we investigate it as follows: does deception arise when there are many differences or just a few?",
+"kind": "speech"
+},
+{
+"entry": 218,
+"who": "Phaedrus",
+"text": "When there are few.",
+"kind": "speech"
+},
+{
+"entry": 219,
+"who": "Socrates",
+"text": "Then again, if you proceed in small steps rather than large ones, your transition to the opposite will be less noticeable.",
+"kind": "speech"
+},
+{
+"entry": 220,
+"who": "Phaedrus",
+"text": "Inevitably.",
+"kind": "speech"
+},
+{
+"entry": 221,
+"who": "Socrates",
+"text": "In that case, someone who intends to deceive another, without being deceived by the other, must understand the similarity and dissimilarity of things that are, in a precise manner.",
+"kind": "speech"
+},
+{
+"entry": 222,
+"who": "Phaedrus",
+"text": "Indeed.",
+"kind": "speech"
+},
+{
+"entry": 223,
+"who": "Socrates",
+"text": "Now, if someone is ignorant of the truth of something, will they be able to discern in anything else, a small or great similarity to that thing of which they are ignorant?",
+"kind": "speech"
+},
+{
+"entry": 224,
+"who": "Phaedrus",
+"text": "Impossible.",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Socrates",
+"text": "In the case of people who form opinions at variance with the things that are, and who are deceived, isn’t it obvious that this condition slips in by means of certain similarities?",
+"kind": "speech"
+},
+{
+"entry": 226,
+"who": "Phaedrus",
+"text": "Yes, it does happen in this way.",
+"kind": "speech"
+},
+{
+"entry": 227,
+"who": "Socrates",
+"text": "Now, is there any way that someone could be skilful in shifting people, little by little by means of similarities, away from what is, and lead them to its opposite? Or could someone avoid this situation, if the person had not recognised what each of those things that are, actually is?",
+"kind": "speech"
+},
+{
+"entry": 228,
+"who": "Phaedrus",
+"text": "Never.",
+"kind": "speech"
+},
+{
+"entry": 229,
+"who": "Socrates",
+"text": "So, my friend, a person who does not know the truth but who chases instead after opinions will, it seems, exhibit a ridiculously unskilled skill in speaking.",
+"kind": "speech"
+},
+{
+"entry": 230,
+"who": "Phaedrus",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 231,
+"who": "Socrates",
+"text": "Would you like to look for the features we have called skilled and unskilled in the speech of Lysias that you are carrying, and in those I delivered?",
+"kind": "speech"
+},
+{
+"entry": 232,
+"who": "Phaedrus",
+"text": "Oh, more than anything. Yes, at the moment we are speaking in an abstract way without having enough examples.",
+"kind": "speech"
+},
+{
+"entry": 233,
+"who": "Socrates",
+"text": "And, indeed, by some chance, it seems that the two speeches that have been delivered provide an example of the fact that someone who knows the truth may mislead those who hear by playing with words. And I myself, Phaedrus, blame the gods of this place, and perhaps also those prophets of the Muses who are singing above our heads, and who may have breathed this gift into us, for I do not presume to partake of any skill in speaking.",
+"kind": "speech"
+},
+{
+"entry": 234,
+"who": "Phaedrus",
+"text": "Be that as it may, just clarify what you are saying.",
+"kind": "speech"
+},
+{
+"entry": 235,
+"who": "Socrates",
+"text": "Then go ahead and read me the beginning of Lysias’ speech.",
+"kind": "speech"
+},
+{
+"entry": 236,
+"who": "Phaedrus",
+"text": "“You know about my affairs, and you have heard how I think it best for us to arrange things. But I do not deserve to fail in my request just because I am not actually your lover, since in the case of lovers there is regret...”",
+"kind": "speech"
+},
+{
+"entry": 237,
+"who": "Socrates",
+"text": "Stop! You should now say what error he makes, and what he does that is unskilled. Is that right?",
+"kind": "speech"
+},
+{
+"entry": 238,
+"who": "Phaedrus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 239,
+"who": "Socrates",
+"text": "Now, isn’t it obvious to everyone that in general we are like-minded on some issues of this sort, and at variance on some others?",
+"kind": "speech"
+},
+{
+"entry": 240,
+"who": "Phaedrus",
+"text": "I think I understand what you mean, but please explain it even more clearly.",
+"kind": "speech"
+},
+{
+"entry": 241,
+"who": "Socrates",
+"text": "Whenever someone utters the word for iron or silver, don’t we all think of the same thing?",
+"kind": "speech"
+},
+{
+"entry": 242,
+"who": "Phaedrus",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 243,
+"who": "Socrates",
+"text": "But what happens if someone refers to justice and injustice? Isn’t there a divergence, and don’t we dispute with one another and with ourselves?",
+"kind": "speech"
+},
+{
+"entry": 244,
+"who": "Phaedrus",
+"text": "We certainly do.",
+"kind": "speech"
+},
+{
+"entry": 245,
+"who": "Socrates",
+"text": "So in some cases we are in accord, and in others we are not.",
+"kind": "speech"
+},
+{
+"entry": 246,
+"who": "Phaedrus",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 247,
+"who": "Socrates",
+"text": "Now, in which of these two cases will we be more easily deceived, and in which case will rhetoric be more powerful?",
+"kind": "speech"
+},
+{
+"entry": 248,
+"who": "Phaedrus",
+"text": "Obviously in the cases where we are uncertain.",
+"kind": "speech"
+},
+{
+"entry": 249,
+"who": "Socrates",
+"text": "Therefore, a person who intends to develop a skill in rhetoric must first distinguish these methodically and apprehend some characteristic of each of the two forms, the one in which most people are bound to be uncertain, and the one in which they are not.",
+"kind": "speech"
+},
+{
+"entry": 250,
+"who": "Phaedrus",
+"text": "Socrates, even if someone had just apprehended this latter form, something worthwhile would have been understood.",
+"kind": "speech"
+},
+{
+"entry": 251,
+"who": "Socrates",
+"text": "And then, whenever the person is dealing with a particular instance, I think that person should not be oblivious as to which of the two kinds the intended subject belongs. No, there is a need to be keenly aware of this.",
+"kind": "speech"
+},
+{
+"entry": 252,
+"who": "Phaedrus",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 253,
+"who": "Socrates",
+"text": "Well, should we say that love is one of the controversial issues, or is it uncontroversial?",
+"kind": "speech"
+},
+{
+"entry": 254,
+"who": "Phaedrus",
+"text": "Presumably it is one of the controversial subjects, otherwise how would it be possible for you to say what you have said about it just now, that it is harmful both to the loved one and to the lover, and then again that it is among the greatest goods?",
+"kind": "speech"
+},
+{
+"entry": 255,
+"who": "Socrates",
+"text": "Excellently expressed! But tell me this too – for to tell you the truth, because of my inspired state I cannot really remember – whether I defined love at the beginning of the speech.",
+"kind": "speech"
+},
+{
+"entry": 256,
+"who": "Phaedrus",
+"text": "Yes, by Zeus! You placed considerable emphasis on that.",
+"kind": "speech"
+},
+{
+"entry": 257,
+"who": "Socrates",
+"text": "Oh! To this extent, you are saying that when it comes to speeches, the Nymphs, daughters of Achelous, and Pan, the son of Hermes, are more skilled than Lysias, the son of Cephalus. Or am I talking nonsense, and did Lysias, at the beginning of his speech concerned with love, compel us to accept that love was one of the things that are, a particular that he himself had in mind, and did he then arrange all of the rest of the speech in relation to this and bring it to a conclusion? Would you like us to read the beginning of it once more?",
+"kind": "speech"
+},
+{
+"entry": 258,
+"who": "Phaedrus",
+"text": "If you think we should, but what you are looking for is not in it.",
+"kind": "speech"
+},
+{
+"entry": 259,
+"who": "Socrates",
+"text": "Recite it anyway so that I may hear the man himself.",
+"kind": "speech"
+},
+{
+"entry": 260,
+"who": "Phaedrus",
+"text": "“You know about my affairs, and you have heard how I think it best for us to arrange things. But I do not deserve to fail in my request just because I am not actually your lover, since in the case of lovers there is regret for any good they may have done, once the desire comes to an end.”",
+"kind": "speech"
+},
+{
+"entry": 261,
+"who": "Socrates",
+"text": "It seems that this fellow really does fall far short of supplying what we are looking for. He does not even begin at the beginning but at the end, and he attempts to swim through the speech on his back, in reverse, and starts from those things which a lover would say to his favourite when he had concluded. Or have I spoken nonsense, Phaedrus, my dear one?",
+"kind": "speech"
+},
+{
+"entry": 262,
+"who": "Phaedrus",
+"text": "Anyway, Socrates, I grant you he is making a speech about an ending.",
+"kind": "speech"
+},
+{
+"entry": 263,
+"who": "Socrates",
+"text": "What about the rest of it? Don’t the other parts of the speech seem to have been thrown together at random? Does the second thing he said need to be placed second for any compelling reason, or indeed his other pronouncements? For it seemed to me, although I know nothing about this, that the writer, in a somewhat dignified manner, just uttered whatever occurred to him. But do you know any requirement of speechwriting according to which the man has placed these elements together in this particular order?",
+"kind": "speech"
+},
+{
+"entry": 264,
+"who": "Phaedrus",
+"text": "It is kind of you to think that I am up to the task of understanding the man’s pronouncements in such a precise manner.",
+"kind": "speech"
+},
+{
+"entry": 265,
+"who": "Socrates",
+"text": "But I think you could say this much anyway: every speech must be constructed just like a living creature with a body of its own, so that it is neither headless nor footless; instead it should be written possessing middle and extremities suited to one another and to the whole.",
+"kind": "speech"
+},
+{
+"entry": 266,
+"who": "Phaedrus",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 267,
+"who": "Socrates",
+"text": "Then consider whether your friend’s speech is arranged like this or not, and you will find that it is no different from the inscription which, some say, is inscribed on the tomb of Midas of Phrygia.",
+"kind": "speech"
+},
+{
+"entry": 268,
+"who": "Phaedrus",
+"text": "What is it like? And what characteristic are you referring to?",
+"kind": "speech"
+},
+{
+"entry": 269,
+"who": "Socrates",
+"text": "Well, the inscription is this:",
+"kind": "speech"
+},
+{
+"entry": 270,
+"who": "Socrates",
+"text": "A Maiden of bronze on Midas’ tomb I lie. As long as water flows and trees grow tall. Here I remain on his much-lamented grave. Proclaiming to passers-by that Midas is buried here",
+"kind": "speech"
+},
+{
+"entry": 271,
+"who": "Socrates",
+"text": "But I presume you recognise that it makes no difference which line you recite first or last.",
+"kind": "speech"
+},
+{
+"entry": 272,
+"who": "Phaedrus",
+"text": "You are mocking this speech of ours, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 273,
+"who": "Socrates",
+"text": "Well then, let us leave this speech aside in case you get upset. And yet I think it does contain many examples which it would be beneficial to examine, but not at all beneficial to imitate. Instead, we should proceed to the other speeches, for there was something in them, I believe, that anyone who wishes to study speeches would do well to observe.",
+"kind": "speech"
+},
+{
+"entry": 274,
+"who": "Phaedrus",
+"text": "What sort of thing are you referring to?",
+"kind": "speech"
+},
+{
+"entry": 275,
+"who": "Socrates",
+"text": "There were, in a sense, two opposing speeches. One stated that it is necessary to favour the lover, the other the non-lover.",
+"kind": "speech"
+},
+{
+"entry": 276,
+"who": "Phaedrus",
+"text": "And most assertively too.",
+"kind": "speech"
+},
+{
+"entry": 277,
+"who": "Socrates",
+"text": "I thought you were going to speak the truth and say ‘madly’. Anyway, that’s the very word I was looking for. In fact, we said that love is a madness, didn’t we?",
+"kind": "speech"
+},
+{
+"entry": 278,
+"who": "Phaedrus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 279,
+"who": "Socrates",
+"text": "Yes, but there are two forms of madness, the one arising from human disorders, and the other from a divine alteration of habitual attitudes.",
+"kind": "speech"
+},
+{
+"entry": 280,
+"who": "Phaedrus",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 281,
+"who": "Socrates",
+"text": "And we distinguished four categories of divine madness belonging to four gods. The prophetic kind was assigned to the inspiration of Apollo, the mystical to Dionysus, the poetical in turn to the Muses, and the fourth kind to Aphrodite and to Love, and we declared that this madness of love is the very best. Now, I do not know what the experience of love should be compared to. Perhaps we have made some connection with truth, perhaps instead we have been borne off in the wrong direction. Having blended a speech that is not entirely unconvincing, we chanted a hymn in the form of a story, with measure and with solemnity, in praise of your master and mine, Phaedrus, Love, the guardian of beautiful boys.",
+"kind": "speech"
+},
+{
+"entry": 282,
+"who": "Phaedrus",
+"text": "And it was very pleasant for me to hear it.",
+"kind": "speech"
+},
+{
+"entry": 283,
+"who": "Socrates",
+"text": "Then let us use this fact in order to understand how the speech was able to switch from censure to praise.",
+"kind": "speech"
+},
+{
+"entry": 284,
+"who": "Phaedrus",
+"text": "What aspect are you actually referring to?",
+"kind": "speech"
+},
+{
+"entry": 285,
+"who": "Socrates",
+"text": "It appears to me, for the most part, to have played a veritable game, and yet among these random pronouncements there were two forms, and if we were able, by some skill, to understand the potential of both, that would be most worthwhile.",
+"kind": "speech"
+},
+{
+"entry": 286,
+"who": "Phaedrus",
+"text": "What were they?",
+"kind": "speech"
+},
+{
+"entry": 287,
+"who": "Socrates",
+"text": "The first takes a collective view of things that are dispersed and multifarious and brings them into one form so that each is defined, and whatever you wish to impart on any occasion is made clear. It is like what we did just now in the case of love. Once we had defined what it is, whether adequately or inadequately, the speech was able, because of that, to state what was obvious and what was in agreement with itself.",
+"kind": "speech"
+},
+{
+"entry": 288,
+"who": "Phaedrus",
+"text": "And what is the other form you mentioned, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 289,
+"who": "Socrates",
+"text": "The ability to cut it up once more on the basis of forms, according to its natural joints, without trying to shatter a single part by going about it like a bad butcher. And just as our two recent speeches grasped the unreasoning part of the mind as a single common form, and just as the parts of a single body naturally appear in pairs with the same name, although one is on the left and the other on the right, so also did the two speeches regard the mental disorder in us as, by nature, a single form. One speech took the part cut from the left-hand side, cut this once more, and did not relent until, having found what you might call a left-sided love among them, it reviled this and was quite right to do so. The other speech, leading us through the parts of madness of the right-hand side, found and presented a love with the same name as the other one, except that it was divine, and it praised this as the cause of the greatest benefits that accrue to us.",
+"kind": "speech"
+},
+{
+"entry": 290,
+"who": "Phaedrus",
+"text": "What you are saying is entirely true.",
+"kind": "speech"
+},
+{
+"entry": 291,
+"who": "Socrates",
+"text": "Now, I myself, dear Phaedrus, am a lover of these processes of division and combination, so that I may be able to speak and to think. And if I believe that anyone else is able to discern a one in what is by nature multiple, I follow him ‘wherever he leads as though he were a god’. And indeed up until now I have referred to people who are able to do this as dialecticians, but whether or not I am describing them correctly, God knows. Now, tell me what we should call those who are instructed by yourself and Lysias. Do they go by the name of that skill in speaking which Thrasymachus and the others employ in order to become wise speakers themselves, and make others wise once they are prepared to bear gifts to them as though they were kings?",
+"kind": "speech"
+},
+{
+"entry": 292,
+"who": "Phaedrus",
+"text": "They are kingly men indeed, but when it comes to the processes you are asking about, they are not knowledgeable. Indeed, I think you are referring to this form correctly when you call it dialectic, and I think that rhetoric, for its part, is still escaping us.",
+"kind": "speech"
+},
+{
+"entry": 293,
+"who": "Socrates",
+"text": "What do you mean? Could there be anything of merit which has been deprived of these two processes and is regarded as a skill in any case? You and I should not show total disrespect, but we should also describe the part of rhetoric that is still left.",
+"kind": "speech"
+},
+{
+"entry": 294,
+"who": "Phaedrus",
+"text": "Yes, Socrates, presumably there is a great deal of material in the books that have been written about the skill of speech making.",
+"kind": "speech"
+},
+{
+"entry": 295,
+"who": "Socrates",
+"text": "Your reminder is well timed. In the first place, I think that a preamble needs to be delivered at the beginning of the speech. Is that so? Are these what you mean by the refinements of the skill?",
+"kind": "speech"
+},
+{
+"entry": 296,
+"who": "Phaedrus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 297,
+"who": "Socrates",
+"text": "And then, in second place, is an exposition and evidence to support it. Third are proofs and fourth come probabilities. And that superlative speech craftsman, the man from Byzantium, refers I believe to confirmation and added confirmation.",
+"kind": "speech"
+},
+{
+"entry": 298,
+"who": "Phaedrus",
+"text": "You mean the worthy Theodorus?",
+"kind": "speech"
+},
+{
+"entry": 299,
+"who": "Socrates",
+"text": "Of course. And he says we should employ refutation and added refutation, both in accusation and in defence. And can we avoid bringing in the superb Evenus of Paros, who was first to discover insinuation and incidental praise? And according to some people, he also recites incidental censures in verse to help his memory. A wise man indeed!",
+"kind": "speech"
+},
+{
+"entry": 300,
+"who": "Socrates",
+"text": "Shall we leave Tisias and Gorgias undisturbed, these men who have realised that appearances are more honourable than truth; and who also use force of speech to make minor issues appear important, and important issues appear minor; novelties appear ancient, and ancient truths appear novel; men who discovered how to speak concisely or interminably on any subject whatsoever? Now, when Prodicus heard me mention this he laughed, and said that he alone had discovered what skilled speech making involves: the speeches should be neither long nor short but duly measured.",
+"kind": "speech"
+},
+{
+"entry": 301,
+"who": "Phaedrus",
+"text": "Dear Prodicus, what unparalleled wisdom!",
+"kind": "speech"
+},
+{
+"entry": 302,
+"who": "Socrates",
+"text": "And we shall not mention Hippias, for I believe this stranger from Elis would vote the same way as Prodicus.",
+"kind": "speech"
+},
+{
+"entry": 303,
+"who": "Phaedrus",
+"text": "Why wouldn’t he?",
+"kind": "speech"
+},
+{
+"entry": 304,
+"who": "Socrates",
+"text": "And how shall we describe Polus and his array of inspired expressions such as ‘double-speech’ and ‘concise-speech’ and ‘image-speech’, and phrases that Licymnius gave him in order to produce eloquence.",
+"kind": "speech"
+},
+{
+"entry": 305,
+"who": "Phaedrus",
+"text": "Weren’t there Protagorean works of this kind too, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 306,
+"who": "Socrates",
+"text": "Yes, my boy, he wrote ‘Proper Diction’ and numerous other fine works. Then again, the Chalcedonian giant appears, quite skilfully, to have mastered lamentations on old age and poverty in long, drawn-out speeches, and this man, so he says, has become formidable at arousing crowds to anger, and appeasing them again by means of his charms, once they are angry. And he is a master of slander, and of the repudiation of slander, regardless of the source. And yet, when it comes to the conclusion of speeches, they all seem to agree with one another, although some use the term ‘recapitulation’ while others give it a different name.",
+"kind": "speech"
+},
+{
+"entry": 307,
+"who": "Phaedrus",
+"text": "Do you mean reminding your hearers towards the end of the speech of the various issues that have been referred to?",
+"kind": "speech"
+},
+{
+"entry": 308,
+"who": "Socrates",
+"text": "That is what I mean. And if you have anything else to say about the skill of speaking...",
+"kind": "speech"
+},
+{
+"entry": 309,
+"who": "Phaedrus",
+"text": "Minor matters, not worth mentioning.",
+"kind": "speech"
+},
+{
+"entry": 310,
+"who": "Socrates",
+"text": "Well, let us leave the minor issues aside and let us look at the others in a brighter light, and see what power they derive from this skill, and when.",
+"kind": "speech"
+},
+{
+"entry": 311,
+"who": "Phaedrus",
+"text": "And it is very powerful, Socrates, particularly in mass gatherings.",
+"kind": "speech"
+},
+{
+"entry": 312,
+"who": "Socrates",
+"text": "It is indeed. But take a look, you heavenly creature, and see if there seem to you to be gaps in the fabric they have woven, as there seem to me to be.",
+"kind": "speech"
+},
+{
+"entry": 313,
+"who": "Phaedrus",
+"text": "Just point them out to me.",
+"kind": "speech"
+},
+{
+"entry": 314,
+"who": "Socrates",
+"text": "Then tell me this: if someone were to approach your friend Eryximachus, or his father Acumenus, and say: “I know how to treat the body in a variety of ways so that it warms up and, if I wish, cools down; and if the idea strikes me, I can make it vomit or make its bowels move and all that sort of thing. What is more, because I know this, I am qualified to be a doctor and to make a doctor of anyone else on whom I confer the knowledge of these matters.” What do you think they would say when they heard this?",
+"kind": "speech"
+},
+{
+"entry": 315,
+"who": "Phaedrus",
+"text": "Well, what else could they do but ask whether the man also knows to whom each of these treatments should be administered, and when, and for how long?",
+"kind": "speech"
+},
+{
+"entry": 316,
+"who": "Socrates",
+"text": "And if he were to reply, “Not at all, but I regard anyone who learns these matters from me as capable of working out for himself these details which you ask about”?",
+"kind": "speech"
+},
+{
+"entry": 317,
+"who": "Phaedrus",
+"text": "I think they would say that the man is mad and believes that he has become a doctor on account of hearing something from a book or stumbling upon some minor remedies without knowing anything about the skill.",
+"kind": "speech"
+},
+{
+"entry": 318,
+"who": "Socrates",
+"text": "And what if someone were to approach Sophocles and Euripides and say that he knew how to make extremely lengthy orations about a trifling matter, and very short ones about a major issue, and that he could produce lamentations at will or, in contrast, speeches that terrify and intimidate, and so on and so forth? And what if he believed that when he passed this knowledge on, he was teaching people how to write tragedies?",
+"kind": "speech"
+},
+{
+"entry": 319,
+"who": "Phaedrus",
+"text": "Well, Socrates, I think that they would be amused by anyone who believed that tragedy was anything other than the proper arrangement of these elements with respect to one another, and to the play as a whole.",
+"kind": "speech"
+},
+{
+"entry": 320,
+"who": "Socrates",
+"text": "But I do not think they would be too harsh in their criticism. No, they would respond like a musician who meets up with someone who thinks he knows what harmony is because he happens to know how to play the highest note and the lowest note on a string. He would not say fiercely, “You sorry wretch!” but like the gentle musician that he is, he would say, “Excellent fellow, anyone who intends to understand harmony must indeed have knowledge of these things. However, someone at your stage of development could still be devoid of even the smallest understanding of harmony. In fact, you know the necessary prerequisites for harmony, but not the principles of harmony.”",
+"kind": "speech"
+},
+{
+"entry": 321,
+"who": "Phaedrus",
+"text": "Absolutely correct.",
+"kind": "speech"
+},
+{
+"entry": 322,
+"who": "Socrates",
+"text": "And wouldn’t Sophocles say that the person who is showing off to them knows the prerequisites for tragedy, but not the principles of tragedy? And in the case of Acumenus, wouldn’t he say that the person knows the prerequisites for medicine, but not the principles of medicine?",
+"kind": "speech"
+},
+{
+"entry": 323,
+"who": "Phaedrus",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 324,
+"who": "Socrates",
+"text": "But what if the honey-voiced Adrastus, or even Pericles, were to hear about those glorious technicalities we listed a moment ago, the aphoristic utterances and image-speaking, and anything else we described when we said they should be examined in a brighter light? Do you think they would respond angrily, just like you and me, and direct some coarse, boorish expression at the people who have written about this, and teach it too, as though it were the skill of rhetoric? Or, since they are both wiser than us, would they rebuke us and say, “Dear Phaedrus and Socrates, you should be sympathetic, rather than angry, if some people with no knowledge of dialectic prove incapable of discerning what exactly rhetoric is, and in this predicament think they have discovered rhetoric when they know the necessary prerequisites of that skill, and actually believe they have provided comprehensive instruction to others when they teach them these prerequisites, but believe that delivering these assorted devices in a persuasive manner, and also assembling them into a whole, is an insignificant task which their pupils must figure out for themselves when they compose speeches.”?",
+"kind": "speech"
+},
+{
+"entry": 325,
+"who": "Phaedrus",
+"text": "Yes, certainly, Socrates. I grant you that these men write about this sort of thing and teach it as if it were the skill of rhetoric, and I think that what you have said is true. But the question is how and from where may someone acquire the genuine skill of rhetoric and persuasion?",
+"kind": "speech"
+},
+{
+"entry": 326,
+"who": "Socrates",
+"text": "Phaedrus, the ability to do this, and become an accomplished performer in the process, is probably acquired just like any other. In fact, it must be. If you happen to have a natural rhetorical ability, you will be a notable rhetorician once this is supplemented by knowledge and practice, but if you are lacking in any of these, you will be imperfect in that respect. However, the approach taken by Lysias and Thrasymachus does not, as I see it, recognise rhetoric as a skill.",
+"kind": "speech"
+},
+{
+"entry": 327,
+"who": "Phaedrus",
+"text": "Well, what should they have done?",
+"kind": "speech"
+},
+{
+"entry": 328,
+"who": "Socrates",
+"text": "My friend, it is highly likely that Pericles has become the most accomplished rhetorician of them all.",
+"kind": "speech"
+},
+{
+"entry": 329,
+"who": "Phaedrus",
+"text": "Why so?",
+"kind": "speech"
+},
+{
+"entry": 330,
+"who": "Socrates",
+"text": "All of the great skills need to be supplemented by verbose and elevated discussion about nature, for it seems that this high-mindedness and total effectiveness originate from something of this sort. And Pericles has acquired this in addition to his natural talents, for I believe he fell in with someone of this sort in the person of Anaxagoras, and was filled full of elevated discourse, and appreciated the nature of reason and mind, the very matters on which Anaxagoras constructed an extensive argument. Pericles drew upon this and applied it, as appropriate, to the skill of speech-making.",
+"kind": "speech"
+},
+{
+"entry": 331,
+"who": "Phaedrus",
+"text": "What do you mean by this?",
+"kind": "speech"
+},
+{
+"entry": 332,
+"who": "Socrates",
+"text": "I presume that skill in medicine works in the same way as skill in rhetoric.",
+"kind": "speech"
+},
+{
+"entry": 333,
+"who": "Phaedrus",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 334,
+"who": "Socrates",
+"text": "In both cases we have to determine a nature; in one instance it is the nature of a body and in the other it is the nature of a soul. This is necessary if you intend to proceed by means of a skill, rather than by experience alone, either to engender health and strength by administering drugs and nutriment, or to import whatever excellence and conviction you wish into the soul through words and the cultivation of lawful habits.",
+"kind": "speech"
+},
+{
+"entry": 335,
+"who": "Phaedrus",
+"text": "Yes, that sounds plausible, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 336,
+"who": "Socrates",
+"text": "Now, do you think it is possible to discern the nature of soul adequately without discerning the nature of the whole?",
+"kind": "speech"
+},
+{
+"entry": 337,
+"who": "Phaedrus",
+"text": "Well, if we are to be persuaded by Hippocrates, the Asclepiad, we cannot even know about the body except through this method.",
+"kind": "speech"
+},
+{
+"entry": 338,
+"who": "Socrates",
+"text": "Well said, my friend. However, in addition to the testimony of Hippocrates we should scrutinise our own account to see if it concurs with his.",
+"kind": "speech"
+},
+{
+"entry": 339,
+"who": "Phaedrus",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 340,
+"who": "Socrates",
+"text": "Then consider what precisely Hippocrates and the true account say regarding nature. Now, we should keep the following questions in mind in relation to the nature of anything at all. First, is it something simple or multiform in which we wish to be skilful ourselves and capable of making others skilful? Then, if it is simple, what natural capacity does it have to act, and upon what, and what capacity does it have to be acted upon by anything else? And if it has more forms than one, then we should count them, and, as in the case when there was only one, ask, in each instance, what that particular form is naturally adapted to do, or to have done to it by anything else.",
+"kind": "speech"
+},
+{
+"entry": 341,
+"who": "Phaedrus",
+"text": "Very likely, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 342,
+"who": "Socrates",
+"text": "In any case, a method devoid of these considerations would be just like the progress of a blind man. But we certainly should not liken any approach based upon a skill to the progress of the blind or the deaf. No, it is obvious that if anyone systematically imparts speech-making to another, he will reveal the essence of that nature towards which the speeches are directed, and that, I presume, will be the soul.",
+"kind": "speech"
+},
+{
+"entry": 343,
+"who": "Phaedrus",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 344,
+"who": "Socrates",
+"text": "Therefore, all of his effort is directed towards soul, for he is attempting to bring about a conviction in the soul. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 345,
+"who": "Phaedrus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 346,
+"who": "Socrates",
+"text": "So it is obvious that Thrasymachus, or anyone else who seriously imparts a system of rhetoric, will in the first place write with the utmost precision, and then enable us to see whether soul is in its nature one and uniform, or multiform like the structure of the body, for this is what we mean by revealing its nature.",
+"kind": "speech"
+},
+{
+"entry": 347,
+"who": "Phaedrus",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 348,
+"who": "Socrates",
+"text": "And secondly, he would clarify what by nature it enacts, by what; or what it undergoes, on account of what.",
+"kind": "speech"
+},
+{
+"entry": 349,
+"who": "Phaedrus",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 350,
+"who": "Socrates",
+"text": "And thirdly, once he has set out the classes of speeches and of souls, and the influence of the speeches, he will explain all this, matching each speech to a soul, and teaching us what kind of soul must, perforce, be persuaded or not persuaded by what kind of speeches, and the reason why this must be so.",
+"kind": "speech"
+},
+{
+"entry": 351,
+"who": "Phaedrus",
+"text": "Well, I think that would be an excellent way to proceed.",
+"kind": "speech"
+},
+{
+"entry": 352,
+"who": "Socrates",
+"text": "Well then, my friend, neither this speech nor any other will ever be spoken or written by means of a skill, unless it is presented and delivered with this in view. But those who compose systems of rhetoric these days, the people you have heard of, are cunning, and they conceal the fact that they are extremely knowledgeable about the soul. So, until they describe this approach and write about it, we should not accept their claim that they are writing based upon a skill.",
+"kind": "speech"
+},
+{
+"entry": 353,
+"who": "Phaedrus",
+"text": "What approach are you referring to?",
+"kind": "speech"
+},
+{
+"entry": 354,
+"who": "Socrates",
+"text": "It is not easy to give you the formulations themselves, but I would like to describe the manner in which one must write if the work is to be executed as skilfully as possible.",
+"kind": "speech"
+},
+{
+"entry": 355,
+"who": "Phaedrus",
+"text": "Tell me.",
+"kind": "speech"
+},
+{
+"entry": 356,
+"who": "Socrates",
+"text": "Since the power of speech consists in leading the soul, the one who intends to be an orator needs to know how many forms of soul there are, that their number is such and such, and there are these types and these other types, and consequently there are people of one sort and people of another sort. And then, once he has categorised souls in this way, there are also various forms of speeches, each with its own qualities. People of a certain kind are easily persuaded to particular viewpoints by speeches of this sort for this reason, while these other people are difficult to persuade for these other reasons. And once he has a proper understanding of these factors and can also see them in operation in practical situations, he must be able to pay keen attention to them or he will derive no benefit, as yet, from the instructions he heard whilst attending the lectures.",
+"kind": "speech"
+},
+{
+"entry": 357,
+"who": "Socrates",
+"text": "And when he has the competence to state that this sort of person is persuaded by speeches of this sort, he is able to recognise that person if he happens to meet him, and satisfy himself that the person now standing before him represents a particular nature which was once described in lectures, a nature to which he will have to apply certain speeches in a particular way to persuade it in certain directions; once he has understood all this, and has also appreciated when it is time to speak or to refrain from speaking, and recognises the right time and the wrong time for the aphorisms, lamentations, intensifications or any of the other rhetorical devices he has learned, then and not till then does his skill in rhetoric attain complete and glorious consummation. But if someone ignores these principles when he teaches or speaks or writes, but still claims to speak by means of a skill, it is best not to believe him. But perhaps our fellow author will ask, “Well then, Socrates and Phaedrus, is that it? Is there no other way to describe the skill of speech-making than this?”",
+"kind": "speech"
+},
+{
+"entry": 358,
+"who": "Phaedrus",
+"text": "I think it is impossible to describe it in any other way, Socrates, although it is turning out to be no minor undertaking.",
+"kind": "speech"
+},
+{
+"entry": 359,
+"who": "Socrates",
+"text": "True! For this reason we should scrutinise all the arguments from every angle to see if some easier, shorter means of attaining this skill turns up, so that we do not go off in vain down a long, rough road when there is a short and smooth one. But if you have any kind of assistance to offer from what you have heard from Lysias or anyone else, try to remember it and tell me.",
+"kind": "speech"
+},
+{
+"entry": 360,
+"who": "Phaedrus",
+"text": "I would have something to say if it were just a matter of trying, but at the moment I have nothing to offer.",
+"kind": "speech"
+},
+{
+"entry": 361,
+"who": "Socrates",
+"text": "Then would you like me to recount an argument I have heard from some people who are concerned with these issues?",
+"kind": "speech"
+},
+{
+"entry": 362,
+"who": "Phaedrus",
+"text": "What is it?",
+"kind": "speech"
+},
+{
+"entry": 363,
+"who": "Socrates",
+"text": "Anyway, Phaedrus, it is said that even the wolf deserves to have his say.",
+"kind": "speech"
+},
+{
+"entry": 364,
+"who": "Phaedrus",
+"text": "Then you should take his part.",
+"kind": "speech"
+},
+{
+"entry": 365,
+"who": "Socrates",
+"text": "Well, some people say that these issues do not have to be made so solemn and principled through such lengthy elaboration. For as we said at the start of this discussion, when it comes to issues of good and right, or men who possess such qualities either naturally or through education, the one who intends to be a rhetorician need not be concerned with truth in any way at all. For in the law courts, they say, no one at all cares one jot about the truth of these matters. No, they care about persuasion, and what is persuasive is what is likely, so anyone who intends to speak skilfully should pay attention to this. In fact, sometimes one should not even refer to the actual events if they occurred in an unlikely manner. Instead, one should describe likely events whether in a prosecution or a defence, and in all that is said one should pursue likelihood and, for the most part, bid farewell to the truth. For this, when maintained throughout the entire speech, represents the sum total of the skill of rhetoric.",
+"kind": "speech"
+},
+{
+"entry": 366,
+"who": "Phaedrus",
+"text": "Yes, Socrates, the men who make out that they are skilled speechmakers say what you have just said. In fact, I recall that we touched upon this sort of issue briefly in our earlier discussion, but it seems to be extremely important to those who are concerned with these things.",
+"kind": "speech"
+},
+{
+"entry": 367,
+"who": "Socrates",
+"text": "And indeed you have made a careful study of Tisias himself, so let Tisias inform us too. He says that likelihood is nothing other than ‘how things seem to most people’.",
+"kind": "speech"
+},
+{
+"entry": 368,
+"who": "Phaedrus",
+"text": "What else could it be?",
+"kind": "speech"
+},
+{
+"entry": 369,
+"who": "Socrates",
+"text": "Yes, it is quite likely that in the light of this wise and skilful insight, he wrote that if a weak brave man beats up a strong coward and steals his cloak or something else, and is brought before a court, neither of them should speak the truth. Instead the coward, for his part, should say that the brave man was not acting alone when he beat him up, while the other fellow should retort that there was only the pair of them, and should have recourse to the standard defence, ‘How could a man like me have taken on a man like this?’ Then the other chap will not mention his cowardice but, in his efforts to come up with some other lie, will probably furnish his opponent with a counterargument. And, indeed, whatever the situation, this is the sort of thing that the skilled speaker says. Isn’t this so, Phaedrus?",
+"kind": "speech"
+},
+{
+"entry": 370,
+"who": "Phaedrus",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 371,
+"who": "Socrates",
+"text": "Gosh! Tisias, or someone else, whoever he is, and whatever he likes to be named after, has discovered a skill that has been most ingeniously hidden! Yet, my friend, there is something we should say to him, or perhaps not...",
+"kind": "speech"
+},
+{
+"entry": 372,
+"who": "Phaedrus",
+"text": "What?",
+"kind": "speech"
+},
+{
+"entry": 373,
+"who": "Socrates",
+"text": "This. “Dear Tisias, a while ago, before you joined us, we happened to be saying that this notion of likelihood tends to arise in most people because of likenesses to the truth. But we explained earlier that the person who knows the truth is best equipped in every respect to discover the likenesses. So, if you say anything else about the skill of speaking we shall listen, but if not, we shall believe what we have already explained, that unless someone enumerates the various natures among his prospective audience, and distinguishes things that are on the basis of forms, and unless he is capable of comprehending each particular through a single characteristic, he will never be skilled at speaking to the extent that a human being can be. But these abilities will never be acquired without a great deal of effort which a wise man should undertake, not for purposes of speaking and acting towards his fellow men, but in order to be capable of speaking what is acceptable to the gods, and of acting to his utmost capacity in a manner acceptable to them. Well, there it is, Tisias. Those who are wiser than us proclaim that a man of reason should be concerned, not with gratifying his fellow slaves, except incidentally, but with gratifying his masters who are good in every way. So don’t be surprised if the journey is a long and circuitous one, for we should take the circuitous route in pursuit of exalted objectives, and not the objectives that concern you. And yet according to this argument, if you want these objectives they are best produced from exalted ones.”",
+"kind": "speech"
+},
+{
+"entry": 374,
+"who": "Phaedrus",
+"text": "I think you are describing this gloriously, Socrates. If only someone could enact it.",
+"kind": "speech"
+},
+{
+"entry": 375,
+"who": "Socrates",
+"text": "But it is good for someone who strives for the good to accept whatever may befall him.",
+"kind": "speech"
+},
+{
+"entry": 376,
+"who": "Phaedrus",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 377,
+"who": "Socrates",
+"text": "Well, that is enough said about skill and absence of skill in speaking.",
+"kind": "speech"
+},
+{
+"entry": 378,
+"who": "Phaedrus",
+"text": "Indeed.",
+"kind": "speech"
+},
+{
+"entry": 379,
+"who": "Socrates",
+"text": "We are left with the question of the appropriateness and inappropriateness of writing, and how it may be executed in a worthy or an inappropriate manner. Do you agree?",
+"kind": "speech"
+},
+{
+"entry": 380,
+"who": "Phaedrus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 381,
+"who": "Socrates",
+"text": "Do you know how best to please a god with speeches, either by performing them or discussing them?",
+"kind": "speech"
+},
+{
+"entry": 382,
+"who": "Phaedrus",
+"text": "Not at all. Do you?",
+"kind": "speech"
+},
+{
+"entry": 383,
+"who": "Socrates",
+"text": "Anyway I can tell what I have heard from those who have gone before us, but they are the ones who know the truth. Yet if we were to discover it ourselves, would any of the preoccupations of humanity still concern us?",
+"kind": "speech"
+},
+{
+"entry": 384,
+"who": "Phaedrus",
+"text": "It is ridiculous to ask that question but do tell me what you say you have heard.",
+"kind": "speech"
+},
+{
+"entry": 385,
+"who": "Socrates",
+"text": "Well, I heard that at Naucratis in Egypt there was a certain ancient god of that place, whose sacred bird is the one they call the Ibis, while the name of the divine being himself was Theuth. He was first to discover number and calculation, geometry and astronomy, and also draughts and dice, and of course writing. Now, at that time, Thamus was king of all Egypt round about the great city of the upper region. The Greeks call this city Egyptian Thebes and they refer to Thamus as Ammon. Theuth went to this king to show off his discoveries, and he proposed that they should be passed on to the rest of the Egyptians, and Thamus asked what benefit each of them possessed, and as Theuth explained this he praised whatever seemed worthwhile and criticised whatever did not. Now, Thamus is said to have expressed many views both positive and negative to Theuth about each of the skills, so an account of these would be quite lengthy. But when he came to writing, Theuth said, “This branch of learning, O King, will make the Egyptians wiser and give them better memories, for I have discovered an elixir of both memory and wisdom.” The king replied, “Oh most ingenious Theuth, one man is able to invent these skills, but a different person is capable of judging their benefit or harm to those who will use them. And you, as the father of writing, on account of your positive attitude, are now saying that it does the opposite of what it is able to do. This subject will engender forgetfulness in the souls of those who learn it, for they will not make use of memory. Because of their faith in writing, they will be reminded externally by means of unfamiliar marks, and not from within themselves by means of themselves. So, you have discovered an elixir not of memory but of reminding. You will provide the students with a semblance of wisdom, not true wisdom. For having heard a great deal without any teaching, they will seem to be extremely knowledgeable, when for the most part they are ignorant, and are difficult people to be with because they have attained a seeming wisdom without being wise.”",
+"kind": "speech"
+},
+{
+"entry": 386,
+"who": "Phaedrus",
+"text": "Oh, Socrates, it is so easy for you to make up stories about Egypt or anywhere else you please!",
+"kind": "speech"
+},
+{
+"entry": 387,
+"who": "Socrates",
+"text": "And yet, my friend, the people in the sanctuary of Zeus at Dodona said the first prophetic utterances were the words of an oak tree. Of course, the men of that time were not as wise as you moderns, and it was enough for them, on account of their simple-mindedness, to listen to oak trees or rocks if they only spoke the truth. But it probably makes a difference to you who the speaker is and where he comes from. Do you not consider the only relevant issue to be whether or not these things are so?",
+"kind": "speech"
+},
+{
+"entry": 388,
+"who": "Phaedrus",
+"text": "You are right to rebuke me, and I do think that what the Theban king says about writing is correct.",
+"kind": "speech"
+},
+{
+"entry": 389,
+"who": "Socrates",
+"text": "Then a person who thinks he has left a skill in writing behind him, and anyone who, for his part, inherits this on the assumption that something clear and certain will emerge from writing, would be full of enormous silliness, and indeed ignorant of the prophetic words of Ammon in believing that written words are anything more than a reminder to a person who already knows whatever it is that the written words may refer to.",
+"kind": "speech"
+},
+{
+"entry": 390,
+"who": "Phaedrus",
+"text": "Correct.",
+"kind": "speech"
+},
+{
+"entry": 391,
+"who": "Socrates",
+"text": "Yes, Phaedrus, I think that writing has a strange feature that makes it quite like painting. For the offspring of the painter’s skill stand before us like living creatures, but if you ask them a question, they are very solemnly silent. And the same goes for written words. You might assume that they are speaking with some degree of intelligence, but if you wish to learn from them and you ask them a question about what they are saying, they just point to one thing and it is always the same. And once they have been written down, every word is bandied about indiscriminately to people who understand it, and to those for whom it is not appropriate at all, and it does not know to whom it should speak and to whom it should not. And when it is ill-treated or unjustly criticised the word always needs its father to come to its aid, for it is unable either to defend or assist itself.",
+"kind": "speech"
+},
+{
+"entry": 392,
+"who": "Phaedrus",
+"text": "You are perfectly right about that.",
+"kind": "speech"
+},
+{
+"entry": 393,
+"who": "Socrates",
+"text": "Well then, do we see another word, the legitimate brother of this one, the manner in which it arises and how much more excellently and powerfully it develops?",
+"kind": "speech"
+},
+{
+"entry": 394,
+"who": "Phaedrus",
+"text": "What is it and how do you say it arises?",
+"kind": "speech"
+},
+{
+"entry": 395,
+"who": "Socrates",
+"text": "The word that is written, along with knowledge, in the soul of the one who is learning, capable of defending itself, yet knowing to whom it should speak and with whom it should be silent.",
+"kind": "speech"
+},
+{
+"entry": 396,
+"who": "Phaedrus",
+"text": "You are talking about the living and ensouled word of the man who knows, of which the written word may rightly be called an image.",
+"kind": "speech"
+},
+{
+"entry": 397,
+"who": "Socrates",
+"text": "Entirely so. Now, tell me this. Would a farmer who possesses intelligence, holding seeds that he cares about and wants to see as fruit, sow them in all seriousness in summer in some garden of Adonis, and delight in beholding the manifestation of their beauty within eight days? Or, if he were to do this at all, would he do it only for the sake of amusement at a festival? But if he were serious about these, wouldn’t he have recourse to the skill of husbandry, and having sown them in the appropriate soil, be content if whatever he had sown attained perfection in the eighth month?",
+"kind": "speech"
+},
+{
+"entry": 398,
+"who": "Phaedrus",
+"text": "Yes, Socrates, I think he would be acting seriously in one situation and quite differently in the other, just as you say.",
+"kind": "speech"
+},
+{
+"entry": 399,
+"who": "Socrates",
+"text": "And are we to say that somebody who has knowledge of things just and beautiful and good has any less insight than the farmer in relation to his own seeds?",
+"kind": "speech"
+},
+{
+"entry": 400,
+"who": "Phaedrus",
+"text": "Not the slightest.",
+"kind": "speech"
+},
+{
+"entry": 401,
+"who": "Socrates",
+"text": "So this person will not, with any seriousness, write them in black water, sowing them through a pen, along with words that are unable to come to their own aid in a discussion, and also are unable to teach the truth adequately.",
+"kind": "speech"
+},
+{
+"entry": 402,
+"who": "Phaedrus",
+"text": "No, that is most unlikely.",
+"kind": "speech"
+},
+{
+"entry": 403,
+"who": "Socrates",
+"text": "No indeed! But if he does write he will, it seems, sow and write his gardens of letters for the sake of amusement, storing up reminders both for himself when he arrives at the forgetfulness of old age, and for everyone else who follows the same trail, and he will take delight in beholding their tender growth. And while others have recourse to amusements of a different sort, deluging themselves at drinking parties and pursuing a variety of related pastimes, this man, it seems, will prefer to spend his time in the amusements I have described.",
+"kind": "speech"
+},
+{
+"entry": 404,
+"who": "Phaedrus",
+"text": "You are describing a glorious game, Socrates, alongside a mundane one, the pastime of a man who is able to play with words, telling stories about justice and the other topics you are referring to.",
+"kind": "speech"
+},
+{
+"entry": 405,
+"who": "Socrates",
+"text": "It is indeed, dear Phaedrus. But I think it is far better to become serious about these matters as when someone, through recourse to the skill of dialectic, takes a fitting soul and plants and sows words based on knowledge; words that are sufficient to assist themselves and the one who planted them; that are not fruitless, but possess a seed from which others grow in other natures; able to render the seed ever immortal, and make the one who possesses it blessed to the fullest possible extent of human blessedness.",
+"kind": "speech"
+},
+{
+"entry": 406,
+"who": "Phaedrus",
+"text": "Yes, the approach you are describing is far better.",
+"kind": "speech"
+},
+{
+"entry": 407,
+"who": "Socrates",
+"text": "Well, now that we have come to an agreement about these matters, Phaedrus, we can decide about those other issues too.",
+"kind": "speech"
+},
+{
+"entry": 408,
+"who": "Phaedrus",
+"text": "What issues?",
+"kind": "speech"
+},
+{
+"entry": 409,
+"who": "Socrates",
+"text": "Well, it was the desire to look at those issues that brought us to this point, the manner in which we might investigate the criticism of Lysias on the grounds of being a speechwriter, and whether the speeches themselves were written by means of a skill or without one. Now, I think that this presence or absence of skill has been explained well enough.",
+"kind": "speech"
+},
+{
+"entry": 410,
+"who": "Phaedrus",
+"text": "Yes, so it seemed anyway, but remind me again of how we did it.",
+"kind": "speech"
+},
+{
+"entry": 411,
+"who": "Socrates",
+"text": "Our entire previous discussion has revealed that until someone knows the truth of each of the matters about which he is speaking or writing and has developed the ability to define the whole by itself, and once he has defined this, knows how to cut it up again on the basis of forms as far as what cannot be cut. And until he understands the nature of soul on the same basis, discovering the form appropriate to each nature, and arranges and constructs his speech accordingly, presenting variegated and elaborate words to a complex soul and simple words to a simpler soul, he will not be able to engage, with skill, in the practice of speechmaking to the extent that nature allows, neither for the purposes of instruction nor for the purposes of persuasion.",
+"kind": "speech"
+},
+{
+"entry": 412,
+"who": "Phaedrus",
+"text": "Yes, absolutely! This is what our discussion has shown.",
+"kind": "speech"
+},
+{
+"entry": 413,
+"who": "Socrates",
+"text": "But what about the question of delivering and writing speeches, and whether this is noble or shameful, and the sense in which the activity may properly become a matter of reproach or praise? Haven’t our earlier explanations dealt with this?",
+"kind": "speech"
+},
+{
+"entry": 414,
+"who": "Phaedrus",
+"text": "What explanations?",
+"kind": "speech"
+},
+{
+"entry": 415,
+"who": "Socrates",
+"text": "That if Lysias or anyone else has ever written or will ever write, either in private or as a public lawmaker writing a political treatise, in the belief that there is any great certainty or clarity therein, this behaviour is a reproach to the writer whether someone actually expresses this or not. For a person who cannot tell a dream of justice and injustice or good and evil from the reality will never, in truth, escape reproach even if the entire populace applauds it.",
+"kind": "speech"
+},
+{
+"entry": 416,
+"who": "Phaedrus",
+"text": "Not at all.",
+"kind": "speech"
+},
+{
+"entry": 417,
+"who": "Socrates",
+"text": "But the person who realises that in a written discourse on any topic there must be a great deal that is playful; that not one composition in verse or in prose that deserves to be taken seriously has yet been written, nor has any been expounded as the rhapsodes do, without any analysis or instruction, in order to produce persuasion; that in reality the best of these speeches act as a reminder to those who already know; that only in what is taught or spoken for the sake of instruction, and is actually inscribed in the soul in relation to the just and beautiful and good, is there clarity and perfection and anything worth taking seriously; a person who realises that words such as these should be referred to as his own legitimate sons, the first being the one within himself, if it be found there, and then any offspring and brothers of this which may have sprung up in a worthy manner at the same time in other souls of other persons, and who bids farewell to any other words; this, Phaedrus, is surely the sort of person that you and I would each pray to become.",
+"kind": "speech"
+},
+{
+"entry": 418,
+"who": "Phaedrus",
+"text": "Entirely so. What you are describing is just what I wish for and pray for.",
+"kind": "speech"
+},
+{
+"entry": 419,
+"who": "Socrates",
+"text": "Well then, let that be the extent of our entertainment with speeches. You should go now and tell Lysias that we both went down to the river and sacred place of the Nymphs, and we heard words directing us to send a message to Lysias and anyone else who composes speeches; to Homer or anyone else who, for his part, has composed poetry in verse or in song; and thirdly, to Solon and anyone who has written political speeches and given them the name of laws. The message is that if he composed these knowing where the truth lies, and if he can provide support when the views he set down are challenged, and is able to demonstrate when he himself is speaking that his written words are of lesser rate, then a man of this sort should not be given a name associated with those literary activities, but should be named after the matters he takes seriously.",
+"kind": "speech"
+},
+{
+"entry": 420,
+"who": "Phaedrus",
+"text": "What will you call him then?",
+"kind": "speech"
+},
+{
+"entry": 421,
+"who": "Socrates",
+"text": "I think it would be a big step, Phaedrus, to call him ‘wise’ because this is appropriate only for a god. The title ‘lover of wisdom’ or something of that sort would suit him better and would be more modest.",
+"kind": "speech"
+},
+{
+"entry": 422,
+"who": "Phaedrus",
+"text": "And not inappropriate either.",
+"kind": "speech"
+},
+{
+"entry": 423,
+"who": "Socrates",
+"text": "And wouldn’t you be quite right to refer to someone as a poet or speechwriter or law writer if he, for his part, possesses nothing of more value than what he has composed or written through various twists and turns, adding bits on and taking bits away over the course of time?",
+"kind": "speech"
+},
+{
+"entry": 424,
+"who": "Phaedrus",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 425,
+"who": "Socrates",
+"text": "Then tell all this to your friend.",
+"kind": "speech"
+},
+{
+"entry": 426,
+"who": "Phaedrus",
+"text": "But what about you? What will you do? Your friend should not be overlooked either.",
+"kind": "speech"
+},
+{
+"entry": 427,
+"who": "Socrates",
+"text": "Who is that?",
+"kind": "speech"
+},
+{
+"entry": 428,
+"who": "Phaedrus",
+"text": "The fair Isocrates. What message will you give to him, Socrates? What will we say that he is?",
+"kind": "speech"
+},
+{
+"entry": 429,
+"who": "Socrates",
+"text": "Isocrates is still young, Phaedrus. Yet I would like to say what I prophesy for him.",
+"kind": "speech"
+},
+{
+"entry": 430,
+"who": "Phaedrus",
+"text": "Oh! What is it?",
+"kind": "speech"
+},
+{
+"entry": 431,
+"who": "Socrates",
+"text": "I think that his natural endowments are superior to the speeches of Lysias, and there is a nobler blend in his character. So it would be no surprise, in view of his current interest in discourse, if he were to make all those who have previously taken to speech look no better than children in comparison, once he comes of age, especially if these pursuits do not satisfy him and some more divine impulse leads him to the greater; for my friend, there is some philosophy present by nature in the mind of that man. So, these are the words I convey from the gods of this place to Isocrates, as my beloved, while you convey those other words to Lysias, as yours.",
+"kind": "speech"
+},
+{
+"entry": 432,
+"who": "Phaedrus",
+"text": "So be it. Then let us depart now that the heat has died down.",
+"kind": "speech"
+},
+{
+"entry": 433,
+"who": "Socrates",
+"text": "Is it not surely appropriate to pray to the gods of the place before leaving?",
+"kind": "speech"
+},
+{
+"entry": 434,
+"who": "Phaedrus",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 435,
+"who": "Socrates",
+"text": "O beloved Pan and any other gods who are here, grant that I may become beautiful within, and that all my outer possessions be in friendly concord with the inner. May I regard the wise as the wealthy, and may I have as much gold as only a sound-minded person could bear and carry. Need we say anything else, Phaedrus? That prayer is enough for me.",
+"kind": "speech"
+},
+{
+"entry": 436,
+"who": "Phaedrus",
+"text": "Let me join in that prayer too, for friends have all things in common.",
+"kind": "speech"
+},
+{
+"entry": 437,
+"who": "Socrates",
+"text": "Let us go.",
+"kind": "speech"
+}
+]
+}
+]
+}

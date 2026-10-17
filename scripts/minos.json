@@ -1,0 +1,1175 @@
+{
+"key": "minos",
+"title": "Minos¹",
+"parts": [
+{
+"name": "Minos¹",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "What, for us, is law?",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Companion",
+"text": "What kind of laws are you asking about?",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "What’s this? Does law differ from law on the particular basis of being law? Consider what I’m actually asking you. It’s as if I had asked you what gold is, and you, as you have just done, were to ask me what kind of gold I meant. I believe you would not be questioning me in the correct manner. For gold, presumably, does not differ at all from gold, nor does stone from stone, on the basis of stone being stone or on the basis of gold being gold. And so, neither does law, I presume, differ at all from law. They are, rather, all the same thing, for each of them is a law, none is more so and none is less so. So this is my specific question: what, in general, is law? If you have a ready answer, let’s hear it.",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Companion",
+"text": "What else could law be, Socrates, except whatever is conventional?",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "And do you think that speech is whatever is spoken, or sight is whatever is seen, or that hearing is whatever is heard? Or is speech other than what is spoken, sight other than what is seen, and is hearing one thing while whatever is heard is something else? And is law, in that case, one thing, while whatever is conventional is something else? Is this so, or how does it seem to you?",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Companion",
+"text": "To me, at the moment, they seem different.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "So law, then, is not whatever is conventional.",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Companion",
+"text": "I don’t think so.",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "What, then, would law be? Let’s investigate this as follows. If someone asked us about what has been said just now, “Since you say that whatever is seen is seen by sight, what is this sight by which they are seen?”, we would reply that it is the sense perception that reveals things through the eyes. Suppose he were to go on and ask us, “Well then, since whatever is heard is heard by hearing, what is this hearing?”, we would reply that it is the sense perception by which sounds are revealed to us through the ears. Well, what if he were also to question us in this way, “Since it is by law that whatever is conventional is conventional, what is this law by which they are conventional? Is it some sense perception, or an explanation, just as whatever is learned is learned by being explained by knowledge? Or is it discovery, just as whatever is discovered is discovered in the way that, for instance, what is healthy or unhealthy is discovered by medicine, and the intentions of the gods are, according to the soothsayers, discovered by prophecy, since skill, for us, is presumably the discovery of things? Is this so?”",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Companion",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "So, which of these might we best assume law to be?",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Companion",
+"text": "The various decisions and decrees, in my opinion at any rate. What else could anyone declare law to be? So it is most likely, to respond to your question, that law in general is a decision of a city.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "You seem to be saying that law is political opinion.",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Companion",
+"text": "I am.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "And you may perhaps be right, but we may know better, as follows. Do you say that some people are wise?",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Companion",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "Aren’t the wise people wise by wisdom?",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "And what about the just people? Aren’t they just by justice?",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Companion",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "Are not the lawful people lawful by law?",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "Are the lawless people lawless by lawlessness?",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "Are the lawful people just?",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "Are the lawless people unjust?",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Companion",
+"text": "Unjust.",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "Are not justice and law most noble?",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Companion",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "And injustice and lawlessness are most base?",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "And one preserves the city and everything else, while the other destroys and overturns them?",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "So, we should regard law as something noble and seek it as something good.",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Companion",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "Didn’t we say that law is a decision of a city?",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Companion",
+"text": "We said so, indeed.",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "Well then, are some decisions good while others are evil?",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Companion",
+"text": "Indeed so.",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "And yet, law was not evil.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Companion",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "In that case, it is not correct to reply so simply that law is a decision of a city.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Companion",
+"text": "No, I don’t think so.",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "So it would not be appropriate for an evil decision to be law.",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Companion",
+"text": "No, indeed.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "And yet it is quite apparent to me, for my part, that law is an opinion. But since it is not evil opinion, it is obvious by now, is it not, that it is good opinion, if law is indeed opinion?",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "But what is good opinion? Is it not true opinion?",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "And true opinion is discovery of what is?",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Companion",
+"text": "It is, indeed.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "So law purports to be discovery of what is?",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Companion",
+"text": "How then is it, Socrates, if law is discovery of what is, that we do not always have recourse to the same laws in relation to the same issues if things that are have been discovered by us?",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "Law, nonetheless, purports to be the discovery of what is. So those people who apparently do not have recourse to the same laws are not always able to discover what the laws purport to discover, namely, what is. Come on, let’s see whether it may become clear to us, from here on, whether we always have recourse to the same laws or use different laws at different times, and also whether we all have recourse to the same laws, or different people use different laws.",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Companion",
+"text": "Socrates, it is not difficult to recognise that the same people do not always have recourse to the same laws, and also that different people use different laws. Since, among ourselves here, at the moment, the law forbids human sacrifice; it is unholy, whereas the Carthaginians perform such sacrifices, as for them these are holy and conventional, and some of them even sacrifice their own sons to Cronus, as you may perhaps have heard. And it is not just non-Greeks who have recourse to different laws from ours, but even the people of Lycia and the descendants of Athamas perform such sacrifices, even though they are Greeks. And you know, I presume, about ourselves too, having heard about the kinds of laws we had recourse to in the past concerning the dead, laws whereby we first slaughtered sacrificial victims before the corpse was carried out, and engaged women to gather the bones into an urn. Then again, still earlier generations than these used to bury their dead in the house, but we do not follow any of these practices. And it would be possible to give lots of similar examples. Indeed, there is much scope for demonstrating that we ourselves do not always legislate on the same basis among ourselves, nor do people in general do so with one another.",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "I would not be at all surprised, best of men, if you were right in what you are saying and this is something I had overlooked. But as long as you state your opinions in your own way in a lengthy speech, and I do likewise, I don’t think we will come to any conclusions. But if the enquiry were common to us both, we might perhaps come to agreement. So, engage with me in a common enquiry by putting questions to me if you wish, or by answering my questions if you prefer.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Companion",
+"text": "I am willing, Socrates, to answer any questions you like.",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "Come on then, are you accustomed to thinking that whatever is just is unjust, and whatever is unjust is just, or alternatively that whatever is just is just, while whatever is unjust is unjust.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Companion",
+"text": "I am accustomed to thinking that whatever is just is just, and whatever is unjust is unjust.",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "And aren’t they conventionally thought of in this way by everyone, in the same way as they are thought of here?",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "Among the Persians too?",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Companion",
+"text": "Even among the Persians.",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "Always, I presume?",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Companion",
+"text": "Always.",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "Are things that offer more resistance conventionally regarded as heavier here, and those that offer less resistance as lighter, or is it the other way around?",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Companion",
+"text": "No, whatever offers more resistance is heavier, whatever offers less is lighter.",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "Is this also the case in Carthage and Lycia?",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "And people everywhere conventionally think of whatever is good as good and whatever is base as base, and not that what’s base is good and what’s good is base.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Companion",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "So, is it not the case, generally speaking, that we ourselves, and all other people too, conventionally think that things that are, are what they are, and not what they are not?",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Companion",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "So, whoever is in error about what is, is in error about what is conventional.",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Companion",
+"text": "Socrates, according to your formulation these all appear conventional, both for ourselves and anyone else. But as long as I bear in mind that we never stop changing our laws this way and that, I cannot be persuaded.",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Socrates",
+"text": "Indeed, perhaps you are not bearing in mind that when moving the pieces on a draughts board, the pieces are the same. But look at this closely with me. Have you ever come across writings concerning the health of sick people?",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Companion",
+"text": "I have.",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Socrates",
+"text": "Well, do you know what skill the treatise belongs to?",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Companion",
+"text": "I do, it belongs to the skill of medicine.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "Don’t you refer to those who are knowledgeable about these matters as physicians?",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Companion",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Socrates",
+"text": "Now, do those who are knowledgeable conventionally think the same things about the same matters, or do they differ?",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Companion",
+"text": "The same things, in my opinion.",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "Is it only Greeks who conventionally think the same things as their fellow Greeks concerning issues they know about, or does this also apply to non-Greeks, both with themselves and with Greeks?",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Companion",
+"text": "There is a strong necessity, I presume, that those who know, be they Greeks or non-Greeks, should agree in thinking the same things.",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "A good answer. And isn’t this always the case?",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Companion",
+"text": "Yes, indeed, always.",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Socrates",
+"text": "Don’t the physicians commit to writing whatever views they conventionally hold in relation to health?",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "So, these writings of the physicians are medical writings and are medical laws.",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Companion",
+"text": "Yes, medical.",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Socrates",
+"text": "So, the agricultural writings are agricultural laws?",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "What about writings and conventions of horticultural work? To whom do these belong?",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Companion",
+"text": "To the gardeners.",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Socrates",
+"text": "So, these are our horticultural laws?",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "Belonging to those who know how to take charge of gardens?",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Companion",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "And it is gardeners who know this.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Socrates",
+"text": "To whom do the writings and conventions about the preparation of food belong?",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Companion",
+"text": "To the cooks.",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "So, these are culinary laws?",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Companion",
+"text": "Culinary.",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Socrates",
+"text": "Belonging, it seems, to those who know how to take charge of food preparation?",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Socrates",
+"text": "And it is cooks, they say, who know this?",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Companion",
+"text": "Yes, they know.",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Socrates",
+"text": "Very well. To whom then do the writings and conventions concerning the administration of the city belong? Don’t they belong to those with knowledge of taking charge of cities?",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Companion",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Socrates",
+"text": "And who else besides the political people and the kingly people know this?",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Companion",
+"text": "These are the people.",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Socrates",
+"text": "So, these writings are political writings which people refer to as laws. They are the writings of kings and of good men.",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Companion",
+"text": "True.",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Socrates",
+"text": "Now, those who are knowledgeable do not write different things at different times about the same matters, do they?",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Companion",
+"text": "No.",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Socrates",
+"text": "Nor will they ever change their conventions from one to another on the same matters.",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Companion",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Socrates",
+"text": "So, if we see any people anywhere doing this, should we declare that those who are doing so are knowledgeable or not knowledgeable?",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Companion",
+"text": "Not knowledgeable.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Socrates",
+"text": "And wouldn’t we say that whatever is correct is the convention on each subject, be it medicine, cookery or gardening?",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Socrates",
+"text": "And we shall never declare that what is not correct is the conventional thinking?",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Companion",
+"text": "Never.",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Socrates",
+"text": "So, it happens to be unlawful.",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Companion",
+"text": "Necessarily.",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Socrates",
+"text": "Isn’t it also the case in the writings dealing with what’s just and what’s unjust, and the general administration of the city, and how the city should be managed, that what is correct is the kingly law, and what’s not correct is not this, even though it seems so to those who do not know. In fact, it is unlawful.",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Socrates",
+"text": "So, we were right when we agreed that law is the discovery of what is.",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Companion",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Socrates",
+"text": "Let’s also examine the following point about this matter. Who is it who knowledgeably distributes seeds on the land?",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Companion",
+"text": "A farmer?",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Socrates",
+"text": "Does he distribute the seeds that are appropriate for each type of land?",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Socrates",
+"text": "So, the farmer is good at distributing these, and his laws and distributions for these purposes are correct?",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Socrates",
+"text": "And who is good at distributing notes to melodies and distributes them appropriately, and to whom do the correct laws here belong?",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Companion",
+"text": "They belong to the flautist and the citharist.",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Socrates",
+"text": "So, in these distributions the person who is most skilled in the laws is the most skilled flautist.",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Socrates",
+"text": "And who is best at distributing nutriment to people’s bodies? Isn’t it the person who distributes the appropriate nutriment?",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Socrates",
+"text": "So, his distributions and his laws are best, and whoever is most skilled in the laws concerning these matters is best at making the distribution.",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Companion",
+"text": "Indeed so.",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Socrates",
+"text": "Who is this person?",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Companion",
+"text": "A trainer.",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Socrates",
+"text": "And he is the one who is best at pasturing the human herd of the body?",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Socrates",
+"text": "And who is best at pasturing a herd of sheep? What is his name?",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Companion",
+"text": "A shepherd.",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Socrates",
+"text": "So, the laws of the shepherd are best for the sheep.",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Socrates",
+"text": "And the laws of the cowherd are best for the cows.",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Socrates",
+"text": "And whose laws are best for the souls of humans? Aren’t they the laws of the king? Do you agree?",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Companion",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Socrates",
+"text": "You are answering well. Now, can you say who among the ancients proved to be a good lawgiver in the laws of flute-playing? Perhaps you don’t recall; would you like me to remind you?",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Companion",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Socrates",
+"text": "Was it not said to be Marsyas and his beloved, Olympus of Phrygia?",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Companion",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Socrates",
+"text": "And their compositions for the flute are indeed most divine, being the only ones that stir and reveal the people who are in need of the gods. And still, to this day, they remain the only compositions that do this, because they are divine.",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Companion",
+"text": "This is so.",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Socrates",
+"text": "And among the ancient kings, who is said to have been a good lawgiver whose conventions still remain to this day because they are divine?",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Companion",
+"text": "I can’t think of anyone.",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Socrates",
+"text": "Don’t you know which Greek peoples make use of the most ancient laws?",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Companion",
+"text": "Are you referring to the Spartans and Lycurgus, their lawgiver?",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Socrates",
+"text": "But these are, perhaps, not yet three hundred years old, or a little older. Do you know, rather, where the best of the conventions come from?",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Companion",
+"text": "From Crete they say.",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Socrates",
+"text": "So, among the Greeks, these people make use of the most ancient laws?",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Companion",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Socrates",
+"text": "Now, among these people, do you know who the good kings were? They were the offspring of Zeus and Europa, Minos and Rhadamanthus, whose laws these were.",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Companion",
+"text": "They say, Socrates, that Rhadamanthus, at any rate, was a just man, but that Minos was wild, harsh and unjust.",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Socrates",
+"text": "Best of men, you are reporting a story from Attic tragedy.",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Companion",
+"text": "What? Isn’t this what is said about Minos?",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Socrates",
+"text": "Not by Homer and Hesiod at any rate. Yet these two are more credible than all those tragedians put together, from whom you have heard what you are now saying.",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Companion",
+"text": "Well, what do they say about Minos?",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Socrates",
+"text": "I’ll tell you then, so that you don’t commit an impiety as most people do. For there is nothing more impious and nothing we should be more careful to avoid than error in word and deed in relation to the gods, or secondly, in relation to divine humans. You must, rather, employ great foresight whenever you are about to criticise or praise anyone, in case you speak incorrectly. That is why we should learn to distinguish between good and evil people. For the god gets angry whenever anyone criticises someone who is like himself, or when anyone praises someone of the opposite sort, the former being a good person. Indeed, you should not think that there are sacred stones, pieces of wood, birds and serpents, but no sacred humans. A good human being is, rather, more sacred than all these, while an evil one is more wretched.",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Socrates",
+"text": "And that is why I shall now speak about Minos, as Homer and Hesiod praised him, lest you, a human being of human birth, fall into error in speaking of a hero and a son of Zeus. For Homer, telling us that Crete had a large population and ninety cities, says that “Among them is Cnossus, a great city where Minos was king in the ninth season holding converse with mighty Zeus.” So this is Homer’s praise of Minos, briefly stated, but unlike anything Homer wrote about any of the heroes. That Zeus is a sophist, and that this skill is entirely noble he makes clear in various places, and especially here. For he means to say that Minos converses with Zeus every ninth year, visiting him regularly for educational purposes, as if Zeus were a sophist. So, the fact that the privilege of being educated by Zeus is assigned to none of the heroes apart from Minos is wondrous praise indeed. And in the Odyssey, in the ‘Book of the Dead’, he describes Minos, but not Rhadamanthus, passing judgement, holding a golden sceptre. But here he does not describe Rhadamanthus passing judgement, nor anywhere meeting with Zeus. That’s why I maintain that Minos has been praised by Homer more than all the others. For being a child of Zeus, and the only one educated by Zeus, is unsurpassed praise. Indeed, this is the meaning of the verse that says “in the ninth season holding converse with mighty Zeus”.",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Socrates",
+"text": "Minos is a companion of Zeus, since conversations are discourses and a conversation partner is a companion in discourse. So Minos visited the Cave of Zeus every nine years in order to learn and in order to demonstrate what he had learned from Zeus over the previous nine-year period. There are those who understand ‘holding converse’ as being a drinking companion or playmate of Zeus, but you may use the following as evidence that those who understand the words in this way are talking nonsense. For of all the peoples there are, Greeks and non-Greeks, there are none who refrain from drinking parties and the playfulness born of wine except the Cretans, and the Spartans too, who learned this from the Cretans. In Crete, among the various laws that Minos instituted, there is one whereby they are not to drink together to the point of drunkenness. And it is evident that whatever he thought noble, he instituted as conventions for his fellow citizens. For Minos did not, of course, behave like some ordinary fellow and think one thing while enacting something else contrary to what he thought. No, his meeting was, as I say, through discourse for the purposes of education in excellence. That’s why, for his fellow citizens, he instituted these laws through which Crete is happy for all time, and Sparta too, once it began to make use of them, since they are divine.",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Socrates",
+"text": "But Rhadamanthus was a good man, for he had been educated by Minos. He had not, however, been educated in the entire skill of kingship, but in a skill subservient to kingship sufficient to preside in courts of law, and that’s why he was said to be a good judge. Indeed, Minos used him as a guardian of the law in the city, and used Talos for the same purpose in the rest of Crete. For Talos went around the villages three times a year as guardian of the law, having the laws inscribed on brass tablets, hence he was called ‘brazen’. And Hesiod too says something similar to this about Minos. For having mentioned his name, he says: “Who proved to be the most kingly of mortal kings, lord over most of the neighbouring peoples, holding the sceptre of Zeus by which he also exercised kingship over the cities.” And by ‘the sceptre of Zeus’ he simply means the education he received from Zeus, by which he governed Crete.",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Companion",
+"text": "In that case, Socrates, how on earth has the report been spread abroad that he was an uneducated, harsh person?",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Socrates",
+"text": "Because of something, best of men, that you, if you are sound-minded, will be careful about, as will anyone who is going to preserve his reputation. Never cross any of the poetical folk, for the poets have enormous influence on reputations depending on whether they eulogise or demonise their subjects. And this was the mistake Minos made in waging war on this city of ours in which there is, in general, much wisdom and a great variety of poets of every sort, and tragedians too. For tragedy is of ancient date here, beginning not as people think with Thespis, nor with Phrynichus. Rather, if you care to think about it, you will find that this is a most ancient discovery made in this very city. And tragedy is the most popular and appealing form of poetry in which we attack Minos in revenge for those tributes he compelled us to pay. So, this was the mistake Minos made, being angry with us. Hence, to answer your question, he has come to have an increasingly bad reputation. He was good and lawful and, as we said previously, good at distributing, and the strongest indication of this is the fact that his laws are unchanging, since they belong to someone who, in relation to the management of the city, well discovered the truth of what is.",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Companion",
+"text": "The argument you have presented sounds probable to me, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Socrates",
+"text": "In that case, if I am speaking the truth, do you think that the Cretan citizens of Minos and Rhadamanthus made use of the most ancient laws?",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Companion",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Socrates",
+"text": "So, these two proved to be the best lawgivers of the ancients, shepherding and distributing to the people, just as Homer said that a good general is a shepherd of the multitude.",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Companion",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Socrates",
+"text": "Come on then, in the name of Zeus, god of friendship, what if someone were to ask us, “What is it that the good lawgiver, who is good at distributing to the body, distributes to the body to make it better?” We would reply, rightly and briefly, that it is nutriment and exertion to develop the body itself on the one hand, and to exercise and establish it on the other.",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Companion",
+"text": "Correct.",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Socrates",
+"text": "What if he were then to ask us, “What precisely is it that the good lawgiver, who is good at distributing, distributes to the soul to make it better?” How might we respond if we were to avoid shame to ourselves at our age?",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Companion",
+"text": "At this stage, I can no longer say.",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Socrates",
+"text": "Well, it is a shame then, on the soul of each of us, that it is so plainly ignorant of that within it which is good or bad for it, even though it has considered what’s good and bad for the body and much else.",
+"kind": "speech"
+}
+]
+}
+]
+}

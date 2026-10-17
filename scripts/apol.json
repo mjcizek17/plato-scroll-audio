@@ -1,0 +1,771 @@
+{
+"key": "apol",
+"title": "Apology",
+"parts": [
+{
+"name": "Socrates Speaking At His Trial In 399",
+"lines": [
+{
+"entry": 0,
+"who": "Narrator",
+"text": "Socrates Speaking At His Trial In 399",
+"kind": "heading"
+},
+{
+"entry": 1,
+"who": "Socrates",
+"text": "How you, men of Athens, have been affected by my accusers, I do not know. As for me, they spoke so persuasively that they almost made me forget myself, and yet they have hardly spoken one word of truth. But of the many lies they told, there was one that amazed me more than any, when they",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "said that you must be on your guard lest you be deceived by me because I am a formidable speaker. The fact that they were not ashamed of being immediately refuted by me once I actually show myself to be no formidable speaker at all, this I thought utterly disgraceful of them, unless they are calling the person who speaks the truth a formidable speaker. For if that is what they mean, I would accept that I am an orator, but not after their fashion. These men, as I say, have said little or",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Socrates",
+"text": "nothing that is true, but from me you shall hear the complete truth, without ornate speeches, beautifully adorned in every word and phrase, like the ones you heard from my accusers. No, men of Athens, by Zeus, you shall hear me say whatever occurs to me to say, in a random manner, and none of you should expect anything else since I am convinced of the justice of what I am saying. For it certainly would not be appropriate, at my age, to appear before you, men of Athens, with",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "contrived arguments like some juvenile orator. What is more, men of Athens, I ask this of you, indeed I implore you, neither to be surprised nor to cause a commotion if you hear me defending myself using the same arguments I am also accustomed to using at the tables in the Agora, where so many of you have heard me, and elsewhere too. For the fact of the matter is that I am appearing before the court now, for the first time, at seventy years of age, so the language of the place is simply foreign to me. Now, if in fact I happened to be a foreigner, you would surely have forgiven me",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Socrates",
+"text": "if I spoke in my own dialect and in the way I had been brought up to speak. And so I am now making a request of you, a just request in my view, that for better or worse you accept my manner of speaking, and consider and apply your minds to this alone: if what I am saying is just, or not. For this is the very excellence of a judge, while the excellence of an orator is to speak the truth. Now, it is only right that I first defend myself, men of Athens, against the first false accu b sations laid against me and my first accusers, and then deal with the later ones and the later accusers. For many of my accusers came to you a long time ago, many years ago, speaking not a word of truth, and I am more afraid of these accusers than of Anytus and his associates, although they too are formidable. But these are more formidable people, who got control of most of you, gentlemen, in childhood, gaining your trust and making accusations against me with no regard for the truth: that there is this Socrates, a wise man, who is preoccupied with the heavens above, has investigated everything beneath the earth, and who makes the weaker argument stronger.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "The people, men of Athens, who put this story about are my most formidable accusers, since those who hear this tend to believe that whoever investigates such matters does not believe in the gods either. What is more, these accusers are numerous, and they have been making their accusations for a long time now; indeed, they were speaking to you at an age when you were most easily convinced – some of you were just children or youths – making unanswered accusations to which no defence was offered. But what is most unreasonable of all is that it is not even possible to be sure of their names and state them, unless one of them happens to be a certain",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "comic poet. Yet those who convinced you by recourse to malice and slander, or those who convinced others too when they themselves had been convinced, all these people present a formidable challenge. For it is impossible to bring them here or to cross-examine any of them. So I must simply fight with shadows in my own defence, and conduct a cross-examination to which no one responds. So you really should accept, as I say, that there have been two groups of accusers – those who accused me recently, and the earlier ones whom I am now describing. And please accept that",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "I must defend myself against these first. For these were the first accusers you heard, and you heard them for longer than my recent accusers. So be it. I must make a defence then, men of Athens, and attempt in such a short time to undo a slander you have picked up over many years. Now, this is",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Socrates",
+"text": "the outcome I would prefer if it were somehow better for you and for me, and I would like to succeed in my defence, but I think this is difficult, and the sort of task it is has not entirely escaped my notice. In any case, let this unfold in whatever way the god pleases, yet the law must be obeyed so I must present a defence. What, in fact, is the allegation that has given rise to this slander against me? Presumably the",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "one Meletus relied upon when he brought this charge against me. Let us take up this question, from the beginning. Well, when the slanderers slandered me, what did they say? Well, I should read out their charge as if they were the accusers. “Socrates acts unjustly and is excessively curious, investigating things beneath the earth and in the heavens, making the weaker argument stronger, and",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "teaching these same things to others.” It goes something like that. And, indeed, you yourselves have seen a Socrates, in Aristophanes’ comedy, being carried about the place, claiming to walk on air, and blabbering a lot of other nonsense about which I have no knowledge, great or small. And I am not speaking out of disrespect for this sort of knowledge, if anyone is wise in such matters. I hope that Meletus’ charges are never so numerous as to make me do that. But the fact is, men of Athens, I have no involvement with these matters. And I am calling you, the majority of you, as witnesses,",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "and I think those of you who have ever heard me engaging in discourse, as so many of you have, should instruct one another and inform one another. Yes, you should tell one another if any of you have ever heard me discoursing on such matters to any extent, great or small. And from this you will realise that the other things that most people say about me are just like these accusations. In fact, not one of them is true, and if you have heard from anyone that I undertake to educate people and charge money for doing so, that is not true either, although I would regard this too as a",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "fine accomplishment, if someone were able to educate people, as Gorgias of Leontini does, Prodicus",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "please, and persuade the young to abandon the company of their own people, consort with them, pay their fees, and feel grateful besides. And I have become aware that there is also another wise man, a Parian, who has arrived here in town, for I happened to visit a man who has spent more money on sophists than everyone put together, Callias, the son of Hipponicus. So, I asked him about his two sons. “Callias,” said I, “if your two sons happened to be colts or calves, we would be able to acquire",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "an overseer for them, and pay someone likely to make them noble and good in their appropriate excellence, and that person would be a horse-trainer or a farmer. But now, since they are two human beings, whom do you intend to acquire as their overseer? Who is there who is knowledgeable in excellence of this kind, human and civic excellence? For I presume you have considered this, since you have two sons. Is there such a person or is there not?” I asked. “There certainly is,” he replied. “Who is it?” I asked, “and where is he from, and how much does he charge to teach this?” “He is Evenus, Parian,” he replied, “and he charges five minae.” And I would congratulate Evenus, if he",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "were truly to possess this skill and teach it for such a modest fee. I, for my part, would have been proud and given myself airs if I had this knowledge. But the fact is, men of Athens, I do not have this knowledge. Now, one of you may perhaps object, “But, Socrates, what is it that you do? What is the origin of these slanders against you? Yes, surely this rumour and talk would not have arisen unless, by your conduct, you stood out from everyone else, unless you were behaving differently from",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Socrates",
+"text": "most people. So tell us what it is so that we do not make rash judgements about you.” I think that whoever says this is raising some fair questions, and I shall try to show you what exactly it is that has given rise to this reputation of mine, and the slander too. Listen then, and some of you will probably think that I am joking, but mark my words, I shall tell you the whole truth. For I have acquired this reputation, men of Athens, only because of a particular kind of wisdom. What kind of wisdom is this? The particular wisdom that is, perhaps, human wisdom. In fact, I probably am",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "wise in that wisdom, and perhaps those men whom I mentioned earlier may be wise with a wisdom that is greater than human wisdom. Otherwise I do not know what to say, for I myself have no knowledge of it, and anyone who says so is lying and is out to slander me. And do not raise a clamour against me, men of Athens, even if you think I am speaking boastfully. In fact, the word I shall speak is not my own; rather, I shall refer to a trustworthy speaker. For I shall provide you with the god of Delphi as witness of my own wisdom – if, indeed, it is wisdom – and of the sort of wisdom",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Socrates",
+"text": "it is. Indeed, I presume you knew Chaerophon. He was my friend from my youngest years, and a friend of your democracy too, and he joined you in your recent exile and returned along with you. Well, you also know what Chaerophon was like and how impulsive he was in anything he took on. And, in fact, he once went to Delphi and dared to consult the oracle about this, and, as I said, please do not raise a clamour, gentlemen – yes, he asked if anyone was wiser than me. So the Pythia answered that no one was wiser. And his brother, who is here, will be your witness of this, since the man himself is dead.",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "Now, consider my reasons for saying all this, for I am going to set out for you the origin of the slander against me. Indeed, when I heard this, I reflected upon it as follows. “What exactly does the god mean, and what on earth is the riddle he poses? For I myself am aware of being wise in nothing great or small, so what precisely does he mean when he says I am the wisest? Of course he cannot be lying, since that is not lawful for him.” And I was perplexed for a considerable time as to what precisely he meant. Then, with much reluctance, I turned to a process of enquiry that went something like this. I went to one of the people who seemed to be wise on the assumption",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "that there, if anywhere, I could refute the oracular utterance and show the oracle, “This person is wiser than me, but you said I was the wisest.” Now, I need not name the man, but it was one of our politicians I was examining, and my experience, men of Athens, was somewhat as follows. As I engaged him in discourse, it seemed to me that, although this man was thought wise by many other people and most of all by himself, he was not wise. So, I then attempted to show him that, although he believed himself to be wise, he was not wise. As a result, I was hated by him, and by",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "many of those present. I reckoned as I was going that I am wiser than this man, for it is likely that neither of us knows anything noble and good, but he thinks he knows something, when he does not know, while I do not actually know. I do not even think that I know. So perhaps in this one minor respect, I am wiser than he is, because I do not think I know what I do not know. I then went to someone else, to one of the people who seemed wiser than that man, and I came to the very same conclusions, and in this case too I was hated by him, and by many others. No, after this I kept on going, aware that I was hated, grieving and fearful, but it seemed",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "necessary nevertheless to set the work of the god above all else. In considering the meaning of the oracle, I had to go to all those who seemed to know something. And by the dog, men of Athens,",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "for I must speak the truth to you, my experience was something like this. When it came to being wise, those with the most exalted reputations seemed to me, as I searched at the god’s behest, well nigh worst-off, while other men, of lower repute, were better off. So I must recount my wanderings to you, and the labours I undertook, only to find the oracle irrefutable. For after the politicians I went to the poets – the tragedians, the dithyrambists and the",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "rest – expecting in this case to show myself up, blatantly, as being more ignorant than they. So, selecting poems of theirs that in my opinion they had crafted most intricately, I would question them as to what they meant in order to learn something from them in the process. Now, gentlemen, I am ashamed to recount the truth to you, but it must be spoken nevertheless. For in a sense, almost anyone who was present might have spoken better than the poets about the poems they themselves had composed. So in the case of the poets too, I quickly realised that it is not by wisdom that they compose their works, but by nature, and by being inspired, just like the prophets and deliverers of",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "oracles. For these people also say a great deal, and it is beautiful too, but they know nothing about what they are saying. It was evident to me that the poets were in a similar predicament, and I became aware at the same time that because of their poetry they also thought themselves the wisest of men in general, when they were not. So I left their company too, thinking I was better off than they are, in the same way that I was better off than the politicians. Then finally I came to the craftsmen, for I myself was aware that I, in a sense, had no knowl-",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "edge, and yet I knew I would find that their knowledge was extensive and beautiful. Well, I was not deceived in this. They did know things I did not know, and in this respect they were wiser than me. But, men of Athens, it seemed to me that the pre-eminent craftsmen also had the same failing as the poets. Because they exercised their skill so beautifully, they each deemed themselves extremely wise in other matters too, matters of great importance, and this error of theirs obscured that wisdom. So I asked myself, on behalf of the oracle, whether I should accept my present con-",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "dition, neither wise in any of their wisdom nor foolish in their folly, or possess their wisdom and their folly. So I responded to myself and the oracle that it was better for me to remain as I was. From this process of investigation, men of Athens, I have incurred a great deal of hatred of",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "Socrates. And what is more, he is using my name, using me as an example, as if he were to say, “He among you, O humans, is wisest who has realised, like Socrates, that he is in truth worth nothing when it comes to wisdom.” So to this very day I go about conducting these investigations, seeking out at the god’s behest anyone, either citizen or stranger, whom I think to be wise, and once he seems not so to me, to assist the god I show that he is not wise. And because of this occupation I have no time for any involvement in civic affairs worth mentioning, or for any private concerns either, but I am in",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "utter poverty because of my servitude to the god. As well as this, the young people follow me about of their own accord, those with the most free time who belong to the wealthiest families. They enjoy hearing people being examined, and they often imitate me themselves when, in turn, they attempt to examine others. And they then find, I am sure, a whole host of people who think they know something, when they know little or",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Socrates",
+"text": "nothing. So as a result, those whom they cross-examine get angry with me rather than themselves, and they say that Socrates is a pestilence who corrupts the young. And whenever anyone asks them what I do and what I teach, they have nothing to say. They have no idea, and so that they do not seem to be at a loss, they repeat the convenient charges made against all philosophers that ‘they investigate the heavens above and the earth beneath’, and that ‘they do not believe in the gods’, and that ‘they make the weaker argument stronger’. For in my view, they are reluctant to speak the truth and admit that they are being exposed, pretending to know when they know nothing.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "Now, because, as I see it, these influential people are ambitious, forceful and numerous, and because they speak about me assertively and persuasively, they have assailed your ears over many years with their comprehensive slanders. On this basis, Meletus has proceeded against me – Anytus too and Lycon – Meletus being",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Socrates",
+"text": "angry on the poets’ behalf, Anytus on behalf of the craftsmen and politicians, Lycon on behalf of the rhetoricians. And so, as I said at the outset, I would be surprised if I were able, in the short time available, to rid you of this slander when it has become so pervasive. There you have the truth, men of Athens. I have concealed nothing, significant or insignificant, and I am speaking without any restraint. And yet, I know quite well that these are the very reasons I am hated, which",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "proves that I am speaking the truth. This is the slander against me, and these are its causes, and if you investigate these matters, either now or in the future, you shall find that it is so. Now, this defence that I offer you against the accusations made by my first accusers should be sufficient. I shall attempt to follow this with a defence against Meletus – that good man and friend of the city, so he proclaims – and the later accusers too. Well then, we should take their affidavit in turn as if they were a different set of accusers. It goes somewhat as follows: it says that Socrates acts",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "unjustly by corrupting the young and believing not in the gods the city believes in, but in other novel divine forces. That is the sort of charge it is, and we should scrutinise every detail of this charge. Well then, the charge states that I am acting unjustly by corrupting the young. And yet I state, men of Athens, that Meletus is acting unjustly because he is making a joke of a serious matter by blithely bringing people to trial, pretending to be serious and concerned about matters that he has never cared about at all. But I shall also attempt to demonstrate to you that this is the case.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "“Come Meletus, tell me. Do you not attach great importance to the younger generation being in the best condition possible?” “I do.” “Come on then, tell these people: who is it who makes them better? Yes, you obviously know who it is, since you care. For you claim to have discovered their corrupter – me – and you are bringing me before these men, and making an accusation. So come on, tell them who makes young people better, tell them who this is. Do you see, Meletus, that you are silent and have nothing to say? But do you not think this is shameful and enough to prove what I am saying: you do not care. But speak, good man, who makes them better?” “The laws.” “But, best of men, I did not ask you that. No, I asked who the person is who knows this in the first",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Socrates",
+"text": "place, who knows the laws.” “These people, Socrates, the jurors.” “What are you saying, Meletus? Are the jurors here able to educate the young and make them better?” “Very much so.” “All the jurors, or just some of them?” “All of them.” “By Hera, that is good news. You are saying that there is a whole host of people who benefit the young. And what about those who are listening in, do they make them better or not?” “Those people too.”",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "“Wh at about those who sit on the Council?” “Those who sit on the Council too.” “Well, Meletus, perhaps those in the Assembly, the assemblymen, corrupt the young? Or do they all make them better too?” “They do too.” “So it seems that all the Athenians make them noble and good, except me. I alone corrupt them. Is this what you are saying?” “That is what I am saying most emphatically.” “Then you have laid great misfortune at my door. Now, answer this question for me. Do you think this is also the case with horses, that everyone makes them better while there is one person who",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "corrupts them? Or is it completely the other way around? There is one person, or very few – the horse-trainers – who can make them better, while most people corrupt the horses if they deal with them or use them? Isn’t this the case, Meletus, both with horses and all animals? It is of course entirely so, whether yourself and Anytus confirm it or deny it. Indeed, it would be a great blessing to the young people if only one person corrupted them while everyone else benefited them. But in",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "fact, Meletus, you are demonstrating quite adequately that you have not given a moment’s thought to the young people, and you are blatantly exposing your own uncaring attitude. You do not care about the issues on which you are prosecuting me. And, by Zeus, Meletus, tell us this besides. Is it better to dwell among good citizens or wicked ones? Answer, my man, for I have not asked you a difficult question. Do not the wicked do some harm to those who are always closest to them, while the good do some good?” “Yes, certainly.” “Now, is there anyone who prefers to be harmed by his associates rather than benefited? Answer,",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "good man. In fact, the law demands that you answer. Is there anyone who wishes to be harmed?” “No, of course not.” “Come then, are you prosecuting me here for corrupting the young and making them more wicked intentionally or unintentionally?” “I say intentionally.” “What is this, Meletus? Are you, at your age, so much wiser than I am at my age that you have recognised that the bad people always do some harm to those closest to themselves, and the good",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "do some good, while I am in such depths of ignorance that I do not even realise that if I make any of my fellows wicked, I run the risk of being harmed by him? And so, according to you, I perform such an evil deed as this intentionally? No, Meletus, you do not convince me of any of this, and I",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Socrates",
+"text": "do not think anyone is convinced either. Well then, either I do not corrupt them or, if I corrupt them, I do so unintentionally, and so in either case you are speaking falsely. But if I corrupt them unintentionally, you should not, by law, bring me to court over a mistake like this. Instead, you should instruct me and rebuke me in private. For it is obvious that if I am given instruction, I shall stop whatever I am doing unintentionally. Yet, although you have avoided my company and been reluctant to instruct me, you nevertheless bring me here to court, where, by law you should bring those who are in need of punishment rather than instruction.”",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "In any case, men of Athens, it is obvious at this stage, as I said, that Meletus has never shown any great concern for these matters, not in the least. “Nevertheless, Meletus, tell us in what way do I corrupt the young, according to you? Or is it quite obvious from the charge you have brought against me that I do so by teaching them not to believe in the gods the city believes in, but in other novel divine forces? Don’t you say that I corrupt them by teaching them this?” “Yes certainly, that is what I am saying, emphatically.” “Well, Meletus, by those very gods we are now talking about, speak more clearly, both to myself",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "and to these gentlemen here, for I cannot understand you. Are you saying that I teach them to believe in some gods, and that I myself actually believe in gods, and am not a total atheist, and unjust in that sense? Is your charge against me that the gods I believe in are not the gods of the city, but different? Or are you claiming that I myself do not believe in gods at all, and I teach these doctrines to others?” “That is what I am saying, that you do not believe in gods at all.”",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "“You surprise me, Meletus. What makes you say this? Do I not actually believe that the sun and the moon are gods, as other men do?” “No, by Zeus, gentlemen of the jury, since he declares that the sun is stone and the moon is earth.” “Dear Meletus, do you think that you are accusing Anaxagoras? And do you have such contempt for these men, and think them so unlettered as not to know that the books of Anaxagoras of Clazomenae are full of these doctrines? And do the young really learn these doctrines from me,",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "when they can sometimes buy them in the market for a drachma at most, and laugh at Socrates if he pretends they are his own, especially when they are so strange? But, by Zeus, is this really what you think? Do I not believe in a single god?” “By Zeus, you do not, not at all.” “You have no credibility, Meletus, and I do not think that even you believe this yourself.” Indeed, in my opinion, men of Athens, this man is extremely arrogant and unrestrained, and has",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "simply brought this charge in a spirit of arrogance, unrestraint and impetuousity. Yes, he is like someone posing a riddle as a test: “So, will Socrates the wise recognise that I am making a joke and contradicting myself, or will I deceive him and everyone else who hears me?” In fact, the man appears to me to contradict himself in the charge, as if he were saying, “Socrates is acting unjustly by not believing in gods, yet believing in gods.” But this is a joke. Join with me then, gentlemen, and consider in detail how, in my view, he is saying this. You should answer our questions, Meletus,",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Socrates",
+"text": "while you gentlemen should recall the favour I asked of you at the beginning. Do not cause a commotion if I conduct the discussion in my accustomed manner. “Is there anyone, Meletus, who believes that there are human affairs but does not believe there are human beings? Let him answer, and, gentlemen, do not make one commotion after another. Is there anyone who does not believe in horses, yet believes in equestrian affairs, or who does not believe there are flute players, but does believe in matters concerned with flute-playing? Best of men, there is not. Since you do not wish to respond, I am telling you, and everyone else here. But you must at least answer my next question. Is there anyone who believes that there are divine",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "forces, but does not believe in divinities?” “There is not.” “How good of you to answer, reluctantly, under compulsion from these men here. Now, you claim that I believe in, and teach, divine forces, never mind if they are novel or ancient. According to you I believe in divine forces anyway, and you have even sworn this in your indictment. But if I believe in divine forces it really is necessary, of course, that I believe in divinities. Isn’t this the case? Yes, it is. Well, I am presuming you agree since you won’t answer. And do we not hold that the divinities are either gods or the children of gods. Do you agree or not?”",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Socrates",
+"text": "“Very much so.” “Therefore, if in fact, as you say, I hold that there are divinities, and the divinities are gods, this would constitute what I refer to as your riddling and jesting, saying that I do not believe in gods and then again that I believe in gods, since I do actually believe in divinities. Yet if, on the other hand, the divinities are illegitimate children of gods, born of nymphs or anyone else who is said to be their mother, is there any man who could believe that there are children of gods, but not believe there are gods? Yes, that would be just as strange as someone believing that there is off-",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "spring of horses and asses, namely mules, and not believing that there are horses and asses. But Meletus, you really must have been testing us out here when you brought this charge, or else you were at a loss for a genuine injustice to charge me with. But you could never persuade anyone possessed of even a little intelligence that the same person can believe in divine forces and matters divine, and yet at the same time believe neither in divinities, nor gods, nor heroes. You simply",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "could not do it.” Well then, men of Athens, I do not think much defence is needed to show that I am not acting unjustly, based upon Meletus’ charge. Even this should suffice. But mark my words, what I said earlier is true. I have attracted a lot of hatred from a lot of people, and this is what will convict me, if I am convicted, not Meletus, not Anytus, but the slander and malice of the multitude. This indeed has convicted many other good men, and I think it will continue to do so. There is no fear it will",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "stop with me. Now, someone might perhaps say, “Are you not ashamed, Socrates, that you have followed such a course as this and now risk being executed as a result?” To him I would respond, justifiably, “What you are saying is not right, sir, if you think a man of any merit at all should reckon his chances of living or dying whenever he engages in action, and not consider this alone: whether he is acting justly or unjustly, doing the work of a good man or a bad man.” For, according to your",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "argument, all of the demi-gods who met their death at Troy would be worthless, including the son of Thetis, who was so contemptuous of danger once the alternative was disgrace. Thus, when his mother, a goddess, said to him when he was eager to slay Hector – she said something like this I think – “My son, if you are going to avenge the murder of your friend Patroclus and slay Hector, you yourself shall be slain,” she said, “for straightaway after Hector’s death, destiny awaits you",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "as a bad man who does not avenge his friends, so he said, “May I die straightaway, as soon as I have inflicted justice upon this unjust man, so that I remain not here by the curved ships, a laughing stock and a burden to the earth.”10 Do you imagine that he thought about death or danger? For in truth, men of Athens, this is how matters stand. Wherever a man may position himself, thinking it best to be there, or wherever he is positioned by his commander, there in my view he should remain facing danger, reckoning nothing, neither death nor anything else, as worse than",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "disgrace. Now, I would have been acting terribly, men of Athens, if I had remained at my post, just like anyone else, running the risk of being killed, when my commanders, chosen by yourselves,",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "placed me in the ranks at Potidaea, Amphipolis and Delium, yet deserted my post for fear of death or for any other reason, when the god, as I believed and understood, positioned me where I had to live, practising philosophy and examining myself and others. Yes, that would be terrible, and in truth anyone might justly haul me into court for not believing there are gods, disobeying the oracle, being afraid of death, and thinking I am wise when I am not. For I tell you, gentlemen, fearing death is no different from thinking you are wise when you are not, for it is thinking you know what you do not know. In fact, no one actually knows whether death may not turn out to be the greatest good of all for man, and yet they fear it, as if they know quite well it is the greatest of",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "evils. And is this not the most disgraceful ignorance, thinking you know what you do not know? And to this extent, in this case too, gentlemen, I am perhaps different from most people, and if I were to claim to be wiser than anyone, in any respect, it would be in this: I do not know enough about what is in Hades, so I do not presume that I know either. But I do know that it is bad, and a",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "disgrace, to act unjustly and to disobey a superior, be he god or human. So I shall fear and flee from the evils I know to be evils, and not from what might, for all I know, actually be good. And so, even if you let me go now, ignoring Anytus, who said that either I should not have been brought to court at all, or since I have been brought to court I must be put to death, warning you that if I get off your sons will be soon totally corrupted, all of them, by practising what Socrates teaches; if in response to this you were to say to me, “Socrates, on this occasion we shall not heed Anytus. Instead we shall let you go, but on this condition: that you no longer spend your time in this enquiry,",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "nor engage in philosophy, and should you ever be caught doing so again, you shall die,” now if, as I said, you were to let me go on these conditions, I would say to you, “Men of Athens, I embrace you and I love you, but I shall heed the god rather than you, and as long as I am alive, and able to do so, I shall not cease engaging in philosophy, exhorting you, and pointing out to any one of you whom I ever meet, saying in my usual manner, ‘best of men, you are Athenians, citizens of the greatest city, most renowned for her wisdom and power. Are you not ashamed that you care about",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "piling up as much money, reputation and honour as you can, while giving no care or thought to wisdom and truth and how your soul may be as good as it can be?’ And if one of you disputes this, and says that he does care, I will not let him go immediately, nor shall I depart. No, I shall question,",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "examine and cross-examine him, and if I think he has not acquired excellence, but he says that he has, I shall rebuke him for attaching the least value to what is most valuable, and considerable value to things of lesser worth. And I shall do this to anyone I come across, old or young, stranger or fellow citizen, but especially to you, my fellow citizens, as you are my closest kin. For mark my words, the god commands this, and I think no greater good has yet come to you in this city than my service to the god. For my only occupation is to go about persuading you, old and young,",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "to care neither for your bodies nor for your money more or with more intensity than your soul, so that it may be as excellent as it can be. So I say, ‘Excellence does not come from money; but from excellence, money, and everything else that is good, comes to mankind, in private or in public.’ Now, if I corrupt the young by saying all this, this would be harmful. But if anyone claims that I say anything else apart from this, he is talking nonsense. And so I would say, “Men of Athens, whether you obey Anytus or not, whether you let me go or not, I shall never change my ways, not",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "even if I am to die many times over.” Men of Athens, do not create a commotion. I asked you not to make a commotion over what I said, so please abide by my request and listen. And in fact I think you will profit from listening, for I am now going to tell you something else at which you will probably make an outcry, but please do not do so, not at all. For mark my words, if you put me to death, being the sort of person I say that I am, you will harm yourselves more than you harm me. In fact, neither Meletus nor Anytus could harm me, for that would not be possible, because I do not think it permissible",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "that a better man be harmed by a worse. Yes, he may perhaps put me to death, exile me, or deprive me of my rights, and although he probably thinks these are great evils, and others presumably think so too, I do not think so. No, it is a far greater evil to do what he is now doing: attempting to put a man to death in an unjust manner. So, men of Athens, I am not making my defence on my own behalf, as someone might presume, but on behalf of you, lest you make a mistake concerning the gift God gave you by condemning me. For if you kill me, you will not easily find someone else like me, who literally –",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "even if it sounds comical to say so – is attached to the city by god, as though it were a great, thoroughbred steed, sluggish due to its size, that needs to be woken up by a sort of gadfly. Well, I am like that gadfly whom the god has attached to the city, the sort of person who never stops rousing, persuading, and censuring each one of you, alighting upon you all day long, wherever you go.",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "Now, you will not easily get someone else like me, gentlemen, so if you take my advice you will spare me. But you may perhaps be angry with me, like people woken from their slumbers, and swat me on Anytus’ advice, and kill me without giving it a second thought. But then you would live out the rest of your lives in slumber, unless the god, out of concern for you, were to send you someone else like me. And from this you may recognise that I am such a person, given to the city by the god, for",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "it seems scarcely human that I have neglected all business of my own and suffered the neglect of my family affairs for so many years now, constantly busy with your concerns, coming to you like a father or elder brother, urging you to care for excellence. Now, if I derived any advantage from all this, or was paid for these exhortations of mine, I might have some motive. But now you surely see for yourselves that my accusers, although they make all these other accusations without a hint of shame, were not so shameless as to bring witnesses to say that I ever charged a fee or asked for",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "one. Indeed, I think I am providing sufficient evidence that I am speaking the truth, by my poverty. Now, you may perhaps think it strange that I go around giving this advice and meddling in your affairs in private, and dare not appear before your assembly in public and give advice to the city. You have heard me describing the reason for this on many occasions, in many places. Something divine and miraculous comes to me, which Meletus makes a joke of in the charge that",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "he brought. I have had it from childhood. It is a sort of voice that arises, and whenever it arises it always turns me away from doing something I am about to do, but it never urges me on. This is what opposes my engagement in civic affairs, and I think it is absolutely right to oppose. For mark my words, men of Athens, if, in times gone by, I had attempted to engage in civic affairs, I would have been put to death long ago, and would have benefited neither yourselves nor myself. And",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "you should not be angry with me for speaking the truth, for no one who genuinely opposes yourselves, or any other multitude at all, preventing numerous injustices and illegalities from taking place in a city, will be safe. Rather, anyone who is actually fighting on the side of justice and who",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "intends to be safe, even for a short time, must act privately rather than publicly.",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "men of Athens, I have never yet held any other office in the city, I did serve on the Council, and, as it happened, our tribe, Antiochis, made up the commission when you decided to judge, as a single group, the ten generals who failed to recover the casualties of the naval battle, which was contrary to the law, as you all accepted afterwards. On that occasion, I was the only Council member who opposed your doing anything contrary to the laws, and I voted against you. And while the orators were ready to charge and arrest me, and you were all encouraging them and shouting at",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "me, I thought that I should side with law and justice, in spite of the danger, rather than side with yourselves in making an unjust decision for fear of imprisonment or death. This all happened while the city was still under democratic rule, but once the oligarchy was established, the Thirty, for their part, sent for me and four others to the Tholos and ordered us to bring Leon the Salaminian from Salamis to be executed. In fact, they often gave orders like this to many others as well, wishing to implicate as many people as possible in their actions. Here",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Socrates",
+"text": "again, I demonstrated, not in word but in deed, that I really do not care about death at all, if it is not too blunt to say so, yet I am extremely careful to perform no unjust or unholy deed. Indeed, that regime, powerful and all as it was, did not intimidate me into performing an unjust act. No, once we had come out of the Tholos, the other four left for Salamis and fetched Leon while I left and went home. For this I would probably have been executed had the regime not fallen so quickly.",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "Of these events you will have numerous witnesses. Well then, do you think I would have survived all these years had I taken to public life and, acting as befits a good man, had sided with the just and set that above all else, as one should? Far",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Socrates",
+"text": "from it, men of Athens, nor indeed would anyone else. But throughout my entire life, both in public, if I ever engaged in such activities, and also in private, you will see that I am the very same. I have never gone along with anyone in anything contrary to justice, not even with those whom my slanderers proclaim to be my pupils. Yet although I have never been any man’s teacher, if anyone wishes to listen to me as I speak and go about my business, I begrudge that to no one, old or young.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "Neither do I engage in discourse only when I am paid, and not otherwise. No, I submit myself to questioning by rich and poor alike, and anyone who wishes may hear what I say in reply. And if any of them happens to become a good person or a bad one, I may not properly be held responsible since I neither taught nor promised to teach them anything. And if anyone says he has ever learned or heard something from me in private, which everyone else has not, I assure you that he is not speaking the truth.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "But why exactly is it that some people enjoy spending so much time with me? Listen, men of Athens, for I have told you the whole truth already. They enjoy hearing me examine people who think they are wise when they are not. It is not an unpleasant pastime. But, as I say, I have been ordered by the god to do this, through prophecies, dreams and any other means whereby a divine portion has ever ordered a human being to do anything at all.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "All of this is true, men of Athens, and easily tested. For if I am indeed corrupting some young people, and have already corrupted others, surely some of them now grown older, realising that I once gave them evil counsel when they were young, should come forward at this stage to accuse me and get their revenge. And if they did not wish to do this themselves, some of their own relatives, their fathers, brothers or other family members, should now remember any evil their kinfolk may have suffered at my hands, if there was any, and take their revenge. In any case, I can see",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Socrates",
+"text": "a lot of them here. First and foremost is Crito, a man of my own age and deme, the father of Critoboulus here; then Lysanias of Sphettos, the father of this man, Aeschines; Antiphon of Cephissus too, the father of Epigenes. Then there are others whose brothers have been involved in this occupation of mine, Nicostratus the son of Theozotidus, the brother of Theodotus, and since Theodotus is dead, he for one could not have implored his brother not to make the accusation. I see Paralus, son of Demodocus, whose brother was Theages; and here is Adimantus, the son of",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "Ariston, and this is his brother, Plato; and there is Aeantodorus and his brother, Apollodorus. And I could also mention many others to you, any one of whom Meletus really should have introduced as a witness in the course of his own speech. But if he forgot at the time, let him introduce them now. I shall yield my place to him, and if he has such a witness, let him say so. But you will find the complete opposite, gentlemen. They are all ready to side with me, the corrupter, the man who, according to Meletus and Anytus, inflicts harm upon their own kindred. Now, those who have",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "been corrupted might perhaps have reason to side with me, but what reason would their uncorrupted, older relatives have for siding with me, apart from the right and just reason that they are aware that Meletus is speaking falsely, while I am speaking the truth? There it is, gentlemen. This is more or less all I have to say in my defence. But some of you may well take offence when he recalls how he himself, while contesting a lesser charge than",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "this one, begged and implored the jurors, in floods of tears, parading his own children before them, other members of his household too and lots of his friends, just to arouse as much pity as he could. And now he finds that I do nothing of the sort even though I am apparently facing the utmost peril. So someone might perhaps think like this, be hardened against me, and enraged by these very issues may cast his vote in anger. Well, if any of you are in this situation, and I am not",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "actually maintaining that you are, but if you are, I think it would be reasonable for me to speak to this person and say, “Best of men, I too have some family members, for, as Homer puts it, ‘I am not born of oak and rock’, but of men, and so I have kinfolk and sons too, men of Athens, three of them, one already a young man, two still children. Nevertheless, I shall not parade any of them here before you and beg you to vote for my acquittal.” Well then, why won’t I do any of this? It is not out of defiance, men of Athens, or any disrespect for you. Whether or not I am",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "courageous in the face of death is another matter, but in view of my own reputation and that of yourselves and the entire city, I do not think it good that I do anything like this at my age and with the name I have. For whether this is true or false, it has been decided that Socrates is some-",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Socrates",
+"text": "how superior to most people. Now, if those of you who are reputed to be superior in wisdom or courage, or in any other excellence, were to behave in this way, that would be a disgrace, like people I have seen on trial on a number of occasions, reputable people indeed, yet behaving in an extraordinary manner, as if they thought something awful would befall them if they were executed, as if they were actually going to live forever if you did not execute them. To me they seem to bring shame upon the city, so that any visitor would presume that the Athenians, superior in",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Socrates",
+"text": "excellence, whom they select from among themselves to hold high office and other positions of honour, are no better than women. Indeed, men of Athens, these are actions which you should not perform if you have any worthy reputation at all, and you should not allow us to perform them either. Instead, you should demonstrate that you would much rather vote to convict someone who puts on such a pitiful performance, and makes a laughing stock of the city, than someone who holds his peace.",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "Quite apart from reputation, gentlemen, it does not seem right to me either to implore a juror or to get acquitted by begging. It should be done through instruction and persuasion. For a juror is not there to bestow favours in matters of justice, but to give judgements, and he has sworn not to show favour to people he prefers, but to deliver justice in accordance with the laws. Therefore, you should not make a habit of breaking your oaths, nor should we get you into that habit either, for neither of us would be acting with due reverence. So, men of Athens, do not expect",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Socrates",
+"text": "me to behave towards you in a manner I regard as neither noble nor just nor holy, most especially, by Zeus, when I am actually being charged with impiety by Meletus over there. For it is clear that if I were to persuade and compel you by begging you, when you have sworn this oath, I would be teaching you not to believe there are gods, and would, in effect, whilst defending myself, accuse myself of not believing in gods. But this is not how matters stand. Far from it, for I believe in them, men of Athens, as none of my accusers believes, and I commit to you and to the god my cause to be judged, in whatever way may be best for me and for you.",
+"kind": "speech"
+}
+]
+},
+{
+"name": "After The Guilty Verdict",
+"lines": [
+{
+"entry": 92,
+"who": "Narrator",
+"text": "After The Guilty Verdict",
+"kind": "heading"
+},
+{
+"entry": 93,
+"who": "Socrates",
+"text": "There are many reasons, men of Athens, why I am not troubled by this outcome, that you voted to",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "convict me, and what has happened is not unexpected. But I am much more surprised at the number of votes on each side. For I never thought the difference in the votes was going to be so small, I thought it would be larger. But now, it seems, if a mere thirty votes had gone the other way, I would have been acquitted. In fact, even as it stands, I think I have escaped Meletus, and not only escaped him, but it is obvious to anyone that if Anytus and Lycon had not come forward to accuse me too,",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "he would even have been fined a thousand drachmas for not securing one fifth of the votes. So, this man proposes the death penalty for me. So be it. What alternative penalty shall I propose to you, men of Athens? Obviously, it should be a penalty I deserve. What, then? What do I deserve to suffer or pay out, all because I did not live a quiet life, and cared not for what most people care for – money making, affairs of the household, military rank, political status, public",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Socrates",
+"text": "office in general, and the alliances and factions that arise in the city? In fact, I thought myself too fair-minded to survive any involvement in any of this, so I did not go where I was to be of no benefit to yourselves or to myself. I went instead to each person individually, where I was going to confer the greatest benefit possible as I declare, by trying to persuade each of you to care, first and foremost, for himself rather than anything that belongs to himself, so that he might be as good and as wise as possible, to care for the city itself before anything that belongs to the city, and to",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Socrates",
+"text": "care for everything else in like manner. So what should happen to me for being this sort of person? What do I deserve? Something good, men of Athens, if I must propose a penalty based upon what I truly deserve, and it should be good in a way that is appropriate for me. Well, what is appropriate for a poor man, a benefactor, who needs leisure in order to exhort you? There is nothing more appropriate, men of Athens, than free meals in the Prytaneum. That is far more appropriate for me than it is for anyone who wins at the Olympic Games with a horse, or two horses or four horses. For while he makes you seem to be blessed, I make you blessed in reality, and while he has no",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "need of sustenance, I need it. So, if I must propose a penalty I justly deserve, this is what I propose,",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Socrates",
+"text": "free meals in the Prytaneum. Now, perhaps, when I say this, you think I am speaking defiantly, in much the same way as I spoke about recourse to pity and to pleading, but this is not the case, men of Athens. Rather, I am convinced that I have never intentionally wronged anyone. But I am not convincing you of this because we have had such a short time to discuss it, since, in my opinion, if you had a law, as other peoples do when a death penalty is involved, not to judge the case in a single day but over several days, you would be convinced. But it is not easy now to dispel these mighty slanders in",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "such a short time. So, being convinced that I have not wronged anyone else, I cannot possibly wrong myself and say that I deserve something bad and propose such a penalty for myself. Why should I? For fear of suffering the penalty Meletus proposes when I said I do not know if it is good or bad? Or should I select an alternative that I know quite well to be bad, and propose that instead? What about imprisonment? But why should I live in prison, in slavery to the officials who hold office at",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "the time, the Eleven? Or what about a fine, and imprisonment until I pay it? But in my case, this is the same as the other suggestion, for I do not have money with which to pay the fine. Well then, shall I propose exile as the penalty? Indeed, you might well accept that for me. Yet I would be gripped by an intense love of life, men of Athens, if I were so irrational that I could not figure out that while you, my fellow citizens, proved unable to tolerate my behaviour and my arguments,",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Socrates",
+"text": "and they became so burdensome and detestable to you that you are now seeking to be quit of them, other people … well, would they tolerate them more readily? Far from it, men of Athens. And what a nice life I would have in exile, a man of my age, moving from city to city, constantly being banished. For I know full well that wherever I go, the young people will listen to what I say, just as they do here, and if I drive them away they themselves will persuade their elders to banish me,",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Socrates",
+"text": "and if I do not drive them away, their fathers and relations will banish me for their sakes. Now, someone might perhaps say, “Socrates, if you kept quiet and lived a quiet life, wouldn’t you be able to live on, once we had cast you out?” The most difficult thing of all is to convince some of you on this issue, for if I say that this would constitute disobedience to the god and that is why I cannot hold my peace, you do not believe me as you think I am being ironical.",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "And if I also go on to say the highest good for a man is to engage in discourse every day about excellence, and the other issues on which you have heard me discoursing, and examining myself and others, and that for a human being an unexamined life is not worth living, you are even less convinced by what I say. But although that is how matters stand, as I declare, gentlemen, it is not easy to convince you. Besides, I am not used to the idea that I deserve anything bad. If I had money,",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Socrates",
+"text": "I might have proposed as large a fine as I could afford to pay, for that would have done me no harm. But at the moment I do not have the money, unless of course you propose as much of a fine as I am able to pay. I might perhaps be able to pay you one mina of silver, so I am proposing this amount. But, men of Athens, Plato here, Crito and Critoboulus and Apollodorus are encouraging me to propose thirty minae. They will act as sureties. So I propose that amount, and they will be your sureties for the money. They are trustworthy.",
+"kind": "speech"
+}
+]
+},
+{
+"name": "After The Death Sentence",
+"lines": [
+{
+"entry": 106,
+"who": "Narrator",
+"text": "After The Death Sentence",
+"kind": "heading"
+},
+{
+"entry": 107,
+"who": "Socrates",
+"text": "Men of Athens, all to save a little time, you will be notorious, and be accused of killing Socrates,",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Socrates",
+"text": "a wise man, by those who wish to reproach this city. For people who wish to revile you will indeed say I am wise, even if I am not. In any case, if you had waited a short while you would have obtained this result of its own accord, for you surely see my age, that I am now at a late stage of life and close to death. I am saying this, not to all of you, but to those who voted for my execution.",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Socrates",
+"text": "And I also say to these very people, perhaps you think, gentlemen, I have been convicted by being at a loss for the sort of words that would have persuaded you, had I believed I should do and say",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Socrates",
+"text": "escape death. No, it is much more difficult to escape wickedness, for that runs faster than death. And now, since I am slow and old, I have been caught by the slower runner, while my accusers, being clever and sharp, have been caught by the faster one, evil. And I shall now depart, sentenced by you to death, while they will depart, sentenced by truth to degeneracy and injustice. And I abide by my penalty, and so do they. Perhaps, too, this is somehow the way things had to be, and I think it is all in due measure.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "Next, I wish to make a prophecy to those of you who voted to condemn me, for I am now at the stage where men prophesy most of all, when they are going to die. For I declare, you gentlemen who have slain me, that immediately after my death you shall meet with a far more grievous punishment, by Zeus, than the death sentence you imposed upon me. For you have done this now, believing that you will avoid giving an account of your life, but I am telling you the very opposite",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Socrates",
+"text": "will happen. You will have far more people holding you to account, people whom I restrained until now, although you have been unaware of this. And as they are younger, they will be more severe, and you will be more troubled. For if you think that by killing people you will prevent anyone from reproaching you for not living aright, your thinking is flawed. For this particular means of escape is neither entirely effective nor is it noble, but the noblest and easiest way is not to put other people down, but to make yourself as good as you can possibly be. With these prophetic words I take my leave of those of you who have voted to condemn me.",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Socrates",
+"text": "But I would love to converse about what has happened with those who voted to acquit me, whilst the officials are busy, and before I go to the place where I must die. Please wait with me,",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Socrates",
+"text": "gentlemen, for as much time as we are allowed, since there is nothing to prevent us from talking to one another. To you who are my friends, I wish to explain the exact significance of what has happened to me just now. In fact, gentlemen, judges, for you may properly be called judges, something extraordinary has happened to me. For the familiar prophecy of the daimon has always been completely constant throughout my entire life, opposing me even on the most trivial issues, if I was about to do anything incorrectly. But now, as you yourselves see, something has happened to",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Socrates",
+"text": "me which may be thought, and is generally believed, to be the worst of evils. Yet the god’s sign did not oppose me as I left my home this morning, nor as I was coming up here to the court, nor in anything I was going to say in my speech. And yet in other discussions, it has stopped me in many places whilst I was still speaking. But now it has not opposed me at all in this matter, not in a single word, or deed. So, what do I suppose is the explanation for this? I shall tell you. In fact it is likely that what has happened to me is actually something good, and those of us who suppose",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Socrates",
+"text": "that death is something bad cannot be right to think so. I have strong evidence for this, for the familiar sign would undoubtedly have opposed me unless I was embarking upon a good course of action. But we may also consider, as follows, how great is the hope that death is good? For death is one of two things: either it is like being nothing, and the dead have no awareness of anything or, as we are told, it is a change, and relocation of the soul from this place here to another place. And if it is indeed an absence of awareness, like a sleep in which the sleeper does not even behold a",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Socrates",
+"text": "dream, then death would be a wonderful boon. Suppose someone had to select that night wherein he slept beholding no dream, and compare the other days and nights of his own life to this one and say, on reflection, how many days and nights more pleasant than this one he had lived through during his life. There would, I believe, be so few that a common citizen, or even the Great King himself, would find the calculation difficult. And indeed if death is like this, I say it is a boon, for",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Socrates",
+"text": "in that case its entire duration is apparently no longer than a single night. But if, on the other hand, death is like making a journey from here to another place, and what is said is true, that all those who have died are actually there, what greater good could there be than this, gentlemen, my judges? For, if anyone arriving in Hades is quit of those self-proclaimed",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Socrates",
+"text": "judges, and finds the true judges who are said to give judgement there – Minos, Rhadamanthus, Aeacus and Triptolemus, and any other demi-gods who were righteous throughout their own lives – would that be an ordinary journey? Or again, wouldn’t any of you give anything to meet with Orpheus, Musaeus, Hesiod and Homer? Indeed, I am willing to die again and again repeatedly if all this is true. For I myself would have a wonderful time there comparing my own experiences",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Socrates",
+"text": "with theirs, whenever I met up with Palamedes and Ajax, the son of Telamon, and any other men of old who died because of an unjust judgement. I think that would be enjoyable. And, indeed, most important would be to examine the people there, just like the people here, and find out who among them is wise, and who thinks that he is when he is not. Gentlemen, judges, wouldn’t anyone give anything to examine the man who led the massive army at Troy, or Odysseus or Sisyphus or",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Socrates",
+"text": "countless others one could mention, men and women alike? To engage in discourse with them, associate with them, and examine them, would be an absolute blessing. At any rate, the people there certainly do not execute people for such behaviour. For in general, they are more blessed than those here, and they are already immortal for all time, if what is said is actually true. But you too, gentlemen, judges, should be hopeful in the face of death, and hold this one precept as true: nothing bad comes to a good man either during his life or after death, nor are his",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Socrates",
+"text": "affairs neglected by the gods. Nor have my present circumstances come about by accident. Rather, it is obvious to me that at this stage it is better for me to die and be quit of troubles. That is why the sign did not deter me, and I am not at all angered by those who voted against me, or by my accusers. And yet, this was not what they had in mind when they voted to condemn me or accused me. No, their intention was to harm me. For this they deserve censure. Well, I ask this much of",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Socrates",
+"text": "them: when my sons are of age, punish them, gentlemen, with the same afflictions as I inflicted upon you, if you think they are caring for money, or anything else, before excellence, or if they think they are something when they are nothing. Reproach them as I have reproached you, because they care not for what they ought, and think they amount to something when they are worth noth-",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Socrates",
+"text": "ing. And if you do this, myself and my sons will have received just treatment at your hands. But now, it is time to depart, I to die, you to live. Which of us goes to the better lot is unknown to anyone but God.",
+"kind": "speech"
+}
+]
+}
+]
+}

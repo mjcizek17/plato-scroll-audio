@@ -1,0 +1,515 @@
+{
+"key": "euthy",
+"title": "Euthydemus",
+"parts": [
+{
+"name": "Euthydemus",
+"lines": [
+{
+"entry": 0,
+"who": "Crito",
+"text": "Who was it, Socrates, you were conversing with in the Lyceum yesterday? There was such a large crowd gathered around you that even though I wanted to listen I was not able to hear anything clearly when I got close. Yet when I popped my head up I got a look, and you seemed to be in conversation with a stranger. Who was he?",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Socrates",
+"text": "Which of them are you asking about, Crito? For there were two men, not one.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Crito",
+"text": "I am referring to the man seated two places to your right. Axiochus’ boy was between the two of you, and he seemed to me to have really grown up, Socrates, and to be much the same age as our own Critobolus, who is a slender youth, while that boy looks older than his years and is noble and good in aspect.",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Socrates",
+"text": "Euthydemus is the man you are asking about, Crito. And the person seated on my left was his brother, Dionysodorus. He gets involved in the discussions too.",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Crito",
+"text": "I don’t know either of them, Socrates. They are, it seems, more sophists, a new kind. Where are they from, and what is their wisdom?",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Socrates",
+"text": "Although the family is, I believe, from this part of the world, from Chios, these men went to Thurii as colonists. But after being exiled from there, they have already spent several years in these regions. As for your question about their wisdom, it is astounding, Crito. These two are almost totally wise. They really are a pair of total combatants – not like the two total athletes from Acharnania. For those two are able to fight with the body alone, while these two are firstly physically formidable in armour-fighting, and able to teach anyone who pays them a fee. Secondly, they are supreme in courtroom combat, both in fighting a case, and in teaching someone else to deliver and to compose the kind of speeches appropriate for the law courts. And of late they have brought perfection to their skill as total athletes, becoming so formidable in verbal combat and in refuting whatever anyone says, whether it be true or false. So I am thinking of placing myself in their hands, Crito.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Crito",
+"text": "What’s this, Socrates? Aren’t you afraid, at your age, that you may already be too old?",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "Not in the least, Crito. I have enough evidence, and encouragement, not to be afraid. For these two were almost old men when they embarked in this disputatious wisdom which I am so keen on. There is only one thing I am afraid of – that I might draw criticism upon the two strangers, just as I did to the harpist Connus, who still, even now, is teaching me to play the harp. So I’m afraid someone may criticise the two strangers in the very same way. And perhaps, fearing this very outcome, they may be unwilling to accept me. Yet, Crito, I have persuaded other old men to attend the class as fellow pupils of mine, and in this case too I shall attempt to persuade some others. Yes, why don’t you attend along with me? And we will bring your sons as bait. Since they will want the boys as pupils, I know that they will educate us too.",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Crito",
+"text": "There’s no reason not to, Socrates, if that’s what you think. But first explain to me what the wisdom of the two men is so that I may know what we are going to learn.",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Socrates",
+"text": "You shall hear straightaway, as I can’t claim that I didn’t pay attention to them. No, I attended fully, and I remember, and I shall try to recount everything to you from the beginning. Indeed, by some divine providence I happened to be sitting there, just where you saw me, alone in the dressing room, and I was already thinking of getting up to leave. But as soon as I stood up, the familiar divine sign came. So I sat down again, and a little later these two men entered, Euthydemus and Dionysodorus, and others too, pupils of theirs, I think. And once they arrived they walked about in the roofed portico. They had barely completed two or three circuits when Clinias came in – and what you say is true, he really has grown up. Behind him was a whole host of admirers, and among them was Ctesippus, a young man from the deme of Paeania, noble and good by nature, except for some arrogance born of youth.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "Now, when Clinias saw me from the entrance, seated on my own, he came straight over and sat down on my right, just as you say. On seeing him, Dionysodorus and Euthydemus first stood talking to one another, glancing over at us from time to time. Then one of them, Euthydemus, went and sat beside the young man, while the other one sat next to me on my left, and the others sat where they could.",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "Well, I greeted them both warmly as it was some time since I had seen them, and then I said to Clinias that Euthydemus and Dionysodorus knew everything there is to know about warfare, whatever anyone who is to be a good general needs to know, and that they are also able to make someone capable of coming to his own aid in court, should someone do him an injustice. Now, when I said this they were contemptuous. So they laughed, exchanged glances, and Euthydemus said, “We no longer take these matters seriously, Socrates. No, we treat them as diversions.” I was amazed and I said, “Your work must surely be noble if such weighty concerns as these are mere diversions for you. By god, tell me what this noble concern is.” “Excellence, Socrates,” he replied, “is what we believe we are able to impart better and more quickly than anyone else.”",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "“By Zeus,” I said, “you are making quite a declaration. Where did you discover this godsend? But, Dionysodorus and Euthydemus, make sure you are speaking the truth. For when you are making such an enormous proclamation, don’t be surprised if it is disbelieved.” “Well, Socrates, you may rest assured that this is how matters stand.” “Then I account you far more blessed for this possession than the Great King for his empire. But tell me this. Are you thinking of giving a demonstration of this wisdom, or what do you intend?” “That’s the very reason we are here, Socrates, to give a demonstration and to teach, if anyone wishes to learn.”",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "I asked them then to demonstrate – not a comprehensive one, but to convince this young man here, Clinias, that he should practise philosophy and concern himself with excellence, and I described the boy’s situation: the son of Axiochus, first cousin of the present Alcibiades, young and at risk of being turned to some other pursuit. Now, once I had said almost exactly this, Euthydemus responded in a manner both courageous and confident. “That makes no difference, Socrates,” he said, “as long as the young man is willing to answer.” “Well,” I replied, “he certainly is well accustomed to this, for these people here are constantly coming to him, asking him lots of questions and engaging him in discourse, and so he is quite courageous at answering.”",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "So Euthydemus began somewhat as follows. “Clinias, who are the people who learn? Are they the wise or the unlearned?” And the young man, faced with such a significant question, blushed and looked at me in perplexity. And once I realised that he had been upset, I said, “Take heart, Clinias. Answer courageously, giving whatever answer seems right to you, for this may well confer an enormous benefit upon you.” At this, Dionysodorus leaned forward and whispered that whatever answer the young man gives, he will be refuted. And Clinias answered that those who learn are the wise. Then Euthydemus led him through a series of steps: when you were learning, you did not yet know the things you were learning? Then you were not wise, but unlearned? “Then whilst you were learning what you did not know, you were learning whilst being unlearned – it is the unlearned who learn, Clinias, and not, as you believe, the wise.” Now, once he had said all this, his followers laughed and cheered like a chorus at a signal from their teacher.",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "And before the youth had well and truly recovered, Dionysodorus took over. “What about this, Clinias? Whenever the grammarian gave dictation to you, which boys learned the dictation, the wise or the unlearned?” “The wise,” replied Clinias. “So it is the wise who learn, not the unlearned, and you didn’t answer Euthydemus properly just now.” With this, the admirers of the two men laughed and cheered loudly in delight at their wisdom, while the rest of us were stunned and fell silent. And Euthydemus, in order to astound us even more, like one of those good dancers, gave a double twist to his questions on the same topic and asked, “Now, do those who learn, learn what they know or what they do not know?” And Dionysodorus whispered again, “And this, Socrates, will be another one, similar to the previous one.”",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "He put Clinias through the letters argument – you know all your letters? Yes. When anyone dictates, doesn’t he dictate letters? Yes. Doesn’t he dictate something you know? Yes. Therefore you are learning what you know. So you did not answer correctly. Then Dionysodorus threw the argument back like a ball: learning is the acquisition of knowledge, while knowing is already having knowledge, so those who acquire are those who do not have – the unlearned learn, not those who know. Well, Euthydemus was rushing in to give the lad a fall for the third time when I realised the young man was going under. Wanting to give him some respite I said, by way of encouragement, “Clinias, do not be surprised if these arguments appear unfamiliar to you. They are doing the same thing as those who are involved in Corybantic initiation – they are now really just dancing around you and having fun with these dance moves. After this they will initiate you.”",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Socrates",
+"text": "I explained to Clinias that this was the playfulness of their instructions: they were demonstrating that the same word ‘learning’ applies both to someone who initially has no knowledge but subsequently acquires some, and to someone who already has the knowledge and investigates further. These men were demonstrating that this fact had escaped his notice, that the same word is applied to people in opposite circumstances. “So, you should regard all of this as child’s play on their part, after which they will of course demonstrate their serious work to you. So let that be the end of your game playing, Dionysodorus and Euthydemus, and that is probably enough. And so, after this you should give a demonstration in which you exhort the youth to devote himself to wisdom and excellence. But first I shall demonstrate to you both how I understand this, and the sort of thing I am eager to hear.”",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "So I said, “Does every one of us wish to do well? Or is this question one of those that will provoke the laughter I was afraid of a moment ago? Yes, it is surely ridiculous even to ask such questions, for what man is there who does not wish to do well?” And Clinias agreed. “So be it. The next question is, since we wish to do well, how may we do well? Would it be by possessing much that is good? Come then, all things considered, what sort of things are good for us? Being wealthy, and being healthy too, and being handsome and endowed with the other bodily features?” He thought so too. “Then again, noble birth, power and esteem in your own city are obviously good.” He agreed. “And what about being sound-minded and just and courageous – are these good?” “They are good,” said Clinias. “And where shall we situate wisdom? With the good?” “With the good.”",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Socrates",
+"text": "I then said we were in danger of omitting good fortune, which everyone agrees is the most important good of all – but then I changed my mind: “Surely wisdom is good fortune. Yes, a child would realise this.” I asked whether the flute players are the most fortunate when it comes to flute music, the writing teachers when it comes to letters, the wise pilot on the sea, the wise general in battle, the wise doctor when ill? In every case, Clinias agreed, wisdom brings good fortune, for wisdom would not ever fall into error. Rather, it must act aright and succeed, or else no longer be wisdom. In the end we both agreed, I know not how, that once wisdom is present, he to whom it is present needs no additional good fortune.",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "I then took up the argument about using good things correctly. If we had a lot of food but did not eat, we would not be benefited. If each of the craftsmen had all the equipment appropriate to his own work but did not make use of it, they would not do well because of the acquisition alone. “So it seems that someone who is going to be happy must not merely acquire such goods as these, but must also make use of them, or else no benefit arises from their acquisition.” Clinias agreed. “If he uses them correctly or if he does not?” “If he uses them correctly.” And was it knowledge that guided the right usage of everything – wealth, health, beauty? “It was knowledge,” said he. “So, in the case of any acquisition or any activity, knowledge not only provides people with good fortune, but also it ensures they do well.”",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "I pressed on: would a person derive more benefit if he acquired a lot and did a lot without possessing intelligence, or if he acquired little and did little, while possessing intelligence? If he did less, wouldn’t he make fewer errors, and wouldn’t he be less wretched? “Entirely so.” Who is inclined to do less – someone rich or poor? “Someone poor.” Someone strong or weak? “Someone weak.” Someone courageous and sound-minded or a coward? “A coward.” And a lazy person, someone slow, dull of sight and hearing? We agreed with one another on all such examples. “To sum up, Clinias, in the case of everything we initially declared to be good, the argument is not about how they are naturally good just by themselves. If ignorance rules, then they are more bad than their opposites; but if understanding and wisdom rule, they are more good, yet just by themselves neither of them is of any value.”",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "I concluded: “Since we are all eager to be happy, and since it turns out that we become like this through using things, and using them correctly, and since knowledge provides the correctness and good fortune, then every man should, it seems, contrive by every possible means to become as wise as possible. And surely if someone believes he should acquire this from his father, from his guardians too, and from his other friends, begging and imploring them to grant him wisdom is no disgrace, Clinias. Nor is there cause for indignation in being a servant or slave to a lover or any person for the sake of this, in being willing to render any noble services out of his eagerness to become wise.” “I really think you have spoken rather well,” said he.",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "I was delighted that Clinias agreed wisdom can be taught and I said, “Best of men, it is good that you say so, and you have done well, by saving me from a lengthy consideration of this very question, whether wisdom can or cannot be taught. So now, since you think both that it can be taught, and that it is the only thing there is that makes a person happy and fortunate, would you say anything else is needed, apart from the practice of philosophy? And is this what you yourself intend to do?” “Yes certainly, Socrates,” he replied, “to the best of my ability.” I was pleased to hear this, and I said, “Dionysodorus and Euthydemus, this is my own example – perhaps amateurish, laborious and a bit too long – of what I want an exhortatory argument to be like. Now, one of you, whoever wishes, should give a demonstration of the same thing, done skilfully. For it is of great importance to us that this youth become wise and good.”",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "Now, Crito, that is what I said, and I paid very close attention to what was to happen next. Dionysodorus, the elder of the two, was first to set about the argument. “Tell me, Socrates,” said he, “and you others who say you want this youth to become wise. Are you joking when you say this, or are you serious, and do you truly want this?” So, with this in mind, I emphasised that we were extremely serious. And Dionysodorus said, “Well, think about this, Socrates, in case you end up denying what you are now saying.” “I have thought about it,” said I, “and I shall never end up denying it.” “Well then,” said he, “are you saying that you want him to become wise?” “Yes, we certainly are.” “And at the moment, is Clinias wise or not?” “He is not boastful,” said I, “and he does not yet make this claim.” “But,” said he, “you want him to become what he is not, and no longer be what he now is.”",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "When I heard this I was confused, and he seized upon my confused state and said, “Since you want him no longer to be what he now is, it seems you just want him to be dead. Yes, friends and lovers like these would be worth a lot, friends who would do anything to destroy their favourite.” When Ctesippus heard this, he was angry on behalf of his favourite and said, “Stranger from Thurii, if it were not such a crude expression, I would say ‘be it on your head’ for presuming to hold such a false notion of myself and the others, and one which in my view it is most unholy to express, that I would like this fellow to be utterly destroyed.” “What’s this, Ctesippus?” said Euthydemus. “Do you think it is possible to speak falsely?” “Yes, by Zeus,” he replied. “I would be mad not to.”",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "Euthydemus then trapped Ctesippus: when one is speaking of a matter, does he not speak of something that is? And what he speaks of is one of the things that are? So if Dionysodorus is speaking of things that are, he is speaking the truth and is saying nothing false about you. Ctesippus retorted that Dionysodorus was speaking of things that are, but not as they actually are. “What do you mean?” said Dionysodorus. “Are there some people who speak of things as they are?” “There are, indeed,” he replied, “the noble and good, and those who speak the truth.” “What about this? What’s good is well disposed, and what’s bad badly so. Is this the case?” He concurred. “And you agree that the noble and good people speak of things as they are.” “I agree.” “So good people speak badly of anything bad, Ctesippus,” he said, “if they actually speak of it as it is?” This led to banter about speaking ‘greatly’ of the great and ‘warmly’ of the warm, and Dionysodorus accusing Ctesippus of being ‘abusive’.",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "Since I thought they were being aggressive towards one another, I made light of it with Ctesippus, and said, “Ctesippus, if they are prepared to be generous, I think we should accept anything the strangers say, and not quarrel over a word. For if they know how to destroy people in such a way as to make worthy and intelligent folk out of those who are degenerate and stupid – if they know this, then let us make this concession to them. Let them destroy the lad for us and make him intelligent, and all the rest of us too. But if you younger folk are afraid, then let the danger fall upon me, as if they were practising on some slave. Since I am quite old, I am willing to run the risk and give myself over to Dionysodorus here as if he were Medea of Colchis. Let him destroy me, and if he wants to, let him boil me or do whatever he wants. Just let him bring me forth a worthy man.”",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "Then the argument shifted to whether contradiction is possible. Dionysodorus said one could not even prove that one person had ever contradicted another. Ctesippus said he was hearing himself, Ctesippus, contradicting Dionysodorus right now. Dionysodorus pressed: are there accounts of each of the things that are? And do they not give an account of each as it is? But if both speakers give an account of the same thing, they say the same things – they don’t contradict. If neither speaks of the thing, neither mentions it. And if I speak of the thing but you speak of something else, then I’m speaking of it while you are not – but how could someone who does not speak of it contradict someone who does? Ctesippus fell silent, while I was amazed at the argument and said it always seemed to me to simply say there is no false speaking, and to ask whether there is false thinking. “There is no false thinking either,” he replied. “So there is no ignorance either, nor any ignorant people?”",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "I asked directly: “Dionysodorus, are you presenting this argument for the sake of discussion, in order to say something unusual, or do you think in truth that there is no such thing as an ignorant person?” “You should try to refute me,” said he. “And based upon your argument, is there refutation when no one speaks falsely?” “There is not,” said Euthydemus. “Then Dionysodorus did not encourage me to refute him just now?” said I. “Indeed, how could someone encourage what is not?” I pressed on: if it is impossible to be in error either when acting, speaking or thinking, what have the two of you come here to teach? Or did you not claim earlier that you are the best people to impart excellence to someone who wishes to learn it? Dionysodorus dismissed this as old Cronus-talk, reminding me of what was said last year and refusing to deal with what was being said at the moment.",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "After much back-and-forth, in which Euthydemus tried to trap me into saying I know by my soul and I always know, I resolved to get back to the exhortatory purpose and said, “Clinias, you should remind me where we left off. As I recall it was around the stage where we agreed, in the end, that one should practise philosophy.” “Yes,” he replied. “And philosophy is the acquisition of knowledge. Isn’t this the case?” “Yes.” “Now, would it be of any benefit to us if, as we went about, we knew how to recognise where most gold is buried beneath the earth?” “Probably,” he replied. “But we refuted this suggestion earlier,” said I, “because we would be no better off even if all the earth’s gold were to be ours without any trouble, or any need to dig. And so even if we knew how to turn stones into gold, the knowledge would be of no value, for if we did not also know how to use the gold, there turned out to be no benefit in it. Don’t you remember?” “Entirely so,” he replied.",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Socrates",
+"text": "So what is needed is a knowledge in which the production, and knowing how to use what is produced, reside together. We do not need to be lyre makers, for the productive skill is one thing while the user’s skill is another. The same holds for flute-making. I asked about the speech-writer’s skill, and Clinias objected: “I notice that some speechwriters do not know how to deliver their own speeches, the ones they have composed, just as the lyre makers are unable to play the lyres – the skill of producing speeches is distinct from the skill of using them.” I thought that you are giving sufficient evidence that the skill of the speech-makers is not the one whose acquisition would result in happiness. Indeed, this skill is a portion of the enchanters’ skill, but a little inferior thereto. For the skill of the enchanters consists in charming snakes and wild creatures generally, while the speech-makers’ skill involves charming and persuading jurors, assembly members, and large gatherings in general.",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "I suggested the skill of the general next, but Clinias said, “This is, in a sense, a skill in hunting down human beings. Nothing in the actual skill of hunting goes any further than hunting down and subduing, and whenever hunters subdue whatever they are hunting, they are not able to make use of it. Instead the hunters hand it over to the cooks. The same goes for geometers, astronomers and calculators, since they too are hunters. They do not produce their own diagrams; instead, they make discoveries. And since they themselves do not know how to make use of them, but only how to hunt them down, they hand over, of course, to the dialecticians. And the same goes for the generals: whenever they capture some city or army, they hand it over to the statesmen. So if we need a particular skill which also knows how to make use of that which it acquires, then we must search for something else rather than the skill of the general.”",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Crito",
+"text": "What are you saying, Socrates? Did that young man make a pronouncement of that sort?",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "Don’t you believe it, Crito?",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Crito",
+"text": "By Zeus, I don’t. In fact, if he said all that, I think he needs neither Euthydemus nor anyone else to educate him.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "Well then, by heaven, perhaps it was Ctesippus who said all this and I am being forgetful? In any case, I know quite well that it was neither Euthydemus nor Dionysodorus who said all this. But, blessed Crito, was it perhaps one of the superior beings in the vicinity who made the pronouncement? For I know that I did hear all this.",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Crito",
+"text": "Yes by Zeus, Socrates, I think it was indeed one of the superior beings, very much so. But after that, did you continue searching for some sort of skill? Did you or did you not find the skill you were searching for?",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "Did we find it? Heavens, no. But we were quite comical fellows, just like children chasing after larks, constantly believing we were just on the point of capturing each of the kinds of knowledge, while they kept on escaping us. Once we had arrived at the art of kingship, and we were considering it closely in case it might be the one that provides happiness, we ended up in a sort of labyrinth. Thinking we were already at the end, having turned another corner, we appeared to be back at the beginning of the search once more, and just as badly off as we were at the outset.",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Crito",
+"text": "How did that happen to you, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "I’ll tell you. The fact is, we had presumed that the skill of statesmanship and the skill of kingship were the same. The skill of generalship and the others hand over to this skill to take charge of their works, since it alone knows how to make use of them. So it seemed evident to us that this was what we were seeking, and was the cause of right action in the city, simply, as the line from Aeschylus says, seated alone at the helm of the city, governing all, in charge of all, making everything useful.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Crito",
+"text": "Well, was your understanding unsound, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "You will decide, Crito, if you are willing to hear what happened to us after this. When we asked what outcome the skill of kingship brings about for us – as medical skill brings health, and the skill of agriculture brings food from the earth – we found we couldn’t say what it produces. Eventually, Clinias and I agreed that good is presumably nothing but knowledge of some sort. So the skill of kingship had to make the citizens wise and confer knowledge, if it was really going to be the one that benefits them and makes them happy.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Crito",
+"text": "That’s it. So, based upon your report of the discussion, this was presumably agreed by yourselves at that stage.",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "Well then, does the skill of kingship make the people wise and good?",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Crito",
+"text": "Is there any reason why not, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "But does it make everyone good at everything? And is this the skill that confers all knowledge – shoe-making, carpentry, and all the others?",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Crito",
+"text": "No, Socrates, I don’t think so.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "Well, what knowledge does it confer? Now, it should not be the artificer of any of the outcomes that are neither good nor bad, yet it should confer no knowledge apart from itself. Is it acceptable if we say that it is that by which we shall make others good?",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Crito",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "In what respect will they be good and useful for us? Or would we continue to say that they will make others so, and those others will do this too? But it is not at all evident to us in what exact respect they are good, especially since we have discredited the outcomes ascribed to statesmanship. No, it is simply a case of the proverb, ‘Corinthos, son of Zeus’, and as I said, we were just as badly off, or even worse off, when it came to knowing what the knowledge that will make us happy actually is.",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Crito",
+"text": "By Zeus, Socrates, it seems you ended up in considerable difficulty.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "Now, I myself, Crito, since I had landed in this difficulty, began to exclaim at the top of my voice, begging the two strangers to rescue us, myself and the young man, from the third wave of the argument, to be serious in every way, and reveal to us, in all seriousness, what precisely is the knowledge which we should obtain if we are to live out the rest of our lives beautifully.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Crito",
+"text": "Well then, was Euthydemus prepared to reveal anything to you?",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "Of course, and he began his account, my friend, in a very high-minded manner, as follows. “Well, Socrates, this knowledge that has perplexed you for so long, shall I teach it to you, or show you that you possess it?” “Blessed man,” said I, “is it within your power to do this?” “It certainly is,” he replied. “Then show me that I possess it, by Zeus, since for a man of my age that will be much easier than learning it.” He asked if there is anything I know. “Certainly,” I replied. “That’s enough,” said he. “Now, do you think it is possible for anything at all not to be just what it happens to be?” “By Zeus, I do not.” “And you do know something?” “I do.” “In that case you are knowledgeable, if you actually know.” “Certainly, in relation to that ‘something’.” “That makes no difference. Isn’t it necessary that you know everything since you are knowledgeable?” “Heavens,” said I, “even when there is so much else that I do not know?” “Well then, if there is something you do not know, you are not knowledgeable.”",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "By Zeus,” said I, “what a wonder you are describing. Great good has come to light. But surely all the rest of the people don’t know either everything or nothing?” “Well, presumably,” said he, “it is not the case that they know some things while not knowing others. Everyone knows everything, if they actually know even one thing.” And under questioning by Ctesippus they did accept that they knew everything, case by case. There was nothing that Ctesippus did not ask them, no matter how base it was. Yet the two men met his questions most valiantly, just like boars that are driven towards an onslaught. As a result, I myself was compelled in the end to ask, incredulously, if Dionysodorus knew how to dance, and he replied, “Certainly.” “I do not suppose that at your age, you have attained such advanced wisdom that you can also somersault over swords, and be spun about on a wheel, have you?” “There is nothing I cannot do,” he replied. “And when you were children, even at the moment you were born, did you know everything?” They both said yes, simultaneously.",
+"kind": "narration"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "Euthydemus wanted to prove I accept these amazing propositions too. He asked if I know what I know by means of something. “By the soul.” He pressed: do you always know by this same means? Always? Do you know some things by means of this and others by means of something else, or do you know all things by this? “I know all things by this,” I replied, “whatever I know at any rate.” Through careful stripping of qualifications like ‘whatever I know’ and ‘whenever I know’, he got me to say simply “Always” and “All things.” Then he announced: “Now, you have also accepted that you always know by means of that whereby you know. So it is obvious that you knew as a child, even when you were being born, even when you were being conceived. Even before you yourself were born, even before heaven and earth came into being, you knew all things, since you always know. And indeed, by Zeus, you yourself always will know, and will know all things, if it so pleases me.”",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "I asked him to tell me how I may say that I know such things as that good men are unjust. “You know, indeed,” he replied. “What?” said I. “That good men are not unjust.” “Yes, I’ve always known that,” said I. “But I am asking where I learned that the good people are unjust.” “Nowhere,” replied Dionysodorus. “Then I do not know this,” said I. “You are ruining the argument,” said Euthydemus to Dionysodorus, “and this fellow will turn out not to have known this, and to be knowledgeable and not knowledgeable at the same time.” Dionysodorus blushed. And I said, “I am certainly inferior to Heracles, who was not able to do battle with the hydra, a sophistical creature so clever that if someone cut off one head of the argument, she sent forth many more in its place. He could not do battle with her and with some other sophistical crab recently emerged from the sea, who so pained Heracles by talking and biting from his left-hand side that he called for the help of his nephew, Iolaus. But if my Iolaus were to arrive, he would just make matters worse.”",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "Then Dionysodorus pursued a new line: “Was Iolaus any more the nephew of Heracles than yours?” Through careful steps he had me admit that Patrocles is my brother, then established that their father Chaeredemus was a father while being other than mine, and since being other than a father means not being a father, that Sophroniscus likewise, being other than Chaeredemus, is not a father. “And so you, Socrates, are fatherless,” said Euthydemus. Then Ctesippus took up the argument: is Euthydemus’ father, being other than my father, the same? “The same, indeed.” “But, Euthydemus, is he my father only, or is he the father of everyone else too?” “Of everyone else too. Or do you think the same man, being a father, is not a father?” This extended to their mother being the mother of sea urchins, and themselves being brothers to gudgeons, puppies and piglets.",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "Then Dionysodorus asked whether Ctesippus has a dog. “Yes, a very nasty one.” Does he have puppies? “Yes, and they are very like himself.” “So the dog is their father?” “Yes, I saw him covering the bitch myself.” “Well now, isn’t the dog yours? In that case, he is a father and he is yours, and so he turns out to be your father, and you turn out to be the brother of puppies.” Then Dionysodorus quickly interrupted: “Answer this little question for me. Do you beat this dog?” Ctesippus laughed and said, “Yes, by the gods, since I can’t do it to you.” “Aren’t you beating your own father then?”",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "Euthydemus asked whether it is a benefit for a sick person to drink medicine when he needs to, and whether in battle it is better to go wearing armour. Ctesippus agreed. “Indeed, since you accept that it is a benefit for a man to drink medicine when necessary, shouldn’t he simply drink this beneficial substance as much as possible? And in that case, would it be an advantage if someone were to grind and blend a wagon-load of hellebore for him?” Ctesippus replied, “Very much so, Euthydemus, particularly if the man who drinks it is the size of the big statue at Delphi.” And in battle, since it is a benefit to wear armour, should we carry as many spears and shields as possible? Ctesippus quipped whether they would arm Geryon and Briareus in this way.",
+"kind": "narration"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "Then Dionysodorus asked whether it is a benefit to possess gold and to have benefits at all times and in all places. And should gold be especially in ourselves? “Would a person be supremely blessed if he were to have three talents of gold in his stomach, a talent in his skull, and a stater of gold in each eye?” Ctesippus retorted that the most blessed of the Scythians, and their very best men, are the ones who have a lot of gold in their own skulls, and that they drink from their own gilded skulls. Then Euthydemus produced another ambiguity: the Scythians and others see what is ‘capable of vision’ – which is ambiguous between ‘capable of seeing’ and ‘capable of being seen’ – and so our cloaks, being capable of being seen, are ‘capable of vision’. And do our cloaks see nothing? “To me, Euthydemus,” said Ctesippus, “you seem to have fallen asleep, without being asleep, and if it is possible to speak yet say nothing, that is just what you are doing.”",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "The discussion moved to whether a speaking of what is silent is possible, and a silence of speaking. Euthydemus asked: when you are silent, are you silent in relation to all things? “I am.” Aren’t you also silent in relation to whatever speaks, if this is included in all things? And since the different is not silent, do all things speak? Dionysodorus jumped in with “Neither and both – yes, I know quite well that you will not be able to deal with this answer.” And Ctesippus, in his usual way, broke into very loud laughter and said, “Euthydemus, your brother has led the argument into a contradiction, and he has perished and been defeated.” Now, Clinias was extremely pleased, and he laughed, with the result that Ctesippus grew in stature tenfold.",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "And I said, “Clinias, why are you laughing at matters that are so serious and beautiful?” “Well, Socrates,” said Dionysodorus, “have you ever yet seen a beautiful matter?” “Yes, I have, Dionysodorus, lots of them.” “So are they different from the beautiful, or the same as the beautiful?” And I became utterly perplexed, but I said they were different from the beautiful, although some beauty is present with each of them. “So, if an ox is present with you, you are an ox, and because I am present with you now, you are Dionysodorus?” “What a thing to say,” said I. “But what way could the different be different, just because difference is present with difference?” I asked if the beautiful is not beautiful and the base not base? “If it seems so to me.” “And indeed the two of you seem to me to bring the process of dialectic to fruition, just like craftsmen who bring their appropriate work to fruition.”",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "Then Dionysodorus led me into another trap: to whom is brass-working appropriate? To the brass-workers. Making pots? To the potters. Cutting up, skinning, boiling or roasting the portions of meat once cut up? To the cook. And if someone enacts what is appropriate, isn’t he acting aright? So if someone slaughters the cook, cuts him up and boils and roasts him, he will be acting aright? “By Poseidon,” said I, “at this stage you are putting the finishing touches to your wisdom. I wonder, will it ever be mine, and become my own?” Then through steps about what things are mine (those I can sell, give away or sacrifice), and about living creatures (those that have soul), and about my ancestral gods Apollo, Zeus and Athena being mine and living creatures, he asked: since you have agreed that Zeus and the other gods are yours, are you allowed to sell them, or give them away, or treat them as you wish, just like any other living creatures?",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "Well, Crito, while I lay there speechless, as though I had been felled by the argument, Ctesippus came to my aid saying, “Bravo Heracles, what a good argument.” And Dionysodorus asked, “Is Heracles a bravo, or a bravo Heracles?” And Ctesippus responded, “By Poseidon, what formidable arguments. I give up. The two men are invincible.”",
+"kind": "narration"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "With that, dear Crito, I must say that there was no one present who did not heap praises upon the two men and their argument. Indeed, they almost died laughing, clapping and rejoicing. Now even the very columns of the Lyceum came close to applause and delight at these two men. As for myself, I was reduced to admitting that no one had ever before beheld any people who were as wise as they were, and being utterly captivated by the wisdom of the pair, I took to praising and eulogising them both, saying: “You are two blessed men, possessed of a wondrous nature, who have perfected such a subject so readily in such a short period of time. The most exalted of your arguments is that you have no concern for most of humanity, nor indeed for important people or those with a reputation, but only for those who are similar to yourselves. For I know quite well that there are very few people similar to yourselves who would be content with these arguments, while everyone else is so unappreciative of them that they would be more ashamed to refute others by such arguments than to be refuted themselves.”",
+"kind": "narration"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "I continued: “There is also an appealing and kindly aspect to your arguments. Whenever you declare that there is nothing beautiful, nothing good or white, and so on, and that nothing is at all different from anything else, you simply stitch up people’s mouths well and truly. Yet, because you don’t just do this to others but you seem also to do it to your own mouths, this is entirely delightful and it takes away the offensive aspect of the arguments. And yet, what is most significant is that you have arranged matters and contrived them so skilfully that anyone at all can learn this in a short period of time. I realised this myself by paying attention to Ctesippus, and how quickly he was able to imitate you without any preparation. Now, the fact that this business of yours is readily imparted is all very well, but it is not appropriate for discussion before a general audience. It is best, rather, that the two of you conduct your discussions only with one another. Failing that, it should be someone who is paying you a fee. And if you are sensible, you will also give the same advice to your pupils: never to conduct a discussion with anyone else. For whatever is scarce is valuable, Euthydemus, while water is cheapest, although it is the best, as Pindar says.”",
+"kind": "narration"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "Having discussed all this, Crito, and some other issues that took less time, we departed. Now, you should consider how you are going to join us as a pupil of these two men who claim to be able to teach anyone who is willing to pay them, and who say that neither a person’s nature nor his age prevents anyone at all from easily acquiring their wisdom. And it is most important for you to hear that, according to them, this wisdom is not an impediment to making money.",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Crito",
+"text": "Well, Socrates, although I myself love listening to discussions, and would be pleased to learn something, I fear that I too am one of those people who would prefer being refuted by such arguments as these, rather than refuting someone else. Now, although it seems ridiculous to be giving you a warning, I want to report what I heard nevertheless. The fact is that one of the people coming from your gathering approached me as I was out and about, a man who regards himself as extremely wise, a formidable figure when it comes to writing speeches for use in law courts. “Crito,” said he, “are you taking no lessons from these wise men?” I replied that when I was standing near them I was unable to hear clearly because of the crowd. “And yet,” said he, “it was worth hearing, at any rate.” I asked what his overall impression was. “It was just the sort of thing you always hear from people like this, babbling and making a useless fuss about nothing of any consequence.”",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Crito",
+"text": "And I said, “But surely philosophy is something graceful?” “Graceful in what way, blessed man?” he asked. “It is of no value at all. And had you actually been there, I think you would have been utterly ashamed on behalf of your own friend, so strangely did he behave, willing to surrender himself to men who care not what they say, and fasten upon every word that is spoken. And these fellows are counted among the most influential people of this day and age. But the fact is, Crito, that the subject itself, and the people who devote their time to the subject, are worthless and ridiculous.” Now, Socrates, it did not seem right to me for him or anyone else to criticise the subject. However, it did seem right to apportion blame for your willingness to engage in discourse with such people as these, in front of a large audience.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "Crito, men like these are marvels. However, I do not yet know what I am to say to you. What sort of person was he who approached you and apportioned blame to philosophy? Was he one of the formidable combatants from the law courts, a rhetorician? Or was he one of the people who sends them into battle, a composer of speeches with which the rhetoricians engage in combat?",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Crito",
+"text": "By Zeus, he is not a rhetorician at all, nor do I think he has ever appeared in court. Yet they say he understands the business, and that he is formidable, and composes formidable speeches.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "Now I understand. I was just about to speak about these people myself. For although they are, according to Prodicus, on the boundary between the philosopher and the statesman, they think that they are the wisest men of all. And they believe that the only thing preventing them from being well regarded by everyone are people who engage in philosophy. So they believe that if they reduce the reputation of these people, and make them seem worthless, the victory prize will indisputably be theirs immediately, a reputation for wisdom in the eyes of all. So they maintain that they are in truth the wisest, and whenever they get tangled up in arguments of a private nature, that they are being worsted by Euthydemus and his followers. Yet they believe quite plausibly that they are extremely wise for they possess a measure of philosophy and a measure of statesmanship. So, remaining aloof from danger and conflict, they reap the harvest of wisdom.",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Crito",
+"text": "What of it, Socrates? Do you think they have a point since their argument does have a certain neatness at least?",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "Yes, indeed, Crito, it does indeed possess neatness rather than truth. For if philosophy is good, and so too is the activity of the statesman, each in a different respect, and these fellows are in between those two since they partake of both, then they do not have a point since they are inferior with respect to both. And if one is good and the other bad, then they are better with respect to one group and worse with respect to the other. But if both are bad, in that case and in no other, they would be speaking the truth to an extent. But the fact of the matter is that these fellows, although they partake of both, are inferior with respect to both, with respect to what is of value in statesmanship and what is of value in philosophy, and despite being, in truth, in third place, they are ambitious to be regarded as first. So we should forgive this ambition of theirs and not be troubled, yet still recognise that they are the sort of people they are. For we ought to admire any man whatsoever who says anything that conforms to good sense and takes the trouble to pursue it courageously.",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Crito",
+"text": "Yes, indeed, Socrates, and I myself, as I am always telling you, am perplexed over my sons and how I should deal with them. Now, one of them is still young and little, but Critobulus is now at an age where he needs someone who will do something for him. Now, whenever I am in your company, you always have the same effect. I think that it is madness to have taken such trouble in so many different ways for the sake of my children – trouble in relation to marriage to ensure noble birth on their mother’s side, and trouble over making money – whilst I neglected their education. Yet, whenever I look at any of those people who profess to educate humanity, I am shocked, and each one of them seems to me, on reflection, to be utterly outlandish, to tell you the truth between ourselves. And so I do not know how I am to turn the young man towards philosophy.",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "Crito, my friend, don’t you realise that in every activity the inferior practitioners are numerous and of no value, while the serious ones are few, and valuable beyond measure? And don’t you think that gymnastics is a worthy activity, money-making too, and rhetoric and generalship?",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Crito",
+"text": "Entirely so, of course I do.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "Well then, in each of those cases, don’t you know that most people are comical exponents of the particular role?",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Crito",
+"text": "Yes, by Zeus, that is certainly true.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "So, will you yourself shun all of these activities on account of this, and refuse to direct your son towards them?",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Crito",
+"text": "That wouldn’t be right, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "Then do not do what you should not do, Crito. Rather, bid farewell to the exponents of philosophy, whether they be worthy or base, and having tested the subject itself well and truly, turn not just your sons but every man away from it if it proves in your eyes to be unworthy. However, if it proves to be as I think it is, then pursue it and practise it with all your heart, both you and yours, as the saying goes.",
+"kind": "speech"
+}
+]
+}
+]
+}

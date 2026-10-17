@@ -1,0 +1,2159 @@
+{
+"key": "hippmaj",
+"title": "Hippias Major",
+"parts": [
+{
+"name": "Hippias Major",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "Ah, it is the handsome and wise Hippias! It has been quite some time since you last set foot in Athens.",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Hippias",
+"text": "I don’t have the time, Socrates. For whenever Elis needs any business transacted with any other cities, I am the first citizen it approaches, choosing me as ambassador on the assumption that I am the most competent judge and reporter of the communications from the various cities. Now, although I have acted as ambassador to other cities on many occasions, I have dealt most often on the most frequent and important matters with Sparta. And that’s why, to answer your question, I don’t visit this part of the world too often.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "Well, that is what comes of being a truly wise and accomplished man, Hippias. For in the private sphere, you are indeed well able to secure lavish payment from the young people, and the benefit you confer upon them exceeds the amount you are paid. And what is more, in the public sphere you are well able to do good work for your own city, as befits someone who is not going to be despised but held in high regard by most people. But, Hippias, what precisely is the reason why those men of old, whose names are a byword for wisdom – Pittacus and Bias, and the associates of Thales of Miletus and those who came later, down to Anaxagoras – all of them, or most of them, apparently refrained from political activity?",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Hippias",
+"text": "Why do you think, Socrates? Weren’t they just lacking in ability, and the competence to reach an understanding of both the public and private spheres?",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "In that case, by Zeus, may we say that just as the other skills have advanced and the ancients are of no account compared with today’s craftsmen, your skill too, the skill of the sophists, has also advanced in this way and that the ancients who were concerned with wisdom are of no account compared to you?",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Hippias",
+"text": "Yes, very much so, that is correct.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "So, Hippias, if Bias were to come back to life nowadays, he would be an object of fun, just as statue makers say that Daedalus would be a laughing stock if he had been born in our times and were to produce the sort of works that made his reputation.",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Hippias",
+"text": "The situation is just as you describe it, Socrates, yet I make a habit of praising our ancient forbears first and to a greater extent than our contemporaries, for although I am wary of the malice of the living, I am in fear of the wrath of the dead.",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "Hippias, in my view you are using words and formulating your thoughts beautifully. I too can bear witness to the truth of what you are saying, that this skill of yours really has advanced in its ability to conduct civic affairs and private affairs too. For this fellow, Gorgias, the sophist from Leontini, arrived here once on a civic matter, acting as ambassador for his own country because he was the most competent of the Leontinians when it came to public affairs. In the public arena he seemed to speak excellently, and in private by putting on exhibitions and associating with young people, he earned a lot of money and took it out of the city. Or take our own friend, Prodicus, if you like, a man who has come here many times, sometimes on public business. But the last time, when he came here recently from Ceos on public business and spoke in the Council, he was very highly regarded, and by putting on exhibitions in private and associating with young people he made an astonishing amount of money. But none of those ancients ever thought fit to charge a fee or put on exhibitions of their own wisdom to anyone and everyone. In this respect they were simple-minded, and unaware that money is extremely valuable. But each of these men, and Protagoras before them, made more money from wisdom than any craftsman made out of any skill whatsoever.",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Hippias",
+"text": "Well, Socrates, you know nothing about the beauties of this. In fact, you would be amazed if you knew how much money I have made. And leaving aside the other places, I once arrived in Sicily while Protagoras was on a visit there. He was well regarded, an older man, while I much younger, yet in a very short time I made more than one hundred and fifty minae, and in one very small place, Inycum, I made more than twenty minae. And when I got home with this I gave it to my father, and he and the rest of my fellow citizens were amazed and awestruck. And I almost think that I have made more money than any two sophists you would care to name, put together.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "That is beautiful, Hippias, and strong evidence of your own wisdom and the extent to which men of today are superior to the ancients. Indeed, according to your account, your predecessors, Anaxagoras’ associates, were very stupid. For they say that what happened to Anaxagoras is the opposite of what happened to you, for although he inherited a lot of wealth, he neglected it and lost everything, so lacking in intelligence was his practice of wisdom. And they tell other stories like this about other men of old too. Now, I think you are presenting beautiful evidence concerning the wisdom of people today compared to that of our predecessors, and many people share the view that a wise man should be wise for himself most of all, and he is defined, apparently, as the one who makes the most money. Well, I think that is enough said about this, but please tell me, from which of the cities you visited did you make most money? Or is it obvious that it was from Sparta, the one you visited most often?",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Hippias",
+"text": "No, by Zeus, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "What are you saying? Did you make least money there?",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Hippias",
+"text": "Well, I made nothing at all, ever.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "That is a monstrous and amazing statement, Hippias. But tell me this, isn’t this wisdom of yours the kind that makes better, more excellent people of those who adhere to it and learn it?",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Hippias",
+"text": "Indeed, Socrates, very much so.",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "But although you were able to make the sons of the Inycans better, were you incapable of doing this for the sons of the Spartans?",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Hippias",
+"text": "Far from it.",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "Well then, do the Sicilians want to become better, while the Spartans do not?",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Hippias",
+"text": "No, Socrates, the Spartans want this too, absolutely.",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "Well then, did they avoid dealing with you because they were short of money?",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Hippias",
+"text": "Certainly not. They have enough of that.",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "Then how could it be that although they had the desire and the money, and you were able to confer enormous benefits upon them, they did not send you on your way loaded with money? Is it that the Spartans could educate their own children better than you could? May we put it like that, and would you agree?",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Hippias",
+"text": "No, not at all.",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "Well, was it because you were unable to persuade the young people in Sparta that they would make more progress in excellence by associating with you than they would with their fellow citizens? Or was it because you could not persuade their fathers that they should entrust them to you rather than looking after them themselves, if they really did care for these young people? For I presume they would not begrudge their own children the chance to become as good as they possibly could.",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Hippias",
+"text": "No, I don’t think they would begrudge them that.",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "And of course, Sparta is well regulated.",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Hippias",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "And in the well-regulated cities, excellence is held in the highest regard.",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Hippias",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "And you know better than anyone how to impart this to someone else.",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Hippias",
+"text": "Yes, very much so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "Now, wouldn’t someone who knows best how to impart the skill of horsemanship be more highly regarded in Thessaly than anywhere else in Greece, and make most money there, and anywhere else that horsemanship is taken seriously?",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Hippias",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "Then wouldn’t someone who is able to impart learning, which is of the utmost value in developing excellence, be most highly regarded in Sparta and make most money there if he wanted to, and in any other Greek city that is well regulated? Or do you think, my friend, that he would make more in Sicily and in Inycus? Should we believe that, Hippias? For we must believe it if you tell us to.",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Hippias",
+"text": "Socrates, it is against ancestral tradition for the Spartans to change their laws, or to educate their sons contrary to their customs.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "What are you saying? Is acting aright and not falling into error against their ancestral tradition?",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Hippias",
+"text": "I wouldn’t say so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "Wouldn’t they be acting aright by giving their young folk a better education rather than a worse?",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Hippias",
+"text": "They would, but it is not lawful for them to give the young a foreign education, and yet I know very well that if anyone had ever actually been paid for providing education there, I would have been paid by far the most, for they are delighted to hear me and they are full of praise. But, as I say, it is against the law.",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "And are you saying that law is harmful to the city, or a benefit?",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Hippias",
+"text": "In my view, it is instituted with benefit in mind, but it sometimes does harm if the law has been badly instituted.",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "What about this? Don’t those who institute the law, institute it as something enormously good for the city? And without this, isn’t it impossible to live in a well-regulated manner?",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Hippias",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "So, whenever those who set about instituting laws are in error about what is good, they are in error about the law and what is lawful. What do you say?",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Hippias",
+"text": "Strictly speaking, Socrates, this is the case, but people are not accustomed to using words with such precision.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "Are you referring to people who know or people who do not know, Hippias?",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Hippias",
+"text": "The majority.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "And are those who know the truth, the majority?",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Hippias",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "And yet, I presume that those who know believe that, in truth, what is more beneficial is more lawful than what is less beneficial to every man. Or do you not agree?",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Hippias",
+"text": "Yes, I agree. That’s the situation, in truth.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "Therefore, it is as those who know think it is.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Hippias",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "And yet, according to you, it is more beneficial for the Spartans to be educated by the education you offer, even though it is foreign, rather than the local education.",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Hippias",
+"text": "And what I say is true.",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "Yes, and don’t you also say that what is more beneficial is more lawful, Hippias?",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Hippias",
+"text": "Yes, I said that.",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "So, according to your account, it is more lawful for the sons of the Spartans to be educated by Hippias and less lawful for them to be educated by their fathers, if, in fact, they really will be benefited to a greater extent by you.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Hippias",
+"text": "And benefited they will be, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "So the Spartans are acting unlawfully by not giving you money and entrusting their own sons to you.",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Hippias",
+"text": "I agree with this, for you seem to be presenting the argument in my favour, and I should say nothing to oppose it.",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "Then we are discovering, my friend, that the Spartans, who are regarded as the most lawful people, are law breakers in matters of the utmost importance. Well, Hippias, by the gods, they praise you and they take delight in hearing what? Or is it obvious that it is the subjects you know best, those concerned with the stars and heavenly phenomena?",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Hippias",
+"text": "Not in the least. They cannot stand those subjects.",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "Well, do they enjoy hearing something about geometry?",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Hippias",
+"text": "Not at all, since many of them barely know how to count.",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "In that case, they are a long way from putting up with one of your exhibitions of calculation.",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Hippias",
+"text": "A long way indeed, by Zeus.",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "Well then, is it those subjects where you know how to make more precise distinctions than anyone concerning the effect of letters and syllables, rhythm and harmony?",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Hippias",
+"text": "My good man! Harmonies and letters indeed!",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "Then what do they listen to with such delight, and what do they praise you for? Tell me yourself since I cannot work it out.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Hippias",
+"text": "They love to hear about genealogies of heroes and humans, Socrates, and the settlements that established their cities in times gone by and, in short, all the ancient lore. So I have been forced to learn everything of this sort by heart and practise it thoroughly because of them.",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "By Zeus, Hippias, you are lucky the Spartans do not delight in having someone recite the list of our Archons, beginning with Solon, or else you would have had quite a job memorising them.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Hippias",
+"text": "Why so, Socrates? I can remember fifty names having heard them just once.",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "That is true, yes, I forgot that you have this gift of memory. I now realise that the Spartans are delighted with you because you know a lot, and they use you, as children use old women, to tell stories in a pleasant manner.",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Hippias",
+"text": "Yes, by Zeus, about beautiful activities, too, and just recently I was very popular there for recounting the activities a young person should pursue. For I have a most beautiful speech that I composed on this topic, generally well structured, especially in its language. And I have a device and a starting point for the speech as follows. After Troy had fallen, the speech recounts that Neoptolemus asked Nestor what sort of activities are beautiful, the sort that would make a young person really famous. After this I have Nestor speaking, proposing all sorts of regulations to him, most beautiful. Now, I delivered this in Sparta and I shall also deliver it here the day after tomorrow in the schoolroom of Pheidostratus, along with much else that is also worth hearing. Indeed Eudicus, the son of Apemantus, invited me. But you should be there too, and bring other people as well who are up to the task of evaluating what they have heard.",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Socrates",
+"text": "Well, that is what will happen, Hippias, God willing. But, for now, answer a short question about the speech for me, since you have given me a timely reminder about beauty. In fact, just recently, good man, someone cast me into perplexity when I was criticising parts of some speeches as base and praising others as beautiful. He questioned me in a most insolent manner, somewhat as follows, “How do you know, Socrates, the sort of things that are beautiful or base? Well, come on, would you be able to say what the beautiful is?” And because of my inadequacy I was perplexed and was unable to answer him in the right way. So as I went away, I was angry with myself, and I blamed myself, and I resolved that the next time I came across one of you men of wisdom, I would listen, learn and practise, and then go back to my questioner again and contest the point once more. So now, as I say, your arrival is timely, and so give me adequate instruction as to what the beautiful itself is, and as you reply, try to speak as precisely as possible, in case I get refuted a second time and become a laughing stock all over again. For you surely know all too well, and since your knowledge is so extensive, this would presumably be a trivial matter.",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Hippias",
+"text": "A trivial matter, indeed, Socrates, and in a sense, by Zeus, of no significance.",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Socrates",
+"text": "Then, I will learn it easily and no one will refute me again.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Hippias",
+"text": "No one, indeed, or else my profession would prove to be inadequate and ordinary.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "By Hera, what you are saying is all very well, Hippias, provided we get the better of the man. But what is to stop me imitating the fellow when you respond, by challenging your arguments so that you give me as much practice as possible? Indeed, I am somewhat experienced in putting up challenges. So if it makes no difference to you, I would like to put up challenges so that I may learn in a more robust manner.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Hippias",
+"text": "Yes, please challenge me. In fact, as I said just now, this is not a major question. No, I could teach you to answer much more difficult questions than this, so that no one would be able to refute you.",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Socrates",
+"text": "Now, that is good news. But come on, and since you are telling me to do so, let me do my best to become this fellow and attempt to question you. For if you were to present the speech you mentioned to him, the one about beautiful activities, he would listen, and once you stopped speaking he would first ask you about justice and nothing else. Yes, that is a habit of his, and he would say, “Stranger from Elis, isn’t it by justice that whatever is just, is just?” Well, Hippias, answer as if he was asking you.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Hippias",
+"text": "I shall answer that it is by justice.",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "“In that case, isn’t this justice, something?”",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Hippias",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "“And isn’t it by wisdom that anyone wise is wise, and by the good that everything good is good?”",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Hippias",
+"text": "How could they not be?",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Socrates",
+"text": "“By their being something, and surely not by their not being?”",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Hippias",
+"text": "By their being something.",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "“Now, isn’t everything that is beautiful, beautiful by the beautiful?”",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Hippias",
+"text": "Yes, by the beautiful.",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Socrates",
+"text": "“By this ‘something that is’?”",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Hippias",
+"text": "By something that is, what else?",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "“Then tell me, stranger,” he will say, “what is this, ‘the beautiful’?”",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Hippias",
+"text": "Socrates, doesn’t someone who asks this question just want to find out what is beautiful?",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Socrates",
+"text": "No, Hippias, I think he wants to find out what the beautiful is?",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Hippias",
+"text": "And what is the difference between them?",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "Do you think there is none?",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Hippias",
+"text": "Yes, there is no difference.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "But of course you know better. Nevertheless, please consider this, good man, for he is not asking you what is beautiful, but what the beautiful is.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Hippias",
+"text": "I understand, good man, and I shall answer and tell him what the beautiful is, and I shall never be refuted. Indeed, Socrates, mark my words, if the truth must be spoken, a beautiful girl is beautiful.",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Socrates",
+"text": "Well, Hippias, by the dog, you have answered beautifully at any rate, and remarkably too. So, is it the case that if I give this answer I shall have answered the question I was asked, in a correct manner, and I shall never be refuted?",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Hippias",
+"text": "Indeed, how could you be refuted when you are saying what everyone thinks, and when anyone who hears you will bear witness to its correctness?",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "So be it, very much so. Come on then, Hippias, let me go over what you are saying for myself. He will question me somewhat as follows, “All these things you declare to be beautiful would be beautiful if the beautiful itself is what?” And shall I then say that if a beautiful girl is beautiful, these would be beautiful because of that?",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Hippias",
+"text": "Now, do you think he will still attempt to refute you on the grounds that what you are saying is not beautiful, and if he does make the attempt, won’t he become a laughing stock?",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Socrates",
+"text": "You marvel, I know very well that he will make the attempt, but whether he will also be a laughing stock if he does so remains to be seen. However, I would like to tell you what he will say.",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Hippias",
+"text": "Speak on.",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Socrates",
+"text": "“How sweet you are, Socrates!” he will say. “But is a beautiful mare, which even the god praises in his oracle, not beautiful?” What shall we say, Hippias? What else can we say except that the mare, the beautiful one, at any rate, is beautiful? For how could we dare to deny that something beautiful is beautiful?",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Hippias",
+"text": "What you are saying is true, Socrates, and the god was right to say so too, for extremely beautiful mares are bred in our land.",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Socrates",
+"text": "“So be it,” he will say. “But what of a beautiful lyre? Is it not beautiful?” Shouldn’t we say it so, Hippias?",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Socrates",
+"text": "Well, after that I am fairly sure, judging by his manner, that he will say, “Best of men, what about a beautiful pot? Is it not beautiful?”",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Hippias",
+"text": "Socrates, who is the man? What an ill-educated person to dare to speak in such commonplace terms on such a serious matter.",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Socrates",
+"text": "That is what he is like, Hippias, not refined but common, thinking about nothing else except the truth. But the man must be answered, nevertheless, and I am giving my response first. If the pot has indeed been produced by a good potter, smooth, round and beautifully fired, like some of those two-handled pots that hold six choes, and extremely beautiful, if he were asking about a pot like this, we would have to agree it is beautiful. For how could we say that it is not beautiful, when it is beautiful?",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Hippias",
+"text": "We simply could not, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Socrates",
+"text": "“In that case,” he will say, “isn’t a beautiful pot, beautiful too? Answer me.”",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Hippias",
+"text": "Yes, Socrates, this is the case, I think. This utensil too is beautiful once it has been beautifully wrought, but on the whole, it does not deserve to be judged as beautiful in comparison with a horse, a girl, or all the other beauties.",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Socrates",
+"text": "Very well, Hippias, I understand that we should respond to the person who asks these questions as follows, “My man, you are ignoring the fact that Heraclitus has a point when he says, ‘The most beautiful monkey is ugly when compared to the class of humans’, and that, according to the wise Hippias, the most beautiful pot is also ugly when compared to the class of girls.” Isn’t this the case, Hippias?",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Hippias",
+"text": "Very much so, Socrates, you are responding correctly.",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Socrates",
+"text": "Then listen, for I know quite well what he will say after that. “Socrates, what if someone were to compare the girls as a class with that of gods? Won’t the outcome be the same as comparing the class of pots with that of girls? Won’t the most beautiful girl appear ugly? Or doesn’t Heraclitus, whom you quote, also say just this, ‘The wisest of men, when compared to a god, will look like a monkey in wisdom, beauty and every other respect?’” Shall we agree, Hippias, that the most beautiful girl is ugly when compared to the race of gods?",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Hippias",
+"text": "Who could possibly contradict this, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Socrates",
+"text": "Well then, once we agree with all this he will laugh and say, “Socrates, do you remember what you were asked?” I will reply that I was asked what exactly the beautiful itself is. “In that case,” he will say, “having been asked for the beautiful, are you responding with what happens to be, on your own admission, no more beautiful than ugly?” So it seems, I shall say, or what would you advise me to say, my friend?",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Hippias",
+"text": "That’s it. Yes, it is true indeed that the human race is not beautiful when compared to gods.",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Socrates",
+"text": "“Now, if I had asked you,” he will say, “at the outset, what is both beautiful and ugly, and you had answered as you did just now, you would have answered correctly, wouldn’t you? But do you still think that the beautiful itself, by which everything else is embellished and appears beautiful when this form is added, is a girl or a horse or a lyre?”",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Hippias",
+"text": "Well then, Socrates, if that is what he is looking for, it is the easiest question in the world to answer and state what the beautiful is, by which everything is indeed embellished and appears beautiful once this is added. Yes, the fellow is simple-minded and understands nothing about beautiful possessions. For if you were to respond that what he is asking for, the beautiful, is none other than gold, he would be blocked and would not attempt to refute you. For presumably we all know that whatever this is added to, even if it previously looked ugly, looks beautiful once it has been embellished with gold.",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Socrates",
+"text": "Hippias, you have no experience of how relentless the man is; he accepts nothing easily.",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Hippias",
+"text": "What does that matter, Socrates? For he needs to accept whatever has been stated correctly, or else become a laughing stock for not accepting it.",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Socrates",
+"text": "Well, not only will he not accept this answer, best of men, but he will mock me, hugely, and will say, “Oh you mad person, do you think Pheidias is a bad craftsman?” And I shall reply, I think, “No, not at all.”",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Hippias",
+"text": "And you will be right to say so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Socrates",
+"text": "Right, indeed. And so, once I agree that Pheidias is a good craftsman, he will say, “Do you think Pheidias was ignorant of this ‘beautiful’ you are speaking of?” And I shall reply, “Why do you ask?” And he will say, “Because he did not make the eyes of Athena from gold, nor her hands, but from ivory, even though they would have looked most beautiful if made of gold. Obviously he made this mistake through ignorance, being ignorant of the fact that gold is what makes everything to which it is added, beautiful.” How should we respond to him when he says this, Hippias?",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Hippias",
+"text": "That’s not difficult. We shall say that he made the statue properly since ivory, I think, is beautiful too.",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Socrates",
+"text": "“In that case,” he will say, “why did he not also make the centre of the eyes from ivory rather than stone, finding stone that was very like ivory? Or is a beautiful stone also beautiful?” Shall we say so, Hippias?",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Hippias",
+"text": "Yes, we shall say so, whenever it is appropriate.",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Socrates",
+"text": "“And whenever it is not appropriate, is it ugly?” Should I agree, or not?",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Hippias",
+"text": "Yes, agree, whenever it is not appropriate, at any rate.",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Socrates",
+"text": "“Then, what about the ivory and the gold, oh wise one?” he shall say. “Don’t they make things look beautiful when they are appropriate, and ugly when they are not?” Shall we deny this or agree that what he is saying is right?",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Hippias",
+"text": "We will agree with that anyway. Whatever is appropriate to each is what makes each beautiful.",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Socrates",
+"text": "He will say, “Whenever someone is boiling the pot we mentioned earlier, the beautiful one, full of beautiful soup, is a gold ladle appropriate to it or a fig wood ladle?”",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Hippias",
+"text": "By Heracles, what sort of man is this, Socrates? Don’t you want to tell me who he is?",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Socrates",
+"text": "If I were to tell you his name, you would not recognise it.",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Hippias",
+"text": "But I do recognise, even now, that he is a fool.",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Socrates",
+"text": "He is a thoroughgoing pestilence, Hippias, but, nevertheless, what shall we say? Which of the two ladles is appropriate to the soup and to the pot? Or is it obviously the one made from fig wood? For it is likely to make the soup smell nicer, and at the same time, my friend, it would not shatter our pot, spill the soup, put out the fire, and deprive the impending diners of their noble meal, while the golden one would do all that. And so I think we should say that the fig wood is more appropriate than the golden unless you have an alternative suggestion.",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Hippias",
+"text": "No, it is more appropriate, Socrates. However, I would not engage in discourse with a person who asks questions of that kind.",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Socrates",
+"text": "And rightly so, my friend. Yes, it would not be appropriate for you to adopt this sort of language when you are so beautifully dressed, so beautifully shod, and so famous for your wisdom among all the Greeks. But it is not a problem for me to consort with this person, so give me some preparatory instructions. Answer the question for my sake. The man will ask, “Well, if the fig wood is indeed more appropriate than the golden, wouldn’t it also be more beautiful, since you have actually agreed, Socrates, that what is appropriate is more beautiful than what is not appropriate?” Can we help but agree, Hippias, that the fig wood ladle is more beautiful than the golden one?",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Hippias",
+"text": "Socrates, would you like me to suggest what you should say the beautiful is, if you want to save yourself a lot of argumentation?",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Socrates",
+"text": "Very much so, but not before you first tell me how I should answer the question, which of the two ladles I just spoke of is appropriate and also more beautiful?",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Hippias",
+"text": "Well tell him, if you like, that it is the one made from fig wood.",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Socrates",
+"text": "Then say what you were going to say a moment ago. For by this answer, if I say that the beautiful is gold, it seems to me that gold will turn out to be no more beautiful than fig wood. So what do you now say the beautiful is?",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Hippias",
+"text": "I’ll tell you, for I think you are seeking a response according to which the beautiful is the sort of thing that will never appear base anywhere, to anyone.",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Socrates",
+"text": "Very much so, Hippias, you are now understanding this beautifully.",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Hippias",
+"text": "Then listen, and be assured that if anyone has anything to say in opposition to this, you may proclaim that I know nothing at all.",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Socrates",
+"text": "By the gods, please tell me as quickly as you can.",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Hippias",
+"text": "Well, I say it is always most beautiful for any man, anywhere, to be wealthy, healthy, honoured by his fellow Greeks, to live to old age, to commemorate his own parents beautifully when they die, and be given a beautiful and most appropriate funeral by his own children.",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Socrates",
+"text": "My, my, Hippias, you really have spoken wonderfully, magnificently, and in a manner worthy of yourself. And, by Hera, I am delighted at the kind manner in which you seem, to the best of your ability, to be coming to my aid. And yet, we are making no impression on the man. No, he will laugh at us now to an even greater extent, mark my words.",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Hippias",
+"text": "The laughter is no good, Socrates. For whenever he has nothing to say on these issues and he laughs, he will be laughing at himself, and he himself will be laughed at by the people around him.",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Socrates",
+"text": "Perhaps that is so, and perhaps, if I give this answer, there is a danger, I prophesy, that he will do more than just laugh at me.",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Hippias",
+"text": "What do you mean?",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Socrates",
+"text": "That if he happens to have a stick, and I don’t get away and escape him, he will try to beat me well and truly.",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Hippias",
+"text": "What are you saying? Is the man in some sense your owner, and if he does this will he not be charged and pay a penalty? Or is your city lacking in justice, and does it allow the citizens to beat one another unjustly?",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Socrates",
+"text": "No, we do not allow that at all.",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Hippias",
+"text": "Then he will pay a penalty for striking you unjustly.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Socrates",
+"text": "No, I do not think so, Hippias, not if I were to give him that reply. I think he would be acting justly.",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Hippias",
+"text": "Then, I think so too since that is what you yourself believe.",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Socrates",
+"text": "Shouldn’t I also tell you why I believe he would be acting justly if he beat me for giving that reply? Or will you also beat me without trial? Or will you hear my argument?",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Hippias",
+"text": "If I were not to hear you out, it would be a scandal, but what are you saying?",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Socrates",
+"text": "I will tell you, imitating that man in the same way I did just now so that I do not speak to you the sort of harsh, uncouth words he speaks to me. For rest assured, he will say, “Tell me, Socrates, would you think it unjust that someone should get beaten for singing a dithyramb of such length, in such an unmusical manner, and so far removed from the question that was asked?” “How so?” I shall ask. “How so?” he will say. “Can’t you recall that you were asked for the beautiful itself, by which anything to which it is added turns out to be beautiful, be it a stone, wood, a person or a god, or any action or any subject? For I am asking you, my man, what beauty itself is, and I am no more able to make you hear me than if you were a stone seated beside me, a millstone at that, possessing neither ears nor a brain.” Now, Hippias, wouldn’t you be annoyed if, out of fear, I were to reply to this as follows, “But Hippias said this was the beautiful, even though I asked him in the same way you asked me, what is it that is beautiful to everyone, always?” What do you say, wouldn’t you be annoyed if I were to say this?",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Hippias",
+"text": "Well, Socrates, I know quite well that what is beautiful to everyone is what I said it was, and it will seem so to everyone.",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Socrates",
+"text": "“And it will be so?” he will say, “for the beautiful is, presumably, always beautiful.”",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Hippias",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Socrates",
+"text": "“And it was so too, was it?” he will say.",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Hippias",
+"text": "It was so too.",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Socrates",
+"text": "“So,” he will say, “did the visitor from Elis say that it was beautiful for Achilles to be buried after his parents, and for his grandfather Aeacus, and for all the other offspring of the gods, and for the gods themselves?”",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Hippias",
+"text": "What’s this? Away, by heaven! The questions the man is asking are impious, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Socrates",
+"text": "What about this? When someone else asks the question, is it entirely impious to say that these things are so?",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Hippias",
+"text": "Perhaps not.",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Socrates",
+"text": "“Then perhaps you are the person,” he will say, “who declares that it is beautiful for everyone, always, to be buried by their children and to bury their parents. Or was Heracles not included among ‘everyone’, along with all the others we mentioned just now?”",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Hippias",
+"text": "But I did not mean that this applies to the gods.",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Socrates",
+"text": "“Nor to the heroes either, it seems.”",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Hippias",
+"text": "Not those who were children of gods, at any rate.",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Socrates",
+"text": "“Only those who were not?”",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Hippias",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Socrates",
+"text": "“In that case, according to your further account, apparently it is terrible, unholy and a disgrace for the heroes Tantalus, Dardanus and Zethus, but beautiful for Pelops and the others of like parentage.”",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Hippias",
+"text": "Yes, I think so.",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Socrates",
+"text": "“Then, you are thinking something you did not state earlier,” he will say, “that burying their parents, and being buried by their children, is sometimes, and for some people, a disgrace. More to the point, it is impossible, it seems, for this to become beautiful and to be so for everyone. And so in this case, as with the previous cases, the girl and the pot, the outcome is the same and, even more comically, it is beautiful for some and not beautiful for others. And so far, today,” he will say, “you are still not able to answer the question you are being asked, Socrates, about the beautiful. What is it?”",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Socrates",
+"text": "With these words and their like, he will censure me, justifiably, if I reply to him in this manner. Now, Hippias, for the most part he engages me in discourse that proceeds largely in this way. But sometimes, as though he had taken pity on my inexperience and ill-education, he himself offers me a suggestion by asking if such and such is the beautiful or anything else he happens to be enquiring into and discussing.",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Hippias",
+"text": "What do you mean by this, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Socrates",
+"text": "I will tell you. “Dearest Socrates,” he says, “stop giving answers like that, in that way, for they are too facile and easy to refute. No, consider whether the following seems beautiful to you, something we picked up just now when we said that gold is beautiful for anything to which it is appropriate, and not beautiful for anything to which it is not appropriate, and that the same goes for anything else to which this is added. Take this ‘appropriate’ itself, and the nature of the appropriate itself, and consider whether this happens to be the beautiful.” Now, I usually agree with such suggestions every time, for I do not know what to say, but do you think the appropriate is beautiful?",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Hippias",
+"text": "Of course, entirely so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Socrates",
+"text": "Let us consider this in case we are being deceived.",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Hippias",
+"text": "Yes, we should consider it.",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Socrates",
+"text": "Then look, do we say the appropriate is that which, when it is added, makes anything in which it is present, appear beautiful, or be beautiful, or neither of these?",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Hippias",
+"text": "I think it is what makes it appear beautiful. For instance, when someone puts on clothes or shoes that suit him, even if he is odd, he appears more beautiful.",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Socrates",
+"text": "Then, if the appropriate does indeed make him appear more beautiful than he is, it would be some deception about the beautiful and would not be what we are looking for, Hippias, would it? For I presume we are looking for that by which all beautiful things are beautiful, just as that by which all large things are large is by excess. For all large things are large by this, and even if they do not appear large, it is necessary that they be large if they exceed. So, in this way, we also say that the beautiful is that by which all things are beautiful, whether they appear to be so or not. What could it be? Indeed, it could not be the appropriate, for it makes something appear more beautiful than it is, according to your statement, but does not allow them to appear as they are. But try to say what it is that makes them be beautiful, as I said just now, whether they appear so or not, for if we are really seeking the beautiful, this is what we are seeking.",
+"kind": "speech"
+},
+{
+"entry": 194,
+"who": "Hippias",
+"text": "But, Socrates, the appropriate makes things be beautiful and appear beautiful, once it is present.",
+"kind": "speech"
+},
+{
+"entry": 195,
+"who": "Socrates",
+"text": "Is it impossible for things that are actually beautiful not to appear to be beautiful, once, at any rate, that which makes them appear so is present?",
+"kind": "speech"
+},
+{
+"entry": 196,
+"who": "Hippias",
+"text": "Impossible.",
+"kind": "speech"
+},
+{
+"entry": 197,
+"who": "Socrates",
+"text": "So, shall we agree on this, Hippias, that everything that is actually beautiful, including regulations and activities, are also thought to be beautiful, and always appear so to everyone? Or is it the complete opposite? Are people in ignorance, and so there is more strife and contention among individuals in private, and between cities in public, over these matters than over anything else?",
+"kind": "speech"
+},
+{
+"entry": 198,
+"who": "Hippias",
+"text": "It is much more the latter, Socrates. They are in ignorance.",
+"kind": "speech"
+},
+{
+"entry": 199,
+"who": "Socrates",
+"text": "But this presumably would not be so if the ‘appearing’ was added to them. And it would have been added if the appropriate was indeed beautiful, and not only made things be beautiful, but also made them appear so. So, if the appropriate is that which makes things be beautiful, then it would be the beautiful, the object of our search, rather than that which makes them appear beautiful. And what is more, if that which makes them appear so is the appropriate, it would not be the beautiful, the object of our search. For that makes them be so, but the same thing could not possibly make them appear beautiful and be beautiful, or anything else whatsoever. So, let us decide whether we think the appropriate is what makes things be beautiful or makes them appear so.",
+"kind": "speech"
+},
+{
+"entry": 200,
+"who": "Hippias",
+"text": "It makes them appear so, or so it seems to me anyway, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 201,
+"who": "Socrates",
+"text": "Alas, Hippias, since the appropriate has proven to be something other than beautiful, the knowledge of what precisely the beautiful is has departed and escaped us.",
+"kind": "speech"
+},
+{
+"entry": 202,
+"who": "Hippias",
+"text": "Yes, by Zeus, and in my view, very strangely.",
+"kind": "speech"
+},
+{
+"entry": 203,
+"who": "Socrates",
+"text": "However, my friend, we should not let it go just yet, for I still retain a hope that what precisely the beautiful is, will be revealed.",
+"kind": "speech"
+},
+{
+"entry": 204,
+"who": "Hippias",
+"text": "Entirely so, Socrates, for it is not difficult to find. So I know quite well that if I were alone for a while and were to consider this for myself, I could express it to you with the utmost accuracy.",
+"kind": "speech"
+},
+{
+"entry": 205,
+"who": "Socrates",
+"text": "Ah, Hippias, do not be boastful. You see how much trouble it has brought us already. Take care that it does not get angry and run away all the more. But I am talking nonsense, for you will easily find it I think, once you are on your own. But, by the gods, you should seek it out in my presence and, if you like, search for it along with me as you were doing just now. And if we find it, that will be a most beautiful achievement, and if we do not, I shall accept my fate and you will discover it easily once you depart. And if we find it now, I certainly will not be a nuisance to you hereafter by enquiring as to what you found out when you were by yourself. But take a look now at what you think the beautiful is. Well, I am saying – and by the way, you should keep a close attentive eye on me in case I am talking nonsense – well then, for us, let whatever is useful be beautiful. And what I had in mind when I said this was as follows, we say that the eyes are beautiful, not the kind that seem to be so but are unable to see, but those that are able to see and are useful for seeing. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 206,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 207,
+"who": "Socrates",
+"text": "And don’t we also say that the whole body is beautiful in some way, in one case for running, in another for wrestling? Doesn’t the same apply to all beautiful animals, a horse, a cock or a quail, all equipment, and means of land transport, and ships and triremes on the sea, all instruments used for music or in other skills, all activities and laws too? Are not almost all of these referred to as beautiful in the same way? Looking at each of them, the way each is by nature, the way it has been fashioned, the condition it is in, don’t we declare that what is useful is beautiful, in the way that it is useful, for the purpose for which it is useful and at the time it is useful, and whatever is useless in any of these ways is base? So is that what you think too, Hippias?",
+"kind": "speech"
+},
+{
+"entry": 208,
+"who": "Hippias",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 209,
+"who": "Socrates",
+"text": "So, are we now right to say that, more than anything else, the useful happens to be beautiful?",
+"kind": "speech"
+},
+{
+"entry": 210,
+"who": "Hippias",
+"text": "We are right indeed, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 211,
+"who": "Socrates",
+"text": "Now, is that which is capable of accomplishing something useful for the purpose for which it is capable, and is that which is incapable, useless?",
+"kind": "speech"
+},
+{
+"entry": 212,
+"who": "Hippias",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 213,
+"who": "Socrates",
+"text": "So, capability is beautiful and incapability is base?",
+"kind": "speech"
+},
+{
+"entry": 214,
+"who": "Hippias",
+"text": "Emphatically so. Indeed, we have a lot of evidence that this is the case, Socrates, particularly from the political realm. For in political affairs, and in one’s own city, being capable is the most beautiful thing of all, and being incapable is the most base of all.",
+"kind": "speech"
+},
+{
+"entry": 215,
+"who": "Socrates",
+"text": "That is good. Well now, by the gods, Hippias, on this basis, is wisdom also the most beautiful of all and is ignorance the most base of all?",
+"kind": "speech"
+},
+{
+"entry": 216,
+"who": "Hippias",
+"text": "What do you think, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 217,
+"who": "Socrates",
+"text": "Let’s be careful, my friend, as I am cautious as to what precisely we are now saying.",
+"kind": "speech"
+},
+{
+"entry": 218,
+"who": "Hippias",
+"text": "What is there to be afraid of, Socrates, when the argument has proceeded so beautifully this time?",
+"kind": "speech"
+},
+{
+"entry": 219,
+"who": "Socrates",
+"text": "I wish it had. But please consider this along with me, could anyone do something that he neither knew how to do, nor was at all capable of doing?",
+"kind": "speech"
+},
+{
+"entry": 220,
+"who": "Hippias",
+"text": "Not at all. How could he do what he is not capable of?",
+"kind": "speech"
+},
+{
+"entry": 221,
+"who": "Socrates",
+"text": "Now, those who make mistakes and do bad work, and do so unintentionally, if they were incapable of doing what they did, they could never have done it, could they?",
+"kind": "speech"
+},
+{
+"entry": 222,
+"who": "Hippias",
+"text": "Obviously.",
+"kind": "speech"
+},
+{
+"entry": 223,
+"who": "Socrates",
+"text": "And yet, it is by capability that the capable are capable, for it is surely not by incapability.",
+"kind": "speech"
+},
+{
+"entry": 224,
+"who": "Hippias",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Socrates",
+"text": "And are all those who do anything, capable of doing what they do?",
+"kind": "speech"
+},
+{
+"entry": 226,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 227,
+"who": "Socrates",
+"text": "But all men do much more bad than good, beginning in childhood, and they make mistakes unintentionally.",
+"kind": "speech"
+},
+{
+"entry": 228,
+"who": "Hippias",
+"text": "This is the case.",
+"kind": "speech"
+},
+{
+"entry": 229,
+"who": "Socrates",
+"text": "What about this capability, and these things that are useful, but are useful for accomplishing something bad, shall we declare that these are beautiful, or do they fall far short?",
+"kind": "speech"
+},
+{
+"entry": 230,
+"who": "Hippias",
+"text": "I think they fall far short, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 231,
+"who": "Socrates",
+"text": "In that case, Hippias, for us it seems that the capable and the useful are not the beautiful.",
+"kind": "speech"
+},
+{
+"entry": 232,
+"who": "Hippias",
+"text": "They would be, Socrates, if they were capable of doing good and were useful for such purposes.",
+"kind": "speech"
+},
+{
+"entry": 233,
+"who": "Socrates",
+"text": "Then, the proposition that the capable and the useful are beautiful without qualification is gone. Rather, what our soul wanted to say was that the capable, and the useful for doing something good, is the beautiful. Was that it?",
+"kind": "speech"
+},
+{
+"entry": 234,
+"who": "Hippias",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 235,
+"who": "Socrates",
+"text": "But surely this is beneficial, isn’t it?",
+"kind": "speech"
+},
+{
+"entry": 236,
+"who": "Hippias",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 237,
+"who": "Socrates",
+"text": "And so the beautiful bodies, the beautiful regulations, the wisdom and whatever else we just mentioned, are all beautiful because they are beneficial.",
+"kind": "speech"
+},
+{
+"entry": 238,
+"who": "Hippias",
+"text": "Obviously.",
+"kind": "speech"
+},
+{
+"entry": 239,
+"who": "Socrates",
+"text": "So, the beneficial seems to us to be the beautiful, Hippias.",
+"kind": "speech"
+},
+{
+"entry": 240,
+"who": "Hippias",
+"text": "Entirely so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 241,
+"who": "Socrates",
+"text": "But the beneficial is that which does good.",
+"kind": "speech"
+},
+{
+"entry": 242,
+"who": "Hippias",
+"text": "It is indeed.",
+"kind": "speech"
+},
+{
+"entry": 243,
+"who": "Socrates",
+"text": "And that which does is none other than the cause. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 244,
+"who": "Hippias",
+"text": "It is so.",
+"kind": "speech"
+},
+{
+"entry": 245,
+"who": "Socrates",
+"text": "So the beautiful is the cause of the good.",
+"kind": "speech"
+},
+{
+"entry": 246,
+"who": "Hippias",
+"text": "It is indeed.",
+"kind": "speech"
+},
+{
+"entry": 247,
+"who": "Socrates",
+"text": "Now, the cause, and what the cause is the cause of, are different, for presumably the cause would not be a cause of a cause. But consider this, didn’t the cause turn out to be doing?",
+"kind": "speech"
+},
+{
+"entry": 248,
+"who": "Hippias",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 249,
+"who": "Socrates",
+"text": "Now, what is done through the doer is that which arises, and not that which does?",
+"kind": "speech"
+},
+{
+"entry": 250,
+"who": "Hippias",
+"text": "This is the case.",
+"kind": "speech"
+},
+{
+"entry": 251,
+"who": "Socrates",
+"text": "And that which arises is one thing and that which does is another.",
+"kind": "speech"
+},
+{
+"entry": 252,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 253,
+"who": "Socrates",
+"text": "So, the cause is not the cause of a cause, but of that which arises because of it.",
+"kind": "speech"
+},
+{
+"entry": 254,
+"who": "Hippias",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 255,
+"who": "Socrates",
+"text": "So if the beautiful is a cause of the good, the good would arise because of the beautiful. And it seems that is why we are eager for understanding and everything else that is beautiful, because their product, their offspring, the good, is worthy of that eagerness. And from what we are discovering, it looks as if the beautiful is, in form, a father of the good.",
+"kind": "speech"
+},
+{
+"entry": 256,
+"who": "Hippias",
+"text": "Yes, certainly, you are expressing that beautifully, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 257,
+"who": "Socrates",
+"text": "Well, is this beautifully expressed too. The father is not son, nor is the son father?",
+"kind": "speech"
+},
+{
+"entry": 258,
+"who": "Hippias",
+"text": "Beautifully, indeed.",
+"kind": "speech"
+},
+{
+"entry": 259,
+"who": "Socrates",
+"text": "Nor is the cause that which arises, nor, for its part, is that which arises a cause.",
+"kind": "speech"
+},
+{
+"entry": 260,
+"who": "Hippias",
+"text": "That is true.",
+"kind": "speech"
+},
+{
+"entry": 261,
+"who": "Socrates",
+"text": "By Zeus, best of men, then the beautiful is not good nor is the good beautiful, or do you think this is possible based on what has just been said?",
+"kind": "speech"
+},
+{
+"entry": 262,
+"who": "Hippias",
+"text": "No, by Zeus, apparently not.",
+"kind": "speech"
+},
+{
+"entry": 263,
+"who": "Socrates",
+"text": "Well, are we satisfied with that; do we wish to state that the beautiful is not good, nor the good beautiful?",
+"kind": "speech"
+},
+{
+"entry": 264,
+"who": "Hippias",
+"text": "No, by Zeus, I am not at all satisfied.",
+"kind": "speech"
+},
+{
+"entry": 265,
+"who": "Socrates",
+"text": "Indeed, by Zeus, Hippias, for me this is the least satisfactory argument of all those we have formulated so far.",
+"kind": "speech"
+},
+{
+"entry": 266,
+"who": "Hippias",
+"text": "So it seems, indeed.",
+"kind": "speech"
+},
+{
+"entry": 267,
+"who": "Socrates",
+"text": "Then, it looks to us as if the argument, that the beneficial and that which is useful and capable of making something good is beautiful, is not the most beautiful argument, although it appeared so a moment ago. No, this is not the case. It is even more ridiculous, if that is possible, than those initial arguments in which we thought that the girl was the beautiful, and each one of those we mentioned earlier.",
+"kind": "speech"
+},
+{
+"entry": 268,
+"who": "Hippias",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 269,
+"who": "Socrates",
+"text": "And I no longer know where I should turn, Hippias; I am perplexed. Do you have anything to say?",
+"kind": "speech"
+},
+{
+"entry": 270,
+"who": "Hippias",
+"text": "Not at the moment, but as I said earlier, once I have considered this, I know quite well that I shall make the discovery.",
+"kind": "speech"
+},
+{
+"entry": 271,
+"who": "Socrates",
+"text": "But if you put this off, I do not think I can wait for you, I am so eager to know. And in fact, I think I have actually found a way now. Yes, look. If we were to say that what makes us pleased is beautiful, not including all pleasures, but those which come through hearing and seeing, how might we fare under contention? Presumably beautiful people, Hippias, and everything decorative, paintings and sculptures, delight us when we see them, provided they are beautiful. Beautiful sounds and music in general, and speeches and storytelling also have this same effect. And so, if we were to respond to this audacious person, “Oh well-born gentleman, the beautiful is that which is pleasant through hearing and seeing”, don’t you think we would restrain his audacity?",
+"kind": "speech"
+},
+{
+"entry": 272,
+"who": "Hippias",
+"text": "Well, Socrates, it seems to me, for the moment, anyway, that you are nicely stating what the beautiful is.",
+"kind": "speech"
+},
+{
+"entry": 273,
+"who": "Socrates",
+"text": "What about this, Hippias? Shall we state that beautiful activities and laws are beautiful by being pleasant through hearing or seeing? Or do they possess some other form?",
+"kind": "speech"
+},
+{
+"entry": 274,
+"who": "Hippias",
+"text": "Perhaps these cases might escape the man’s notice, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 275,
+"who": "Socrates",
+"text": "By the dog, Hippias, not this man, a man before whom I would be most ashamed to speak foolishly and pretend to be talking sense when I was talking nonsense.",
+"kind": "speech"
+},
+{
+"entry": 276,
+"who": "Hippias",
+"text": "Who is this man?",
+"kind": "speech"
+},
+{
+"entry": 277,
+"who": "Socrates",
+"text": "The son of Sophroniscus, who would never allow me make these unexamined statements so easily, or to speak as though I know what I do not know.",
+"kind": "speech"
+},
+{
+"entry": 278,
+"who": "Hippias",
+"text": "Anyway, now that you mention it, I also think myself that in the case of the laws this is something different.",
+"kind": "speech"
+},
+{
+"entry": 279,
+"who": "Socrates",
+"text": "Keep quiet, Hippias, we are in danger of thinking we have found another way out when we have fallen into the same perplexity concerning the beautiful that we were in a moment ago.",
+"kind": "speech"
+},
+{
+"entry": 280,
+"who": "Hippias",
+"text": "What do you mean by this, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 281,
+"who": "Socrates",
+"text": "I will tell you what is becoming evident to me, if I am actually talking sense. These matters concerning laws and activities may perhaps prove not to be outside of perception that occurs to us through hearing and seeing. Let us, rather, persist with this argument that what is pleasant through these is beautiful, without making the laws a central issue. But if either the person I am speaking of, or anyone else at all were to ask us, “What is this, Hippias and Socrates, are you distinguishing what is pleasant in the way you describe as beautiful from the pleasant, and are you saying that what is pleasant based upon other perceptions, eating, drinking, sexual activity and everything else of that sort, is not beautiful? Or are you saying there is nothing pleasant or any pleasures at all in the likes of these, or in anything else, except seeing and hearing?” What shall we say, Hippias?",
+"kind": "speech"
+},
+{
+"entry": 282,
+"who": "Hippias",
+"text": "I presume we shall state emphatically, Socrates, that there are very great pleasures in the other cases too.",
+"kind": "speech"
+},
+{
+"entry": 283,
+"who": "Socrates",
+"text": "“Why, then,” he will say, “would you take away this name, and deprive them of being beautiful, although they are pleasures no less than the others?” We shall reply, “Because there is no one who would not laugh at us if we were to say that to eat is not pleasant, but beautiful, and that a pleasant smell is not pleasant, but beautiful. When it comes to sexual activity everyone would argue against us, I presume, that it is extremely pleasant, but if someone is to do it at all, it must be done so that no one can see, it being most base to behold. Once we have said all this, Hippias, he would probably reply, “I too understand that because people do not think they are beautiful, you are ashamed, and have been for some time, to state that these pleasures are beautiful. But I was not asking you what it is that seems to be beautiful to most people, but what is beautiful.” Well, I think we will just say what we proposed, “The part of the pleasant that arises by seeing or by hearing, is beautiful.” But do you have anything still to add to the formulation, Hippias, or should we also say something else?",
+"kind": "speech"
+},
+{
+"entry": 284,
+"who": "Hippias",
+"text": "In the light of what has been said, Socrates, we need not say anything else.",
+"kind": "speech"
+},
+{
+"entry": 285,
+"who": "Socrates",
+"text": "“Well, you are speaking beautifully,” he will say. “Now, if what is pleasant through seeing and hearing is, in fact, beautiful, any of the pleasures that are not like this would obviously not be beautiful, would they?” Shall we agree?",
+"kind": "speech"
+},
+{
+"entry": 286,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 287,
+"who": "Socrates",
+"text": "“Now, is that which is pleasant through seeing,” he will say, “pleasant through seeing and hearing, or is that which is pleasant through hearing, pleasant through hearing and seeing?” “Not at all,” we shall reply, “what is so through one would not be so through both, for that is what we think you are saying. But we said that either of these just by itself would be beautiful, and so would both.” Shan’t we reply in this way?",
+"kind": "speech"
+},
+{
+"entry": 288,
+"who": "Hippias",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 289,
+"who": "Socrates",
+"text": "“Well then,” he will say, “does anything pleasant differ from anything else that is pleasant, by this, by being pleasant? I am not asking if any pleasure is greater or smaller, or more or less, but if any of the pleasures differ by this alone, by one being a pleasure and the other not a pleasure?” We do not think so, do we?",
+"kind": "speech"
+},
+{
+"entry": 290,
+"who": "Hippias",
+"text": "We do not.",
+"kind": "speech"
+},
+{
+"entry": 291,
+"who": "Socrates",
+"text": "“In that case,” he will say, “did you not select these pleasures from the other pleasures on some other basis than the fact that they are pleasures, by seeing something in both of them, that they possess something different from the others in the light of which you say they are beautiful? For presumably pleasure through seeing is not beautiful for this reason, just because it is through seeing. Indeed, if this was the reason why it was beautiful, then the other one, the pleasure through hearing, would never be beautiful. So it is not pleasure through seeing.” Shall we say that this is true?",
+"kind": "speech"
+},
+{
+"entry": 292,
+"who": "Hippias",
+"text": "Yes, we shall say so.",
+"kind": "speech"
+},
+{
+"entry": 293,
+"who": "Socrates",
+"text": "“Neither, for its part, is the pleasure through hearing beautiful for this reason, just because it is through hearing, for in that case the pleasure through seeing would never be beautiful. So it is not pleasure through hearing.” Shall we say that the man is speaking the truth, Hippias, when he says this?",
+"kind": "speech"
+},
+{
+"entry": 294,
+"who": "Hippias",
+"text": "The truth.",
+"kind": "speech"
+},
+{
+"entry": 295,
+"who": "Socrates",
+"text": "“And yet, they are both beautiful, as you say”. Do we say so?",
+"kind": "speech"
+},
+{
+"entry": 296,
+"who": "Hippias",
+"text": "We say so.",
+"kind": "speech"
+},
+{
+"entry": 297,
+"who": "Socrates",
+"text": "“Then they possess something that is the same, something that makes them be beautiful, something common, that is present in common to them both, and to each of them individually. For presumably there is no other way they could both, and each, be beautiful.” Answer me as if you were answering him.",
+"kind": "speech"
+},
+{
+"entry": 298,
+"who": "Hippias",
+"text": "I think it is as you say it is. That is my answer.",
+"kind": "speech"
+},
+{
+"entry": 299,
+"who": "Socrates",
+"text": "So, if both the pleasures have some characteristic that each does not have, they would not be beautiful by that characteristic.",
+"kind": "speech"
+},
+{
+"entry": 300,
+"who": "Hippias",
+"text": "But how could that happen, Socrates, that there be some characteristic or other that neither of them possesses, when this characteristic which neither of them possesses is a characteristic of both of them?",
+"kind": "speech"
+},
+{
+"entry": 301,
+"who": "Socrates",
+"text": "You do not think it could happen?",
+"kind": "speech"
+},
+{
+"entry": 302,
+"who": "Hippias",
+"text": "If I did, I would be overtaken by considerable inexperience of the nature of these matters and the terminology of our present discussions.",
+"kind": "speech"
+},
+{
+"entry": 303,
+"who": "Socrates",
+"text": "How pleasant, Hippias. Well then, maybe I am in danger of thinking I see that something is the case, something you say is impossible, when I am really seeing nothing.",
+"kind": "speech"
+},
+{
+"entry": 304,
+"who": "Hippias",
+"text": "It is not that you are in danger of this, Socrates. No, you are all too ready to see things amiss.",
+"kind": "speech"
+},
+{
+"entry": 305,
+"who": "Socrates",
+"text": "Well, many things of this kind are becoming evident before my soul, but I am not persuaded by them because they are not evident to you, a man who has made more money out of wisdom than any man alive, but to me, who, so far, has made nothing. And I am concerned, my friend, that you may be playing games with me and deceiving me intentionally when they are so evident to me in such numbers and with such force.",
+"kind": "speech"
+},
+{
+"entry": 306,
+"who": "Hippias",
+"text": "No one will know more beautifully than yourself, Socrates, whether I am playing games or not, if you would only attempt to say what it is that is becoming evident to you. For it will be evident that you are talking nonsense, since you will never find that a characteristic which neither you nor I possess is possessed by both of us.",
+"kind": "speech"
+},
+{
+"entry": 307,
+"who": "Socrates",
+"text": "What do you mean, Hippias? Perhaps you are talking sense, but I do not understand. But listen to me say with greater clarity what I want to say. For it appears to me that something I am not characterised as being, something I am not and you are not, is able to characterise both of us. What is more, there are others that both of us together are characterised as being, that neither of us is, individually.",
+"kind": "speech"
+},
+{
+"entry": 308,
+"who": "Hippias",
+"text": "You seem to be giving outrageous answers again, Socrates, even more so than your answer a moment ago. Yes, think about it. If both of us were just, wouldn’t each of us be so too, or if each was unjust wouldn’t both also be so, or if both were healthy, wouldn’t each be so too? Or if each of us is tired or wounded or has been struck, or been affected in any other way at all, again, wouldn’t both of us be affected in this way too? Then again, if we were both made of gold or silver or ivory, or, if you like, we were well-born, or wise, or revered, or aged, or indeed, young, or had any other human characteristic you please, isn’t it absolutely necessary that each of us be so too?",
+"kind": "speech"
+},
+{
+"entry": 309,
+"who": "Socrates",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 310,
+"who": "Hippias",
+"text": "The fact is, Socrates, you are not considering these matters as wholes, nor do those with whom you usually conduct your dialogues; you test the beautiful and each of the things that are, by taking them individually and breaking them into pieces in words. Because of this, you are unaware of how naturally great and continuous are the bodies of being. And you are now unaware of this to such an extent that you think there is something, be it a characteristic or an essence that applies to both at the same time but not to each individually, or again, applies to each but not to both, so irrational, unreflective, simplistic and unthinking is your approach.",
+"kind": "speech"
+},
+{
+"entry": 311,
+"who": "Socrates",
+"text": "That is how matters stand with us, Hippias, as people are always repeating in the proverb, it is not according to a person’s wishes but according to his ability. But you are our benefactor with your constant rebukes, since even now, before you rebuked us for our simplistic approach... shall I go on with the presentation and state what we have in mind about them, or shall I not speak?",
+"kind": "speech"
+},
+{
+"entry": 312,
+"who": "Hippias",
+"text": "You will be speaking to a man of knowledge, Socrates. For I know the approach of everybody who is concerned with speeches. Nevertheless, if it pleases you more, please speak.",
+"kind": "speech"
+},
+{
+"entry": 313,
+"who": "Socrates",
+"text": "Yes, indeed, it is more pleasant. For, best of men, we were so stupid before you said all this, that we held an opinion about me and you, that although each of us is one, both of us together would not be what each of us is individually, because we are not one but two. That is how simple minded we were. But now at this stage, we have been taught otherwise by you, that if we are both two, each of us must also be two. Yet, if each is one, both must also be one. Indeed, according to Hippias, by the continuous theory of being, it cannot be otherwise, but whatever both may be, each must also be, and whatever each may be, both must be. So I have now been persuaded by you; that is where I stand. But first, remind me Hippias, are we one, you and I, or are you two, and am I also two?",
+"kind": "speech"
+},
+{
+"entry": 314,
+"who": "Hippias",
+"text": "What do you mean, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 315,
+"who": "Socrates",
+"text": "Exactly what I say, for I am afraid to speak plainly to you because you get angry with me whenever you are of the opinion that you are talking sense. In any case, tell me more; isn’t each of us one, and characterised in this way as being one?",
+"kind": "speech"
+},
+{
+"entry": 316,
+"who": "Hippias",
+"text": "Absolutely.",
+"kind": "speech"
+},
+{
+"entry": 317,
+"who": "Socrates",
+"text": "If this is the case, would each of us also be odd-numbered, or do you not consider one to be an odd number?",
+"kind": "speech"
+},
+{
+"entry": 318,
+"who": "Hippias",
+"text": "I do consider it to be.",
+"kind": "speech"
+},
+{
+"entry": 319,
+"who": "Socrates",
+"text": "So, being two, are we both also odd-numbered?",
+"kind": "speech"
+},
+{
+"entry": 320,
+"who": "Hippias",
+"text": "That could not be so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 321,
+"who": "Socrates",
+"text": "Then we are both even-numbered. Is that so?",
+"kind": "speech"
+},
+{
+"entry": 322,
+"who": "Hippias",
+"text": "Absolutely.",
+"kind": "speech"
+},
+{
+"entry": 323,
+"who": "Socrates",
+"text": "So it is not the case that because we are both even-numbered, each of us is also even-numbered for that reason?",
+"kind": "speech"
+},
+{
+"entry": 324,
+"who": "Hippias",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 325,
+"who": "Socrates",
+"text": "So it is not absolutely necessary, as you said just now, that what both are, each also is, and what each is, both also are.",
+"kind": "speech"
+},
+{
+"entry": 326,
+"who": "Hippias",
+"text": "Not in such cases as these, but it is so in the cases I mentioned earlier.",
+"kind": "speech"
+},
+{
+"entry": 327,
+"who": "Socrates",
+"text": "That is sufficient, Hippias. Indeed, even this is satisfactory. It appears to be so in some cases and is not so in others. Yes, in fact, I said, if you recall how this discussion began, that pleasure through seeing or hearing would not be beautiful by this, by that which characterises each of them but not both, or both of them but not each. No, because you agreed that they both and each are beautiful, they are beautiful by that by which both and each are beautiful. Because of this I thought that if both are indeed beautiful, it is by the essence that applies to both that they should be beautiful, and not by the essence that is missing from one or the other. And I still think so now. But tell me, as if starting all over again, if, in fact, pleasure through seeing and pleasure through hearing are both and each beautiful, doesn’t that which makes them beautiful apply to them both and to each?",
+"kind": "speech"
+},
+{
+"entry": 328,
+"who": "Hippias",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 329,
+"who": "Socrates",
+"text": "Now, is it because each and both are pleasure, is that why they would be beautiful? Or, in that case, would all other pleasures be no less beautiful than these? For, if you remember, they proved to be pleasure nonetheless.",
+"kind": "speech"
+},
+{
+"entry": 330,
+"who": "Hippias",
+"text": "I remember.",
+"kind": "speech"
+},
+{
+"entry": 331,
+"who": "Socrates",
+"text": "But because they operate through seeing and hearing, that is why it was said that they are beautiful.",
+"kind": "speech"
+},
+{
+"entry": 332,
+"who": "Hippias",
+"text": "Yes, that’s how it was expressed.",
+"kind": "speech"
+},
+{
+"entry": 333,
+"who": "Socrates",
+"text": "But consider whether I am speaking the truth, for it was said, as I recall, that this ‘pleasant’ was beautiful, not all of it, but that which operates through seeing and hearing.",
+"kind": "speech"
+},
+{
+"entry": 334,
+"who": "Hippias",
+"text": "True.",
+"kind": "speech"
+},
+{
+"entry": 335,
+"who": "Socrates",
+"text": "Now, doesn’t this characteristic apply to both but not to each? For, presumably, as was stated previously, each of them is not through both, but both are through both, and each is not. Is this the case?",
+"kind": "speech"
+},
+{
+"entry": 336,
+"who": "Hippias",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 337,
+"who": "Socrates",
+"text": "So it is not by this that each of them is beautiful, by what does not apply to each, for ‘both’ does not apply to each, and so according to the hypothesis it is permissible to say that they are both beautiful, but not permissible to say that each is so. Or what should we say? Isn’t this necessarily the case?",
+"kind": "speech"
+},
+{
+"entry": 338,
+"who": "Hippias",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 339,
+"who": "Socrates",
+"text": "So should we say that both are beautiful, and yet say that each is not?",
+"kind": "speech"
+},
+{
+"entry": 340,
+"who": "Hippias",
+"text": "What’s stopping us?",
+"kind": "speech"
+},
+{
+"entry": 341,
+"who": "Socrates",
+"text": "I think that what is stopping us, my friend, is that for us, there were attributes that applied to particulars in such a way that, if they were attributed to both they were also attributed to each, and if to each, also to both, all the attributes you listed. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 342,
+"who": "Hippias",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 343,
+"who": "Socrates",
+"text": "But for the attributes that I listed this is not so, and these included ‘the each’ itself, and ‘the both’. Is this the case?",
+"kind": "speech"
+},
+{
+"entry": 344,
+"who": "Hippias",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 345,
+"who": "Socrates",
+"text": "Well, Hippias, to which of these does it seem to you that the beautiful belong? Does it belong with the group you mentioned? If I am strong and so are you, so also are we both; and if I am just and so are you, so also are we both; and if both are so, each is also so. In this way too, if I am beautiful and so are you, so also are we both; and if we are both, is each also so? Then there are the examples I said were occurring to me, why cannot it be like those? For instance, if certain things, both together are even, each might perhaps be odd or might perhaps be even; then again, when each is inexpressible, then both combined may perhaps be expressible, or may perhaps be inexpressible; and there are countless other examples like this. Well, to which of these two do you assign the beautiful? Does it seem to you as it does to me? For I think it highly irrational that both of us together are beautiful while each of us is not, or that each of us is so, while both together are not so, or anything else of this kind. Do you choose this way, just like me, or the other way?",
+"kind": "speech"
+},
+{
+"entry": 346,
+"who": "Hippias",
+"text": "This way, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 347,
+"who": "Socrates",
+"text": "You are doing well, Hippias, since we may also be released from a more extensive enquiry, for if the beautiful belongs with these, then what is pleasant through seeing and hearing would no longer be the beautiful. For that which is through seeing and hearing makes both together beautiful, but not each; but this is impossible, as you and I agree, Hippias.",
+"kind": "speech"
+},
+{
+"entry": 348,
+"who": "Hippias",
+"text": "Yes, we agree.",
+"kind": "speech"
+},
+{
+"entry": 349,
+"who": "Socrates",
+"text": "So it is impossible for what is pleasant through seeing and hearing to be beautiful, since if this becomes beautiful it presents us with one of the impossibilities.",
+"kind": "speech"
+},
+{
+"entry": 350,
+"who": "Hippias",
+"text": "This is the case.",
+"kind": "speech"
+},
+{
+"entry": 351,
+"who": "Socrates",
+"text": "“Then, since you failed this time,” he will say, “tell me again, from the beginning, what you say this is, this beautiful that applies to both the pleasures, because of which you esteemed them above the others and called them beautiful.” Well, I think we have to say, Hippias, that they are the most harmless of the pleasures and the best, both together and each individually. Or can you suggest another way in which they excel over the others?",
+"kind": "speech"
+},
+{
+"entry": 352,
+"who": "Hippias",
+"text": "Not at all. Indeed, they really are best.",
+"kind": "speech"
+},
+{
+"entry": 353,
+"who": "Socrates",
+"text": "“So, then,” he will say, “are you stating that the beautiful is beneficial pleasure?” “We seem to be,” shall be my reply. And you?",
+"kind": "speech"
+},
+{
+"entry": 354,
+"who": "Hippias",
+"text": "Me too.",
+"kind": "speech"
+},
+{
+"entry": 355,
+"who": "Socrates",
+"text": "“Now, isn’t beneficial,” he will say, “what makes something good? And what makes and what is made proved just now to be different, and so our argument goes back to the previous one, for the good would not be beautiful, nor would the beautiful be good, if each of them is indeed different.” “Entirely so,” we shall reply, Hippias, if we are of sound mind, for it is not lawful to disagree with someone who speaks aright.",
+"kind": "speech"
+},
+{
+"entry": 356,
+"who": "Hippias",
+"text": "But, Socrates, what do you think this all adds up to? The fact is that these are scrapings and clippings of discourse, as I said earlier, little subdivisions. But what is beautiful and really worthwhile is being able to present a speech well and beautifully in a court of law, a council chamber or before any other authority to whom you might present a speech, and having persuaded them, to depart bearing not some utterly trivial prize but the greatest prize of all, safety for yourself and for your own property and for your friends. To this one should cleave, bidding farewell to these trivial discussions lest one look like an utter fool by engaging in babbling nonsense, as you are doing now.",
+"kind": "speech"
+},
+{
+"entry": 357,
+"who": "Socrates",
+"text": "Friend Hippias, you are indeed blessed because you know what a man should practise, and you have engaged in the practices yourself, so you say. While I, by contrast, am gripped, it seems, by some supernatural occurrence, and so I am constantly wandering and perplexed, and once I demonstrate my own perplexity to you wise folk, I get trampled in the mire by yourselves again every time I demonstrate it. For I am told what you have just told me, that I am busying myself with simplistic trivialities that are of no value. Then again, if I am ever persuaded by you and say what you say – that it is best by far to be able to present a speech well and beautifully in a court of law or in any other gathering – I hear nothing but abuse from this man who is constantly refuting me, and from some others hereabouts. He, in fact, happens to be my closest relative and he lives in the same house, so whenever I arrive back at my own home and he hears me saying all this, he asks if I am not ashamed at being so audacious as to discourse on the subject of beautiful activities when I have been so conspicuously refuted in relation to the beautiful that I obviously do not even know what on earth it is. “Yet how will you know,” he will say, “who does or does not present a speech or any other action whatsoever beautifully, when the beautiful is unknown to you? And when you are in such a state, do you think you are better off alive or dead?” So, as I say, that is what happens to me. I get abused and criticised by yourselves and abused by him. But, in fact, I probably need to endure all this, since, strangely, it may be beneficial. So I think, Hippias, that I have been benefited by this interaction with both of you, for I think I now understand the precise meaning of the proverb, “Whatever is beautiful is difficult.”",
+"kind": "speech"
+}
+]
+}
+]
+}

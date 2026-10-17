@@ -1,0 +1,4775 @@
+{
+"key": "crat",
+"title": "Cratylus",
+"parts": [
+{
+"name": "Cratylus",
+"lines": [
+{
+"entry": 0,
+"who": "Hermogenes",
+"text": "Well then, would you like to include Socrates here in our discussion?",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Cratylus",
+"text": "If you wish.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Hermogenes",
+"text": "Socrates, Cratylus here maintains that there is a correctness of names that belongs, by nature, to each of the things that are, and what people conventionally call something when uttering some part of their own language is not this name. There is, rather, a natural correctness of names, the same for everyone, Greeks and non-Greeks alike. When I ask him if his own name is, in truth, Cratylus, he agrees that it is. “And what is Socrates’ name?” I ask. “Socrates,” says he. “Is this also the case with everyone else; whatever particular name we call them is their name in each case?” “Well,” says he, “your name is not Hermogenes, even if everyone calls you so.” And although I pursue the question and am keen to know what exactly he means, he clarifies nothing and hides his intention from me by pretending to be in possession of some personal understanding of his own about this matter, which, if he deigned to express it fully, would force me to agree with him and say exactly what he says. Now, if you can somehow interpret the oracular utterance of Cratylus, I would be pleased to hear you. But I would be even more pleased to find out from you, if you please, what you yourself think about the correctness of names.",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Socrates",
+"text": "Hermogenes, son of Hipponicus, there is an ancient saying that whatever is noble is difficult to understand, and indeed the subject of names happens to be no small matter. Now, if I had already heard Prodicus’ fifty-drachma course of lectures, which, according to the man himself, provides a comprehensive education in the subject, there would be nothing to stop you from learning the full truth about the correctness of names here and now. But as it happens, I have only heard his one-drachma course, so I don’t really know where the truth about such matters lies. I am, however, prepared to join in the search together with yourself and Cratylus. But when he denies that Hermogenes is, in truth, your name, I suspect that he is mocking you, for he believes perhaps that every time you set out to make some money, you fail. In any case, as I said just now, although such matters are difficult to understand, we should make them the subject of a joint enquiry as to whether yourself or Cratylus is right.",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Hermogenes",
+"text": "Well, Socrates, for my part, although I have often been involved in discussions with this man and with many others, I cannot be persuaded that there is any correctness of a name apart from convention and agreement. Indeed, it seems to me that whatever name you give to something is the correct name, and if you change the name for a different one and no longer use the original name, the new name is just as correct as the previous one. It is just like changing the names of your household slaves, for no name naturally belongs to any particular thing by nature, but by convention and custom on the part of those who create the custom and use the name. If this is not the case, I myself am quite prepared to listen and learn, not only from Cratylus, but from anyone else at all.",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Socrates",
+"text": "Perhaps you have a point, Hermogenes, but let’s see. According to you, whatever someone calls something is the name of that thing.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Hermogenes",
+"text": "That’s what I think anyway.",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "Whether an individual or, indeed, a city calls it so?",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Socrates",
+"text": "What about this? Suppose I call any of the things that are, for instance, what we currently call a man, suppose I refer to this as a horse, and what we now call a horse as a man, will the same thing have the name ‘man’ for the general public, and ‘horse’ for me personally? And in the other case, will the same thing have the name ‘man’ for me, and ‘horse’ for the public? Is that what you are saying?",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Hermogenes",
+"text": "That’s what I think, anyway.",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "Come on then and tell me this. Is there something you call speaking the truth and something you call speaking falsehood?",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Hermogenes",
+"text": "There is.",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "So there can be a true statement and a false statement?",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "Is the statement that states things that are as they are, true, while the one that states them as they are not, is false?",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Socrates",
+"text": "So, is it possible in a statement to state things that are and things that are not?",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Socrates",
+"text": "But is a true statement true as a whole, while parts of it are not true?",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Hermogenes",
+"text": "No, the parts are also true.",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "But are the large parts true while the small parts are not, or are they all true?",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Hermogenes",
+"text": "I think they are all true.",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "Now, is there any part of a spoken statement that is smaller than a name?",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Hermogenes",
+"text": "No, that is the smallest.",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "And is this name spoken as part of a true statement?",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "And according to you at least, this part is true.",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "While part of a false statement is false, is it not?",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Hermogenes",
+"text": "I agree.",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Socrates",
+"text": "So, since it is possible to utter a true and false statement, is it also possible to utter a true and a false name?",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Hermogenes",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Socrates",
+"text": "So, whatever a person says is the name of something, this name is its name for that person?",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "And however many names someone says that a particular thing has, it will indeed have that many names then, whenever he says so?",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Hermogenes",
+"text": "Yes, Socrates, I can conceive no other correctness of names apart from this: I call something by one name, the name I gave it, and you call it something else, the name you, for your part, gave it. And, in the same way, I notice that various cities have different set names of their own for the same things; Greeks differ from other Greeks, as do Greeks from non-Greeks.",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Socrates",
+"text": "Come on now, Hermogenes, let’s see whether, in your view, this is also the case with things that are. Is it the case that their being is private to each person, and so, as Protagoras said, the measure of all things is man, and consequently, as things appear to me, so they are for me, and as they appear to you, so they are for you? Or do you think that things have some fixity of being of their own?",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Hermogenes",
+"text": "On occasion, Socrates, out of sheer perplexity, I have ended up saying just what Protagoras says, even though I don’t entirely believe that this is the case.",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "What about this, then? Have you ever ended up not entirely believing that there is such a thing as a bad person?",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Hermogenes",
+"text": "No, by Zeus, I have often come to the conclusion that some people are entirely bad, a very large number actually.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "Well, have you ever thought that some are very good?",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Hermogenes",
+"text": "Very few indeed.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Socrates",
+"text": "But you do think so?",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Hermogenes",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "And where do you stand on the following question? Are those who are very good also very wise, while the very bad are very foolish?",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Hermogenes",
+"text": "Yes, I think that this is so.",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "Now, if Protagoras spoke the truth and it is actually true that, for each person, as things seem so things are, is it possible that some people are wise while others are foolish?",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Hermogenes",
+"text": "No, it is not.",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Socrates",
+"text": "Then I believe you are strongly of the view that since there is wisdom and there is folly, Protagoras cannot possibly be speaking the truth. For presumably no one could be wiser than anyone else, if whatever seems true for each person is true for that person.",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Hermogenes",
+"text": "Indeed so.",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Socrates",
+"text": "Nor indeed, I believe, do you hold to the opinion of Euthydemus, that everything is always simultaneously so for everyone in like manner, since if excellence and vice always belong to everyone in like manner, some people could not be good while others were bad.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Hermogenes",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "Therefore, if everything is not always simultaneously so for everyone in like manner, nor does each thing belong to each individual person, it is obvious that things are possessed of some definite being of their own, not relative to us, nor dragged hither and thither by how they appear to us. Rather, they hold, of themselves, to their own being which is natural to them.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Hermogenes",
+"text": "Yes, Socrates, I believe that this is so.",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "Now, could things be so by nature, while the same is not so for the actions belonging to the things? Or do the actions themselves also constitute a species among things that are?",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Hermogenes",
+"text": "They do, indeed.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "So, the actions are enacted according to their own nature and not in accordance with our opinion. For instance, what if we try to cut anything at all, may we cut this as we please, with whatever we please, or if we wish to cut this in accordance with the nature of cutting and being cut, and with what is natural, will we make the cut and succeed in doing so correctly, but go awry and achieve nothing if we act contrary to nature?",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Hermogenes",
+"text": "Yes, I think this is the case.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "And if we attempt to burn something, we should not burn it in accordance with every opinion, but in accordance with the correct one which corresponds to the way in which this is naturally burned or burns, and with what is natural.",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Hermogenes",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "Does the same hold for other activities?",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "Now, speaking is one of these activities, is it not?",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "What if someone speaks as he thinks he should speak? Will he be speaking correctly when he speaks in this way, or will he be successful in speaking only if he speaks of matters in a way that is natural for him to speak of them and for them to be spoken of? Otherwise, won’t he go awry and achieve nothing?",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Hermogenes",
+"text": "I think that’s how matters stand.",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "Now, naming is part of speaking, for we speak what we speak, I presume, by making distinctions based upon names.",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "And naming is indeed an activity, since speaking is also an activity in relation to things, is it not?",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "And activities, we saw, are not relative to us, but have a particular nature of their own?",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Hermogenes",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "Then, if we are not to contradict our previous conclusions, should things be named in the way that is natural to name them, and for them to be named with what is natural and not as we wish? And shall we meet with success in naming things in this way and no other?",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Hermogenes",
+"text": "Apparently so.",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "Come on then, are we saying that something that has to be cut, has to be cut with something?",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "And does something that has to be woven have to be woven with something, and does whatever has to be bored have to be bored with something?",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "And does whatever has to be named have to be named with something?",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Hermogenes",
+"text": "It does.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "With what should something be bored?",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Hermogenes",
+"text": "A drill.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "With what should something be woven?",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Hermogenes",
+"text": "A shuttle.",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "And with what should something be named?",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Hermogenes",
+"text": "A name.",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "Well said. So the name is also an instrument.",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Socrates",
+"text": "Now, suppose I were to ask what instrument is the shuttle. Isn’t it the one with which we weave?",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Socrates",
+"text": "And when we are weaving what do we do? Don’t we separate the commingled warp and woof threads?",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Socrates",
+"text": "Wouldn’t you answer in the same way about a drill and about the other instruments?",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "Can you answer then in the same way about a name? When naming with the name, which is an instrument, what are we doing?",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Hermogenes",
+"text": "I cannot answer.",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Socrates",
+"text": "Are we not instructing one another about something, and separating things as they are?",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Socrates",
+"text": "So a name is an instrument of instruction and it divides being, just as a shuttle does for woven fabric.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "So a shuttle is for weaving?",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Hermogenes",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Socrates",
+"text": "So a weaver will use a shuttle well, and well means after the manner of a weaver, while an instructor will use a name well, and well means after the manner of an instructor.",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Socrates",
+"text": "When a weaver uses a shuttle well, whose work does he use?",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Hermogenes",
+"text": "The work of the carpenter.",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Socrates",
+"text": "And is everyone a carpenter, or the person who has that skill?",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Hermogenes",
+"text": "The person with the skill.",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Socrates",
+"text": "When a borer uses a drill well, whose work does he use?",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Hermogenes",
+"text": "The work of the blacksmith.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "And is everyone a blacksmith, or the person who has the skill?",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Hermogenes",
+"text": "The person with the skill.",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Socrates",
+"text": "Very well. And when an instructor uses a name, whose work does he use?",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Hermogenes",
+"text": "I can’t say.",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Socrates",
+"text": "Well, can you answer this question? Who has given us the names that we make use of?",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Hermogenes",
+"text": "I cannot.",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Socrates",
+"text": "Don’t you think that convention has given these to us?",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Hermogenes",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Socrates",
+"text": "So when an instructor makes use of a name, is he using the work of the conventionsetter?",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Hermogenes",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Socrates",
+"text": "And do you think everyone is a convention-setter, or the person who has the skill?",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Hermogenes",
+"text": "The person with the skill.",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Socrates",
+"text": "So, Hermogenes, it is not for everyone to give names, but for some fashioner of names who is, it seems, the convention-setter, the rarest of artificers to arise among us humans.",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Hermogenes",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Socrates",
+"text": "Come on then, let’s investigate where the convention-setter looks when giving names. Let us consider this based upon the previous examples. Where does the carpenter look when making a shuttle? Does he not look to the sort of thing whose nature is to weave?",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Socrates",
+"text": "What about this? If the shuttle breaks while he is making it, will he make another one by looking to the broken one, or to that form towards which he was looking when he made the one that broke?",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Hermogenes",
+"text": "Yes, I think he would look to that form.",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Socrates",
+"text": "Isn’t that what we would rightly call “what a shuttle is”?",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Hermogenes",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Socrates",
+"text": "And whether he needs to make a shuttle for a light or heavy garment, for linen or for wool or for any sort at all, it should indeed possess the form of the shuttle, but in each case mustn’t he give it the nature that is naturally best for its particular function?",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Socrates",
+"text": "And the same holds for the other instruments. On discovering the natural instrument for each particular task, he should impose that upon whatever it is to be made from, not as he pleases but as is natural. So he must, it seems, know how to impose upon the iron the drill that is natural for each particular task.",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Socrates",
+"text": "And impose upon the wood the natural shuttle for each particular task.",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Hermogenes",
+"text": "Indeed.",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Socrates",
+"text": "Then each shuttle, it seems, is for a particular kind of weaving, and the same applies to the other instruments.",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Socrates",
+"text": "So, best of men, does the convention-setter need to know how to impose that natural name for each thing upon the sounds and syllables, and make and impose all names by looking to what name itself is if he is to be an authoritative giver of names? And if a particular convention-setter does not impose the name upon the same syllables, this name should not be doubted. For neither does every smith, making the same instrument for the same task, impose it upon the same iron, but, nevertheless, as long as he bestows the same form, even on the different iron, the instrument retains its correctness, whether it is made here or in non-Greek cities. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Socrates",
+"text": "Won’t you evaluate the convention-setter, either here or among non-Greek peoples, in this way too? As long as he imposes the appropriate form of the name upon each thing, in syllables of any sort, isn’t he just as good a convention-setter, here or anywhere else?",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Socrates",
+"text": "Now, who is the one who knows whether the appropriate form of shuttle is embodied in wood of any kind? Is it the carpenter who has made it, or the weaver who uses it?",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Hermogenes",
+"text": "The user, Socrates, is more likely to know this.",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Socrates",
+"text": "Now, who is the person who uses the product of the lyre maker? Isn’t he the one who knows how best to supervise its manufacture, and would recognise whether or not it had been well made, once it had been made?",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Socrates",
+"text": "And who is this person?",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Hermogenes",
+"text": "The lyre player.",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Socrates",
+"text": "And what about the work of a shipbuilder?",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Hermogenes",
+"text": "A ship’s captain is best.",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Socrates",
+"text": "And who would best supervise the work of the convention-setter, and pass judgement when it is complete, in this country or abroad? Won’t it be the person who uses his work?",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Socrates",
+"text": "Is this not the person who knows how to ask questions?",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Socrates",
+"text": "Does the same person know how to respond?",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Socrates",
+"text": "Do you call the person who knows how to ask questions and respond a dialectician?",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Hermogenes",
+"text": "Yes, a dialectician.",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Socrates",
+"text": "So the work of the carpenter is to make a rudder under the supervision of the ship’s captain, if the rudder is to be a good one.",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Hermogenes",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Socrates",
+"text": "And the work of the convention-setter, it seems, is to make a name, with the dialectical person as supervisor, if names are to be properly given.",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Hermogenes",
+"text": "Indeed so.",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Socrates",
+"text": "It seems then, Hermogenes, that the giving of a name is not, as you imagine, an ordinary matter for ordinary random persons. And Cratylus is speaking the truth when he says that the names belong to the things by their nature, and not everyone is an artificer of names, but only the person who looks to the natural name for each and is able to impose its form upon the letters and syllables.",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Hermogenes",
+"text": "I don’t know how to oppose your arguments, Socrates, and yet it is not easy for me to be persuaded so suddenly, and I think I would be better persuaded if you were to show me what, according to you, this natural correctness of names is.",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Socrates",
+"text": "Bless you, Hermogenes, I am not saying that there is any such thing. No, you have forgotten what I said a little earlier, that I don’t know about this, but I could enquire along with you. And as we now investigate this, you and I, this much progress is already apparent; a name does have some natural correctness and it is not every man who knows how to give this to anything at all. Isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Socrates",
+"text": "Therefore, if you have a desire to know, the next thing we should do is to investigate what precisely the correctness of name is.",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Hermogenes",
+"text": "But of course I want to know.",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Socrates",
+"text": "Then enquire.",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Hermogenes",
+"text": "How should I enquire?",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Socrates",
+"text": "The correct way to enquire, my friend, is in the company of those who know, but you pay money to them and you owe them a debt of gratitude. These people are the sophists from whom your brother Callias has acquired his reputation for wisdom, having paid them a great deal of money. But since you are not in control of your own inheritance, you must implore your brother and ask him to teach you what he learned from Protagoras about the correctness applicable to such matters as these.",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Hermogenes",
+"text": "Socrates, coming from me such a request would be strange indeed – that I, who do not accept Protagoras’ truth at all, should place any value upon the details of such a truth as this.",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Socrates",
+"text": "Well, if that does not please you, then you should learn from Homer and the other poets.",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Hermogenes",
+"text": "And what does Homer say about names, Socrates, and where?",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Socrates",
+"text": "There are many places where he makes significant, fine distinctions between the names that humans and the gods call the same things. Don’t you agree that there are places where he says something wonderfully important about the correctness of names? For it is surely obvious that the gods call things by names that are correct by nature. Don’t you think so?",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Hermogenes",
+"text": "I fully understand that if the gods call things by names, they do so correctly. But what passages are you referring to?",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Socrates",
+"text": "Don’t you know that he says that the Trojan river that fought one on one with Hephaestus is called Xanthos by the gods, but Scamander by humans?",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Hermogenes",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Socrates",
+"text": "What about this? Don’t you think this is something special, to know that this river is more correctly called Xanthos rather than Scamander? Or take, if you like, the example of the bird which he says:",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Socrates",
+"text": "the gods have called Chalcis but humans call Cymnidis Do you think it is an ordinary matter to learn how much more correct it is to call the same bird Chalcis rather than Cymindis? Or what about the hill that is called both Batieia and Myrina, and many other examples from this poet and various others? But perhaps these matters are too exalted for you and I to understand, whereas Scamandrius and Astyanax are more amenable to human investigation, as, in my opinion, it is easier to investigate what he maintains are the names of Hector’s son and what precisely he means by the correctness of these. I am sure that you know the lines that include these references.",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Socrates",
+"text": "Well, which name do you think Homer believed to be the more correct name for the boy – Astyanax or Scamandrius?",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Hermogenes",
+"text": "I cannot say.",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Socrates",
+"text": "Think about this, then. Suppose someone were to ask you, “Do you think that the more intelligent person or the more unintelligent person calls things by the more correct names?”",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Hermogenes",
+"text": "I would say that it is obviously the more intelligent person.",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Socrates",
+"text": "Now in your opinion, on the whole, are the women in a city, or the men, the more intelligent group?",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Hermogenes",
+"text": "The men.",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Socrates",
+"text": "Now, you know, don’t you, that Homer says that Hector’s child was called Astyanax by the men of Troy. And since the men called him Astyanax, he was obviously called Scamandrius by the women?",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Hermogenes",
+"text": "Well, so it seems.",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Socrates",
+"text": "Didn’t Homer too believe that the Trojan men were wiser than their women?",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Hermogenes",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Socrates",
+"text": "So, he thought that Astyanax was a more correct name for the boy than Scamandrius.",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Hermogenes",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 194,
+"who": "Socrates",
+"text": "Then, let’s look at the precise reason for this. Or does he himself explain the reason very nicely? Indeed, he says:",
+"kind": "speech"
+},
+{
+"entry": 195,
+"who": "Socrates",
+"text": "he alone defended their city and long walls For this reason, then, it seems it is only right to call the son of the defender, Astyanax, the astu-anax, the lord of the city, which his father defended, as Homer says.",
+"kind": "speech"
+},
+{
+"entry": 196,
+"who": "Hermogenes",
+"text": "I see.",
+"kind": "speech"
+},
+{
+"entry": 197,
+"who": "Socrates",
+"text": "But why, exactly? Indeed, I myself do not yet understand. Do you understand, Hermogenes?",
+"kind": "speech"
+},
+{
+"entry": 198,
+"who": "Hermogenes",
+"text": "By Zeus, I do not.",
+"kind": "speech"
+},
+{
+"entry": 199,
+"who": "Socrates",
+"text": "But, good man, did Homer himself not give Hector this name?",
+"kind": "speech"
+},
+{
+"entry": 200,
+"who": "Hermogenes",
+"text": "What of it?",
+"kind": "speech"
+},
+{
+"entry": 201,
+"who": "Socrates",
+"text": "Well, this name seems to me to be much the same as Astyanax. Indeed, both seem to be Greek, for anax (lord) and hector (possessor) seem to indicate the same thing since both are names for a king, for surely a person is also the possessor of whatever he is lord of since he is obviously in control of this, and has acquired it and possesses it. Or do you think I am talking nonsense in the deluded belief that I have found some clue to Homer’s opinion about the correctness of names?",
+"kind": "speech"
+},
+{
+"entry": 202,
+"who": "Hermogenes",
+"text": "By Zeus, you are not deluded. No, you have probably found something.",
+"kind": "speech"
+},
+{
+"entry": 203,
+"who": "Socrates",
+"text": "At any rate, it is right, as I see it, to call the offspring of a lion, a lion, and the offspring of a horse, a horse. I am not speaking of a case where something other than a horse is born from a horse, a sort of aberration. I am referring, rather, to the natural offspring of its kind. If a horse, contrary to nature, were to give birth to a calf, the natural offspring of a cow, it should not be called a foal but a calf. Nor, in my opinion, if non-human offspring is born from a human being, should that offspring be called a human being. And the same applies to trees and to everything else. Don’t you agree?",
+"kind": "speech"
+},
+{
+"entry": 204,
+"who": "Hermogenes",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 205,
+"who": "Socrates",
+"text": "Good, but be on your guard lest I somehow lead you astray, since, according to the same argument, any offspring born from a king should be called a king. But whether the same thing is indicated by one set of syllables or by another set does not matter. Nor does it matter if a letter is added or subtracted as long as the essence of the thing is in control and is revealed in the name.",
+"kind": "speech"
+},
+{
+"entry": 206,
+"who": "Hermogenes",
+"text": "How do you mean?",
+"kind": "speech"
+},
+{
+"entry": 207,
+"who": "Socrates",
+"text": "Nothing complicated. No, this is something you already know. We speak the names of the letters but not the letters themselves, with four exceptions: e, u, o and ō. And you know that we attach additional spoken letters to the other vowels and consonants in order to make names for them. But as long as we include the demonstrative power of the letter, we are right to call it by that name, and for us, that will indicate it. Take beta for example. You see that adding ‘b’ and ‘t’ and ‘a’ does no harm and does not prevent the nature of the consonant from being indicated by the whole name of the letter that the convention-setter wished to name, and so he knew quite well how to give names to the letters.",
+"kind": "speech"
+},
+{
+"entry": 208,
+"who": "Hermogenes",
+"text": "Yes, I think that’s true.",
+"kind": "speech"
+},
+{
+"entry": 209,
+"who": "Socrates",
+"text": "Doesn’t the same argument hold in relation to a king? For a king will usually be born from a king, good from good, noble from noble, and the same holds for all other cases; from each kind, another one like that is born unless some aberration arises. So they should be called by the same names, but it is permissible to vary the syllables so that to those without the expertise, names seem different even though they are the same, just like drugs prepared by physicians, which vary in colour and smell and appear different although they are the same. And yet, to the physician who discerns the power of the drugs, they appear the same and he is not misled by the additions. And so, in like manner, someone who is knowledgeable about names sees the power they possess and is not misled if a letter is added, transposed or removed, or indeed if the power of the name is conveyed by completely different letters. For instance, in the case we have just described, ‘Astyanax’ and ‘Hector’ have no letters the same except ‘t’, but they indicate the same thing. And what letters does ‘Archepolis’ (ruler of the city) have in common with these? Yet it signifies the same thing nevertheless, and there are many other names which simply indicate ‘king’.",
+"kind": "speech"
+},
+{
+"entry": 210,
+"who": "Socrates",
+"text": "And again, there are others that indicate ‘general’, such as ‘Agis’ (leader), ‘Polemarchus’ (battle leader) and ‘Eupolemus’ (good in battle), and indeed such names as ‘Iatrocles’(famous healer) and ‘Acesimbrotus’ (healer of mortals) indicate ‘physician’. And we might find lots of others differing in their syllables and letters but having the same power when uttered. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 211,
+"who": "Hermogenes",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 212,
+"who": "Socrates",
+"text": "In that case, those that come into being in accordance with nature should be assigned the same names.",
+"kind": "speech"
+},
+{
+"entry": 213,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 214,
+"who": "Socrates",
+"text": "What about those that have come into being, contrary to nature, in the form of some aberration? For instance, when a disrespectful child is born to a good man who respects the gods – as in our previous example of a horse giving birth to a calf – it should not, of course, bear the name of the parent, but of the sort of thing that it is.",
+"kind": "speech"
+},
+{
+"entry": 215,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 216,
+"who": "Socrates",
+"text": "Then a disrespectful child born to a respectful person should be given the name of the disrespectful kind.",
+"kind": "speech"
+},
+{
+"entry": 217,
+"who": "Hermogenes",
+"text": "Indeed so.",
+"kind": "speech"
+},
+{
+"entry": 218,
+"who": "Socrates",
+"text": "So he should not, it seems, be called ‘Theophilus’ (beloved of God) or ‘Mnēsitheos’ (mindful of God) or anything of that sort, but by a name that indicates the opposite of these, if names are to be correct.",
+"kind": "speech"
+},
+{
+"entry": 219,
+"who": "Hermogenes",
+"text": "Very much so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 220,
+"who": "Socrates",
+"text": "Yes, Hermogenes, just as the name ‘Orestēs’ (mountain-man) is likely to be correct, whether it was given to him by chance or by a poet to point out with this name the wildness, coarseness and ruggedness of his nature.",
+"kind": "speech"
+},
+{
+"entry": 221,
+"who": "Hermogenes",
+"text": "Apparently so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 222,
+"who": "Socrates",
+"text": "And it seems that his father’s name is also in accord with nature.",
+"kind": "speech"
+},
+{
+"entry": 223,
+"who": "Hermogenes",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 224,
+"who": "Socrates",
+"text": "Indeed, it is quite likely that Agamemnon is the sort of person who would work hard at whatever he decided upon, and persevere, bringing his plans to completion through his excellence, and an indication of this is the length of his stay at Troy and his endurance. So, the name ‘Agamemnon’ indicates that this man was admirable (agastos) for standing his ground (epimonē). And the name ‘Atreus’ is probably correct too, for his murder of Chrysippus and his cruel treatment of Thyestēs were all destructive and ruinous (atēra) to his excellence. Now, the significance of the name is slightly altered and obscured so that the nature of the man is not obvious to everyone. But to those with an understanding of names, it adequately demonstrates what Atreus means. Indeed, whether in respect of his stubbornness (ateires), his fearlessness (atrestos), or his ruinousness (atēros), the name is correctly applied in any case. And I think that Pelops also has an appropriate name, for this name indicates someone who sees what is close at hand.",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Hermogenes",
+"text": "How do you mean?",
+"kind": "speech"
+},
+{
+"entry": 226,
+"who": "Socrates",
+"text": "We are told, for instance, that in murdering Myrtilus he proved unable to anticipate or foresee the far-reaching consequences for his entire family, and the extent of the misfortune that would befall them. In his eagerness to secure his marriage to Hippodameia by any means, he saw only what was close at hand and immediate or near (pelas). And if what we are told about Tantalus is true, then everyone would agree that his name too has been correctly given, in accordance with his nature.",
+"kind": "speech"
+},
+{
+"entry": 227,
+"who": "Hermogenes",
+"text": "What are you referring to?",
+"kind": "speech"
+},
+{
+"entry": 228,
+"who": "Socrates",
+"text": "To the many terrible misfortunes that happened to him during his life, culminating in the overthrow of his own fatherland, and, after death in Hades, in amazing concord with his name, a stone was suspended (talanteia) over his head. And it really seems as if someone, wishing to call him ‘Talantatos’ (weighed down completely), has disguised this intention and named him by saying ‘Tantalus’ instead. The circumstances of the legend seem to have provided this name for him in some such manner as this. And it appears that his father, who is said to be Zeus, also had an excellent name, although it is not easy to understand. For the name of Zeus is really like a phrase consisting of two parts, some people using one part, others using the other. For some call him Zēn, others Dia, and combining the two into one demonstrates the nature of the god, which, according to us, is what a name should be able to do. For there is no one who is more responsible for the life of us humans, and all other creatures, than the ruler and king of all. Consequently, this god through whom (di hon) all living creatures always have life (zēn) has been named correctly (di hon zēn). And as I said, the name, being one, is divided into two parts, Dia and Zēn. To suggest that he is the son of Cronus might seem disrespectful on first hearing, and to say that Zeus is the offspring of some huge intellect might sound preferable. For koros (representing Cronus) does not indicate a child, but the pure (kathoros) and unblemished nature of reason (nous).",
+"kind": "speech"
+},
+{
+"entry": 229,
+"who": "Socrates",
+"text": "And he, the story goes, is the son of Uranus, and the upward vision is rightly called ‘ourania’, looking upwards (horōsa – looking, ta anō – above), and those who study the heavens, Hermogenes, say that this results in pure reason and Uranus has the correct name. And if I could have remembered the genealogy of Hesiod, where he describes even earlier ancestors of these gods, I could have continued explaining that they too had correct names, until I had tested this wisdom that has suddenly come upon me like this, I know not from where, to see whether or not it will ebb away.",
+"kind": "speech"
+},
+{
+"entry": 230,
+"who": "Hermogenes",
+"text": "Yes, indeed, Socrates, you really do seem to me, suddenly, to be making prophetic utterances, just like inspired people.",
+"kind": "speech"
+},
+{
+"entry": 231,
+"who": "Socrates",
+"text": "Well, Hermogenes, for the most part I blame what has happened to me on Euthyphro of Prospaltia. Indeed, I was with him for a long time this morning and I was listening to him, and it is quite likely that he was so inspired that he not only filled my ears with his godly wisdom but has taken possession of my soul too. So, I think this is what we need to do. For today, let’s make use of this wisdom and continue our investigation into the remaining names, and tomorrow, if you agree, we shall send it on its way and be purified, having found someone, either a priest or a sophist, who is adept in such purifications.",
+"kind": "speech"
+},
+{
+"entry": 232,
+"who": "Hermogenes",
+"text": "Yes, I agree. And I would be very glad to listen to whatever remains to be said about names.",
+"kind": "speech"
+},
+{
+"entry": 233,
+"who": "Socrates",
+"text": "Well, that is what we should do then. Now, since we have hit upon this general approach, where would you like us to begin our investigation so that we may see whether the names themselves shall act as witnesses and tell us whether each name is merely given at random, or actually possesses a certain correctness? Now, the names in use for heroes and humans may perhaps be deceiving us, for many of them are based on the names of ancestors, and in some cases, as we said at the outset, they are quite inappropriate, while many such as Eutychides (fortunate), Sosias (saviour) and Theophilus (beloved of God) are given in a spirit of prayer. Now, in my opinion, we should leave names of that sort aside as we are most likely to find those that are correctly given when dealing with whatever is eternal and natural. For in such cases, it was most appropriate that the assignment of names be taken seriously. And perhaps some of them were given by a power more divine than any human power.",
+"kind": "speech"
+},
+{
+"entry": 234,
+"who": "Hermogenes",
+"text": "I think that’s well expressed, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 235,
+"who": "Socrates",
+"text": "Now, wouldn’t it be right to begin with the gods and consider the way in which the ‘gods’ (theoi) are correctly called by this particular name?",
+"kind": "speech"
+},
+{
+"entry": 236,
+"who": "Hermogenes",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 237,
+"who": "Socrates",
+"text": "Well, my guess is as follows. As I see it, the first humans to settle in Greece believed only in those gods that many non-Greeks still believe in today – sun, moon, stars and sky. Now, since they saw that these are always following a course, and running (theonta), they named them ‘gods’ (theous) because their nature is to run (thein). Later, recognising the other gods, they called them all by this same name. Is this likely to be true or am I talking nonsense?",
+"kind": "speech"
+},
+{
+"entry": 238,
+"who": "Hermogenes",
+"text": "It is very likely.",
+"kind": "speech"
+},
+{
+"entry": 239,
+"who": "Socrates",
+"text": "What should we look at after this?",
+"kind": "speech"
+},
+{
+"entry": 240,
+"who": "Hermogenes",
+"text": "Daimōnes (divine beings), of course.",
+"kind": "speech"
+},
+{
+"entry": 241,
+"who": "Socrates",
+"text": "And what exactly does the name ‘daimōnes’ mean in truth, Hermogenes? You may decide whether there is anything in what I am about to say.",
+"kind": "speech"
+},
+{
+"entry": 242,
+"who": "Hermogenes",
+"text": "Speak on.",
+"kind": "speech"
+},
+{
+"entry": 243,
+"who": "Socrates",
+"text": "Do you know what daimōnes are, according to Hesiod?",
+"kind": "speech"
+},
+{
+"entry": 244,
+"who": "Hermogenes",
+"text": "I cannot recall.",
+"kind": "speech"
+},
+{
+"entry": 245,
+"who": "Socrates",
+"text": "Don’t you recall that he says that the first race of humans to be born was a golden race?",
+"kind": "speech"
+},
+{
+"entry": 246,
+"who": "Hermogenes",
+"text": "Yes, I know that much anyway.",
+"kind": "speech"
+},
+{
+"entry": 247,
+"who": "Socrates",
+"text": "Well, what he says about it is:",
+"kind": "speech"
+},
+{
+"entry": 248,
+"who": "Socrates",
+"text": "But since this race has been concealed by fate,",
+"kind": "speech"
+},
+{
+"entry": 249,
+"who": "Socrates",
+"text": "they are called sacred daimōnes who dwell beneath the earth,",
+"kind": "speech"
+},
+{
+"entry": 250,
+"who": "Socrates",
+"text": "noble, averters of evil, guardians of mortal men.",
+"kind": "speech"
+},
+{
+"entry": 251,
+"who": "Hermogenes",
+"text": "Yes, what of it?",
+"kind": "speech"
+},
+{
+"entry": 252,
+"who": "Socrates",
+"text": "Well, I think he means not that this race is golden by nature, but that it is good and noble for me, the fact that he refers to ourselves as an iron race is proof of this.",
+"kind": "speech"
+},
+{
+"entry": 253,
+"who": "Hermogenes",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 254,
+"who": "Socrates",
+"text": "And if anyone nowadays happened to be good, don’t you think he would say that he belonged to that golden race?",
+"kind": "speech"
+},
+{
+"entry": 255,
+"who": "Hermogenes",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 256,
+"who": "Socrates",
+"text": "And are the good also wise?",
+"kind": "speech"
+},
+{
+"entry": 257,
+"who": "Hermogenes",
+"text": "Yes, wise.",
+"kind": "speech"
+},
+{
+"entry": 258,
+"who": "Socrates",
+"text": "Well this, I believe, is what he really means. Because the daimōnes were wise and knowledgeable (daimonēs), he called them daimōnes, and in our ancient language this very name is found. So, Hesiod and many other poets are right when they say that once a good person dies, a great and honourable destiny is theirs, and the person becomes a daimōn in accordance with the wisdom associated with that title. And, accordingly, I too maintain that anyone who is good is daimōnic, whether they be living or deceased, and is correctly called a daimōn.",
+"kind": "speech"
+},
+{
+"entry": 259,
+"who": "Hermogenes",
+"text": "Yes, Socrates, I think I am in complete agreement with you on this. But what about the word ‘hero’? What would it be?",
+"kind": "speech"
+},
+{
+"entry": 260,
+"who": "Socrates",
+"text": "This is not particularly difficult to understand, for their name is little altered and it indicates their birth from love (erōs).",
+"kind": "speech"
+},
+{
+"entry": 261,
+"who": "Hermogenes",
+"text": "How do you mean?",
+"kind": "speech"
+},
+{
+"entry": 262,
+"who": "Socrates",
+"text": "Don’t you know that heroes are demigods?",
+"kind": "speech"
+},
+{
+"entry": 263,
+"who": "Hermogenes",
+"text": "What of it?",
+"kind": "speech"
+},
+{
+"entry": 264,
+"who": "Socrates",
+"text": "They have all been born from the love (erōs) of a god or a goddess for a mortal. And if you look at this based upon the old Attic tongue, you will understand better. For it will show you that ‘hero’ is a slight alteration of the name of ‘love’ (erōs) from which heroes are born. So they are called heroes either for this reason or because they are sophists, clever speakers, dialecticians who are well able to ask questions (erōtan). For ‘erein’ is the same as ‘legein’ (to speak). And so, as we have just said, heroes, when spoken of in the Attic tongue, turn out to be rhetoricians and questioners, and our tribe of heroes becomes a race of rhetoricians and sophists. Now, this is not difficult to understand, but it is harder to understand why exactly members of the human race are called humans. Can you say?",
+"kind": "speech"
+},
+{
+"entry": 265,
+"who": "Hermogenes",
+"text": "How could I, my friend? Even if I were able to find out, I wouldn’t make the effort because I believe you are more likely to make the discovery than I am.",
+"kind": "speech"
+},
+{
+"entry": 266,
+"who": "Socrates",
+"text": "It seems that you believe in the inspiration of Euthyphro.",
+"kind": "speech"
+},
+{
+"entry": 267,
+"who": "Hermogenes",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 268,
+"who": "Socrates",
+"text": "Well, you are right to believe in it. Indeed, I myself apparently have come up with such an ingenious notion just now that if I am not careful I am in danger this very day of becoming wiser than I need to be. Consider this. In the first place it is necessary to recognise that when it comes to names, we often insert letters or remove them, departing from our intention in naming, and we sometimes change the accents. For example, in order to turn the phrase ‘dii philos’ (friend of Zeus) into a name, we removed the second ‘i’ and pronounced the middle syllable with a grave rather than an acute accent (diphilus). In other cases, by contrast, we insert letters and pronounce grave accents as acute.",
+"kind": "speech"
+},
+{
+"entry": 269,
+"who": "Hermogenes",
+"text": "True.",
+"kind": "speech"
+},
+{
+"entry": 270,
+"who": "Socrates",
+"text": "Well, it seems to me that the name for human beings has also undergone such a process. One letter, ‘a’, has been removed and the final syllable has become grave, turning a phrase into a name.",
+"kind": "speech"
+},
+{
+"entry": 271,
+"who": "Hermogenes",
+"text": "How do you mean?",
+"kind": "speech"
+},
+{
+"entry": 272,
+"who": "Socrates",
+"text": "As follows. This name, ‘human’ (anthrōpos), indicates that the other creatures do not consider or reflect upon or scrutinise anything they see, while a human being sees (opōpe) and simultaneously scrutinises and reflects upon whatever has been seen. And so, of all creatures, a human being is rightly named ‘human’ (anthrōpos) for scrutinising (anathrōn) whatever is seen (opōpe).",
+"kind": "speech"
+},
+{
+"entry": 273,
+"who": "Hermogenes",
+"text": "Well, what next? May I ask about the next thing I would like to find out?",
+"kind": "speech"
+},
+{
+"entry": 274,
+"who": "Socrates",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 275,
+"who": "Hermogenes",
+"text": "After these examples, there is, I think, something that follows naturally. Indeed, we speak, I presume, of the body and the soul of a human being.",
+"kind": "speech"
+},
+{
+"entry": 276,
+"who": "Socrates",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 277,
+"who": "Hermogenes",
+"text": "Then let’s analyse these names too, just as we did with the previous ones.",
+"kind": "speech"
+},
+{
+"entry": 278,
+"who": "Socrates",
+"text": "Do you mean that we should consider how soul reasonably comes by that name, and do the same too for body?",
+"kind": "speech"
+},
+{
+"entry": 279,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 280,
+"who": "Socrates",
+"text": "Well, speaking off-hand, I think that those who gave soul its name had something as follows in mind. They observed that when soul is present it is the cause of the body being alive, providing its ability to draw breath and be revived, and when the reviving (anapsuchon) power departs, the body is destroyed and dies. And that, I believe, is why they called it ‘soul’ (psuchē). But, quiet please. I think I can discern something more persuasive to Euthyphro and his followers who, in my opinion, would despise this interpretation and regard it as commonplace. Let’s see if you like this.",
+"kind": "speech"
+},
+{
+"entry": 281,
+"who": "Hermogenes",
+"text": "Speak on.",
+"kind": "speech"
+},
+{
+"entry": 282,
+"who": "Socrates",
+"text": "Do you think that there is anything besides soul that sustains the nature of every single body, so that it lives and moves?",
+"kind": "speech"
+},
+{
+"entry": 283,
+"who": "Hermogenes",
+"text": "There is nothing else.",
+"kind": "speech"
+},
+{
+"entry": 284,
+"who": "Socrates",
+"text": "What about this? Don’t you also believe, with Anaxagoras, that nous and soul are what order and hold the nature of everything else too?",
+"kind": "speech"
+},
+{
+"entry": 285,
+"who": "Hermogenes",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 286,
+"who": "Socrates",
+"text": "So, it would be only right to give to this power, which holds and sustains (orchei, echei) nature (phusis), this particular name, ‘phusechei’ (nature-holder). And it is possible to pronounce this more elegantly as ‘psuchē’ (soul).",
+"kind": "speech"
+},
+{
+"entry": 287,
+"who": "Hermogenes",
+"text": "Entirely so, and I think this explanation is more skilful than the first one.",
+"kind": "speech"
+},
+{
+"entry": 288,
+"who": "Socrates",
+"text": "Indeed so, although to give it its true name (phusechei) certainly sounds odd.",
+"kind": "speech"
+},
+{
+"entry": 289,
+"who": "Hermogenes",
+"text": "Yes, but what should we say about the next word?",
+"kind": "speech"
+},
+{
+"entry": 290,
+"who": "Socrates",
+"text": "Do you mean ‘body’?",
+"kind": "speech"
+},
+{
+"entry": 291,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 292,
+"who": "Socrates",
+"text": "There is, I think, much to say, and if the word is altered slightly there is even more to say. And indeed, some maintain that the body (sōma) is a tomb (sēma) for the soul, as though it was, at present, entombed. Or again, because body indicates (sēmainei) whatever the soul would indicate (sēmainēi), it is accordingly correctly called an ‘indication’ (sēma). But it seems to me for the most part that this name was given by the adherents of Orpheus as if the soul was paying a penalty for some offences, and the body was an enclosure like a prison to keep the soul safe. So the body (sōma) is a safe (sōma) for the soul until such time as it has paid for its offences in full, and body is named accordingly and there is no need to alter a single letter.",
+"kind": "speech"
+},
+{
+"entry": 293,
+"who": "Hermogenes",
+"text": "Well, Socrates, I think that enough has been said on these names. But what about the names of the gods – Zeus for instance, whom you spoke of just now? Should we conduct an enquiry in the same way as to where precisely the correctness of their names lies?",
+"kind": "speech"
+},
+{
+"entry": 294,
+"who": "Socrates",
+"text": "Yes, by Zeus, Hermogenes, if we are possessed of any intelligence, the very best approach is to admit that we know nothing about the gods themselves, nor about the precise names they call themselves, which are of course true names. But, in terms of correctness, a second approach would be to call them by the names they love to be called by in our conventional prayers, since we know nothing else. In fact, this custom seems good to me, so if you like, let’s conduct our investigation by first announcing to the gods that, because we are unworthy to do so, we shall not be investigating them, but human beings and the opinions they held when they gave the gods those names. For this approach will avoid divine retribution.",
+"kind": "speech"
+},
+{
+"entry": 295,
+"who": "Hermogenes",
+"text": "Yes, Socrates, that sounds reasonable to me. Let’s do as you suggest.",
+"kind": "speech"
+},
+{
+"entry": 296,
+"who": "Socrates",
+"text": "Should we begin in the customary manner with Hestia?",
+"kind": "speech"
+},
+{
+"entry": 297,
+"who": "Hermogenes",
+"text": "Right.",
+"kind": "speech"
+},
+{
+"entry": 298,
+"who": "Socrates",
+"text": "Well, what would you say was in the mind of whoever gave Hestia her name?",
+"kind": "speech"
+},
+{
+"entry": 299,
+"who": "Hermogenes",
+"text": "By Zeus, I don’t think that’s an easy question to answer either.",
+"kind": "speech"
+},
+{
+"entry": 300,
+"who": "Socrates",
+"text": "It is quite likely, Hermogenes, that the first name givers were not ordinary folk but lofty thinkers with much to say.",
+"kind": "speech"
+},
+{
+"entry": 301,
+"who": "Hermogenes",
+"text": "What of it?",
+"kind": "speech"
+},
+{
+"entry": 302,
+"who": "Socrates",
+"text": "It is obvious to me that people of this sort gave the names, and if names in foreign languages are investigated, the meaning of each will be discovered just as well. For instance, in the case of what we call ‘ousia’ (being), there are some who call this ‘essia’ and others who call it ‘ōsia’. Now, taking the first of these alternatives, essia, it is reasonable to call the being of things ‘Hestia’, and furthermore, we also say that whatever partakes of being ‘is’ (estin), and on this basis could be correctly named Hestia. For we seem, in ancient times, to have called ‘ousia’ (being), ‘essia’. But someone, thinking of sacrifices, might also conclude that the name-givers had this in mind, for those who call the being of everything ‘essia’ are likely to sacrifice to Hestia first before any other gods. Those, on the other hand, who called being ‘ōsia’ would agree, more or less, with Heraclitus that all of the things that are are in motion, and nothing remains as it is. So, their cause and ruler is that which pushes (ōthoun), and it was right therefore to name it ‘ōsia’. And that is as much as we who know nothing should say. After Hestia, it is only right to investigate ‘Rhea’ and ‘Cronus’. The name of Cronus we have already dealt with. But perhaps I talk nonsense.",
+"kind": "speech"
+},
+{
+"entry": 303,
+"who": "Hermogenes",
+"text": "Why so, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 304,
+"who": "Socrates",
+"text": "A swarm of wisdom has come into my mind, my friend.",
+"kind": "speech"
+},
+{
+"entry": 305,
+"who": "Hermogenes",
+"text": "What sort of a swarm?",
+"kind": "speech"
+},
+{
+"entry": 306,
+"who": "Socrates",
+"text": "Well, it is most odd to recount, but I think it does carry a certain conviction.",
+"kind": "speech"
+},
+{
+"entry": 307,
+"who": "Hermogenes",
+"text": "Which is?",
+"kind": "speech"
+},
+{
+"entry": 308,
+"who": "Socrates",
+"text": "I seem to picture Heraclitus uttering ancient words of wisdom from the era of Cronus and Rhea, spoken also by Homer.",
+"kind": "speech"
+},
+{
+"entry": 309,
+"who": "Hermogenes",
+"text": "What do you mean?",
+"kind": "speech"
+},
+{
+"entry": 310,
+"who": "Socrates",
+"text": "Heraclitus says, I presume, that everything is in motion and nothing remains as it is, and he compares things that are to the flow of a river, saying that “you cannot step twice into the same river”.",
+"kind": "speech"
+},
+{
+"entry": 311,
+"who": "Hermogenes",
+"text": "So he does.",
+"kind": "speech"
+},
+{
+"entry": 312,
+"who": "Socrates",
+"text": "Now, do you think that whoever gave the names Rhea and Cronus to the ancestors of the other gods thought differently from Heraclitus? Do you think he gave the names of streams to both of them just by chance? Just as Homer for his part refers to “Ocean the origin of the gods, and mother Tethys”, as I believe does Hesiod. Orpheus too says, I believe, that:",
+"kind": "speech"
+},
+{
+"entry": 313,
+"who": "Socrates",
+"text": "First to wed was fair flowing Ocean",
+"kind": "speech"
+},
+{
+"entry": 314,
+"who": "Socrates",
+"text": "Who took to wife his sister, Tethys, his mother’s child. Notice that they are in agreement with one another, and they all incline towards the doctrines of Heraclitus.",
+"kind": "speech"
+},
+{
+"entry": 315,
+"who": "Hermogenes",
+"text": "What you are saying makes sense to me, Socrates. But I do not understand what the name ‘Tethys’ means.",
+"kind": "speech"
+},
+{
+"entry": 316,
+"who": "Socrates",
+"text": "But the name itself is almost stating that it is a disguised name for a spring. For that which sifts (diattomenon) and filters (ēthoumenon) represents a spring and the name Tethys combines both of these words.",
+"kind": "speech"
+},
+{
+"entry": 317,
+"who": "Hermogenes",
+"text": "That is elegant, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 318,
+"who": "Socrates",
+"text": "It certainly is. But what is next? Zeus, we have already explained.",
+"kind": "speech"
+},
+{
+"entry": 319,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 320,
+"who": "Socrates",
+"text": "Then let’s speak about his brothers, Poseidon and Pluto, and the other name he goes by.",
+"kind": "speech"
+},
+{
+"entry": 321,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 322,
+"who": "Socrates",
+"text": "Well, it seems to me that Poseidon is so named because the nature of the sea hindered him as he proceeded and would not allow him to advance, acting as a sort of bond for his feet. So, the god with dominion over the power of the sea was named Poseidon because he was foot-bound (posi-desmon) and the ‘e’ was probably added to improve the sound. But perhaps it does not mean this, and it was spoken initially with a double ‘l’ in place of the ‘s’ because the god knows (eidota) a great deal (polla). Or perhaps he was named ‘the Shaker’ (ho seiōn) because of his shaking activity, and the ‘p’ and the ‘d’ are additions. Pluto is named as the giver of wealth (ploutos) because wealth comes up from beneath the earth. It seems to me that most people assume that his name refers to the unseen (aides), so out of fear they call him Pluto.",
+"kind": "speech"
+},
+{
+"entry": 323,
+"who": "Hermogenes",
+"text": "And what is your view of the matter, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 324,
+"who": "Socrates",
+"text": "Well, it seems to me that people have been misled in many ways about the power of this god and are unjustifiably afraid of him. They are afraid because once any of us dies we remain forever in his realm, and because our soul arrives before him bereft of a body, they are also fearful on that account. But in my opinion, all of this, and the dominion and name of the god, point to the same conclusion.",
+"kind": "speech"
+},
+{
+"entry": 325,
+"who": "Hermogenes",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 326,
+"who": "Socrates",
+"text": "I shall explain to you how I see all this. Tell me, then, what is the strongest bond for any living creature in order to ensure that it remains in some particular place – necessity or desire?",
+"kind": "speech"
+},
+{
+"entry": 327,
+"who": "Hermogenes",
+"text": "Desire is a much stronger bond, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 328,
+"who": "Socrates",
+"text": "Now, don’t you think that lots of people would escape from Hades if he did not bind those who go there with the strongest bond?",
+"kind": "speech"
+},
+{
+"entry": 329,
+"who": "Hermogenes",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 330,
+"who": "Socrates",
+"text": "So he binds them, it seems, by desire and not by necessity, since he binds them by the strongest bond.",
+"kind": "speech"
+},
+{
+"entry": 331,
+"who": "Hermogenes",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 332,
+"who": "Socrates",
+"text": "Now, there are many desires, are there not?",
+"kind": "speech"
+},
+{
+"entry": 333,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 334,
+"who": "Socrates",
+"text": "So he binds them with the greatest desire of all if he is indeed to restrain people with the greatest bond.",
+"kind": "speech"
+},
+{
+"entry": 335,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 336,
+"who": "Socrates",
+"text": "Now, when someone believes they will become a better person by being with someone else, is there any greater desire than this?",
+"kind": "speech"
+},
+{
+"entry": 337,
+"who": "Hermogenes",
+"text": "No, not at all, by Zeus, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 338,
+"who": "Socrates",
+"text": "So that’s why we should maintain, Hermogenes, that none of the people who dwell there has any desire to leave, not even the Sirens themselves, for they too are under his spell, just like all the others. This, it seems, is because Hades knows how to utter beautiful words, and, on account of this, the god is a perfect sophist and a great benefactor of those who are with him there, and he is also the cause of so much good to ourselves here. Because he is surrounded by so much in his own realm, he bears the name Pluto (wealth) for this reason.",
+"kind": "speech"
+},
+{
+"entry": 339,
+"who": "Socrates",
+"text": "Furthermore, he has no desire to be with us humans while we still hold onto our bodies, but he does associate with us once the soul is purified of all the badness and desires associated with the body. Don’t you think then that he is a philosopher who appreciates that he may restrain people under these circumstances, having bound them with the desire for excellence? But while they are possessed of the excitement and madness of the body, not even his father, Cronus, would be able to hold them to himself by binding them with his famous shackles.",
+"kind": "speech"
+},
+{
+"entry": 340,
+"who": "Hermogenes",
+"text": "There seems to be something in what you are saying, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 341,
+"who": "Socrates",
+"text": "So, Hermogenes, the name Hades is not really derived from the unseen (aides), but it is much more likely that the convention-setter called him Hades because of the fact that he knows (eidenai) all that is good.",
+"kind": "speech"
+},
+{
+"entry": 342,
+"who": "Hermogenes",
+"text": "Very well. But what have we to say about Dēmēter, Hēra, Apollo, Athena, Hephaestus, Ares, and the other gods?",
+"kind": "speech"
+},
+{
+"entry": 343,
+"who": "Socrates",
+"text": "Dēmēter is apparently so called because, like a mother (mētēr), she gives (didousa) the gift of food. Hēra is the lovely one (eratē) because Zeus is said to have married her for love. But perhaps the convention-setter, speaking in exalted terms, called the air (aera) Hēra, placing the beginning at the end to conceal his intention. You would recognise this if you were to repeat the name Hera over and over. As for Pherephatta, this name is feared by many, and so too is the name Apollo because, it seems, of a lack of experience of the correctness of names. For they change Persephone to Phersephone (bringer of slaughter, pherein phonon), and this apparently terrifies them, although it points out the fact that the goddess is wise. For since things are in motion, wisdom would be that which fixes upon, or is in touch with, or has the ability to follow. So the goddess may rightly be called Pherephapa, or the like, because of her wisdom and her contact (epaphē) with that which is moving (pheromenon). That’s why Hades, who is wise, associates with her, because she is a goddess of this sort. But nowadays people distort her name by assigning more importance to nice sound than to the truth, and so they call her Pherephatta. And as I say, in the case of Apollo, many people are fearful on account of the name of the god as though it discloses something terrible. Have you noticed this?",
+"kind": "speech"
+},
+{
+"entry": 344,
+"who": "Hermogenes",
+"text": "I have indeed, and what you are saying is true.",
+"kind": "speech"
+},
+{
+"entry": 345,
+"who": "Socrates",
+"text": "But in my opinion the name is most beautifully suited to the power of the god.",
+"kind": "speech"
+},
+{
+"entry": 346,
+"who": "Hermogenes",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 347,
+"who": "Socrates",
+"text": "I shall try to explain my view on the matter. Indeed, there is no single name better suited to the four powers of the god so that it somehow encompasses them all and shows his musical, prophetic and medical power, and his skill in archery too.",
+"kind": "speech"
+},
+{
+"entry": 348,
+"who": "Hermogenes",
+"text": "Please continue. Yes, you seem to be saying that the name is unusual.",
+"kind": "speech"
+},
+{
+"entry": 349,
+"who": "Socrates",
+"text": "On the contrary, it harmonises well with the musical nature of the god. For in the first place, the purifications and purgations, both in medicine and in prophecy, and the fumigations with medicinal or oracular remedies, and the ablutions associated with these, and the sprinklings too, would all have one function – to render the person pure in body and in soul. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 350,
+"who": "Hermogenes",
+"text": "It certainly is.",
+"kind": "speech"
+},
+{
+"entry": 351,
+"who": "Socrates",
+"text": "Now, wouldn’t Apollo be the god who purifies, cleanses (apolouōn) and delivers us (apoluōn) from such evils as these?",
+"kind": "speech"
+},
+{
+"entry": 352,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 353,
+"who": "Socrates",
+"text": "In that case, in respect of the deliverances and cleansings, he may correctly be called ‘Aploun’ (he who cleanses), being a physician of maladies of this sort. In respect of prophecy, and what’s true and what’s simple (aplous), which are indeed the same, it would be correct to call him by the name that the people of Thessaly use, for they all call this god ‘Aploun’. And because he is a master archer who is ever-darting (aei-bolōn), he is ‘Aeiballōn’ (everthrowing). And in respect of music, we need to understand that the letter ‘a’ often indicates ‘together’, and in this case it refers to movement together around the sky, around the poles as they are called, and also to harmony in song, which is called concord, because all these, as the experts in music and in astronomy tell us, move together at the same time, by a certain harmony. And this god Apollo supervises the harmony by moving them all together, for gods and for humans. So, just as our words for ‘following’ (akolouthon) and ‘lying together’ (akoitin) substitute the prefix ‘a’ for the prefix ‘homo’, so too, although he was called ‘Omopolōn’, we called him ‘Apollo’, adding an extra ‘l’ because the other name can mean something distressing. And even now some people are still suspicious, and because they don’t consider the power of the name in the correct manner, they are afraid that it is indicating some sort of destruction. In fact, as was said earlier, the name encompasses all the powers of the god – simplicity, ever-throwing, cleansing and moving together.",
+"kind": "speech"
+},
+{
+"entry": 354,
+"who": "Socrates",
+"text": "The Muses, and the realm of music in general, seem to derive their name from the word ‘mōsthai’ (to seek after) and from philosophic enquiry. Leto is so called because of the meekness of the god, as evidenced by her willingness (ethelēmona) to grant whatever anyone asks for. Or perhaps her name is Lētho, which is what many foreigners call her, because it seems her character is not harsh, but gentle and smooth (leion), and that’s why they call her ‘Lētho’. Artemis appears to be so called because of her soundness (artemes) and orderliness (kosmion) and her preference for virginity (parthenia), but it is just as likely that those who gave the goddess that name called her ‘she who knows excellence’ (aretēs histora). Or perhaps it was because of her hatred of procreation (aroton misēsasēs) involving a man and a woman. Or whoever gave the god her name did so for one of these reasons, or for all of them.",
+"kind": "speech"
+},
+{
+"entry": 355,
+"who": "Hermogenes",
+"text": "What about Dionysus and Aphrodite?",
+"kind": "speech"
+},
+{
+"entry": 356,
+"who": "Socrates",
+"text": "My dear Hermogenes, you are asking me a big question. In fact, there is a serious way of explaining the names of these gods, and a playful one. You had best ask others for the serious account, but there is nothing to prevent us going over the playful one, for the gods are quite fond of playing. Indeed, Dionysus would be the one who gives (didous) wine (oinos), being playfully called ‘Didoinysos’. As for wine, since most people who drink it believe (oieithai) that they are possessed of intelligence (nous) when they are not, it may correctly be called ‘oionous’. There is no need to contradict Hesiod about Aphrodite, and we can accept that she was so called because of her birth from foam (afrou).",
+"kind": "speech"
+},
+{
+"entry": 357,
+"who": "Hermogenes",
+"text": "But surely Socrates, you, an Athenian, won’t forget about Athena, or indeed Hephaestus or Ares.",
+"kind": "speech"
+},
+{
+"entry": 358,
+"who": "Socrates",
+"text": "That is hardly likely.",
+"kind": "speech"
+},
+{
+"entry": 359,
+"who": "Hermogenes",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 360,
+"who": "Socrates",
+"text": "Now, it is not difficult to explain the origin of her other name.",
+"kind": "speech"
+},
+{
+"entry": 361,
+"who": "Hermogenes",
+"text": "Which is?",
+"kind": "speech"
+},
+{
+"entry": 362,
+"who": "Socrates",
+"text": "We do call her ‘Pallas’, I presume?",
+"kind": "speech"
+},
+{
+"entry": 363,
+"who": "Hermogenes",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 364,
+"who": "Socrates",
+"text": "Well, those who believe that this name was given because of her dancing in armour, would, in my opinion, be correct in their belief, for to raise oneself up from the ground or to lift something else in one’s hands is to shake (pallein) or be shaken (palleisthai), to dance or be danced.",
+"kind": "speech"
+},
+{
+"entry": 365,
+"who": "Hermogenes",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 366,
+"who": "Socrates",
+"text": "Well, she is called Pallas because of this.",
+"kind": "speech"
+},
+{
+"entry": 367,
+"who": "Hermogenes",
+"text": "And rightly so. But what about her other name?",
+"kind": "speech"
+},
+{
+"entry": 368,
+"who": "Socrates",
+"text": "You mean Athena?",
+"kind": "speech"
+},
+{
+"entry": 369,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 370,
+"who": "Socrates",
+"text": "This, my friend, is a weightier matter. The ancients seem to have thought about Athena in much the same way as experts on Homer do nowadays. Indeed, most such commentators say that he represents Athena as ‘nous’ or thought (dianoia), while the person who devised her name seems to have thought about her in much the same way, but he spoke of her in even more elevated terms as the intellect (noesis) of God (theou). He seems to say that she is ‘a theonoa’, using the letter ‘a’ in place of ‘e’, as foreigners do, also omitting the ‘i’ and the ‘s’. But perhaps this was not the reason, and perhaps he called her ‘Theonoēn’ (divine apprehension) because she apprehends (noousēs) the divine (theia) better than the others. And we cannot rule out the possibility that, wishing to say that this god was the embodiment of intellect (ēthei noēsin), he called her ‘Ēthonoēn’, but he himself, or others afterwards, made a change to make the name prettier and called her ‘Athēnaa’.",
+"kind": "speech"
+},
+{
+"entry": 371,
+"who": "Hermogenes",
+"text": "What do you say about Hephaestus?",
+"kind": "speech"
+},
+{
+"entry": 372,
+"who": "Socrates",
+"text": "Are you asking about the noble ‘knower of light’ (phaeos histora)?",
+"kind": "speech"
+},
+{
+"entry": 373,
+"who": "Hermogenes",
+"text": "Probably.",
+"kind": "speech"
+},
+{
+"entry": 374,
+"who": "Socrates",
+"text": "Isn’t it obvious to everyone then that this god is Phaistos with the letter ‘e’ added on?",
+"kind": "speech"
+},
+{
+"entry": 375,
+"who": "Hermogenes",
+"text": "Quite likely, unless some further suggestion occurs to you, as it probably will.",
+"kind": "speech"
+},
+{
+"entry": 376,
+"who": "Socrates",
+"text": "Well, so that I don’t suggest it, ask me about Ares.",
+"kind": "speech"
+},
+{
+"entry": 377,
+"who": "Hermogenes",
+"text": "I’m asking.",
+"kind": "speech"
+},
+{
+"entry": 378,
+"who": "Socrates",
+"text": "Well, if you like, he could be ‘Ares’ in respect of his vigour (arren) and courage (andreion), or again, if you prefer, because he is hard and unbending, in other words ‘tough’ (arraton). Accordingly, ‘Ares’ would be an entirely appropriate name to call the god of war.",
+"kind": "speech"
+},
+{
+"entry": 379,
+"who": "Hermogenes",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 380,
+"who": "Socrates",
+"text": "But, by the gods, let’s leave the gods aside as I have become afraid of discussing them. Question me about anything else you like “so that we may see how” the horses of Euthyphro behave.",
+"kind": "speech"
+},
+{
+"entry": 381,
+"who": "Hermogenes",
+"text": "Yes, I shall do so, yet I have one more request of you about Hermes, since Cratylus says that I am no Hermogenes (offspring of Hermes). So let’s try to investigate Hermes and understand this name, so that we may decide if Cratylus has a point.",
+"kind": "speech"
+},
+{
+"entry": 382,
+"who": "Socrates",
+"text": "Well then, this name, ‘Hermes’, seems to be concerned with speech, and he seems to be an interpreter (hermēnea), a messenger, a thief, deceptive in his arguments, and a dealer, and all such activity involves the power of speech. Now, as we said previously, to speak (eirein) is to use words, and Homer often uses the word ‘emēsato’ which means to contrive. So, from both these usages, the convention-setter imposed upon us this name for the god who contrived (emēsato) speaking, which is ‘eirein’, and speech, as if to say “people, it is only right that you should call the god who contrived (emēsato) speech (eirein), Eirmēs.” But nowadays we beautify the name, or so we think, and call him ‘Hermes’. And Iris too seems to be named after speech (eirein) because she is a messenger.",
+"kind": "speech"
+},
+{
+"entry": 383,
+"who": "Hermogenes",
+"text": "Well, by Zeus, in that case I think Cratylus did well to say that I am no Hermogenes (offspring of Hermes), since when it comes to contriving speech, I am not up to much.",
+"kind": "speech"
+},
+{
+"entry": 384,
+"who": "Socrates",
+"text": "And it is also reasonable, my friend, that Pan, with his twofold nature, is the son of Hermes.",
+"kind": "speech"
+},
+{
+"entry": 385,
+"who": "Hermogenes",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 386,
+"who": "Socrates",
+"text": "You know that speech indicates all things and keeps them circulating and moving, and it is twofold, true and false.",
+"kind": "speech"
+},
+{
+"entry": 387,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 388,
+"who": "Socrates",
+"text": "Now, the true speech is smooth and divine, dwelling on high among the gods, while the false speech dwells down here among the broad mass of humanity, and it is coarse and tragic, for most of the stories and falsehoods are based here and concern the tragic life.",
+"kind": "speech"
+},
+{
+"entry": 389,
+"who": "Hermogenes",
+"text": "Indeed so.",
+"kind": "speech"
+},
+{
+"entry": 390,
+"who": "Socrates",
+"text": "So it is only right that the one who reveals and is constantly (aei) moving (polōn) everything (pan) would be Pan, the goatherd (aipolos), the two-fold son of Hermes, with his upper parts smooth and his lower parts coarse and goat-like (tragoeidēs). And Pan, if he is indeed the son of Hermes, is either speech or the brother of speech, and it is no surprise that brother resembles brother. But as I said let’s get away from discussion of the gods.",
+"kind": "speech"
+},
+{
+"entry": 391,
+"who": "Hermogenes",
+"text": "Yes, if you wish, Socrates, of gods of this sort at any rate. But is there any reason not to explain those of another sort, such as sun, moon, and stars, earth, ether, air, fire and water and the seasons and the year?",
+"kind": "speech"
+},
+{
+"entry": 392,
+"who": "Socrates",
+"text": "Well, you are asking a lot of me. Nevertheless, since it will please you, I am willing.",
+"kind": "speech"
+},
+{
+"entry": 393,
+"who": "Hermogenes",
+"text": "It would please me, indeed.",
+"kind": "speech"
+},
+{
+"entry": 394,
+"who": "Socrates",
+"text": "Well then, what would you like to deal with first? Or should we deal with the sun, the first one you mentioned?",
+"kind": "speech"
+},
+{
+"entry": 395,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 396,
+"who": "Socrates",
+"text": "Well, I think the answer would become more obvious if we were to use the Doric version of the name. For they call the sun (helios) ‘Halios’. Now, it could be called Halios because it gathers (holizein) human beings together whenever it rises, or because it is constantly revolving (aei heilein) about the earth, or it could be because it seems to be responsible for the variegation (poikillein) of whatever arises from the earth, and ‘poikillein’ (to variegate) and ‘aioilein’ have the same meaning.",
+"kind": "speech"
+},
+{
+"entry": 397,
+"who": "Hermogenes",
+"text": "What about the moon (selēnē)?",
+"kind": "speech"
+},
+{
+"entry": 398,
+"who": "Socrates",
+"text": "It looks as if this name puts Anaxagoras under some pressure.",
+"kind": "speech"
+},
+{
+"entry": 399,
+"who": "Hermogenes",
+"text": "Why is that?",
+"kind": "speech"
+},
+{
+"entry": 400,
+"who": "Socrates",
+"text": "It seems to be pointing out that his recent pronouncement that the moon gets its light from the sun is of more ancient date.",
+"kind": "speech"
+},
+{
+"entry": 401,
+"who": "Hermogenes",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 402,
+"who": "Socrates",
+"text": "Selas (brightness) and phōs (light) presumably have the same meaning.",
+"kind": "speech"
+},
+{
+"entry": 403,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 404,
+"who": "Socrates",
+"text": "And if what Anaxagoras’ followers say is true, the light associated with the moon is presumably always both new (neon) and old (henon), for as the sun revolves about the moon, it constantly casts new (neon) light upon it, and there is also the old (henon) light of the previous month.",
+"kind": "speech"
+},
+{
+"entry": 405,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 406,
+"who": "Socrates",
+"text": "And many people call the moon ‘selanaia’.",
+"kind": "speech"
+},
+{
+"entry": 407,
+"who": "Hermogenes",
+"text": "Indeed so.",
+"kind": "speech"
+},
+{
+"entry": 408,
+"who": "Socrates",
+"text": "Because the moon always possesses new and old brightness, the most appropriate name by which to call it would be ‘selaenoneoaeia’ (selon neon kai henon echei aei), but this is condensed down to ‘selanaia’.",
+"kind": "speech"
+},
+{
+"entry": 409,
+"who": "Hermogenes",
+"text": "Well, at least the name is poetic, Socrates, but what do you say about ‘month’ and ‘stars’?",
+"kind": "speech"
+},
+{
+"entry": 410,
+"who": "Socrates",
+"text": "Month (meis) would correctly be called ‘meiēs’ from ‘meiousthai’ (to decrease). The stars (astra) seem to get their name from lightning (astrapēs), but because lightning turns our gaze upwards (anastrephei) it should be ‘anastrōpē’, which we call ‘astrapē’ nowadays to make it prettier.",
+"kind": "speech"
+},
+{
+"entry": 411,
+"who": "Hermogenes",
+"text": "What about fire and water?",
+"kind": "speech"
+},
+{
+"entry": 412,
+"who": "Socrates",
+"text": "The word ‘pur’ (fire) perplexes me. Perhaps the Muse of Euthyphro has deserted me, or perhaps this word is just too difficult. Note the device I introduce in all situations like this where I am perplexed.",
+"kind": "speech"
+},
+{
+"entry": 413,
+"who": "Hermogenes",
+"text": "Which is?",
+"kind": "speech"
+},
+{
+"entry": 414,
+"who": "Socrates",
+"text": "I’ll tell you. Answer me this. Can you say how fire (pur) came to be so called?",
+"kind": "speech"
+},
+{
+"entry": 415,
+"who": "Hermogenes",
+"text": "By Zeus, I cannot.",
+"kind": "speech"
+},
+{
+"entry": 416,
+"who": "Socrates",
+"text": "Well, here is what I suspect; think about this. I notice that Greeks, especially those who live among non-Greeks, have adopted many names from them.",
+"kind": "speech"
+},
+{
+"entry": 417,
+"who": "Hermogenes",
+"text": "What of it?",
+"kind": "speech"
+},
+{
+"entry": 418,
+"who": "Socrates",
+"text": "If someone were to investigate the reasonableness of these names by referring to the Greek language rather than the language from which they happen to derive, you know that they would be perplexed.",
+"kind": "speech"
+},
+{
+"entry": 419,
+"who": "Hermogenes",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 420,
+"who": "Socrates",
+"text": "Look at this name ‘fire’ (pur), and decide whether or not it is non-Greek. Indeed, it is not easy to connect this word to the Greek language, and the Phrygians obviously use a slightly altered version, as they do also in the case of ‘water’ and ‘dog’ and many other names.",
+"kind": "speech"
+},
+{
+"entry": 421,
+"who": "Hermogenes",
+"text": "Indeed so.",
+"kind": "speech"
+},
+{
+"entry": 422,
+"who": "Socrates",
+"text": "Now, although something could be said about these words, we should not press this too far. So, on this basis, I am leaving ‘fire’ and ‘water’ aside. As for ‘air’ (aēr), Hermogenes, is it so called because it raises (airei) things up from the ground, or because it is always flowing (aei rei), or because wind arises when air flows? Indeed, the poets presumably refer to the winds as ‘blasts’ (aētai), so perhaps a poet says ‘blast-flow’ (aētorroun) as if he is saying ‘wind-flow’ (pneumatorroun). As for ‘ether’ (aithēr), my understanding is that it may rightly be called ‘aeitheēr’ because it is always running (aei thei) and flowing (rei) about the air (aēr). Earth (gē) would better indicate its meaning if it were named ‘gaia’. Indeed, it would be correct to call ‘gaia’ a mother, as Homer does, for he uses ‘gegaasin’ to mean ‘to be born’ (gegenēsthai). Very well, what is next?",
+"kind": "speech"
+},
+{
+"entry": 423,
+"who": "Hermogenes",
+"text": "The seasons (hōrai), Socrates, and the two names for year, ‘eniautos’ and ‘etos’.",
+"kind": "speech"
+},
+{
+"entry": 424,
+"who": "Socrates",
+"text": "If you wish to understand ‘the seasons’ (hōrai), the word should be spoken in the ancient Attic dialect as (horai), for they are seasons (horai) because they demarcate (horizein) winter and summer, the winds and the fruits of the earth. So they would rightly be called ‘horai’ because they demarcate (horizousai). The two words ‘eniautos’ and ‘etos’ for year are more than likely a single word. For that which leads whatever grows or is born, in their turn, into the light, and scrutinises them within itself (en hautōi exetazei) is called ‘eniautos’ by some because this occurs in itself (en hautōi), and ‘etos’ by others because it scrutinises (etazei). This is just like the division of the name Zeus, as discussed previously, whom some call ‘Zen’, others ‘Dia’. Although the account as a whole is ‘that which scrutinises within itself’ (en heautōi etazon), this single account, when spoken, is divided so that two names arise from the one account, ‘eniautos’ and ‘etos’.",
+"kind": "speech"
+},
+{
+"entry": 425,
+"who": "Hermogenes",
+"text": "Well, Socrates, you are making great progress indeed.",
+"kind": "speech"
+},
+{
+"entry": 426,
+"who": "Socrates",
+"text": "At this stage, I think I am apparently forging ahead in wisdom.",
+"kind": "speech"
+},
+{
+"entry": 427,
+"who": "Hermogenes",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 428,
+"who": "Socrates",
+"text": "You will say so even more in a moment.",
+"kind": "speech"
+},
+{
+"entry": 429,
+"who": "Hermogenes",
+"text": "Well, after this class of names I would gladly look at where precisely the correctness lies in the case of the noble names associated with excellence, such as ‘wisdom’ (phronēsis), ‘comprehension’ (sunesis) and ‘justice’ (dikaiosunē), and any others of that sort.",
+"kind": "speech"
+},
+{
+"entry": 430,
+"who": "Socrates",
+"text": "Well, my friend you are stirring up a significant class of names. Nevertheless, since I have donned the lion’s skin, I should not turn coward, but get on with the enquiry, it seems, into wisdom, comprehension, understanding and knowledge, and all those other noble names you speak of.",
+"kind": "speech"
+},
+{
+"entry": 431,
+"who": "Hermogenes",
+"text": "We certainly shouldn’t quit before the job is done.",
+"kind": "speech"
+},
+{
+"entry": 432,
+"who": "Socrates",
+"text": "And indeed, by the dog, I think that the intuition that occurred to me just now was not a bad one, and those ancient personages who gave us these names were very much like most wise folk these days, who get dizzy because they perform so many about-turns in their search for the nature of things that are. And consequently, the actual things seem to them to be turning around and moving in every possible way. However, they do not blame this opinion upon their own internal condition. They believe, rather, that the actual things themselves are like this by nature, never stable or certain, constantly flowing and moving, always full of every sort of motion and change. This is what occurred to me in relation to all the names we are now considering.",
+"kind": "speech"
+},
+{
+"entry": 433,
+"who": "Hermogenes",
+"text": "How is that, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 434,
+"who": "Socrates",
+"text": "Perhaps you have not noticed the names just mentioned are applied as if the things named are moving, flowing, and changing in every way.",
+"kind": "speech"
+},
+{
+"entry": 435,
+"who": "Hermogenes",
+"text": "No, that did not occur to me.",
+"kind": "speech"
+},
+{
+"entry": 436,
+"who": "Socrates",
+"text": "Well, to start with, the first one we mentioned is certainly named on the basis of such considerations as these.",
+"kind": "speech"
+},
+{
+"entry": 437,
+"who": "Hermogenes",
+"text": "What name?",
+"kind": "speech"
+},
+{
+"entry": 438,
+"who": "Socrates",
+"text": "‘Wisdom’ (phronēsis) is intelligence (noēsis) of motion (phoras) and flow (rou). Or it may be interpreted as the advantage (onēsis) of motion (phoras), but in any case it is concerned with motion. Or, if you like, take ‘understanding’ (gnōme), which indicates enquiry (skepsis) and observation (nōmēsis) of generation (gonē), since ‘to enquire’ is the same as ‘to observe’. Or, if you prefer, the name ‘intelligence’ (noēsis) itself is the aspiration (hesis) for the new (neon), and the fact that things are new (neon) indicates that they are everchanging, and whoever gave us the name reveals this aspiration of the soul (neon hesis) to be neoesis (intelligence). For noēsis was not originally so called; rather, two ‘e’s had to be spoken in place of the ‘ē’ to form ‘noeesis’. Sound-mindedness (sōphrosunē) is the preservation (sōtēria) of wisdom (phronēsis), which we have just looked at. And indeed, ‘knowledge’ (epistēmē) implies that the worthy soul follows (hepei) the moving things, without falling behind or running ahead, and so, having inserted an ‘e’, it should be called ‘hepeïstēmē’. Accordingly, comprehension (sunesis), for its part, seems to be a sort of working out, for whenever someone is said ‘to comprehend’, it is really the same as being said ‘to know’, for ‘to comprehend’ means that the soul proceeds along with or goes along with (sun iēmi) things. Then again, ‘sophia’ (wisdom) indicates contact with motion.",
+"kind": "speech"
+},
+{
+"entry": 439,
+"who": "Socrates",
+"text": "The word is somewhat obscure and foreign, but we must remember that the poets often say of whatever proceeds quickly from its starting point that it rushes (esuthē). Indeed, one of the famous men of Sparta went by the name ‘Sous’ (rush), for that is what the Spartans call a rapid onslaught. So, ‘sophia’ indicates contact with this motion, as the motion of things that are. As for the word ‘good’ (agathon), this is supposed to apply to that which is admirable in all of nature. For since things that are are in motion, some move rapidly while others move slowly. Now, not all that is fast is admirable, but part of it is admirable. So the designation ‘good’ (agathon) is given to the admirable (agastos) part of the fast (thoos).",
+"kind": "speech"
+},
+{
+"entry": 440,
+"who": "Socrates",
+"text": "Now, it is easy to conclude that justice (dikaiosunē) is the comprehension (sunesis) of what’s just (dikaios), but the actual word ‘just’ (dikaion) presents a difficulty. For it seems, indeed, that most people agree up to a point but thereafter there is conflict. For those who believe that the universe is in motion assume that it is the sort of thing that can, for the most part, do nothing but provide space. But there is something passing through all this on account of which everything that comes into being arises. This, they maintain, is extremely fast and subtle, for it would not be able to pass through everything without being repelled unless it was the subtlest, and so fast relative to the others that they appear to stand still.",
+"kind": "speech"
+},
+{
+"entry": 441,
+"who": "Socrates",
+"text": "Now, since it governs all the others by passing through (diaïon) them, it is correct to call it by this name, ‘dikaion’ (just), with the ‘k’ added for ease of pronunciation. So, up to this point, as I said just now, it is agreed by many people that this is what the just (dikaion) is. But I, Hermogenes, being persistent about this, have found out about all these matters in secret teachings; that this is what’s just, and the cause, for the cause is that through which (di ho) anything arises, and someone stated that it is correct to call it Zeus (Dia) for that reason. But when, having heard this, I nevertheless ask gently, “If this is the case, my friend, what precisely is just?”, they think, at that stage, that I am asking too many questions and going beyond all bounds. They tell me that I have done enough enquiring and then, wishing to satisfy me, they try a variety of arguments, but agree with one another no longer.",
+"kind": "speech"
+},
+{
+"entry": 442,
+"who": "Socrates",
+"text": "One says that the sun is the just, for this governs things by passing through (diaïonta) them and burning (kaonta) them. Yet, when I tell this to someone else, because I am delighted at hearing something so good, he laughs at me and asks if I believe there is no justice among us humans once the sun has set. So I persist, and ask him what he himself has to say, and he replies that the just is ‘fire’. But this is not easy to understand. Another says that it is not the fire itself but the actual heat that is in the fire. But someone else says that all these suggestions are laughable, and that the just is what Anaxagoras says it is – namely, reason (nous). For reason, he says, is self-ruling, mixes with nothing, and orders all things as it passes through everything. By then, my friend, I’m even more perplexed than I was when I set out to learn about the just and what precisely it is. In any case, the name appears to have been given for the reasons mentioned, and that’s what our enquiry was about.",
+"kind": "speech"
+},
+{
+"entry": 443,
+"who": "Hermogenes",
+"text": "It seems to me, Socrates, that you have heard these suggestions from someone else and have not come up with them just now.",
+"kind": "speech"
+},
+{
+"entry": 444,
+"who": "Socrates",
+"text": "What about the other names?",
+"kind": "speech"
+},
+{
+"entry": 445,
+"who": "Hermogenes",
+"text": "You certainly did not hear those suggestions from someone else.",
+"kind": "speech"
+},
+{
+"entry": 446,
+"who": "Socrates",
+"text": "Listen then, for perhaps I might actually mislead you into believing that the remaining suggestions are not something I have heard. So, what is left after justice? We have not yet dealt with courage. Now, it is obvious that injustice (adikia) is an impediment to that which passes through (diaïon), whereas courage indicates that the name ‘courage’ is given in battle. Since what is is flowing, a battle in what is would simply be the opposite flow, and if we omit the ‘d’ from the word ‘andreia’ (courage), the name ‘anreia’ (opposite flow) reveals this activity. Of course, courage is not a flow that is opposed to every other flow. It is, rather, opposed only to the flow that is contrary to what’s just, otherwise courage would not be praiseworthy. And the words ‘male’ (arren) and ‘man’ (anēr) mean much the same as courage (andreia) in respect of upward flow (anō rhoē). It looks to me as if the word ‘woman’ (gunē) is intended to be ‘birth’ (gonē), while ‘female’ (thēlu) appears to be named from ‘nipple’ (thēlē), which in turn, Hermogenes, is so called because it makes things flourish (tethēlenai), like watered plants.",
+"kind": "speech"
+},
+{
+"entry": 447,
+"who": "Hermogenes",
+"text": "So it seems, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 448,
+"who": "Socrates",
+"text": "And, indeed, the word ‘flourish’ (thallein) itself seems to me to resemble the rapid sudden growth in the young. It is as if the name-giver has imitated this process in the name, which he forms by combining ‘to run’ (thein) and ‘to jump’ (hallesthai). But do you notice how I go off course once I come across smooth ground? And we do have many seemingly important matters left.",
+"kind": "speech"
+},
+{
+"entry": 449,
+"who": "Hermogenes",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 450,
+"who": "Socrates",
+"text": "One of which is to see what precisely the word ‘skill’ (technē) means.",
+"kind": "speech"
+},
+{
+"entry": 451,
+"who": "Hermogenes",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 452,
+"who": "Socrates",
+"text": "Doesn’t it indicate the possession (hexis) of reason (nous), once you remove the initial ‘t’ and insert an ‘o’ between the ‘ch’ and the ‘n’ and between the ‘n’ and the ‘ē’ to form ‘echonoē’?",
+"kind": "speech"
+},
+{
+"entry": 453,
+"who": "Hermogenes",
+"text": "With some difficulty, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 454,
+"who": "Socrates",
+"text": "Heavens, don’t you know that the names that were originally given have, by now, been submerged by people who wish to make them more dramatic, attaching extra letters and taking them away for ease of pronunciation, twisting them this way and that, both to embellish them and because of the passage of time? Otherwise, don’t you think that the insertion of the letter ‘r’ into the word ‘katoptron’ (mirror) is unusual? I believe rather that this sort of thing is done by people who think nothing of the truth, but only of the shape of the mouth. And so they make lots of additions to the original names, finally making it impossible for anyone at all to understand what precisely the name means. So the Sphinx is called by that name rather than ‘phix’, and there are many other examples.",
+"kind": "speech"
+},
+{
+"entry": 455,
+"who": "Hermogenes",
+"text": "Yes, Socrates, that is how matters stand.",
+"kind": "speech"
+},
+{
+"entry": 456,
+"who": "Socrates",
+"text": "Now, once anyone is allowed to add or delete whatever letters they wish from the names, the process becomes very easy, and any name may be associated with any activity.",
+"kind": "speech"
+},
+{
+"entry": 457,
+"who": "Hermogenes",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 458,
+"who": "Socrates",
+"text": "True indeed, but I think you, a wise overseer, should protect measure and likelihood.",
+"kind": "speech"
+},
+{
+"entry": 459,
+"who": "Hermogenes",
+"text": "I would like to do so.",
+"kind": "speech"
+},
+{
+"entry": 460,
+"who": "Socrates",
+"text": "And so would I, Hermogenes, but do not carry the verbal precision too far, blessed man, lest you “weaken my strength”. For I am approaching the summit that I spoke of, once, after ‘skill’, we have investigated ‘mechanism’. Indeed, ‘mechanism’ seems to me to indicate ‘extensive achievement’ (anein epi polu), for ‘mēkos’ (extent) somehow indicates the same thing as ‘epi polu’ (much). So, the word mechanism (mechanē) is composed of these two words, ‘anein’ (to accomplish) and ‘mēkos’ (extent) combined.",
+"kind": "speech"
+},
+{
+"entry": 461,
+"who": "Socrates",
+"text": "But, as I said just now, we need to get to the summit of these deliberations, so we should investigate what the words ‘excellence’ and ‘badness’ actually mean. One of them is not yet clear to me, while the other seems to be obvious since it concurs with the previous examples. Indeed, since things are in motion, all that moves (ion) badly (kakōs) would constitute ‘badness’ (kakia). But when this happens in soul, and soul goes badly to things, this, for the most part, is what is generally called ‘badness’. But I think that what ‘going badly’ actually means is also clear from the word ‘cowardice’ (deilia), which we have overlooked and not yet dealt with, although we should have dealt with it along with courage. I think we have also overlooked many others. Now, cowardice indicates a strong bond of the soul, for ‘lian’ (excess) is a sort of strength. So cowardice (deilia) would be the excessively great bond (desmos) of the soul, and it is bad, just as aporia (not proceeding) is bad, and so too, it seems, is anything that impedes movement and progress. So it appears that this ‘going badly’ is obviously a hindered and impeded motion, and any soul that possesses it becomes filled with badness. Now, if the name ‘badness’ is applied to this sort of thing, then excellence (aretē) would be the opposite of this, indicating, in the first place, ‘proceeding easily’ (euporia), and secondly that the flow of the good soul is always free. And so the unchecked and unimpeded flow has taken this name, it seems, but this name should really be ‘aeireitēn’ (ever flowing), but it has been condensed down and is called ‘aretē’. Now, perhaps you may say that I am making this up, but I maintain that if what I said previously about badness is correct, then this suggestion about the name ‘excellence’ is correct too.",
+"kind": "speech"
+},
+{
+"entry": 462,
+"who": "Hermogenes",
+"text": "What then about the word ‘bad’, which was the basis of much of what you said previously? What does that word mean?",
+"kind": "speech"
+},
+{
+"entry": 463,
+"who": "Socrates",
+"text": "I think, by Zeus, this word is somewhat strange and hard to understand, so in this case too I shall use that approach of mine.",
+"kind": "speech"
+},
+{
+"entry": 464,
+"who": "Hermogenes",
+"text": "What approach?",
+"kind": "speech"
+},
+{
+"entry": 465,
+"who": "Socrates",
+"text": "The approach whereby I declare that this word too is of non-Greek origin.",
+"kind": "speech"
+},
+{
+"entry": 466,
+"who": "Hermogenes",
+"text": "Yes, you’re probably right. So let’s leave these words and try to look at ‘noble’ (kalon) and ‘base’ (aischron) and their reasonableness.",
+"kind": "speech"
+},
+{
+"entry": 467,
+"who": "Socrates",
+"text": "Well, what ‘base’ means seems quite obvious to me, and indeed this concurs with previous examples. For to me it looks as if whoever gave us the names is consistently censuring whatever impedes or restrains things in their flow. So, in this case, he has given this name ‘aeischoroun’ to that which always (aei) restricts (ischei) the flow (roun), but nowadays it is condensed down and called ‘aischron’ (base).",
+"kind": "speech"
+},
+{
+"entry": 468,
+"who": "Hermogenes",
+"text": "What about ‘beautiful’ (kalon)?",
+"kind": "speech"
+},
+{
+"entry": 469,
+"who": "Socrates",
+"text": "This is more difficult to understand. Yet it does speak for itself, except that the letter ‘ō’ has been altered in accent and length.",
+"kind": "speech"
+},
+{
+"entry": 470,
+"who": "Hermogenes",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 471,
+"who": "Socrates",
+"text": "This name seems to designate ‘thought’.",
+"kind": "speech"
+},
+{
+"entry": 472,
+"who": "Hermogenes",
+"text": "How do you mean?",
+"kind": "speech"
+},
+{
+"entry": 473,
+"who": "Socrates",
+"text": "Come on, what do you think is responsible for calling by name each of the things that are? Is it not that which gave the names?",
+"kind": "speech"
+},
+{
+"entry": 474,
+"who": "Hermogenes",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 475,
+"who": "Socrates",
+"text": "And this would be thought, would it not, either of gods or of humans or both?",
+"kind": "speech"
+},
+{
+"entry": 476,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 477,
+"who": "Socrates",
+"text": "And is not that which called things by name the same as that which calls them now, namely thought?",
+"kind": "speech"
+},
+{
+"entry": 478,
+"who": "Hermogenes",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 479,
+"who": "Socrates",
+"text": "Isn’t it also the case that whatever nous and thought bring about is praiseworthy, while anything they do not bring about is blameworthy?",
+"kind": "speech"
+},
+{
+"entry": 480,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 481,
+"who": "Socrates",
+"text": "Does the practice of medicine bring about medical accomplishments, and the practice of carpentry the accomplishments of carpentry? What do you say?",
+"kind": "speech"
+},
+{
+"entry": 482,
+"who": "Hermogenes",
+"text": "I think that this is so.",
+"kind": "speech"
+},
+{
+"entry": 483,
+"who": "Socrates",
+"text": "Then, does the practice of naming (to kaloun) bring about beautiful accomplishments?",
+"kind": "speech"
+},
+{
+"entry": 484,
+"who": "Hermogenes",
+"text": "Yes, it must.",
+"kind": "speech"
+},
+{
+"entry": 485,
+"who": "Socrates",
+"text": "And, according to us, thought (dianoia) is that which names?",
+"kind": "speech"
+},
+{
+"entry": 486,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 487,
+"who": "Socrates",
+"text": "So, this designation ‘beautiful’ (kalon) is, correctly, the name for wisdom (phronēseōs), which brings about the sort of accomplishments which we describe as beautiful, and which we welcome.",
+"kind": "speech"
+},
+{
+"entry": 488,
+"who": "Hermogenes",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 489,
+"who": "Socrates",
+"text": "Now, what names of this sort are still left?",
+"kind": "speech"
+},
+{
+"entry": 490,
+"who": "Hermogenes",
+"text": "Those that are related to the good and noble, such as ‘beneficial’, ‘profitable’, ‘useful’ and ‘advantageous’, and their opposites.",
+"kind": "speech"
+},
+{
+"entry": 491,
+"who": "Socrates",
+"text": "Well, at this stage, I think you should be able to work out the word ‘beneficial’ for yourself, for it appears to be closely related to knowledge. Indeed, it is simply indicating the movement of the soul along with things, and whatever is enacted by such movement has, it seems, been called ‘beneficial’ and ‘a benefit’ (sumphora) because it moves (pheresthai) about (peri) with (sum) (sumperipheresthai) things. The word ‘advantageous’ (kerdaleon) comes from ‘kerdos’ (gain), and restoring the ‘n’ instead of the ‘d’ in the word ‘kerdos’ to form ‘kernos’ reveals what it means, for it is ‘the good’, but in a different form. Indeed, because the good mingles with (kerannutai) and passes through everything, it was given a name (kernos) expressing this power, but a ‘d’ was inserted in place of the ‘n’ and it was spoken as ‘kerdos’ (gain).",
+"kind": "speech"
+},
+{
+"entry": 492,
+"who": "Hermogenes",
+"text": "What about ‘profitable’ (lusitelon)?",
+"kind": "speech"
+},
+{
+"entry": 493,
+"who": "Socrates",
+"text": "It seems, Hermogenes, the name-giver does not use this word as traders do when their investment is released. I don’t think that this is what he means by profitable. Rather, because the good is the swiftest of all, it does not allow things to stand still, nor allow motion to come to an end, stop or pause. It continually sets the motion free, if there is any attempt to bring it to an end, and thus renders the motion unceasing and undying. It is in this sense, I think, that the good is declared to be profitable, for that which releases (luon) the end (telos) of motion is called ‘lusiteloun’ (profitable). ‘Beneficial’ (ōphelimon) is a foreign word which is often used by Homer in the form ‘ophellein’, and this designates ‘increasing’ or ‘making’.",
+"kind": "speech"
+},
+{
+"entry": 494,
+"who": "Hermogenes",
+"text": "What have we to say about the opposites of these?",
+"kind": "speech"
+},
+{
+"entry": 495,
+"who": "Socrates",
+"text": "Those that are simple negations of these words do not, in my opinion, require an explanation.",
+"kind": "speech"
+},
+{
+"entry": 496,
+"who": "Hermogenes",
+"text": "What are those?",
+"kind": "speech"
+},
+{
+"entry": 497,
+"who": "Socrates",
+"text": "‘Unbeneficial’, ‘useless’, ‘unprofitable’ and ‘disadvantageous’.",
+"kind": "speech"
+},
+{
+"entry": 498,
+"who": "Hermogenes",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 499,
+"who": "Socrates",
+"text": "But ‘harmful’ and ‘hurtful’ do require an explanation.",
+"kind": "speech"
+},
+{
+"entry": 500,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 501,
+"who": "Socrates",
+"text": "Well, ‘harmful’ (blaberon) means that which harms (blapton) the flow (roun), while ‘harm’ (blapton), for its part, indicates wanting (boulomenon) to grasp (haptein), and ‘to grasp’ is actually the same as ‘to bind’, which the name-giver consistently censures. Now, that which wishes (boulomenon) to grasp (haptein) the flow (roun) would most correctly be ‘boulapteroun’, but it looks to me as if this has been called ‘blaberon’ to make it sound nicer.",
+"kind": "speech"
+},
+{
+"entry": 502,
+"who": "Hermogenes",
+"text": "Socrates, what elaborate names you come up with! In fact, you seemed to me to be using your mouth just now as a flute to render the prelude to the hymn of Athena as you pronounced ‘boulapteroun’.",
+"kind": "speech"
+},
+{
+"entry": 503,
+"who": "Socrates",
+"text": "Those who gave us the name are responsible for this, Hermogenes, not I.",
+"kind": "speech"
+},
+{
+"entry": 504,
+"who": "Hermogenes",
+"text": "That’s true, but what about ‘hurtful’? What would this be?",
+"kind": "speech"
+},
+{
+"entry": 505,
+"who": "Socrates",
+"text": "Yes, ‘hurtful’, what precisely would that be? Observe, Hermogenes, how true my statement was when I said that by adding and removing letters people significantly alter the intentions of words, so that by making very minor alterations they sometimes make words indicate their direct opposites. Take for instance the word ‘deon’ (obligation).",
+"kind": "speech"
+},
+{
+"entry": 506,
+"who": "Socrates",
+"text": "Indeed, I had this in mind just now, and I was reminded of it by what I was just about to say to you. Our lovely modern language has actually distorted the words ‘deon’ (obligation) and ‘zēmiōdes’ (harmful) to indicate their direct opposites, thus concealing what the word intends, whereas the ancient language reveals what both words intend.",
+"kind": "speech"
+},
+{
+"entry": 507,
+"who": "Hermogenes",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 508,
+"who": "Socrates",
+"text": "I’ll tell you. You know that our ancestors made much use of the letters ‘i’ and ‘d’, especially the women, who are most protective of the ancient language. But nowadays people turn ‘i’ and the ‘e’ into ‘ē’, and the ‘d’ into ‘z’, as these give a loftier sound.",
+"kind": "speech"
+},
+{
+"entry": 509,
+"who": "Hermogenes",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 510,
+"who": "Socrates",
+"text": "For example, people nowadays call ‘day’ ‘hēmera’, whereas ancient speakers called it ‘himera’ in some cases, and ‘hemera’ in others.",
+"kind": "speech"
+},
+{
+"entry": 511,
+"who": "Hermogenes",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 512,
+"who": "Socrates",
+"text": "Now, are you aware that only the ancient name reveals the thinking of the name-giver? For when, from darkness, light has arisen, people are glad and they long (himeirousin) for this, and so they call it ‘himera’.",
+"kind": "speech"
+},
+{
+"entry": 513,
+"who": "Hermogenes",
+"text": "Apparently so.",
+"kind": "speech"
+},
+{
+"entry": 514,
+"who": "Socrates",
+"text": "But nowadays the name is so dramatised that you would not understand what this word means. In fact, some people think that day (hēmera) makes things gentle (hēmera) and has this name for this reason.",
+"kind": "speech"
+},
+{
+"entry": 515,
+"who": "Hermogenes",
+"text": "I believe so.",
+"kind": "speech"
+},
+{
+"entry": 516,
+"who": "Socrates",
+"text": "And you also realise that the people of old called a yoke ‘duogon’ rather than ‘zugon’.",
+"kind": "speech"
+},
+{
+"entry": 517,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 518,
+"who": "Socrates",
+"text": "And although the word ‘zugon’ reveals nothing, that which binds a pair together for the purposes of drawing something is correctly given the name ‘duogon’. But now it is just ‘zugon’. Indeed, there are very many more instances of this.",
+"kind": "speech"
+},
+{
+"entry": 519,
+"who": "Hermogenes",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 520,
+"who": "Socrates",
+"text": "In the same way, the word ‘deon’ (obligation), thus spoken, indicates initially the direct opposite of all the other words associated with the good. For although obligation is a form of good, it appears to be a shackle or an impediment to motion as if it is actually akin to harm.",
+"kind": "speech"
+},
+{
+"entry": 521,
+"who": "Hermogenes",
+"text": "Very much so, Socrates, it does appear that way.",
+"kind": "speech"
+},
+{
+"entry": 522,
+"who": "Socrates",
+"text": "Not if you make use of the ancient name, which is much more likely to be correct than the modern one. In fact, it will be in agreement with our previous words for good if, in place of the ‘e’, you restore the ‘i’, as in the ancient word. For the word ‘diïon’ (going through) indicates the good that the name-giver praises, whereas ‘deon’ (shackle) does not. Accordingly, whoever gave us the names does not contradict himself, and ‘obligation’, ‘useful’, ‘profitable’, ‘advantageous’, ‘good’, ‘beneficial’ and ‘easy’ all appear the same. They are indicating, with different names, that which brings order and that which moves, which is consistently praised, while that which restricts and binds is censured. And indeed, in the case of ‘harmful’ (zēmiōdes), if you restore the ‘d’ in place of the ‘z’, as in the ancient word, it will be evident that this name (dēmiōdes) applies to that which binds (dounti) motion (ion).",
+"kind": "speech"
+},
+{
+"entry": 523,
+"who": "Hermogenes",
+"text": "What about ‘pleasure’ and ‘pain’ and ‘desire’ and names of that sort, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 524,
+"who": "Socrates",
+"text": "These don’t look particularly difficult, Hermogenes. For pleasure (hēdonē) has this name because it is the activity that tends to our advantage (hē onēsis), but a ‘d’ is inserted so that it is called ‘hēdonē’ (pleasure) rather than ‘hēonē’. Pain (lupē) seems to get its name from the breakdown (dialusis) which the body undergoes when experiencing pain.",
+"kind": "speech"
+},
+{
+"entry": 525,
+"who": "Socrates",
+"text": "‘Grief’ (ania) is that which impedes motion (ienai). ‘Suffering’ (algēdōn) looks to me like a foreign word which comes from the word ‘grieving’ (algeinos). ‘Distress’ (odunē) seems to be so called from the entering in (endusis) of pain. In the case of ‘vexation’ (achthēdōn), it is evident to all that the word bears a resemblance to a weight (achtos or baros) imposed upon motion. ‘Joy’ (chara) seems to have been so called from the relaxed and easy motion of the soul. The word ‘delight’ comes from ‘delightful’ (terpnon), which is so called from the gradual motion (herpsis) of the soul, which resembles breath (pnoē) and is rightly called ‘herpnoun’, but over time this has been called ‘terpnon’. The word ‘euphrosunē’ (cheerfulness) requires no further explanation since it is obvious to all that this name derives from the good disposition (eu sumpheresthai) of the soul towards things. Although the right name is ‘eupherosunē’, we call it ‘euphrosunē’ (cheerfulness).",
+"kind": "speech"
+},
+{
+"entry": 526,
+"who": "Socrates",
+"text": "‘Desire’ (epithumia) presents no difficulty either, for this name was obviously given to the power that enters into (epi) the heart (thumos), while ‘thumos’ would get this name from the raging (thusis) and seething (zesis) of the soul. The name ‘himeros’ (longing) is given to the flow (rous) which draws the soul most of all, for it rushes (hiemenos) forth (rhei) and is sent towards (ephiemenos) things, and in so doing it draws the soul forcibly due to the intent of the flow, and because of all this power it is called ‘himeros’ (longing). Now, ‘yearning’ (pothos) indicates that it is not a desire or flow for that which is present, but for that which is elsewhere (allothi pou ontos) or absent (apontos), and so it is then called ‘pothos’ (yearning). So, when someone desires that which is present, this is called ‘longing’, but the same desire is called ‘yearning’ (pothos) when it is for that which is not present.",
+"kind": "speech"
+},
+{
+"entry": 527,
+"who": "Socrates",
+"text": "‘Love’ (erōs) has this name because it flows in from outside, and the flow itself is not native to the person who has it, but is brought in from outside through the eyes. That is why in ancient times it was called ‘esros’ (influx), from the inflowing (esrein), for we used the short ‘o’ then rather than a long ‘ō’, but nowadays it is called ‘erōs’ because of the substitution of these letters. Are there any other names you think we should consider?",
+"kind": "speech"
+},
+{
+"entry": 528,
+"who": "Hermogenes",
+"text": "What about ‘opinion’ and words of that sort? How do these appear to you?",
+"kind": "speech"
+},
+{
+"entry": 529,
+"who": "Socrates",
+"text": "‘Opinion’ (doxa) is either named after the pursuit (diōxis) in which the soul engages when pursuing the knowledge of how things are, or, as is more likely, the shooting (bolē) of the bow (toxon). At any rate, the word ‘thought’ (oiēsis) concurs with this word, for this seems to be pointing to the motion (oisis) of the soul towards all things, as each of the things that are, actually is. Similarly, ‘deliberation’ (boulē) is somehow ‘shooting’ (bolē), while ‘wishing’ (boulesthai) indicates being sent towards (ephiesthai) something, as does ‘deliberating’ (bouleuesthai). All these words appear to follow from ‘opinion’ (doxa) and to bear a resemblance to ‘shooting’ (bolē), as do their opposites. And so ‘lack of deliberation’ (aboulia) seems to be ‘missing the mark’ (atuchia), as if someone failed to shoot or hit whatever was meant, intended or desired.",
+"kind": "speech"
+},
+{
+"entry": 530,
+"who": "Hermogenes",
+"text": "At this stage, Socrates, you seem to be quickening the pace.",
+"kind": "speech"
+},
+{
+"entry": 531,
+"who": "Socrates",
+"text": "Yes, because the end is now in sight. But I would still like to explain ‘compulsory’ and ‘willing’ because these come next. Now ‘willing’ (hekousion), by this name, would be indicating that which yields and does not resist, but, as I say, is yielding to motion (eikon toi ionti) that accords with our will. On the other hand, that which is compulsory and which resists, being contrary to our will, would be associated with error and ignorance and would be like proceeding through a ravine (agkē) which is hard to traverse, rough and overgrown, so that it impedes motion. Accordingly, it may have been called ‘compulsory’ (anagkaion), because it is like a journey through a ravine (agkē). So, as long as the strength is still available to us, let’s keep using it, and you should not give up your questioning.",
+"kind": "speech"
+},
+{
+"entry": 532,
+"who": "Hermogenes",
+"text": "I’ll ask then about the most important and exalted words, ‘truth’, ‘falsehood’ and ‘being’, and ‘name’, the very word with which our present argument is concerned, and why it has this name.",
+"kind": "speech"
+},
+{
+"entry": 533,
+"who": "Socrates",
+"text": "Do you use the word ‘maiesthai’?",
+"kind": "speech"
+},
+{
+"entry": 534,
+"who": "Hermogenes",
+"text": "I do, it means ‘to enquire’.",
+"kind": "speech"
+},
+{
+"entry": 535,
+"who": "Socrates",
+"text": "Well, ‘name’ seems to be a combined word, coming from a phrase that says that “this is being which is the subject of enquiry”. You would recognise this better from the adjective ‘named’ (onomaston), for in that case the word clearly says that this is being (on) about which (hou) there is enquiry (masma). The word ‘truth’ is like the others, for the divine motion of being seems to be referred to by the word ‘truth’ (alētheia), which indicates ‘divine wandering’ (theia alē). ‘Falsehood’ (pseudos) is the opposite of motion, for once again that which is restrained and compelled to be still is censured and likened to people who are asleep (katheudos), but the insertion of the ‘ps’ hides the intention of the name.",
+"kind": "speech"
+},
+{
+"entry": 536,
+"who": "Socrates",
+"text": "‘Being’ (on) and ‘existence’ (ousia) are in agreement with ‘truth’ (alēthes), but the letter ‘i’ has been removed, for ‘being’ (on) indicates ‘moving’ (ion) and ‘not being’ (ouk on) indicates ‘not moving’ (ouk ion), and that indeed is what some people call it.",
+"kind": "speech"
+},
+{
+"entry": 537,
+"who": "Hermogenes",
+"text": "I think, Socrates, that you have split these words apart most courageously, but what if someone were to ask you about this word ‘ion’ (moving) and also ‘rheon’ (flowing) and ‘doun’ (binding), and the correctness of these names?",
+"kind": "speech"
+},
+{
+"entry": 538,
+"who": "Socrates",
+"text": "What answer would we give? Is that what you mean?",
+"kind": "speech"
+},
+{
+"entry": 539,
+"who": "Hermogenes",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 540,
+"who": "Socrates",
+"text": "Well, we adopted one approach to answering such a question earlier, and it seemed to make sense.",
+"kind": "speech"
+},
+{
+"entry": 541,
+"who": "Hermogenes",
+"text": "What approach?",
+"kind": "speech"
+},
+{
+"entry": 542,
+"who": "Socrates",
+"text": "Saying that any word we do not recognise must be of non-Greek origin. Now it may well be true that some of these words are indeed of this sort, but on the other hand it could also be the case that our first words are so old they are undiscovered. Indeed, because words are distorted in all sorts of ways, it would be no surprise if our ancient language did not differ at all from the modern foreign tongue.",
+"kind": "speech"
+},
+{
+"entry": 543,
+"who": "Hermogenes",
+"text": "Yes, that’s a reasonable suggestion.",
+"kind": "speech"
+},
+{
+"entry": 544,
+"who": "Socrates",
+"text": "Yes, quite likely. However, “once the game is on, no excuses are accepted”, so we should press on eagerly with our enquiry. But we should reflect that if someone repeatedly asks what a name is composed of, and then goes on to ask what the components themselves are composed of, and keeps on doing this without stopping, won’t the person who has to answer eventually be forced to give up?",
+"kind": "speech"
+},
+{
+"entry": 545,
+"who": "Hermogenes",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 546,
+"who": "Socrates",
+"text": "So, when would it be right to give up and stop? Would it not be when we arrive at those names that are like elements of the other words and names? For if they are indeed elements, it is presumably no longer right to suppose they are constituted from other names. For example, we said just now that ‘agathon’ (good) was a combination of ‘agastos’ (admirable) and ‘thoos’ (fast). And we might say that ‘thoos’ is, in turn, composed of some other words. But if we ever get to a word that is not composed of other words, we would be right to maintain at that stage that this word is already an element, and we should no longer refer this back to other words.",
+"kind": "speech"
+},
+{
+"entry": 547,
+"who": "Hermogenes",
+"text": "Yes, I think you’re right.",
+"kind": "speech"
+},
+{
+"entry": 548,
+"who": "Socrates",
+"text": "So is it perhaps the case that those very names you are asking about are elements, and it is therefore necessary to consider where the correctness lies by some other means?",
+"kind": "speech"
+},
+{
+"entry": 549,
+"who": "Hermogenes",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 550,
+"who": "Socrates",
+"text": "Likely indeed, Hermogenes. At any rate, all our previous names appear to have been broken down into these elements. And if this is the case, as I think it is, then please continue the joint investigation along with me, in case I start talking nonsense as I explain the correctness of the first names.",
+"kind": "speech"
+},
+{
+"entry": 551,
+"who": "Hermogenes",
+"text": "Speak on and I shall join you in the enquiry to the best of my ability.",
+"kind": "speech"
+},
+{
+"entry": 552,
+"who": "Socrates",
+"text": "I think you agree with me that there is but one kind of correctness belonging to any name, first or subsequent, and that names do not differ in being names.",
+"kind": "speech"
+},
+{
+"entry": 553,
+"who": "Hermogenes",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 554,
+"who": "Socrates",
+"text": "But at least in the case of the names we have gone through, the correctness consisted, more or less, in the intention to show what some particular thing is like.",
+"kind": "speech"
+},
+{
+"entry": 555,
+"who": "Hermogenes",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 556,
+"who": "Socrates",
+"text": "And this must be the case for the first names and for the subsequent names too, if they are indeed to be names.",
+"kind": "speech"
+},
+{
+"entry": 557,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 558,
+"who": "Socrates",
+"text": "But the subsequent names, it seems, were able to accomplish this through the first ones.",
+"kind": "speech"
+},
+{
+"entry": 559,
+"who": "Hermogenes",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 560,
+"who": "Socrates",
+"text": "Well then, in the case of the first names which are no longer based upon other names, if they are to be names, how can they, as best they can, make things as apparent to us as possible? Answer this question for me. If we had neither voice nor tongue, but we wished to indicate things to one another, would we not act like people who cannot speak and try to make signs with our hands and head and the rest of our body?",
+"kind": "speech"
+},
+{
+"entry": 561,
+"who": "Hermogenes",
+"text": "What else could we do, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 562,
+"who": "Socrates",
+"text": "So, if we wished to indicate something above or light, I think we might raise a hand to the heavens indicating the nature of that thing; and in the case of something below or heavy, we might gesture towards the earth. If we wished to indicate a running horse or some other animal, I am sure we would make our bodies and our behaviour resemble theirs as much as we possibly could.",
+"kind": "speech"
+},
+{
+"entry": 563,
+"who": "Hermogenes",
+"text": "Yes, I think this must be so.",
+"kind": "speech"
+},
+{
+"entry": 564,
+"who": "Socrates",
+"text": "For this, I believe, is how any indication of anything would arise. It would, it seems, occur by bodily imitation of whatever we wish to indicate.",
+"kind": "speech"
+},
+{
+"entry": 565,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 566,
+"who": "Socrates",
+"text": "But when we wish to give an indication with our voice, tongue and mouth, won’t something that emerges from these be an indication of the thing for us, once an indication of anything has been produced by means of these three?",
+"kind": "speech"
+},
+{
+"entry": 567,
+"who": "Hermogenes",
+"text": "That seems necessary to me.",
+"kind": "speech"
+},
+{
+"entry": 568,
+"who": "Socrates",
+"text": "So a name, it seems, is an imitation, by voice, of that which is imitated, and whoever is imitating with the voice is naming whatever is being imitated.",
+"kind": "speech"
+},
+{
+"entry": 569,
+"who": "Hermogenes",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 570,
+"who": "Socrates",
+"text": "But, by Zeus, my friend, I don’t think I am yet expressing this correctly.",
+"kind": "speech"
+},
+{
+"entry": 571,
+"who": "Hermogenes",
+"text": "Why not?",
+"kind": "speech"
+},
+{
+"entry": 572,
+"who": "Socrates",
+"text": "Because we could be forced to accept that those who imitate sheep and cocks and other animals are naming whatever creatures they are imitating.",
+"kind": "speech"
+},
+{
+"entry": 573,
+"who": "Hermogenes",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 574,
+"who": "Socrates",
+"text": "Now, do you think it is correct to accept this?",
+"kind": "speech"
+},
+{
+"entry": 575,
+"who": "Hermogenes",
+"text": "No, I do not. But, Socrates, what sort of an imitation would a name be?",
+"kind": "speech"
+},
+{
+"entry": 576,
+"who": "Socrates",
+"text": "Well, firstly, when imitating things just as we do when using music, I don’t think we are imitating them by using names, even though we are in that case imitating them by using our voice. Secondly, when we imitate the things that music imitates, I don’t think we are naming them. What I am saying is this. Does each thing have sound and shape, and in many cases, colour too?",
+"kind": "speech"
+},
+{
+"entry": 577,
+"who": "Hermogenes",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 578,
+"who": "Socrates",
+"text": "Well, no skill in naming seems to be involved in imitating these properties. In fact, the relevant skill for these is either music or painting. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 579,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 580,
+"who": "Socrates",
+"text": "What about this, then? Does it not seem to you that each thing also has an essence, just as it has colour and the other properties we just mentioned? Firstly, in the case of colour and sound, is there not an essence of each, and also of anything else to which being may properly be attributed?",
+"kind": "speech"
+},
+{
+"entry": 581,
+"who": "Hermogenes",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 582,
+"who": "Socrates",
+"text": "Well then, if someone were able to imitate this very essence belonging to each thing by means of letters and syllables, wouldn’t he be indicating what each thing is? Isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 583,
+"who": "Hermogenes",
+"text": "It certainly is.",
+"kind": "speech"
+},
+{
+"entry": 584,
+"who": "Socrates",
+"text": "And what about the person who is able to do this? What would you say this person is, just as you said the previous two were the musician and the painter?",
+"kind": "speech"
+},
+{
+"entry": 585,
+"who": "Hermogenes",
+"text": "I think, Socrates, that this is the very person we have been looking for all along, the namer.",
+"kind": "speech"
+},
+{
+"entry": 586,
+"who": "Socrates",
+"text": "So, if this is true, we should, it seems, enquire at this stage into those names you asked about, ‘flow’ (rhoē), ‘going’ (ienai), ‘holding’ (schesis), and whether or not the namer grasps the being of these by means of the letters and syllables, so as to imitate the essence.",
+"kind": "speech"
+},
+{
+"entry": 587,
+"who": "Hermogenes",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 588,
+"who": "Socrates",
+"text": "Come on then, let’s see whether these are the only first names or whether there are many others too.",
+"kind": "speech"
+},
+{
+"entry": 589,
+"who": "Hermogenes",
+"text": "Well, I think that there are others.",
+"kind": "speech"
+},
+{
+"entry": 590,
+"who": "Socrates",
+"text": "Quite likely. But what would be the manner of division from which the imitator sets about imitating? Or, since the imitation of the essence happens to consist of syllables and letters, would it not be most correct to divide off the elements first, just as those who deal with rhythms first separate off the powers of the elements, then the powers of the syllables, and only at that stage do they investigate the rhythms?",
+"kind": "speech"
+},
+{
+"entry": 591,
+"who": "Hermogenes",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 592,
+"who": "Socrates",
+"text": "Accordingly, should we too first separate off the vowels, then, on the basis of their different kinds, the consonants and the mutes, as the experts on these matters presumably call them?",
+"kind": "speech"
+},
+{
+"entry": 593,
+"who": "Socrates",
+"text": "Should we also do the same for those that are neither vowels nor mutes, and for the vowels themselves that differ in kind from one another? Once we have properly separated these off, we should proceed to give names to everything that needs to be named, provided there are names to which they are all referred back, just as words are referred back to letters. From these names it is possible to look at the things and see where these come from, and whether there are kinds among the things in the same way that there are among the letters.",
+"kind": "speech"
+},
+{
+"entry": 594,
+"who": "Socrates",
+"text": "Once we have examined all these aright, we shall know how to apply each letter based upon likeness, whether one letter should be applied to one thing, or many should be combined. In this we are like painters, who, wishing to create a likeness, sometimes apply purple just by itself, sometimes some other pigment, and on occasion they mix many pigments – as when, for instance, they wish to produce a flesh-coloured pigment or something of that sort, presumably applying the particular pigment that the relevant image seems to require.",
+"kind": "speech"
+},
+{
+"entry": 595,
+"who": "Socrates",
+"text": "We too shall apply the letters to the things in this way, one letter to one thing when that’s what seems to be required, or combining many letters to form what are called syllables, or indeed combining syllables to form nouns and verbs. Or again, we might construct a great and noble whole from the nouns and verbs, forming a sentence by means of the skill of naming or rhetoric, or whatever the skill may be, just as in the other example we constructed the animal by means of artistic skill. Of course, I am not speaking of ourselves; I got carried away by the argument. The ancients combined the letters in the way in which they are now combined, while we, for our part, if we are to arrive at a systematic understanding of all this, should, once the words have been divided in this way, see whether or not the first names and the subsequent ones too are correctly assigned.",
+"kind": "speech"
+},
+{
+"entry": 596,
+"who": "Socrates",
+"text": "Otherwise, my dear Hermogenes, the connection of words to things will be poor and unsystematic.",
+"kind": "speech"
+},
+{
+"entry": 597,
+"who": "Hermogenes",
+"text": "By Zeus, Socrates, you may well be right.",
+"kind": "speech"
+},
+{
+"entry": 598,
+"who": "Socrates",
+"text": "What about this? Do you believe that you could divide these words in this way yourself? I know I could not.",
+"kind": "speech"
+},
+{
+"entry": 599,
+"who": "Hermogenes",
+"text": "In that case, I certainly couldn’t do it.",
+"kind": "speech"
+},
+{
+"entry": 600,
+"who": "Socrates",
+"text": "So, should we leave it at that, or would you prefer that we do the best we can, make an effort, and see if we can get even a little insight into these matters? Earlier we announced to the gods that we knew nothing of the truth and were really presenting the opinions of us humans about them. Should we do the same thing now and proceed by telling ourselves that if we, or anyone else at all, are to divide these words, they should be divided as we have described, while we now need to apply ourselves to these matters to the best of our so-called ability? Do you agree, or what do you say?",
+"kind": "speech"
+},
+{
+"entry": 601,
+"who": "Hermogenes",
+"text": "I couldn’t agree more, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 602,
+"who": "Socrates",
+"text": "Although it may appear absurd, Hermogenes, that things become manifest by being imitated with letters and syllables, this must nevertheless be so. For we do not have any better principle upon which we may base the truth of the first names, unless you would prefer the method adopted by tragedians when they get into difficulties and use stage machinery to introduce the gods. We could act similarly and solve our problem by saying that the gods gave us the first names, and they are correct for this reason. So, is this the best argument we have? Or is our argument that we have acquired these names from some non-Greek peoples, and non-Greeks are more ancient peoples than ourselves? Or is it impossible to investigate these words because they are so ancient, and does the same hold for the foreign words?",
+"kind": "speech"
+},
+{
+"entry": 603,
+"who": "Socrates",
+"text": "Indeed, these would all be very elegant evasions by someone who was unwilling to present an argument as to where the correctness of the first names lies. And it is presumably impossible for someone, who for whatever reason knows nothing about the correctness of the first names, to know about the subsequent names which are explained by first names which he knows nothing about. It is obvious, rather, that anyone who claims to be knowledgeable about the subsequent names, must first and foremost be able to explain the first names, or rest assured he will already be talking nonsense about the subsequent ones. Do you disagree?",
+"kind": "speech"
+},
+{
+"entry": 604,
+"who": "Hermogenes",
+"text": "Not at all, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 605,
+"who": "Socrates",
+"text": "Well, any observations of mine about the first names really seem presumptuous and absurd. Now, although I am prepared to share them with you, if you wish, you should also make an effort to share with me if you have anything better.",
+"kind": "speech"
+},
+{
+"entry": 606,
+"who": "Hermogenes",
+"text": "I shall do so, but you should take courage and speak on.",
+"kind": "speech"
+},
+{
+"entry": 607,
+"who": "Socrates",
+"text": "Well, in the first place, the letter ‘r’ appears to me like an instrument of all motion, although we have not explained why ‘motion’ (kinēsis) has this name. Now ‘kinēsis’ (motion) should obviously be ‘hesis’ (going toward), for in ancient times we did not use the letter ‘ē’ but the letter ‘e’. And this word ‘kinēsis’ (motion) starts with ‘kiein’, a foreign word that means ‘to go’. So we would find that the ancient word corresponding to the modern word would more correctly be ‘hesis’. But nowadays, from the foreign word ‘kiein’ and from the change of ‘e’ to ‘ē’ and the insertion of ‘n’, it has been called ‘kinēsis’, although the word should be ‘kieinēsis’. The word rest (stasis) means the negation of motion, but to make it sound nicer, it has been called ‘stasis’. The letter ‘r’, as I was saying, seemed to the name-giver to be a good instrument of motion for the purposes of imitating movement, and he often uses it accordingly. Firstly, in the words flowing (rhein) and flow (rhoē), themselves, he imitates their movement by means of this letter. Then, in the word ‘tromos’ (trembling), ‘trechein’ (running) and in such verbs as ‘krouein’ (striking), ‘thrauein’ (breaking), ‘ereikein’ (tearing), ‘thruptein’ (crushing), ‘kermatizein’ (crumbling), ‘rhumbein’ (whirling), he gives expression to all these, for the most part, by means of the letter ‘r’. For I think he observed that with this letter, the tongue is least at rest and most agitated, which seems to be the reason why he used this letter for these words. Again, he uses the letter ‘i’ for everything subtle that passes through all things. That is why he imitates ‘ienai’ (going) and ‘hiesthai’ (rushing) by the letter ‘i’, just as he uses ‘ph’ and ‘ps’ and ‘s’ and ‘z’, which involve a lot of breath, to imitate everything of this sort, in words such as ‘psuchron’ (cold), ‘zeon’ (boiling), ‘seiesthai’ (shaking) and ‘seismos’ (shock). Indeed, the giver of names, whenever he imitates anything that involves wind, always appears to introduce letters of this sort. Then again, it looks as if he regarded the force of the compression and pressure of the tongue associated with ‘d’ and ‘t’ as useful for imitating ‘binding’ (desmos) and ‘stopping’ (stasis). Noticing that the tongue glides most of all in pronouncing ‘l’, he imitated this in the words ‘leia’ (smooth), in the word ‘gliding’ (olisthanein) itself, and the words ‘liparon’ (sleek) and ‘kollōdes’ (viscous), and various other words like these. By the force of the letter ‘g’, which opposes the gliding of the tongue, he imitated ‘glischros’ (sticky), ‘glukus’ (sweet) and ‘gloiōdes’ (glutinous).",
+"kind": "speech"
+},
+{
+"entry": 608,
+"who": "Socrates",
+"text": "Again, observing that the letter ‘n’ is sounded within, he gave us the words ‘endon’ (inside) and ‘entos’ (within), producing a likeness to these by means of the letters, and again he used ‘a’ for the word ‘mega’ (large) and ‘ē’ for ‘mēkos’ (length) because these letters are long. Because he needed the letter ‘o’ to indicate roundness, he mixed a lot of this letter into the word ‘gongulos’ (round). In this way, the convention-setter, it appears, made the other letters into resemblances, making an indication or a name for each of the things that are with letters and syllables, and from these he then compounded the rest of the names by a process of imitation using these names. This, as I see it, Hermogenes, is what it means for names to be correct, unless Cratylus has an alternative suggestion.",
+"kind": "speech"
+},
+{
+"entry": 609,
+"who": "Hermogenes",
+"text": "Well, Socrates, as I said at the outset, Cratylus often bothers me quite a lot, maintaining that there is a correctness of names without clarifying what it is, and so I’m unable to decide whether his lack of clarity when speaking about them is intentional or unintentional. So, Cratylus, tell me now, with Socrates present, if you accept what he says about names or do you have something better to offer? And if you have, do please tell us so that you may either learn from Socrates, or else instruct both of us.",
+"kind": "speech"
+},
+{
+"entry": 610,
+"who": "Cratylus",
+"text": "What’s this Hermogenes? Do you think it is easy to learn any subject so quickly, or to teach it either, especially a subject like this which seems to be one of the most important?",
+"kind": "speech"
+},
+{
+"entry": 611,
+"who": "Hermogenes",
+"text": "By Zeus, I do not. But I think that Hesiod put it well when he said that “even a little added to a little is worthwhile”. So if you are able to make even a little progress, please make the effort and be kind to Socrates, as you should, and to me too.",
+"kind": "speech"
+},
+{
+"entry": 612,
+"who": "Socrates",
+"text": "What is more, Cratylus, I myself would not be insistent upon anything I have said. I have only expressed what occurred to me in the enquiry with Hermogenes, and so you should take heart, and if you have something better to suggest then rest assured I shall accept it. In fact, I would not be surprised if you had a better suggestion. I believe you have investigated such matters yourself and have learned from others too. Indeed, if you do have a better suggestion, please enrol me too as one of your pupils in the subject of the correctness of names.",
+"kind": "speech"
+},
+{
+"entry": 613,
+"who": "Cratylus",
+"text": "Well, Socrates, as you say, I certainly have studied these matters, and I might well make a student of you. But I fear that the exact opposite is the case, and it occurs to me to address you as Achilles addressed Ajax in the Prayers, where he says:",
+"kind": "speech"
+},
+{
+"entry": 614,
+"who": "Cratylus",
+"text": "Son of Telamon, seed of Zeus, Aias, lord of the people:",
+"kind": "speech"
+},
+{
+"entry": 615,
+"who": "Cratylus",
+"text": "all that you have said seems spoken after my own mind. Indeed, Socrates, you seem to be delivering prophetic utterances that are more or less after my own mind, whether you have been inspired by Euthyphro or some other Muse who has long dwelt unnoticed within you.",
+"kind": "speech"
+},
+{
+"entry": 616,
+"who": "Socrates",
+"text": "My dear Cratylus, I myself have long been amazed at my own wisdom, and doubtful of it too. So I think it is necessary to reconsider anything I have said. Indeed, the most grievous deception of all is self-deception. For when the deceiver is never far away but is everpresent, what could be more terrible? We should then, it seems, constantly revisit what has been said previously, and attempt, as the poet says, “to look forwards and backwards simultaneously”. And so we should now look at what we ourselves have said.",
+"kind": "speech"
+},
+{
+"entry": 617,
+"who": "Socrates",
+"text": "We maintain that the correctness of a name consists in the fact that it indicates the sort of thing it names. Should we declare that this is an adequate statement?",
+"kind": "speech"
+},
+{
+"entry": 618,
+"who": "Cratylus",
+"text": "Very much so, Socrates, in my opinion.",
+"kind": "speech"
+},
+{
+"entry": 619,
+"who": "Socrates",
+"text": "So names are spoken for the purposes of instruction?",
+"kind": "speech"
+},
+{
+"entry": 620,
+"who": "Cratylus",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 621,
+"who": "Socrates",
+"text": "And should we say that this is a skill and that there are exponents of this skill?",
+"kind": "speech"
+},
+{
+"entry": 622,
+"who": "Cratylus",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 623,
+"who": "Socrates",
+"text": "Who are they?",
+"kind": "speech"
+},
+{
+"entry": 624,
+"who": "Cratylus",
+"text": "The very people you spoke of at the outset – the convention-setters.",
+"kind": "speech"
+},
+{
+"entry": 625,
+"who": "Socrates",
+"text": "Now, does this skill arise in people in the same way as the other skills, or does it not? What I mean to ask is, in the case of painters, some are better while others are worse, are they not?",
+"kind": "speech"
+},
+{
+"entry": 626,
+"who": "Cratylus",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 627,
+"who": "Socrates",
+"text": "Don’t the better painters produce better works of art while the others produce inferior works? And doesn’t the same hold for builders; some construct fine houses, others poorer ones?",
+"kind": "speech"
+},
+{
+"entry": 628,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 629,
+"who": "Socrates",
+"text": "Now, do some convention-setters produce fine products, others inferior products?",
+"kind": "speech"
+},
+{
+"entry": 630,
+"who": "Cratylus",
+"text": "No, I don’t think this is still the case here.",
+"kind": "speech"
+},
+{
+"entry": 631,
+"who": "Socrates",
+"text": "So you don’t think that some conventions are better, while others are inferior?",
+"kind": "speech"
+},
+{
+"entry": 632,
+"who": "Cratylus",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 633,
+"who": "Socrates",
+"text": "Neither then do you accept, it seems, that one name is worse while another is better?",
+"kind": "speech"
+},
+{
+"entry": 634,
+"who": "Cratylus",
+"text": "Indeed not.",
+"kind": "speech"
+},
+{
+"entry": 635,
+"who": "Socrates",
+"text": "So all names are given correctly?",
+"kind": "speech"
+},
+{
+"entry": 636,
+"who": "Cratylus",
+"text": "Well, those that are, really are names, at any rate.",
+"kind": "speech"
+},
+{
+"entry": 637,
+"who": "Socrates",
+"text": "What about the question that was asked earlier about our friend Hermogenes here? Is this not his name, unless he happens to have been born of Hermes, or does he have that name although it is incorrect?",
+"kind": "speech"
+},
+{
+"entry": 638,
+"who": "Cratylus",
+"text": "In my opinion, Socrates, he does not have that name, although it seems that he has. This name belongs to someone else who possesses the appropriate nature.",
+"kind": "speech"
+},
+{
+"entry": 639,
+"who": "Socrates",
+"text": "When someone says that this is Hermogenes, is he not even lying? Indeed, could there even be a statement that “this is Hermogenes” if he is not Hermogenes?",
+"kind": "speech"
+},
+{
+"entry": 640,
+"who": "Cratylus",
+"text": "How do you mean?",
+"kind": "speech"
+},
+{
+"entry": 641,
+"who": "Socrates",
+"text": "Is it totally impossible to speak falsehood? Is this the point of your argument? For there are lots of people, nowadays and of old, who say this, my dear Cratylus.",
+"kind": "speech"
+},
+{
+"entry": 642,
+"who": "Cratylus",
+"text": "Indeed so, Socrates. How could anyone, saying whatever is said, not speak what is? But to speak falsehood is not to speak what is. Is this not the case?",
+"kind": "speech"
+},
+{
+"entry": 643,
+"who": "Socrates",
+"text": "Your argument is too clever for me at my age, my friend. Nevertheless, answer me this. Do you think it is impossible to speak falsehood but possible to state it?",
+"kind": "speech"
+},
+{
+"entry": 644,
+"who": "Hermogenes",
+"text": "No, I don’t think it is possible to state it either.",
+"kind": "speech"
+},
+{
+"entry": 645,
+"who": "Socrates",
+"text": "Is it possible, then, to say or declare it? For instance, if someone who met you abroad were to take you by the hand and say, “Greetings stranger from Athens, Hermogenes, son of Smikrion”, would that person be speaking all this, or stating it, or saying it, or declaring it to Hermogenes here and not to you, or to nobody?",
+"kind": "speech"
+},
+{
+"entry": 646,
+"who": "Cratylus",
+"text": "In my opinion, Socrates, the person would be uttering all this at random.",
+"kind": "speech"
+},
+{
+"entry": 647,
+"who": "Socrates",
+"text": "A welcome response indeed. Now, would whatever is uttered be true or false, or would some of it be true, some of it false? A response to this would suffice.",
+"kind": "speech"
+},
+{
+"entry": 648,
+"who": "Cratylus",
+"text": "As I see it, such a person is making noises, acting in vain, like someone banging a brass pot.",
+"kind": "speech"
+},
+{
+"entry": 649,
+"who": "Socrates",
+"text": "Well, let’s see if we can somehow come to an agreement, Cratylus. Would you maintain that the name is one thing, while that of which it is the name is something else?",
+"kind": "speech"
+},
+{
+"entry": 650,
+"who": "Cratylus",
+"text": "I would.",
+"kind": "speech"
+},
+{
+"entry": 651,
+"who": "Socrates",
+"text": "Would you agree that the name is an imitation of the thing?",
+"kind": "speech"
+},
+{
+"entry": 652,
+"who": "Cratylus",
+"text": "Most emphatically.",
+"kind": "speech"
+},
+{
+"entry": 653,
+"who": "Socrates",
+"text": "Wouldn’t you also say that paintings, in a different way, are also imitations of certain things?",
+"kind": "speech"
+},
+{
+"entry": 654,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 655,
+"who": "Socrates",
+"text": "Bear with me then, for I may well be misunderstanding what you are saying, although you may perhaps be right. Is it possible to allocate or apply both these imitations, the paintings and those names, to the things of which they are imitations?",
+"kind": "speech"
+},
+{
+"entry": 656,
+"who": "Cratylus",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 657,
+"who": "Socrates",
+"text": "Consider this question first. Is it possible to assign the image of a man to a man, and that of a woman to a woman, and so on?",
+"kind": "speech"
+},
+{
+"entry": 658,
+"who": "Cratylus",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 659,
+"who": "Socrates",
+"text": "Isn’t it also possible to do the opposite and assign the image of the man to the woman, and that of the woman to the man?",
+"kind": "speech"
+},
+{
+"entry": 660,
+"who": "Cratylus",
+"text": "Indeed so.",
+"kind": "speech"
+},
+{
+"entry": 661,
+"who": "Socrates",
+"text": "And are both these allocations correct, or only the first?",
+"kind": "speech"
+},
+{
+"entry": 662,
+"who": "Cratylus",
+"text": "Only the first.",
+"kind": "speech"
+},
+{
+"entry": 663,
+"who": "Socrates",
+"text": "The one that presumably assigns to each the image that is appropriate to it, or is like it.",
+"kind": "speech"
+},
+{
+"entry": 664,
+"who": "Cratylus",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 665,
+"who": "Socrates",
+"text": "Well, since you and I are friends, to avoid a dispute over words I’ll explain what I mean. I call the first example of both imitations, with paintings or with names, correct, my friend, while in the case of names I call it both correct and true. In the second example, I call the unlike assignment and application incorrect, and I call it false too when it involves names.",
+"kind": "speech"
+},
+{
+"entry": 666,
+"who": "Cratylus",
+"text": "That may well be so, Socrates, in the case of paintings but not in the case of names; they are always of necessity correctly assigned.",
+"kind": "speech"
+},
+{
+"entry": 667,
+"who": "Socrates",
+"text": "How do you mean? What’s the difference between the two? Is it not possible for me to meet a man, say to him, “This is your portrait”, and show him what happens to be his own image, or what happens to be that of a woman? And by ‘show’ I mean bring to his visual awareness.",
+"kind": "speech"
+},
+{
+"entry": 668,
+"who": "Cratylus",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 669,
+"who": "Socrates",
+"text": "Why, then, is it not possible for me to meet the same man once more and say, “This is your name”? The name is also presumably an image, as is the painting. So my question is, why can’t I say to him, “This is your name”, and after this, again, bring before his sense of hearing what happens to be his own image and say ‘man’, and then an image of what happens to be a female human being, and say ‘woman’? Don’t you think this is possible, and sometimes happens?",
+"kind": "speech"
+},
+{
+"entry": 670,
+"who": "Cratylus",
+"text": "I am prepared to agree with you, Socrates. Let it be so.",
+"kind": "speech"
+},
+{
+"entry": 671,
+"who": "Socrates",
+"text": "You are doing well, my friend, if this is indeed so, for there is no longer any need to argue over this. If there is an allocation of this sort, in this case too we might wish to call the first of these examples ‘speaking the truth’, and the second ‘speaking falsehood’.",
+"kind": "speech"
+},
+{
+"entry": 672,
+"who": "Socrates",
+"text": "But if this is how matters stand and it is possible to allocate names incorrectly, or not assign appropriate names to each object, or sometimes assign inappropriate names, then the same argument would apply also to verbs. And if verbs and nouns can be applied in this way, the same must hold for sentences, since sentences are, I presume, a combination of these two. What do you say, Cratylus?",
+"kind": "speech"
+},
+{
+"entry": 673,
+"who": "Cratylus",
+"text": "Just that. I think you are right.",
+"kind": "speech"
+},
+{
+"entry": 674,
+"who": "Socrates",
+"text": "Now if we liken the first names to sketches, then it is possible, as in paintings, to assign all of the appropriate colours and shapes, or then again, not all of them, for some may be omitted, or some may be added in, or be excessive or overdone. Isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 675,
+"who": "Cratylus",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 676,
+"who": "Socrates",
+"text": "Now whoever assigns all of them assigns good sketches and images, while anyone who adds anything in or subtracts anything still produces sketches and images, but they are inferior. Isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 677,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 678,
+"who": "Socrates",
+"text": "What about the person who imitates the being of things by means of syllables and letters? By the same argument, won’t the image, which is the name, be good provided he assigns everything that is appropriate? But if he ever omits something or adds something in, an image will be produced but it will not be good. So, won’t some of the names be well produced, while others will be badly produced?",
+"kind": "speech"
+},
+{
+"entry": 679,
+"who": "Cratylus",
+"text": "Perhaps so.",
+"kind": "speech"
+},
+{
+"entry": 680,
+"who": "Socrates",
+"text": "So perhaps one artificer of names will be good, while another will be bad?",
+"kind": "speech"
+},
+{
+"entry": 681,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 682,
+"who": "Socrates",
+"text": "And the name of this artificer is ‘convention-setter’.",
+"kind": "speech"
+},
+{
+"entry": 683,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 684,
+"who": "Socrates",
+"text": "So perhaps, by Zeus, as with other skills, one convention-setter will be good, another bad, if we accept those previous conclusions.",
+"kind": "speech"
+},
+{
+"entry": 685,
+"who": "Cratylus",
+"text": "Quite so. But you see, Socrates, whenever we assign these letters, ‘a’ or ‘b’, or any of the elements, to the names by means of the skill of grammar, and we omit or add in or transpose anything, we do not write the name incorrectly; rather, we do not even write it at all. Once it undergoes any of these alterations it is immediately different.",
+"kind": "speech"
+},
+{
+"entry": 686,
+"who": "Socrates",
+"text": "Well, Cratylus, are we perhaps not conducting this enquiry in the right way?",
+"kind": "speech"
+},
+{
+"entry": 687,
+"who": "Cratylus",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 688,
+"who": "Socrates",
+"text": "Perhaps, whatever must of necessity be some number, or not be anything, might be characterised as you describe, just as ten itself, or any other number you please, immediately becomes a different number once you subtract anything or add anything.",
+"kind": "speech"
+},
+{
+"entry": 689,
+"who": "Socrates",
+"text": "But this, I suspect, is not the actual correctness of something qualitative, or of image in general. Rather, on the contrary, if the image is to be an image, it absolutely must not assign all the qualities of whatever it is imitating. You decide if this makes sense. Would there be two things – Cratylus, and an image of Cratylus – if some god were to imitate not only your complexion and form as painters do, but made all that is inside it just as it is within you, assigned the same softness and bodily warmth, and imparted to all this the motion and soul and intelligence that you have, and in short, placed something else alongside you possessing all the qualities you possess? Would there then be Cratylus and his image, or would there be two Cratyluses?",
+"kind": "speech"
+},
+{
+"entry": 690,
+"who": "Cratylus",
+"text": "I think there would be two Cratyluses, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 691,
+"who": "Socrates",
+"text": "Now do you see, my friend, that we need to look for another correctness of image and of whatever we spoke of just now, and should not insist that if anything is omitted or added in, it is no longer an image? Or are you unaware of the extent to which images fall short of possessing the same properties as whatever they are images of?",
+"kind": "speech"
+},
+{
+"entry": 692,
+"who": "Cratylus",
+"text": "I am aware.",
+"kind": "speech"
+},
+{
+"entry": 693,
+"who": "Socrates",
+"text": "Well, Cratylus, the consequences arising from names, for the things they name, would be absurd if they resembled them entirely in every respect. For everything would presumably become double, and it would not be possible to say which of them was the thing itself, and which was the name.",
+"kind": "speech"
+},
+{
+"entry": 694,
+"who": "Cratylus",
+"text": "That’s true.",
+"kind": "speech"
+},
+{
+"entry": 695,
+"who": "Socrates",
+"text": "Then be courageous enough, my noble friend, to accept that a name can be well given or not well given, and do not insist that it must include all the letters in order to be exactly like whatever it names, but allow an inappropriate letter to be brought in. And if this is so for a letter, then let it be so for the name in a phrase, and if for a phrase, then accept that an inappropriate phrase may be brought into a sentence and that the thing is no less named and spoken of provided the impression of the thing the sentence is concerned with is included. This, if you recall, is what happens with the names of the letters as Hermogenes and I explained earlier.",
+"kind": "speech"
+},
+{
+"entry": 696,
+"who": "Cratylus",
+"text": "Yes, I remember.",
+"kind": "speech"
+},
+{
+"entry": 697,
+"who": "Socrates",
+"text": "Very well. Indeed, once this impression is included, even if everything appropriate is not present, the thing will still be described well when all are present, badly when few are present. Now, we should accept this, my friend, so that we don’t get caught like people who roam the streets of Aegina late at night. Indeed, we too may seem, in truth, to have come to these matters later than we should, but the alternative is to search for another correctness of a name, and not accept that a name is an indication of the thing by means of syllables and letters. For if you make both of these assertions, you will be unable to be consistent with yourself.",
+"kind": "speech"
+},
+{
+"entry": 698,
+"who": "Cratylus",
+"text": "Well, Socrates, what you are saying sounds reasonable to me and I accept it.",
+"kind": "speech"
+},
+{
+"entry": 699,
+"who": "Socrates",
+"text": "Well, since we are agreed on these matters, let’s consider the following question. Do we maintain that a name should contain the appropriate letters in order to be well given?",
+"kind": "speech"
+},
+{
+"entry": 700,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 701,
+"who": "Socrates",
+"text": "Are the appropriate letters those that are like the things that are named?",
+"kind": "speech"
+},
+{
+"entry": 702,
+"who": "Cratylus",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 703,
+"who": "Socrates",
+"text": "So, those that are well given are given in this way. But if some name is not well given, it may still be composed mostly of appropriate letters that are like the things named, if it is indeed to be an image, but it may also contain something inappropriate because of which the name would be neither good, nor well made. Is this our position, or is it otherwise?",
+"kind": "speech"
+},
+{
+"entry": 704,
+"who": "Cratylus",
+"text": "I don’t think there is any point in arguing, Socrates. Yet I am still not satisfied with the claim that it is a name although it is not well given.",
+"kind": "speech"
+},
+{
+"entry": 705,
+"who": "Socrates",
+"text": "Are you satisfied that the name is an indication of the thing named?",
+"kind": "speech"
+},
+{
+"entry": 706,
+"who": "Cratylus",
+"text": "I am.",
+"kind": "speech"
+},
+{
+"entry": 707,
+"who": "Socrates",
+"text": "Don’t you think it is right to say that some names are composed of prior names, while others are first?",
+"kind": "speech"
+},
+{
+"entry": 708,
+"who": "Cratylus",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 709,
+"who": "Socrates",
+"text": "If the first ones are to become indications of things, do you know any better manner of them becoming indications besides making them, as much as possible, like the things they should indicate? Or do you prefer the manner suggested by Hermogenes, and many others too, whereby names are conventions and they indicate things to those who agreed the conventions having had prior knowledge of the things. They say that this convention constitutes the correctness of names and it makes no difference whether we adopt a convention based upon current usage or the opposite, and call what is now called small, large, and what is now called large, small. So which of the two manners do you prefer?",
+"kind": "speech"
+},
+{
+"entry": 710,
+"who": "Cratylus",
+"text": "To indicate whatever we are to indicate by means of likenesses, Socrates, is completely better in every way than proceeding at random.",
+"kind": "speech"
+},
+{
+"entry": 711,
+"who": "Socrates",
+"text": "Very good. Now, if the name is to be like the thing, mustn’t the letters from which the first names are composed necessarily be, by their nature, like the things? I am asking, using a previous example; if there were no naturally occurring pigments, similar to those from which the painted items which the painter’s skill imitates are constituted, could anyone paint a painting like any of the things that are? Or would that be impossible?",
+"kind": "speech"
+},
+{
+"entry": 712,
+"who": "Cratylus",
+"text": "Impossible.",
+"kind": "speech"
+},
+{
+"entry": 713,
+"who": "Socrates",
+"text": "Now, similarly, could names ever be like anything at all, unless, in the first place, those elements from which the names are composed possessed some likeness to the things of which the names are imitations? And the names are composed of letters, are they not?",
+"kind": "speech"
+},
+{
+"entry": 714,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 715,
+"who": "Socrates",
+"text": "Well, at this stage, you should involve yourself in the discussion I had earlier with Hermogenes. So, do you think we are right in saying that the letter ‘r’ bears a resemblance to motion, moving and hardness? Or is this not right?",
+"kind": "speech"
+},
+{
+"entry": 716,
+"who": "Cratylus",
+"text": "I think it is right.",
+"kind": "speech"
+},
+{
+"entry": 717,
+"who": "Socrates",
+"text": "And does the letter ‘l’ resemble smoothness, softness, and the other qualities we mentioned?",
+"kind": "speech"
+},
+{
+"entry": 718,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 719,
+"who": "Socrates",
+"text": "Now, you know that, speaking of the same thing (hardness), we say ‘sklērotēs’, while the Eritreans say ‘sklērotēr’?",
+"kind": "speech"
+},
+{
+"entry": 720,
+"who": "Cratylus",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 721,
+"who": "Socrates",
+"text": "So, are both the ‘r’ and the ‘s’ like the same thing, and does the name ending in ‘r’ indicate the same thing to them, as the name ending in ‘s’ does to us? Or does the name fail as an indicator in one case or the other?",
+"kind": "speech"
+},
+{
+"entry": 722,
+"who": "Cratylus",
+"text": "No, it indicates the same thing to both of us.",
+"kind": "speech"
+},
+{
+"entry": 723,
+"who": "Socrates",
+"text": "Is that because ‘r’ and ‘s’ happen to be alike, or because they are not?",
+"kind": "speech"
+},
+{
+"entry": 724,
+"who": "Cratylus",
+"text": "Because they are alike.",
+"kind": "speech"
+},
+{
+"entry": 725,
+"who": "Socrates",
+"text": "Are they alike in every respect?",
+"kind": "speech"
+},
+{
+"entry": 726,
+"who": "Cratylus",
+"text": "Insofar as they equally indicate motion.",
+"kind": "speech"
+},
+{
+"entry": 727,
+"who": "Socrates",
+"text": "What about the ‘l’ that is included in the name? Doesn’t this indicate the opposite of hardness?",
+"kind": "speech"
+},
+{
+"entry": 728,
+"who": "Cratylus",
+"text": "Perhaps it has been included in error, Socrates, like the examples you gave to Hermogenes just now when you subtracted or added letters that were required. I think you were right to do so, and in this case perhaps an ‘r’ should be used rather than the ‘l’.",
+"kind": "speech"
+},
+{
+"entry": 729,
+"who": "Socrates",
+"text": "Very good. Well then, speaking as we are right now, don’t we understand one another when one of us says ‘sklēron’, and don’t you know what I am now saying?",
+"kind": "speech"
+},
+{
+"entry": 730,
+"who": "Cratylus",
+"text": "I do, but because of custom, my friend.",
+"kind": "speech"
+},
+{
+"entry": 731,
+"who": "Socrates",
+"text": "When referring to ‘custom’, do you think you are speaking of something distinct from convention? Or when you say ‘custom’, do you simply mean that when I utter this word I have hardness in mind, and you recognise that I have it in mind? Isn’t this what you mean?",
+"kind": "speech"
+},
+{
+"entry": 732,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 733,
+"who": "Socrates",
+"text": "Now, if you recognise what I am uttering, doesn’t this constitute an indication for you from me?",
+"kind": "speech"
+},
+{
+"entry": 734,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 735,
+"who": "Socrates",
+"text": "And yet I am uttering what I have in mind, using that which is unlike, since you maintain that the ‘l’ is unlike hardness. But if this is the case, what else is this except a convention you have made with yourself, whereby the correctness of names becomes convention for you? Since the like and unlike letters both act as an indication, don’t these turn out to be a matter of custom and convention for you? But even if custom is not convention at all, it would still be incorrect to maintain that likeness rather than custom is the basis of indication, since custom, it seems, gives an indication using both like and unlike letters.",
+"kind": "speech"
+},
+{
+"entry": 736,
+"who": "Socrates",
+"text": "Now, Cratylus, since you agree with all this, for I take your silence as assent, it must be the case, I suppose, that when we speak what we have in mind, both convention and custom make some contribution towards indicating this. Indeed, best of men, would you like to turn your attention to number? Where will you get like names to apply to each one of the numbers unless you grant some authority to agreement on your part, and to convention in relation to the correctness of names? Now, I myself favour this notion that names be as much like the things they refer to as possible. But there may be truth in Hermogenes’ claim that the actual attraction of likeness is fraught with difficulty, and for the correctness of names it may be necessary to have recourse to the lowly expedient of convention. Indeed, we would speak best if, as far as possible, we were to use words that are likenesses in all cases, or as many as we could, and this means using those that are appropriate, whereas with the opposite approach our speech would be degenerate. Now, answer one more question for me. What power do names possess for us, and what should we say they accomplish well?",
+"kind": "speech"
+},
+{
+"entry": 737,
+"who": "Cratylus",
+"text": "To instruct, Socrates, that’s my opinion, and the simple fact is that whoever has knowledge of the names also has knowledge of the things they name.",
+"kind": "speech"
+},
+{
+"entry": 738,
+"who": "Socrates",
+"text": "Yes, Cratylus, perhaps you mean that once someone knows what the name is like, and it is like the thing it names, he will then know the thing too since it happens to be like the name, and there is a single skill that is the same for all things that are like one another. And that, I believe, is why you say that whoever knows the names also knows the things named.",
+"kind": "speech"
+},
+{
+"entry": 739,
+"who": "Cratylus",
+"text": "Very true.",
+"kind": "speech"
+},
+{
+"entry": 740,
+"who": "Socrates",
+"text": "Come on then, let’s look at this. What would be this manner of instruction about things, the one you spoke of just now? And is there another one that is better than this, or is there no other besides this? What do you think?",
+"kind": "speech"
+},
+{
+"entry": 741,
+"who": "Cratylus",
+"text": "Just as you say, there is no other manner at all. This is the only way and this is the best way.",
+"kind": "speech"
+},
+{
+"entry": 742,
+"who": "Socrates",
+"text": "And do you think that discovering things is the same as this, and that whoever discovers the names has also discovered the things of which they are the names? Or is this a method of instruction only, while enquiry and discovery require a different method?",
+"kind": "speech"
+},
+{
+"entry": 743,
+"who": "Cratylus",
+"text": "Enquiry and discovery certainly involve the same method in every respect.",
+"kind": "speech"
+},
+{
+"entry": 744,
+"who": "Socrates",
+"text": "Come on then, Cratylus, let’s think about this. If someone who was enquiring into the things were to follow the names by considering what each name means, don’t you think there is a significant danger of him being deceived?",
+"kind": "speech"
+},
+{
+"entry": 745,
+"who": "Cratylus",
+"text": "How so?",
+"kind": "speech"
+},
+{
+"entry": 746,
+"who": "Socrates",
+"text": "Obviously, whoever first gave the names, gave names based on what he thought the things were like. Is this what we maintain?",
+"kind": "speech"
+},
+{
+"entry": 747,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 748,
+"who": "Socrates",
+"text": "Now, if this person was thinking incorrectly and gave the names based upon incorrect thinking, what do you believe would happen to those of us who follow him? Could we avoid being deceived?",
+"kind": "speech"
+},
+{
+"entry": 749,
+"who": "Cratylus",
+"text": "But, Socrates, this is not the case. Rather, whoever gave the names must necessarily have had knowledge; otherwise, as I said some time ago, they would not be names at all. And there is considerable evidence that the name-giver did not miss the truth; otherwise all his names would never be so concordant. Did you yourself not reflect, as you spoke, that all the names came into being on the same basis and for the same purpose?",
+"kind": "speech"
+},
+{
+"entry": 750,
+"who": "Socrates",
+"text": "But that, my dear Cratylus, is no defence. For if the name-giver, having erred with the first name, forced the others thereafter into concord with this, and compelled them into concord with his own error, that would not be an unusual occurrence. This sometimes happens with geometrical diagrams where an initial, minor, unnoticed error occurs, and thereafter all the remaining additions are in agreement with one another. So everyone should give a great deal of deliberation and consideration to the beginning of an undertaking to see whether it has been established correctly or not. Once that has been adequately scrutinised, all else appears to follow from that. However, I would be surprised if names are actually in concord with one another. Indeed, let’s examine our previous account once more where we maintained that the names indicated that the being of everything is moving, progressing and flowing. Don’t you think that this is what they indicate?",
+"kind": "speech"
+},
+{
+"entry": 751,
+"who": "Cratylus",
+"text": "Very much so, and their indications are correct.",
+"kind": "speech"
+},
+{
+"entry": 752,
+"who": "Socrates",
+"text": "Let’s consider this by first selecting the word ‘epistēmē’ (knowledge). Note how ambiguous it is. Indeed, it seems to indicate that it impedes our soul’s motion towards things rather than indicating that it is carried along with them. So, it is more correct to pronounce the beginning of the word as we do nowadays, and rather than inserting an ‘e’ and saying ‘epeistēmē’, we should insert an ‘i’ rather than an ‘e’. The word ‘bebaios’ (definite) is some sort of imitation of ‘basis’ (foundation) or ‘stasis’ (rest) rather than motion. ‘Historia’ (investigation) presumably indicates that it prevents the flow (histēsi ton roun) and ‘pistos’ (faithful) certainly indicates ‘preventing’ (histan). The word ‘mnēmē’ (memory) presumably informs everyone that this is rest (monē) rather than motion in the soul. Or take ‘hamartia’ (error) or ‘sumphora’ (misfortune), if you go by the name, they will appear to be the same as ‘sunesis’ (understanding) and the same as ‘epistēmē’ (knowledge), and all the other names for things that are important to us. And indeed, ‘amathia’ (ignorance) and ‘akolasia’ (lack of restraint) also appear to be close to these in meaning, for ‘amathia’ (ignorance) appears to be ‘the progression of one who proceeds with God’ (tou hama theōi iontos poreia), while ‘akolasia’ (lack of restraint) certainly appears to be ‘following along with things’. And accordingly, names that we believed to be associated with the worst things possible would appear to be very like those for the very best. And I think that anyone who took the trouble would discover many more examples from which we might come to rethink this matter, and conclude that whoever gave the names is indicating not that things are moving and progressing, but that they are at rest.",
+"kind": "speech"
+},
+{
+"entry": 753,
+"who": "Cratylus",
+"text": "But do you notice, Socrates, that most of them indicate motion?",
+"kind": "speech"
+},
+{
+"entry": 754,
+"who": "Socrates",
+"text": "What of it, Cratylus? Shall we count the names as if they were votes, and will the correctness lie in this process? Whichever outcome appears to be indicated by most of the names is to be the true one. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 755,
+"who": "Cratylus",
+"text": "That is not reasonable.",
+"kind": "speech"
+},
+{
+"entry": 756,
+"who": "Socrates",
+"text": "Not at all, my friend. But let us leave these considerations and return to where we digressed. Indeed, a while ago, in the previous discussion, you said that whoever gave the names must necessarily have given them while being knowledgeable of the things to which he gave them. Are you still of this view or not?",
+"kind": "speech"
+},
+{
+"entry": 757,
+"who": "Cratylus",
+"text": "Yes, I still am.",
+"kind": "speech"
+},
+{
+"entry": 758,
+"who": "Socrates",
+"text": "And do you maintain that whoever gave the first names gave them while being knowledgeable?",
+"kind": "speech"
+},
+{
+"entry": 759,
+"who": "Cratylus",
+"text": "Yes, knowledgeable.",
+"kind": "speech"
+},
+{
+"entry": 760,
+"who": "Socrates",
+"text": "But from what sort of names had he learned or discovered the things, since the first names had not yet been set down, and according to us it is impossible to learn about the things, or discover them in any other way, besides learning the names or discovering for ourselves what they are like?",
+"kind": "speech"
+},
+{
+"entry": 761,
+"who": "Cratylus",
+"text": "I think you have a point there, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 762,
+"who": "Socrates",
+"text": "So, in what way should we maintain that they gave names knowledgeably or were convention-setters before a single name had been set down or they had known those names, if indeed it is not possible to learn about the things except from the names?",
+"kind": "speech"
+},
+{
+"entry": 763,
+"who": "Cratylus",
+"text": "I believe, Socrates, that the surest account of these matters is that some power, more than human, gave the first names to things, and so they are necessarily correct.",
+"kind": "speech"
+},
+{
+"entry": 764,
+"who": "Socrates",
+"text": "Do you believe then that whoever gave the names contradicted himself, even though he was a daimon or a god? Or do you think we were talking nonsense just now?",
+"kind": "speech"
+},
+{
+"entry": 765,
+"who": "Cratylus",
+"text": "But one or the other of these groups are not names at all.",
+"kind": "speech"
+},
+{
+"entry": 766,
+"who": "Socrates",
+"text": "Which of these two was incorrect, best of men, those leading in the direction of rest or in the direction of motion? For I presume, based on what was said just now, that the issue will not be decided by majority vote.",
+"kind": "speech"
+},
+{
+"entry": 767,
+"who": "Cratylus",
+"text": "Indeed not, Socrates, that would not be right.",
+"kind": "speech"
+},
+{
+"entry": 768,
+"who": "Socrates",
+"text": "Now, since there is a conflict among the names, with some claiming that they are like the truth while others claim that they are it, how are we to decide between them and on what basis? Not, I presume, on the basis of other names, different from these, since there are none. It is obvious, rather, that something else apart from names must be sought which will reveal to us which of the two kinds of name is true, obviously by indicating the truth of things that are.",
+"kind": "speech"
+},
+{
+"entry": 769,
+"who": "Cratylus",
+"text": "Yes, I think so.",
+"kind": "speech"
+},
+{
+"entry": 770,
+"who": "Socrates",
+"text": "So, Cratylus, if this is the case, it is possible without names to learn about things that are.",
+"kind": "speech"
+},
+{
+"entry": 771,
+"who": "Cratylus",
+"text": "Apparently.",
+"kind": "speech"
+},
+{
+"entry": 772,
+"who": "Socrates",
+"text": "Through what else then would you expect to learn about these? Wouldn’t you do so through that which is both likely and most reasonable? Is there any alternative, then, than through one another, if they are somehow akin, and through themselves? For that which is different from those and of another kind would presumably indicate something different and of another kind, but not those.",
+"kind": "speech"
+},
+{
+"entry": 773,
+"who": "Cratylus",
+"text": "You appear to be speaking the truth.",
+"kind": "speech"
+},
+{
+"entry": 774,
+"who": "Socrates",
+"text": "Come on then, by Zeus, have we not agreed many times that the names that are well given are like whatever they are names of, and are images of the things?",
+"kind": "speech"
+},
+{
+"entry": 775,
+"who": "Cratylus",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 776,
+"who": "Socrates",
+"text": "Now, if the things really can be learned through the names and also through themselves, which of the two ways of learning would be better and more exact? Is it better to learn from the image, whether it is itself a good likeness, and also to learn the truth of that of which it is an image? Or is it better to learn from the truth, both the truth itself and whether the image of it has been properly fashioned?",
+"kind": "speech"
+},
+{
+"entry": 777,
+"who": "Cratylus",
+"text": "From the truth, necessarily so.",
+"kind": "speech"
+},
+{
+"entry": 778,
+"who": "Socrates",
+"text": "To know the manner in which things are to be learned or discovered is perhaps too much for you and me. Let’s be content to agree that it is not from names that things should be learned or investigated. It is much better to do so from themselves rather than from the names.",
+"kind": "speech"
+},
+{
+"entry": 779,
+"who": "Cratylus",
+"text": "So it appears, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 780,
+"who": "Socrates",
+"text": "Then let us consider how these various names that incline in the same direction may not deceive us. What if those who gave the names actually had in mind, as they did so, that all things are constantly moving and flowing? Now, it looks to me as if they did have this in mind. But what if this happens not to be the case, and these people themselves have, rather, fallen into a sort of whirlpool and are in the spin, dragging us along and making us fall in too? Indeed, my dear Cratylus, please consider something which I myself have often dreamed. Should we, or should we not, maintain that there is such thing as beauty itself, and good itself, and so on for each of the things that are?",
+"kind": "speech"
+},
+{
+"entry": 781,
+"who": "Cratylus",
+"text": "I think we should, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 782,
+"who": "Socrates",
+"text": "Well, let us consider just that, not whether some particular face or something of this sort is beautiful, and whether all these seem to be in flux, but whether we should maintain, rather, that beauty itself is always the sort of thing that it is?",
+"kind": "speech"
+},
+{
+"entry": 783,
+"who": "Cratylus",
+"text": "Necessarily.",
+"kind": "speech"
+},
+{
+"entry": 784,
+"who": "Socrates",
+"text": "Now, if it is always slipping away, is it possible to say, firstly, that it is this, and secondly, that is something of this sort? Or even as we are speaking, is it necessarily becoming something else and slipping away and no longer being as it is?",
+"kind": "speech"
+},
+{
+"entry": 785,
+"who": "Cratylus",
+"text": "Necessarily.",
+"kind": "speech"
+},
+{
+"entry": 786,
+"who": "Socrates",
+"text": "How could that which never remains as it is, be anything? For if it ever did remain as it is, it is obvious that at least for that period of time it would not change. And if it always remains as it is and is the same, how could this ever change or be in motion without departing from its own form?",
+"kind": "speech"
+},
+{
+"entry": 787,
+"who": "Cratylus",
+"text": "It could not do so at all.",
+"kind": "speech"
+},
+{
+"entry": 788,
+"who": "Socrates",
+"text": "In that case, it could not be known by anyone either. For no sooner is it approached by someone who is to know it, than it becomes something else of a different kind, so that one would no longer know what it is like or what state it is in. And surely no knowledge whatsoever knows that which is not in any state at all.",
+"kind": "speech"
+},
+{
+"entry": 789,
+"who": "Cratylus",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 790,
+"who": "Socrates",
+"text": "Indeed, if all things are changing and nothing remains the same, Cratylus, it is not even reasonable to say that there is knowledge. For if this thing itself, the knowledge, does not change from being knowledge, then knowledge would always remain and there would be knowledge. And if it is always changing, there would never be knowledge, and according to this argument there would be neither the knower nor the known. But if there is always the knower and there is always the known, and there is the beautiful and there is the good, and each one of the things that are, then it is not apparent to me that these things we are now speaking of bear any resemblance to flow or to motion. Now, it is not at all easy to investigate whether this is how matters stand or whether they accord with what the followers of Heraclitus say, and many others too. Nor would someone, fully possessed of intelligence, entrust the well-being of himself and his soul to names, and place his trust in these and in those who instituted them to be confident that he knows something – confident enough to allege, against himself and the things that are, that nothing at all is stable but all things are flowing like leaky jars, and to believe all things are in a condition much like people suffering from colds, and that dripping and flowing is the condition of everything. Perhaps this is how things are, Cratylus, or perhaps not. So you should conduct a brave and thorough enquiry and don’t accept anything too easily, for you are still young and of the right age, so conduct your enquiry, and if you make a discovery, please share it with me too.",
+"kind": "speech"
+},
+{
+"entry": 791,
+"who": "Cratylus",
+"text": "I shall do as you say, but mark my words too, Socrates, I have not been neglectful of such enquiry. No, I have taken a lot of trouble to consider the matter, and things seem to me much more as Heraclitus says they are.",
+"kind": "speech"
+},
+{
+"entry": 792,
+"who": "Socrates",
+"text": "Yes, my friend, instruct me on some future occasion. Now, you should go into the countryside as you have arranged, and Hermogenes here will send you on your way.",
+"kind": "speech"
+},
+{
+"entry": 793,
+"who": "Cratylus",
+"text": "So be it, Socrates, but you too should continue to think about these matters.",
+"kind": "speech"
+}
+]
+}
+]
+}

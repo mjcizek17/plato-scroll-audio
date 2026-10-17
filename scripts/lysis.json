@@ -1,0 +1,2351 @@
+{
+"key": "lysis",
+"title": "Lysis",
+"parts": [
+{
+"name": "Lysis",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "I was making my way from the Academy directly to the Lyceum, along the road outside the wall, under the wall itself. But when I reached the gate at the spring of Panops, I came across Hippothales there, the son of Hieronymus, along with Ctesippus of Paeania, and there were other young men with them standing together in a group. And when Hippothales saw me approaching, he said,",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Hippothales",
+"text": "“Socrates, where are you going, and where have you come from?”",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "“From the Academy,” said I. “I am making my way directly to the Lyceum.”",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Hippothales",
+"text": "“Come here,” he said, “directly to us. Will you not join us? It will be well worth your while.”",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "“Where do you mean,” I asked, “and whom should I join?”",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Hippothales",
+"text": "“Here,” he replied, showing me an enclosure of sorts with its door open, just opposite the wall. “Here is where we spend our time, ourselves and others, a great many others, handsome too.”",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "“But what is this, and what do you spend your time doing?”",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Hippothales",
+"text": "“It is a wrestling school,” he replied, “newly built. But we spend our time for the most part in discussions, and we would be most pleased to include you in them.”",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "“It is good of you to do so,” said I. “But who does the teaching here?”",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Hippothales",
+"text": "“A friend of yours,” said he, “and an admirer, Miccus.”",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "“By Zeus,” said I, “he is no ordinary man, at any rate. No, he is a competent man of wisdom.”",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Hippothales",
+"text": "“So, would you like to follow us,” he said, “and see for yourself who is here?”",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "“I would first like to hear what I am going in for, and who the handsome one is.”",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Hippothales",
+"text": "“There are differing opinions on that, Socrates.”",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "“Tell me, who you think it is, Hippothales?”",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "When he was asked this question, he blushed, and I said, “Son of Hieronymus, Hippothales, there is no need to say whether you are in love with someone or not, for I know that you are not only in love but also that you are already proceeding far along love’s path. I myself am, for the most part, quite ordinary and useless, but somehow or other, God has given me the ability to recognise quickly a lover and a beloved.”",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "Now, when he heard this, he blushed even more, much more. So Ctesippus said,",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Ctesippus",
+"text": "“It is so charming, Hippothales, that you blush and are shy about telling Socrates the name. But if the man spends any time with you, even a little, he will be worn out by hearing you mention the name so often. At any rate, Socrates, he has deafened our ears by filling them up with ‘Lysis’. And if he has been drinking, there is a good chance we will be woken from our slumbers thinking we are hearing the name Lysis. Now, what he says in normal conversation is awful, but it is not really awful compared to the times when he tries to pour his poems all over us, and his prose compositions too. And what is even more awful than all this is when he sings to his favourite, in an extraordinary voice, which we have to endure hearing. And now, when you ask him for the name, he blushes!”",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "“It seems that Lysis is a young man,” said I. “I say this, because when I heard the name I did not recognise it.”",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Ctesippus",
+"text": "“Yes,” he replied, “he does not use his own name very much. He is still named after his father, because his father is so very well known. But I know full well that you will not fail to recognise the boy’s appearance. Yes, he is sufficiently recognisable from his appearance alone.”",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "“Tell me whose son he is,” said I.",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Ctesippus",
+"text": "“He is the eldest son of Democrates of Aexone,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "“Well, Hippothales,” said I, “what an utterly noble and spirited love you have discovered. Come on then, show to me what you also show to these people here so that I may see whether you know what a lover should say about his favourite, either to him directly, or to others.”",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Hippothales",
+"text": "“Socrates,” said he, “do you attach any significance to anything this fellow is saying?”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "“Well,” said I, “do you even deny being in love with the one this fellow is referring to?”",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Hippothales",
+"text": "“I do not,” he replied, “but I deny composing poems for my favourite, and prose works too.”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Ctesippus",
+"text": "“The man is not well,” said Ctesippus. “No, he is raving, and quite mad.”",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "And I said, “Hippothales, I am not asking to hear any of the verses, or any ode you may have composed to the young man, but I do want to hear what your thinking is, so that I may know how you behave towards your favourite.”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Hippothales",
+"text": "“Surely this fellow here will tell you,” said he, “since he knows and remembers in such detail, if indeed, as he claims, he is deaf listening to me.”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Ctesippus",
+"text": "“By the gods,” said Ctesippus, “I certainly am, and what he says is actually ridiculous, Socrates. Indeed, how can a lover avoid being ridiculous when he is so preoccupied with his favourite he has nothing of his own to say that even a child would not say? So, what he puts into verse and prose is whatever the whole city celebrates about Democrates, and Lysis, the boy’s grandfather, and about all his ancestors – their wealth, the horses they bred, and their victories, in the Pythian, Nemean, and Isthmian games, with four-horse chariots or single horses, and stories still more ancient than these. Indeed, the other day, in some poem or other, he recounted a connection with Heracles and how an ancestor of theirs entertained Heracles as a guest because they were related, the ancestor himself being the offspring of Zeus and the daughter of the founder of their deme. What the man says and sings, and forces us to listen to, are the stories of old women, Socrates, and there are many more like these.”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "And when I heard this I said, “You are ridiculous, Hippothales! Are you composing a victory ode to yourself before you have won the victory?”",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Hippothales",
+"text": "“No, Socrates, I am not composing or singing it to myself.”",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "“You do not think so, at any rate,” said I.",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Hippothales",
+"text": "“So, what is going on?” he asked.",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "“These odes apply most of all to you,” said I, “for if, on the one hand, you capture a favourite who is like this, all that you have said and sung is an adornment to you, and is in reality a victory ode to you, as though you had been victorious because you were successful with a favourite like this one. But if, on the other hand, he escapes you, the more you have said in praise of that favourite, the more nobility and goodness will you seem to be losing, and the more ridiculous will you look. So whoever is wise in matters of love, my friend, does not praise the beloved until he captures him for fear of how events may unfold. And besides, whenever anyone praises those handsome fellows and makes much of them, they get full of ideas about themselves, and become arrogant. Don’t you think so?”",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Hippothales",
+"text": "“I do,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "“Don’t they become harder to capture as they become more arrogant?”",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Hippothales",
+"text": "“Quite likely.”",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "“Well, what sort of hunter do you think would rouse his quarry in the course of the hunt, and make it harder to capture?”",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Hippothales",
+"text": "“A bad one, of course.”",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "“And indeed, it is most uncivilised to use speech and song in order to make someone wild rather than to soothe them. Is this so?”",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Hippothales",
+"text": "“It seems so to me.”",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "“Be careful, Hippothales, that you do not render yourself liable to all these allegations because of your poetry. What is more, I do not think you would be prepared to accept that a man who does harm to himself with his poetry is ever a good poet, insofar as he is harmful to himself.”",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Hippothales",
+"text": "“By Zeus, no,” said he. “That would be highly irrational. But, Socrates, these are the very reasons why I am confiding in you, and if you have anything else to offer please advise me as to what a person should say or do if he is to be regarded with affection by his favourite.”",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "“It is not easy to say,” I replied. “But if you are prepared to get him to enter into a discussion with me, perhaps I may be able to show you what you should say when you converse with him instead of saying what, according to these people, you actually say and sing.”",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Hippothales",
+"text": "“Well, that is no problem,” he said, “for if you go inside along with Ctesippus here, sit down and converse, I think he will surely come over to you, Socrates, since he is particularly fond of listening to discussions, and besides, as they are celebrating the festival of Hermes, the older boys and the younger ones are mingling with one another. So he will come over to you, and if he does not, he is friendly with Ctesippus through Ctesippus’ cousin, Menexenus, and, in fact, Menexenus happens to be his companion, more so than anyone else. So Ctesippus should call him if he does not come over himself.”",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "“That is what we should do then,” said I. And with that, I took Ctesippus with me and went over to the wrestling school, and the others followed us. When we arrived inside, we found that the boys had offered the sacrifice, and the associated rituals had almost been completed by then, so they were all playing knucklebones, dressed in their finery. Now, although most of them were playing outside in the courtyard, some were playing odds-and-evens in a corner of the dressing room, with a huge quantity of knucklebones which they were picking from some little baskets, while others stood around watching them. In fact, one of them was Lysis, and he was standing among the boys and youths, wearing a garland on his head, most distinctive in his appearance, worthy of note not just for his beauty, but because he is both beautiful and good.",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "We, for our part, withdrew to the opposite side because it was quiet there, and we sat down and were discussing something with one another. Now, Lysis kept turning around to look at us, and he was obviously eager to come over, but he was at a loss for a while and was reluctant to come over on his own. Then Menexenus entered from the courtyard, between games, and once he saw myself and Ctesippus he came to sit beside us. So, when Lysis saw him he followed suit and sat with us too, along with Menexenus. Then the others came over, and what is more, when Hippothales saw so many people standing there, he used them as a screen and stood close by where he thought Lysis could not see him because he was afraid of annoying him, and he stood like that and listened.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "I then looked over at Menexenus and asked, “Son of Demophon, which of you is older?”",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Menexenus",
+"text": "“We argue over that,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "“Then you would also dispute over which of you is more noble,” said I.",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Menexenus",
+"text": "“Very much so,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "“And, likewise, over which of you is more handsome.” They both laughed at that. “However, I will not ask which of you is more wealthy, since you are friends, aren’t you?”",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Menexenus",
+"text": "“Very much so,” they replied.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "“Well, it is said that friends have all things in common, so you will not differ on this issue at any rate, if what you say about your friendship is actually true.”",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "They both agreed. After that, as I was in the process of asking which of them was more just or more wise, someone came in and fetched Menexenus away, saying that the trainer was calling him. I presumed he was involved in conducting a sacrifice. So he went out, and I asked Lysis a question: “Presumably,” said I, “your father and mother love you very much, Lysis?”",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Lysis",
+"text": "“Certainly,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "“In that case, they would want you to be as happy as you could possibly be?”",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Lysis",
+"text": "“Of course.”",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "“Do you think that a person who is enslaved, and who is not allowed to do any of the things he desires is happy?”",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Lysis",
+"text": "“By Zeus, I do not think so,” he said.",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "“Well, if your father and mother love you and desire that you become happy, it is obvious that they are eager, in every way, that you should be happy.”",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Lysis",
+"text": "“Of course,” he said.",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "“So, do they allow you to do whatever you wish, and do they not rebuke you at all or prevent you from doing whatever you desire to do?”",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Lysis",
+"text": "“By Zeus, Socrates, there are lots of things they stop me from doing.”",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "“What do you mean?” I asked. “Although they want you to be happy, they prevent you from doing what you wish? Tell me this: if you developed a desire to ride on one of your father’s chariots, taking the reins during a race, they would not allow you to do so. They would prevent you, wouldn’t they?”",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Lysis",
+"text": "“By Zeus, they certainly would not allow me.”",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "“Whom would they allow to do it?”",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Lysis",
+"text": "“There is a driver who is paid by my father.”",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "“What do you mean? Do they trust a hireling more than they trust you to do whatever he wishes with the horses, and as well as this they pay him money?”",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Lysis",
+"text": "“What else could they do?” said he.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "“But I presume they would trust you to take charge of the mule-team, and if you wished to grab the whip and beat them, they would allow you to do so.”",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Lysis",
+"text": "“Why ever would they allow me?” he replied.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "“Well, then,” said I, “is no one permitted to beat them?”",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Lysis",
+"text": "“Of course,” he replied, “the muleteer.”",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "“Is he a slave or a free man?”",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Lysis",
+"text": "“A slave,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "“Then it seems they think more highly of a slave than they do of you, their own son, and they trust him with their own property, rather than you, and they allow him to do whatever he wishes, yet they prevent you from doing so. But tell me this too: do they allow you yourself to be in charge of yourself, or do they not even trust you in this?”",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Lysis",
+"text": "“How could they trust me in this?”",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "“Is someone in charge of you then?”",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Lysis",
+"text": "“This tutor here,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "“Surely he isn’t a slave?”",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Lysis",
+"text": "“What else would he be? He is ours though,” he said.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "“How awful,” said I, “a slave in charge of a free man. But what does this tutor do when he is in charge of you?”",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Lysis",
+"text": "“Well, he takes me to my teacher,” said he.",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "“Surely they are not in charge of you too, your teachers I mean.”",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Lysis",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "“So, your father, of his own free will, puts a whole host of masters and rulers in charge of you. But when you get home to your mother, does she allow you to do whatever you wish with her wool or her loom, when she is weaving, in order to make you happy? Yes, I presume of course that she does not prevent you from touching the blade or the shuttle or any other part of her wool-spinning equipment.”",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Lysis",
+"text": "He laughed at this and said, “Socrates, not only would she prevent me, but she would beat me if I were to touch them.”",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Socrates",
+"text": "“By Heracles,” said I, “surely you have not wronged your father and your mother somehow?”",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Lysis",
+"text": "“By Zeus, I have not,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Socrates",
+"text": "“Then, for what reason do they prevent you, so cruelly, from being happy and doing whatever you wish, bringing you up all day long in constant slavery to someone and, in a word, doing scarcely anything you desire? Consequently, it seems you do not even benefit from their extensive wealth. No, everyone else exercises more control over it than you do. Nor do you benefit from your own body, noble and all as it is, but someone else cares for it and shepherds it. But you are in charge of nobody, Lysis, nor do you do anything you desire.”",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Lysis",
+"text": "“That is because I am not yet of age, Socrates.”",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Socrates",
+"text": "“Son of Democrates, that should not stop you, since there are areas where your father and mother do place trust in you and do not wait until you are of age. Indeed, when they want someone to read to them or to do some writing, I presume you are the first person in the house to whom they assign this task. Is this so?”",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Lysis",
+"text": "“Very much so,” said he.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "“Therefore, in these cases you are allowed to write the letters of the alphabet in any sequence you wish, and you are allowed to read with the same degree of freedom. And when you take up the lyre, I am sure that neither your father nor your mother prevent you from tightening and loosening any of the strings you wish, or from plucking it or using the plectrum. Do they prevent you?”",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Lysis",
+"text": "“Of course not.”",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Socrates",
+"text": "“Well then, Lysis, what exactly is the reason why they do not prevent you in these cases, yet in the other cases we mentioned just now they do stop you?”",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Lysis",
+"text": "“I think it is because I know about these, but I do not know about the others.”",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Socrates",
+"text": "“That is it, my good man,” said I. “So your father is not waiting for your coming of age before he trusts you in everything. But when he thinks you understand better than he does, on that day he will entrust himself and his possessions to you.”",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Lysis",
+"text": "“Yes, I think so,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "“Very well,” said I, “and what about your neighbour? Do you think he will use the same rule in dealing with you as your father does? Do you think he will entrust the management of his own household to you whenever he believes you understand the management of household affairs better than he understands them himself, or might he take charge of it himself?”",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Lysis",
+"text": "“I think he would entrust it to me.”",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Socrates",
+"text": "“What about the Athenians? Don’t you think they would entrust their affairs to you once they noticed that you have enough understanding?”",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Lysis",
+"text": "“I think they will.”",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Socrates",
+"text": "“By Zeus,” said I, “what about the Great King? Would he trust his eldest son, who is to be ruler of all Asia, to throw anything he wishes to throw into the stew when the meat is being boiled, rather than us, if we were to present ourselves before him and show him that we had a more refined understanding of food preparation than his own son?”",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Lysis",
+"text": "“Obviously, he would trust us,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Socrates",
+"text": "“And although he would not allow his son to throw anything into the pot, he would even allow us to throw in handfuls of salt if we wished.”",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Lysis",
+"text": "“Yes, of course.”",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Socrates",
+"text": "“And what if his son’s eyes were diseased? Would he allow him to touch his own eyes if he did not think he was medically qualified, or would he stop him?”",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Lysis",
+"text": "“He would stop him.”",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "“But if he presumed that we had medical skills, and if we wished to open his son’s eyes and sprinkle them with ashes, I think he would not stop us, as he would assume we had the appropriate level of understanding.”",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Lysis",
+"text": "“That is true.”",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Socrates",
+"text": "“So, would he also entrust to us, rather than to himself and his son, all other matters in which we seemed to him to be wiser than the two of them?”",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Lysis",
+"text": "“Necessarily, Socrates,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Socrates",
+"text": "“So that is how things are, dear Lysis,” said I. “Everyone, Greeks and non-Greeks, men and women, will entrust us with matters we understand. And in these cases we shall do whatever we wish, and nobody will deliberately obstruct us, and we shall be free in ourselves and have charge of others, and these will be ours, for we shall benefit from them.",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Socrates",
+"text": "“But in matters in which we have not acquired intelligence, no one will entrust these to us to do whatever we think we should do. Instead, everyone will obstruct us to the best of their ability, not just strangers, but our father, and mother, and any kindred even closer than these, and we ourselves shall be subject to others in these matters. And these will be alien to us, for we shall derive no benefit from them. Do you accept that this is the case?”",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Lysis",
+"text": "“I do.”",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Socrates",
+"text": "“So shall we be dear to anyone, and will anyone love us, in these matters wherein we are of no benefit?”",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Lysis",
+"text": "“Of course not.”",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Socrates",
+"text": "“In that case, your father, does not love you, nor does anyone love any other person in so far as that person is useless.”",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Lysis",
+"text": "“It seems not,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Socrates",
+"text": "“So, if you actually become wise, everyone will love you, and everyone will be your kindred, for you will be useful and good. But if you do not, neither your father nor anyone else will love you, nor will your mother, nor your kinfolk. Well, Lysis, is it possible under these circumstances to have an enlarged understanding, in matters one does not yet understand?”",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Lysis",
+"text": "“How could we?” he replied.",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Socrates",
+"text": "“Now, if you are in need of a teacher, you do not yet understand.”",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Lysis",
+"text": "“True.”",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Socrates",
+"text": "“So you do not have an enlarged understanding, if, in fact, you still lack understanding.”",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Lysis",
+"text": "“By Zeus, Socrates, I do not think so.”",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Socrates",
+"text": "When I heard this, I looked over at Hippothales and almost made a mistake, for it occurred to me to say, “Hippothales, that is how you should converse with your favourite, humbling him and deflating him rather than puffing him up and spoiling him as you do.” But when I saw him struggling and in tribulation over what was being said, I remembered that he had actually stood where he hoped Lysis would not notice him. So I checked myself and held my words back. Meanwhile, Menexenus had returned and was sitting beside Lysis in the seat he had vacated earlier. Then Lysis, unnoticed by Menexenus, whispered to me playfully in a low, friendly voice.",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Lysis",
+"text": "“Socrates, say what you have been saying to me to Menexenus too.”",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Socrates",
+"text": "And I said, “You shall say that to him, Lysis, since you have been paying such full attention.”",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Lysis",
+"text": "“I certainly have,” he said.",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Socrates",
+"text": "“Then try to remember it as best you can,” I said, “so that you can tell him everything comprehensively. And if you forget any of it, ask me again when you next meet me.”",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Lysis",
+"text": "“Yes, I shall do that, Socrates. I am very keen to do so, rest assured. But say something else to him, Socrates, so that I can listen to that too, until it is time to go home.”",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Socrates",
+"text": "“Well, that is what I should do,” said I, “since you are the one who is asking. But be sure to come to my aid if Menexenus attempts to refute me. You know how argumentative he is, don’t you?”",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Lysis",
+"text": "“Yes, by Zeus,” said he, “very much so. That is the very reason why I want you to converse with him.”",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Socrates",
+"text": "“So that I can look ridiculous?” said I.",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Lysis",
+"text": "“No, by Zeus, so that you can punish him.”",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Socrates",
+"text": "“How so?” said I. “That is not easy, since the man is formidable, a pupil of Ctesippus’. And look, can’t you see? Ctesippus is here in person.”",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Lysis",
+"text": "“Do not be concerned about anyone else, Socrates,” said he. “Just go ahead and converse with him.”",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Socrates",
+"text": "“Converse I must,” said I. Now, as we were saying all this Ctesippus interrupted, and asked,",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Ctesippus",
+"text": "“Why are you holding a feast just for two? Won’t you share your discussions with us?”",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Socrates",
+"text": "“Of course, we should share them,” said I. “This fellow does not understand something I am saying, but he says that he thinks Menexenus knows, and he is asking me to question him.”",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Ctesippus",
+"text": "“Well,” said he, “why not question him?”",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Socrates",
+"text": "“I shall ask him then,” I replied. “And you, Menexenus, should answer the questions I ask you. The fact is that from my childhood I have had a desire for a particular possession, just like anyone else. But the difference is that while one person has a desire to acquire horses, another to acquire dogs, another to acquire gold, and another to acquire honour, I am easy about all these. However, when it comes to the acquisition of friends, I am extremely passionate, and I would rather have a good friend than the best quail or cockerel anyone ever had. Yes, by Zeus, rather than any horse or dog either, and I think, by the dog, that I would far sooner acquire a companion than all of Darius’ gold, or even Darius himself. That is how fond of companions I am.",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Socrates",
+"text": "“So, seeing the two of you, yourself and Lysis, I am amazed, and I account you blessed, because you are able to acquire this possession quickly and easily at such a young age. Indeed, you have acquired this man, such a staunch friend, so quickly, and he, for his part, has got you. But I am so far from acquiring this that I do not even know how one person becomes the friend of another. And since you are experienced, these are the very issues on which I wish to question you.",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Socrates",
+"text": "“Tell me then, when someone loves someone else, which of them becomes a friend? Does the one who loves become the friend of the one who is loved, or does the one who is loved become the friend of the one who loves, or is there no difference?”",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Menexenus",
+"text": "“I think there is no difference,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Socrates",
+"text": "“What do you mean?” said I. “Do they both become friends of each other if only one of them loves the other?”",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Menexenus",
+"text": "“I think so, anyway,” said he.",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Socrates",
+"text": "“What about this? Isn’t it possible for someone who loves not to be loved in return by the person he loves?”",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Menexenus",
+"text": "“It is.”",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Socrates",
+"text": "“And what about this? Is it also possible for someone who loves to be hated? This is the sort of fate, I imagine, that lovers sometimes seem to suffer in dealing with their favourites. For although they love them as much as they possibly could, some believe that they are not loved in return, others that they are hated. Don’t you think this is true?”",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Menexenus",
+"text": "“Yes,” he replied, “very true.”",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Socrates",
+"text": "“Well,” said I, “in a case like this, doesn’t one person love, while another is loved?”",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Socrates",
+"text": "“So which of them is the friend of which? Is the one who loves a friend of the one who is loved, whether or not he is loved in return, or even if he is hated? Or is the one who is loved the friend of the one who loves? Or again, in a case like this, is neither of them a friend of the other unless they both love one another?”",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Menexenus",
+"text": "“Well, yes, that seems to be how matters stand.”",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Socrates",
+"text": "“So, this seems different to us now than it seemed previously. Yes, it seemed to us then that if one loved, both were friends. But now, unless both love, neither is a friend.”",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Menexenus",
+"text": "“Maybe so.”",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Socrates",
+"text": "“So nothing that does not love in return is a friend to the one who loves.”",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Menexenus",
+"text": "“It seems not.”",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Socrates",
+"text": "“So there are no horse-lovers unless the horses love them in return, nor quail-lovers either. Nor again are there dog-lovers, wine-lovers, exercise-lovers, nor any lovers of wisdom unless wisdom loves them in return. Or do they each love these things even though these are not friends, and was that poet a liar who said, ‘Happy is he who has children as friends, solid hoofed horses too, / Dogs that he hunts with, and a host when he travels abroad.’",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Menexenus",
+"text": "“I do not think so,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Socrates",
+"text": "“Then you think he was speaking the truth.”",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Socrates",
+"text": "“So, Menexenus, that which is loved is, it seems, a friend to the one who loves it, whether it loves him or indeed hates him. For instance, children recently born who have not yet begun to love, and can even demonstrate hatred, even though they hate their mother or father when they are punished by them, are nevertheless at that very moment, above all, the very dearest of friends to their parents.”",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Menexenus",
+"text": "“I think,” he said, “that is so.”",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Socrates",
+"text": "“So, based on this argument, the one who is loved is a friend, but not the one who loves.”",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Menexenus",
+"text": "“So it seems.”",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Socrates",
+"text": "“And the one who is hated is an enemy, but not the one who hates.”",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Menexenus",
+"text": "“Apparently.”",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Socrates",
+"text": "“In that case, lots of people are loved by their enemies and hated by their friends. And they are friends to their enemies and enemies to their friends, if the one who is loved is a friend, but not the one who loves. Yet it is most illogical, my dear friend – in fact, I think it is impossible – to be an enemy to a friend, or a friend to an enemy.”",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Menexenus",
+"text": "“You seem to be speaking the truth, Socrates.”",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Socrates",
+"text": "“Well then, if this is impossible, then that which loves would be a friend of that which is loved.”",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Menexenus",
+"text": "“Apparently.”",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Socrates",
+"text": "“Then again, that which hates would be an enemy of that which is hated.”",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Menexenus",
+"text": "“It must be.”",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Socrates",
+"text": "“In that case, it will prove necessary to accept the same propositions we accepted earlier. A friend is often a friend of a non-friend, or even of an enemy, in cases where someone either loves that which does not love him, or even loves that which hates him. And an enemy is often an enemy of a non-enemy, or even of a friend, in cases where someone either hates that which does not hate him, or even hates that which loves him.”",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Menexenus",
+"text": "“Quite likely,” said he.",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Socrates",
+"text": "“Well now, what are we going to do,” said I, “if those who love are not to be friends, nor are those who are loved, nor are those who love and are also loved? Shall we say that there are still some further cases besides these where people become friends with one another?”",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Menexenus",
+"text": "“No, by Zeus, Socrates, I cannot really see a way out of this difficulty.”",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Socrates",
+"text": "“Well,” said I, “perhaps we have not been conducting the enquiry in the proper manner at all, Menexenus.”",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Lysis",
+"text": "“Well, that is how it seems to me, Socrates,” said Lysis, and as soon as he had said this he blushed. In fact, I think his words got out unintentionally because he was paying such close attention to what was being said. Indeed, it was evident that he had listened intently throughout.",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Socrates",
+"text": "Now, I wanted to give Menexenus a rest, and I was delighted by Lysis’ love of wisdom, so I changed my approach, directed my words to Lysis, and said, “Lysis, I think that what you are saying is true, that if we had been considering the matter properly we would never have wandered about like this. So let us not go in this direction any longer, for the enquiry looks difficult to me, rather like a hard road. No, I think we should go back to where we turned off and consider the matter based on what the poets say, for these people are like our fathers in wisdom, and our guides. They speak, of course, in no ordinary manner when they hold forth on the subject of friends and who they actually are. But they do maintain that god himself makes them friends by drawing them towards one another. And what they say I believe goes somewhat as follows: ‘God doth ever draw like unto like’, and he makes them acquainted. Or have you not come across these verses?”",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Lysis",
+"text": "“I have,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Socrates",
+"text": "“Haven’t you also come across the writings of extremely wise people making the same point, that like is necessarily always friend to like? These, I presume, are the people who discourse and write about nature and the universe.”",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Lysis",
+"text": "“That is true,” said he.",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Socrates",
+"text": "“Well, then,” said I, “are they right to say so?”",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Lysis",
+"text": "“Perhaps,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Socrates",
+"text": "“Perhaps it is half right,” said I, “and perhaps it is entirely right. But we do not understand it, since it seems to us that the more a bad person gets closer to another bad person, and the more he associates with him, the more he becomes his enemy. For he acts unjustly, and it is presumably impossible for those who act unjustly, and those whom they treat unjustly, to be friends. Isn’t this so?”",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Lysis",
+"text": "“Yes,” said he.",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Socrates",
+"text": "“Accordingly, one half of their statement would not be true, if bad people are indeed like one another.”",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Lysis",
+"text": "“That is true.”",
+"kind": "speech"
+},
+{
+"entry": 194,
+"who": "Socrates",
+"text": "“But I think they mean that the good people are like one another and they are friends, while the bad people, as the saying goes, are never alike. They are not even like themselves, since they are impulsive and unstable. And whatever is unlike and different from itself could hardly be like something else or be its friend. Is that what you think too?”",
+"kind": "speech"
+},
+{
+"entry": 195,
+"who": "Lysis",
+"text": "“I do,” he said.",
+"kind": "speech"
+},
+{
+"entry": 196,
+"who": "Socrates",
+"text": "“Then it seems to me, my friend, that this is the riddle posed by those who say that like is friend to like: that the good person alone is friend to the good person alone, while the bad person never attains true friendship with either the good or the bad. Is that how it seems to you too?”",
+"kind": "speech"
+},
+{
+"entry": 197,
+"who": "Socrates",
+"text": "He nodded.",
+"kind": "speech"
+},
+{
+"entry": 198,
+"who": "Socrates",
+"text": "“So, at this stage, we have the answer. We know who the friends are, for the argument is indicating that they are the people who are good.”",
+"kind": "speech"
+},
+{
+"entry": 199,
+"who": "Lysis",
+"text": "“Well, it certainly seems so to me,” he said.",
+"kind": "speech"
+},
+{
+"entry": 200,
+"who": "Socrates",
+"text": "“And to me,” I said. “And yet, there is something in it that is bothering me. Come on then, by Zeus, let us look at what I am suspicious about. Is the like person, insofar as he is like, a friend to his like, and is such a person useful to the other person? Or let me rather put it as follows. What benefit would anything that is like anything else be able to afford to its like, and what harm could it do that it could not also afford or do to itself? Or what could be done to it that it could not also do to itself? Indeed, how could such things as these be prized by one another if they offer no assistance to one another? Is there any way?”",
+"kind": "speech"
+},
+{
+"entry": 201,
+"who": "Lysis",
+"text": "“There is not.”",
+"kind": "speech"
+},
+{
+"entry": 202,
+"who": "Socrates",
+"text": "“And how could that which is not prized be a friend?”",
+"kind": "speech"
+},
+{
+"entry": 203,
+"who": "Lysis",
+"text": "“There is no way it could.”",
+"kind": "speech"
+},
+{
+"entry": 204,
+"who": "Socrates",
+"text": "“In that case, a like person is not a friend to his like, while the good person – to the extent that he is good, not to the extent that he is like – would be a friend to a good person.”",
+"kind": "speech"
+},
+{
+"entry": 205,
+"who": "Lysis",
+"text": "“Perhaps.”",
+"kind": "speech"
+},
+{
+"entry": 206,
+"who": "Socrates",
+"text": "“What about this? Wouldn’t the good person, to the extent that he is good, be sufficient unto himself, to that extent?”",
+"kind": "speech"
+},
+{
+"entry": 207,
+"who": "Lysis",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 208,
+"who": "Socrates",
+"text": "“And the person who is sufficient, based upon his sufficiency, lacks nothing?”",
+"kind": "speech"
+},
+{
+"entry": 209,
+"who": "Lysis",
+"text": "“Of course.”",
+"kind": "speech"
+},
+{
+"entry": 210,
+"who": "Socrates",
+"text": "“And the person who does not lack anything would not prize anything either?”",
+"kind": "speech"
+},
+{
+"entry": 211,
+"who": "Lysis",
+"text": "“No, he would not.”",
+"kind": "speech"
+},
+{
+"entry": 212,
+"who": "Socrates",
+"text": "“And what he did not prize, he would not love either?”",
+"kind": "speech"
+},
+{
+"entry": 213,
+"who": "Lysis",
+"text": "“Of course not.”",
+"kind": "speech"
+},
+{
+"entry": 214,
+"who": "Socrates",
+"text": "“And he who does not love is not a friend?”",
+"kind": "speech"
+},
+{
+"entry": 215,
+"who": "Lysis",
+"text": "“Apparently not.”",
+"kind": "speech"
+},
+{
+"entry": 216,
+"who": "Socrates",
+"text": "“So, can we say that good people will be friends to good people at all when they do not long for one another when they are apart, since they are sufficient unto themselves even whilst apart, nor do they have any need of each other when both are present? Is there any way that such people as these might set much value on one another?”",
+"kind": "speech"
+},
+{
+"entry": 217,
+"who": "Lysis",
+"text": "“There is not,” said he.",
+"kind": "speech"
+},
+{
+"entry": 218,
+"who": "Socrates",
+"text": "“And yet, they would not be friends if they did not set much value on themselves.”",
+"kind": "speech"
+},
+{
+"entry": 219,
+"who": "Lysis",
+"text": "“True.”",
+"kind": "speech"
+},
+{
+"entry": 220,
+"who": "Socrates",
+"text": "“Just take note, Lysis, of how we are going wrong. Could it be that we are, in a sense, being totally misled?”",
+"kind": "speech"
+},
+{
+"entry": 221,
+"who": "Lysis",
+"text": "“In what way?” he asked.",
+"kind": "speech"
+},
+{
+"entry": 222,
+"who": "Socrates",
+"text": "“There once was a time when I heard someone say, and I am only recollecting it now, that like is utterly hostile to like, and so are good people to good people. What is more, he brought in Hesiod as his witness, by quoting him as follows: ‘And potter is angry with potter, / Bard with bard and beggar with beggar.’",
+"kind": "speech"
+},
+{
+"entry": 223,
+"who": "Socrates",
+"text": "“And then he said that this necessarily applies in all other cases, that things that are most like one another are filled with envy, contention and hatred towards one another, while those that are most unlike are filled with friendship. Indeed, for the sake of the assistance that is offered, the poor man is necessarily a friend to the wealthy man, the weak man to the strong, and the sick person to the physician, and anyone who lacks knowledge prizes the one who knows, and loves him.",
+"kind": "speech"
+},
+{
+"entry": 224,
+"who": "Socrates",
+"text": "“He then went on, pressing his point in a loftier style, claiming that like was in no way friend to like, and that the situation was the exact opposite since the complete opposite is friend, most of all, to the complete opposite. For according to him that is the sort of thing that anything desires, rather than its like. So dry desires moist, cold desires hot, bitter desires sweet, sharp desires dull, empty desires fullness, and full desires emptiness, and the same argument applies to any other cases. For the opposite is food for its opposite, while the like derives no benefit from its like. And, indeed, my friend, as he said all this he also seemed quite clever because he spoke so well. But what do you both think of what he says?” I asked.",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Menexenus",
+"text": "“Well,” said Menexenus, “it sounds good when I hear it like that.”",
+"kind": "speech"
+},
+{
+"entry": 226,
+"who": "Socrates",
+"text": "“So, should we declare that the opposite is friend, most of all, to its opposite?”",
+"kind": "speech"
+},
+{
+"entry": 227,
+"who": "Menexenus",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 228,
+"who": "Socrates",
+"text": "“Well,” said I, “isn’t this absurd, Menexenus, and won’t those all-round wise men, the disputatious folk, attack us gleefully and ask us if enmity is the exact opposite of friendship? What reply shall we give them? Or isn’t it necessary for us to agree that they are speaking the truth?”",
+"kind": "speech"
+},
+{
+"entry": 229,
+"who": "Menexenus",
+"text": "“It is necessary.”",
+"kind": "speech"
+},
+{
+"entry": 230,
+"who": "Socrates",
+"text": "“In that case, they will ask is the enemy friend to the friend, or is the friend friend to the enemy?”",
+"kind": "speech"
+},
+{
+"entry": 231,
+"who": "Menexenus",
+"text": "“Neither,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 232,
+"who": "Socrates",
+"text": "“But is the just friend to the unjust, or the sound-minded to the unrestrained, or the good to the bad?”",
+"kind": "speech"
+},
+{
+"entry": 233,
+"who": "Menexenus",
+"text": "“No, I do not think that is the case.”",
+"kind": "speech"
+},
+{
+"entry": 234,
+"who": "Socrates",
+"text": "“And yet,” said I, “if one thing is indeed friend to another, insofar as they are opposites, it is also necessary that these be friends.”",
+"kind": "speech"
+},
+{
+"entry": 235,
+"who": "Menexenus",
+"text": "“It is necessary.”",
+"kind": "speech"
+},
+{
+"entry": 236,
+"who": "Socrates",
+"text": "“So like is not friend to like, nor is opposite friend to opposite.”",
+"kind": "speech"
+},
+{
+"entry": 237,
+"who": "Menexenus",
+"text": "“It seems not.”",
+"kind": "speech"
+},
+{
+"entry": 238,
+"who": "Socrates",
+"text": "“But let us also consider this. Perhaps the friend is evading us to an even greater extent because it is, in truth, none of these. Rather, that which is neither good nor bad becomes a friend of the good, on that very basis.”",
+"kind": "speech"
+},
+{
+"entry": 239,
+"who": "Menexenus",
+"text": "“What do you mean?” he asked.",
+"kind": "speech"
+},
+{
+"entry": 240,
+"who": "Socrates",
+"text": "“Well, by Zeus,” said I, “I do not know. The fact is I am getting dizzy due to the perplexity involved in this argument, and there is every chance that ‘the beautiful is friend’, as the old proverb says. It seems somehow to be something soft, smooth and slippery, and that is probably why it slips away and eludes us, because that is the sort of thing it is. Indeed, I am saying that the good is beautiful. Don’t you think so too?”",
+"kind": "speech"
+},
+{
+"entry": 241,
+"who": "Menexenus",
+"text": "“I do.”",
+"kind": "speech"
+},
+{
+"entry": 242,
+"who": "Socrates",
+"text": "“Then I say, prophetically, the neither good nor bad is a friend of the beautiful and the good. Listen now as I explain what my prophecy relates to. It seems to me as though there are three kinds of things: the good, the bad, and the neither good nor bad. What do you think?”",
+"kind": "speech"
+},
+{
+"entry": 243,
+"who": "Menexenus",
+"text": "“I think so too,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 244,
+"who": "Socrates",
+"text": "“And the good is not friend to the good, nor the bad to the bad, nor the good to the bad. Our previous argument would not allow this either. So, if anything is actually friend to anything else, what is left, the neither good nor bad, is friend either of the good, or of whatever is like itself. For nothing would, I presume, become friend to the bad.”",
+"kind": "speech"
+},
+{
+"entry": 245,
+"who": "Menexenus",
+"text": "“True.”",
+"kind": "speech"
+},
+{
+"entry": 246,
+"who": "Socrates",
+"text": "“Nor, as we said just now, would like become friend to like. Is this so?”",
+"kind": "speech"
+},
+{
+"entry": 247,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 248,
+"who": "Socrates",
+"text": "“So that which is like the neither good nor bad, will not be a friend to whatever is like itself.”",
+"kind": "speech"
+},
+{
+"entry": 249,
+"who": "Menexenus",
+"text": "“Apparently not.”",
+"kind": "speech"
+},
+{
+"entry": 250,
+"who": "Socrates",
+"text": "“So, it turns out that the neither good nor bad alone is friend to the good alone.”",
+"kind": "speech"
+},
+{
+"entry": 251,
+"who": "Menexenus",
+"text": "“That seems necessary.”",
+"kind": "speech"
+},
+{
+"entry": 252,
+"who": "Socrates",
+"text": "“Well then, boys,” said I, “is what we are now saying also leading us in the right direction? Well, consider the healthy body if you like. It has no need of medical treatment or the associated benefits, for it is healthy enough already. So no one who is healthy is friend to a physician, because he is healthy. Is there anyone?”",
+"kind": "speech"
+},
+{
+"entry": 253,
+"who": "Menexenus",
+"text": "“There is no one.”",
+"kind": "speech"
+},
+{
+"entry": 254,
+"who": "Socrates",
+"text": "“But the person who is sick is, I imagine, a friend because he is ill.”",
+"kind": "speech"
+},
+{
+"entry": 255,
+"who": "Menexenus",
+"text": "“Of course.”",
+"kind": "speech"
+},
+{
+"entry": 256,
+"who": "Socrates",
+"text": "“Now, illness is bad, while medical treatment is beneficial and good.”",
+"kind": "speech"
+},
+{
+"entry": 257,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 258,
+"who": "Socrates",
+"text": "“But a body, insofar as it is a body, is presumably neither good nor bad.”",
+"kind": "speech"
+},
+{
+"entry": 259,
+"who": "Menexenus",
+"text": "“Quite so.”",
+"kind": "speech"
+},
+{
+"entry": 260,
+"who": "Socrates",
+"text": "“And yet a body is compelled by disease to embrace and to love medical treatment.”",
+"kind": "speech"
+},
+{
+"entry": 261,
+"who": "Menexenus",
+"text": "“I think so.”",
+"kind": "speech"
+},
+{
+"entry": 262,
+"who": "Socrates",
+"text": "“So the neither good nor bad becomes a friend of the good, because of the presence of bad.”",
+"kind": "speech"
+},
+{
+"entry": 263,
+"who": "Menexenus",
+"text": "“So it seems.”",
+"kind": "speech"
+},
+{
+"entry": 264,
+"who": "Socrates",
+"text": "“This obviously happens before it, itself, becomes bad because of the bad that it has. And of course, once it has become bad, it would no longer have any desire for the good, nor be its friend. For we said it is impossible for bad to be a friend of good.”",
+"kind": "speech"
+},
+{
+"entry": 265,
+"who": "Menexenus",
+"text": "“Yes, impossible.”",
+"kind": "speech"
+},
+{
+"entry": 266,
+"who": "Socrates",
+"text": "“Now, consider what I am saying. I say that some things are themselves like those that are present with them, while others are not. For instance, if someone decided to besmear anything at all with some colour, the smeared colour is presumably present to whatever it is smeared onto.”",
+"kind": "speech"
+},
+{
+"entry": 267,
+"who": "Menexenus",
+"text": "“Certainly.”",
+"kind": "speech"
+},
+{
+"entry": 268,
+"who": "Socrates",
+"text": "“Well then, in respect of colour, is the smeared object at that stage of the same kind as what is on it?”",
+"kind": "speech"
+},
+{
+"entry": 269,
+"who": "Menexenus",
+"text": "“I do not understand,” said he.",
+"kind": "speech"
+},
+{
+"entry": 270,
+"who": "Socrates",
+"text": "“Consider this,” I said. “If someone were to smear your blonde hair with white lead, would it then be white or would it appear white?”",
+"kind": "speech"
+},
+{
+"entry": 271,
+"who": "Menexenus",
+"text": "“It would appear white,” said he.",
+"kind": "speech"
+},
+{
+"entry": 272,
+"who": "Socrates",
+"text": "“And whiteness would actually be present to it.”",
+"kind": "speech"
+},
+{
+"entry": 273,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 274,
+"who": "Socrates",
+"text": "“Nevertheless, it would be no more white than it was before, and despite the presence of whiteness it is not white, or black either.”",
+"kind": "speech"
+},
+{
+"entry": 275,
+"who": "Menexenus",
+"text": "“True.”",
+"kind": "speech"
+},
+{
+"entry": 276,
+"who": "Socrates",
+"text": "“But of course, my friend, once old age brings on this same colour, your hair then becomes like in kind to what is present, white by the presence of white.”",
+"kind": "speech"
+},
+{
+"entry": 277,
+"who": "Menexenus",
+"text": "“Of course.”",
+"kind": "speech"
+},
+{
+"entry": 278,
+"who": "Socrates",
+"text": "“Well, this is what I am now asking you. Will something that has something else present to it be like in kind to that which is present, or does this depend upon the manner of its presence?”",
+"kind": "speech"
+},
+{
+"entry": 279,
+"who": "Menexenus",
+"text": "“It is more the latter,” said he.",
+"kind": "speech"
+},
+{
+"entry": 280,
+"who": "Socrates",
+"text": "“And so the neither good nor bad is, on occasion, not yet bad although bad is present, but there are times when it has already become like the bad.”",
+"kind": "speech"
+},
+{
+"entry": 281,
+"who": "Menexenus",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 282,
+"who": "Socrates",
+"text": "“In that case, whenever it is not yet bad, even though bad is present, this particular presence makes it desire good, but once it makes it bad, it deprives it of that desire, and at the same time of the friendship of the good. For it is no longer the neither good nor bad, but bad, and we said bad is not friend to good.”",
+"kind": "speech"
+},
+{
+"entry": 283,
+"who": "Menexenus",
+"text": "“It is not.”",
+"kind": "speech"
+},
+{
+"entry": 284,
+"who": "Socrates",
+"text": "“Accordingly, we should also say that those who are wise already no longer engage in philosophy, whether they are gods or human beings. Then again, we should say that those who are in such an ignorant condition as to be bad people do not engage in philosophy, for no one who is bad and ignorant engages in philosophy. So we are left with those who possess this bad thing, ignorance, but are not yet rendered senseless by it, or ignorant, even though they still think that they know what they do not know. It follows then that those who are not yet either good or bad engage in philosophy, while those who are bad do not, nor do those who are good. For it was evident to us, in our earlier discussions, that opposite is not a friend of opposite, nor like of like. Don’t you remember?”",
+"kind": "speech"
+},
+{
+"entry": 285,
+"who": "Menexenus",
+"text": "“Entirely so,” they both replied.",
+"kind": "speech"
+},
+{
+"entry": 286,
+"who": "Socrates",
+"text": "“In that case, Lysis and Menexenus,” I said, “we have now discovered, comprehensively, what the friend is and what it is not. Indeed, we declare that whether it is based upon the soul, or based upon the body, or anything else, the neither good nor bad is a friend of the good, because of the presence of bad.”",
+"kind": "speech"
+},
+{
+"entry": 287,
+"who": "Socrates",
+"text": "They both said that they agreed completely that this is the case. And what is more, I myself was utterly delighted, like a hunter pleased at having what I was hunting for within my grasp. And then, I don’t know from where, the strangest suspicion came over me that what we were accepting might not be true. And I was suddenly quite agitated, and I said, “Oh dear, Lysis and Menexenus, it looks as if our new found wealth is only a dream.”",
+"kind": "speech"
+},
+{
+"entry": 288,
+"who": "Menexenus",
+"text": "“But why?” asked Menexenus.",
+"kind": "speech"
+},
+{
+"entry": 289,
+"who": "Socrates",
+"text": "“I am afraid,” said I, “we may have met up with some arguments concerning the friend that are quite like pretentious people.”",
+"kind": "speech"
+},
+{
+"entry": 290,
+"who": "Menexenus",
+"text": "“How so?” he asked.",
+"kind": "speech"
+},
+{
+"entry": 291,
+"who": "Socrates",
+"text": "“Let us consider it in this way,” said I. “Would someone who is a friend be a friend to something, or would he not?”",
+"kind": "speech"
+},
+{
+"entry": 292,
+"who": "Menexenus",
+"text": "“He must be,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 293,
+"who": "Socrates",
+"text": "“Would he be a friend for the sake of nothing and because of nothing, or for the sake of something and because of something?”",
+"kind": "speech"
+},
+{
+"entry": 294,
+"who": "Menexenus",
+"text": "“For the sake of something and because of something.”",
+"kind": "speech"
+},
+{
+"entry": 295,
+"who": "Socrates",
+"text": "“Now, consider that ‘something’ for the sake of which a friend is friend to his friend. Is that a friend, or is it neither friend nor foe?”",
+"kind": "speech"
+},
+{
+"entry": 296,
+"who": "Menexenus",
+"text": "“I do not entirely follow,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 297,
+"who": "Socrates",
+"text": "“That is reasonable enough,” said I, “but here is something you will perhaps follow, and I think that I too will better understand what I am saying. We said just now that someone who is ill is a friend of the physician. Isn’t this so?”",
+"kind": "speech"
+},
+{
+"entry": 298,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 299,
+"who": "Socrates",
+"text": "“In that case, isn’t he a friend of the physician because of disease and for the sake of health?”",
+"kind": "speech"
+},
+{
+"entry": 300,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 301,
+"who": "Socrates",
+"text": "“And yet, sickness is a bad thing?”",
+"kind": "speech"
+},
+{
+"entry": 302,
+"who": "Menexenus",
+"text": "“Of course.”",
+"kind": "speech"
+},
+{
+"entry": 303,
+"who": "Socrates",
+"text": "“What about health?” said I. “Is it a good thing or a bad thing, or neither?”",
+"kind": "speech"
+},
+{
+"entry": 304,
+"who": "Menexenus",
+"text": "“A good thing,” said he.",
+"kind": "speech"
+},
+{
+"entry": 305,
+"who": "Socrates",
+"text": "“So, we were saying, it seems, that the body, being neither good nor bad, is a friend of medical treatment because of disease, that is because of something bad even though medical treatment is something good. But it is for the sake of health that medical treatment has acquired this friendship, and health is a good thing. Is this so?”",
+"kind": "speech"
+},
+{
+"entry": 306,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 307,
+"who": "Socrates",
+"text": "“And is health a friend or not a friend?”",
+"kind": "speech"
+},
+{
+"entry": 308,
+"who": "Menexenus",
+"text": "“A friend.”",
+"kind": "speech"
+},
+{
+"entry": 309,
+"who": "Socrates",
+"text": "“And disease is a foe?”",
+"kind": "speech"
+},
+{
+"entry": 310,
+"who": "Menexenus",
+"text": "“Very much so.”",
+"kind": "speech"
+},
+{
+"entry": 311,
+"who": "Socrates",
+"text": "“So, the neither bad nor good is a friend of the good because of the bad, that is the foe, for the sake of the good, that is the friend.”",
+"kind": "speech"
+},
+{
+"entry": 312,
+"who": "Menexenus",
+"text": "“Apparently.”",
+"kind": "speech"
+},
+{
+"entry": 313,
+"who": "Socrates",
+"text": "“So the friend is a friend for the sake of the friend, because of the foe.”",
+"kind": "speech"
+},
+{
+"entry": 314,
+"who": "Menexenus",
+"text": "“So it seems.”",
+"kind": "speech"
+},
+{
+"entry": 315,
+"who": "Socrates",
+"text": "“So be it,” said I. “Since we have arrived at this point, boys, we should pay close attention lest we be deceived. I am prepared to allow that a friend has become the friend of the friend, and the like becomes a friend of the like, something we say is impossible. Nevertheless, there is a point we should consider in case what we are now saying does deceive us. We are saying that medical treatment is a friend for the sake of health.”",
+"kind": "speech"
+},
+{
+"entry": 316,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 317,
+"who": "Socrates",
+"text": "“Isn’t health also a friend?”",
+"kind": "speech"
+},
+{
+"entry": 318,
+"who": "Menexenus",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 319,
+"who": "Socrates",
+"text": "“So, if it is a friend, it is a friend for the sake of something?”",
+"kind": "speech"
+},
+{
+"entry": 320,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 321,
+"who": "Socrates",
+"text": "“For the sake indeed of some friend, if it is actually to be in conformity with what was agreed previously.”",
+"kind": "speech"
+},
+{
+"entry": 322,
+"who": "Menexenus",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 323,
+"who": "Socrates",
+"text": "“Won’t that in turn also be a friend, for the sake of a friend?”",
+"kind": "speech"
+},
+{
+"entry": 324,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 325,
+"who": "Socrates",
+"text": "“Well then, if we go on like this, mustn’t we necessarily either exhaust ourselves or arrive at some beginning which will no longer refer to another friend, but will have come to that which is first friend, for the sake of which, we say, all the others are friends.”",
+"kind": "speech"
+},
+{
+"entry": 326,
+"who": "Menexenus",
+"text": "“Necessarily.”",
+"kind": "speech"
+},
+{
+"entry": 327,
+"who": "Socrates",
+"text": "“Now, this is what I mean. All the others which we said are friends for the sake of that are indeed so many images of it, and should not deceive us, since that friend is the first, the one that is, in truth, friend.",
+"kind": "speech"
+},
+{
+"entry": 328,
+"who": "Socrates",
+"text": "“Let us think about it like this. Whenever someone sets great value on something, as a father for instance sometimes esteems his son above all his other acquisitions, does a man like this, for the sake of holding his son in high regard, also set great value upon something else? For example, if he was aware that his son had drunk hemlock, wouldn’t he set a great value on wine, if he thought it would save his son?”",
+"kind": "speech"
+},
+{
+"entry": 329,
+"who": "Menexenus",
+"text": "“Of course,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 330,
+"who": "Socrates",
+"text": "“And also on the vessel that contained the wine?”",
+"kind": "speech"
+},
+{
+"entry": 331,
+"who": "Menexenus",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 332,
+"who": "Socrates",
+"text": "“Well then, in that moment does he set no greater value on his own son than on a clay cup, or on three measures of wine than on his own son? Or is the situation as follows: all concern of this sort is directed not to whatever is provided for the sake of something else, but to that for the sake of which anything of this sort is provided. We often say that we set great value upon gold and silver. I am not denying this, but that does not make the statement any truer. But we do value, most of all, that for the sake of which gold, and everything that is provided, is provided, whatever it proves to be. Shall we put it like that?”",
+"kind": "speech"
+},
+{
+"entry": 333,
+"who": "Menexenus",
+"text": "“Certainly.”",
+"kind": "speech"
+},
+{
+"entry": 334,
+"who": "Socrates",
+"text": "“Doesn’t the same argument apply to the friend? Indeed, when we speak of those who are friends to us, for the sake of some other friend, we are obviously saying it using the mere word ‘friend’. But the actual friend is likely to be the very one in which all these so-called friendships end up.”",
+"kind": "speech"
+},
+{
+"entry": 335,
+"who": "Menexenus",
+"text": "“That is quite likely so,” he said.",
+"kind": "speech"
+},
+{
+"entry": 336,
+"who": "Socrates",
+"text": "“In that case, the actual friend is not a friend for the sake of a friend.”",
+"kind": "speech"
+},
+{
+"entry": 337,
+"who": "Menexenus",
+"text": "“True.”",
+"kind": "speech"
+},
+{
+"entry": 338,
+"who": "Socrates",
+"text": "“Well, this idea that a friend is a friend for the sake of a friend is now dismissed. But is the good a friend?”",
+"kind": "speech"
+},
+{
+"entry": 339,
+"who": "Menexenus",
+"text": "“I think so.”",
+"kind": "speech"
+},
+{
+"entry": 340,
+"who": "Socrates",
+"text": "“So, is it because of the bad that the good is loved, and do matters stand as follows? We have been speaking of three things just now: good, bad, and neither good nor bad. Suppose there were only two left, and the bad were to depart and be gone, and to interact with nothing, neither with body nor soul, nor with anything else that according to us is neither good nor bad just by itself. Would the good then be of no benefit to us? Would it rather have become useless? For if nothing were to harm us any more, we would not be in need of any assistance at all, and accordingly it would become evident that we cherish and love the good because of the bad, the good being a sort of remedy for the bad, and the bad being a sort of disease, and in the absence of disease there is no need for a remedy. So, is the good like this by nature, and is it loved by us because of the bad, we who are midway between the bad and the good? And is it itself of no benefit, for its own sake?”",
+"kind": "speech"
+},
+{
+"entry": 341,
+"who": "Menexenus",
+"text": "“That seems to be how matters stand,” he replied.",
+"kind": "speech"
+},
+{
+"entry": 342,
+"who": "Socrates",
+"text": "“So that friend to us, the one in which all the others end up – the others that according to us are friends for the sake of another friend – that friend does not resemble these at all. For these are called ‘friends for the sake of a friend’, while the actual friend turns out to be by nature the complete opposite of this, for it proved to be our friend for the sake of a foe, but if the foe departs, this friend it seems is no longer our friend.”",
+"kind": "speech"
+},
+{
+"entry": 343,
+"who": "Menexenus",
+"text": "“It seems not,” said he, “based on what is now being said at any rate.”",
+"kind": "speech"
+},
+{
+"entry": 344,
+"who": "Socrates",
+"text": "“Well,” said I, “by Zeus, if bad ceases to exist, will there still be hunger or thirst or anything else of that sort? Or will there always be hunger as long as there are humans and other living beings, but will it not be harmful? And thirst too, and the other desires, will these exist but not be bad, since bad has ceased to exist? Or is it ridiculous to ask what will be, or not be, in that situation, for who knows? But in any case, we do know that as matters now stand it is possible to be hungry and be harmed, and it is also possible to be benefited. Is this so?”",
+"kind": "speech"
+},
+{
+"entry": 345,
+"who": "Menexenus",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 346,
+"who": "Socrates",
+"text": "“Therefore, when someone experiences thirst, or desires anything else of that sort, it is possible sometimes to desire them in a beneficial manner, sometimes in a harmful manner, and sometimes neither?”",
+"kind": "speech"
+},
+{
+"entry": 347,
+"who": "Menexenus",
+"text": "“Emphatically so.”",
+"kind": "speech"
+},
+{
+"entry": 348,
+"who": "Socrates",
+"text": "“Well, if the bad things cease to exist, is there any reason why it is appropriate for things that are not bad to cease to exist along with them?”",
+"kind": "speech"
+},
+{
+"entry": 349,
+"who": "Menexenus",
+"text": "“No reason.”",
+"kind": "speech"
+},
+{
+"entry": 350,
+"who": "Socrates",
+"text": "“So desires that are neither good nor bad will exist, even if bad things cease to exist.”",
+"kind": "speech"
+},
+{
+"entry": 351,
+"who": "Menexenus",
+"text": "“So it appears.”",
+"kind": "speech"
+},
+{
+"entry": 352,
+"who": "Socrates",
+"text": "“Now, is it possible, whilst experiencing desire and passion, not to love whatever the desire and passion is for?”",
+"kind": "speech"
+},
+{
+"entry": 353,
+"who": "Menexenus",
+"text": "“I do not think so.”",
+"kind": "speech"
+},
+{
+"entry": 354,
+"who": "Socrates",
+"text": "“In that case, even when bad things cease to exist, there will still be some friends.”",
+"kind": "speech"
+},
+{
+"entry": 355,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 356,
+"who": "Socrates",
+"text": "“This would not be the case if bad was the cause of something being a friend, since one thing could not be friend to another if this ceased to exist. For once a cause ceases to exist, it is presumably impossible that whatever this cause caused, should still exist.”",
+"kind": "speech"
+},
+{
+"entry": 357,
+"who": "Menexenus",
+"text": "“Correct.”",
+"kind": "speech"
+},
+{
+"entry": 358,
+"who": "Socrates",
+"text": "“Now, haven’t we agreed that the friend loves something, and does so because of something? And we thought at the time that whatever is neither bad nor good loves the good because of the bad?”",
+"kind": "speech"
+},
+{
+"entry": 359,
+"who": "Menexenus",
+"text": "“True.”",
+"kind": "speech"
+},
+{
+"entry": 360,
+"who": "Socrates",
+"text": "“But now, it seems, some other cause of loving and being loved is making an appearance.”",
+"kind": "speech"
+},
+{
+"entry": 361,
+"who": "Menexenus",
+"text": "“So it seems.”",
+"kind": "speech"
+},
+{
+"entry": 362,
+"who": "Socrates",
+"text": "“Well then, is it the case, as we were saying just now, that desire is the cause of friendship, and that which desires is friend to whatever it desires at whatever moment it desires it? And was what we were saying earlier, about what a friend is, just idle chatter, like a tedious, long drawn-out poem?”",
+"kind": "speech"
+},
+{
+"entry": 363,
+"who": "Menexenus",
+"text": "“Quite likely,” said he.",
+"kind": "speech"
+},
+{
+"entry": 364,
+"who": "Socrates",
+"text": "“And yet,” said I, “that which desires, desires what it lacks. Is this so?”",
+"kind": "speech"
+},
+{
+"entry": 365,
+"who": "Menexenus",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 366,
+"who": "Socrates",
+"text": "“So that which is friend, is friend to that which it lacks?”",
+"kind": "speech"
+},
+{
+"entry": 367,
+"who": "Menexenus",
+"text": "“I think so.”",
+"kind": "speech"
+},
+{
+"entry": 368,
+"who": "Socrates",
+"text": "“And that from which something is taken away, becomes lacking.”",
+"kind": "speech"
+},
+{
+"entry": 369,
+"who": "Menexenus",
+"text": "“Of course.”",
+"kind": "speech"
+},
+{
+"entry": 370,
+"who": "Socrates",
+"text": "“It seems then that the passion, the friendship and the desire is apparently for that which is kindred to us, Menexenus and Lysis.”",
+"kind": "speech"
+},
+{
+"entry": 371,
+"who": "Socrates",
+"text": "They both concurred. “So, if the two of you are friends to one another, you are somehow, by nature, kindred to one another.”",
+"kind": "speech"
+},
+{
+"entry": 372,
+"who": "Menexenus",
+"text": "“Exactly,” they said.",
+"kind": "speech"
+},
+{
+"entry": 373,
+"who": "Socrates",
+"text": "“And so,” said I, “if one person desires another, my boys, or experiences passion, he would never have felt desire or passion or love unless he somehow happened to be kindred to the object of his passion, on the basis of soul or on the basis of some characteristic, or manners, or form of the soul.”",
+"kind": "speech"
+},
+{
+"entry": 374,
+"who": "Menexenus",
+"text": "“Certainly,” said Menexenus, but Lysis was silent.",
+"kind": "speech"
+},
+{
+"entry": 375,
+"who": "Socrates",
+"text": "“So there it is,” said I. “It has become evident to us that we necessarily love what is kindred by nature.”",
+"kind": "speech"
+},
+{
+"entry": 376,
+"who": "Menexenus",
+"text": "“So it seems,” he said.",
+"kind": "speech"
+},
+{
+"entry": 377,
+"who": "Socrates",
+"text": "“Then it is necessary that the genuine and unpretentious lover be loved by his favourite.”",
+"kind": "speech"
+},
+{
+"entry": 378,
+"who": "Socrates",
+"text": "To this Lysis and Menexenus gave a somewhat reluctant nod of assent, while Hippothales was so pleased that he turned all sorts of colours. And I, wishing to scrutinise the argument, said, “If what is kindred differs from what is like, we would in my opinion, Lysis and Menexenus, be saying something worthwhile about what a friend is. But if what is kindred and what is like happen to be the same, it is not easy to discard the previous argument, that like is useless to like based upon their likeness, and to accept that what is useless is a friend. Well, since the argument is making us drunk, would you like to come to an agreement and declare that what is kindred is something different from what is like?”",
+"kind": "speech"
+},
+{
+"entry": 379,
+"who": "Menexenus",
+"text": "“Certainly.”",
+"kind": "speech"
+},
+{
+"entry": 380,
+"who": "Socrates",
+"text": "“And shall we also propose that the good is kindred to everyone while the bad is alien to them all? Or is the bad kindred to the bad, and the good to the good, and the neither good nor bad to the neither good nor bad?”",
+"kind": "speech"
+},
+{
+"entry": 381,
+"who": "Socrates",
+"text": "They both said that in their opinion, each is kindred to each, in this way. “Well then, boys,” said I, “we have once more fallen back into those arguments about friendship that we discarded initially. For the unjust will be no less a friend to the unjust, and the bad no less a friend to the bad, than the good will be to the good.”",
+"kind": "speech"
+},
+{
+"entry": 382,
+"who": "Menexenus",
+"text": "“So it seems,” he said.",
+"kind": "speech"
+},
+{
+"entry": 383,
+"who": "Socrates",
+"text": "“What about this? If we should declare that the good and the kindred are the same, is the good a friend to nothing else but the good alone?”",
+"kind": "speech"
+},
+{
+"entry": 384,
+"who": "Menexenus",
+"text": "“Certainly.”",
+"kind": "speech"
+},
+{
+"entry": 385,
+"who": "Socrates",
+"text": "“And yet we thought that we ourselves had refuted this argument. Don’t you remember?”",
+"kind": "speech"
+},
+{
+"entry": 386,
+"who": "Menexenus",
+"text": "“We remember.”",
+"kind": "speech"
+},
+{
+"entry": 387,
+"who": "Socrates",
+"text": "“What use might we still make of this argument? Or is it obvious that there is none? So I should, like the wise men in the law courts, go back over everything that has been said. Indeed, if neither the loved nor the loving, nor those who are like nor those who are unlike, nor the good, nor the kindred, nor any others we have gone through – there were so many that I no longer remember them – well, if none of these is a friend, I no longer have anything to say.”",
+"kind": "speech"
+},
+{
+"entry": 388,
+"who": "Socrates",
+"text": "Having said all this, I was thinking of engaging one of the older age group, when the tutors of Menexenus and Lysis came in, like spirits of some sort, bringing the boys’ brothers. They called them, and ordered them to come home since it was already quite late. Now, along with the group around us, we tried initially to drive them away, but when they paid no heed to us, kept on speaking angrily in broken Greek, and calling the boys just as before, we decided they had had too much to drink at the Hermaea festival and might be difficult to deal with, so we gave in to them and broke up our gathering.",
+"kind": "speech"
+},
+{
+"entry": 389,
+"who": "Socrates",
+"text": "However, while they were departing, I said, “Now, Lysis and Menexenus, we really have become figures of fun, me an old man, and the two of you. For these people here will say, as they are leaving, that we think we are friends of one another – indeed, I also count myself as one of you – but we have not yet been able to discover what the friend is.”",
+"kind": "speech"
+}
+]
+}
+]
+}

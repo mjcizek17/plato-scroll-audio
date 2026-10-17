@@ -1,0 +1,1403 @@
+{
+"key": "euth",
+"title": "Euthyphro",
+"parts": [
+{
+"name": "Euthyphro",
+"lines": [
+{
+"entry": 0,
+"who": "Euthyphro",
+"text": "What ever is going on, Socrates? You have left your usual haunt in the Lyceum and you are now spending time here at the Royal Stoa. Surely you too do not have a suit before the Royal Archon, as I do.",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Socrates",
+"text": "Well, Athenians, Euthyphro, do not call it a suit, but a prosecution.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Euthyphro",
+"text": "What are you saying? Then someone is prosecuting you it seems, for I shall not accuse you of prosecuting someone else.",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Socrates",
+"text": "Of course not.",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Euthyphro",
+"text": "Is someone prosecuting you then?",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Socrates",
+"text": "Yes, indeed.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Euthyphro",
+"text": "Who is he?",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "I hardly even know the man myself, Euthyphro. Apparently he is someone young and unknown. Anyway, his name, I believe, is Meletus. He belongs to the deme of Pittheus, if you can think of a Meletus from Pittheus with straight hair, not much of a beard, and a hook nose.",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Euthyphro",
+"text": "I cannot think of anyone, Socrates. But tell me, what charge has he brought against you?",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Socrates",
+"text": "What charge? Well, it is no ordinary charge, in my opinion anyway. Indeed, it is quite an achievement for a young man to have understood a matter of such importance. For this fellow claims to know how the young people are being corrupted and who their corrupters are. And he is probably wise, and having discerned my ignorance he goes to the city, just as a child runs to its mother, accusing me of corrupting people of his own age. And it looks to me as if he alone embarks upon his political career in the right way, for it is right to care for the young people first so that they turn out as good as they possibly can, just as a good farmer is likely to care first for the young plants, and after that for the others. And in fact, Meletus is probably clearing us out first, the destroyers of the crop of youth, as he says. Then, of course, once he has cared for the older generation as well, he will be responsible for great benefits aplenty to our city. At least, that would be the likely outcome of setting about it in this way.",
+"kind": "speech"
+},
+{
+"entry": 10,
+"who": "Euthyphro",
+"text": "Would that it were so, Socrates, but I fear that the outcome may turn out to be the very opposite. In fact, I think he is actually starting off by damaging the very heart of our city by attacking you unjustly. But tell me, how exactly does he say you corrupt the young?",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "It sounds absurd, my wonderful friend, on first hearing at any rate. For he says that I am an inventor of gods, and on the grounds that I am inventing new gods and disregarding the old ones, he is prosecuting me on their behalf, so he says.",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Euthyphro",
+"text": "I understand, Socrates. It’s because you say that the divine sign comes to you from time to time. So he has prosecuted you on this charge, as an innovator in matters divine, and he goes into court to slander you, knowing that such issues are easily misrepresented to most people. Indeed, in my own case too, whenever I say anything in the Assembly about matters divine, predicting the future for them, they laugh at me as if I were a madman, and yet nothing I foretold has not come true. But nevertheless, they are jealous of everyone like us. However, we must not worry about them, but face up to them.",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "Dear Euthyphro, being laughed at is perhaps not an issue. Indeed, the Athenians, in my view, are not greatly concerned if they believe that someone is clever, provided of course he does not set about teaching his own wisdom. But if they believe he is also making other people turn out like himself, they get angry, either out of jealousy, as you say, or for some other reason.",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Euthyphro",
+"text": "Well, I am not very keen to test their precise attitude to me on this issue.",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "Well, perhaps you have a reputation for holding yourself aloof and being reluctant to teach your own wisdom, while I am afraid lest, due to my love of humanity, I have a reputation in their eyes for saying whatever I have to say without restraint to anyone I meet, free of charge, and not only that, but I would gladly pay someone who was prepared to listen to me. Well, as I was saying just now, if they are going to laugh at me just as you say they laugh at you, it might be quite pleasant to spend our time having fun and laughing in the courtroom. But if, on the other hand, they are going to be serious, then it is unclear how the issue will turn out, except to soothsayers like yourself.",
+"kind": "speech"
+},
+{
+"entry": 16,
+"who": "Euthyphro",
+"text": "Well, Socrates, perhaps it will all come to nothing. You will contest your suit in the way you see fit, and I think I shall do the same with mine.",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "Socrates",
+"text": "But, Euthyphro, what is this suit of yours? Are you defending or prosecuting?",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Euthyphro",
+"text": "I am prosecuting.",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Socrates",
+"text": "Whom?",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Euthyphro",
+"text": "Someone whom I am regarded as mad, once more, for prosecuting.",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "Why so? Are you prosecuting someone who can fly?",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Euthyphro",
+"text": "He is very far indeed from flying. In fact, he happens to be well on in years.",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "Who is the man?",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Euthyphro",
+"text": "My father.",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "Your father, my good man?",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Euthyphro",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "But what is the charge? And what is your suit about?",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Euthyphro",
+"text": "Murder, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "By Heracles, Euthyphro! Most people are presumably unaware of the proper procedure here. For I do not believe it is appropriate for any random person to do this, but only someone who is presumably already far advanced in wisdom.",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Euthyphro",
+"text": "Far advanced indeed, by Zeus, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Socrates",
+"text": "And was it some member of your family who was killed by your father? Of course it was, for I presume you would not have prosecuted your father for murder on account of a stranger.",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Euthyphro",
+"text": "It’s amusing, Socrates, that you think it makes any difference whether the murdered man was a stranger or a family member, instead of attending to the single issue of whether the killer killed his victim justly or unjustly. And if he acted justly, one should leave him be. However, if he acted unjustly, one should prosecute him, especially if the killer shares your hearth and your table. For equal is the pollution that befalls you if you live with such a person, knowing what he knows, without purifying yourself and that person by bringing him to justice. In this case, the man who was slain was a day-labourer of mine, and when we were farming on Naxos he worked on our land. One day, mad with wine, he got angry with one of our slaves and slit his throat. So my father bound him hand and foot, threw him into a ditch, and sent a man here to Athens to find out from the legal expositor what he should do. Meanwhile, he showed no regard for the man he had tied up and neglected him, since he was a murderer, and it did not matter even if he should die, which is exactly what happened to him. Before the messenger arrived back from the legal expositor, the man died from hunger, the cold, and his bonds. Well, my father and the rest of my family are obviously angry over this, because I am prosecuting my father for murder on behalf of the murderer. They maintain that he did not actually kill the man, and even if he did definitely kill him the slain man was a murderer anyway, and I should not be concerned over someone like this, because it is unholy for a son to prosecute his father for murder. So poor is their knowledge of the divine realm, Socrates, and where it stands in relation to what is holy and what is unholy!",
+"kind": "speech"
+},
+{
+"entry": 33,
+"who": "Socrates",
+"text": "But, by Zeus, Euthyphro, do you believe that you understand divine matters in relation to holiness and unholiness so precisely that you are not afraid, given the circumstances you are describing, of performing a further unholy action yourself by bringing your father to justice?",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Euthyphro",
+"text": "Socrates, I would be useless indeed, and Euthyphro would not be different from anybody else, if I did not have precise knowledge of all such matters.",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "In that case, wonderful Euthyphro, my best course of action is to become your pupil and challenge Meletus on these very issues in advance of his prosecution. I will do so by saying that, heretofore, I have always attached great importance to knowledge of divine matters, and now, since the man claims that I am falling into error through my rash utterances and innovations on matters divine, I have become your pupil. I would then say, “Dear Meletus, if you accept that Euthyphro is wise in such matters, then you should also believe that my views too are sound and drop the charge. Otherwise, rather than prosecuting me, prosecute Euthyphro, my teacher, for corrupting his elders, myself and his own father, by instructing me and censuring and punishing him.” And if I did not convince him, and he did not drop the charge, or prosecute you instead of me, I would say the very same things in court as in my pre-trial challenge.",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Euthyphro",
+"text": "Yes, by Zeus, Socrates! And if he were to attempt to prosecute me, I think I would find where his weak point lies, and our argument in court would be concerned with him long before it concerned me.",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Socrates",
+"text": "Yes, my dear friend, and I am eager to become your pupil because I recognise all this. I know that neither this man Meletus, nor anyone else I presume, seems even to notice you, yet he picked me out immediately, with so little difficulty that he has prosecuted me for impiety. Now then, tell me, by Zeus, what you claimed a moment ago to know full well. What sort of thing, according to you, is pious, and what is impious, in relation to murder or in relation to anything else? Is not the holy itself the same as itself, while the unholy is, in turn, the opposite of everything holy, yet like itself? In other words, anything that is to be unholy possesses a single form based upon unholiness?",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Euthyphro",
+"text": "Of course, Socrates, entirely so.",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "Tell me then, according to you, what is holiness and what is unholiness?",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Euthyphro",
+"text": "Well, I say that what is holy is exactly what I am doing now, prosecuting the wrongdoer for murder, for robbing temples, or for committing any other crimes of that sort, even if he happens to be your father or mother or anyone else, while failure to prosecute is unholy. Now, Socrates, behold what convincing evidence I shall present of the law that this is the case, evidence I have already given to others, showing that these events are unfolding as they should, and we should not give way to an impious person no matter who that person happens to be. For people regard Zeus as the best and most just of the gods, and they accept that he bound his own father, Cronus, for unjustly devouring his children, and that he, Cronus, in turn, had castrated his own father for similar reasons. Yet they are angry with me for prosecuting my father for acting unjustly, and so when speaking about the gods and when speaking about me, they are contradicting themselves.",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "Well, Euthyphro, could this be the reason I am being prosecuted, because whenever someone tells me stories of this kind about the gods, I accept them only with some reluctance? Because of this, it seems, someone may well declare that I am in error. So now, if you who understand such matters so well also approve of these stories, then it seems that I need to go along with them too. For what else can someone say when they admit that they know nothing about these matters? But tell me, in the name of friendship, do you believe in truth that these things happened in this way?",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Euthyphro",
+"text": "Yes Socrates, and there are stories, even stranger than these, that most people do not know about.",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Socrates",
+"text": "So, do you also believe that there really is war between the gods, bitter enmities, battles, and lots of other things like these, as recounted by the poets? These also adorn our sacred places, courtesy of the fine painters, and, in particular, the robe that is carried up to the Acropolis at the Great Panathenaea is full of depictions of this kind. Are we to say that these are all true, Euthyphro?",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Euthyphro",
+"text": "Not only that, Socrates, but, as I said just now, I shall, if you like, relate lots of other stories to you about matters divine, which, on hearing, I know full well you will be astonished.",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "I would not be surprised. But you can recount these to me at your leisure on some other occasion. Right now, please try to answer the question I asked you a moment ago, more clearly. For you did not instruct me adequately, my friend, when I asked you earlier what precisely holiness is. Instead, you told me that this action you are performing, prosecuting your father for murder, is holy.",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Euthyphro",
+"text": "And I told you the truth, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "Perhaps, Euthyphro, but in fact you say that lots of other things are holy too.",
+"kind": "speech"
+},
+{
+"entry": 48,
+"who": "Euthyphro",
+"text": "And so they are.",
+"kind": "speech"
+},
+{
+"entry": 49,
+"who": "Socrates",
+"text": "May I remind you, Euthyphro, that this is not what I asked you to teach me about – one or two of the many holy actions – but about that very form by which everything that is holy, is holy. For I think you said that what is unholy is unholy, and what is holy is holy, by a single form, or do you not remember?",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Euthyphro",
+"text": "I remember.",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Socrates",
+"text": "Well, what precisely is this form? Teach me, so that I may focus upon it, and using this as a standard, declare that any action that is like this standard is holy, and any action that is unlike it is not, whether it is performed by you or by anyone else.",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Euthyphro",
+"text": "Well, Socrates, if you want me to express it in those terms, I shall do so.",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "Yes, that is what I want.",
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Euthyphro",
+"text": "Well then, what is loved by the gods is holy, but what is not loved by them is unholy.",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "Excellent, Euthyphro! You have now answered in the way that I asked you to answer, although I do not yet know if you have answered truthfully. But of course, you will go on to explain that what you are saying is true.",
+"kind": "speech"
+},
+{
+"entry": 56,
+"who": "Euthyphro",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "Come on then, let us consider what we are saying: whatever is beloved of the gods, and the person who is beloved of the gods, is holy, and whatever is hated by the gods, and whoever is hated by them, is unholy. And the holy is not the same as the unholy, but is its complete opposite. Is this not so?",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Euthyphro",
+"text": "It is so, indeed.",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "And what we are saying is, apparently, correct?",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Euthyphro",
+"text": "I think so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "But Euthyphro, was it not also stated that the gods quarrel and differ with one another, and that there is enmity between them?",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Euthyphro",
+"text": "Yes, that was stated.",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "But what is the disagreement about when it generates enmity and anger? Let us consider this. Suppose you and I differ about which of two numbers is greater. Would our disagreement about these generate enmity and make us angry with one another, or would we quickly settle these matters by engaging in calculation, in such cases as these at any rate?",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Euthyphro",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "And if we were to differ about the greater and the lesser, we would quickly put an end to our dispute through engaging in measurement?",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Euthyphro",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "And I think we would decide about what is heavier and what is lighter by engaging in weighing?",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Euthyphro",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "When we become enemies and get angry with one another, what then might our disagreement be about? What issue might we be unable to resolve? Perhaps you cannot answer readily, but I will make a suggestion. Consider if the issue at hand is the just and the unjust, beautiful and ugly, good and bad. Aren’t these issues we disagree about, and being unable to come to an adequate resolution do we not become enemies whenever this happens to you and me, or to anyone else?",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Euthyphro",
+"text": "Yes, Socrates, this is the disagreement in question, and it concerns these issues.",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "But what about the gods, Euthyphro? If they do, in fact, disagree on anything, would they not disagree on these very issues?",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Euthyphro",
+"text": "This must be so.",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "And in fact, according to your account, noble Euthyphro, there are differing views among the gods themselves as to what is just and unjust, beautiful, ugly, good or bad, for they would not have quarrelled with one another if they had not differed on these issues. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Euthyphro",
+"text": "What you are saying is correct.",
+"kind": "speech"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "Would not the quarrelling parties love anything they themselves regard as beautiful, good, or just, and would they not hate the opposites of these?",
+"kind": "speech"
+},
+{
+"entry": 76,
+"who": "Euthyphro",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "Yes, but according to you, the same things are regarded as just by some gods but unjust by others, and because they disagree on these issues, they quarrel and fight with one another. Is this not so?",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Euthyphro",
+"text": "This is so.",
+"kind": "speech"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "Therefore, it seems that the same things are hated by the gods and are loved by them, and what is god-hated and what is god-loved would be the same.",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Euthyphro",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "Then by this argument, the same thing would be both holy and unholy, Euthyphro.",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Euthyphro",
+"text": "Quite likely.",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "In that case, you did not answer the question I asked you, marvellous one, for I was not asking what is at once both holy and unholy, which would, it seems, be that which is god-loved and that which is god-hated. And so, Euthyphro, it would be no surprise if, in punishing your father as you are doing now, you are doing something that is loved by Zeus but hated by Cronus and Uranus; loved by Hephaestus but hated by Hera; and if any other gods differ with one another on this issue, the same considerations apply.",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Euthyphro",
+"text": "But in my opinion, Socrates, none of the gods differ with one another on this issue: that a man who kills someone unjustly need not pay the penalty.",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "But, Euthyphro, in the case of us humans, have you ever heard anyone arguing that a man who has killed someone unjustly, or performs any other unjust action whatsoever, should not pay a penalty?",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Euthyphro",
+"text": "Why, they never stop arguing over these issues, especially in the law courts. Indeed, having performed all sorts of injustices, people do and say anything at all to avoid a penalty.",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "Yes, Euthyphro, but do they also admit that they have acted unjustly, and despite this admission, claim nevertheless that they should not pay a penalty?",
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Euthyphro",
+"text": "No, they do not do that at all.",
+"kind": "speech"
+},
+{
+"entry": 89,
+"who": "Socrates",
+"text": "Then they do not do or say anything at all. Indeed, I think they would not dare to assert or to argue that they should not pay a penalty, if in fact they have acted unjustly. No, I think they deny that they have acted unjustly. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Euthyphro",
+"text": "That is true.",
+"kind": "speech"
+},
+{
+"entry": 91,
+"who": "Socrates",
+"text": "So they do not argue that the person who commits injustice should not pay a penalty. They surely argue, instead, over who the wrongdoer is, what he did, and when.",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Euthyphro",
+"text": "That is true.",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Socrates",
+"text": "Do not the same considerations also apply to the gods, if they do indeed quarrel about justice and injustice, as you maintain, and one side claims that the other is acting unjustly, while the other side denies it? But this much is certain, my friend, no one, neither god nor human, would dare to suggest that a person who acts unjustly should not pay a penalty.",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Euthyphro",
+"text": "Yes, Socrates, what you are saying is true, on the whole.",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "Yes, I think those who differ, be they humans or gods, if indeed gods do differ, differ over particular actions. When they differ over any action, some maintain that it was performed in a just manner, others that it was performed in an unjust manner. Isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 96,
+"who": "Euthyphro",
+"text": "Entirely so.",
+"kind": "speech"
+},
+{
+"entry": 97,
+"who": "Socrates",
+"text": "Come on then, dear Euthyphro, and instruct me so that I may become wiser. What evidence do you have that all the gods think that this man met his death unjustly, a man who committed murder whilst working as a day-labourer, who was tied up by the master of the murder victim, and who died prematurely on account of his bonds, before the master, who had tied him up, had found out from the legal expositor what he should do about him. Where is your evidence that it is actually right for a son to prosecute his father, and denounce him, on behalf of a person like that? Come on, try to demonstrate these points clearly to me, that all of the gods really do believe that this course of action is right, and if you prove this to me adequately, I shall sing the praises of your wisdom unceasingly.",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Euthyphro",
+"text": "Well, that is surely no small task, Socrates, yet I should be able to demonstrate it to you very clearly.",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Socrates",
+"text": "I understand. That is because you think that I am a slower learner than the jurors, since you will, of course, prove to them that these actions are unjust, and that all of the gods hate such actions as these.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Euthyphro",
+"text": "Very clearly, Socrates, if they will only listen to what I say.",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "They will listen alright, Euthyphro, provided they think you are speaking well. But while you were speaking something occurred to me, and I am thinking to myself, “If Euthyphro were to teach me, comprehensively, that all the gods regard a death like this one to be unjust, what more have I learned from Euthyphro as to what exactly holiness and unholiness are? Yes, this particular action would, it seems, be god-hated, but it turned out earlier that what is holy and what is not are not defined by this, for what is god-hated proved also to be god-loved.” So if you like, Euthyphro, I will grant you this: let all the gods think it unjust, and let them all hate it. But what about this correction we have just introduced into the argument, according to which whatever all the gods hate is unholy, and whatever they all love is holy, and whatever some love and others hate is neither or both. Would you like us now to define what is holy and what is unholy in this way?",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Euthyphro",
+"text": "Is there any reason not to, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Socrates",
+"text": "In my case no, Euthyphro, but in your own case, you should decide whether adopting this hypothesis is the easiest way for you to teach me what you promised.",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Euthyphro",
+"text": "Well, I would say that what is holy is what all the gods love, and its opposite, what all the gods hate, is unholy.",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Socrates",
+"text": "Should we also investigate whether this formulation is correct, Euthyphro? Or should we leave it, and accept our own or other people’s assertions just like that, agreeing that this is the case just because somebody says so? Or should we consider what the speaker means?",
+"kind": "speech"
+},
+{
+"entry": 106,
+"who": "Euthyphro",
+"text": "We should consider that. However, in my view, this is now a good formulation.",
+"kind": "speech"
+},
+{
+"entry": 107,
+"who": "Socrates",
+"text": "Good man. We shall know better soon enough. Yes, think about this. Is the holy loved by the gods because it is holy, or is it holy because it is loved?",
+"kind": "speech"
+},
+{
+"entry": 108,
+"who": "Euthyphro",
+"text": "I do not understand what you are saying, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 109,
+"who": "Socrates",
+"text": "Then I shall try to speak with greater clarity. We say that something is carried and something carries, something is led and something leads, something is seen and something sees. And in all these cases, do you understand that there are differences between them, and the way in which they differ?",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Euthyphro",
+"text": "I think I understand.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "And is there something that is loved, and is that different from that which loves?",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Euthyphro",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 113,
+"who": "Socrates",
+"text": "Then, tell me whether something that is carried is what it is because it is being carried, or for some other reason?",
+"kind": "speech"
+},
+{
+"entry": 114,
+"who": "Euthyphro",
+"text": "No, that is the reason.",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Socrates",
+"text": "And something that is led is what it is because it is being led, and something that is seen is what it is because it is being seen.",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Euthyphro",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 117,
+"who": "Socrates",
+"text": "So, it is not because it is a seen thing that it is seen. It is the other way around: because it is seen it is a seen thing. Nor is it because it is a thing led that it is led. No, because it is led it is a thing led. Nor is it because it is a thing carried that it is carried. No, because it is carried it is a thing carried. So Euthyphro, is it obvious what I wish to say? What I mean is this. If anything becomes, or is affected, it is not because it is a thing that becomes that it becomes. No, because it becomes it is a thing that becomes. Nor is it because it is a thing affected that it is affected. No, because it is affected it is a thing affected. Do you agree that this is so?",
+"kind": "speech"
+},
+{
+"entry": 118,
+"who": "Euthyphro",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 119,
+"who": "Socrates",
+"text": "Now, is not that which is loved either something that is becoming, or something that is being affected by something?",
+"kind": "speech"
+},
+{
+"entry": 120,
+"who": "Euthyphro",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 121,
+"who": "Socrates",
+"text": "And this case is like the previous cases. It is not because it is a thing loved that it is loved by those who love it. No, because it is loved it is a thing that is loved.",
+"kind": "speech"
+},
+{
+"entry": 122,
+"who": "Euthyphro",
+"text": "Necessarily.",
+"kind": "speech"
+},
+{
+"entry": 123,
+"who": "Socrates",
+"text": "Well then, what do we say about what is holy, Euthyphro? Is it not loved by all the gods, according to your argument?",
+"kind": "speech"
+},
+{
+"entry": 124,
+"who": "Euthyphro",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 125,
+"who": "Socrates",
+"text": "So, is this because it is holy, or for some other reason?",
+"kind": "speech"
+},
+{
+"entry": 126,
+"who": "Euthyphro",
+"text": "No, that is the reason.",
+"kind": "speech"
+},
+{
+"entry": 127,
+"who": "Socrates",
+"text": "So, because it is holy it is loved. It is not the case that it is loved and for that reason is holy?",
+"kind": "speech"
+},
+{
+"entry": 128,
+"who": "Euthyphro",
+"text": "It seems so.",
+"kind": "speech"
+},
+{
+"entry": 129,
+"who": "Socrates",
+"text": "And yet, because something is loved by the gods, it is a thing that is loved and is god-loved.",
+"kind": "speech"
+},
+{
+"entry": 130,
+"who": "Euthyphro",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 131,
+"who": "Socrates",
+"text": "Therefore, what is god-loved is not holy, Euthyphro, nor is the holy god-loved, as you maintain. They are different from one another.",
+"kind": "speech"
+},
+{
+"entry": 132,
+"who": "Euthyphro",
+"text": "How so, Socrates?",
+"kind": "speech"
+},
+{
+"entry": 133,
+"who": "Socrates",
+"text": "Because we agree that what is holy is loved because it is holy, and it is not because it is loved that it is holy. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 134,
+"who": "Euthyphro",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Socrates",
+"text": "And yet, what is god-loved is beloved of the gods by reason of their very love. But the reason it is loved is not that it is god-loved.",
+"kind": "speech"
+},
+{
+"entry": 136,
+"who": "Euthyphro",
+"text": "That is true.",
+"kind": "speech"
+},
+{
+"entry": 137,
+"who": "Socrates",
+"text": "But dear Euthyphro, if what is god-loved and what is holy were the same, then if what is holy was loved because of being holy, what is god-loved too would be loved because of being god-loved. And if, on the other hand, what is god-loved was god-loved because of being loved by the gods, what is holy too would be holy because of being loved. But you can now see that these two are opposites. They are completely different from one another. For one is a loved thing because it is loved, while the other is a loved thing, and is loved for that reason. And Euthyphro, when I asked what precisely the holy is, it seems you were not willing to disclose its essence to me, but only to describe something it undergoes, that what is holy is affected as follows: it is loved by all the gods. But you have not yet said what it actually is. So if you please, do not hide this from me, but tell me again from the beginning what precisely the holy is, regardless of whether it is loved by the gods or whatever else happens to it, for we shall not argue over that. Just state what holiness and unholiness are, and do not hold back.",
+"kind": "speech"
+},
+{
+"entry": 138,
+"who": "Euthyphro",
+"text": "But Socrates, I do not know how to tell you what I have in mind. For anything we propose always wanders about somehow and will not stay where we put it.",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Socrates",
+"text": "These pronouncements of yours, Euthyphro, seem to be like the works of my own ancestor, Daedalus, and if I was the one who had proposed them and set them down, you would probably have mocked me over my kinship to that man, because my verbal formulations run away and refuse to remain where someone puts them. But now, of course, the hypotheses are yours, so some alternative mockery is called for since they refuse to remain in place for you, as you can see for yourself.",
+"kind": "speech"
+},
+{
+"entry": 140,
+"who": "Euthyphro",
+"text": "But I think the pronouncements deserve more or less the same mockery, Socrates, for I am not the one who set them in motion so that they do not remain in the same place. No, it seems to me that you are the ‘Daedalus’, since if it were up to me they would have remained as they were.",
+"kind": "speech"
+},
+{
+"entry": 141,
+"who": "Socrates",
+"text": "Perhaps, my friend, I have become cleverer at the craft than that ancestor of mine, to this extent: while he only made his own works unstable, it seems I do this to my own and to other people’s too. And, indeed, what is most delightful about the skill in my case is that I am wise against my will, for I would have preferred that my own pronouncements be stable, fixed and unmoving, rather than possess the wisdom of Daedalus and the wealth of Tantalus too. But enough of all this. Since you yourself seem to be indolent, I will join you in your desire to instruct me about what is holy. Do not give up yet. Think about this: is everything that is holy necessarily just?",
+"kind": "speech"
+},
+{
+"entry": 142,
+"who": "Euthyphro",
+"text": "I think so.",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Socrates",
+"text": "And is everything that is just, also holy? Or is what is holy all just, while what is just is not all holy, part of it being holy and part something else?",
+"kind": "speech"
+},
+{
+"entry": 144,
+"who": "Euthyphro",
+"text": "Socrates, I cannot follow you.",
+"kind": "speech"
+},
+{
+"entry": 145,
+"who": "Socrates",
+"text": "And yet you are younger than me, and no less wise, for that. But as I said, your wealth of wisdom makes you indolent. So exert yourself, blessed man, for it is not difficult to understand what I mean. Indeed, I am saying the opposite of the poet who wrote these lines: Zeus the creator, who made all this, you shrink from reviling, For when there is fear there is also reverence. Now, I disagree with this poet. Shall I tell you why?",
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Euthyphro",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 147,
+"who": "Socrates",
+"text": "I do not think that ‘when there is fear there is also reverence’, because I think that many people who fear disease and poverty, and lots of other things like these, are afraid, yet they are not at all ashamed of the things they fear. Is this not how it seems to you too?",
+"kind": "speech"
+},
+{
+"entry": 148,
+"who": "Euthyphro",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 149,
+"who": "Socrates",
+"text": "But I do think that when there is reverence, there is also fear. Indeed, is there anyone who is ashamed of something, feels shame, and is not at the same time fearful, and afraid of a reputation for wickedness?",
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Euthyphro",
+"text": "Yes, he is afraid.",
+"kind": "speech"
+},
+{
+"entry": 151,
+"who": "Socrates",
+"text": "So, it is not right to say that ‘when there is fear there is also reverence’. On the contrary, when there is reverence there is also fear, and yet when there is fear there is not reverence in every case, for I think that fear is more extensive than reverence. Indeed, reverence is a part of fear, just as odd is part of number, and so it is not the case that when there is number there is also the odd, and yet where there is the odd there is also number. So I presume you follow me now.",
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Euthyphro",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Socrates",
+"text": "Well, this is more or less what I meant by the earlier question. When there is justice, is there also holiness? Or when there is holiness, is there also justice? While conversely, when there is justice, there is not holiness in every case, because holiness is a part of justice? Should we say this, or do you think otherwise?",
+"kind": "speech"
+},
+{
+"entry": 154,
+"who": "Euthyphro",
+"text": "No, let us say this. I think you are expressing this correctly.",
+"kind": "speech"
+},
+{
+"entry": 155,
+"who": "Socrates",
+"text": "Then, take note of the next issue, for if holiness is part of justice, we should, it seems, find out what part it would be. Now, suppose you had asked me about something we have just discussed, number, for instance, what part of number is the even part, and what kind of number it is, I would reply that it has equal sides rather than unequal sides. Is that what you think?",
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Euthyphro",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 157,
+"who": "Socrates",
+"text": "So you should now also attempt to teach me, in this way, the part of justice that is holy, so that I may tell Meletus not to wrong me anymore, or to prosecute me for impiety, as I have now received adequate instruction from you about what is pious and holy, and what is not.",
+"kind": "speech"
+},
+{
+"entry": 158,
+"who": "Euthyphro",
+"text": "Well, Socrates, it seems to me that the part of justice that is pious and holy is the part that deals with care of the gods, while the remaining part of justice deals with care of human beings.",
+"kind": "speech"
+},
+{
+"entry": 159,
+"who": "Socrates",
+"text": "And, in my view, you have expressed that well, Euthyphro. But there is one minor detail still outstanding, for I do not yet understand what the care you are referring to actually is. For I presume you do not mean that the sort of care that deals with the gods is just like the care that deals with anything else. Yes, is this not how we speak? We say, for instance, that not everyone knows how to care for horses, only the skilled horse-trainer. Is this so?",
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Euthyphro",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 161,
+"who": "Socrates",
+"text": "For horse-training is, presumably, the care of horses?",
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Euthyphro",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 163,
+"who": "Socrates",
+"text": "Nor, for that matter, does everyone know how to care for dogs, only the dog-handler?",
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Euthyphro",
+"text": "Quite so.",
+"kind": "speech"
+},
+{
+"entry": 165,
+"who": "Socrates",
+"text": "For dog-handling is, presumably, the care of dogs?",
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Euthyphro",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Socrates",
+"text": "And ox-herding of oxen?",
+"kind": "speech"
+},
+{
+"entry": 168,
+"who": "Euthyphro",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 169,
+"who": "Socrates",
+"text": "And holiness and piety are the care of gods, Euthyphro. Is this what you mean?",
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Euthyphro",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 171,
+"who": "Socrates",
+"text": "And does not all care bring about the same outcome? Something like this: it is directed to some good or some benefit of whatever is cared for. For instance, you can see that horses cared for by horse-training are benefited and become better. Do you not think so?",
+"kind": "speech"
+},
+{
+"entry": 172,
+"who": "Euthyphro",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 173,
+"who": "Socrates",
+"text": "And dogs are, presumably, benefited by dog-handling, oxen by ox-herding, and the same applies in all other cases. Or do you think that the care aims to harm whatever it cares for?",
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Euthyphro",
+"text": "By Zeus, I do not.",
+"kind": "speech"
+},
+{
+"entry": 175,
+"who": "Socrates",
+"text": "Does it aim to benefit it then?",
+"kind": "speech"
+},
+{
+"entry": 176,
+"who": "Euthyphro",
+"text": "How could it do otherwise?",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Socrates",
+"text": "Now, is holiness too, being a care of the gods, also a benefit to the gods, and does it make the gods better? And would you accept that you make any of the gods better whenever you do anything holy?",
+"kind": "speech"
+},
+{
+"entry": 178,
+"who": "Euthyphro",
+"text": "By Zeus, I would not.",
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Socrates",
+"text": "No, I did not think that was what you meant either, Euthyphro, far from it. And that is why I asked you what exactly you meant by this care of the gods. I was assuming you did not mean anything like this.",
+"kind": "speech"
+},
+{
+"entry": 180,
+"who": "Euthyphro",
+"text": "And you are right, Socrates. I do not mean anything like this.",
+"kind": "speech"
+},
+{
+"entry": 181,
+"who": "Socrates",
+"text": "So be it. But in that case, what care of the gods would holiness be?",
+"kind": "speech"
+},
+{
+"entry": 182,
+"who": "Euthyphro",
+"text": "It is the care, Socrates, which servants give their masters.",
+"kind": "speech"
+},
+{
+"entry": 183,
+"who": "Socrates",
+"text": "I understand. It would, it seems, be some service to the gods.",
+"kind": "speech"
+},
+{
+"entry": 184,
+"who": "Euthyphro",
+"text": "Yes, certainly.",
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Socrates",
+"text": "What about the service to physicians? What product does this service help to produce? Do you not think it is health?",
+"kind": "speech"
+},
+{
+"entry": 186,
+"who": "Euthyphro",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Socrates",
+"text": "What about service to shipbuilders? What product does this service help to produce?",
+"kind": "speech"
+},
+{
+"entry": 188,
+"who": "Euthyphro",
+"text": "Obviously, Socrates, it is a ship.",
+"kind": "speech"
+},
+{
+"entry": 189,
+"who": "Socrates",
+"text": "And in the case of housebuilders, presumably it is a house?",
+"kind": "speech"
+},
+{
+"entry": 190,
+"who": "Euthyphro",
+"text": "Yes.",
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Socrates",
+"text": "Then tell me, best of men, in the case of service to the gods, what product would this service help to produce? You must know the answer since you declare that your knowledge of matters divine is superior to that of anyone else.",
+"kind": "speech"
+},
+{
+"entry": 192,
+"who": "Euthyphro",
+"text": "And what I say is true, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 193,
+"who": "Socrates",
+"text": "Then tell me, by Zeus, what glorious product do the gods produce, using us as their servants?",
+"kind": "speech"
+},
+{
+"entry": 194,
+"who": "Euthyphro",
+"text": "Many and beautiful things, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 195,
+"who": "Socrates",
+"text": "Yes, so do the generals, my friend, but it is easy nevertheless to sum it all up by saying that they bring about victory in war. Isn’t this so?",
+"kind": "speech"
+},
+{
+"entry": 196,
+"who": "Euthyphro",
+"text": "Of course.",
+"kind": "speech"
+},
+{
+"entry": 197,
+"who": "Socrates",
+"text": "And farmers too produce many and beautiful things, but nevertheless what they produce is, in summary, food from the earth.",
+"kind": "speech"
+},
+{
+"entry": 198,
+"who": "Euthyphro",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 199,
+"who": "Socrates",
+"text": "Yes, but what about the many beautiful things that the gods produce? What, in summary, is their product?",
+"kind": "speech"
+},
+{
+"entry": 200,
+"who": "Euthyphro",
+"text": "Well, I told you a little earlier, Socrates, that to understand precisely how matters stand in all these cases is a major undertaking. Yet I can say, in general terms, that if someone knows how to do and say what is gratifying to the gods, by praying and offering sacrifices, these actions are the holy ones, and such actions safeguard the things of private homes and the common things of entire cities. But the opposite of what gratifies them is impious, and this overturns and destroys everything.",
+"kind": "speech"
+},
+{
+"entry": 201,
+"who": "Socrates",
+"text": "If you had wanted to, Euthyphro, you could have given me the summary I asked you for much more briefly. But you are not eager to instruct me, that is obvious. In fact, right now you turned aside at the very point where, had you answered, I might by now have learned about holiness from you quite adequately. But now the lover needs to follow the beloved, wherever he may lead. So again, what do you say the holy and holiness is? Is it not some sort of knowledge of sacrificing and praying?",
+"kind": "speech"
+},
+{
+"entry": 202,
+"who": "Euthyphro",
+"text": "It is.",
+"kind": "speech"
+},
+{
+"entry": 203,
+"who": "Socrates",
+"text": "Is not sacrifice giving to the gods, and prayer asking of the gods?",
+"kind": "speech"
+},
+{
+"entry": 204,
+"who": "Euthyphro",
+"text": "Very much so, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 205,
+"who": "Socrates",
+"text": "So on this formulation, holiness would be knowledge of asking of and giving to the gods.",
+"kind": "speech"
+},
+{
+"entry": 206,
+"who": "Euthyphro",
+"text": "You have understood perfectly what I have said, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 207,
+"who": "Socrates",
+"text": "That is because I am eager for your wisdom, my friend, and I give it my full attention so that nothing you say may be lost. But tell me, what is this service to the gods? Are you saying that it consists in asking of them and giving to them?",
+"kind": "speech"
+},
+{
+"entry": 208,
+"who": "Euthyphro",
+"text": "I am.",
+"kind": "speech"
+},
+{
+"entry": 209,
+"who": "Socrates",
+"text": "And would not the right manner of asking be to ask of them what we need from them?",
+"kind": "speech"
+},
+{
+"entry": 210,
+"who": "Euthyphro",
+"text": "That is it.",
+"kind": "speech"
+},
+{
+"entry": 211,
+"who": "Socrates",
+"text": "Then again, is not the right manner of giving to give them in return whatever they happen to need from us? Indeed, giving anyone something they do not need would, presumably, not require any skill.",
+"kind": "speech"
+},
+{
+"entry": 212,
+"who": "Euthyphro",
+"text": "That is true, Socrates.",
+"kind": "speech"
+},
+{
+"entry": 213,
+"who": "Socrates",
+"text": "Then, Euthyphro, holiness would be a skill which involved gods and men trading with one another.",
+"kind": "speech"
+},
+{
+"entry": 214,
+"who": "Euthyphro",
+"text": "Yes, call it trade if it pleases you to do so.",
+"kind": "speech"
+},
+{
+"entry": 215,
+"who": "Socrates",
+"text": "Well, nothing pleases me unless it happens to be true. But tell me, what benefit do the gods derive from the gifts they obtain from us? What they give us is obvious to everyone, for anything good that we have, they have given us. But how are they benefited by what they obtain from us? Or do we gain such an advantage over them from the trading that we get all good things from them, while they get nothing from us?",
+"kind": "speech"
+},
+{
+"entry": 216,
+"who": "Euthyphro",
+"text": "But Socrates, do you think the gods derive benefit from what they obtain from us?",
+"kind": "speech"
+},
+{
+"entry": 217,
+"who": "Socrates",
+"text": "But Euthyphro, what exactly would these gifts we bestow upon the gods be?",
+"kind": "speech"
+},
+{
+"entry": 218,
+"who": "Euthyphro",
+"text": "What else do you think, except honour, reverence and, as I said earlier, gratification.",
+"kind": "speech"
+},
+{
+"entry": 219,
+"who": "Socrates",
+"text": "So, the holy is gratifying to the gods, Euthyphro, but is it not beneficial to them, or loved by them?",
+"kind": "speech"
+},
+{
+"entry": 220,
+"who": "Euthyphro",
+"text": "I really think it is the most beloved thing of all.",
+"kind": "speech"
+},
+{
+"entry": 221,
+"who": "Socrates",
+"text": "So once again it seems that the holy is what is loved by the gods.",
+"kind": "speech"
+},
+{
+"entry": 222,
+"who": "Euthyphro",
+"text": "Very much so.",
+"kind": "speech"
+},
+{
+"entry": 223,
+"who": "Socrates",
+"text": "And once you say this, will you be surprised then to find that our propositions are inconstant and go walking? And will you accuse me of being the Daedalus who makes them walk, when you yourself are far more skilled than Daedalus, and can make them go around in a circle? Or can you not see that our argument has gone around in a circle and arrived back in the same place? For I presume you remember that, in our previous discussion, it was evident to us that what is holy and what is god-loved are not the same, but differ from one another. Or do you not remember?",
+"kind": "speech"
+},
+{
+"entry": 224,
+"who": "Euthyphro",
+"text": "I do.",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Socrates",
+"text": "Well, do you not realise now that you are saying that what is loved by the gods is holy? But this happens not to be god-loved, does it not?",
+"kind": "speech"
+},
+{
+"entry": 226,
+"who": "Euthyphro",
+"text": "Certainly.",
+"kind": "speech"
+},
+{
+"entry": 227,
+"who": "Socrates",
+"text": "In that case, either our earlier agreement was incorrect or, if we were right then, we are wrong now.",
+"kind": "speech"
+},
+{
+"entry": 228,
+"who": "Euthyphro",
+"text": "So it seems.",
+"kind": "speech"
+},
+{
+"entry": 229,
+"who": "Socrates",
+"text": "Then, we must consider what holiness is once more from the beginning, since I am not willing to give up until I have learned this. But please, do not be contemptuous towards me. Just give this your fullest attention in every way, and tell me the truth now. For you know the truth if any man knows it, and, just like Proteus, you are not to be let go until you tell me. For if you did not know full well what is holy and also what is unholy, there is no possibility that you would ever have undertaken to prosecute an old man, your own father, for murder, on behalf of a day-labourer. No, you would have feared the gods too much to take the risk that you might be acting improperly. And you would have been ashamed before your fellow men too. But I am now quite aware that you think you know full well what is holy and what is not. So tell me, excellent Euthyphro, and please do not hide what you think it is.",
+"kind": "speech"
+},
+{
+"entry": 230,
+"who": "Euthyphro",
+"text": "Well, some other time, Socrates, for I am rushing somewhere else now and it is time for me to go.",
+"kind": "speech"
+},
+{
+"entry": 231,
+"who": "Socrates",
+"text": "What are you doing my friend? You are leaving, casting me down from the great hope I had that, having learned what is holy and what is not from you, I would escape the charge of Meletus by showing him that, through Euthyphro, I had now become wise in divine matters, and that I no longer make rash pronouncements and innovations about them because of my ignorance, and that I would live a better life in all other respects from now on.",
+"kind": "speech"
+}
+]
+}
+]
+}
