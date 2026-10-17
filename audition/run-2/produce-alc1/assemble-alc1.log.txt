@@ -1,0 +1,1 @@
+{"work": "alc1", "parts": [{"file": "alc1-p1.mp3", "minutes": 91.06, "lines": 896, "words": 14847, "words_interpolated": 1, "retakes": 0, "flagged_takes": []}]}
