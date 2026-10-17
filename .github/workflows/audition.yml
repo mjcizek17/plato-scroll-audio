@@ -1,5 +1,6 @@
 name: audition
 # Renders audition/passage.json with each candidate engine, masters it, and each job pushes its MP3,
+# Put [only:kokoro] or [only:qwen] in a commit message to run just that engine (and its Chatterbox pass).
 # reference voices, speed report and full log to the `samples` branch as soon as it finishes.
 on:
   push:
@@ -21,6 +22,7 @@ env:
 
 jobs:
   kokoro:
+    if: github.event_name != 'push' || !contains(github.event.head_commit.message, '[only:') || contains(github.event.head_commit.message, '[only:kokoro')
     runs-on: ubuntu-24.04
     timeout-minutes: 60
     steps:
@@ -38,6 +40,7 @@ jobs:
         run: bash tools/publish.sh out/kokoro kokoro
 
   qwen:
+    if: github.event_name != 'push' || !contains(github.event.head_commit.message, '[only:') || contains(github.event.head_commit.message, '[only:qwen')
     runs-on: ubuntu-24.04
     timeout-minutes: 330
     steps:
@@ -57,7 +60,7 @@ jobs:
 
   chatterbox:
     needs: [kokoro]
-    if: always()
+    if: always() && needs.kokoro.result == 'success'
     runs-on: ubuntu-24.04
     timeout-minutes: 330
     strategy:
@@ -82,7 +85,7 @@ jobs:
 
   chatterbox-q:
     needs: [qwen]
-    if: always()
+    if: always() && needs.qwen.result == 'success'
     runs-on: ubuntu-24.04
     timeout-minutes: 330
     strategy:

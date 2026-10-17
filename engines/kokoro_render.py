@@ -28,7 +28,7 @@ def main(out):
     t = Timer("kokoro-82m-fp32")
 
     def say(text, who):
-        chunks = [a.audio for _, _, a in pipe(mark(text), voice=voices[who], speed=SPEED) if a is not None]
+        chunks = [a for _, _, a in pipe(mark(text), voice=voices[who], speed=SPEED) if a is not None]
         return torch.cat(chunks).numpy()
 
     for i, ln in enumerate(passage["lines"]):
