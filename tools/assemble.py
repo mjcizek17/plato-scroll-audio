@@ -2,7 +2,7 @@
 Usage: python tools/assemble.py WORK LINESDIR OUTDIR
 Per line: trim the take's own edges, level-match speech to -20 dBFS so Kokoro and Chatterbox voices sit
 together, room tone underneath. Pauses: 1.2 s after a heading/opening, 0.65 s at a change of speaker,
-0.35 s between passages by the same speaker. Whole part: 70 Hz high-pass, gentle 2:1 compression,
+0.35 s between passages by the same speaker, 0.25 s at a voice change inside one paragraph. Whole part: 70 Hz high-pass, gentle 2:1 compression,
 -19 LUFS, true peak -3 dB; MP3 mono 24 kHz 64 kbps.
 Writes OUTDIR/WORK-pN.mp3, OUTDIR/WORK-pN.timing.json ({entries:{entry:s}, words:{entry:[cs]}}),
 OUTDIR/WORK.report.json. Exits non-zero if any line is missing."""
@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(
 from script import work_parts  # noqa: E402
 
 SR = 24000
-GAP = {"heading": 1.2, "change": 0.65, "same": 0.35}
+GAP = {"heading": 1.2, "change": 0.65, "same": 0.35, "within": 0.25}
 
 
 def read_wav(p):
@@ -82,7 +82,13 @@ def main(work, lines_dir, out):
             flags += [dict(f, line=l["id"]) for f in meta.get("flags", [])]
             pcm.append(a); t += len(a) / SR
             if i + 1 < len(lines):
-                g = GAP["heading"] if l["kind"] == "heading" else GAP["change" if lines[i + 1]["who"] != l["who"] else "same"]
+                nx = lines[i + 1]
+                if l["kind"] == "heading":
+                    g = GAP["heading"]
+                elif l["entry"] is not None and nx["entry"] == l["entry"]:
+                    g = GAP["within"]  # a voice change inside one paragraph: "said he," / "Well…"
+                else:
+                    g = GAP["change" if nx["who"] != l["who"] else "same"]
                 pcm.append(room_tone(int(g * SR), rng)); t += g
         pcm.append(room_tone(int(1.5 * SR), rng)); t += 1.5
         name = f"{work}-p{pi + 1}"

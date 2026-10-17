@@ -140,8 +140,14 @@
 {
 "entry": 22,
 "who": "Socrates",
-"text": "Last night, just before daybreak, Hippocrates, the son of Apollodorus and brother of Phason, banged on my door very forcibly with his stick, and when someone opened it for him he rushed straight in, shouting in a loud voice, “Socrates, are you awake or asleep?”",
+"text": "Last night, just before daybreak, Hippocrates, the son of Apollodorus and brother of Phason, banged on my door very forcibly with his stick, and when someone opened it for him he rushed straight in, shouting in a loud voice,",
 "kind": "narration"
+},
+{
+"entry": 22,
+"who": "Hippocrates",
+"text": "“Socrates, are you awake or asleep?”",
+"kind": "speech"
 },
 {
 "entry": 23,
@@ -151,39 +157,75 @@
 },
 {
 "entry": 24,
+"who": "Hippocrates",
+"text": "“Not at all,”",
+"kind": "speech"
+},
+{
+"entry": 24,
 "who": "Socrates",
-"text": "“Not at all,” he said. “The news is good.”",
+"text": "he said.",
 "kind": "narration"
+},
+{
+"entry": 24,
+"who": "Hippocrates",
+"text": "“The news is good.”",
+"kind": "speech"
 },
 {
 "entry": 25,
 "who": "Socrates",
 "text": "“It would be nice if you would tell me what it is,” I said, “and the reason you have called at this hour.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 26,
 "who": "Socrates",
-"text": "He stood beside me and said, “Protagoras has arrived.”",
+"text": "He stood beside me and said,",
 "kind": "narration"
+},
+{
+"entry": 26,
+"who": "Hippocrates",
+"text": "“Protagoras has arrived.”",
+"kind": "speech"
 },
 {
 "entry": 27,
 "who": "Socrates",
 "text": "“The day before yesterday,” I said. “Have you just found this out?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Hippocrates",
+"text": "“Yes, by the gods,”",
+"kind": "speech"
 },
 {
 "entry": 28,
 "who": "Socrates",
-"text": "“Yes, by the gods,” he said, “last evening in fact.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 28,
+"who": "Hippocrates",
+"text": "“last evening in fact.”",
+"kind": "speech"
 },
 {
 "entry": 29,
 "who": "Socrates",
-"text": "And at the same time he felt around the top of the couch, sat down at my feet and said, “Yes. Last evening I got back very late from Oenoe, for my slave, Satyrus, had run away. And indeed I intended to tell you that I would be going after him, but something else made me forget to do so.",
+"text": "And at the same time he felt around the top of the couch, sat down at my feet and said,",
 "kind": "narration"
+},
+{
+"entry": 29,
+"who": "Hippocrates",
+"text": "“Yes. Last evening I got back very late from Oenoe, for my slave, Satyrus, had run away. And indeed I intended to tell you that I would be going after him, but something else made me forget to do so.",
+"kind": "speech"
 },
 {
 "entry": 30,
@@ -200,20 +242,38 @@
 {
 "entry": 32,
 "who": "Socrates",
-"text": "He laughed and said, “By the gods, he has, Socrates. He is the only wise man, and he will not make me wise.”",
+"text": "He laughed and said,",
 "kind": "narration"
+},
+{
+"entry": 32,
+"who": "Hippocrates",
+"text": "“By the gods, he has, Socrates. He is the only wise man, and he will not make me wise.”",
+"kind": "speech"
 },
 {
 "entry": 33,
 "who": "Socrates",
 "text": "“Oh yes, by Zeus,” I said. “If you pay good money to him, and persuade him, he will make you wise too.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Hippocrates",
+"text": "“By Zeus and the gods,”",
+"kind": "speech"
 },
 {
 "entry": 34,
 "who": "Socrates",
-"text": "“By Zeus and the gods,” he replied, “would that it all came down to this, since in that case I would begrudge him nothing belonging to myself or even my friends. Yes, this is the very reason I came to you, to get you to discuss this with him on my behalf. For as well as being too young, I have never even seen Protagoras before, or heard him at all either, since I was still a child when he visited the city before. Anyway, Socrates, everyone praises the man and proclaims him the wisest of speakers. So why don’t we make our way to him now so that we may be sure of finding him indoors? I hear that he is staying with Callias, the son of Hipponicus, so let us go.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 34,
+"who": "Hippocrates",
+"text": "“would that it all came down to this, since in that case I would begrudge him nothing belonging to myself or even my friends. Yes, this is the very reason I came to you, to get you to discuss this with him on my behalf. For as well as being too young, I have never even seen Protagoras before, or heard him at all either, since I was still a child when he visited the city before. Anyway, Socrates, everyone praises the man and proclaims him the wisest of speakers. So why don’t we make our way to him now so that we may be sure of finding him indoors? I hear that he is staying with Callias, the son of Hipponicus, so let us go.”",
+"kind": "speech"
 },
 {
 "entry": 35,
@@ -231,193 +291,259 @@
 "entry": 37,
 "who": "Socrates",
 "text": "“Tell me, Hippocrates,” I asked. “At the moment you are trying to gain access to Protagoras, and you will pay money to the man as a fee, on your own behalf. What sort of person will you be visiting, and what sort of person will you become as a result? For instance, if you intended to visit your own namesake, the Asklepiad, Hippocrates of Cos, and pay money to him on your own behalf as a fee, and someone asked you, ‘Tell me, Hippocrates, you are about to pay a fee to this Hippocrates, to someone who is what?’ How would you reply?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Hippocrates",
+"text": "“I would say that I am paying a fee to someone who is a physician,”",
+"kind": "speech"
 },
 {
 "entry": 38,
 "who": "Socrates",
-"text": "“I would say that I am paying a fee to someone who is a physician,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 39,
 "who": "Socrates",
 "text": "“In order to become what?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Hippocrates",
+"text": "“A physician,”",
+"kind": "speech"
 },
 {
 "entry": 40,
 "who": "Socrates",
-"text": "“A physician,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 41,
 "who": "Socrates",
 "text": "“And if you were going to visit Polycleitus of Argos or Pheidias of Athens and pay a fee to these men on your own behalf, and someone asked you, ‘You propose to pay this money to Polycleitus and Pheidias, to people who are what?’, how would you reply?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 42,
-"who": "Socrates",
+"who": "Hippocrates",
 "text": "“To people who are sculptors, that is what I would say.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 43,
 "who": "Socrates",
 "text": "“So that you yourself may become what?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 44,
-"who": "Socrates",
+"who": "Hippocrates",
 "text": "“A sculptor, of course.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 45,
 "who": "Socrates",
 "text": "“So be it,” I said. “But in the present case, where you and I are visiting Protagoras, we shall be prepared to pay money to him on your behalf, provided our own funds are sufficient to persuade him. If not, we shall spend even our friends’ money as well. If someone observing our extreme seriousness on these matters were to ask, ‘Tell me, Socrates and Hippocrates, you intend to pay money to Protagoras, to someone who is what?’, how would we reply to him? What other name do we hear people using in relation to Protagoras, in the same way that ‘sculptor’ is used in relation to Pheidias, and ‘poet’ in relation to Homer? What title of this sort do we hear in relation to Protagoras?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Hippocrates",
+"text": "“Well now, Socrates, what they say anyway is that the man is a sophist,”",
+"kind": "speech"
 },
 {
 "entry": 46,
 "who": "Socrates",
-"text": "“Well now, Socrates, what they say anyway is that the man is a sophist,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 47,
 "who": "Socrates",
 "text": "“So we are going to pay money to him as a sophist?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 48,
-"who": "Socrates",
+"who": "Hippocrates",
 "text": "“Certainly.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 49,
 "who": "Socrates",
 "text": "“Now, suppose someone were to ask you this additional question, ‘If you yourself were to go to Protagoras, what would you intend to become?’”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 50,
 "who": "Socrates",
-"text": "And he replied, blushing, for the day was breaking by now and I could see him clearly. “If this is anything like the previous instances, it is obvious I intend to become a sophist.”",
+"text": "And he replied, blushing, for the day was breaking by now and I could see him clearly.",
 "kind": "narration"
+},
+{
+"entry": 50,
+"who": "Hippocrates",
+"text": "“If this is anything like the previous instances, it is obvious I intend to become a sophist.”",
+"kind": "speech"
 },
 {
 "entry": 51,
 "who": "Socrates",
 "text": "“By the gods,” I said, “wouldn’t you be ashamed to present yourself before the Greeks as a sophist?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 52,
-"who": "Socrates",
+"who": "Hippocrates",
 "text": "“Yes, by Zeus, Socrates, if I really must say what I am thinking.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 53,
 "who": "Socrates",
 "text": "“Well, Hippocrates, perhaps this turns out not to be the kind of instruction you are expecting from Protagoras. Were you expecting the kind of instruction you get from a teacher of writing, or of the harp, or from a trainer? For it was not with a view to becoming a practitioner that you developed proficiency in these subjects, but to acquire an education suited to an independent free man.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 54,
+"who": "Hippocrates",
+"text": "“Very much so,”",
+"kind": "speech"
 },
 {
 "entry": 54,
 "who": "Socrates",
-"text": "“Very much so,” he replied, “and I think this is more the kind of instruction I expect from Protagoras.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 54,
+"who": "Hippocrates",
+"text": "“and I think this is more the kind of instruction I expect from Protagoras.”",
+"kind": "speech"
 },
 {
 "entry": 55,
 "who": "Socrates",
 "text": "“Well, do you know what you are about to do now, or has this escaped your notice?” said I.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 56,
-"who": "Socrates",
+"who": "Hippocrates",
 "text": "“In what respect?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 57,
 "who": "Socrates",
 "text": "“The fact is you are about to submit your own soul to the care of a man whom you admit to be a sophist. Yet I would be surprised if you knew what precisely a sophist is. What is more, if you are unaware of this, you do not know to whom you are handing over your soul, whether the arrangement be a good one or bad one.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Hippocrates",
+"text": "“I think that I know well,”",
+"kind": "speech"
 },
 {
 "entry": 58,
 "who": "Socrates",
-"text": "“I think that I know well,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 59,
 "who": "Socrates",
 "text": "“Then tell me what you think a sophist is.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Hippocrates",
+"text": "“I think,”",
+"kind": "speech"
 },
 {
 "entry": 60,
 "who": "Socrates",
-"text": "“I think,” said he, “just as the name implies, that this is someone knowledgeable in matters of wisdom.”",
+"text": "said he,",
 "kind": "narration"
+},
+{
+"entry": 60,
+"who": "Hippocrates",
+"text": "“just as the name implies, that this is someone knowledgeable in matters of wisdom.”",
+"kind": "speech"
 },
 {
 "entry": 61,
 "who": "Socrates",
 "text": "“Isn’t it also possible”, I asked, “to say this about painters and builders, that these are the ones who are knowledgeable in matters of wisdom? And if someone were to ask us, ‘Of what wise matters are painters knowledgeable?’, I presume we would say that they know about the production of images, and reply similarly about the other examples. But if someone were to ask us, specifically, ‘Of what wise matters is a sophist knowledgeable?’, how would we reply to him? What sort of processes is he master of?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 62,
-"who": "Socrates",
+"who": "Hippocrates",
 "text": "“What else could we say he is, Socrates, except a master of turning someone into a formidable speaker?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 63,
 "who": "Socrates",
 "text": "“We may perhaps be speaking the truth”, I remarked, “without actually saying enough, for our response invites further questioning as to the subject in which the sophist makes someone a formidable speaker. For example, the harp player obviously makes a person formidable in the subject about which he is knowledgeable, about harp-playing. Is this so?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 64,
-"who": "Socrates",
+"who": "Hippocrates",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 65,
 "who": "Socrates",
 "text": "“So be it. About what subject does the sophist make someone formidable in speaking?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 66,
-"who": "Socrates",
+"who": "Hippocrates",
 "text": "“About the subject in which he himself is knowledgeable, of course.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 67,
 "who": "Socrates",
 "text": "“Quite likely. What then is the subject about which the sophist is knowledgeable, and makes his pupil knowledgeable?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Hippocrates",
+"text": "“By Zeus,”",
+"kind": "speech"
 },
 {
 "entry": 68,
 "who": "Socrates",
-"text": "“By Zeus,” he exclaimed, “I cannot really tell you!”",
+"text": "he exclaimed,",
 "kind": "narration"
+},
+{
+"entry": 68,
+"who": "Hippocrates",
+"text": "“I cannot really tell you!”",
+"kind": "speech"
 },
 {
 "entry": 69,
@@ -440,62 +566,86 @@
 {
 "entry": 72,
 "who": "Socrates",
-"text": "He heard this and said, “Quite likely, Socrates, based on what you are saying.”",
+"text": "He heard this and said,",
 "kind": "narration"
+},
+{
+"entry": 72,
+"who": "Hippocrates",
+"text": "“Quite likely, Socrates, based on what you are saying.”",
+"kind": "speech"
 },
 {
 "entry": 73,
 "who": "Socrates",
 "text": "“Well now, Hippocrates, could the sophist be a sort of merchant or retailer of the provisions by which the soul is nourished? For that is how he appears to me anyway.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 74,
-"who": "Socrates",
+"who": "Hippocrates",
 "text": "“What is the soul nourished by, Socrates?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 75,
 "who": "Socrates",
 "text": "“By what it learns, I presume,” said I. “But the sophist deceives us by praising whatever he sells, just as merchants and retailers do when they deal in nutriment for the body. For these people, although they praise everything they sell, presumably do not know themselves which of the wares they deal in are beneficial or harmful to the body, nor do the people who buy from them, unless they happen to be trainers or physicians.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 76,
 "who": "Socrates",
 "text": "“The same applies to those who parade their learning around the cities, acting as salesmen and retailers to any eager customer. They too praise everything they sell. Yet in all probability some of these, my good man, are ignorant as to whether the wares they are selling are beneficial or harmful to the soul. And the same applies to the people who buy from them, unless one of them is, perchance, for his part, a skilled physician of the soul.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 77,
 "who": "Socrates",
 "text": "“Now, if you are knowledgeable as to which of these wares are beneficial or harmful, you may purchase learning, in safety, from Protagoras or anyone else at all. Otherwise beware, blessed man, lest you take chances and imperil your most precious possessions, for there is surely an even greater danger in the purchase of learning than in the purchase of food. Indeed, it is possible for food and drink purchased from a retailer or merchant to be taken away in separate vessels before admitting them into the body by drinking them or eating them. Once you have got them home, it is possible to take advice by calling upon someone who knows what we should eat and drink and what we should not, and how much and at what time. Consequently there is no great danger involved in their purchase.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 78,
 "who": "Socrates",
 "text": "“Learning, by contrast, cannot be borne away in a separate vessel. No, once the fee has been proffered, it is necessary to take that learning into the soul itself, and once you have learned something, you must go your way, having been either harmed or benefited. Well, we should consider these issues in the company of our elders, for we are too young to deal with such an extensive topic.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 79,
 "who": "Socrates",
 "text": "“Now, however, in accordance with our plan, we should go and listen to the man, and once we have heard him we should also consult other people too. In fact, Protagoras is not the only one there. Hippias of Elis is also there. So too, I believe, is Prodicus of Ceos, and a host of others, all wise.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 80,
 "who": "Socrates",
-"text": "Once we had decided this, we went on our way. But when we got to the porch, we stood there discussing a particular argument that had occurred to us on the road so that it would not be left unfinished and we could bring the issue to a conclusion before going inside. So we stood in the porch and discussed it until we had come to agreement with one another. Well, I think the doorman, a eunuch, overheard us, but due to the profusion of sophists he was probably annoyed with the visitors to the house, since when we knocked on the door, he opened it, saw us and said, “Ah, some more sophists. Himself is busy.” At the same time, he slammed the door shut with both hands as hard as he possibly could. So we knocked again and he responded, with the door still closed, saying, “Gentlemen, did you not hear me saying that he is busy?”",
+"text": "Once we had decided this, we went on our way. But when we got to the porch, we stood there discussing a particular argument that had occurred to us on the road so that it would not be left unfinished and we could bring the issue to a conclusion before going inside. So we stood in the porch and discussed it until we had come to agreement with one another. Well, I think the doorman, a eunuch, overheard us, but due to the profusion of sophists he was probably annoyed with the visitors to the house, since when we knocked on the door, he opened it, saw us and said,",
 "kind": "narration"
+},
+{
+"entry": 80,
+"who": "Doorkeeper",
+"text": "“Ah, some more sophists. Himself is busy.”",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "At the same time, he slammed the door shut with both hands as hard as he possibly could. So we knocked again and he responded, with the door still closed, saying,",
+"kind": "narration"
+},
+{
+"entry": 80,
+"who": "Doorkeeper",
+"text": "“Gentlemen, did you not hear me saying that he is busy?”",
+"kind": "speech"
 },
 {
 "entry": 81,
 "who": "Socrates",
 "text": "“But, my good man,” I replied, “we are not visiting Callias, nor are we sophists, so do not worry. In fact, we have come because we want to see Protagoras, so please announce us.” So the man eventually opened the door to us with some reluctance.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 82,
@@ -523,39 +673,69 @@
 },
 {
 "entry": 86,
+"who": "Protagoras",
+"text": "“Do you wish to converse alone or in the presence of the others?”",
+"kind": "speech"
+},
+{
+"entry": 86,
 "who": "Socrates",
-"text": "“Do you wish to converse alone or in the presence of the others?” he asked.",
+"text": "he asked.",
 "kind": "narration"
 },
 {
 "entry": 87,
 "who": "Socrates",
 "text": "“It makes no difference to us,” I replied. “When you have heard the reason for our visit, you can decide for yourself.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 88,
+"who": "Protagoras",
+"text": "“Well, then,”",
+"kind": "speech"
 },
 {
 "entry": 88,
 "who": "Socrates",
-"text": "“Well, then,” he said, “what is the purpose of your visit?”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 88,
+"who": "Protagoras",
+"text": "“what is the purpose of your visit?”",
+"kind": "speech"
 },
 {
 "entry": 89,
 "who": "Socrates",
 "text": "“Hippocrates here is one of our fellow countrymen. He is the son of Apollodorus, and he belongs to a great, prosperous family, while he himself seems by nature to be a match for any one of his peers. I think he wishes to attain a high reputation in the city, and he believes he will best attain this if he consorts with you. So please consider at this stage whether you think we should discuss these issues privately on our own or in the company of others.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Protagoras",
+"text": "“Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 90,
 "who": "Socrates",
-"text": "“Socrates,” he replied, “you are right to be cautious on my behalf. Indeed, a foreigner who arrives in great cities, persuading the best of their young folk to depart from the company of others, of family members or acquaintances, older or younger, in order to consort with himself so that they may be improved by his company, needs to proceed carefully in so doing. For these activities generate no small measure of resentment, hostility and intrigue.",
+"text": "he replied,",
 "kind": "narration"
 },
 {
+"entry": 90,
+"who": "Protagoras",
+"text": "“you are right to be cautious on my behalf. Indeed, a foreigner who arrives in great cities, persuading the best of their young folk to depart from the company of others, of family members or acquaintances, older or younger, in order to consort with himself so that they may be improved by his company, needs to proceed carefully in so doing. For these activities generate no small measure of resentment, hostility and intrigue.",
+"kind": "speech"
+},
+{
 "entry": 91,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Now, I say that the skill of sophistry is of ancient date, yet those men of old who turned a hand to it, fearing the offence it might cause, disguised their skill. Some like Homer, Hesiod and Simonides concealed it as poetry; others, the associates of Orpheus and Musaeus, as rites or oracular sayings. And I have on occasion even observed people concealing it as gymnastics – Iccus of Tarentum, for instance, and the present-day sophist, as good as any, Herodicus of Selymbria, formerly of Megara. Your own Agathocles, although he is a great sophist, adopted the disguise of a musician, as did Pythoclides of Ceos and many others. All these men, as I have been saying, made use of these various skills as a screen because they were afraid of the resentment. Now, I do not agree with the approach of all these people, since I believe that they do not achieve their desired objective. For the men who exercise power in the various cities, the very people they are trying to deceive, are quite aware of this subterfuge, while the masses hardly notice anything but simply repeat the pronouncements of the men in power. Now, trying to get away with something when you are unable to get away with it, and being exposed in the attempt, is sheer folly on the part of the person who tries to do so, and, of necessity, provokes even greater hostility in people, for they believe that such a person, in addition to his other failings, is also a rogue. So I have adopted an approach that is the complete opposite of theirs. I admit to being a sophist and an educator of humanity, and I regard this precaution, whereby I admit it rather than deny it, as better than the other one. And I have devised other safeguards as well as this so that, with God as my witness, nothing terrible has happened to me due to my admission of being a sophist, even though I have by now been many years in the profession. Yes, indeed, I have a long life behind me and I am old enough to be the father of anyone here, so, if you wish to pursue these issues, I would be very pleased to conduct the discussion in front of everyone in the house.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 92,
@@ -565,15 +745,33 @@
 },
 {
 "entry": 93,
+"who": "Protagoras",
+"text": "“Yes, certainly,”",
+"kind": "speech"
+},
+{
+"entry": 93,
 "who": "Socrates",
-"text": "“Yes, certainly,” replied Protagoras.",
+"text": "replied Protagoras.",
 "kind": "narration"
 },
 {
 "entry": 94,
+"who": "Callias",
+"text": "“Well,”",
+"kind": "speech"
+},
+{
+"entry": 94,
 "who": "Socrates",
-"text": "“Well,” said Callias, “would you like us to arrange a meeting place, so that you may sit down and conduct your discussion?”",
+"text": "said Callias,",
 "kind": "narration"
+},
+{
+"entry": 94,
+"who": "Callias",
+"text": "“would you like us to arrange a meeting place, so that you may sit down and conduct your discussion?”",
+"kind": "speech"
 },
 {
 "entry": 95,
@@ -584,8 +782,14 @@
 {
 "entry": 96,
 "who": "Socrates",
-"text": "Once we had all sat down together, Protagoras said, “Well, Socrates, now that these people are also present, would you please elaborate upon what you mentioned to me earlier on this young man’s behalf?”",
+"text": "Once we had all sat down together, Protagoras said,",
 "kind": "narration"
+},
+{
+"entry": 96,
+"who": "Protagoras",
+"text": "“Well, Socrates, now that these people are also present, would you please elaborate upon what you mentioned to me earlier on this young man’s behalf?”",
+"kind": "speech"
 },
 {
 "entry": 97,
@@ -596,8 +800,14 @@
 {
 "entry": 98,
 "who": "Socrates",
-"text": "So Protagoras responded by saying, “Well, young man, if you associate with me, this is what you will obtain. On the very first day you spend time with me you will go home a better man, and the same thing will happen the following day. And every day thereafter you will continually develop for the better.”",
+"text": "So Protagoras responded by saying,",
 "kind": "narration"
+},
+{
+"entry": 98,
+"who": "Protagoras",
+"text": "“Well, young man, if you associate with me, this is what you will obtain. On the very first day you spend time with me you will go home a better man, and the same thing will happen the following day. And every day thereafter you will continually develop for the better.”",
+"kind": "speech"
 },
 {
 "entry": 99,
@@ -614,32 +824,50 @@
 {
 "entry": 101,
 "who": "Socrates",
-"text": "When Protagoras had heard this he said, “You are putting your question very well, Socrates, and I enjoy responding to people who put their questions well. You see, if Hippocrates comes to join me, he will not suffer what he would have suffered by spending time with any other sophist.",
+"text": "When Protagoras had heard this he said,",
 "kind": "narration"
+},
+{
+"entry": 101,
+"who": "Protagoras",
+"text": "“You are putting your question very well, Socrates, and I enjoy responding to people who put their questions well. You see, if Hippocrates comes to join me, he will not suffer what he would have suffered by spending time with any other sophist.",
+"kind": "speech"
 },
 {
 "entry": 102,
 "who": "Socrates",
-"text": "In fact, the others mistreat the young people. For no sooner do they get away from the various skills than these sophists draw them back in once more, against their will, immersing them in the skills by teaching them calculation, astronomy, geometry and music.” And as he said this, he glanced at Hippias. “Yet, once he comes to me, he will learn nothing else except what he came to learn, and the subject matter is sound-judgement in relation to private affairs and in relation to civic affairs, how he may best manage his own household and how his words and deeds may be extremely influential over the business of the city.”",
+"text": "In fact, the others mistreat the young people. For no sooner do they get away from the various skills than these sophists draw them back in once more, against their will, immersing them in the skills by teaching them calculation, astronomy, geometry and music.” And as he said this, he glanced at Hippias.",
 "kind": "narration"
+},
+{
+"entry": 102,
+"who": "Protagoras",
+"text": "“Yet, once he comes to me, he will learn nothing else except what he came to learn, and the subject matter is sound-judgement in relation to private affairs and in relation to civic affairs, how he may best manage his own household and how his words and deeds may be extremely influential over the business of the city.”",
+"kind": "speech"
 },
 {
 "entry": 103,
 "who": "Socrates",
 "text": "“So, am I following what you are saying?” I asked. “You seem to me to be describing political skill, and promising to produce men who are good citizens.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Protagoras",
+"text": "“That, Socrates, is precisely the profession I profess,”",
+"kind": "speech"
 },
 {
 "entry": 104,
 "who": "Socrates",
-"text": "“That, Socrates, is precisely the profession I profess,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 105,
 "who": "Socrates",
 "text": "“In that case,” I said, “you have acquired a great system, if indeed you have acquired it.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 106,
@@ -657,7 +885,7 @@
 "entry": 108,
 "who": "Socrates",
 "text": "“However, once they need to decide on the administration of the city, it is all the same to them if the person who stands up to advise them about these issues is a carpenter, a blacksmith, a cobbler, a merchant, a ship owner, rich or poor, of noble lineage or none. It makes no difference.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 109,
@@ -669,7 +897,7 @@
 "entry": 110,
 "who": "Socrates",
 "text": "“What is more, this conclusion applies not only in the communal aspect of the city, but also in private. For the wisest and most excellent of our citizens are unable to pass on this excellence, which they possess, to anyone else. Indeed Pericles, the father of these two young men here, educated them well and truly in the subjects for which he found teachers, yet when it comes to matters on which he himself is wise, he neither instructs them himself nor hands them over to anyone else.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 111,
@@ -697,15 +925,51 @@
 },
 {
 "entry": 115,
+"who": "Protagoras",
+"text": "“Well, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 115,
 "who": "Socrates",
-"text": "“Well, Socrates,” he said, “I shan’t begrudge you. But as an older man addressing his juniors, should I make my point by telling you a story or by working through an argument?” Now, most of the gathering replied that he should proceed in whatever manner he wished. “Well,” said he, “I think it would be more pleasing to tell you a story.”",
+"text": "he said,",
 "kind": "narration"
 },
 {
-"entry": 116,
+"entry": 115,
+"who": "Protagoras",
+"text": "“I shan’t begrudge you. But as an older man addressing his juniors, should I make my point by telling you a story or by working through an argument?”",
+"kind": "speech"
+},
+{
+"entry": 115,
 "who": "Socrates",
-"text": "“Now, there was once a time when, although there were gods, there were no mortal creatures of any kind. And when the moment of destiny came for the birth of the mortal creatures, the gods formed them within the earth, from earth and fire which they mixed together, and from whatever mixes with earth and fire. Once they were ready to bring the creatures forth into the light, they directed Prometheus and Epimetheus to equip them and assign powers to each, as appropriate. Epimetheus asked Prometheus if he himself could do the allocating. ‘Once I have done the allocating, you shall do the inspecting,’ he said, and having persuaded his brother of this, he made the allocations. To some he assigned strength without adding speed; others, who were weaker, he equipped with speed. Some of them he armed, and he devised an alternative means of preservation for those who were given an unarmed nature. To those whom he kept small, he allotted winged flight or an underground dwelling place, while those whom he caused to grow large he preserved",
+"text": "Now, most of the gathering replied that he should proceed in whatever manner he wished.",
 "kind": "narration"
+},
+{
+"entry": 115,
+"who": "Protagoras",
+"text": "“Well,”",
+"kind": "speech"
+},
+{
+"entry": 115,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 115,
+"who": "Protagoras",
+"text": "“I think it would be more pleasing to tell you a story.”",
+"kind": "speech"
+},
+{
+"entry": 116,
+"who": "Protagoras",
+"text": "“Now, there was once a time when, although there were gods, there were no mortal creatures of any kind. And when the moment of destiny came for the birth of the mortal creatures, the gods formed them within the earth, from earth and fire which they mixed together, and from whatever mixes with earth and fire. Once they were ready to bring the creatures forth into the light, they directed Prometheus and Epimetheus to equip them and assign powers to each, as appropriate. Epimetheus asked Prometheus if he himself could do the allocating. ‘Once I have done the allocating, you shall do the inspecting,’ he said, and having persuaded his brother of this, he made the allocations. To some he assigned strength without adding speed; others, who were weaker, he equipped with speed. Some of them he armed, and he devised an alternative means of preservation for those who were given an unarmed nature. To those whom he kept small, he allotted winged flight or an underground dwelling place, while those whom he caused to grow large he preserved",
+"kind": "speech"
 },
 {
 "entry": 117,
@@ -721,33 +985,33 @@
 },
 {
 "entry": 119,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Now, that is how humanity came to possess the wisdom for everyday life, yet they did not possess wisdom in civic affairs, for that belonged to Zeus. There was no time for Prometheus to enter the high pinnacle that is the abode of Zeus, and the guardsmen of Zeus were too fearsome anyway. But he entered unnoticed into the shared workshop of Athena and Hephaestus wherein they practised their skill, stole the skill that works through fire, the one that belongs to Hephaestus, and the other skill that belongs to Athena, and bestowed them upon humanity. And as a consequence of this, the life of man is well provided for, and yet it is said that because of Epimetheus, Prometheus was prosecuted afterwards for theft.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 120,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Since humanity had shared in a divine portion, firstly, due to their kinship with the god, they were the only living creatures who acknowledged the gods, and they set about constructing altars and statues of gods. Then, by means of this skill, they quickly produced articulate sounds and names, and invented houses, clothing, shoes, bedding, and the production of food from the earth. Once they had been provided for in this way, the humans did not live communally at first, and there were no cities. So they were being ravaged by the wild beasts, because they were weaker than the beasts in every respect. And although their skilled craftsmanship was enough to secure them a source of food, it fell short when it came to warfare against the wild animals, for they did not yet possess skill in civic affairs of which warfare is a part. So they sought to come together and preserve themselves by building cities.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 121,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Now, when they came together, they acted unjustly towards one another as they lacked skill in civic affairs. So they were dispersed once again, and subject to destruction. Then Zeus, fearing that our race might perish completely, sent Hermes, bearing respect and justice to humanity, so that there would be order in the cities and conjoining bonds of friendship. So Hermes asked Zeus in what manner he should bestow justice and respect upon humanity. ‘Should I allocate these in the same way that the skills were allocated? They were distributed so that one person possessing medical skill was enough to treat numerous laymen, and the same applied to the other skilled persons. So should I also distribute justice and respect among the humans in this way or should I allocate it to them all?’ ‘To them all,’ replied Zeus, ‘and let them all have a share in it, for cities will not come into existence if only a few people share in this skill, as happens with other skills. And set down a law from me whereby anyone unable to share in justice and respect is to die as a pestilence of the city.’",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 122,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Accordingly, for these reasons, Socrates, everyone, Athenians included, believes that few advisers should be involved whenever the deliberation relates to excellence in building, or some other skilled work. And if anyone outside of that few offers advice, they do not put up with it, as you have said, quite reasonably in my view. Yet when it comes to advice on excellence in civic affairs, where it is necessary to proceed entirely on the basis of justice and sound-mindedness, they quite reasonably accept contributions from all men because it is appropriate for everyone to share in this excellence; otherwise there would be no cities at all. That is the explanation for this, Socrates.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 123,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“In case you think you are being deceived, please accept this additional proof that the whole world really does believe that all men have a share of justice, and also civic excellence in general.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 124,
@@ -757,9 +1021,9 @@
 },
 {
 "entry": 125,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Next I shall try to show you that they do not think that it is present naturally or of its own accord. Rather, it is capable of being taught, and those who acquire it acquire it through diligence.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 126,
@@ -793,21 +1057,21 @@
 },
 {
 "entry": 131,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Well, Socrates, it seems, to me anyway, that you have been given adequate proof that it is reasonable for your fellow citizens to accept the blacksmith and the cobbler as advisers on civic affairs, and that they believe that excellence can be imparted and is capable of being taught.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 132,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Now, there is still one puzzle left, the issue you raised about the good men. Why, exactly, is it that good men instruct their own sons in the broad range of subjects for which teachers can be found, and make them wise therein, yet when it comes to the excellence in which they themselves are good, they make their sons no better than anyone else? Now, on this issue, Socrates, I shall no longer recount a story to you, but an argument. Well, think about this. Is there or is there not one thing in which all the citizens must share if there is to be a city? Indeed, the resolution of the difficulty you raise lies in this question and nowhere else. For if there is one, and this one is not the skill of the builder, the blacksmith or the potter, but justice, sound-mindedness and holiness, and what I collectively refer to as one thing, the excellence of man, if this is what everyone should share in, and if all men should act in consort with this if they wish to learn or enact anything else, and if anyone, child, man or woman, who has no share in this should be instructed and punished until they have become better because of the punishment, and if anyone who does not heed the punishment and instruction should be cast out of the city or put to death because he is incurable, if this is how matters stand, and yet in spite of its nature good men teach their sons everything else with the exception of this, behold how strangely good men are behaving. For we have shown that they believe that this can be taught privately and publicly. Yet, in spite of the fact that this can be taught and cultivated, do they really teach those other subjects to their sons – the ones that do not carry the death penalty should the boys lack the knowledge thereof – while, on the other hand, failing to teach or lavish the utmost care on that subject which does carry the penalty of death or exile for their sons, if they neither learn this nor cultivate excellence, and not just death, but confiscation of their property, and, in short, the total overthrow of their family? No, Socrates, we must believe that they teach and admonish them all through their lives, beginning when they are small children.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 133,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“As soon as someone can understand what is being said, his nurse, mother, trainer and even his father exert themselves so that the child may excel, teaching him with every word and deed, and pointing out that this is just, that unjust; this is noble, that base; this is sacred, that profane; do this, but do not do that. If he obeys willingly, all is well, but otherwise they correct him with threats and blows as though he were a twisted and bent piece of wood. Afterwards they send him to various teachers, directing them to attend much more to the proper conduct of the children than to writing and lyre-playing. The teachers attend to these matters, and once the children have learned writing and are beginning to understand the written word just as well as the spoken word, they provide them with the works of good poets to read in the classroom, and compel them to learn these by heart. These contain many words of warning and numerous narratives, praises and eulogies of the good men of old, so that the child may be inspired to imitate them, and may yearn to become a man of this sort. The lyre teachers, doing the same sort of thing, pay attention to sound-mindedness and how the young people may refrain from doing wrong. What is more, once they have learned to play the harp, they teach them the works of some other good poets, lyric poets, which they arrange to the tunes of the harp, and they compel the rhythms and harmonies to take up their abode in the souls of children so that they may be gentler, and be effective in word and deed by becoming more graceful and harmonious, for the whole life of man stands in need of grace and harmony.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 134,
@@ -817,21 +1081,27 @@
 },
 {
 "entry": 135,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“So why do so many sons of good fathers turn out mediocre? You need to understand this too. Indeed, it is nothing surprising if, in fact, I was speaking the truth earlier when I said that when it comes to the matter of excellence, no one should distance himself from this if there is to be a city. Indeed, if what I am saying is actually the case, as it most certainly is, then select any other activity or subject whatsoever and reflect upon it. Suppose it were impossible that there be a city unless we were all flute players, each according to his ability, and everyone taught this to everyone else in public and in private, and rebuked anyone who did not play well, and did not hold back in doing so. It would be just like the present situation, where no one holds back or conceals his expertise on matters of justice and law, as one would in other areas of expertise. For the justice and excellence we exercise towards one another presumably benefits us all, and, as a consequence, everyone is eager to tell everyone else what is right and just, and give them instruction.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 136,
 "who": "Socrates",
-"text": "Now, if we were also to have the same total eagerness and lack of restraint in teaching flute-playing to one another, do you think, Socrates,” he said, “that the sons of any of the good flute players would prove to be better flute players than the sons of ordinary players? I think not. No, if anyone had a son with a natural ability in flute-playing, the boy would grow in reputation, and if he had no natural ability he would never be famous. The son of a good flute player may often turn out to be inferior, and the son of an ordinary one to be good. In any case, they would all be competent flute players compared to unlearned folk who know nothing about flute-playing. You should also think about the present case in the same way. Among those educated by laws and by their fellow men, even the person who seems completely unjust is a just man, a practitioner in the matter of justice, if he is judged by the standard of men devoid of education, with no law courts, no laws and no compulsion of any kind to make them pay attention to excellence, wild folk just like those presented at the Lenaean festival by the playwright Pherecrates last year. Certainly, if you fell in with people of that sort, just like those haters of humanity in the chorus of that play, you would be grateful to meet up with Eurybatus and Phrynondas, and you would wail longingly for the wickedness of the people here.",
+"text": "Now, if we were also to have the same total eagerness and lack of restraint in teaching flute-playing to one another, do you think, Socrates,” he said,",
 "kind": "narration"
 },
 {
+"entry": 136,
+"who": "Protagoras",
+"text": "“that the sons of any of the good flute players would prove to be better flute players than the sons of ordinary players? I think not. No, if anyone had a son with a natural ability in flute-playing, the boy would grow in reputation, and if he had no natural ability he would never be famous. The son of a good flute player may often turn out to be inferior, and the son of an ordinary one to be good. In any case, they would all be competent flute players compared to unlearned folk who know nothing about flute-playing. You should also think about the present case in the same way. Among those educated by laws and by their fellow men, even the person who seems completely unjust is a just man, a practitioner in the matter of justice, if he is judged by the standard of men devoid of education, with no law courts, no laws and no compulsion of any kind to make them pay attention to excellence, wild folk just like those presented at the Lenaean festival by the playwright Pherecrates last year. Certainly, if you fell in with people of that sort, just like those haters of humanity in the chorus of that play, you would be grateful to meet up with Eurybatus and Phrynondas, and you would wail longingly for the wickedness of the people here.",
+"kind": "speech"
+},
+{
 "entry": 137,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“And now you are putting on airs, Socrates, because everyone is a teacher of excellence, each to the extent of his ability, yet it seems to you that there are none. It is as if you were to ask who the teacher of the Greek language is. There is not one to be found. And in my view, if you were to ask who would teach the sons of our craftsmen the very skill which they have obviously learned from their own father – insofar as the father and his associates who had the same skill were able to do so – if you ask who in turn would teach these boys, I do not think it an easy matter to produce a teacher, Socrates, even though it is extremely easy to do so for others who are devoid of experience. And the same argument applies to excellence, and to everything else. But if there",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 138,
@@ -847,9 +1117,21 @@
 },
 {
 "entry": 140,
+"who": "Protagoras",
+"text": "“Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 140,
 "who": "Socrates",
-"text": "“Socrates,” he said, “I have presented you with a story and an argument like this to show that excellence can be taught, and that the Athenians believe this to be the case, and that it is no surprise that ordinary sons are born to good fathers, and good sons to ordinary fathers, since even the sons of Polykleitus, who are the same age as Paralus and Xanthippus here, are nothing in comparison with their father, and the same goes for the sons of other craftsmen. But these two boys do not deserve such denunciation just yet. Indeed, there is still hope for them because they are young.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 140,
+"who": "Protagoras",
+"text": "“I have presented you with a story and an argument like this to show that excellence can be taught, and that the Athenians believe this to be the case, and that it is no surprise that ordinary sons are born to good fathers, and good sons to ordinary fathers, since even the sons of Polykleitus, who are the same age as Paralus and Xanthippus here, are nothing in comparison with their father, and the same goes for the sons of other craftsmen. But these two boys do not deserve such denunciation just yet. Indeed, there is still hope for them because they are young.”",
+"kind": "speech"
 },
 {
 "entry": 141,
@@ -861,7 +1143,7 @@
 "entry": 142,
 "who": "Socrates",
 "text": "“If someone were to frequent any of our public speakers on these very issues, he would probably hear speeches of this sort, either from Pericles or any of the other accomplished speakers.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 143,
@@ -879,72 +1161,114 @@
 "entry": 145,
 "who": "Socrates",
 "text": "“So, Protagoras, I am not quite there yet, but if you were to answer the following question I would understand everything. You say that excellence can be taught, and if I were to be persuaded by anyone else in the world, I would surely be persuaded by you. But please satisfy me on an issue that surprised me when you were speaking, for you said that Zeus sent justice and respect to humankind, and what is more, on many occasions in your exposition, justice, sound-mindedness, holiness, and all the rest, were referred to by you collectively as one thing, excellence. Please go through these for me precisely, with an argument on whether excellence is one entity, of which justice, sound-mindedness and holiness are parts, or whether all these words I have just uttered are a variety of names for the same one thing. This is my only remaining desire.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 146,
+"who": "Protagoras",
+"text": "“Well, Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 146,
 "who": "Socrates",
-"text": "“Well, Socrates,” he replied, “that is an easy question to answer. Excellence is one, and you are asking about parts of it.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 146,
+"who": "Protagoras",
+"text": "“that is an easy question to answer. Excellence is one, and you are asking about parts of it.”",
+"kind": "speech"
 },
 {
 "entry": 147,
 "who": "Socrates",
 "text": "“Are they parts”, I said, “just as the parts of the face are parts – mouth, nose, eyes and ears? Or are they like the parts of gold, which do not differ in any way either from one another or from the whole, except in being large or small?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 148,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“In the former sense, Socrates, in my view, as the parts of the face relate to the face as a whole.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 149,
 "who": "Socrates",
 "text": "“Now, do people also share in these, the parts of excellence, some sharing in one part and someone else sharing in another, or is it necessary that someone who has acquired one has them all?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 150,
+"who": "Protagoras",
+"text": "“Not at all,”",
+"kind": "speech"
 },
 {
 "entry": 150,
 "who": "Socrates",
-"text": "“Not at all,” he replied. “Many people are courageous yet unjust, or just but not wise.”",
+"text": "he replied.",
 "kind": "narration"
+},
+{
+"entry": 150,
+"who": "Protagoras",
+"text": "“Many people are courageous yet unjust, or just but not wise.”",
+"kind": "speech"
 },
 {
 "entry": 151,
 "who": "Socrates",
 "text": "“So are these also parts of excellence, wisdom and courage?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 152,
+"who": "Protagoras",
+"text": "“Of course,”",
+"kind": "speech"
 },
 {
 "entry": 152,
 "who": "Socrates",
-"text": "“Of course,” he said, “most emphatically. And wisdom is the most important part.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 152,
+"who": "Protagoras",
+"text": "“most emphatically. And wisdom is the most important part.”",
+"kind": "speech"
 },
 {
 "entry": 153,
 "who": "Socrates",
 "text": "“And is each of them different from the other?” I asked.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 154,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 155,
 "who": "Socrates",
 "text": "“And does each of them possess its own particular capacity? I mean, are they like the parts of the face, where the eye is not like the ear, nor does it have the same capacity, nor is any part like another part, either in its capacity or on any other basis? Is this also the case with the parts of excellence, that one part is not like the other, neither in itself nor in its capacity? Or is it quite obvious that this is the case, if it really conforms to our example anyway?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 156,
+"who": "Protagoras",
+"text": "“Yes, this is the case, Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 156,
 "who": "Socrates",
-"text": "“Yes, this is the case, Socrates,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
@@ -955,63 +1279,93 @@
 },
 {
 "entry": 158,
+"who": "Protagoras",
+"text": "“No,”",
+"kind": "speech"
+},
+{
+"entry": 158,
 "who": "Socrates",
-"text": "“No,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 159,
 "who": "Socrates",
 "text": "“Come on, then,” I said. “Together let us consider what sort of thing each of them is. Let us ask this question first. Is justice a something or not a something? I think it is, but what about you?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 160,
+"who": "Protagoras",
+"text": "“I think so too,”",
+"kind": "speech"
 },
 {
 "entry": 160,
 "who": "Socrates",
-"text": "“I think so too,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 161,
 "who": "Socrates",
 "text": "“What about this? If someone were to ask you and me, ‘Protagoras and Socrates, please tell me about this thing which you have named just now as justice. Is this itself just or unjust?’ I would reply that it is just, but how would you cast your vote? The same way as me, or the other way?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 162,
+"who": "Protagoras",
+"text": "“The same,”",
+"kind": "speech"
 },
 {
 "entry": 162,
 "who": "Socrates",
-"text": "“The same,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 163,
 "who": "Socrates",
 "text": "“So, in response to the questioner, I would say that justice is the sort of thing that is just. Would you say so too?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 164,
+"who": "Protagoras",
+"text": "“Yes,”",
+"kind": "speech"
 },
 {
 "entry": 164,
 "who": "Socrates",
-"text": "“Yes,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 165,
 "who": "Socrates",
 "text": "“If he were to go on and ask us, ‘Wouldn’t you also say that there is holiness?’ I think we would agree.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 166,
+"who": "Protagoras",
+"text": "“Yes,”",
+"kind": "speech"
 },
 {
 "entry": 166,
 "who": "Socrates",
-"text": "“Yes,” said he.",
+"text": "said he.",
 "kind": "narration"
 },
 {
 "entry": 167,
 "who": "Socrates",
 "text": "“Wouldn’t you say that it too is a something? We would agree to this wouldn’t we?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 168,
@@ -1023,43 +1377,55 @@
 "entry": 169,
 "who": "Socrates",
 "text": "“Would you say that this thing itself is the sort of thing that is, by nature, holy or unholy? Now, I myself would be annoyed by that question and I would say, ‘Speak respectfully, my man. Scarcely anything else would be holy if holiness itself were not holy.’ What about you? Would you respond in a similar manner?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 170,
+"who": "Protagoras",
+"text": "“Very much so,”",
+"kind": "speech"
 },
 {
 "entry": 170,
 "who": "Socrates",
-"text": "“Very much so,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 171,
 "who": "Socrates",
 "text": "“After this, if he were also to ask us, ‘Well, what were you saying a little earlier? Perhaps I did not hear you aright. I thought the two of you said that the parts of excellence are so disposed towards one another that one of them is not like the other.’”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 172,
 "who": "Socrates",
 "text": "“I would reply that for the most part you have heard right, but if you think that I said so too, you have misheard, for Protagoras here gave this answer. I was just asking the questions.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 173,
 "who": "Socrates",
 "text": "“Now, if he were to say, ‘Is this fellow speaking the truth, Protagoras? Are you the one who says that in the case of excellence one part is not like another? Is this your statement?’ What answer would you give him?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 174,
+"who": "Protagoras",
+"text": "“I would have to agree, Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 174,
 "who": "Socrates",
-"text": "“I would have to agree, Socrates,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 175,
 "who": "Socrates",
 "text": "“Well, Protagoras, having agreed to that, what answer would we give him if he were to ask us further, ‘So, is holiness not like something just, and is justice not like something holy but like something unholy? And is holiness like something that is not just, and is it therefore unjust, and justice",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 176,
@@ -1069,21 +1435,57 @@
 },
 {
 "entry": 177,
+"who": "Protagoras",
+"text": "“I do not think it is as simple as all that, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 177,
 "who": "Socrates",
-"text": "“I do not think it is as simple as all that, Socrates,” he replied. “I do not agree that justice is holy and that holiness is just. No, I think there is some distinction between them. But what difference does that make?” he said. “If you wish, let justice also be holy and holiness just, for our purposes.”",
+"text": "he replied.",
 "kind": "narration"
+},
+{
+"entry": 177,
+"who": "Protagoras",
+"text": "“I do not agree that justice is holy and that holiness is just. No, I think there is some distinction between them. But what difference does that make?”",
+"kind": "speech"
+},
+{
+"entry": 177,
+"who": "Socrates",
+"text": "he said.",
+"kind": "narration"
+},
+{
+"entry": 177,
+"who": "Protagoras",
+"text": "“If you wish, let justice also be holy and holiness just, for our purposes.”",
+"kind": "speech"
 },
 {
 "entry": 178,
 "who": "Socrates",
 "text": "“Not for mine,” I said, “for I do not want this ‘if you wish’ or ‘if you think so’ to come under scrutiny, but me and you. I say ‘me and you’, because I believe that the proposition will best come under scrutiny once the word ‘if’ is left out of it.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 179,
+"who": "Protagoras",
+"text": "“But of course justice bears some resemblance to holiness,”",
+"kind": "speech"
 },
 {
 "entry": 179,
 "who": "Socrates",
-"text": "“But of course justice bears some resemblance to holiness,” he said. “And, indeed, anything at all resembles anything else in some way or other. For there is a sense in which white bears a resemblance to black, hard to soft, and so do others that seem completely opposite to one another. And we said at the time that the parts of the face each have their own capacity, and that one is not like the other, yet there is some sense in which they bear a resemblance and one is like the other. So, based on this approach, you could even prove, if you wanted to, that these too are all similar to one another. But it is not right to refer to things that possess some similarity as similar, even when the similarity is very minor, or to refer to things that possess some dissimilarity as dissimilar.”",
+"text": "he said.",
 "kind": "narration"
+},
+{
+"entry": 179,
+"who": "Protagoras",
+"text": "“And, indeed, anything at all resembles anything else in some way or other. For there is a sense in which white bears a resemblance to black, hard to soft, and so do others that seem completely opposite to one another. And we said at the time that the parts of the face each have their own capacity, and that one is not like the other, yet there is some sense in which they bear a resemblance and one is like the other. So, based on this approach, you could even prove, if you wanted to, that these too are all similar to one another. But it is not right to refer to things that possess some similarity as similar, even when the similarity is very minor, or to refer to things that possess some dissimilarity as dissimilar.”",
+"kind": "speech"
 },
 {
 "entry": 180,
@@ -1093,87 +1495,117 @@
 },
 {
 "entry": 181,
+"who": "Protagoras",
+"text": "“No,”",
+"kind": "speech"
+},
+{
+"entry": 181,
 "who": "Socrates",
-"text": "“No,” he said, “this is not exactly the situation. Then again, it is not as you seem to think it is either.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 181,
+"who": "Protagoras",
+"text": "“this is not exactly the situation. Then again, it is not as you seem to think it is either.”",
+"kind": "speech"
 },
 {
 "entry": 182,
 "who": "Socrates",
 "text": "“Very well,” said I, “since you are not well disposed towards this we should let it go and investigate something else you said. Is there something you call folly?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 183,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 184,
 "who": "Socrates",
 "text": "“And the complete opposite of this thing is wisdom, isn’t it?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 185,
+"who": "Protagoras",
+"text": "“So it seems to me anyway,”",
+"kind": "speech"
 },
 {
 "entry": 185,
 "who": "Socrates",
-"text": "“So it seems to me anyway,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 186,
 "who": "Socrates",
 "text": "“And whenever people behave properly and beneficially, do you think they are sound-minded when behaving in this way, or the opposite?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 187,
+"who": "Protagoras",
+"text": "“They are sound-minded,”",
+"kind": "speech"
 },
 {
 "entry": 187,
 "who": "Socrates",
-"text": "“They are sound-minded,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 188,
 "who": "Socrates",
 "text": "“Isn’t it by sound-mindedness that they are sound-minded?",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 189,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Necessarily.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 190,
 "who": "Socrates",
 "text": "“Those who do not behave properly behave foolishly, and behaving in this way they are not soundminded, are they?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 191,
+"who": "Protagoras",
+"text": "“I agree,”",
+"kind": "speech"
 },
 {
 "entry": 191,
 "who": "Socrates",
-"text": "“I agree,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 192,
 "who": "Socrates",
 "text": "“So, is behaving foolishly the opposite of behaving sound-mindedly?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 193,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 194,
 "who": "Socrates",
 "text": "“Now, whatever is done foolishly is done with folly, whatever is done sound-mindedly is done with sound-mindedness.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 195,
@@ -1185,7 +1617,7 @@
 "entry": 196,
 "who": "Socrates",
 "text": "“Now, if something is done with strength it is done strongly, and if it is done with weakness it is done weakly. Isn’t this so?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 197,
@@ -1197,19 +1629,19 @@
 "entry": 198,
 "who": "Socrates",
 "text": "“And is something done with haste done hastily, and is something done with slowness done slowly?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 199,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 200,
 "who": "Socrates",
 "text": "“And if something is done in the same way, it is done by the same, and if it is done in the opposite way, it is done by the opposite.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 201,
@@ -1221,7 +1653,7 @@
 "entry": 202,
 "who": "Socrates",
 "text": "“Come on now,” said I, “is there such a thing as the beautiful?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 203,
@@ -1233,67 +1665,67 @@
 "entry": 204,
 "who": "Socrates",
 "text": "“Is there any opposite of this except the ugly?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 205,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“There is not.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 206,
 "who": "Socrates",
 "text": "“What about this? Is there such a thing as the good?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 207,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“There is.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 208,
 "who": "Socrates",
 "text": "“Is there any opposite of this apart from the bad?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 209,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“There is not.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 210,
 "who": "Socrates",
 "text": "“What about this? Is there such a thing as a high-pitched sound?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 211,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 212,
 "who": "Socrates",
 "text": "“Is there any opposite of this apart from a low-pitched sound?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 213,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“No.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 214,
 "who": "Socrates",
 "text": "“Now,” said I, “to each one of the opposites isn’t there only one opposite and not many?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 215,
@@ -1305,43 +1737,43 @@
 "entry": 216,
 "who": "Socrates",
 "text": "“Well, let us summarise the issues we have agreed on. Have we agreed that there is only one opposite of anything, and no more?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 217,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“We agreed on that.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 218,
 "who": "Socrates",
 "text": "“And that what is performed in the opposite way is performed by opposites?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 219,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 220,
 "who": "Socrates",
 "text": "“Did we agree that something done foolishly is done in the opposite way to something done soundmindedly?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 221,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 222,
 "who": "Socrates",
 "text": "“And that something done sound-mindedly is done by sound-mindedness, while something done foolishly is done by folly.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 223,
@@ -1353,91 +1785,91 @@
 "entry": 224,
 "who": "Socrates",
 "text": "“In that case, since they are done in opposite ways, wouldn’t they be done by opposites?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 225,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 226,
 "who": "Socrates",
 "text": "“And if one is done by sound-mindedness, will the other be done by folly?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 227,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 228,
 "who": "Socrates",
 "text": "“In opposite ways?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 229,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Entirely so.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 230,
 "who": "Socrates",
 "text": "“In that case aren’t they done by opposites?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 231,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 232,
 "who": "Socrates",
 "text": "“So, is folly the opposite of sound-mindedness?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 233,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“It appears so.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 234,
 "who": "Socrates",
 "text": "“Now, do you recall that we agreed in our previous discussion that folly is the opposite of wisdom?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 235,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“That was agreed.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 236,
 "who": "Socrates",
 "text": "“And that there is only one opposite of anything?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 237,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“I agree.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 238,
 "who": "Socrates",
 "text": "“Well, Protagoras, which of our arguments are we to drop? Is it the one stating that everything has only one opposite, or the other one that said wisdom is different from sound-mindedness, although both are parts of excellence? And as well as being different, they themselves are dissimilar, just like the parts of the face, and so are the capacities they possess. So which of them should we drop?",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 239,
@@ -1461,37 +1893,55 @@
 "entry": 242,
 "who": "Socrates",
 "text": "“So, could it be the case that sound-mindedness and wisdom are one? And what is more, we showed a moment ago that justice and holiness are almost the same.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 243,
 "who": "Socrates",
 "text": "“Come now, Protagoras,” I said, “let us not flag. Let us consider the remaining possibilities thoroughly. Do you think that a person who is acting unjustly is sound-minded because he is acting unjustly?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 244,
+"who": "Protagoras",
+"text": "“I would be ashamed to agree to that, Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 244,
 "who": "Socrates",
-"text": "“I would be ashamed to agree to that, Socrates,” he said, “even though there are a lot of people who say so.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 244,
+"who": "Protagoras",
+"text": "“even though there are a lot of people who say so.”",
+"kind": "speech"
 },
 {
 "entry": 245,
 "who": "Socrates",
 "text": "“Now, should I direct the argument at them or at you?” I asked.",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 246,
+"who": "Protagoras",
+"text": "“Discuss this argument first, the one that a lot of people hold, if you prefer,”",
+"kind": "speech"
 },
 {
 "entry": 246,
 "who": "Socrates",
-"text": "“Discuss this argument first, the one that a lot of people hold, if you prefer,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 247,
 "who": "Socrates",
 "text": "“Well, it makes no difference to me, as long as you are the person who responds, regardless of whether you hold these views or not. Indeed, for the most part, I am scrutinising the argument, yet it will probably turn out that I, the questioner, and my respondent, come under scrutiny too.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 248,
@@ -1501,15 +1951,21 @@
 },
 {
 "entry": 249,
+"who": "Protagoras",
+"text": "“Let it be so,”",
+"kind": "speech"
+},
+{
+"entry": 249,
 "who": "Socrates",
-"text": "“Let it be so,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 250,
 "who": "Socrates",
 "text": "“And by being sound-minded you mean thinking well?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 251,
@@ -1521,49 +1977,67 @@
 "entry": 252,
 "who": "Socrates",
 "text": "“And thinking well means planning well for whatever injustice they enact?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 253,
+"who": "Protagoras",
+"text": "“Let it be so,”",
+"kind": "speech"
 },
 {
 "entry": 253,
 "who": "Socrates",
-"text": "“Let it be so,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 254,
 "who": "Socrates",
 "text": "“Does this mean that their unjust actions proceed well or proceed badly?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 255,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Well.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 256,
 "who": "Socrates",
 "text": "“Now, do you say that there are things that are good?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 257,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“I say so.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 258,
 "who": "Socrates",
 "text": "“Well, are these good things the ones that are of benefit to people?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 259,
+"who": "Protagoras",
+"text": "“Yes, indeed, by Zeus,”",
+"kind": "speech"
 },
 {
 "entry": 259,
 "who": "Socrates",
-"text": "“Yes, indeed, by Zeus,” said he, “and I refer to things as good even when they are not of benefit to mankind.”",
+"text": "said he,",
 "kind": "narration"
+},
+{
+"entry": 259,
+"who": "Protagoras",
+"text": "“and I refer to things as good even when they are not of benefit to mankind.”",
+"kind": "speech"
 },
 {
 "entry": 260,
@@ -1575,13 +2049,25 @@
 "entry": 261,
 "who": "Socrates",
 "text": "“Protagoras,” I said, “are you referring to things that are of no benefit to any person or to those which are of no benefit whatsoever? And do you call things of that sort good?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 262,
+"who": "Protagoras",
+"text": "“Not at all,”",
+"kind": "speech"
 },
 {
 "entry": 262,
 "who": "Socrates",
-"text": "“Not at all,” he replied. “But I do know lots of things that are detrimental to people – foodstuffs, drink, medicines, and myriads more – and lots that are of benefit; others that have no effect upon humans, but do affect horses. Some only affect cattle, others only dogs; some affect none of these animals, but do affect trees; some are good for the roots of the tree but bad for the shoots. So manure, for instance, is good for all plants when it is spread about the roots, but if you decided to throw it onto the saplings and young shoots it would destroy them all. Oil too is extremely bad for all plants and is utterly inimical to the hair of all other creatures except that of humans, yet it is a salve to human hair and to the rest of the body.",
+"text": "he replied.",
 "kind": "narration"
+},
+{
+"entry": 262,
+"who": "Protagoras",
+"text": "“But I do know lots of things that are detrimental to people – foodstuffs, drink, medicines, and myriads more – and lots that are of benefit; others that have no effect upon humans, but do affect horses. Some only affect cattle, others only dogs; some affect none of these animals, but do affect trees; some are good for the roots of the tree but bad for the shoots. So manure, for instance, is good for all plants when it is spread about the roots, but if you decided to throw it onto the saplings and young shoots it would destroy them all. Oil too is extremely bad for all plants and is utterly inimical to the hair of all other creatures except that of humans, yet it is a salve to human hair and to the rest of the body.",
+"kind": "speech"
 },
 {
 "entry": 263,
@@ -1597,45 +2083,75 @@
 },
 {
 "entry": 265,
+"who": "Protagoras",
+"text": "“So, in what sense are you instructing me to answer briefly?”",
+"kind": "speech"
+},
+{
+"entry": 265,
 "who": "Socrates",
-"text": "“So, in what sense are you instructing me to answer briefly?” he said. “Should I answer you more briefly than necessary?”",
+"text": "he said.",
 "kind": "narration"
+},
+{
+"entry": 265,
+"who": "Protagoras",
+"text": "“Should I answer you more briefly than necessary?”",
+"kind": "speech"
 },
 {
 "entry": 266,
 "who": "Socrates",
 "text": "“Not at all,” I replied.",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 267,
+"who": "Protagoras",
+"text": "“As much as necessary then?”",
+"kind": "speech"
 },
 {
 "entry": 267,
 "who": "Socrates",
-"text": "“As much as necessary then?” he asked.",
+"text": "he asked.",
 "kind": "narration"
 },
 {
 "entry": 268,
 "who": "Socrates",
 "text": "“Yes,” said I.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 269,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Well, should I give you as long an answer as I deem necessary or as you deem necessary?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 270,
 "who": "Socrates",
 "text": "“What I have heard, anyway,” said I, “is that you yourself are able and can, if you wish, teach others to speak at such length that the speech never peters out, and, what is more, to speak with such brevity on the very same subject that no one could be more brief than you. Now, if you intend to engage in discourse with me, please employ the latter mode of speaking, the concise one.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 271,
+"who": "Protagoras",
+"text": "“Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 271,
 "who": "Socrates",
-"text": "“Socrates,” he replied, “I have by now engaged in verbal contests with very many people, and if I had done as you are instructing me, and engaged in discourse as instructed by my adversary, I would have looked no better than anyone else, nor would the name of Protagoras be known among the Greeks.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 271,
+"who": "Protagoras",
+"text": "“I have by now engaged in verbal contests with very many people, and if I had done as you are instructing me, and engaged in discourse as instructed by my adversary, I would have looked no better than anyone else, nor would the name of Protagoras be known among the Greeks.”",
+"kind": "speech"
 },
 {
 "entry": 272,
@@ -1652,8 +2168,14 @@
 {
 "entry": 274,
 "who": "Socrates",
-"text": "Once I had said this, I was getting up to leave, and, as I was doing so, Callias grabs my hand with his right hand, tugs this worn cloak of mine with his left, and says, “We shall not let you go, Socrates, for once you depart our dialogue will not proceed in the same way. So, I am asking you to remain with us, for there is nothing that would please me more than hearing yourself and Protagoras engaging in discourse. Come on, please do us all this favour.”",
+"text": "Once I had said this, I was getting up to leave, and, as I was doing so, Callias grabs my hand with his right hand, tugs this worn cloak of mine with his left, and says,",
 "kind": "narration"
+},
+{
+"entry": 274,
+"who": "Callias",
+"text": "“We shall not let you go, Socrates, for once you depart our dialogue will not proceed in the same way. So, I am asking you to remain with us, for there is nothing that would please me more than hearing yourself and Protagoras engaging in discourse. Come on, please do us all this favour.”",
+"kind": "speech"
 },
 {
 "entry": 275,
@@ -1675,21 +2197,57 @@
 },
 {
 "entry": 278,
+"who": "Callias",
+"text": "“But you see, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 278,
 "who": "Socrates",
-"text": "“But you see, Socrates,” he replied, “Protagoras seems justified in claiming that he himself should be allowed to engage in discourse in whatever manner he prefers, and you seem justified in claiming that he should speak in the manner you prefer.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 278,
+"who": "Callias",
+"text": "“Protagoras seems justified in claiming that he himself should be allowed to engage in discourse in whatever manner he prefers, and you seem justified in claiming that he should speak in the manner you prefer.”",
+"kind": "speech"
 },
 {
 "entry": 279,
 "who": "Socrates",
-"text": "At this point Alcibiades took issue and said, “That is not right, Callias! Socrates here concedes that he has no capacity for lengthy speeches, and here he gives way to Protagoras. Yet, in his ability to carry on discourse, and knowing how to present an argument and deal with one, I would be surprised if he gave way to any person. Now, if Protagoras also agrees that he is inferior to Socrates in discourse, that is enough for Socrates. But if he is opposed, let him engage in discourse without stretching out each answer into a lengthy speech, beating arguments down, being unwilling to present an argument, and taking so long that most of the listeners forget what the question was about. Yet I assure you that Socrates will not forget, even though he plays games and claims to be forgetful. Now, since each of us should present his own viewpoint, it seems to me that Socrates is speaking more reasonably.”",
+"text": "At this point Alcibiades took issue and said,",
 "kind": "narration"
+},
+{
+"entry": 279,
+"who": "Alcibiades",
+"text": "“That is not right, Callias! Socrates here concedes that he has no capacity for lengthy speeches, and here he gives way to Protagoras. Yet, in his ability to carry on discourse, and knowing how to present an argument and deal with one, I would be surprised if he gave way to any person. Now, if Protagoras also agrees that he is inferior to Socrates in discourse, that is enough for Socrates. But if he is opposed, let him engage in discourse without stretching out each answer into a lengthy speech, beating arguments down, being unwilling to present an argument, and taking so long that most of the listeners forget what the question was about. Yet I assure you that Socrates will not forget, even though he plays games and claims to be forgetful. Now, since each of us should present his own viewpoint, it seems to me that Socrates is speaking more reasonably.”",
+"kind": "speech"
 },
 {
 "entry": 280,
 "who": "Socrates",
-"text": "I think Critias was the one who spoke after Alcibiades. “Prodicus and Hippias,” he said, “I think Callias is much disposed towards Protagoras, while Alcibiades is always eager for victory in whatever he takes on. But we should not take sides in this, either for Socrates or for Protagoras.",
+"text": "I think Critias was the one who spoke after Alcibiades.",
 "kind": "narration"
+},
+{
+"entry": 280,
+"who": "Critias",
+"text": "“Prodicus and Hippias,”",
+"kind": "speech"
+},
+{
+"entry": 280,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 280,
+"who": "Critias",
+"text": "“I think Callias is much disposed towards Protagoras, while Alcibiades is always eager for victory in whatever he takes on. But we should not take sides in this, either for Socrates or for Protagoras.",
+"kind": "speech"
 },
 {
 "entry": 281,
@@ -1700,8 +2258,14 @@
 {
 "entry": 282,
 "who": "Socrates",
-"text": "Once he had said this, Prodicus in turn said, “I think you have expressed that nicely, Critias.",
+"text": "Once he had said this, Prodicus in turn said,",
 "kind": "narration"
+},
+{
+"entry": 282,
+"who": "Prodicus",
+"text": "“I think you have expressed that nicely, Critias.",
+"kind": "speech"
 },
 {
 "entry": 283,
@@ -1712,8 +2276,26 @@
 {
 "entry": 284,
 "who": "Socrates",
-"text": "When Prodicus had said all this, the vast majority of those present accepted it. The wise Hippias spoke after Prodicus. “Gentlemen here present,” he said, “I consider you all to be kindred, family and fellow citizens, by nature but not by convention, for by nature like is kindred to like, while convention, the tyrant of humanity, exercises force in general opposition to nature. So, it would be disgraceful for us who understand the nature of things, we who are the wisest of the Greeks, gathered together now for this very reason in the very shrine of wisdom of the Greek world and, in this, the greatest and most prosperous household in that very city, it would be a disgrace, I say, if we were to display nothing worthy of our status but were to quarrel with one another just like commonest of people. So, Protagoras and Socrates, I have a request. I advise you to come to an agreement as though you were being brought to a middle ground by us arbitrators. Socrates, you should not pursue this accurate form of discourse that is excessively short if it does not please Protagoras. You should, rather, let go, and loose the restraints upon the speeches so that they may sound more grandiose and elegant to us. Nor should Protagoras, for his part, hoist every sail and run before the wind, hastening out into an ocean of words, out of sight of land. Instead, you should both steer a middle course. So do as I say, and on my advice select an umpire or overseer or president who will keep watch over the due measure of your speeches in each case.”",
+"text": "When Prodicus had said all this, the vast majority of those present accepted it. The wise Hippias spoke after Prodicus.",
 "kind": "narration"
+},
+{
+"entry": 284,
+"who": "Hippias",
+"text": "“Gentlemen here present,”",
+"kind": "speech"
+},
+{
+"entry": 284,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 284,
+"who": "Hippias",
+"text": "“I consider you all to be kindred, family and fellow citizens, by nature but not by convention, for by nature like is kindred to like, while convention, the tyrant of humanity, exercises force in general opposition to nature. So, it would be disgraceful for us who understand the nature of things, we who are the wisest of the Greeks, gathered together now for this very reason in the very shrine of wisdom of the Greek world and, in this, the greatest and most prosperous household in that very city, it would be a disgrace, I say, if we were to display nothing worthy of our status but were to quarrel with one another just like commonest of people. So, Protagoras and Socrates, I have a request. I advise you to come to an agreement as though you were being brought to a middle ground by us arbitrators. Socrates, you should not pursue this accurate form of discourse that is excessively short if it does not please Protagoras. You should, rather, let go, and loose the restraints upon the speeches so that they may sound more grandiose and elegant to us. Nor should Protagoras, for his part, hoist every sail and run before the wind, hastening out into an ocean of words, out of sight of land. Instead, you should both steer a middle course. So do as I say, and on my advice select an umpire or overseer or president who will keep watch over the due measure of your speeches in each case.”",
+"kind": "speech"
 },
 {
 "entry": 285,
@@ -1730,8 +2312,26 @@
 {
 "entry": 287,
 "who": "Socrates",
-"text": "So Protagoras began his questioning in some such manner as this. “I believe, Socrates,” he said, “that a most significant part of a man’s education is proficiency in relation to poetry. This consists of being able to appreciate which of the poets’ writings are well composed and which are not, and knowing how to distinguish between them and give an account of them when questioned. And, indeed, my question will now relate to the very matter you and I are now discussing – that is, excellence. But the question will be transferred to the realm of poetry, and to this extent alone it will be different. Indeed, Simonides, speaking to Scopas, the son of Creon of Thessaly, says somewhere,",
+"text": "So Protagoras began his questioning in some such manner as this.",
 "kind": "narration"
+},
+{
+"entry": 287,
+"who": "Protagoras",
+"text": "“I believe, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 287,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 287,
+"who": "Protagoras",
+"text": "“that a most significant part of a man’s education is proficiency in relation to poetry. This consists of being able to appreciate which of the poets’ writings are well composed and which are not, and knowing how to distinguish between them and give an account of them when questioned. And, indeed, my question will now relate to the very matter you and I are now discussing – that is, excellence. But the question will be transferred to the realm of poetry, and to this extent alone it will be different. Indeed, Simonides, speaking to Scopas, the son of Creon of Thessaly, says somewhere,",
+"kind": "speech"
 },
 {
 "entry": 288,
@@ -1741,57 +2341,75 @@
 },
 {
 "entry": 289,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Do you know this ode, or shall I recite it all to you?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 290,
 "who": "Socrates",
 "text": "“It is not necessary,” I replied, “for I know this ode, and as it happens I have studied it closely.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 291,
+"who": "Protagoras",
+"text": "“It is good that you say so,”",
+"kind": "speech"
 },
 {
 "entry": 291,
 "who": "Socrates",
-"text": "“It is good that you say so,” said he. “Now, do you think it has been beautifully and properly composed or not?”",
+"text": "said he.",
 "kind": "narration"
+},
+{
+"entry": 291,
+"who": "Protagoras",
+"text": "“Now, do you think it has been beautifully and properly composed or not?”",
+"kind": "speech"
 },
 {
 "entry": 292,
 "who": "Socrates",
 "text": "“Beautifully and properly composed in every way,” I replied.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 293,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“But do you think it is beautifully composed if the poet contradicts himself?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 294,
 "who": "Socrates",
 "text": "“No, not beautifully,” I replied.",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 295,
+"who": "Protagoras",
+"text": "“Then take a better look at it,”",
+"kind": "speech"
 },
 {
 "entry": 295,
 "who": "Socrates",
-"text": "“Then take a better look at it,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 296,
 "who": "Socrates",
 "text": "“But, my good man, I have scrutinised it quite sufficiently!”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 297,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“In that case you know that as the ode continues it somehow says,",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 298,
@@ -1801,33 +2419,45 @@
 },
 {
 "entry": 299,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“You do realise that the same person who said this also made the previous statement?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 300,
 "who": "Socrates",
 "text": "“I know,” I said.",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 301,
+"who": "Protagoras",
+"text": "“Well,”",
+"kind": "speech"
 },
 {
 "entry": 301,
 "who": "Socrates",
-"text": "“Well,” he asked, “do you think these words are in agreement with the others?”",
+"text": "he asked,",
 "kind": "narration"
+},
+{
+"entry": 301,
+"who": "Protagoras",
+"text": "“do you think these words are in agreement with the others?”",
+"kind": "speech"
 },
 {
 "entry": 302,
 "who": "Socrates",
 "text": "“So it seems to me anyway,” I replied, but at the same time I was afraid that he might have a point. “Why?” I asked. “Do they not seem so to you?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 303,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Well, how could someone who makes these two statements show a semblance of agreement with himself? He himself first proposed that it is difficult for a man to become truly good, and a little later in the poem he forgets this and censures Pittacus who says the same thing as himself – that it is difficult to be noble – and refuses to accept from Pittacus the same point he himself is making. What is more, whenever he censures someone who says the same things as himself, it is obvious that he is censuring himself, and so either his earlier statement or his last statement is incorrectly formulated.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 304,
@@ -1843,27 +2473,39 @@
 },
 {
 "entry": 306,
+"who": "Prodicus",
+"text": "“They are different, by Zeus,”",
+"kind": "speech"
+},
+{
+"entry": 306,
 "who": "Socrates",
-"text": "“They are different, by Zeus,” replied Prodicus.",
+"text": "replied Prodicus.",
 "kind": "narration"
 },
 {
 "entry": 307,
 "who": "Socrates",
 "text": "“In those first lines,” said I, “didn’t Simonides express his own opinion that it would be difficult for a man, in truth, to become good?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 308,
+"who": "Prodicus",
+"text": "“That is true,”",
+"kind": "speech"
 },
 {
 "entry": 308,
 "who": "Socrates",
-"text": "“That is true,” said Prodicus.",
+"text": "said Prodicus.",
 "kind": "narration"
 },
 {
 "entry": 309,
 "who": "Socrates",
 "text": "“Yes. And he then censured Pittacus”, I said, “for saying something different, and not, as Protagoras alleges, for saying the same thing as he himself says. For Pittacus did not, like Simonides, say that it is difficult to become noble, but that it is difficult to be noble. But to be and to become are not the same, Protagoras, as Prodicus here affirmed. And if to be is not the same as to become, then Simonides is not contradicting himself. Yet Prodicus here, and many others, would probably say with Hesiod that it is hard to become good because",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 310,
@@ -1874,38 +2516,50 @@
 {
 "entry": 311,
 "who": "Socrates",
-"text": "But once someone has attained its pinnacle It is easy thereafter to keep it Even though it was difficult to acquire.” Now, when Prodicus heard this he complimented me, but Protagoras said, “Your correction, Socrates, contains a greater error than what you are correcting!”",
+"text": "But once someone has attained its pinnacle It is easy thereafter to keep it Even though it was difficult to acquire.” Now, when Prodicus heard this he complimented me, but Protagoras said,",
 "kind": "narration"
+},
+{
+"entry": 311,
+"who": "Protagoras",
+"text": "“Your correction, Socrates, contains a greater error than what you are correcting!”",
+"kind": "speech"
 },
 {
 "entry": 312,
 "who": "Socrates",
 "text": "“Well, Protagoras,” said I, “it seems that I have caused harm, and I am a comical physician who makes the disease worse in the process of curing it.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 313,
+"who": "Protagoras",
+"text": "“Yes, so you are,”",
+"kind": "speech"
 },
 {
 "entry": 313,
 "who": "Socrates",
-"text": "“Yes, so you are,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 314,
 "who": "Socrates",
 "text": "“How so?” I asked.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 315,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“It would be gross ignorance on the part of the poet to claim that the retention of excellence is a trivial matter when in the opinion of everyone else it is the most difficult thing of all.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 316,
 "who": "Socrates",
 "text": "“By Zeus,” said I, “it is timely then that this man Prodicus is present for our discussions.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 317,
@@ -1921,39 +2575,63 @@
 },
 {
 "entry": 319,
+"who": "Prodicus",
+"text": "“Bad,”",
+"kind": "speech"
+},
+{
+"entry": 319,
 "who": "Socrates",
-"text": "“Bad,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 320,
 "who": "Socrates",
 "text": "“So, Prodicus,” said I, “that is why he censures Pittacus for saying that it is difficult to be noble. It is as if he were to hear him saying that it is bad to be noble.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 321,
+"who": "Prodicus",
+"text": "“Well, Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 321,
 "who": "Socrates",
-"text": "“Well, Socrates,” he replied, “what else do you think Simonides means if he doesn’t mean this? He is censuring Pittacus because he did not know how to distinguish words correctly. He was, after all, from Lesbos, and brought up to speak a foreign dialect.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 321,
+"who": "Prodicus",
+"text": "“what else do you think Simonides means if he doesn’t mean this? He is censuring Pittacus because he did not know how to distinguish words correctly. He was, after all, from Lesbos, and brought up to speak a foreign dialect.”",
+"kind": "speech"
 },
 {
 "entry": 322,
 "who": "Socrates",
 "text": "“So, Protagoras,” said I, “you have heard Prodicus himself. Have you anything to say about this?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 323,
 "who": "Socrates",
-"text": "And Protagoras responded, “This is very far from being the case, Prodicus. No, I know full well that Simonides meant what everyone else means when he said ‘difficult’ – not ‘bad’, but whatever is not easy, and is brought about through a great deal of trouble.”",
+"text": "And Protagoras responded,",
 "kind": "narration"
+},
+{
+"entry": 323,
+"who": "Protagoras",
+"text": "“This is very far from being the case, Prodicus. No, I know full well that Simonides meant what everyone else means when he said ‘difficult’ – not ‘bad’, but whatever is not easy, and is brought about through a great deal of trouble.”",
+"kind": "speech"
 },
 {
 "entry": 324,
 "who": "Socrates",
 "text": "“Yes, Protagoras,” I said, “I too believe that this is what Simonides means, and that Prodicus here knows this and is playing a game. And he seems to be testing your ability to come to the aid of your own argument. For there is strong evidence that Simonides does not mean that what is difficult is bad, in the very next sentence, when he says",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 325,
@@ -1965,13 +2643,19 @@
 "entry": 326,
 "who": "Socrates",
 "text": "“Presumably he cannot mean that it is bad to be noble, when he goes on to say that this belongs to God alone, and he attributes this distinction to God alone. For then Prodicus would surely say that Simonides is a degenerate, and not at all a citizen of Ceos. But I would like to tell you what, in my view, Simonides has in mind in this ode, if you would like to test where I stand ‘in relation to poetry’, to use your phrase. Or if you prefer, I shall listen to you.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 327,
 "who": "Socrates",
-"text": "When Protagoras heard my suggestion, he said, “As you wish, Socrates.”",
+"text": "When Protagoras heard my suggestion, he said,",
 "kind": "narration"
+},
+{
+"entry": 327,
+"who": "Protagoras",
+"text": "“As you wish, Socrates.”",
+"kind": "speech"
 },
 {
 "entry": 328,
@@ -1989,25 +2673,25 @@
 "entry": 330,
 "who": "Socrates",
 "text": "“You may appreciate that I am speaking the truth when I say that the Spartans receive the best education in love of wisdom and discourse as follows. If you are prepared to converse with even the most ordinary man from Sparta, you will find that for most of the discourse he appears quite ordinary; but then, regardless of how the conversation is proceeding, he suddenly throws in a telling phrase, short and terse, like a skilled spear thrower, so that his interlocutor looks no better than a child. Now, there are people today, and among our ancestors, who have recognised the fact that being a Spartan consists much more in being a lover of wisdom than in being keen on gymnastics, and who know that the ability to utter phrases of this kind belongs to a perfectly educated person. Thales of Miletus was one such person, as was Pittacus of Mytilene, Bias of Priene, our own Solon, Cleobolus of Lindos, Myson of Chen, and the seventh was said to be a Spartan, Chilon. These were all zealous admirers, devotees and pupils of Spartan education, and you may discern that their own wisdom is of this sort from the short phrases that each of them has spoken, phrases well worth remembering. When these seven gathered together, they dedicated the first fruits of wisdom to Apollo at the temple that is in Delphi, writing those words that everyone repeats: ‘Know Thyself’ and ‘Nothing in Excess’.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 331,
 "who": "Socrates",
 "text": "“So why do I mention this? Because this was the manner of philosophy among the ancients, a laconic brevity. What is more, this phrase from Pittacus circulated in private and was praised by the wise: ‘It is hard to be good’. Now, since Simonides was eager to gain a reputation for wisdom, he realised that if he were to overthrow this maxim, as if it were a famous athlete, and if he were to prevail over it, he himself would become famous among the people of that age. And so, for these reasons, he targeted this maxim, and it appears to me that he composed the entire ode with the intention of putting it down.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 332,
 "who": "Socrates",
 "text": "“So, let us all consider this together. Is what I am saying actually true? The first line of the ode would indeed sound insane if, while intending to state that it is difficult for a man to become good, he then inserted a contrasting phrase. For this does not appear to be a reasonable insertion, unless one assumes that Simonides is arguing against the maxim of Pittacus. Pittacus says that it is hard to be good, but Simonides disputes this and says, ‘No, rather it is hard for a man to become good, Pittacus. That is what is truly hard.’ He does not say ‘truly good’. That is not where he applies the word ‘truly’, as if he were saying that some men are truly good, while others are good yet not truly so, for that would sound silly and unworthy of Simonides. So, we need to suppose that the position of the word ‘truly’ is changed poetically in the ode, and in some way or other this is hinting at the phrase from Pittacus, as if we are to presume that Pittacus himself is speaking and Simonides is replying. Pittacus is saying, ‘People, it is difficult to be good’, while Simonides replies, ‘Pittacus, you are not speaking the truth, for what is truly difficult for a man is not to be good, but to become so, foursquare in hand, foot and intellect, fashioned without a flaw’. In this way the insertion appears reasonable, and ‘truly’ lies where it should, at the end. And everything that follows supports the assertion that this is what it means. Indeed, there is a lot more in the various phrases of the ode to demonstrate that it has been well composed, for it is a delightful and intricate piece of work, but it would take too long to go through it in this way. Yet we should scrutinise the character of the work as a whole, and its intention, which is undoubtedly, throughout the entire ode, the refutation of that maxim of Pittacus.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 333,
 "who": "Socrates",
 "text": "“In fact, a little after this he goes on to say, as if he were lapsing into prose, ‘To become a good man is truly difficult, although it is, of course, possible for a period of time. Yet to remain in this condition once it has been attained, and actually be a good man, is as you say, Pittacus, impossible and inhuman. This distinction belongs instead to God alone.’",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 334,
@@ -2019,7 +2703,7 @@
 "entry": 335,
 "who": "Socrates",
 "text": "“Now, in the case of the command of a ship, whom does irresistible misfortune overthrow?",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 336,
@@ -2037,7 +2721,7 @@
 "entry": 338,
 "who": "Socrates",
 "text": "“But it is not possible for the bad to become bad, rather they must always be bad. So the capable, wise and good man cannot avoid being bad once irresistible fortune overthrows him. Yet you say, Pittacus, that it is hard to be good. But in point of fact although it is hard to become good, it is not impossible. But it is impossible to be good.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 339,
@@ -2049,7 +2733,7 @@
 "entry": 340,
 "who": "Socrates",
 "text": "“Now, when it comes to writing, what is ‘good-faring’, and what faring makes a man good at writing? Surely it is learning the subject. And what ‘faring-well’ produces a good physician? Surely it is learning how to care for the sick. And faring badly in this produces a bad physician. Now, who may become a bad physician? Surely someone who happens firstly to be a physician, and then a good physician, for he may also become bad, while we who are unskilled in medicine may never, by faring badly, become either physicians or builders or anything else of this sort. And whoever is unable to become a physician by faring badly obviously cannot become a bad physician either.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 341,
@@ -2061,7 +2745,7 @@
 "entry": 342,
 "who": "Socrates",
 "text": "“All this is directed against Pittacus, and this becomes even more obvious as the ode proceeds, for he says,",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 343,
@@ -2079,7 +2763,7 @@
 "entry": 345,
 "who": "Socrates",
 "text": "“And his onslaught on the maxim of Pittacus is so intense throughout the ode as a whole that he says,",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 346,
@@ -2091,7 +2775,7 @@
 "entry": 347,
 "who": "Socrates",
 "text": "“This verse too is directed against the same maxim. For Simonides was not so ill-educated as to claim that Pittacus praised those who enact nothing bad willingly, as though there are some people who do perform bad actions willingly. For I could scarce imagine any wise man believing that any people make mistakes willingly, or willingly enact anything shameful or bad. Rather, they know very well that all who perform shameful or bad actions do so unwillingly. And indeed Simonides does not say that he praises those who do not perform bad actions willingly. No, he applies the word ‘willingly’ to himself. For he was of the view that the noble and good man often forces himself to praise someone and befriend someone, as often happens when a man has a problematic mother or father or native land, or something else of that sort. Now, when something of this sort happens to degenerate people, it is as if they are pleased to see the degeneracy of their parents or their native land, and to point this out disapprovingly, and criticise it, so that people may not accuse them of neglecting these issues or blame them for such neglect. So they express even stronger disapproval, and add unnecessary feuds to those that are inevitable. The good people, on the other hand, conceal the issue and force themselves to express praise, and should they be angered at being treated unjustly by their parents or their native land, they placate themselves, reconcile themselves to the injustice, and make themselves love and praise their own people. I often wonder if Simonides believed that he himself was praising and extolling a tyrant or someone else of that sort, and doing so unwillingly and under compulsion. And so, what he says to Pittacus is, ‘Pittacus, I am not criticising you because I love criticising people, since",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 348,
@@ -2132,26 +2816,50 @@
 {
 "entry": 354,
 "who": "Socrates",
-"text": "Then Hippias said, “I think you have indeed explained the ode quite nicely, Socrates. Yes, I too have a nice account of it, which I can present to you all if you wish.”",
+"text": "Then Hippias said,",
 "kind": "narration"
+},
+{
+"entry": 354,
+"who": "Hippias",
+"text": "“I think you have indeed explained the ode quite nicely, Socrates. Yes, I too have a nice account of it, which I can present to you all if you wish.”",
+"kind": "speech"
+},
+{
+"entry": 355,
+"who": "Alcibiades",
+"text": "“Yes, Hippias,”",
+"kind": "speech"
 },
 {
 "entry": 355,
 "who": "Socrates",
-"text": "“Yes, Hippias,” said Alcibiades, “some other time though. At the moment it is only right, based on the agreement between Protagoras and Socrates, that if Protagoras still wants to ask questions, Socrates should answer them, and if he wants to be questioned by Socrates, then Socrates should ask questions.”",
+"text": "said Alcibiades,",
 "kind": "narration"
+},
+{
+"entry": 355,
+"who": "Alcibiades",
+"text": "“some other time though. At the moment it is only right, based on the agreement between Protagoras and Socrates, that if Protagoras still wants to ask questions, Socrates should answer them, and if he wants to be questioned by Socrates, then Socrates should ask questions.”",
+"kind": "speech"
 },
 {
 "entry": 356,
 "who": "Socrates",
 "text": "“And,” I said, “I leave it to Protagoras to choose whatever option pleases him. Yet if he does not mind, let us bid farewell to discussion of odes and poems. But I would be glad to bring the first question I asked you, Protagoras, to a conclusion by investigating it along with you. In fact, discussing poetry is, in my opinion, much like what happens at the drinking parties of ordinary, common folk. Yes, indeed, these people, due to their lack of education, are unable to keep company with one another over a drink through their own sound and their own words. So they give respectability to flute girls by paying a lot of money for the alien sound of flutes, and they keep company with one another through the sound of those instruments. But when it is a drinking party of the noble and good, and they are educated people, you would see neither flute girls nor dancing girls nor harp girls. Rather, they are sufficient company for themselves, through their own sound, as they speak and listen to themselves in turn in an orderly manner, without these trivial playthings, even if they drink a vast amount of wine. And so gatherings of this kind, when constituted of men such as most of us claim to be, have no need of alien sounds, or of poets who cannot be questioned about the topic they are speaking of. And when the majority of people quote them in discussions, some say the poet means one thing while others say he means something else, and they end up discussing matters they are unable to resolve. But the others bid farewell to such gatherings as these, and commune among themselves, testing one another on their own arguments and being tested in turn. I think you and I should rather imitate people of this sort, and setting the poets aside, direct our discussion towards one another on our own terms, putting the truth and ourselves to the test.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 357,
 "who": "Socrates",
-"text": "“Now, if you still want to ask questions, I am ready to act as your respondent. Or, if you would prefer to conclude the topic whose development we interrupted in midstream, then you should respond to me.” As I was making this point and others like it, Protagoras did not clarify which alternative he would take. So Alcibiades looked at Callias and said, “Callias, do you think, even now, that Protagoras is acting appropriately by being unwilling to clarify whether he will act as respondent or not? I certainly do not think so. For he should either engage in discourse or declare that he does not wish to do so, so that we may all know where we stand here and Socrates may engage in discourse with someone else, or anyone may converse with anyone they want to.”",
-"kind": "narration"
+"text": "“Now, if you still want to ask questions, I am ready to act as your respondent. Or, if you would prefer to conclude the topic whose development we interrupted in midstream, then you should respond to me.” As I was making this point and others like it, Protagoras did not clarify which alternative he would take. So Alcibiades looked at Callias and said,",
+"kind": "speech"
+},
+{
+"entry": 357,
+"who": "Alcibiades",
+"text": "“Callias, do you think, even now, that Protagoras is acting appropriately by being unwilling to clarify whether he will act as respondent or not? I certainly do not think so. For he should either engage in discourse or declare that he does not wish to do so, so that we may all know where we stand here and Socrates may engage in discourse with someone else, or anyone may converse with anyone they want to.”",
+"kind": "speech"
 },
 {
 "entry": 358,
@@ -2185,147 +2893,225 @@
 },
 {
 "entry": 363,
+"who": "Protagoras",
+"text": "“Well, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 363,
 "who": "Socrates",
-"text": "“Well, Socrates,” said he, “I am telling you that although all these are parts of excellence, and four of them are fairly similar to one another, courage for its part is entirely different from all the others. You may recognise the truth of what I am saying as follows, for you will find many people who are extremely unjust, unholy, unrestrained and unlearned, yet most outstandingly courageous.”",
+"text": "said he,",
 "kind": "narration"
+},
+{
+"entry": 363,
+"who": "Protagoras",
+"text": "“I am telling you that although all these are parts of excellence, and four of them are fairly similar to one another, courage for its part is entirely different from all the others. You may recognise the truth of what I am saying as follows, for you will find many people who are extremely unjust, unholy, unrestrained and unlearned, yet most outstandingly courageous.”",
+"kind": "speech"
 },
 {
 "entry": 364,
 "who": "Socrates",
 "text": "“Hold it there,” said I, “for it is worth investigating what you are saying. Do you assert that courageous people are daring, or something else?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 365,
+"who": "Protagoras",
+"text": "“Yes, and impulsive enough to go where most people are afraid to go,”",
+"kind": "speech"
 },
 {
 "entry": 365,
 "who": "Socrates",
-"text": "“Yes, and impulsive enough to go where most people are afraid to go,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 366,
 "who": "Socrates",
 "text": "“Come now, would you say that excellence is something noble? And do you offer yourself as a teacher of this on the basis that it is noble?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 367,
+"who": "Protagoras",
+"text": "“Yes, it is utterly noble, unless I am a madman anyway,”",
+"kind": "speech"
 },
 {
 "entry": 367,
 "who": "Socrates",
-"text": "“Yes, it is utterly noble, unless I am a madman anyway,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 368,
 "who": "Socrates",
 "text": "“So,” I asked, “does it involve a base aspect and a noble aspect, or is it wholly noble?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 369,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Surely it is wholly noble, to the greatest extent possible.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 370,
 "who": "Socrates",
 "text": "“Now, do you know what people dive daringly into wells?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 371,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“I do. I know that they are the divers.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 372,
 "who": "Socrates",
 "text": "“Is it because they have knowledge, or for some other reason?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 373,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Because they have knowledge.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 374,
 "who": "Socrates",
 "text": "“And who are daring when it comes to fighting on horseback? Is it the horsemen or the nonhorsemen?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 375,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“The horsemen.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 376,
 "who": "Socrates",
 "text": "“And when it comes to light infantry, is it the light infantrymen or the others?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 377,
+"who": "Protagoras",
+"text": "“It is the light infantrymen,”",
+"kind": "speech"
 },
 {
 "entry": 377,
 "who": "Socrates",
-"text": "“It is the light infantrymen,” he replied. “And if this is the answer you are looking for, in all other cases those with knowledge are more daring than those without knowledge, and they themselves are more daring after they have learned than they were before.”",
+"text": "he replied.",
 "kind": "narration"
+},
+{
+"entry": 377,
+"who": "Protagoras",
+"text": "“And if this is the answer you are looking for, in all other cases those with knowledge are more daring than those without knowledge, and they themselves are more daring after they have learned than they were before.”",
+"kind": "speech"
 },
 {
 "entry": 378,
 "who": "Socrates",
 "text": "“But have you, on occasion, seen people who lack knowledge of all these who are daring in respect of each of them?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 379,
+"who": "Protagoras",
+"text": "“I have indeed,”",
+"kind": "speech"
 },
 {
 "entry": 379,
 "who": "Socrates",
-"text": "“I have indeed,” he replied, “excessively daring too.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 379,
+"who": "Protagoras",
+"text": "“excessively daring too.”",
+"kind": "speech"
 },
 {
 "entry": 380,
 "who": "Socrates",
 "text": "“So, are these daring fellows also courageous?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 381,
+"who": "Protagoras",
+"text": "“In that case,”",
+"kind": "speech"
 },
 {
 "entry": 381,
 "who": "Socrates",
-"text": "“In that case,” said he, “courage would be base, since these people are mad.”",
+"text": "said he,",
 "kind": "narration"
+},
+{
+"entry": 381,
+"who": "Protagoras",
+"text": "“courage would be base, since these people are mad.”",
+"kind": "speech"
 },
 {
 "entry": 382,
 "who": "Socrates",
 "text": "“Well,” I asked, “what did you mean by ‘the courageous men’? Wasn’t it the daring men?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 383,
+"who": "Protagoras",
+"text": "“Yes, and I still say so now,”",
+"kind": "speech"
 },
 {
 "entry": 383,
 "who": "Socrates",
-"text": "“Yes, and I still say so now,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 384,
 "who": "Socrates",
 "text": "“In that case,” said I, “don’t these people, who are daring in this way, turn out to be insane rather than courageous? And in the other case, aren’t the wisest men also the most courageous since they are the most daring? And based upon this argument, would wisdom be courage?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 385,
+"who": "Protagoras",
+"text": "“Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 385,
 "who": "Socrates",
-"text": "“Socrates,” he replied, “you are not remembering properly what I said, or the answer I gave you. When you asked me if the courageous are daring, I agreed. However, I was not also asked if the daring are courageous, for had I been asked that I would have said that they are not all courageous. But in no way have you proved that I was wrong in agreeing to what I did agree, that the courageous are daring. After that, you demonstrate that those who are knowledgeable are themselves more daring than they themselves were before, and more daring than others who are not knowledgeable, and on this basis you presume that courage and wisdom are the same. But proceeding in this manner, you might also presume that strength is wisdom. Yes, proceeding like this, you might first ask me if strong people are capable, and I would agree; next, whether those who know how to wrestle are more capable than those who do not know how to wrestle, and are more capable after they have learned than they themselves were before, and I would agree. Once I had agreed to these, you would be able, using those very same conclusions, to state that according to what I have agreed, wisdom is strength. But I do not agree at all, and I am not agreeing here, that the capable people are strong, even though I agree that the strong people are capable. For capability and strength are not the same. One, capability, arises from knowledge or from madness or from desire, while the other, strength, comes from the nature and proper nurture of our bodies. Similarly, in the other case, daring and courage are not the same, so it turns out that those who are courageous are daring, even though the daring are not all courageous. For daring arises in people from skill, from desire and from madness, just like capability, while courage arises from the nature and proper nurture of our souls.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 385,
+"who": "Protagoras",
+"text": "“you are not remembering properly what I said, or the answer I gave you. When you asked me if the courageous are daring, I agreed. However, I was not also asked if the daring are courageous, for had I been asked that I would have said that they are not all courageous. But in no way have you proved that I was wrong in agreeing to what I did agree, that the courageous are daring. After that, you demonstrate that those who are knowledgeable are themselves more daring than they themselves were before, and more daring than others who are not knowledgeable, and on this basis you presume that courage and wisdom are the same. But proceeding in this manner, you might also presume that strength is wisdom. Yes, proceeding like this, you might first ask me if strong people are capable, and I would agree; next, whether those who know how to wrestle are more capable than those who do not know how to wrestle, and are more capable after they have learned than they themselves were before, and I would agree. Once I had agreed to these, you would be able, using those very same conclusions, to state that according to what I have agreed, wisdom is strength. But I do not agree at all, and I am not agreeing here, that the capable people are strong, even though I agree that the strong people are capable. For capability and strength are not the same. One, capability, arises from knowledge or from madness or from desire, while the other, strength, comes from the nature and proper nurture of our bodies. Similarly, in the other case, daring and courage are not the same, so it turns out that those who are courageous are daring, even though the daring are not all courageous. For daring arises in people from skill, from desire and from madness, just like capability, while courage arises from the nature and proper nurture of our souls.”",
+"kind": "speech"
 },
 {
 "entry": 386,
 "who": "Socrates",
 "text": "“Protagoras,” I said, “do you agree that some people live their lives well, others badly?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 387,
@@ -2337,85 +3123,139 @@
 "entry": 388,
 "who": "Socrates",
 "text": "“And do you think any person would live his life well if he were to live in distress and suffering?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 389,
+"who": "Protagoras",
+"text": "“No,”",
+"kind": "speech"
 },
 {
 "entry": 389,
 "who": "Socrates",
-"text": "“No,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 390,
 "who": "Socrates",
 "text": "“What if he were to live his life pleasantly to the very end? Don’t you think he would have lived his life well in so doing?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 391,
+"who": "Protagoras",
+"text": "“I do,”",
+"kind": "speech"
 },
 {
 "entry": 391,
 "who": "Socrates",
-"text": "“I do,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 392,
 "who": "Socrates",
 "text": "“So to live pleasantly is good, while to live unpleasantly is bad.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 393,
+"who": "Protagoras",
+"text": "“Yes,”",
+"kind": "speech"
 },
 {
 "entry": 393,
 "who": "Socrates",
-"text": "“Yes,” he said, “provided, at any rate, one lives one’s life being pleased by what is noble.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 393,
+"who": "Protagoras",
+"text": "“provided, at any rate, one lives one’s life being pleased by what is noble.”",
+"kind": "speech"
 },
 {
 "entry": 394,
 "who": "Socrates",
 "text": "“What about this, Protagoras? Surely you don’t, like most people, refer to some pleasures as bad and some suffering as good? I mean, on the basis that they are pleasant, aren’t they also good on this basis, unless some other consequence emerges from them? And doesn’t the same argument also apply to sufferings? Aren’t they bad insofar as they involve suffering?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 395,
+"who": "Protagoras",
+"text": "“Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 395,
 "who": "Socrates",
-"text": "“Socrates,” he replied, “I do not know if I should answer your question in the unqualified manner that you have framed it, that the pleasures are all good and the sufferings bad. I think, rather, that the safer answer, not only in relation to the present question but in relation to my life in general, is that there are some pleasures that are not good, and in the case of sufferings, some are not bad and some are, and there is a third class that is neither good nor bad.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 395,
+"who": "Protagoras",
+"text": "“I do not know if I should answer your question in the unqualified manner that you have framed it, that the pleasures are all good and the sufferings bad. I think, rather, that the safer answer, not only in relation to the present question but in relation to my life in general, is that there are some pleasures that are not good, and in the case of sufferings, some are not bad and some are, and there is a third class that is neither good nor bad.”",
+"kind": "speech"
 },
 {
 "entry": 396,
 "who": "Socrates",
 "text": "“But,” I asked, “don’t you refer to whatever partakes of pleasure or produces pleasure as pleasant?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 397,
+"who": "Protagoras",
+"text": "“Certainly,”",
+"kind": "speech"
 },
 {
 "entry": 397,
 "who": "Socrates",
-"text": "“Certainly,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 398,
 "who": "Socrates",
 "text": "“Well, that is what I mean. They are good insofar as they are pleasant. I am asking if pleasure itself is good.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 399,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“As you are always saying, Socrates, let us investigate this, and if the argument seems reasonable, and pleasant and good prove to be the same, we shall be in agreement. If not, we shall argue over it at that stage.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 400,
 "who": "Socrates",
 "text": "“So would you like to take control of the investigation, or should I lead it?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 401,
+"who": "Protagoras",
+"text": "“It is only right that you lead it,”",
+"kind": "speech"
 },
 {
 "entry": 401,
 "who": "Socrates",
-"text": "“It is only right that you lead it,” he said, “since you are actually initiating the discussion.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 401,
+"who": "Protagoras",
+"text": "“since you are actually initiating the discussion.”",
+"kind": "speech"
 },
 {
 "entry": 402,
@@ -2427,43 +3267,67 @@
 "entry": 403,
 "who": "Socrates",
 "text": "“Do you think it is what most people think it is, or do you think otherwise? Most people think knowledge is not really strong or authoritative or fit to rule. They do not think it is like this at all. They think, rather, that very often when a person is endowed with knowledge, it is not the knowledge but something else that rules him, desire at one moment, then pleasure, then pain, sometimes passion, very often fear. They think of knowledge almost as if it were a battle-captured slave who is dragged about by all these other factors. Well now, is this also what you think about knowl - edge? Or do you think it is something noble that is able to rule a person, and that once a person recognises what is good and what is bad he would never be dominated by anything else and do anything else except what knowledge directs him to do? And is understanding enough to save a person?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 404,
+"who": "Protagoras",
+"text": "“Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 404,
 "who": "Socrates",
-"text": "“Socrates,” he replied, “I agree fully with what you are saying. And what is more, it would be disgraceful for me in particular to deny that wisdom and knowledge are the most exalted of all things human.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 404,
+"who": "Protagoras",
+"text": "“I agree fully with what you are saying. And what is more, it would be disgraceful for me in particular to deny that wisdom and knowledge are the most exalted of all things human.”",
+"kind": "speech"
 },
 {
 "entry": 405,
 "who": "Socrates",
 "text": "“You have expressed that beautifully, and it is true,” I said. “Now, you know that most people are not persuaded by our views, and they maintain that many people who realise what is best do not wish to enact it, even when they can, and that they do something else instead. And when I ask them what exactly causes this behaviour, they say that those who do this, do so because they yield to pleasure and pain, or are overpowered by one of those factors I mentioned just now.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 406,
+"who": "Protagoras",
+"text": "“Indeed, Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 406,
 "who": "Socrates",
-"text": "“Indeed, Socrates,” he replied, “in my view people also say a great deal else that is incorrect.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 406,
+"who": "Protagoras",
+"text": "“in my view people also say a great deal else that is incorrect.”",
+"kind": "speech"
 },
 {
 "entry": 407,
 "who": "Socrates",
 "text": "“Come on then, join me, and let us try to persuade the people and teach them what this experience of theirs is, the one they describe as yielding to pleasures, and for that reason not doing what is best, even when they realise what is best. Perhaps if we were to tell them that what they are saying is incorrect and that they are speaking falsely, they would ask us, ‘Protagoras and Socrates, if this experience does not involve yielding to pleasure, then what exactly is it? What is it according to you? Tell us’.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 408,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“But, Socrates, why should we consider the opinion that the majority of people hold? They only say whatever happens to occur to them.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 409,
 "who": "Socrates",
 "text": "“Well,” said I, “I believe this is significant for us in discovering where courage stands in relation to the other parts of excellence. Now, if you think we should abide by what we agreed earlier, that I should lead in the manner that in my view best clarifies the issue, then please follow my lead.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 410,
@@ -2473,39 +3337,63 @@
 },
 {
 "entry": 411,
+"who": "Protagoras",
+"text": "“No, you are quite right,”",
+"kind": "speech"
+},
+{
+"entry": 411,
 "who": "Socrates",
-"text": "“No, you are quite right,” he said. “Proceed as you have begun.”",
+"text": "he said.",
 "kind": "narration"
+},
+{
+"entry": 411,
+"who": "Protagoras",
+"text": "“Proceed as you have begun.”",
+"kind": "speech"
 },
 {
 "entry": 412,
 "who": "Socrates",
 "text": "“Once again, then,” said I, “if they were to ask us, ‘So what are you saying this is, this experience we termed yielding to pleasures?’ What I would say to them is, ‘Listen, and Protagoras and I shall try to explain it to you. Don’t you good people say that this happens in situations where, for instance, you are overpowered, as so often happens, by the pleasures of food and drink or sexual gratification, and engage in these nevertheless, even though you recognise that they are bad?’”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 413,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“They would agree.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 414,
 "who": "Socrates",
 "text": "“In that case, you and I would ask them again, ‘In what sense are you saying they are bad? Is it because they provide this pleasure in the moment and because each of them is pleasant, or because some time later they produce disease and poverty, and bring on many other such afflictions? Or even if they bring on none of these afflictions afterwards, but produce only delight, could they be bad anyway, just because they produce delight in some way or other?’ Now, Protagoras, I think they can only reply that they are not bad because of the production of momentary pleasure, but due to the diseases and whatever else arises later.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 415,
+"who": "Protagoras",
+"text": "“Yes,”",
+"kind": "speech"
 },
 {
 "entry": 415,
 "who": "Socrates",
-"text": "“Yes,” said Protagoras, “I believe that most people would give that answer.”",
+"text": "said Protagoras,",
 "kind": "narration"
+},
+{
+"entry": 415,
+"who": "Protagoras",
+"text": "“I believe that most people would give that answer.”",
+"kind": "speech"
 },
 {
 "entry": 416,
 "who": "Socrates",
 "text": "“And in producing disease, don’t they produce distress? And in producing poverty, don’t they produce distress?’ I presume they would agree with that.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 417,
@@ -2517,7 +3405,7 @@
 "entry": 418,
 "who": "Socrates",
 "text": "“So, good people, is it your view, as Protagoras and I are saying, that these pleasures are bad only because they end in distress and deprive you of other pleasures?’ Would they agree?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 419,
@@ -2529,7 +3417,7 @@
 "entry": 420,
 "who": "Socrates",
 "text": "“Well, suppose we were to put the opposite question to them. ‘You, good people, who also maintain that what is good can be distressful, are you saying, for example, that physical exercise, military activity or medical treatment brought about through burning, cutting, drugs and fasting are good, even though they are distressful?’ Would they agree?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 421,
@@ -2541,7 +3429,7 @@
 "entry": 422,
 "who": "Socrates",
 "text": "“Now, is that why you call them good, because of the extreme pain and the suffering they cause at the time? Or is it because of the health, bodily vigour, the civic safeguards, the dominion over others, and the wealth that arises from them afterwards?’ I presume they would agree.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 423,
@@ -2553,19 +3441,25 @@
 "entry": 424,
 "who": "Socrates",
 "text": "“And are these good for any other reason than because they end in pleasure, and relieve or avert pain? Or can you think of any other outcome that you might refer to when describing them as good, apart from pleasure and pain?’ I think they would say no.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 425,
+"who": "Protagoras",
+"text": "“I think so too,”",
+"kind": "speech"
 },
 {
 "entry": 425,
 "who": "Socrates",
-"text": "“I think so too,” said Protagoras.",
+"text": "said Protagoras.",
 "kind": "narration"
 },
 {
 "entry": 426,
 "who": "Socrates",
 "text": "“So, do you pursue pleasure as good, and flee from pain as bad?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 427,
@@ -2577,31 +3471,43 @@
 "entry": 428,
 "who": "Socrates",
 "text": "“So, this pain is what you regard as bad, and pleasure is what you regard as good. Then, you also say that delight itself is bad whenever it deprives you of greater pleasures than those that the delight affords, or brings on pains greater than the pleasures it contains. Now, if you refer to the delight itself as bad on any other basis, or by referring to any other outcome, you would also be able to tell us what it is. But you cannot.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 429,
+"who": "Protagoras",
+"text": "“No, I don’t think they can,”",
+"kind": "speech"
 },
 {
 "entry": 429,
 "who": "Socrates",
-"text": "“No, I don’t think they can,” said Protagoras.",
+"text": "said Protagoras.",
 "kind": "narration"
 },
 {
 "entry": 430,
 "who": "Socrates",
 "text": "“Then again, is it the same way with the experience of pain itself? Do you call the experience of pain itself good whenever it relieves you of greater pains than the pain it contains or provides pleasures that exceed the pain? Now, if you refer to any other outcome, whenever you call the experience of pain itself good, you would be able to tell us what it is. But you cannot.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 431,
+"who": "Protagoras",
+"text": "“What you are saying is true,”",
+"kind": "speech"
 },
 {
 "entry": 431,
 "who": "Socrates",
-"text": "“What you are saying is true,” said Protagoras.",
+"text": "said Protagoras.",
 "kind": "narration"
 },
 {
 "entry": 432,
 "who": "Socrates",
 "text": "“‘Again, in that case, good people,’ said I, ‘if you should ask me, “Why ever are you saying so much and speaking in so many different ways about this matter?” I would reply, “Please excuse me, but firstly it is not easy to demonstrate what precisely this experience you call ‘yielding to",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 433,
@@ -2613,13 +3519,13 @@
 "entry": 434,
 "who": "Socrates",
 "text": "“And it will be obvious that these arguments are ridiculous, once we stop using lots of names at the same time – pleasure and distress, good and bad. Rather, since it turns out that there are only two things, let’s refer to them by two names, first by good and bad, and after that by pleasure and distress. Then, having assigned the names in this way, we should state that a person who knows that bad deeds are bad, enacts them anyway. So if someone asks us, ‘Why did he do it?’ we shall reply that he yielded. ‘Yielded to what?’ the fellow will ask us. But we are no longer allowed to say that he yields to pleasure, for another word, the good, has been substituted in place of pleasure. So when we are asked the question and we say he yields, he will say, ‘To what?’ and we shall say, ‘By Zeus, to the good.’ Now, if our questioner happens to be arrogant, he will laugh and say, ‘You are describing an absurd state of affairs if someone does what is bad knowing that it is bad, when he doesn’t need to do it, because he yields to what is good’. So he will say, ‘Does the bad within you prevail over the good, while being worth more or being worth less?’ Obviously, we shall say by way of reply that it is worth less, otherwise the person whom we describe as yielding to pleasures would not have erred. He will probably ask, ‘But on what basis is the good worth less than the bad, or the bad than the good? Is there any basis other than one being larger and the other smaller, or one being more numerous and the other less so?’ We shall be unable to offer any alternatives to this. ‘It’s obvious, then,’ he will say, ‘that by this “yielding” you mean getting less good in place of more bad.’”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 435,
 "who": "Socrates",
 "text": "“So in the case of these names, that is the outcome. Let us then substitute the names once more and apply pleasure and distress to those same things. And we would then state that a person enacts what we previously referred to as bad – but should now refer to as distressful – knowing that it is distressful, having yielded to pleasures which obviously are not worthy of victory. Apart from mutual excess or deficiency, is there any other way that pleasure is worth less than pain? And these involve pleasure and pain becoming larger and smaller than one another, or more numerous and less numerous, or more intense and less intense. For suppose someone were to say, ‘But, Socrates, the pleasure of the moment differs greatly from the pleasure and pain that will come later’, I would reply, ‘Is there any other way they could differ than in pleasure and in pain? Indeed, there is no other way they can differ. Rather, just like a person who is good at weighing, you take the pleasures and the pains, together with their proximity or remoteness, place them in the balance, and state which weighs more. So, if you are weighing pleasures against pleasures, the greater and more numerous are always chosen. If it is pains against pains, the lesser and fewer are always chosen. If it is pleasures against pains, you adopt the course of action in which the distress is exceeded by the pleasure, whether the near exceeds the far or the far exceeds the near. And if the pleasures are exceeded by the distress, the action is not to be performed.’ So I would say, ‘Good people, isn’t this how matters stand?’ And I know they would be unable to say otherwise.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 436,
@@ -2631,43 +3537,49 @@
 "entry": 437,
 "who": "Socrates",
 "text": "“In this circumstance, I shall say, ‘I have a question for you. Do the same objects appear larger to you when they are nearer, and smaller when far away, or is this not the case?’”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 438,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“They will agree.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 439,
 "who": "Socrates",
 "text": "“And does the same go for their thickness or the quantity of them? And are equal sounds louder when nearer, and fainter when they are far away?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 440,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“They would agree.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 441,
 "who": "Socrates",
 "text": "“Now, if our welfare consisted in this, in enacting or adopting whatever has a large measure, and avoiding and not enacting whatever has a small measure, what would the salvation of our lives prove to be? Would it be skill in measurement or the power of appearance? Or is it the latter power that sets us astray and makes us change our views back and forth so often, and regret our actions, and our choices of greater and lesser; while measurement, for its part – would it have rendered this illusion powerless, and by revealing the truth would it have made the soul peaceful, abiding in the truth, and would it have saved our life? So in view of this, would the people agree that the skill of measurement would save us, or would it be a different one?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 442,
+"who": "Protagoras",
+"text": "“Measurement,”",
+"kind": "speech"
 },
 {
 "entry": 442,
 "who": "Socrates",
-"text": "“Measurement,” he agreed.",
+"text": "he agreed.",
 "kind": "narration"
 },
 {
 "entry": 443,
 "who": "Socrates",
 "text": "“What if the salvation of our life lay in the selection of odd and even, and when we should rightly choose the greater and when the lesser, either in relation to themselves or to one another, whether near or far away? What would save our life? Wouldn’t it be knowledge, indeed some form of measurement, since this skill deals with excess and deficiency? And since it involves odd and even, what could it be but arithmetic? Would the people agree with us or not?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 444,
@@ -2679,31 +3591,31 @@
 "entry": 445,
 "who": "Socrates",
 "text": "“So be it, good people, but since the salvation of our life has turned out to lie in the right selection of pleasure and pain, of more numerous and less numerous, larger and smaller, far and near, firstly, isn’t it the case that measurement is an enquiry into their excess and deficiency, or their equality in relation to one another?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 446,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“It must be.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 447,
 "who": "Socrates",
 "text": "“Then measurement must presumably be a skill and knowledge.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 448,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“They will concur.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 449,
 "who": "Socrates",
 "text": "“Well, we shall consider on another occasion what this skill and knowledge itself is. The fact that it is knowledge will suffice for the demonstration that Protagoras and I must present in answer to your question. You asked a question, if you recall, when we two agreed that nothing is more powerful than knowledge, and wherever it resides it always dominates over pleasure and all the other factors. You, in contrast, maintained that pleasure often dominates even the man who knows, and as we did not agree with you, you proceeded to ask us, ‘Protagoras and Socrates, if this experience does not consist in yielding to pleasure, then what precisely is it? And what do you say that it is?",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 450,
@@ -2715,13 +3627,13 @@
 "entry": 451,
 "who": "Socrates",
 "text": "“If, at the time, we had then replied immediately that it is ignorance, you would have laughed at us. But if you laugh at us now, you will be laughing at yourselves too. For you have actually agreed that it is through deficiency of knowledge that those who err in their choice of pleasures and pains, which correspond to good and bad, fall into error. And later on you agreed that the deficiency is not just deficiency of knowledge, but of knowledge of measurement, and I presume you yourselves know that an action performed in error, without knowledge, is performed in ignorance. Consequently, that is what this yielding to pleasure is, the greatest ignorance, which Protagoras here claims to cure, as do Prodicus and Hippias. But because you do not regard this as ignorance but as something else, you do not send your children to those who teach this, these sophists here, nor do you go to them yourselves because it is not teachable. You care instead for money, and you will not give it to these teachers, so you fare badly in your private and public lives.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 452,
 "who": "Socrates",
 "text": "“These then are the answers we would have given to most people. And now, along with Protagoras, I am asking you, Hippias and Prodicus, do you think I am speaking the truth or speaking falsely? Let us involve the two of you in the argument.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 453,
@@ -2733,7 +3645,7 @@
 "entry": 454,
 "who": "Socrates",
 "text": "“So, you agree,” said I, “that pleasure is good and distress is bad. And I am avoiding Prodicus’ distinctions between words, for whether you say pleasure is enjoyment or delight or however else you may enjoy assigning names of this sort, good Prodicus, please answer my question, as it is intended.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 455,
@@ -2745,7 +3657,7 @@
 "entry": 456,
 "who": "Socrates",
 "text": "“Well, gentlemen,” said I, “what about all actions towards this end, towards living pleasantly and painlessly – aren’t they all noble? And is a noble deed good and beneficial?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 457,
@@ -2757,7 +3669,7 @@
 "entry": 458,
 "who": "Socrates",
 "text": "“So, if it is the case,” said I, “that the pleasant is good, no one who knows or believes that other actions are better than those he is enacting, and can enact, then proceeds to enact them anyway, when he can enact what is better. Nor is yielding to oneself anything other than ignorance, nor is controlling oneself anything other than wisdom.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 459,
@@ -2769,7 +3681,7 @@
 "entry": 460,
 "who": "Socrates",
 "text": "“What about this? Would you say that ignorance consists in holding a false opinion and in labouring under falsehood in relation to matters of great importance?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 461,
@@ -2781,7 +3693,7 @@
 "entry": 462,
 "who": "Socrates",
 "text": "“Then surely no one goes willingly to what is bad, or what they regard as bad. Nor, it seems, is it in human nature to do so, to wish to go to what you regard as bad instead of what is good. And when compelled to choose one or the other of two bad things, will anyone choose the greater if he is allowed to have the lesser?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 463,
@@ -2793,7 +3705,7 @@
 "entry": 464,
 "who": "Socrates",
 "text": "“Well now,” said I, “do you use the terms dread and fear? And do you use them as I do? I am directing this question to you, Prodicus. I say that whether you call it dread or fear, it is some expectation of bad.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 465,
@@ -2805,7 +3717,7 @@
 "entry": 466,
 "who": "Socrates",
 "text": "“Well, that makes no difference, Prodicus,” I said. “My point is as follows. If what has been said previously is true, will any person wish to go to whatever he dreads if he is allowed to go to what he does not dread? Or is this impossible, from what has been agreed? For we have agreed that whatever he dreads, he regards as bad, and no one willingly goes to or takes hold of what they regard as bad.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 467,
@@ -2817,7 +3729,7 @@
 "entry": 468,
 "who": "Socrates",
 "text": "“Then, Prodicus and Hippias,” said I, “based on these conclusions, Protagoras here should offer us a defence of the answer he gave at first, not the very first one though, where he said there are five parts of excellence, each dissimilar to the other one, each having its own particular power.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 469,
@@ -2829,7 +3741,7 @@
 "entry": 470,
 "who": "Socrates",
 "text": "“I was immediately surprised by this response at the time, and I am even more surprised now that I have gone through these issues with you. Accordingly, I asked him if he calls the courageous people daring, and he said, ‘Yes, and impulsive too’. “Do you remember giving that answer, Protagoras?” I asked.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 471,
@@ -2841,55 +3753,79 @@
 "entry": 472,
 "who": "Socrates",
 "text": "“Come on, then,” said I, “tell us. Towards what are the courageous people impulsive? Are they the very things towards which cowards are impulsive?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 473,
+"who": "Protagoras",
+"text": "“No,”",
+"kind": "speech"
 },
 {
 "entry": 473,
 "who": "Socrates",
-"text": "“No,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 474,
 "who": "Socrates",
 "text": "“They are different then.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 475,
+"who": "Protagoras",
+"text": "“Yes,”",
+"kind": "speech"
 },
 {
 "entry": 475,
 "who": "Socrates",
-"text": "“Yes,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 476,
 "who": "Socrates",
 "text": "“Do the cowards go for daring exploits, while the courageous go for exploits that are dreaded?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 477,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“That is what people say, Socrates.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 478,
 "who": "Socrates",
 "text": "“That is true,” said I, “but I am not asking you that. I am asking what you say the courageous are impulsive towards. Are they impulsive towards the dreaded exploits in the belief that they should be dreaded, or towards exploits that need not be dreaded?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 479,
+"who": "Protagoras",
+"text": "“Well,”",
+"kind": "speech"
 },
 {
 "entry": 479,
 "who": "Socrates",
-"text": "“Well,” he said, “this was demonstrated to be impossible just now by the arguments you presented.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 479,
+"who": "Protagoras",
+"text": "“this was demonstrated to be impossible just now by the arguments you presented.”",
+"kind": "speech"
 },
 {
 "entry": 480,
 "who": "Socrates",
 "text": "“That is also true,” said I. “And so, if this demonstration was correct, no one embarks upon what in his view should be dreaded, since yielding to oneself was found to be ignorance.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 481,
@@ -2901,91 +3837,151 @@
 "entry": 482,
 "who": "Socrates",
 "text": "“In that case, everyone, cowards and courageous alike, embark upon daring exploits, and in that respect anyway, both cowards and courageous go for the same things.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 483,
+"who": "Protagoras",
+"text": "“And yet, Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 483,
 "who": "Socrates",
-"text": "“And yet, Socrates,” he said, “what the cowards embark upon and what the courageous embark upon are completely opposite. For instance, the courageous are willing to go to war, while cowards are not.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 483,
+"who": "Protagoras",
+"text": "“what the cowards embark upon and what the courageous embark upon are completely opposite. For instance, the courageous are willing to go to war, while cowards are not.”",
+"kind": "speech"
 },
 {
 "entry": 484,
 "who": "Socrates",
 "text": "“And is it noble to go or is it shameful?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 485,
+"who": "Protagoras",
+"text": "“It is noble,”",
+"kind": "speech"
 },
 {
 "entry": 485,
 "who": "Socrates",
-"text": "“It is noble,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 486,
 "who": "Socrates",
 "text": "“Therefore, since it is noble, we have agreed previously that it is good, for we agreed that all noble actions are good.”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 487,
+"who": "Protagoras",
+"text": "“That is true,”",
+"kind": "speech"
 },
 {
 "entry": 487,
 "who": "Socrates",
-"text": "“That is true,” he said, “and I am always of that view.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 487,
+"who": "Protagoras",
+"text": "“and I am always of that view.”",
+"kind": "speech"
 },
 {
 "entry": 488,
 "who": "Socrates",
 "text": "“You are right about that anyway,” said I. “But which of them are you saying is unwilling to go to war, although it is noble and good?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 489,
+"who": "Protagoras",
+"text": "“The cowards,”",
+"kind": "speech"
 },
 {
 "entry": 489,
 "who": "Socrates",
-"text": "“The cowards,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 490,
 "who": "Socrates",
 "text": "“And since it is noble and good, isn’t it also pleasant?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 491,
+"who": "Protagoras",
+"text": "“Well, that is what has been agreed,”",
+"kind": "speech"
 },
 {
 "entry": 491,
 "who": "Socrates",
-"text": "“Well, that is what has been agreed,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 492,
 "who": "Socrates",
 "text": "“So, are the cowards knowingly unwilling to go to what is nobler, better and more pleasant?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 493,
+"who": "Protagoras",
+"text": "“But if we agree to this as well,”",
+"kind": "speech"
 },
 {
 "entry": 493,
 "who": "Socrates",
-"text": "“But if we agree to this as well,” he replied, “we are undermining what we agreed previously.”",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 493,
+"who": "Protagoras",
+"text": "“we are undermining what we agreed previously.”",
+"kind": "speech"
 },
 {
 "entry": 494,
 "who": "Socrates",
 "text": "“And what about the courageous?” I asked. “Don’t they go to the nobler, the better and the more pleasant?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 495,
+"who": "Protagoras",
+"text": "“It is necessary to agree,”",
+"kind": "speech"
 },
 {
 "entry": 495,
 "who": "Socrates",
-"text": "“It is necessary to agree,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 496,
 "who": "Socrates",
 "text": "“Now, on the whole, when courageous people are afraid, their fears are not disgraceful, are they?",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 497,
@@ -2995,15 +3991,21 @@
 },
 {
 "entry": 498,
+"who": "Protagoras",
+"text": "“That is true,”",
+"kind": "speech"
+},
+{
+"entry": 498,
 "who": "Socrates",
-"text": "“That is true,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 499,
 "who": "Socrates",
 "text": "“And if they are not disgraceful, aren’t they noble?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 500,
@@ -3015,19 +4017,19 @@
 "entry": 501,
 "who": "Socrates",
 "text": "“And if they are noble, are they good?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 502,
-"who": "Socrates",
+"who": "Protagoras",
 "text": "“Yes.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 503,
 "who": "Socrates",
 "text": "“And the cowards, the insolent and the madmen, aren’t their fears, by contrast, disgraceful? And isn’t their daring disgraceful too?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 504,
@@ -3039,43 +4041,61 @@
 "entry": 505,
 "who": "Socrates",
 "text": "“And is their daring disgraceful and bad because of anything else except folly and ignorance?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 506,
+"who": "Protagoras",
+"text": "“That is the case,”",
+"kind": "speech"
 },
 {
 "entry": 506,
 "who": "Socrates",
-"text": "“That is the case,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 507,
 "who": "Socrates",
 "text": "“Well then, do you refer to that because of which cowards are cowards, as cowardice or courage?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 508,
+"who": "Protagoras",
+"text": "“I call it cowardice,”",
+"kind": "speech"
 },
 {
 "entry": 508,
 "who": "Socrates",
-"text": "“I call it cowardice,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 509,
 "who": "Socrates",
 "text": "“And didn’t it turn out that they are cowards because of ignorance of what should be dreaded?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 510,
+"who": "Protagoras",
+"text": "“Certainly,”",
+"kind": "speech"
 },
 {
 "entry": 510,
 "who": "Socrates",
-"text": "“Certainly,” he replied.",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 511,
 "who": "Socrates",
 "text": "“So, are they cowards because of this ignorance?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 512,
@@ -3087,7 +4107,7 @@
 "entry": 513,
 "who": "Socrates",
 "text": "“And you agree that they are cowards because of cowardice?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 514,
@@ -3099,7 +4119,7 @@
 "entry": 515,
 "who": "Socrates",
 "text": "“Therefore, would ignorance of what should be dreaded and not dreaded be cowardice?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 516,
@@ -3111,7 +4131,7 @@
 "entry": 517,
 "who": "Socrates",
 "text": "“And yet,” said I, “courage is the opposite of cowardice.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 518,
@@ -3123,7 +4143,7 @@
 "entry": 519,
 "who": "Socrates",
 "text": "“Now, isn’t wisdom, in relation to what should be dreaded and not dreaded, the opposite of the ignorance thereof?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 520,
@@ -3135,7 +4155,7 @@
 "entry": 521,
 "who": "Socrates",
 "text": "“And ignorance of these is cowardice?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 522,
@@ -3147,7 +4167,7 @@
 "entry": 523,
 "who": "Socrates",
 "text": "“So, is courage wisdom, wisdom in relation to what should be dreaded and not dreaded, since it is the opposite of the ignorance thereof?”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 524,
@@ -3157,51 +4177,75 @@
 },
 {
 "entry": 525,
+"who": "Protagoras",
+"text": "“Finish it yourself,”",
+"kind": "speech"
+},
+{
+"entry": 525,
 "who": "Socrates",
-"text": "“Finish it yourself,” he said.",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 526,
 "who": "Socrates",
 "text": "“I have only one question left to ask you. Does it still seem to you, as it did at the outset, that there are some people who are completely ignorant and yet utterly courageous?”",
-"kind": "narration"
+"kind": "speech"
+},
+{
+"entry": 527,
+"who": "Protagoras",
+"text": "“Socrates,”",
+"kind": "speech"
 },
 {
 "entry": 527,
 "who": "Socrates",
-"text": "“Socrates,” he said, “you seem to have a thirst for victory. You want me as your respondent, so, to gratify you, I say that from what has been agreed, that seems impossible to me.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 527,
+"who": "Protagoras",
+"text": "“you seem to have a thirst for victory. You want me as your respondent, so, to gratify you, I say that from what has been agreed, that seems impossible to me.”",
+"kind": "speech"
 },
 {
 "entry": 528,
 "who": "Socrates",
 "text": "“I am not,” said I, “asking you all these questions from any other motive than a wish to investigate how exactly matters stand in relation to excellence, and what precisely this is, this excellence. For I know that once this has become obvious, the issue on which you and I have each made such long-drawn-out speeches – you claiming that excellence can be taught, me saying that it cannot – would best be clarified.",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 529,
 "who": "Socrates",
 "text": "“And it seems to me as if the recent outcome of our discussions is just like a person, accusing us and mocking us, and if it were to take on a voice it would say, ‘Socrates and Protagoras, how strange you are! You, Socrates, who were saying earlier that excellence is not teachable, are now, in eager opposition to yourself, trying to demonstrate that all sorts of things are knowledge – justice, self-control, courage. But that is the best way to show that excellence can be taught. For if excellence was anything else except knowledge, as Protagoras attempted to assert, it would clearly be unteachable. But if excellence now turns out to be knowledge wholly, as you are so eager to prove, Socrates, it will be a wonder if it is not teachable. Protagoras, for his part, who was then proposing that it is teachable, now seems keen to make the opposite case, that excellence has turned out to be almost anything at all rather than knowledge. And on this view, it would hardly be teachable.’",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 530,
 "who": "Socrates",
 "text": "“Now, Protagoras, when I behold all these matters in such terrible disarray, I am most eager to have them properly clarified. And once we have been through them all, I would like us also to tackle the question of what excellence is and then come back to investigate whether it is teachable or not. This is in case Epimetheus might also trip us up here, and trick us, just as he did when he overlooked humanity in the story you told us about the distribution of gifts. Now, in that story, Prometheus pleased me more than Epimetheus. So, having recourse to him, displaying forethought in relation to my entire life, I occupy myself with all of these matters. And if you are willing, as I said at the outset, I would be delighted to investigate them comprehensively along with you.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 531,
 "who": "Socrates",
-"text": "And Protagoras replied, “Socrates, I can only praise your eagerness and the way you concluded the argument. In fact, I do not think I am, in any sense, a bad person, and I am the least envious of men, since I have actually said to many people that I admire you much more than anyone else I have met, and far more than anyone else of your age. And I say that I would not be surprised if you were to join the ranks of men who are highly regarded for their wisdom. We shall go over these issues on another occasion, whenever you wish, but it is time now to turn to something else.”",
+"text": "And Protagoras replied,",
 "kind": "narration"
+},
+{
+"entry": 531,
+"who": "Protagoras",
+"text": "“Socrates, I can only praise your eagerness and the way you concluded the argument. In fact, I do not think I am, in any sense, a bad person, and I am the least envious of men, since I have actually said to many people that I admire you much more than anyone else I have met, and far more than anyone else of your age. And I say that I would not be surprised if you were to join the ranks of men who are highly regarded for their wisdom. We shall go over these issues on another occasion, whenever you wish, but it is time now to turn to something else.”",
+"kind": "speech"
 },
 {
 "entry": 532,
 "who": "Socrates",
 "text": "“Well,” said I, “if that is how it seems to you, that is what must be done. In fact, it was time for me to depart a while ago for that appointment I mentioned, but I stayed in order to oblige the noble Callias.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 533,

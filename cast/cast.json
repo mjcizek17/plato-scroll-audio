@@ -455,16 +455,6 @@
    ],
    "accent": "us"
   },
-  "Cephalus": {
-   "engine": "kokoro",
-   "kokoro": [
-    [
-     "am_adam",
-     1.0
-    ]
-   ],
-   "accent": "us"
-  },
   "Zeno": {
    "engine": "kokoro",
    "kokoro": [
@@ -663,6 +653,220 @@
     ]
    ],
    "accent": "us"
+  },
+  "Glaucon": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_echo",
+     0.5
+    ],
+    [
+     "am_puck",
+     0.5
+    ]
+   ],
+   "accent": "us"
+  },
+  "Adimantus": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_adam",
+     1.0
+    ]
+   ],
+   "accent": "us"
+  },
+  "Thrasymachus": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_onyx",
+     1.0
+    ]
+   ],
+   "accent": "us"
+  },
+  "Polemarchus": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_fenrir",
+     1.0
+    ]
+   ],
+   "accent": "us"
+  },
+  "rep:Cephalus": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "bm_lewis",
+     1.0
+    ]
+   ],
+   "accent": "gb",
+   "pitch": -2
+  },
+  "rep:Clitophon": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_puck",
+     1.0
+    ]
+   ],
+   "accent": "us",
+   "pitch": 1
+  },
+  "Unnamed Slave": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_echo",
+     1.0
+    ]
+   ],
+   "accent": "us",
+   "pitch": 2
+  },
+  "Charmides": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_puck",
+     1.0
+    ]
+   ],
+   "accent": "us",
+   "pitch": 1
+  },
+  "Protagoras": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_onyx",
+     1.0
+    ]
+   ],
+   "accent": "us",
+   "pitch": -1
+  },
+  "Hippocrates": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_puck",
+     1.0
+    ]
+   ],
+   "accent": "us"
+  },
+  "Prodicus": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_adam",
+     1.0
+    ]
+   ],
+   "accent": "us",
+   "pitch": -1
+  },
+  "Callias": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_echo",
+     1.0
+    ]
+   ],
+   "accent": "us"
+  },
+  "Doorkeeper": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_onyx",
+     0.5
+    ],
+    [
+     "am_fenrir",
+     0.5
+    ]
+   ],
+   "accent": "us"
+  },
+  "prot:Critias": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_adam",
+     0.5
+    ],
+    [
+     "am_echo",
+     0.5
+    ]
+   ],
+   "accent": "us"
+  },
+  "Dionysodorus": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_adam",
+     1.0
+    ]
+   ],
+   "accent": "us"
+  },
+  "Euthydemus": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_onyx",
+     0.5
+    ],
+    [
+     "am_echo",
+     0.5
+    ]
+   ],
+   "accent": "us"
+  },
+  "euthy:Clinias": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_puck",
+     1.0
+    ]
+   ],
+   "accent": "us",
+   "pitch": 2
+  },
+  "Unnamed Listener": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_echo",
+     1.0
+    ]
+   ],
+   "accent": "us",
+   "pitch": 1
+  },
+  "parm:Cephalus": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "bm_lewis",
+     1.0
+    ]
+   ],
+   "accent": "gb"
   }
  }
 }

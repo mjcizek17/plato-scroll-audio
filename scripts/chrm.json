@@ -14,56 +14,320 @@
 {
 "entry": 1,
 "who": "Socrates",
-"text": "coming in so unexpectedly, they immediately greeted me from all sides, and Chaerephon, being the mad person he is, jumped up in their midst, ran toward me, took me by the hand and said, “Socrates, how did you survive the battle?” A little before we left, there had been a battle at Potidaea which the people here had just heard about. And in reply to him, I said, “Like this, just as you see me.”",
+"text": "coming in so unexpectedly, they immediately greeted me from all sides, and Chaerephon, being the mad person he is, jumped up in their midst, ran toward me, took me by the hand and said,",
+"kind": "narration"
+},
+{
+"entry": 1,
+"who": "Chaerephon",
+"text": "“Socrates, how did you survive the battle?”",
+"kind": "speech"
+},
+{
+"entry": 1,
+"who": "Socrates",
+"text": "A little before we left, there had been a battle at Potidaea which the people here had just heard about. And in reply to him, I said, “Like this, just as you see me.”",
 "kind": "narration"
 },
 {
 "entry": 2,
+"who": "Chaerephon",
+"text": "“Well, it was reported here”,",
+"kind": "speech"
+},
+{
+"entry": 2,
 "who": "Socrates",
-"text": "“Well, it was reported here”, said he, “that there had been an extremely fierce battle in which many people we know had died.” “And for the most part, that report is true,” said I. “Were you actually there in the battle?” he asked. “I was there.” “Then sit down here,” said he, “and tell us all about it, for we have not yet found out all the details with any clarity.” And as he spoke, he led me over and seated me beside Critias, the son of Callaeschrus. So I sat beside him, greeted Critias and the others, and then gave them a full account of the news from the",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 2,
+"who": "Chaerephon",
+"text": "“that there had been an extremely fierce battle in which many people we know had died.”",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "“And for the most part, that report is true,” said I.",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Chaerephon",
+"text": "“Were you actually there in the battle?”",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "he asked. “I was there.”",
+"kind": "narration"
+},
+{
+"entry": 2,
+"who": "Chaerephon",
+"text": "“Then sit down here,”",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 2,
+"who": "Chaerephon",
+"text": "“and tell us all about it, for we have not yet found out all the details with any clarity.”",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "And as he spoke, he led me over and seated me beside Critias, the son of Callaeschrus. So I sat beside him, greeted Critias and the others, and then gave them a full account of the news from the",
 "kind": "narration"
 },
 {
 "entry": 3,
 "who": "Socrates",
-"text": "camp, answering the various questions that each of them asked. Once we had had enough of such stories, I in turn questioned them about the state of affairs here, about the status of philosophy, and about the young people and whether any of them had proved to be especially notable for wis a dom or beauty, or both. Critias glanced over at the door and saw some young men coming in engaged in mutual banter and another group following behind. “Socrates,” said he, “as far as the beautiful ones are concerned, I think you will get your answer straight away. Yes, those fellows who are coming in at the moment are leading the way, and they are lovers of the fellow who is regarded, nowadays at any rate, as the most beautiful of them all, and it looks to me as if the lad himself is already nearby.” “Who is he,” I asked, “and whose son is he?” “I presume you know him,” he replied, “although he was not yet of age before you went away. He is Charmides, the son of Glaucon, my uncle, so he is my cousin.”",
+"text": "camp, answering the various questions that each of them asked. Once we had had enough of such stories, I in turn questioned them about the state of affairs here, about the status of philosophy, and about the young people and whether any of them had proved to be especially notable for wis a dom or beauty, or both. Critias glanced over at the door and saw some young men coming in engaged in mutual banter and another group following behind.",
 "kind": "narration"
+},
+{
+"entry": 3,
+"who": "Critias",
+"text": "“Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Critias",
+"text": "“as far as the beautiful ones are concerned, I think you will get your answer straight away. Yes, those fellows who are coming in at the moment are leading the way, and they are lovers of the fellow who is regarded, nowadays at any rate, as the most beautiful of them all, and it looks to me as if the lad himself is already nearby.”",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Socrates",
+"text": "“Who is he,” I asked, “and whose son is he?”",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Critias",
+"text": "“I presume you know him,”",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Socrates",
+"text": "he replied,",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Critias",
+"text": "“although he was not yet of age before you went away. He is Charmides, the son of Glaucon, my uncle, so he is my cousin.”",
+"kind": "speech"
 },
 {
 "entry": 4,
 "who": "Socrates",
-"text": "“I know him indeed, by Zeus,” said I, “since he was remarkable even when he was still a boy, and I presume at this stage he is already quite a fine young man.” “You will know soon enough”, said he, “how grown up he is and what he is like.” And as he was saying all this, Charmides entered. Now, my friend, do not use me as the measure, for I am a white line on a white surface when it comes to beautiful people, since almost anyone who has come of age looks beautiful to me. Nevertheless, at that moment, the young man looked amazing to me, in stature and in beauty, and",
+"text": "“I know him indeed, by Zeus,” said I, “since he was remarkable even when he was still a boy, and I presume at this stage he is already quite a fine young man.”",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Critias",
+"text": "“You will know soon enough”,",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 4,
+"who": "Critias",
+"text": "“how grown up he is and what he is like.”",
+"kind": "speech"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "And as he was saying all this, Charmides entered. Now, my friend, do not use me as the measure, for I am a white line on a white surface when it comes to beautiful people, since almost anyone who has come of age looks beautiful to me. Nevertheless, at that moment, the young man looked amazing to me, in stature and in beauty, and",
 "kind": "narration"
 },
 {
 "entry": 5,
 "who": "Socrates",
-"text": "all the others seemed to be in love with him, they were so astounded and excited when he entered, and there were lots more lovers following behind too. Now, for men of our age, this response was no great surprise, but I also paid attention to the young boys, and not one of them, not even the smallest of them, so much as glanced at anyone else. No, they all looked at him as though he were a statue. And Chaerephon called out to me, “Socrates, how does this young man look to you,” he",
+"text": "all the others seemed to be in love with him, they were so astounded and excited when he entered, and there were lots more lovers following behind too. Now, for men of our age, this response was no great surprise, but I also paid attention to the young boys, and not one of them, not even the smallest of them, so much as glanced at anyone else. No, they all looked at him as though he were a statue. And Chaerephon called out to me,",
+"kind": "narration"
+},
+{
+"entry": 5,
+"who": "Chaerephon",
+"text": "“Socrates, how does this young man look to you,”",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Socrates",
+"text": "he",
 "kind": "narration"
 },
 {
 "entry": 6,
 "who": "Socrates",
-"text": "said, “isn’t he fair of face?” “Exceedingly so,” said I. “Yet if this fellow were willing to strip,” said he, “you would think he had no face, so utterly beautiful is his physique.” Now, the others all said the same thing as Chaerephon, and I said, “By Heracles, what an indomitable man you are describing if he happens to possess one additional quality, a minor one.” “What?” asked Critias. “If he happens to have a well-developed soul,” said I. “And since he belongs to your family, Critias,",
+"text": "said,",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Chaerephon",
+"text": "“isn’t he fair of face?”",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "“Exceedingly so,” said I.",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Chaerephon",
+"text": "“Yet if this fellow were willing to strip,”",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Chaerephon",
+"text": "“you would think he had no face, so utterly beautiful is his physique.”",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "Now, the others all said the same thing as Chaerephon, and I said, “By Heracles, what an indomitable man you are describing if he happens to possess one additional quality, a minor one.”",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Critias",
+"text": "“What?”",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "asked Critias. “If he happens to have a well-developed soul,” said I. “And since he belongs to your family, Critias,",
 "kind": "narration"
 },
 {
 "entry": 7,
 "who": "Socrates",
-"text": "that is the sort of person he should presumably be.” “Yes,” said he, “he is very noble and good in that sense too.” “Well, why don’t we strip this particular part of him and look at that, before we look at his body? For I am quite sure that he is now at an age when he is willing to engage in discourse.” “Very much so,” said Critias, “and mark my words, he is also a lover of wisdom, and in the",
+"text": "that is the sort of person he should presumably be.”",
 "kind": "narration"
+},
+{
+"entry": 7,
+"who": "Critias",
+"text": "“Yes,”",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Critias",
+"text": "“he is very noble and good in that sense too.”",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "“Well, why don’t we strip this particular part of him and look at that, before we look at his body? For I am quite sure that he is now at an age when he is willing to engage in discourse.”",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Critias",
+"text": "“Very much so,”",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "said Critias,",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Critias",
+"text": "“and mark my words, he is also a lover of wisdom, and in the",
+"kind": "speech"
 },
 {
 "entry": 8,
 "who": "Socrates",
-"text": "opinion of others, and of himself, quite a poet.” “This, Critias, my friend, is a beauty that belongs in your family from the past through your ancestral connection with Solon. But why don’t you call the young man over and show him to me? For presumably, even if he happened to be younger still, it would not embarrass him to converse with us in your presence, you who are both his guardian and his cousin.” “Yes, that’s a good suggestion, Socrates,” said he, “we will call him.” And with that he said",
+"text": "opinion of others, and of himself, quite a poet.” “This, Critias, my friend, is a beauty that belongs in your family from the past through your ancestral connection with Solon. But why don’t you call the young man over and show him to me? For presumably, even if he happened to be younger still, it would not embarrass him to converse with us in your presence, you who are both his guardian and his cousin.”",
+"kind": "narration"
+},
+{
+"entry": 8,
+"who": "Critias",
+"text": "“Yes, that’s a good suggestion, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 8,
+"who": "Critias",
+"text": "“we will call him.”",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "And with that he said",
 "kind": "narration"
 },
 {
 "entry": 9,
 "who": "Socrates",
-"text": "to his attendant, “Boy, call Charmides and say that I want to introduce him to a physician in relation to that ailment he told me he was suffering from yesterday. Then Critias turned to me and explained, “In fact, he said recently that he has a headache when he gets up in the morning, so what is to stop you from pretending to him that you know a remedy for a headache?” “Nothing,” said I, “just let him come over.”",
+"text": "to his attendant,",
 "kind": "narration"
+},
+{
+"entry": 9,
+"who": "Critias",
+"text": "“Boy, call Charmides and say that I want to introduce him to a physician in relation to that ailment he told me he was suffering from yesterday. Then Critias turned to me and explained, “In fact, he said recently that he has a headache when he gets up in the morning, so what is to stop you from pretending to him that you know a remedy for a headache?” “Nothing,” said I, “just let him come over.”",
+"kind": "speech"
 },
 {
 "entry": 10,
@@ -80,25 +344,97 @@
 {
 "entry": 12,
 "who": "Socrates",
-"text": "arrives in front of a lion, lest he be seized as a piece of meat.’ Indeed, I thought that I myself had been captured by a creature of this sort. Nevertheless, when he asked if I knew the remedy for the headache, I somehow replied with difficulty that I knew it. “Well, what is it?” he asked. And I replied that it was a certain leaf, but in addition to the remedy there was also a certain incantation, and if a person were to chant this at the same time as he used the remedy, the remedy would make him completely healthy, but without the incantation, the leaf would be of no benefit.",
+"text": "arrives in front of a lion, lest he be seized as a piece of meat.’ Indeed, I thought that I myself had been captured by a creature of this sort. Nevertheless, when he asked if I knew the remedy for the headache, I somehow replied with difficulty that I knew it.",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Charmides",
+"text": "“Well, what is it?”",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "he asked. And I replied that it was a certain leaf, but in addition to the remedy there was also a certain incantation, and if a person were to chant this at the same time as he used the remedy, the remedy would make him completely healthy, but without the incantation, the leaf would be of no benefit.",
 "kind": "narration"
 },
 {
 "entry": 13,
+"who": "Charmides",
+"text": "“Then I will write down the incantation. Call it out.”",
+"kind": "speech"
+},
+{
+"entry": 13,
 "who": "Socrates",
-"text": "“Then I will write down the incantation. Call it out.” “Shall I do it only if you persuade me,” said I, “or even if you do not?” So he laughed and said, “If I persuade you, Socrates.” “So be it,” said I, “and are you certain of my name?” “Unless I am doing you wrong,” said he, “for amongst my own age group you are talked about quite a lot, and I also remember you associating with Critias here, even when I was a child.”",
+"text": "“Shall I do it only if you persuade me,” said I, “or even if you do not?” So he laughed and said,",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Charmides",
+"text": "“If I persuade you, Socrates.”",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "“So be it,” said I, “and are you certain of my name?”",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Charmides",
+"text": "“Unless I am doing you wrong,”",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "said he,",
 "kind": "narration"
+},
+{
+"entry": 13,
+"who": "Charmides",
+"text": "“for amongst my own age group you are talked about quite a lot, and I also remember you associating with Critias here, even when I was a child.”",
+"kind": "speech"
 },
 {
 "entry": 14,
 "who": "Socrates",
 "text": "“Well done,” said I. “Yes, I shall speak more openly to you about the kind of incantation it happens to be. I was at a loss just now as to how I might show you its power, Charmides, for this sort of incantation is unable to make the head alone healthy. Rather, just as you may already have heard from the good physicians, whenever someone comes to them with sore eyes, they say, somehow, that they cannot attempt to treat the eyes on their own, but it would also be necessary to treat the",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 15,
 "who": "Socrates",
-"text": "head at the same time, if the eyes are to be in good condition. And what is more, it is highly irrational to think the head could ever be treated just by itself without treating the whole body. So based on this principle, they endeavour to treat and to cure the part, along with the whole, by regimens applicable to the entire body. Aren’t you aware that this is what they say and that this is how matters stand?” “Entirely so,” he replied. “In that case, do you think I am expressing this well, and do you accept the principle?” “Without reservation,” he replied.",
+"text": "head at the same time, if the eyes are to be in good condition. And what is more, it is highly irrational to think the head could ever be treated just by itself without treating the whole body. So based on this principle, they endeavour to treat and to cure the part, along with the whole, by regimens applicable to the entire body. Aren’t you aware that this is what they say and that this is how matters stand?”",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Charmides",
+"text": "“Entirely so,”",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "he replied. “In that case, do you think I am expressing this well, and do you accept the principle?”",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Charmides",
+"text": "“Without reservation,”",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "he replied.",
 "kind": "narration"
 },
 {
@@ -128,14 +464,44 @@
 {
 "entry": 20,
 "who": "Socrates",
-"text": "obey it, I shall obey it. As for you, if you wish to follow the orders of the stranger, and first submit your soul to be enchanted by the Thracian charms, I shall then apply the leaf to your head. If not, we do not know what we should do with you, dear Charmides.” Now, when Critias heard me saying this, he said, “This headache could turn out to be a godsend for the young man, Socrates, if he will be compelled to improve his thinking because of his head. But, I tell you, Charmides is not regarded as superior to the rest of his age group",
+"text": "obey it, I shall obey it. As for you, if you wish to follow the orders of the stranger, and first submit your soul to be enchanted by the Thracian charms, I shall then apply the leaf to your head. If not, we do not know what we should do with you, dear Charmides.” Now, when Critias heard me saying this, he said,",
 "kind": "narration"
+},
+{
+"entry": 20,
+"who": "Critias",
+"text": "“This headache could turn out to be a godsend for the young man, Socrates, if he will be compelled to improve his thinking because of his head. But, I tell you, Charmides is not regarded as superior to the rest of his age group",
+"kind": "speech"
 },
 {
 "entry": 21,
 "who": "Socrates",
-"text": "for his looks alone, but also for the quality for which you claim to have the incantation. You say it is for sound-mindedness, don’t you?” “Very much so,” I replied. “Well, mark my words,” he said, “he is regarded, far and away, as the most sound-minded lad there is nowadays, and in all other respects he is as good as anyone else of that age.” “And, indeed, Charmides,” said I, “it is only right that you should be superior to the others in all",
+"text": "for his looks alone, but also for the quality for which you claim to have the incantation. You say it is for sound-mindedness, don’t you?” “Very much so,” I replied.",
 "kind": "narration"
+},
+{
+"entry": 21,
+"who": "Critias",
+"text": "“Well, mark my words,”",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Critias",
+"text": "“he is regarded, far and away, as the most sound-minded lad there is nowadays, and in all other respects he is as good as anyone else of that age.”",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "“And, indeed, Charmides,” said I, “it is only right that you should be superior to the others in all",
+"kind": "speech"
 },
 {
 "entry": 22,
@@ -164,43 +530,319 @@
 {
 "entry": 26,
 "who": "Socrates",
-"text": "situation either to admit or deny what he had been asked. “Indeed,” said he, “if I say I am not sound-minded, this is not just a strange thing to say against oneself, but at the same time I would be proving Critias here a liar, and many others too who regard me as sound-minded because this man says so. Then again, if I say that I am sound-minded and sing my own praises, that will surely appear offensive. So I do not know how I am to answer you.” And I said, “That sounds reasonable to me, Charmides. And in my opinion we should jointly con e sider whether or not you have acquired what I am asking you about, so that you are not forced to say what you do not wish to say, nor shall I, for my part, turn my hand to medical treatment without due deliberation. So if it is acceptable to you, I want to consider this along with you. If not, let us leave it.” “Well,” said he, “nothing could be more acceptable. So to that end let’s consider this in whatever manner you yourself think better.” “Then,” said I, “I think our investigation into this is best conducted as follows. Indeed, it is obvious",
+"text": "situation either to admit or deny what he had been asked.",
 "kind": "narration"
+},
+{
+"entry": 26,
+"who": "Charmides",
+"text": "“Indeed,”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Charmides",
+"text": "“if I say I am not sound-minded, this is not just a strange thing to say against oneself, but at the same time I would be proving Critias here a liar, and many others too who regard me as sound-minded because this man says so. Then again, if I say that I am sound-minded and sing my own praises, that will surely appear offensive. So I do not know how I am to answer you.”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "And I said, “That sounds reasonable to me, Charmides. And in my opinion we should jointly con e sider whether or not you have acquired what I am asking you about, so that you are not forced to say what you do not wish to say, nor shall I, for my part, turn my hand to medical treatment without due deliberation. So if it is acceptable to you, I want to consider this along with you. If not, let us leave it.”",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Charmides",
+"text": "“Well,”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Charmides",
+"text": "“nothing could be more acceptable. So to that end let’s consider this in whatever manner you yourself think better.”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "“Then,” said I, “I think our investigation into this is best conducted as follows. Indeed, it is obvious",
+"kind": "speech"
 },
 {
 "entry": 27,
 "who": "Socrates",
-"text": "that if sound-mindedness is present in you, you are able to form some opinion about it. For once sound-mindedness is in you, if it is actually in you, it must, I presume, produce a certain awareness from which you would have some opinion about it, as to what sound-mindedness is and what sort of thing it is. Don’t you think so?” “Yes, I think so,” he replied. “In that case,” said I, “since, in fact, you know how to speak Greek, I am sure you could also say what this appears to you to be.” “Perhaps,” said he. “Well, then,” said I, “so that we may hazard a guess as to whether sound-mindedness is in you, or not, you should tell us what you say sound-mindedness is in your opinion.”",
+"text": "that if sound-mindedness is present in you, you are able to form some opinion about it. For once sound-mindedness is in you, if it is actually in you, it must, I presume, produce a certain awareness from which you would have some opinion about it, as to what sound-mindedness is and what sort of thing it is. Don’t you think so?”",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Charmides",
+"text": "“Yes, I think so,”",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "he replied. “In that case,” said I, “since, in fact, you know how to speak Greek, I am sure you could also say what this appears to you to be.”",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Charmides",
+"text": "“Perhaps,”",
+"kind": "speech"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "said he. “Well, then,” said I, “so that we may hazard a guess as to whether sound-mindedness is in you, or not, you should tell us what you say sound-mindedness is in your opinion.”",
 "kind": "narration"
 },
 {
 "entry": 28,
 "who": "Socrates",
-"text": "Initially he was reluctant and did not really want to answer, but then he said that in his opinion, sound-mindedness is doing everything in an orderly manner and quietly: in walking on the streets, in conversation and doing everything else in a similar fashion. “And in my opinion,” said he, “what you are asking me about is, in short, a certain quietness.” “Well now,” said I, “is this right? People do say, at any rate, that those who are quiet are sound c minded, so let us see if they have a point. Tell me then, wouldn’t you say sound-mindedness is something good?” “Entirely so,” he replied. “Well, for the writing teacher, is it best to write similar letters quickly or quietly?” “Quickly.” “And what about reading? Is it good to do so quickly or quietly?” “Quickly.” “Yes, and are playing the harp quickly, and wrestling nimbly, much better than doing so quietly and slowly?” “Yes.” “What about boxing and the pankration? Isn’t the situation the same?” “Entirely so.”",
+"text": "Initially he was reluctant and did not really want to answer, but then he said that in his opinion, sound-mindedness is doing everything in an orderly manner and quietly: in walking on the streets, in conversation and doing everything else in a similar fashion.",
 "kind": "narration"
+},
+{
+"entry": 28,
+"who": "Charmides",
+"text": "“And in my opinion,”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Charmides",
+"text": "“what you are asking me about is, in short, a certain quietness.”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "“Well now,” said I, “is this right? People do say, at any rate, that those who are quiet are sound c minded, so let us see if they have a point. Tell me then, wouldn’t you say sound-mindedness is something good?”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Charmides",
+"text": "“Entirely so,”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "he replied. “Well, for the writing teacher, is it best to write similar letters quickly or quietly?”",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Charmides",
+"text": "“Quickly.”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "“And what about reading? Is it good to do so quickly or quietly?”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Charmides",
+"text": "“Quickly.”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "“Yes, and are playing the harp quickly, and wrestling nimbly, much better than doing so quietly and slowly?”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Charmides",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "“What about boxing and the pankration? Isn’t the situation the same?”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Charmides",
+"text": "“Entirely so.”",
+"kind": "speech"
 },
 {
 "entry": 29,
 "who": "Socrates",
-"text": "“In running and jumping too, and in all activities of the body, aren’t those that occur nimbly and quickly the good ones, while those that are done with difficulty and quietly the bad ones?” “Apparently.” “Then it is apparent to us that what is best, in the case of the body at any rate, is not what is quietest but what is quickest and nimblest. Is this so?” “Entirely so.” “And was sound-mindedness something good?” “Yes.” “Then, in the case of the body at least, not quietness but quickness would be more sound-minded, since sound-mindedness is something good.” “So it seems,” said he. “What about this?” said I. “Which is better, ease of learning or difficulty in learning?”",
+"text": "“In running and jumping too, and in all activities of the body, aren’t those that occur nimbly and quickly the good ones, while those that are done with difficulty and quietly the bad ones?”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Charmides",
+"text": "“Apparently.”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "“Then it is apparent to us that what is best, in the case of the body at any rate, is not what is quietest but what is quickest and nimblest. Is this so?”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Charmides",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "“And was sound-mindedness something good?”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Charmides",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "“Then, in the case of the body at least, not quietness but quickness would be more sound-minded, since sound-mindedness is something good.”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Charmides",
+"text": "“So it seems,”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "said he. “What about this?” said I. “Which is better, ease of learning or difficulty in learning?”",
 "kind": "narration"
 },
 {
 "entry": 30,
+"who": "Charmides",
+"text": "“Ease of learning.”",
+"kind": "speech"
+},
+{
+"entry": 30,
 "who": "Socrates",
-"text": "“Ease of learning.” “And does ease of learning involve learning quickly, while difficulty in learning involves learning quietly and slowly?” “Yes.” “And isn’t it better to teach someone else quickly and energetically rather than quietly and slowly?” “Yes.” “What about this? Is it better to recollect and to remember quietly and slowly or energetically and quickly?” “Energetically and quickly,” he replied. “And isn’t quick-wittedness a certain nimbleness of the soul, rather than a quietness?”",
+"text": "“And does ease of learning involve learning quickly, while difficulty in learning involves learning quietly and slowly?”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Charmides",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "“And isn’t it better to teach someone else quickly and energetically rather than quietly and slowly?”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Charmides",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "“What about this? Is it better to recollect and to remember quietly and slowly or energetically and quickly?”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Charmides",
+"text": "“Energetically and quickly,”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "he replied. “And isn’t quick-wittedness a certain nimbleness of the soul, rather than a quietness?”",
 "kind": "narration"
 },
 {
 "entry": 31,
+"who": "Charmides",
+"text": "“True.”",
+"kind": "speech"
+},
+{
+"entry": 31,
 "who": "Socrates",
-"text": "“True.” “And for the writing teacher and harp teacher or anyone else, isn’t it best to understand what is said, not as quietly as possible but as quickly as possible?” “Yes.” “Then again, in the investigations of the soul and in deliberation, it is not the quietest person, I think, or the one who deliberates and makes discoveries with difficulty, who seems to be worthy of praise, but the one who does this most easily and quickly.”",
-"kind": "narration"
+"text": "“And for the writing teacher and harp teacher or anyone else, isn’t it best to understand what is said, not as quietly as possible but as quickly as possible?”",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Charmides",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Socrates",
+"text": "“Then again, in the investigations of the soul and in deliberation, it is not the quietest person, I think, or the one who deliberates and makes discoveries with difficulty, who seems to be worthy of praise, but the one who does this most easily and quickly.”",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Charmides",
+"text": "“This is so,”",
+"kind": "speech"
 },
 {
 "entry": 32,
 "who": "Socrates",
-"text": "“This is so,” he said. “Therefore, Charmides,” said I, “in actions, whether they concern the soul or the body, do those that are quickest and nimblest appear nobler to us than those that are slowest and quietest?” “Quite likely,” said he. “So sound-mindedness would not be quietness, nor would the sound-minded life be quiet, at least on the basis of this argument, since it must be good if it is sound-minded. And so, there are two possibilities: either there are no circumstances where quiet actions in life are better than quick and",
+"text": "he said. “Therefore, Charmides,” said I, “in actions, whether they concern the soul or the body, do those that are quickest and nimblest appear nobler to us than those that are slowest and quietest?”",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Charmides",
+"text": "“Quite likely,”",
+"kind": "speech"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "said he. “So sound-mindedness would not be quietness, nor would the sound-minded life be quiet, at least on the basis of this argument, since it must be good if it is sound-minded. And so, there are two possibilities: either there are no circumstances where quiet actions in life are better than quick and",
 "kind": "narration"
 },
 {
@@ -212,55 +854,379 @@
 {
 "entry": 34,
 "who": "Socrates",
-"text": "one that is not quiet. This is because, in our argument, we included sound-mindedness with the good, yet the quick actions have turned out to be no less good than the quiet ones.” “I think, Socrates,” said he, “that what you have said is correct.” “Then, Charmides,” said I, “once again, pay even closer attention to yourself, look into yourself, reflect upon the sort of person sound-mindedness makes you by its presence, and what it must be like in order to produce such an effect, and once you have drawn your conclusions from all this, declare nicely and courageously what does it appear to you to be?",
+"text": "one that is not quiet. This is because, in our argument, we included sound-mindedness with the good, yet the quick actions have turned out to be no less good than the quiet ones.”",
 "kind": "narration"
+},
+{
+"entry": 34,
+"who": "Charmides",
+"text": "“I think, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 34,
+"who": "Charmides",
+"text": "“that what you have said is correct.”",
+"kind": "speech"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "“Then, Charmides,” said I, “once again, pay even closer attention to yourself, look into yourself, reflect upon the sort of person sound-mindedness makes you by its presence, and what it must be like in order to produce such an effect, and once you have drawn your conclusions from all this, declare nicely and courageously what does it appear to you to be?",
+"kind": "speech"
 },
 {
 "entry": 35,
 "who": "Socrates",
-"text": "And he paused, scrutinised himself very courageously and said, “Well, it seems to me that sound-mindedness makes a person ashamed and produces modesty, and modesty is what sound-mindedness actually is.” “Well,” said I, “didn’t we agree just now that sound-mindedness is something good?” “Entirely so,” he replied. “And aren’t the sound-minded men also good?” “Yes.” “Now, could something that does not produce good men be good?” “Of course not.” “So sound-mindedness is not only noble, it is also good.”",
+"text": "And he paused, scrutinised himself very courageously and said,",
 "kind": "narration"
+},
+{
+"entry": 35,
+"who": "Charmides",
+"text": "“Well, it seems to me that sound-mindedness makes a person ashamed and produces modesty, and modesty is what sound-mindedness actually is.”",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "“Well,” said I, “didn’t we agree just now that sound-mindedness is something good?”",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Charmides",
+"text": "“Entirely so,”",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "he replied. “And aren’t the sound-minded men also good?”",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Charmides",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "“Now, could something that does not produce good men be good?”",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Charmides",
+"text": "“Of course not.”",
+"kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "“So sound-mindedness is not only noble, it is also good.”",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Charmides",
+"text": "“Yes, I think so.”",
+"kind": "speech"
 },
 {
 "entry": 36,
 "who": "Socrates",
-"text": "“Yes, I think so.” “What is this?” said I. “Don’t you believe Homer when he says ‘Modesty is not a good companion for a needy man’?”10 “I do,” said he. “So modesty is, it seems, both not good and good.” “Apparently.” “And yet, sound-mindedness is good if its presence really does make people good and not bad.” “Why, yes, I think that is how matters stand, just as you say.”",
+"text": "“What is this?” said I. “Don’t you believe Homer when he says ‘Modesty is not a good companion for a needy man’?”10",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Charmides",
+"text": "“I do,”",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "said he. “So modesty is, it seems, both not good and good.”",
 "kind": "narration"
+},
+{
+"entry": 36,
+"who": "Charmides",
+"text": "“Apparently.”",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "“And yet, sound-mindedness is good if its presence really does make people good and not bad.”",
+"kind": "speech"
+},
+{
+"entry": 36,
+"who": "Charmides",
+"text": "“Why, yes, I think that is how matters stand, just as you say.”",
+"kind": "speech"
 },
 {
 "entry": 37,
 "who": "Socrates",
-"text": "“Then sound-mindedness would not be modesty since it actually happens to be good, while modesty is no more good than bad.” “Well, Socrates, it seems to me that what you are saying is correct, but consider this, what do you think of the following statement about sound-mindedness? Indeed, I have just remembered hearing someone say that sound-mindedness would be ‘doing what belongs to yourself’. Now, consider whether the person who said this was correct in saying so, in your opinion.”",
-"kind": "narration"
+"text": "“Then sound-mindedness would not be modesty since it actually happens to be good, while modesty is no more good than bad.”",
+"kind": "speech"
+},
+{
+"entry": 37,
+"who": "Charmides",
+"text": "“Well, Socrates, it seems to me that what you are saying is correct, but consider this, what do you think of the following statement about sound-mindedness? Indeed, I have just remembered hearing someone say that sound-mindedness would be ‘doing what belongs to yourself’. Now, consider whether the person who said this was correct in saying so, in your opinion.”",
+"kind": "speech"
 },
 {
 "entry": 38,
 "who": "Socrates",
-"text": "“You wretch,” said I, “you have heard this from Critias here, or from someone else who is wise.” “It seems he heard it from someone else,” said Critias, “since it certainly was not from me.” “Socrates, what difference does it make from whom I heard it?” said Charmides. “None,” I replied, “for we should not really consider who said this, but whether what is being said is true or not.” “Now you are speaking aright,” said he. “Yes, by Zeus,” said I, “but if we find out what it means I would be surprised, for it seems like some sort of riddle.” “Why is that?” he asked.",
+"text": "“You wretch,” said I, “you have heard this from Critias here, or from someone else who is wise.”",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Critias",
+"text": "“It seems he heard it from someone else,”",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "said Critias,",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Critias",
+"text": "“since it certainly was not from me.”",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Charmides",
+"text": "“Socrates, what difference does it make from whom I heard it?”",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "said Charmides. “None,” I replied, “for we should not really consider who said this, but whether what is being said is true or not.”",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Charmides",
+"text": "“Now you are speaking aright,”",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "said he. “Yes, by Zeus,” said I, “but if we find out what it means I would be surprised, for it seems like some sort of riddle.”",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Charmides",
+"text": "“Why is that?”",
+"kind": "speech"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "he asked.",
 "kind": "narration"
 },
 {
 "entry": 39,
 "who": "Socrates",
-"text": "“Because the speaker,” said I, “in saying that sound-mindedness is doing what belongs to you, did not intend the words in the way that he expressed them. Or do you think the writing teacher does nothing whenever he writes or reads?” “No,” he replied, “I think he does something.” “So, do you think the grammar teacher only writes and reads his own name or teaches you boys to do this too? Or did you write the names of your enemies no less than those of yourselves and your friends?” “No less.” “Well, in this respect, were you being a busybody and not being sound-minded in doing so?”",
+"text": "“Because the speaker,” said I, “in saying that sound-mindedness is doing what belongs to you, did not intend the words in the way that he expressed them. Or do you think the writing teacher does nothing whenever he writes or reads?”",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Charmides",
+"text": "“No,”",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "he replied,",
 "kind": "narration"
+},
+{
+"entry": 39,
+"who": "Charmides",
+"text": "“I think he does something.”",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "“So, do you think the grammar teacher only writes and reads his own name or teaches you boys to do this too? Or did you write the names of your enemies no less than those of yourselves and your friends?”",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Charmides",
+"text": "“No less.”",
+"kind": "speech"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "“Well, in this respect, were you being a busybody and not being sound-minded in doing so?”",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Charmides",
+"text": "“Not at all.”",
+"kind": "speech"
 },
 {
 "entry": 40,
 "who": "Socrates",
-"text": "“Not at all.” “And yet, you were not doing what belongs to yourselves if writing and reading is ‘doing something’.” “And so they are.” “And, indeed, my friend, healing, housebuilding, weaving, or performing any of the tasks of a skill, by any skill whatsoever, is presumably ‘doing something’.” “Entirely so.” “What about this? Do you think a city would be well administered under this law, calling upon each person to weave and wash his own garment, to cobble his own shoes, make his own oil-flask and scraper, and everything else, on the same principle: that each person should not touch what belongs to others but work at, and do, what belongs to himself?”",
-"kind": "narration"
+"text": "“And yet, you were not doing what belongs to yourselves if writing and reading is ‘doing something’.”",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Charmides",
+"text": "“And so they are.”",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "“And, indeed, my friend, healing, housebuilding, weaving, or performing any of the tasks of a skill, by any skill whatsoever, is presumably ‘doing something’.”",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Charmides",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "“What about this? Do you think a city would be well administered under this law, calling upon each person to weave and wash his own garment, to cobble his own shoes, make his own oil-flask and scraper, and everything else, on the same principle: that each person should not touch what belongs to others but work at, and do, what belongs to himself?”",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Charmides",
+"text": "“No, I do not think so,”",
+"kind": "speech"
 },
 {
 "entry": 41,
 "who": "Socrates",
-"text": "“No, I do not think so,” he replied. “And yet,” said I, “the city that is administered sound-mindedly would be well administered.” “How could it not be?” said he. “So, performing actions of this sort, and doing what belongs to you in this way, would not be sound-mindedness,” said I. “Apparently not.” “So, the person who said that doing what belongs to yourself is sound-mindedness was, it seems, speaking a riddle, as I said just now. For I presume he was not quite so simple-minded. Or did you",
+"text": "he replied. “And yet,” said I, “the city that is administered sound-mindedly would be well administered.”",
 "kind": "narration"
+},
+{
+"entry": 41,
+"who": "Charmides",
+"text": "“How could it not be?”",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "said he. “So, performing actions of this sort, and doing what belongs to you in this way, would not be sound-mindedness,” said I.",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Charmides",
+"text": "“Apparently not.”",
+"kind": "speech"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "“So, the person who said that doing what belongs to yourself is sound-mindedness was, it seems, speaking a riddle, as I said just now. For I presume he was not quite so simple-minded. Or did you",
+"kind": "speech"
 },
 {
 "entry": 42,
 "who": "Socrates",
-"text": "hear some foolish fellow saying this, Charmides?” “Far from it,” he replied. “In fact, he seemed to be extremely wise.” “Well then, I am of the opinion, to an even greater extent, that he posed a riddle as to the difficulty of recognising what exactly ‘doing what belongs to yourself’ is.” “Perhaps,” said he. “Well, what exactly would ‘doing what belongs to yourself’ be? Can you say?” “By Zeus, I do not know,” he replied, “but perhaps even the person who said this did not know what he intended.” And as he said this he smiled and glanced over at Critias. Now, Critias had obviously been quite agitated for some time, and, being eager to impress",
+"text": "hear some foolish fellow saying this, Charmides?”",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Charmides",
+"text": "“Far from it,”",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Charmides",
+"text": "“In fact, he seemed to be extremely wise.”",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "“Well then, I am of the opinion, to an even greater extent, that he posed a riddle as to the difficulty of recognising what exactly ‘doing what belongs to yourself’ is.”",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Charmides",
+"text": "“Perhaps,”",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "said he. “Well, what exactly would ‘doing what belongs to yourself’ be? Can you say?”",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Charmides",
+"text": "“By Zeus, I do not know,”",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "he replied,",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Charmides",
+"text": "“but perhaps even the person who said this did not know what he intended.”",
+"kind": "speech"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "And as he said this he smiled and glanced over at Critias. Now, Critias had obviously been quite agitated for some time, and, being eager to impress",
 "kind": "narration"
 },
 {
@@ -272,26 +1238,104 @@
 {
 "entry": 44,
 "who": "Socrates",
-"text": "bear this. Rather, he seemed to me to be angry with Charmides, just like a poet with an actor who recites his compositions badly. So he looked at him and said, “Charmides, do you really think that if you do not know what exactly the person who said that sound-mindedness is ‘doing what belongs to yourself’ intended, the man himself did not know either?” “But Critias, best of men,” said I, “it is no surprise that he does not understand this at his",
+"text": "bear this. Rather, he seemed to me to be angry with Charmides, just like a poet with an actor who recites his compositions badly. So he looked at him and said,",
 "kind": "narration"
+},
+{
+"entry": 44,
+"who": "Critias",
+"text": "“Charmides, do you really think that if you do not know what exactly the person who said that sound-mindedness is ‘doing what belongs to yourself’ intended, the man himself did not know either?”",
+"kind": "speech"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "“But Critias, best of men,” said I, “it is no surprise that he does not understand this at his",
+"kind": "speech"
 },
 {
 "entry": 45,
 "who": "Socrates",
-"text": "age. But I expect you are likely to know on account of your age and your experience. So if you concur that sound-mindedness is what this fellow says it is, and you take over the argument, I would much prefer to investigate along with you whether the statement is true or not.” “Yes, I concur, emphatically, and I am taking over,” he said. “Well, you are acting quite nobly,” said I. “Tell me then, do you also concur about what I was asking just now, that all craftsmen make something?” “I do.” “Now, do they seem to you to make only what belongs to themselves, or also what belongs to",
+"text": "age. But I expect you are likely to know on account of your age and your experience. So if you concur that sound-mindedness is what this fellow says it is, and you take over the argument, I would much prefer to investigate along with you whether the statement is true or not.”",
 "kind": "narration"
+},
+{
+"entry": 45,
+"who": "Critias",
+"text": "“Yes, I concur, emphatically, and I am taking over,”",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "he said. “Well, you are acting quite nobly,” said I. “Tell me then, do you also concur about what I was asking just now, that all craftsmen make something?”",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Critias",
+"text": "“I do.”",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "“Now, do they seem to you to make only what belongs to themselves, or also what belongs to",
+"kind": "speech"
 },
 {
 "entry": 46,
 "who": "Socrates",
-"text": "others?” “What belongs to others too.” “So are they being sound-minded, even though they are not making only what belongs to themselves?” “Is there any reason why not?” he replied. “None, for me at least,” said I. “But look, there may be one for the man who proposes that soundmindedness is ‘doing what belongs to oneself’, and then says there is no reason why those who",
+"text": "others?”",
+"kind": "narration"
+},
+{
+"entry": 46,
+"who": "Critias",
+"text": "“What belongs to others too.”",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "“So are they being sound-minded, even though they are not making only what belongs to themselves?”",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Critias",
+"text": "“Is there any reason why not?”",
+"kind": "speech"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "he replied. “None, for me at least,” said I. “But look, there may be one for the man who proposes that soundmindedness is ‘doing what belongs to oneself’, and then says there is no reason why those who",
 "kind": "narration"
 },
 {
 "entry": 47,
 "who": "Socrates",
-"text": "“Tell me,” said I, “don’t you call making and doing the same?” “I certainly do not,” he replied. “Nor working and making either, for I learned from Hesiod who said that ‘work is no disgrace’. But do you actually think that if he called the sort of works you referred to just now, ‘working’ and ‘doing’, he could accept that there is no disgrace in someone being a cobbler, a fishmonger or a prostitute? Don’t you believe it,",
+"text": "“Tell me,” said I, “don’t you call making and doing the same?”",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Critias",
+"text": "“I certainly do not,”",
+"kind": "speech"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "he replied.",
 "kind": "narration"
+},
+{
+"entry": 47,
+"who": "Critias",
+"text": "“Nor working and making either, for I learned from Hesiod who said that ‘work is no disgrace’. But do you actually think that if he called the sort of works you referred to just now, ‘working’ and ‘doing’, he could accept that there is no disgrace in someone being a cobbler, a fishmonger or a prostitute? Don’t you believe it,",
+"kind": "speech"
 },
 {
 "entry": 48,
@@ -303,31 +1347,193 @@
 "entry": 49,
 "who": "Socrates",
 "text": "“Critias,” said I, “I understood your argument almost as soon as you began, that you call what is kindred to us and what belongs to ourselves, good, and you call the ‘makings’ of the good people, ‘doings.’ And, indeed, I have heard Prodicus drawing thousands of such distinctions about words. Well, I allow you to employ each of the words in any way you wish, only please make clear in every case what you are applying the name to. So now, once more, from the beginning, define this",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 50,
 "who": "Socrates",
-"text": "more clearly. The doing or making, or however you wish to name it, of what is good, is this what you say sound-mindedness is?” “I do,” he replied. “So, the person who does what is bad is not sound-minded, but the person who does what is good, is.” “Best of men,” said he, “isn’t this how it seems to you?” “Never mind that,” said I. “Let us not consider my opinion at this stage, but what you are now saying.” “Well then, I deny,” said he, “that someone who makes what is not good, but bad, is soundminded. Rather, someone who makes what is good, but not bad, is sound-minded. For I am defining sound-mindedness in plain terms for you, as doing what is good.”",
+"text": "more clearly. The doing or making, or however you wish to name it, of what is good, is this what you say sound-mindedness is?”",
 "kind": "narration"
+},
+{
+"entry": 50,
+"who": "Critias",
+"text": "“I do,”",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "he replied. “So, the person who does what is bad is not sound-minded, but the person who does what is good, is.”",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Critias",
+"text": "“Best of men,”",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Critias",
+"text": "“isn’t this how it seems to you?”",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "“Never mind that,” said I. “Let us not consider my opinion at this stage, but what you are now saying.”",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Critias",
+"text": "“Well then, I deny,”",
+"kind": "speech"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Critias",
+"text": "“that someone who makes what is not good, but bad, is soundminded. Rather, someone who makes what is good, but not bad, is sound-minded. For I am defining sound-mindedness in plain terms for you, as doing what is good.”",
+"kind": "speech"
 },
 {
 "entry": 51,
 "who": "Socrates",
-"text": "“And there is, perhaps,” said I, “no reason why you should not be speaking the truth. Yet I am wondering if you think sound-minded people are unaware of being sound-minded.” “No, I do not think so,” he replied. “Didn’t you say a little earlier,” I asked, “that there is no reason why craftsmen, even those who make what belongs to others, cannot be sound-minded?” “Yes, I said so,” he replied. “What of it?”",
+"text": "“And there is, perhaps,” said I, “no reason why you should not be speaking the truth. Yet I am wondering if you think sound-minded people are unaware of being sound-minded.”",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Critias",
+"text": "“No, I do not think so,”",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Socrates",
+"text": "he replied. “Didn’t you say a little earlier,” I asked, “that there is no reason why craftsmen, even those who make what belongs to others, cannot be sound-minded?”",
 "kind": "narration"
+},
+{
+"entry": 51,
+"who": "Critias",
+"text": "“Yes, I said so,”",
+"kind": "speech"
+},
+{
+"entry": 51,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Critias",
+"text": "“What of it?”",
+"kind": "speech"
 },
 {
 "entry": 52,
 "who": "Socrates",
-"text": "“Nothing, but please tell me whether you think a physician, when making someone healthy, makes something that is beneficial both to himself and to the person he treats?” “I think so.” “Isn’t someone who is doing this, doing what is needed?” “Yes.” “Isn’t someone who is doing what is needed, sound-minded?” “Sound-minded, indeed.” “Now, is it also necessary for the physician to recognise when he is applying the treatment beneficially and when he is not, and for each of the craftsmen to recognise when he is going to gain an advantage from the work he is doing, and when not?” “Perhaps not.” “In that case,” said I, “having done something beneficially, or harmfully, the physician sometimes",
-"kind": "narration"
+"text": "“Nothing, but please tell me whether you think a physician, when making someone healthy, makes something that is beneficial both to himself and to the person he treats?”",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Critias",
+"text": "“I think so.”",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "“Isn’t someone who is doing this, doing what is needed?”",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Critias",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "“Isn’t someone who is doing what is needed, sound-minded?”",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Critias",
+"text": "“Sound-minded, indeed.”",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "“Now, is it also necessary for the physician to recognise when he is applying the treatment beneficially and when he is not, and for each of the craftsmen to recognise when he is going to gain an advantage from the work he is doing, and when not?”",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Critias",
+"text": "“Perhaps not.”",
+"kind": "speech"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "“In that case,” said I, “having done something beneficially, or harmfully, the physician sometimes",
+"kind": "speech"
 },
 {
 "entry": 53,
 "who": "Socrates",
-"text": "does not recognise, himself, how he has done it, even though according to your argument, in doing it beneficially he has done it sound-mindedly. Isn’t this how you put it?” “I did.” “And so it seems, in doing something beneficially, even though he does it sound-mindedly and is sound-minded, he is sometimes unaware, himself, of being sound-minded.” “But, Socrates,” said he, “this could never happen, and if you think that anything I accepted earlier leads necessarily to this conclusion, I would rather retract anything, and I would",
+"text": "does not recognise, himself, how he has done it, even though according to your argument, in doing it beneficially he has done it sound-mindedly. Isn’t this how you put it?”",
 "kind": "narration"
+},
+{
+"entry": 53,
+"who": "Critias",
+"text": "“I did.”",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "“And so it seems, in doing something beneficially, even though he does it sound-mindedly and is sound-minded, he is sometimes unaware, himself, of being sound-minded.”",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Critias",
+"text": "“But, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 53,
+"who": "Critias",
+"text": "“this could never happen, and if you think that anything I accepted earlier leads necessarily to this conclusion, I would rather retract anything, and I would",
+"kind": "speech"
 },
 {
 "entry": 54,
@@ -344,8 +1550,14 @@
 {
 "entry": 56,
 "who": "Socrates",
-"text": "presume that they are different, and I think that is what happened to those who dedicated the later inscriptions ‘Nothing in Excess’ and ‘Give a Pledge and Ruin is Nigh’. In fact, these men thought that ‘Know Thyself’ was a piece of advice rather than a salutation by the god for the sake of those who enter the temple. Accordingly, they dedicated these inscriptions so that they could offer advice that was every bit as useful. “Now then, Socrates, the reason why I am saying all this is as follows. I am retracting everything that was said previously; perhaps you said something on these issues that was",
+"text": "presume that they are different, and I think that is what happened to those who dedicated the later inscriptions ‘Nothing in Excess’ and ‘Give a Pledge and Ruin is Nigh’. In fact, these men thought that ‘Know Thyself’ was a piece of advice rather than a salutation by the god for the sake of those who enter the temple. Accordingly, they dedicated these inscriptions so that they could offer advice that was every bit as useful.",
 "kind": "narration"
+},
+{
+"entry": 56,
+"who": "Critias",
+"text": "“Now then, Socrates, the reason why I am saying all this is as follows. I am retracting everything that was said previously; perhaps you said something on these issues that was",
+"kind": "speech"
 },
 {
 "entry": 57,
@@ -356,26 +1568,134 @@
 {
 "entry": 58,
 "who": "Socrates",
-"text": "but please wait until I consider it.” “Consider it then,” said he. “Yes, indeed,” said I, “I am considering it. Well, if sound-mindedness is recognising something, it would obviously be a knowledge, and a knowledge of something, wouldn’t it?” “It would,” said he. “Of yourself.” “Isn’t medicine knowledge of health?” I asked. “Entirely so.” “Then,” said I, “if you were to ask me, ‘since medicine is knowledge of health, what use is it to us and what does it bring about?’ I would reply that it is a considerable benefit, since it brings about",
+"text": "but please wait until I consider it.”",
 "kind": "narration"
+},
+{
+"entry": 58,
+"who": "Critias",
+"text": "“Consider it then,”",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "said he. “Yes, indeed,” said I, “I am considering it. Well, if sound-mindedness is recognising something, it would obviously be a knowledge, and a knowledge of something, wouldn’t it?”",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Critias",
+"text": "“It would,”",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Critias",
+"text": "“Of yourself.”",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "“Isn’t medicine knowledge of health?” I asked.",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Critias",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "“Then,” said I, “if you were to ask me, ‘since medicine is knowledge of health, what use is it to us and what does it bring about?’ I would reply that it is a considerable benefit, since it brings about",
+"kind": "speech"
 },
 {
 "entry": 59,
 "who": "Socrates",
-"text": "health, a good outcome for us, if you accept this.” “I accept this.” “Then if you should also ask me, ‘since housebuilding is the knowledge of building houses, what outcome do I say it produces?’, I would say, ‘houses’, and the same goes for the other skills. Now,",
+"text": "health, a good outcome for us, if you accept this.”",
 "kind": "narration"
+},
+{
+"entry": 59,
+"who": "Critias",
+"text": "“I accept this.”",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "“Then if you should also ask me, ‘since housebuilding is the knowledge of building houses, what outcome do I say it produces?’, I would say, ‘houses’, and the same goes for the other skills. Now,",
+"kind": "speech"
 },
 {
 "entry": 60,
 "who": "Socrates",
-"text": "products of various skills that one could point to? Well, are you also able to point out an outcome of this kind to me in these two cases? No, you will not be able to do so.” “And,” I replied, “what you say is true, but I am able to point out to you something that each of these knowledges is knowledge of, something that happens to be other than the knowledge itself. For example, calculation is presumably of the even and the odd, how they relate to themselves and to one another in quantity. Is this so?” “Very much so,” he replied. “Aren’t the even and the odd different from calculation itself?” “How could they not be?”",
+"text": "products of various skills that one could point to? Well, are you also able to point out an outcome of this kind to me in these two cases? No, you will not be able to do so.” “And,” I replied, “what you say is true, but I am able to point out to you something that each of these knowledges is knowledge of, something that happens to be other than the knowledge itself. For example, calculation is presumably of the even and the odd, how they relate to themselves and to one another in quantity. Is this so?”",
 "kind": "narration"
+},
+{
+"entry": 60,
+"who": "Critias",
+"text": "“Very much so,”",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "he replied. “Aren’t the even and the odd different from calculation itself?”",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Critias",
+"text": "“How could they not be?”",
+"kind": "speech"
 },
 {
 "entry": 61,
 "who": "Socrates",
-"text": "“Then again, although weighing is weighing of the heavier and lighter weight, the heavy and the light are different from weighing itself. Do you agree?” “I do.” “Then state what it is that sound-mindedness is knowledge of, something that happens to be different from sound-mindedness itself.” “That is my point, Socrates,” said he. “You arrive in your enquiry at the very thing that distinguishes sound-mindedness from all the knowledges, but now you are investigating some",
+"text": "“Then again, although weighing is weighing of the heavier and lighter weight, the heavy and the light are different from weighing itself. Do you agree?”",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Critias",
+"text": "“I do.”",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "“Then state what it is that sound-mindedness is knowledge of, something that happens to be different from sound-mindedness itself.”",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Critias",
+"text": "“That is my point, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "said he.",
 "kind": "narration"
+},
+{
+"entry": 61,
+"who": "Critias",
+"text": "“You arrive in your enquiry at the very thing that distinguishes sound-mindedness from all the knowledges, but now you are investigating some",
+"kind": "speech"
 },
 {
 "entry": 62,
@@ -386,74 +1706,446 @@
 {
 "entry": 63,
 "who": "Socrates",
-"text": "from any other motive than the very motive from which I would also scrutinise what I myself am saying, for fear that I might ever, unwittingly, be thinking I know something when I do not know. And so I now declare that this is what I am doing: considering the argument, most of all for the sake of myself, but also perhaps for my other companions. Or don’t you think it is a good, common to almost all of humanity, that each of the things that are comes to be seen clearly just as it is?” “I do, Socrates,” said he, “very much so.” “Then, blessed man, be bold in answering the question, based on how it appears to you, and never",
+"text": "from any other motive than the very motive from which I would also scrutinise what I myself am saying, for fear that I might ever, unwittingly, be thinking I know something when I do not know. And so I now declare that this is what I am doing: considering the argument, most of all for the sake of myself, but also perhaps for my other companions. Or don’t you think it is a good, common to almost all of humanity, that each of the things that are comes to be seen clearly just as it is?”",
 "kind": "narration"
+},
+{
+"entry": 63,
+"who": "Critias",
+"text": "“I do, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Critias",
+"text": "“very much so.”",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "“Then, blessed man, be bold in answering the question, based on how it appears to you, and never",
+"kind": "speech"
 },
 {
 "entry": 64,
 "who": "Socrates",
-"text": "mind whether it is Critias or Socrates who is being refuted. Just apply your mind to the argument itself and consider how exactly it turns out under scrutiny.” “Yes,” said he, “that’s what I’ll do, since what you are saying sounds reasonable to me.” “Then,” said I, “explain. What are you saying about sound-mindedness?” “Well,” said he, “I am saying that of all the other knowledges, it alone is knowledge, both of itself and the other knowledges.” “In that case,” said I, “wouldn’t it also be knowledge of lack of knowledge, if it is indeed knowledge of knowledge?” “Entirely so,” he said.",
+"text": "mind whether it is Critias or Socrates who is being refuted. Just apply your mind to the argument itself and consider how exactly it turns out under scrutiny.”",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Critias",
+"text": "“Yes,”",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Critias",
+"text": "“that’s what I’ll do, since what you are saying sounds reasonable to me.”",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "“Then,” said I, “explain. What are you saying about sound-mindedness?”",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Critias",
+"text": "“Well,”",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Critias",
+"text": "“I am saying that of all the other knowledges, it alone is knowledge, both of itself and the other knowledges.”",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "“In that case,” said I, “wouldn’t it also be knowledge of lack of knowledge, if it is indeed knowledge of knowledge?”",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Critias",
+"text": "“Entirely so,”",
+"kind": "speech"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "he said.",
 "kind": "narration"
 },
 {
 "entry": 65,
 "who": "Socrates",
-"text": "“So only the sound-minded man will, himself, recognise himself, and will be able to examine what he happens to know, and not know. And, in like manner, he will have the power to determine what other people know and think they know, and what he himself thinks he knows but does not know. No one else will be able to do this. And this is what being sound-minded and sound-mindedness, and recognising one’s own self, actually are – knowing what one knows and what one does not know. So, is this what you mean?” “I do,” he replied. “Then, once more,” said I, ‘the third time for the Saviour’, as if we were starting anew, let us first",
+"text": "“So only the sound-minded man will, himself, recognise himself, and will be able to examine what he happens to know, and not know. And, in like manner, he will have the power to determine what other people know and think they know, and what he himself thinks he knows but does not know. No one else will be able to do this. And this is what being sound-minded and sound-mindedness, and recognising one’s own self, actually are – knowing what one knows and what one does not know. So, is this what you mean?”",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Critias",
+"text": "“I do,”",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "he replied. “Then, once more,” said I, ‘the third time for the Saviour’, as if we were starting anew, let us first",
 "kind": "narration"
 },
 {
 "entry": 66,
 "who": "Socrates",
-"text": "consider whether something like this is possible or not: knowing that one knows, and that one does not know, what one knows and what one does not know. And secondly, if this is at all possible, let us consider what benefit we would derive from knowing this.” “Yes,” said he, “we should consider this.” “Come on then, Critias,” said I, “let us see if you turn out to be more resourceful than I am in dealing with these matters. For I am actually perplexed. Shall I tell you why I am perplexed?” “Yes, certainly,” he said. “Well,” said I, “if it is as you were just saying it is, wouldn’t all these be a single knowledge, which is not knowledge of anything else except itself and the other knowledges? And what is more, this",
+"text": "consider whether something like this is possible or not: knowing that one knows, and that one does not know, what one knows and what one does not know. And secondly, if this is at all possible, let us consider what benefit we would derive from knowing this.”",
+"kind": "narration"
+},
+{
+"entry": 66,
+"who": "Critias",
+"text": "“Yes,”",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 66,
+"who": "Critias",
+"text": "“we should consider this.”",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "“Come on then, Critias,” said I, “let us see if you turn out to be more resourceful than I am in dealing with these matters. For I am actually perplexed. Shall I tell you why I am perplexed?”",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Critias",
+"text": "“Yes, certainly,”",
+"kind": "speech"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "he said. “Well,” said I, “if it is as you were just saying it is, wouldn’t all these be a single knowledge, which is not knowledge of anything else except itself and the other knowledges? And what is more, this",
 "kind": "narration"
 },
 {
 "entry": 67,
 "who": "Socrates",
-"text": "same knowledge is knowledge of lack of knowledge.” “Entirely so.” “Do you see, my friend, how strange the assertion we are trying to make actually is? For in other cases, if you consider them, the same situation will, I think, surely seem impossible to you.” “In what way and in what cases?” “In the following cases. Indeed, you need to decide if, in your opinion, there is some seeing which is not a seeing of whatever the other seeings are seeings of, but is, rather, a seeing of itself and the other seeings, and of lack of seeing too, in like manner. And even though it is a seeing, it sees no colour, just itself and the other seeings. Does there seem to you to be such a seeing?”",
+"text": "same knowledge is knowledge of lack of knowledge.”",
 "kind": "narration"
+},
+{
+"entry": 67,
+"who": "Critias",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "“Do you see, my friend, how strange the assertion we are trying to make actually is? For in other cases, if you consider them, the same situation will, I think, surely seem impossible to you.”",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Critias",
+"text": "“In what way and in what cases?”",
+"kind": "speech"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "“In the following cases. Indeed, you need to decide if, in your opinion, there is some seeing which is not a seeing of whatever the other seeings are seeings of, but is, rather, a seeing of itself and the other seeings, and of lack of seeing too, in like manner. And even though it is a seeing, it sees no colour, just itself and the other seeings. Does there seem to you to be such a seeing?”",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Critias",
+"text": "“By Zeus, not to me.”",
+"kind": "speech"
 },
 {
 "entry": 68,
 "who": "Socrates",
-"text": "“By Zeus, not to me.” “And what about hearing that does not hear a single sound, but does hear itself, and the other hearings, and lack of hearing?” “No, not this either.” “Then, to sum up, in the case of all the sense perceptions, consider whether in your opinion there is any perception that is perception of perceptions and of itself, whilst perceiving nothing of what the other perceptions perceive.” “It doesn’t seem so to me, at any rate.” “Well, do you think there is any desire that is not a desire for any pleasure at all, but for itself and",
-"kind": "narration"
+"text": "“And what about hearing that does not hear a single sound, but does hear itself, and the other hearings, and lack of hearing?”",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Critias",
+"text": "“No, not this either.”",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "“Then, to sum up, in the case of all the sense perceptions, consider whether in your opinion there is any perception that is perception of perceptions and of itself, whilst perceiving nothing of what the other perceptions perceive.”",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Critias",
+"text": "“It doesn’t seem so to me, at any rate.”",
+"kind": "speech"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "“Well, do you think there is any desire that is not a desire for any pleasure at all, but for itself and",
+"kind": "speech"
 },
 {
 "entry": 69,
 "who": "Socrates",
-"text": "the other desires?” “Of course not.” “Nor indeed, I presume, is there a wish that wishes for nothing good, but does wish for itself and the other wishes.” “Indeed not.” “And would you say that there is a kind of love that happens to be a love of nothing noble, but is love of itself and the other loves?” “Not I,” he replied. “And have you ever observed any fear that fears itself and the other fears, but does not fear anything",
+"text": "the other desires?”",
+"kind": "narration"
+},
+{
+"entry": 69,
+"who": "Critias",
+"text": "“Of course not.”",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "“Nor indeed, I presume, is there a wish that wishes for nothing good, but does wish for itself and the other wishes.”",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Critias",
+"text": "“Indeed not.”",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "“And would you say that there is a kind of love that happens to be a love of nothing noble, but is love of itself and the other loves?”",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Critias",
+"text": "“Not I,”",
+"kind": "speech"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "he replied. “And have you ever observed any fear that fears itself and the other fears, but does not fear anything",
 "kind": "narration"
 },
 {
 "entry": 70,
 "who": "Socrates",
-"text": "dreadful at all?” “I have not observed one,” he replied. “Or an opinion that is an opinion of opinions and of itself, but forms an opinion of nothing that the others form opinions of?” “Not at all.” “But we are saying, it seems, that there is some knowledge that is of this kind, one that although it is knowledge of nothing that is learned, is yet a knowledge of itself and the other knowledges.” “We are saying so, indeed.” “But if it turns out that there really is such a knowledge, isn’t it strange? Indeed, we should not yet affirm, definitely, that there is not, rather we should still consider whether there is such knowledge.”",
+"text": "dreadful at all?”",
 "kind": "narration"
+},
+{
+"entry": 70,
+"who": "Critias",
+"text": "“I have not observed one,”",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "he replied. “Or an opinion that is an opinion of opinions and of itself, but forms an opinion of nothing that the others form opinions of?”",
+"kind": "narration"
+},
+{
+"entry": 70,
+"who": "Critias",
+"text": "“Not at all.”",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "“But we are saying, it seems, that there is some knowledge that is of this kind, one that although it is knowledge of nothing that is learned, is yet a knowledge of itself and the other knowledges.”",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Critias",
+"text": "“We are saying so, indeed.”",
+"kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "“But if it turns out that there really is such a knowledge, isn’t it strange? Indeed, we should not yet affirm, definitely, that there is not, rather we should still consider whether there is such knowledge.”",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Critias",
+"text": "“Correct.”",
+"kind": "speech"
 },
 {
 "entry": 71,
 "who": "Socrates",
-"text": "“Correct.” “Come on then, this knowledge is knowledge of something, and it possesses a power of this kind so as to be ‘of something’. Isn’t this so?” “Entirely so.” “And, indeed, we say the greater possesses a power of this kind, so as to be greater ‘than something’.” “It possesses it, indeed.” “If indeed it is to be greater, won’t it be greater than something lesser?” “Necessarily.” “Now, if we were to discover some greater that is greater than the ‘greaters’ and than itself, but",
-"kind": "narration"
+"text": "“Come on then, this knowledge is knowledge of something, and it possesses a power of this kind so as to be ‘of something’. Isn’t this so?”",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Critias",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "“And, indeed, we say the greater possesses a power of this kind, so as to be greater ‘than something’.”",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Critias",
+"text": "“It possesses it, indeed.”",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "“If indeed it is to be greater, won’t it be greater than something lesser?”",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Critias",
+"text": "“Necessarily.”",
+"kind": "speech"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "“Now, if we were to discover some greater that is greater than the ‘greaters’ and than itself, but",
+"kind": "speech"
 },
 {
 "entry": 72,
 "who": "Socrates",
-"text": "greater than nothing that the other ‘greaters’ are greater than, presumably it would be entirely in the situation whereby if it were indeed greater than itself, it would also be less than itself, wouldn’t it?” “Necessarily, Socrates, very much so.” “What is more, if something is a double of the other doubles, and of itself, then being a double of the others, and of itself, it would then of course be a half, for a double is presumably double of nothing other than a half.” “True.” “Won’t, then, what is more than itself also be less than itself; what is heavier, lighter; what is older,",
+"text": "greater than nothing that the other ‘greaters’ are greater than, presumably it would be entirely in the situation whereby if it were indeed greater than itself, it would also be less than itself, wouldn’t it?”",
 "kind": "narration"
+},
+{
+"entry": 72,
+"who": "Critias",
+"text": "“Necessarily, Socrates, very much so.”",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "“What is more, if something is a double of the other doubles, and of itself, then being a double of the others, and of itself, it would then of course be a half, for a double is presumably double of nothing other than a half.”",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Critias",
+"text": "“True.”",
+"kind": "speech"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "“Won’t, then, what is more than itself also be less than itself; what is heavier, lighter; what is older,",
+"kind": "speech"
 },
 {
 "entry": 73,
 "who": "Socrates",
-"text": "younger; and in the same way in all other cases, won’t whatever has the power of itself, directed towards itself, also possess the being towards which its power was directed? I mean something like the following: we say that hearing, for instance, would be hearing of nothing else except sound. Is this so?” “Yes.” “In that case, if hearing is indeed to hear itself, it will hear itself as possessing sound, for otherwise it would not hear.” “Most necessarily.” “Seeing too, I presume, best of men, if it is indeed to see itself, needs itself to possess some colour,",
+"text": "younger; and in the same way in all other cases, won’t whatever has the power of itself, directed towards itself, also possess the being towards which its power was directed? I mean something like the following: we say that hearing, for instance, would be hearing of nothing else except sound. Is this so?”",
 "kind": "narration"
+},
+{
+"entry": 73,
+"who": "Critias",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "“In that case, if hearing is indeed to hear itself, it will hear itself as possessing sound, for otherwise it would not hear.”",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Critias",
+"text": "“Most necessarily.”",
+"kind": "speech"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "“Seeing too, I presume, best of men, if it is indeed to see itself, needs itself to possess some colour,",
+"kind": "speech"
 },
 {
 "entry": 74,
 "who": "Socrates",
-"text": "for seeing could never see anything devoid of colour.” “Indeed it could not.” “Well, Critias, do you see that so far, in working through this, in some cases it appears absolutely impossible to us, and in other cases barely credible that they have the power of themselves directed towards themselves? In fact, in the case of magnitude and quantity and the like, it is absolutely impossible, isn’t it?” “Entirely so.” “Then again, hearing and seeing, and even motion itself moving itself, and heat burning itself, and",
+"text": "for seeing could never see anything devoid of colour.”",
 "kind": "narration"
+},
+{
+"entry": 74,
+"who": "Critias",
+"text": "“Indeed it could not.”",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "“Well, Critias, do you see that so far, in working through this, in some cases it appears absolutely impossible to us, and in other cases barely credible that they have the power of themselves directed towards themselves? In fact, in the case of magnitude and quantity and the like, it is absolutely impossible, isn’t it?”",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Critias",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "“Then again, hearing and seeing, and even motion itself moving itself, and heat burning itself, and",
+"kind": "speech"
 },
 {
 "entry": 75,
@@ -476,26 +2168,110 @@
 {
 "entry": 78,
 "who": "Socrates",
-"text": "plexity he did not say anything definite. So in order that our argument might proceed, I said, “But, Critias, if you like, let us accept for now that there can be a knowledge of knowledge, and we shall consider on another occasion whether this is indeed the case or not. Come on then, if this is entirely possible, is it any more possible to know what one knows, and does not know? Since surely, according to us, this is recognising yourself, and being sound-minded. Is this so?” “Entirely so,” said he. “I presume that follows at least. For if someone has knowledge that",
+"text": "plexity he did not say anything definite. So in order that our argument might proceed, I said, “But, Critias, if you like, let us accept for now that there can be a knowledge of knowledge, and we shall consider on another occasion whether this is indeed the case or not. Come on then, if this is entirely possible, is it any more possible to know what one knows, and does not know? Since surely, according to us, this is recognising yourself, and being sound-minded. Is this so?”",
 "kind": "narration"
+},
+{
+"entry": 78,
+"who": "Critias",
+"text": "“Entirely so,”",
+"kind": "speech"
+},
+{
+"entry": 78,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
+},
+{
+"entry": 78,
+"who": "Critias",
+"text": "“I presume that follows at least. For if someone has knowledge that",
+"kind": "speech"
 },
 {
 "entry": 79,
 "who": "Socrates",
-"text": "itself recognises itself, such a person would be just like what he possesses; just as when someone possesses speed, he is fast; when someone possesses beauty, he is beautiful; and when he possesses recognition, he recognises; and when someone possesses recognition of recognition itself, he will then, presumably, be recognising his own self.” “I am not”, said I, “disputing the contention that whenever someone possesses that which recognises itself, he himself will recognise his own self, but why it is necessary for someone who possesses this to know what he knows and what he does not know.” “Because, Socrates, this is the same as that.”",
+"text": "itself recognises itself, such a person would be just like what he possesses; just as when someone possesses speed, he is fast; when someone possesses beauty, he is beautiful; and when he possesses recognition, he recognises; and when someone possesses recognition of recognition itself, he will then, presumably, be recognising his own self.” “I am not”, said I, “disputing the contention that whenever someone possesses that which recognises itself, he himself will recognise his own self, but why it is necessary for someone who possesses this to know what he knows and what he does not know.”",
 "kind": "narration"
+},
+{
+"entry": 79,
+"who": "Critias",
+"text": "“Because, Socrates, this is the same as that.”",
+"kind": "speech"
 },
 {
 "entry": 80,
 "who": "Socrates",
-"text": "“Perhaps,” said I, “but I am afraid I am still as confused as ever, for I do not understand how knowing what one knows, and knowing what someone does not know, are the same as self-knowledge.” “What do you mean?” he asked. “As follows,” I replied. “Assuming that there is knowledge of knowledge, will it be able to do anything more than make a distinction whereby, of these two, this is knowledge and this is not knowledge?” “No, that is the extent of it.” “Now, are knowledge and lack of knowledge of health, and knowledge and lack of knowledge of",
+"text": "“Perhaps,” said I, “but I am afraid I am still as confused as ever, for I do not understand how knowing what one knows, and knowing what someone does not know, are the same as self-knowledge.”",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Critias",
+"text": "“What do you mean?”",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "he asked. “As follows,” I replied. “Assuming that there is knowledge of knowledge, will it be able to do anything more than make a distinction whereby, of these two, this is knowledge and this is not knowledge?”",
 "kind": "narration"
+},
+{
+"entry": 80,
+"who": "Critias",
+"text": "“No, that is the extent of it.”",
+"kind": "speech"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "“Now, are knowledge and lack of knowledge of health, and knowledge and lack of knowledge of",
+"kind": "speech"
 },
 {
 "entry": 81,
 "who": "Socrates",
-"text": "justice, the same?” “Not at all.” “No. One, I believe, is medicine, the other is statesmanship, while knowledge is nothing other than knowledge.” “How could it not be?” “What if someone were not to have the additional knowledge of health and justice, but recognised knowledge alone? Since he had knowledge of this alone, he would be likely to recognise merely that he has knowledge of something, and that he has some knowledge concerning himself and concerning the others too. Is this so?” “Yes.” “But how will he recognise what he knows by means of this knowledge? For he recognises what",
+"text": "justice, the same?”",
 "kind": "narration"
+},
+{
+"entry": 81,
+"who": "Critias",
+"text": "“Not at all.”",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "“No. One, I believe, is medicine, the other is statesmanship, while knowledge is nothing other than knowledge.”",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Critias",
+"text": "“How could it not be?”",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "“What if someone were not to have the additional knowledge of health and justice, but recognised knowledge alone? Since he had knowledge of this alone, he would be likely to recognise merely that he has knowledge of something, and that he has some knowledge concerning himself and concerning the others too. Is this so?”",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Critias",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "“But how will he recognise what he knows by means of this knowledge? For he recognises what",
+"kind": "speech"
 },
 {
 "entry": 82,
@@ -506,31 +2282,163 @@
 {
 "entry": 83,
 "who": "Socrates",
-"text": "“So being sound-minded would not be this – knowing what one knows and what one does not know – but only, it seems, knowing that one knows and that one does not know.” “Quite likely.” “Nor will this person be able to examine whether someone else who claims to know something, knows or does not know what he claims to know. Rather, it seems, he will only recognise that the man has some knowledge, but sound-mindedness will not enable him to recognise what the knowledge is knowledge of.” “Apparently not.”",
-"kind": "narration"
+"text": "“So being sound-minded would not be this – knowing what one knows and what one does not know – but only, it seems, knowing that one knows and that one does not know.”",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Critias",
+"text": "“Quite likely.”",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "“Nor will this person be able to examine whether someone else who claims to know something, knows or does not know what he claims to know. Rather, it seems, he will only recognise that the man has some knowledge, but sound-mindedness will not enable him to recognise what the knowledge is knowledge of.”",
+"kind": "speech"
+},
+{
+"entry": 83,
+"who": "Critias",
+"text": "“Apparently not.”",
+"kind": "speech"
 },
 {
 "entry": 84,
 "who": "Socrates",
-"text": "“So he will not be able to judge who is pretending to be a physician when he is not, and who is truly so, nor who else is knowledgeable and who is not. Let us consider it as follows: if the soundminded person or anyone else at all is going to recognise who truly is a physician and who is not, there is something he will not do, he will surely not discuss medicine with him, for the physician as we said has knowledge of nothing except health and disease. Isn’t that so?” “Yes, just so.” “And yet he knows nothing about knowledge, since we assigned this to sound-mindedness alone.” “Yes.”",
-"kind": "narration"
+"text": "“So he will not be able to judge who is pretending to be a physician when he is not, and who is truly so, nor who else is knowledgeable and who is not. Let us consider it as follows: if the soundminded person or anyone else at all is going to recognise who truly is a physician and who is not, there is something he will not do, he will surely not discuss medicine with him, for the physician as we said has knowledge of nothing except health and disease. Isn’t that so?”",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Critias",
+"text": "“Yes, just so.”",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "“And yet he knows nothing about knowledge, since we assigned this to sound-mindedness alone.”",
+"kind": "speech"
+},
+{
+"entry": 84,
+"who": "Critias",
+"text": "“Yes.”",
+"kind": "speech"
 },
 {
 "entry": 85,
 "who": "Socrates",
-"text": "“Then the physician knows nothing about medicine, since medicine happens to be knowledge.” “True.” “So the sound-minded person will recognise that the physician has some knowledge, but if it is necessary to apprehend what it is, won’t he need to consider what it is knowledge of? Or isn’t each knowledge defined by this, not only as knowledge, but also as a particular knowledge, by being knowledge of certain things?” “By this. Yes, indeed.” “And medicine, then, is defined as different from other knowledges by being knowledge of health and disease.” “Yes.”",
-"kind": "narration"
+"text": "“Then the physician knows nothing about medicine, since medicine happens to be knowledge.”",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Critias",
+"text": "“True.”",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "“So the sound-minded person will recognise that the physician has some knowledge, but if it is necessary to apprehend what it is, won’t he need to consider what it is knowledge of? Or isn’t each knowledge defined by this, not only as knowledge, but also as a particular knowledge, by being knowledge of certain things?”",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Critias",
+"text": "“By this. Yes, indeed.”",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "“And medicine, then, is defined as different from other knowledges by being knowledge of health and disease.”",
+"kind": "speech"
+},
+{
+"entry": 85,
+"who": "Critias",
+"text": "“Yes.”",
+"kind": "speech"
 },
 {
 "entry": 86,
 "who": "Socrates",
-"text": "“Doesn’t someone who wishes to consider medicine need to consider it in respect of the things it is concerned with, not of course in respect of the things it is not concerned with, that is, in respect of what is external to it?” “Of course not.” “So anyone considering this aright will investigate how the physician is a physician in relation to cases of health and disease.” “So it seems.” “Won’t he do so by considering whether what is said or done in these cases is spoken truly, and done correctly?” “Necessarily.” “Now, would someone without medical knowledge be able to follow up on either of these?” “Not at all.”",
-"kind": "narration"
+"text": "“Doesn’t someone who wishes to consider medicine need to consider it in respect of the things it is concerned with, not of course in respect of the things it is not concerned with, that is, in respect of what is external to it?”",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Critias",
+"text": "“Of course not.”",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "“So anyone considering this aright will investigate how the physician is a physician in relation to cases of health and disease.”",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Critias",
+"text": "“So it seems.”",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "“Won’t he do so by considering whether what is said or done in these cases is spoken truly, and done correctly?”",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Critias",
+"text": "“Necessarily.”",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "“Now, would someone without medical knowledge be able to follow up on either of these?”",
+"kind": "speech"
+},
+{
+"entry": 86,
+"who": "Critias",
+"text": "“Not at all.”",
+"kind": "speech"
 },
 {
 "entry": 87,
 "who": "Socrates",
-"text": "“Then it seems no one else, except the physician, could do so, certainly not the sound-minded man, for in that case, in addition to his sound-mindedness, he would be a physician.” “That is the case.” “So it is all the more evident that if sound-mindedness is knowledge only of knowledge and of lack of knowledge, it will be unable to distinguish between a physician who is knowledgeable in respect of that skill, and one who is not knowledgeable, yet pretends to be such, or thinks he is such, nor anyone else who is knowledgeable in any matter at all, apart from someone with a similar skill to his own, as in the case with other practitioners.” “Apparently so,” he said. “Well then, Critias,” said I, “if sound-mindedness is like this, what benefit might we still derive",
+"text": "“Then it seems no one else, except the physician, could do so, certainly not the sound-minded man, for in that case, in addition to his sound-mindedness, he would be a physician.”",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Critias",
+"text": "“That is the case.”",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "“So it is all the more evident that if sound-mindedness is knowledge only of knowledge and of lack of knowledge, it will be unable to distinguish between a physician who is knowledgeable in respect of that skill, and one who is not knowledgeable, yet pretends to be such, or thinks he is such, nor anyone else who is knowledgeable in any matter at all, apart from someone with a similar skill to his own, as in the case with other practitioners.”",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Critias",
+"text": "“Apparently so,”",
+"kind": "speech"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "he said. “Well then, Critias,” said I, “if sound-mindedness is like this, what benefit might we still derive",
 "kind": "narration"
 },
 {
@@ -548,7 +2456,31 @@
 {
 "entry": 90,
 "who": "Socrates",
-"text": "ascendant, people in this situation necessarily fare nobly and well in everything they do, and those who fare well are blessed. Well, isn’t this how we were speaking about sound-mindedness, Critias, when explaining the extent to which knowing what one knows and does not know would be good?” “Yes, certainly, that is how.” “But now you see,” said I, “that no knowledge anywhere has proved to be like this.” “I see,” he said. “Well, then,” I asked, “does sound-mindedness, which we are now discovering to be knowledge",
+"text": "ascendant, people in this situation necessarily fare nobly and well in everything they do, and those who fare well are blessed. Well, isn’t this how we were speaking about sound-mindedness, Critias, when explaining the extent to which knowing what one knows and does not know would be good?”",
+"kind": "narration"
+},
+{
+"entry": 90,
+"who": "Critias",
+"text": "“Yes, certainly, that is how.”",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "“But now you see,” said I, “that no knowledge anywhere has proved to be like this.”",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Critias",
+"text": "“I see,”",
+"kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "he said. “Well, then,” I asked, “does sound-mindedness, which we are now discovering to be knowledge",
 "kind": "narration"
 },
 {
@@ -560,25 +2492,115 @@
 {
 "entry": 92,
 "who": "Socrates",
-"text": "shall derive from sound-mindedness, or are we looking upon it as something greater, and requiring it to be something greater than it actually is?” “That may very well be the situation,” he replied. “Perhaps,” said I, “and perhaps we investigated nothing useful. My evidence is the fact that if it is like this, some strange things about sound-mindedness are becoming plain to me. Indeed, let us look at it, if you wish, by conceding that it is possible to have knowledge of knowledge, and let us not withdraw what we proposed at the outset, that sound-mindedness is knowing what one knows,",
+"text": "shall derive from sound-mindedness, or are we looking upon it as something greater, and requiring it to be something greater than it actually is?”",
+"kind": "narration"
+},
+{
+"entry": 92,
+"who": "Critias",
+"text": "“That may very well be the situation,”",
+"kind": "speech"
+},
+{
+"entry": 92,
+"who": "Socrates",
+"text": "he replied. “Perhaps,” said I, “and perhaps we investigated nothing useful. My evidence is the fact that if it is like this, some strange things about sound-mindedness are becoming plain to me. Indeed, let us look at it, if you wish, by conceding that it is possible to have knowledge of knowledge, and let us not withdraw what we proposed at the outset, that sound-mindedness is knowing what one knows,",
 "kind": "narration"
 },
 {
 "entry": 93,
 "who": "Socrates",
-"text": "and what one does not know. Let us accept this. And having accepted all this, let us consider, even better, whether it will actually benefit us at all, if it is like this. For I do not think we were right in agreeing just now that sound-mindedness would be a great good when presiding over the management of households and cities, if it were like this.” “How so?” he asked. “Because,” said I, “we agreed quite readily that it would be an enormous good for humanity if each of us were to do what he knows, and were to hand over what he does not know to others who are knowledgeable.” “Well,” said he, “were we not right to agree to this?”",
+"text": "and what one does not know. Let us accept this. And having accepted all this, let us consider, even better, whether it will actually benefit us at all, if it is like this. For I do not think we were right in agreeing just now that sound-mindedness would be a great good when presiding over the management of households and cities, if it were like this.”",
 "kind": "narration"
+},
+{
+"entry": 93,
+"who": "Critias",
+"text": "“How so?”",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Socrates",
+"text": "he asked. “Because,” said I, “we agreed quite readily that it would be an enormous good for humanity if each of us were to do what he knows, and were to hand over what he does not know to others who are knowledgeable.”",
+"kind": "narration"
+},
+{
+"entry": 93,
+"who": "Critias",
+"text": "“Well,”",
+"kind": "speech"
+},
+{
+"entry": 93,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 93,
+"who": "Critias",
+"text": "“were we not right to agree to this?”",
+"kind": "speech"
 },
 {
 "entry": 94,
 "who": "Socrates",
-"text": "“I do not think we were,” said I. “What you are saying is truly strange, Socrates,”said he. “Yes, by the dog,” said I, “that is how it seems to me too. And when I noticed this at the time, and just now, I said that strange things were dawning upon me and that I was afraid that we might not",
+"text": "“I do not think we were,” said I.",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Critias",
+"text": "“What you are saying is truly strange, Socrates,”said",
+"kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "he. “Yes, by the dog,” said I, “that is how it seems to me too. And when I noticed this at the time, and just now, I said that strange things were dawning upon me and that I was afraid that we might not",
 "kind": "narration"
 },
 {
 "entry": 95,
 "who": "Socrates",
-"text": "be considering this aright. For in truth, if sound-mindedness really is like this, it is not at all obvious to me that it produces any good for us.” “How so?” said he. “Speak, so that we too may understand what you mean.” “Although I think I am talking nonsense,” said I, “nevertheless it is necessary at least to consider what is dawning upon us and not pass on aimlessly, if one cares about oneself even a little.” “Yes, well expressed,” said he. “Then hear my dream,” said I, “whether it has come through horn or through ivory. For if soundmindedness, being as we are now defining it, were to rule us as much as possible, everything would",
+"text": "be considering this aright. For in truth, if sound-mindedness really is like this, it is not at all obvious to me that it produces any good for us.”",
+"kind": "narration"
+},
+{
+"entry": 95,
+"who": "Critias",
+"text": "“How so?”",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
+},
+{
+"entry": 95,
+"who": "Critias",
+"text": "“Speak, so that we too may understand what you mean.”",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "“Although I think I am talking nonsense,” said I, “nevertheless it is necessary at least to consider what is dawning upon us and not pass on aimlessly, if one cares about oneself even a little.”",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Critias",
+"text": "“Yes, well expressed,”",
+"kind": "speech"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "said he. “Then hear my dream,” said I, “whether it has come through horn or through ivory. For if soundmindedness, being as we are now defining it, were to rule us as much as possible, everything would",
 "kind": "narration"
 },
 {
@@ -596,50 +2618,278 @@
 {
 "entry": 98,
 "who": "Socrates",
-"text": "would act and live knowledgeably, since sound-mindedness, acting as guardian, would not allow lack of knowledge to creep in and work alongside us. But we are not yet able to understand that by acting knowledgeably, we would act well and would be blessed, my friend, Critias.” “And yet,” said he, “you will not easily find some other end of acting well if you reject acting knowledgeably.” “Well,” said I, “besides this, teach me a little more. ‘Knowledgeably’ of what? Do you mean of shoemaking?”",
+"text": "would act and live knowledgeably, since sound-mindedness, acting as guardian, would not allow lack of knowledge to creep in and work alongside us. But we are not yet able to understand that by acting knowledgeably, we would act well and would be blessed, my friend, Critias.”",
 "kind": "narration"
+},
+{
+"entry": 98,
+"who": "Critias",
+"text": "“And yet,”",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 98,
+"who": "Critias",
+"text": "“you will not easily find some other end of acting well if you reject acting knowledgeably.”",
+"kind": "speech"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "“Well,” said I, “besides this, teach me a little more. ‘Knowledgeably’ of what? Do you mean of shoemaking?”",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Critias",
+"text": "“By Zeus! No!”",
+"kind": "speech"
 },
 {
 "entry": 99,
 "who": "Socrates",
-"text": "“By Zeus! No!” “Of brassworking then?” “Not at all.” “Of wool then, or of wood, or something else of this sort?” “Of course not.” “In that case,” said I, “we are no longer abiding by the statement that someone living knowledgeably is happy. For you do not accept that these people, although they live knowledgeably, are happy. No, you seem to me to define the man who is happy as living knowledgeably in particular respects. And perhaps you are referring to the man I just spoke of, the one who knows all that is",
-"kind": "narration"
+"text": "“Of brassworking then?”",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Critias",
+"text": "“Not at all.”",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Socrates",
+"text": "“Of wool then, or of wood, or something else of this sort?”",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Critias",
+"text": "“Of course not.”",
+"kind": "speech"
+},
+{
+"entry": 99,
+"who": "Socrates",
+"text": "“In that case,” said I, “we are no longer abiding by the statement that someone living knowledgeably is happy. For you do not accept that these people, although they live knowledgeably, are happy. No, you seem to me to define the man who is happy as living knowledgeably in particular respects. And perhaps you are referring to the man I just spoke of, the one who knows all that is",
+"kind": "speech"
 },
 {
 "entry": 100,
 "who": "Socrates",
-"text": "to come, the diviner. Are you referring to this man, or to someone else?” “I am referring,” said he, “both to this man and to someone else.” “To whom?” I asked. “Isn’t it someone like this, someone who, in addition to all that is to come and all that has come to be, might also know all that now is, and might be ignorant of nothing? Let us propose that there is such a man. Indeed, I do not think you would say that anyone alive is more knowledgeable than this.” “Of course not.” “Well, I am longing to know this besides: which of the knowledges makes him happy, or are they all alike in this respect?” “No, they are not at all alike,” he replied.",
+"text": "to come, the diviner. Are you referring to this man, or to someone else?”",
+"kind": "narration"
+},
+{
+"entry": 100,
+"who": "Critias",
+"text": "“I am referring,”",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 100,
+"who": "Critias",
+"text": "“both to this man and to someone else.”",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "“To whom?” I asked.",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Critias",
+"text": "“Isn’t it someone like this, someone who, in addition to all that is to come and all that has come to be, might also know all that now is, and might be ignorant of nothing? Let us propose that there is such a man. Indeed, I do not think you would say that anyone alive is more knowledgeable than this.”",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "“Of course not.” “Well, I am longing to know this besides: which of the knowledges makes him happy, or are they all alike in this respect?”",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Critias",
+"text": "“No, they are not at all alike,”",
+"kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 101,
 "who": "Socrates",
-"text": "“Then what particular sort of knowledge is it? Among things that are, and things that have come to be, and things that will come to be, this is the knowledge by which we know what? Well, is it the knowledge by which I know draughts-playing?” “What? Draughts-playing!” said he. “Is it calculation then?” “Not at all.” “Is it health then?” “More so,” he replied. “The particular knowledge I am referring to is the one by which we know what?” “That by which we know the good and the bad,” said he. “You wretch!” said I. “You have been dragging me around in a circle all the time, concealing the fact that it is not living knowledgeably that makes us do well and be happy, not even knowledge",
+"text": "“Then what particular sort of knowledge is it? Among things that are, and things that have come to be, and things that will come to be, this is the knowledge by which we know what? Well, is it the knowledge by which I know draughts-playing?”",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Critias",
+"text": "“What? Draughts-playing!”",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "said he. “Is it calculation then?”",
+"kind": "narration"
+},
+{
+"entry": 101,
+"who": "Critias",
+"text": "“Not at all.”",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "“Is it health then?”",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Critias",
+"text": "“More so,”",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "he replied. “The particular knowledge I am referring to is the one by which we know what?”",
+"kind": "narration"
+},
+{
+"entry": 101,
+"who": "Critias",
+"text": "“That by which we know the good and the bad,”",
+"kind": "speech"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "said he. “You wretch!” said I. “You have been dragging me around in a circle all the time, concealing the fact that it is not living knowledgeably that makes us do well and be happy, not even knowledge",
 "kind": "narration"
 },
 {
 "entry": 102,
 "who": "Socrates",
-"text": "of all the other knowledges together, but this one knowledge alone, the one concerned with the good and the bad. So, Critias, if you are prepared to take this knowledge away from the other knowledges, will medicine make us healthy any the less, or shoe-making make shoes, or weaving make clothes any the less, or piloting prevent us from dying at sea, or generalship from dying in battle, any the less?” “No less,” said he. “But, friend Critias, in the absence of this knowledge, we lose out on having each of these tasks done well and beneficially.”",
+"text": "of all the other knowledges together, but this one knowledge alone, the one concerned with the good and the bad. So, Critias, if you are prepared to take this knowledge away from the other knowledges, will medicine make us healthy any the less, or shoe-making make shoes, or weaving make clothes any the less, or piloting prevent us from dying at sea, or generalship from dying in battle, any the less?”",
+"kind": "narration"
+},
+{
+"entry": 102,
+"who": "Critias",
+"text": "“No less,”",
+"kind": "speech"
+},
+{
+"entry": 102,
+"who": "Socrates",
+"text": "said he. “But, friend Critias, in the absence of this knowledge, we lose out on having each of these tasks done well and beneficially.”",
 "kind": "narration"
 },
 {
 "entry": 103,
+"who": "Critias",
+"text": "“That is true.”",
+"kind": "speech"
+},
+{
+"entry": 103,
 "who": "Socrates",
-"text": "“That is true.” “And yet this knowledge, it seems, is not sound-mindedness, but a knowledge whose function is to benefit us. For it is not the knowledge of knowledges and their lack, but of good and bad, and so, if this is beneficial, then sound-mindedness would be something else for us.” “But why would this knowledge not be beneficial? For if sound-mindedness really is knowledge of knowledges, it also presides over the other knowledges, and would surely be of",
-"kind": "narration"
+"text": "“And yet this knowledge, it seems, is not sound-mindedness, but a knowledge whose function is to benefit us. For it is not the knowledge of knowledges and their lack, but of good and bad, and so, if this is beneficial, then sound-mindedness would be something else for us.”",
+"kind": "speech"
+},
+{
+"entry": 103,
+"who": "Critias",
+"text": "“But why would this knowledge not be beneficial? For if sound-mindedness really is knowledge of knowledges, it also presides over the other knowledges, and would surely be of",
+"kind": "speech"
 },
 {
 "entry": 104,
 "who": "Socrates",
-"text": "benefit to us by ruling over this knowledge concerning the good.” “And would this knowledge make us healthy,” said I, “and would medicine not do so? And would this perform the other functions belonging to the other skills, and would each of them not perform its own function? Or didn’t we affirm some time ago that it is the knowledge of knowledges and of lack of knowledge alone, and of nothing else? Isn’t this so?” “Yes, apparently.” “Then it will not be an artificer of health, will it?” “Of course not.” “For health belonged to a different skill, didn’t it?”",
+"text": "benefit to us by ruling over this knowledge concerning the good.” “And would this knowledge make us healthy,” said I, “and would medicine not do so? And would this perform the other functions belonging to the other skills, and would each of them not perform its own function? Or didn’t we affirm some time ago that it is the knowledge of knowledges and of lack of knowledge alone, and of nothing else? Isn’t this so?”",
 "kind": "narration"
+},
+{
+"entry": 104,
+"who": "Critias",
+"text": "“Yes, apparently.”",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "“Then it will not be an artificer of health, will it?”",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Critias",
+"text": "“Of course not.”",
+"kind": "speech"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "“For health belonged to a different skill, didn’t it?”",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Critias",
+"text": "“To a different one, yes.”",
+"kind": "speech"
 },
 {
 "entry": 105,
 "who": "Socrates",
-"text": "“To a different one, yes.” “Nor is it an artificer of benefit, my friend, for again we assigned this function to another skill just now, didn’t we?” “Yes, certainly.” “How then will sound-mindedness be beneficial when it is not the artificer of a single benefit?” “It is not beneficial at all, Socrates, so it seems at least.” “Do you see, Critias, that I had good reason for my fears a while ago, and that I was justified in accusing myself of not considering anything useful in relation to sound-mindedness? For presumably, what is agreed to be the noblest thing of all would not have appeared to be devoid of benefit",
-"kind": "narration"
+"text": "“Nor is it an artificer of benefit, my friend, for again we assigned this function to another skill just now, didn’t we?”",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Critias",
+"text": "“Yes, certainly.”",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Socrates",
+"text": "“How then will sound-mindedness be beneficial when it is not the artificer of a single benefit?”",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Critias",
+"text": "“It is not beneficial at all, Socrates, so it seems at least.”",
+"kind": "speech"
+},
+{
+"entry": 105,
+"who": "Socrates",
+"text": "“Do you see, Critias, that I had good reason for my fears a while ago, and that I was justified in accusing myself of not considering anything useful in relation to sound-mindedness? For presumably, what is agreed to be the noblest thing of all would not have appeared to be devoid of benefit",
+"kind": "speech"
 },
 {
 "entry": 106,
@@ -662,25 +2912,145 @@
 {
 "entry": 109,
 "who": "Socrates",
-"text": "possess it, you are fortunate. But see if you do possess it and have no need of the incantation. For if you possess it, I should advise you rather to presume that I am a babbler, unable to investigate any argument whatsoever, while you yourself, being more sound-minded, are also happier to that extent.” And Charmides said, “By Zeus, Socrates, I do not know whether I possess this or not.",
+"text": "possess it, you are fortunate. But see if you do possess it and have no need of the incantation. For if you possess it, I should advise you rather to presume that I am a babbler, unable to investigate any argument whatsoever, while you yourself, being more sound-minded, are also happier to that extent.” And Charmides said,",
 "kind": "narration"
+},
+{
+"entry": 109,
+"who": "Charmides",
+"text": "“By Zeus, Socrates, I do not know whether I possess this or not.",
+"kind": "speech"
 },
 {
 "entry": 110,
 "who": "Socrates",
-"text": "Indeed, how could I know when you say the two of you are unable to discover what precisely it is? However, I am not entirely persuaded by you, Socrates, and I think I myself am much in need of the incantation, and for my own part there is no reason why I should not hear the incantation from you, day after day, until you say I have had enough.” “So be it,” said Critias, “but Charmides, if you do this it will prove, at least to me, that you are sound-minded if you submit to Socrates to hear the incantation, and are not found wanting in this to any extent whatsoever.”",
+"text": "Indeed, how could I know when you say the two of you are unable to discover what precisely it is? However, I am not entirely persuaded by you, Socrates, and I think I myself am much in need of the incantation, and for my own part there is no reason why I should not hear the incantation from you, day after day, until you say I have had enough.”",
 "kind": "narration"
+},
+{
+"entry": 110,
+"who": "Critias",
+"text": "“So be it,”",
+"kind": "speech"
+},
+{
+"entry": 110,
+"who": "Socrates",
+"text": "said Critias,",
+"kind": "narration"
+},
+{
+"entry": 110,
+"who": "Critias",
+"text": "“but Charmides, if you do this it will prove, at least to me, that you are sound-minded if you submit to Socrates to hear the incantation, and are not found wanting in this to any extent whatsoever.”",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Charmides",
+"text": "“You may presume that I shall follow him,”",
+"kind": "speech"
 },
 {
 "entry": 111,
 "who": "Socrates",
-"text": "“You may presume that I shall follow him,” he said, “and not be found wanting. For I would be acting terribly if I were to disregard you, my guardian, and not do what you told me to do.” “Well, then,” said Critias, “I am telling you to do so.” “Then I shall do so,” he said, “beginning this very day.” “What are you two planning to do?” I asked. “Nothing,” said Charmides, “we have done our planning.” “So are you going to use force and not grant me a preliminary hearing?” I asked. “You may presume that I shall use force since this man here has ordered me to. You, for your part, should plan what you will do in response to this.”",
+"text": "he said,",
 "kind": "narration"
+},
+{
+"entry": 111,
+"who": "Charmides",
+"text": "“and not be found wanting. For I would be acting terribly if I were to disregard you, my guardian, and not do what you told me to do.”",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Critias",
+"text": "“Well, then,”",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "said Critias,",
+"kind": "narration"
+},
+{
+"entry": 111,
+"who": "Critias",
+"text": "“I am telling you to do so.”",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Charmides",
+"text": "“Then I shall do so,”",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 111,
+"who": "Charmides",
+"text": "“beginning this very day.”",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "“What are you two planning to do?” I asked.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Charmides",
+"text": "“Nothing,”",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "said Charmides,",
+"kind": "narration"
+},
+{
+"entry": 111,
+"who": "Charmides",
+"text": "“we have done our planning.”",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "“So are you going to use force and not grant me a preliminary hearing?” I asked.",
+"kind": "speech"
+},
+{
+"entry": 111,
+"who": "Charmides",
+"text": "“You may presume that I shall use force since this man here has ordered me to. You, for your part, should plan what you will do in response to this.”",
+"kind": "speech"
 },
 {
 "entry": 112,
 "who": "Socrates",
-"text": "“But that leaves no room for any plan at all,” said I, “for when the two of you undertake a course of action and do so by force, there is no man alive who will be able to oppose you.” “Then you should not oppose us either,” said he. “Then,” said I, “I shall not oppose you.”",
+"text": "“But that leaves no room for any plan at all,” said I, “for when the two of you undertake a course of action and do so by force, there is no man alive who will be able to oppose you.”",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Charmides",
+"text": "“Then you should not oppose us either,”",
+"kind": "speech"
+},
+{
+"entry": 112,
+"who": "Socrates",
+"text": "said he. “Then,” said I, “I shall not oppose you.”",
 "kind": "narration"
 }
 ]

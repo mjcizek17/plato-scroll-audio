@@ -33,8 +33,11 @@
   "key": "chrm",
   "title": "Charmides",
   "parts": 1,
-  "chars": 61307,
+  "chars": 60912,
   "speakers": [
+   "Chaerephon",
+   "Charmides",
+   "Critias",
    "Socrates"
   ]
  },
@@ -105,9 +108,13 @@
   "key": "euthy",
   "title": "Euthydemus",
   "parts": 1,
-  "chars": 47184,
+  "chars": 47014,
   "speakers": [
+   "Clinias",
    "Crito",
+   "Ctesippus",
+   "Dionysodorus",
+   "Euthydemus",
    "Socrates"
   ]
  },
@@ -195,7 +202,7 @@
   "key": "lysis",
   "title": "Lysis",
   "parts": 1,
-  "chars": 52585,
+  "chars": 52486,
   "speakers": [
    "Ctesippus",
    "Hippothales",
@@ -240,8 +247,9 @@
   "key": "parm",
   "title": "Parmenides",
   "parts": 1,
-  "chars": 111058,
+  "chars": 111046,
   "speakers": [
+   "Adimantus",
    "Aristoteles",
    "Cephalus",
    "Parmenides",
@@ -253,7 +261,7 @@
   "key": "phae",
   "title": "Phaedo",
   "parts": 1,
-  "chars": 161895,
+  "chars": 161891,
   "speakers": [
    "Cebes",
    "Crito",
@@ -262,6 +270,7 @@
    "Poisoner",
    "Simmias",
    "Socrates",
+   "Unnamed Listener",
    "Warder",
    "Xanthippe"
   ]
@@ -291,9 +300,17 @@
   "key": "prot",
   "title": "Protagoras",
   "parts": 1,
-  "chars": 133258,
+  "chars": 133084,
   "speakers": [
+   "Alcibiades",
+   "Callias",
    "Companion",
+   "Critias",
+   "Doorkeeper",
+   "Hippias",
+   "Hippocrates",
+   "Prodicus",
+   "Protagoras",
    "Socrates"
   ]
  },
@@ -301,10 +318,17 @@
   "key": "rep",
   "title": "Republic",
   "parts": 10,
-  "chars": 711873,
+  "chars": 707326,
   "speakers": [
+   "Adimantus",
+   "Cephalus",
+   "Clitophon",
+   "Glaucon",
    "Narrator",
-   "Socrates"
+   "Polemarchus",
+   "Socrates",
+   "Thrasymachus",
+   "Unnamed Slave"
   ]
  },
  {
@@ -335,7 +359,7 @@
   "key": "symp",
   "title": "Symposium",
   "parts": 1,
-  "chars": 131881,
+  "chars": 131879,
   "speakers": [
    "Agathon",
    "Alcibiades",
@@ -347,7 +371,8 @@
    "Eryximachus",
    "Pausanias",
    "Phaedrus",
-   "Socrates"
+   "Socrates",
+   "Unnamed Slave"
   ]
  },
  {

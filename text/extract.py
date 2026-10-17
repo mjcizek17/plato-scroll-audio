@@ -4,6 +4,8 @@ BOOKS_DIR holds <key>.js as shipped in the app (assets/books/). Writes OUT_DIR/<
 {key, title, parts: [{name, lines: [{entry, who, text, kind}]}]} where kind is heading|speech|narration.
 Republic and Laws are split into one part per book at their HDR entries."""
 import json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from quotes import segments
 
 SPEAKERS = {  # Plato Scroll's global table (core/app.js getSpeakerName)
     "S": "Socrates", "A": "Alcibiades", "M": "Meletus", "L": "Clitophon", "H": "Hermogenes", "C": "Cratylus",
@@ -22,6 +24,11 @@ SPEAKERS = {  # Plato Scroll's global table (core/app.js getSpeakerName)
 NARRATOR = {"rep": "Socrates", "chrm": "Socrates", "prot": "Socrates", "euthy": "Socrates", "lysis": "Socrates",
             "phae": "Phaedo", "symp": "Apollodorus", "parm": "Cephalus", "epist": "Plato"}
 HEADINGS = {"HDR", "EH"}
+# Speaker of each quotation inside narration, per work: {entry: [speaker per quotation]} (text/attrib/KEY.json)
+ATTRIB_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "attrib")
+ATTRIB = {f[:-5]: json.load(open(os.path.join(ATTRIB_DIR, f), encoding="utf-8"))
+          for f in (os.listdir(ATTRIB_DIR) if os.path.isdir(ATTRIB_DIR) else []) if f.endswith(".json")}
+QUOTE_SPLIT = {"lysis": "Socrates"}
 SUP = re.compile(r"[¹²³⁰-⁹]+")
 
 
@@ -68,7 +75,32 @@ def main(books, manifest, out):
                 who, kind = NARRATOR.get(key, "Narrator"), "narration"
             else:
                 who, kind = local.get(sp) or SPEAKERS.get(sp, sp), "speech"
-            cur["lines"].append({"entry": i, "who": who, "text": text, "kind": kind})
+            if key in ATTRIB and kind == "narration":
+                labels, q = ATTRIB[key].get(str(i), []), 0
+                for k2, seg in segments(text):
+                    if k2 == "quote" and q < len(labels):
+                        cur["lines"].append({"entry": i, "who": labels[q], "text": seg, "kind": "speech"}); q += 1
+                    else:
+                        cur["lines"].append({"entry": i, "who": who, "text": seg, "kind": "narration"})
+            elif key in QUOTE_SPLIT and kind == "speech":
+                # Narrated works laid out by speaker (Lysis): tags outside the quotes are the narrator's.
+                segs = segments(text)
+                if any(k2 == "quote" for k2, _ in segs):
+                    for k2, seg in segs:
+                        cur["lines"].append({"entry": i, "who": who if k2 == "quote" else QUOTE_SPLIT[key],
+                                             "text": seg, "kind": "speech" if k2 == "quote" else "narration"})
+                else:
+                    cur["lines"].append({"entry": i, "who": who, "text": text, "kind": kind})
+            else:
+                cur["lines"].append({"entry": i, "who": who, "text": text, "kind": kind})
+        for p in parts:  # one take for consecutive pieces of one entry by the same voice
+            merged = []
+            for l in p["lines"]:
+                if merged and merged[-1]["entry"] == l["entry"] and merged[-1]["who"] == l["who"] and l["kind"] != "heading":
+                    merged[-1]["text"] += " " + l["text"]
+                else:
+                    merged.append(l)
+            p["lines"] = merged
         doc = {"key": key, "title": tx.get("title", key), "parts": parts}
         json.dump(doc, open(os.path.join(out, f"{key}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
         chars = sum(len(l["text"]) for p in parts for l in p["lines"])

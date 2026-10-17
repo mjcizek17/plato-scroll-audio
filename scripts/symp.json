@@ -176,7 +176,19 @@
 {
 "entry": 28,
 "who": "Apollodorus",
-"text": "Aristodemus told me that one boy washed his feet so that he could recline, while another boy arrived and announced, “This fellow Socrates has withdrawn into the neighbour’s porch and is standing there.” Despite the slave’s request he did not want to come in.",
+"text": "Aristodemus told me that one boy washed his feet so that he could recline, while another boy arrived and announced,",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Unnamed Slave",
+"text": "“This fellow Socrates has withdrawn into the neighbour’s porch and is standing there.”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Apollodorus",
+"text": "Despite the slave’s request he did not want to come in.",
 "kind": "narration"
 },
 {

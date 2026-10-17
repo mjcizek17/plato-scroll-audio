@@ -74,32 +74,176 @@
 {
 "entry": 11,
 "who": "Socrates",
-"text": "Well, I greeted them both warmly as it was some time since I had seen them, and then I said to Clinias that Euthydemus and Dionysodorus knew everything there is to know about warfare, whatever anyone who is to be a good general needs to know, and that they are also able to make someone capable of coming to his own aid in court, should someone do him an injustice. Now, when I said this they were contemptuous. So they laughed, exchanged glances, and Euthydemus said, “We no longer take these matters seriously, Socrates. No, we treat them as diversions.” I was amazed and I said, “Your work must surely be noble if such weighty concerns as these are mere diversions for you. By god, tell me what this noble concern is.” “Excellence, Socrates,” he replied, “is what we believe we are able to impart better and more quickly than anyone else.”",
+"text": "Well, I greeted them both warmly as it was some time since I had seen them, and then I said to Clinias that Euthydemus and Dionysodorus knew everything there is to know about warfare, whatever anyone who is to be a good general needs to know, and that they are also able to make someone capable of coming to his own aid in court, should someone do him an injustice. Now, when I said this they were contemptuous. So they laughed, exchanged glances, and Euthydemus said,",
 "kind": "narration"
+},
+{
+"entry": 11,
+"who": "Euthydemus",
+"text": "“We no longer take these matters seriously, Socrates. No, we treat them as diversions.”",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "I was amazed and I said, “Your work must surely be noble if such weighty concerns as these are mere diversions for you. By god, tell me what this noble concern is.”",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Euthydemus",
+"text": "“Excellence, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "he replied,",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Euthydemus",
+"text": "“is what we believe we are able to impart better and more quickly than anyone else.”",
+"kind": "speech"
 },
 {
 "entry": 12,
 "who": "Socrates",
-"text": "“By Zeus,” I said, “you are making quite a declaration. Where did you discover this godsend? But, Dionysodorus and Euthydemus, make sure you are speaking the truth. For when you are making such an enormous proclamation, don’t be surprised if it is disbelieved.” “Well, Socrates, you may rest assured that this is how matters stand.” “Then I account you far more blessed for this possession than the Great King for his empire. But tell me this. Are you thinking of giving a demonstration of this wisdom, or what do you intend?” “That’s the very reason we are here, Socrates, to give a demonstration and to teach, if anyone wishes to learn.”",
-"kind": "narration"
+"text": "“By Zeus,” I said, “you are making quite a declaration. Where did you discover this godsend? But, Dionysodorus and Euthydemus, make sure you are speaking the truth. For when you are making such an enormous proclamation, don’t be surprised if it is disbelieved.”",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Dionysodorus",
+"text": "“Well, Socrates, you may rest assured that this is how matters stand.”",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "“Then I account you far more blessed for this possession than the Great King for his empire. But tell me this. Are you thinking of giving a demonstration of this wisdom, or what do you intend?”",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Euthydemus",
+"text": "“That’s the very reason we are here, Socrates, to give a demonstration and to teach, if anyone wishes to learn.”",
+"kind": "speech"
 },
 {
 "entry": 13,
 "who": "Socrates",
-"text": "I asked them then to demonstrate – not a comprehensive one, but to convince this young man here, Clinias, that he should practise philosophy and concern himself with excellence, and I described the boy’s situation: the son of Axiochus, first cousin of the present Alcibiades, young and at risk of being turned to some other pursuit. Now, once I had said almost exactly this, Euthydemus responded in a manner both courageous and confident. “That makes no difference, Socrates,” he said, “as long as the young man is willing to answer.” “Well,” I replied, “he certainly is well accustomed to this, for these people here are constantly coming to him, asking him lots of questions and engaging him in discourse, and so he is quite courageous at answering.”",
+"text": "I asked them then to demonstrate – not a comprehensive one, but to convince this young man here, Clinias, that he should practise philosophy and concern himself with excellence, and I described the boy’s situation: the son of Axiochus, first cousin of the present Alcibiades, young and at risk of being turned to some other pursuit. Now, once I had said almost exactly this, Euthydemus responded in a manner both courageous and confident.",
 "kind": "narration"
+},
+{
+"entry": 13,
+"who": "Euthydemus",
+"text": "“That makes no difference, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Euthydemus",
+"text": "“as long as the young man is willing to answer.”",
+"kind": "speech"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "“Well,” I replied, “he certainly is well accustomed to this, for these people here are constantly coming to him, asking him lots of questions and engaging him in discourse, and so he is quite courageous at answering.”",
+"kind": "speech"
 },
 {
 "entry": 14,
 "who": "Socrates",
-"text": "So Euthydemus began somewhat as follows. “Clinias, who are the people who learn? Are they the wise or the unlearned?” And the young man, faced with such a significant question, blushed and looked at me in perplexity. And once I realised that he had been upset, I said, “Take heart, Clinias. Answer courageously, giving whatever answer seems right to you, for this may well confer an enormous benefit upon you.” At this, Dionysodorus leaned forward and whispered that whatever answer the young man gives, he will be refuted. And Clinias answered that those who learn are the wise. Then Euthydemus led him through a series of steps: when you were learning, you did not yet know the things you were learning? Then you were not wise, but unlearned? “Then whilst you were learning what you did not know, you were learning whilst being unlearned – it is the unlearned who learn, Clinias, and not, as you believe, the wise.” Now, once he had said all this, his followers laughed and cheered like a chorus at a signal from their teacher.",
+"text": "So Euthydemus began somewhat as follows.",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Euthydemus",
+"text": "“Clinias, who are the people who learn? Are they the wise or the unlearned?”",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "And the young man, faced with such a significant question, blushed and looked at me in perplexity. And once I realised that he had been upset, I said, “Take heart, Clinias. Answer courageously, giving whatever answer seems right to you, for this may well confer an enormous benefit upon you.” At this, Dionysodorus leaned forward and whispered that whatever answer the young man gives, he will be refuted. And Clinias answered that those who learn are the wise. Then Euthydemus led him through a series of steps: when you were learning, you did not yet know the things you were learning? Then you were not wise, but unlearned?",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Euthydemus",
+"text": "“Then whilst you were learning what you did not know, you were learning whilst being unlearned – it is the unlearned who learn, Clinias, and not, as you believe, the wise.”",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "Now, once he had said all this, his followers laughed and cheered like a chorus at a signal from their teacher.",
 "kind": "narration"
 },
 {
 "entry": 15,
 "who": "Socrates",
-"text": "And before the youth had well and truly recovered, Dionysodorus took over. “What about this, Clinias? Whenever the grammarian gave dictation to you, which boys learned the dictation, the wise or the unlearned?” “The wise,” replied Clinias. “So it is the wise who learn, not the unlearned, and you didn’t answer Euthydemus properly just now.” With this, the admirers of the two men laughed and cheered loudly in delight at their wisdom, while the rest of us were stunned and fell silent. And Euthydemus, in order to astound us even more, like one of those good dancers, gave a double twist to his questions on the same topic and asked, “Now, do those who learn, learn what they know or what they do not know?” And Dionysodorus whispered again, “And this, Socrates, will be another one, similar to the previous one.”",
+"text": "And before the youth had well and truly recovered, Dionysodorus took over.",
 "kind": "narration"
+},
+{
+"entry": 15,
+"who": "Dionysodorus",
+"text": "“What about this, Clinias? Whenever the grammarian gave dictation to you, which boys learned the dictation, the wise or the unlearned?”",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Clinias",
+"text": "“The wise,”",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "replied Clinias.",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Dionysodorus",
+"text": "“So it is the wise who learn, not the unlearned, and you didn’t answer Euthydemus properly just now.”",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "With this, the admirers of the two men laughed and cheered loudly in delight at their wisdom, while the rest of us were stunned and fell silent. And Euthydemus, in order to astound us even more, like one of those good dancers, gave a double twist to his questions on the same topic and asked,",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Euthydemus",
+"text": "“Now, do those who learn, learn what they know or what they do not know?”",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "And Dionysodorus whispered again,",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Dionysodorus",
+"text": "“And this, Socrates, will be another one, similar to the previous one.”",
+"kind": "speech"
 },
 {
 "entry": 16,
@@ -116,8 +260,26 @@
 {
 "entry": 18,
 "who": "Socrates",
-"text": "So I said, “Does every one of us wish to do well? Or is this question one of those that will provoke the laughter I was afraid of a moment ago? Yes, it is surely ridiculous even to ask such questions, for what man is there who does not wish to do well?” And Clinias agreed. “So be it. The next question is, since we wish to do well, how may we do well? Would it be by possessing much that is good? Come then, all things considered, what sort of things are good for us? Being wealthy, and being healthy too, and being handsome and endowed with the other bodily features?” He thought so too. “Then again, noble birth, power and esteem in your own city are obviously good.” He agreed. “And what about being sound-minded and just and courageous – are these good?” “They are good,” said Clinias. “And where shall we situate wisdom? With the good?” “With the good.”",
+"text": "So I said, “Does every one of us wish to do well? Or is this question one of those that will provoke the laughter I was afraid of a moment ago? Yes, it is surely ridiculous even to ask such questions, for what man is there who does not wish to do well?” And Clinias agreed. “So be it. The next question is, since we wish to do well, how may we do well? Would it be by possessing much that is good? Come then, all things considered, what sort of things are good for us? Being wealthy, and being healthy too, and being handsome and endowed with the other bodily features?” He thought so too. “Then again, noble birth, power and esteem in your own city are obviously good.” He agreed. “And what about being sound-minded and just and courageous – are these good?”",
 "kind": "narration"
+},
+{
+"entry": 18,
+"who": "Clinias",
+"text": "“They are good,”",
+"kind": "speech"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "said Clinias. “And where shall we situate wisdom? With the good?”",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Clinias",
+"text": "“With the good.”",
+"kind": "speech"
 },
 {
 "entry": 19,
@@ -128,43 +290,379 @@
 {
 "entry": 20,
 "who": "Socrates",
-"text": "I then took up the argument about using good things correctly. If we had a lot of food but did not eat, we would not be benefited. If each of the craftsmen had all the equipment appropriate to his own work but did not make use of it, they would not do well because of the acquisition alone. “So it seems that someone who is going to be happy must not merely acquire such goods as these, but must also make use of them, or else no benefit arises from their acquisition.” Clinias agreed. “If he uses them correctly or if he does not?” “If he uses them correctly.” And was it knowledge that guided the right usage of everything – wealth, health, beauty? “It was knowledge,” said he. “So, in the case of any acquisition or any activity, knowledge not only provides people with good fortune, but also it ensures they do well.”",
+"text": "I then took up the argument about using good things correctly. If we had a lot of food but did not eat, we would not be benefited. If each of the craftsmen had all the equipment appropriate to his own work but did not make use of it, they would not do well because of the acquisition alone. “So it seems that someone who is going to be happy must not merely acquire such goods as these, but must also make use of them, or else no benefit arises from their acquisition.” Clinias agreed. “If he uses them correctly or if he does not?”",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Clinias",
+"text": "“If he uses them correctly.”",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "And was it knowledge that guided the right usage of everything – wealth, health, beauty?",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Clinias",
+"text": "“It was knowledge,”",
+"kind": "speech"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "said he. “So, in the case of any acquisition or any activity, knowledge not only provides people with good fortune, but also it ensures they do well.”",
 "kind": "narration"
 },
 {
 "entry": 21,
 "who": "Socrates",
-"text": "I pressed on: would a person derive more benefit if he acquired a lot and did a lot without possessing intelligence, or if he acquired little and did little, while possessing intelligence? If he did less, wouldn’t he make fewer errors, and wouldn’t he be less wretched? “Entirely so.” Who is inclined to do less – someone rich or poor? “Someone poor.” Someone strong or weak? “Someone weak.” Someone courageous and sound-minded or a coward? “A coward.” And a lazy person, someone slow, dull of sight and hearing? We agreed with one another on all such examples. “To sum up, Clinias, in the case of everything we initially declared to be good, the argument is not about how they are naturally good just by themselves. If ignorance rules, then they are more bad than their opposites; but if understanding and wisdom rule, they are more good, yet just by themselves neither of them is of any value.”",
+"text": "I pressed on: would a person derive more benefit if he acquired a lot and did a lot without possessing intelligence, or if he acquired little and did little, while possessing intelligence? If he did less, wouldn’t he make fewer errors, and wouldn’t he be less wretched?",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Clinias",
+"text": "“Entirely so.”",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "Who is inclined to do less – someone rich or poor?",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Clinias",
+"text": "“Someone poor.”",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "Someone strong or weak?",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Clinias",
+"text": "“Someone weak.”",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "Someone courageous and sound-minded or a coward?",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Clinias",
+"text": "“A coward.”",
+"kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "And a lazy person, someone slow, dull of sight and hearing? We agreed with one another on all such examples. “To sum up, Clinias, in the case of everything we initially declared to be good, the argument is not about how they are naturally good just by themselves. If ignorance rules, then they are more bad than their opposites; but if understanding and wisdom rule, they are more good, yet just by themselves neither of them is of any value.”",
 "kind": "narration"
 },
 {
 "entry": 22,
 "who": "Socrates",
-"text": "I concluded: “Since we are all eager to be happy, and since it turns out that we become like this through using things, and using them correctly, and since knowledge provides the correctness and good fortune, then every man should, it seems, contrive by every possible means to become as wise as possible. And surely if someone believes he should acquire this from his father, from his guardians too, and from his other friends, begging and imploring them to grant him wisdom is no disgrace, Clinias. Nor is there cause for indignation in being a servant or slave to a lover or any person for the sake of this, in being willing to render any noble services out of his eagerness to become wise.” “I really think you have spoken rather well,” said he.",
+"text": "I concluded: “Since we are all eager to be happy, and since it turns out that we become like this through using things, and using them correctly, and since knowledge provides the correctness and good fortune, then every man should, it seems, contrive by every possible means to become as wise as possible. And surely if someone believes he should acquire this from his father, from his guardians too, and from his other friends, begging and imploring them to grant him wisdom is no disgrace, Clinias. Nor is there cause for indignation in being a servant or slave to a lover or any person for the sake of this, in being willing to render any noble services out of his eagerness to become wise.”",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Clinias",
+"text": "“I really think you have spoken rather well,”",
+"kind": "speech"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "said he.",
 "kind": "narration"
 },
 {
 "entry": 23,
 "who": "Socrates",
-"text": "I was delighted that Clinias agreed wisdom can be taught and I said, “Best of men, it is good that you say so, and you have done well, by saving me from a lengthy consideration of this very question, whether wisdom can or cannot be taught. So now, since you think both that it can be taught, and that it is the only thing there is that makes a person happy and fortunate, would you say anything else is needed, apart from the practice of philosophy? And is this what you yourself intend to do?” “Yes certainly, Socrates,” he replied, “to the best of my ability.” I was pleased to hear this, and I said, “Dionysodorus and Euthydemus, this is my own example – perhaps amateurish, laborious and a bit too long – of what I want an exhortatory argument to be like. Now, one of you, whoever wishes, should give a demonstration of the same thing, done skilfully. For it is of great importance to us that this youth become wise and good.”",
+"text": "I was delighted that Clinias agreed wisdom can be taught and I said, “Best of men, it is good that you say so, and you have done well, by saving me from a lengthy consideration of this very question, whether wisdom can or cannot be taught. So now, since you think both that it can be taught, and that it is the only thing there is that makes a person happy and fortunate, would you say anything else is needed, apart from the practice of philosophy? And is this what you yourself intend to do?”",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Clinias",
+"text": "“Yes certainly, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "he replied,",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Clinias",
+"text": "“to the best of my ability.”",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "I was pleased to hear this, and I said, “Dionysodorus and Euthydemus, this is my own example – perhaps amateurish, laborious and a bit too long – of what I want an exhortatory argument to be like. Now, one of you, whoever wishes, should give a demonstration of the same thing, done skilfully. For it is of great importance to us that this youth become wise and good.”",
 "kind": "narration"
 },
 {
 "entry": 24,
 "who": "Socrates",
-"text": "Now, Crito, that is what I said, and I paid very close attention to what was to happen next. Dionysodorus, the elder of the two, was first to set about the argument. “Tell me, Socrates,” said he, “and you others who say you want this youth to become wise. Are you joking when you say this, or are you serious, and do you truly want this?” So, with this in mind, I emphasised that we were extremely serious. And Dionysodorus said, “Well, think about this, Socrates, in case you end up denying what you are now saying.” “I have thought about it,” said I, “and I shall never end up denying it.” “Well then,” said he, “are you saying that you want him to become wise?” “Yes, we certainly are.” “And at the moment, is Clinias wise or not?” “He is not boastful,” said I, “and he does not yet make this claim.” “But,” said he, “you want him to become what he is not, and no longer be what he now is.”",
+"text": "Now, Crito, that is what I said, and I paid very close attention to what was to happen next. Dionysodorus, the elder of the two, was first to set about the argument.",
 "kind": "narration"
+},
+{
+"entry": 24,
+"who": "Dionysodorus",
+"text": "“Tell me, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Dionysodorus",
+"text": "“and you others who say you want this youth to become wise. Are you joking when you say this, or are you serious, and do you truly want this?”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "So, with this in mind, I emphasised that we were extremely serious. And Dionysodorus said,",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Dionysodorus",
+"text": "“Well, think about this, Socrates, in case you end up denying what you are now saying.”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "“I have thought about it,” said I, “and I shall never end up denying it.”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Dionysodorus",
+"text": "“Well then,”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Dionysodorus",
+"text": "“are you saying that you want him to become wise?”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "“Yes, we certainly are.”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Dionysodorus",
+"text": "“And at the moment, is Clinias wise or not?”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "“He is not boastful,” said I, “and he does not yet make this claim.”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Dionysodorus",
+"text": "“But,”",
+"kind": "speech"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Dionysodorus",
+"text": "“you want him to become what he is not, and no longer be what he now is.”",
+"kind": "speech"
 },
 {
 "entry": 25,
 "who": "Socrates",
-"text": "When I heard this I was confused, and he seized upon my confused state and said, “Since you want him no longer to be what he now is, it seems you just want him to be dead. Yes, friends and lovers like these would be worth a lot, friends who would do anything to destroy their favourite.” When Ctesippus heard this, he was angry on behalf of his favourite and said, “Stranger from Thurii, if it were not such a crude expression, I would say ‘be it on your head’ for presuming to hold such a false notion of myself and the others, and one which in my view it is most unholy to express, that I would like this fellow to be utterly destroyed.” “What’s this, Ctesippus?” said Euthydemus. “Do you think it is possible to speak falsely?” “Yes, by Zeus,” he replied. “I would be mad not to.”",
+"text": "When I heard this I was confused, and he seized upon my confused state and said,",
 "kind": "narration"
+},
+{
+"entry": 25,
+"who": "Dionysodorus",
+"text": "“Since you want him no longer to be what he now is, it seems you just want him to be dead. Yes, friends and lovers like these would be worth a lot, friends who would do anything to destroy their favourite.”",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "When Ctesippus heard this, he was angry on behalf of his favourite and said,",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Ctesippus",
+"text": "“Stranger from Thurii, if it were not such a crude expression, I would say ‘be it on your head’ for presuming to hold such a false notion of myself and the others, and one which in my view it is most unholy to express, that I would like this fellow to be utterly destroyed.”",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Euthydemus",
+"text": "“What’s this, Ctesippus?”",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "said Euthydemus.",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Euthydemus",
+"text": "“Do you think it is possible to speak falsely?”",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Ctesippus",
+"text": "“Yes, by Zeus,”",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Ctesippus",
+"text": "“I would be mad not to.”",
+"kind": "speech"
 },
 {
 "entry": 26,
 "who": "Socrates",
-"text": "Euthydemus then trapped Ctesippus: when one is speaking of a matter, does he not speak of something that is? And what he speaks of is one of the things that are? So if Dionysodorus is speaking of things that are, he is speaking the truth and is saying nothing false about you. Ctesippus retorted that Dionysodorus was speaking of things that are, but not as they actually are. “What do you mean?” said Dionysodorus. “Are there some people who speak of things as they are?” “There are, indeed,” he replied, “the noble and good, and those who speak the truth.” “What about this? What’s good is well disposed, and what’s bad badly so. Is this the case?” He concurred. “And you agree that the noble and good people speak of things as they are.” “I agree.” “So good people speak badly of anything bad, Ctesippus,” he said, “if they actually speak of it as it is?” This led to banter about speaking ‘greatly’ of the great and ‘warmly’ of the warm, and Dionysodorus accusing Ctesippus of being ‘abusive’.",
+"text": "Euthydemus then trapped Ctesippus: when one is speaking of a matter, does he not speak of something that is? And what he speaks of is one of the things that are? So if Dionysodorus is speaking of things that are, he is speaking the truth and is saying nothing false about you. Ctesippus retorted that Dionysodorus was speaking of things that are, but not as they actually are.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Dionysodorus",
+"text": "“What do you mean?”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "said Dionysodorus.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Dionysodorus",
+"text": "“Are there some people who speak of things as they are?”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Ctesippus",
+"text": "“There are, indeed,”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "he replied,",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Ctesippus",
+"text": "“the noble and good, and those who speak the truth.”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Dionysodorus",
+"text": "“What about this? What’s good is well disposed, and what’s bad badly so. Is this the case?”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "He concurred.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Dionysodorus",
+"text": "“And you agree that the noble and good people speak of things as they are.”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Ctesippus",
+"text": "“I agree.”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Dionysodorus",
+"text": "“So good people speak badly of anything bad, Ctesippus,”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Dionysodorus",
+"text": "“if they actually speak of it as it is?”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "This led to banter about speaking ‘greatly’ of the great and ‘warmly’ of the warm, and Dionysodorus accusing Ctesippus of being ‘abusive’.",
 "kind": "narration"
 },
 {
@@ -176,32 +674,146 @@
 {
 "entry": 28,
 "who": "Socrates",
-"text": "Then the argument shifted to whether contradiction is possible. Dionysodorus said one could not even prove that one person had ever contradicted another. Ctesippus said he was hearing himself, Ctesippus, contradicting Dionysodorus right now. Dionysodorus pressed: are there accounts of each of the things that are? And do they not give an account of each as it is? But if both speakers give an account of the same thing, they say the same things – they don’t contradict. If neither speaks of the thing, neither mentions it. And if I speak of the thing but you speak of something else, then I’m speaking of it while you are not – but how could someone who does not speak of it contradict someone who does? Ctesippus fell silent, while I was amazed at the argument and said it always seemed to me to simply say there is no false speaking, and to ask whether there is false thinking. “There is no false thinking either,” he replied. “So there is no ignorance either, nor any ignorant people?”",
+"text": "Then the argument shifted to whether contradiction is possible. Dionysodorus said one could not even prove that one person had ever contradicted another. Ctesippus said he was hearing himself, Ctesippus, contradicting Dionysodorus right now. Dionysodorus pressed: are there accounts of each of the things that are? And do they not give an account of each as it is? But if both speakers give an account of the same thing, they say the same things – they don’t contradict. If neither speaks of the thing, neither mentions it. And if I speak of the thing but you speak of something else, then I’m speaking of it while you are not – but how could someone who does not speak of it contradict someone who does? Ctesippus fell silent, while I was amazed at the argument and said it always seemed to me to simply say there is no false speaking, and to ask whether there is false thinking.",
 "kind": "narration"
+},
+{
+"entry": 28,
+"who": "Dionysodorus",
+"text": "“There is no false thinking either,”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Dionysodorus",
+"text": "“So there is no ignorance either, nor any ignorant people?”",
+"kind": "speech"
 },
 {
 "entry": 29,
 "who": "Socrates",
-"text": "I asked directly: “Dionysodorus, are you presenting this argument for the sake of discussion, in order to say something unusual, or do you think in truth that there is no such thing as an ignorant person?” “You should try to refute me,” said he. “And based upon your argument, is there refutation when no one speaks falsely?” “There is not,” said Euthydemus. “Then Dionysodorus did not encourage me to refute him just now?” said I. “Indeed, how could someone encourage what is not?” I pressed on: if it is impossible to be in error either when acting, speaking or thinking, what have the two of you come here to teach? Or did you not claim earlier that you are the best people to impart excellence to someone who wishes to learn it? Dionysodorus dismissed this as old Cronus-talk, reminding me of what was said last year and refusing to deal with what was being said at the moment.",
+"text": "I asked directly: “Dionysodorus, are you presenting this argument for the sake of discussion, in order to say something unusual, or do you think in truth that there is no such thing as an ignorant person?”",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Dionysodorus",
+"text": "“You should try to refute me,”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Dionysodorus",
+"text": "“And based upon your argument, is there refutation when no one speaks falsely?”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Euthydemus",
+"text": "“There is not,”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "said Euthydemus. “Then Dionysodorus did not encourage me to refute him just now?” said I. “Indeed, how could someone encourage what is not?” I pressed on: if it is impossible to be in error either when acting, speaking or thinking, what have the two of you come here to teach? Or did you not claim earlier that you are the best people to impart excellence to someone who wishes to learn it? Dionysodorus dismissed this as old Cronus-talk, reminding me of what was said last year and refusing to deal with what was being said at the moment.",
 "kind": "narration"
 },
 {
 "entry": 30,
 "who": "Socrates",
-"text": "After much back-and-forth, in which Euthydemus tried to trap me into saying I know by my soul and I always know, I resolved to get back to the exhortatory purpose and said, “Clinias, you should remind me where we left off. As I recall it was around the stage where we agreed, in the end, that one should practise philosophy.” “Yes,” he replied. “And philosophy is the acquisition of knowledge. Isn’t this the case?” “Yes.” “Now, would it be of any benefit to us if, as we went about, we knew how to recognise where most gold is buried beneath the earth?” “Probably,” he replied. “But we refuted this suggestion earlier,” said I, “because we would be no better off even if all the earth’s gold were to be ours without any trouble, or any need to dig. And so even if we knew how to turn stones into gold, the knowledge would be of no value, for if we did not also know how to use the gold, there turned out to be no benefit in it. Don’t you remember?” “Entirely so,” he replied.",
+"text": "After much back-and-forth, in which Euthydemus tried to trap me into saying I know by my soul and I always know, I resolved to get back to the exhortatory purpose and said, “Clinias, you should remind me where we left off. As I recall it was around the stage where we agreed, in the end, that one should practise philosophy.”",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Clinias",
+"text": "“Yes,”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "he replied. “And philosophy is the acquisition of knowledge. Isn’t this the case?”",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Clinias",
+"text": "“Yes.”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "“Now, would it be of any benefit to us if, as we went about, we knew how to recognise where most gold is buried beneath the earth?”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Clinias",
+"text": "“Probably,”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "he replied. “But we refuted this suggestion earlier,” said I, “because we would be no better off even if all the earth’s gold were to be ours without any trouble, or any need to dig. And so even if we knew how to turn stones into gold, the knowledge would be of no value, for if we did not also know how to use the gold, there turned out to be no benefit in it. Don’t you remember?”",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Clinias",
+"text": "“Entirely so,”",
+"kind": "speech"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "he replied.",
 "kind": "narration"
 },
 {
 "entry": 31,
 "who": "Socrates",
-"text": "So what is needed is a knowledge in which the production, and knowing how to use what is produced, reside together. We do not need to be lyre makers, for the productive skill is one thing while the user’s skill is another. The same holds for flute-making. I asked about the speech-writer’s skill, and Clinias objected: “I notice that some speechwriters do not know how to deliver their own speeches, the ones they have composed, just as the lyre makers are unable to play the lyres – the skill of producing speeches is distinct from the skill of using them.” I thought that you are giving sufficient evidence that the skill of the speech-makers is not the one whose acquisition would result in happiness. Indeed, this skill is a portion of the enchanters’ skill, but a little inferior thereto. For the skill of the enchanters consists in charming snakes and wild creatures generally, while the speech-makers’ skill involves charming and persuading jurors, assembly members, and large gatherings in general.",
+"text": "So what is needed is a knowledge in which the production, and knowing how to use what is produced, reside together. We do not need to be lyre makers, for the productive skill is one thing while the user’s skill is another. The same holds for flute-making. I asked about the speech-writer’s skill, and Clinias objected:",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Clinias",
+"text": "“I notice that some speechwriters do not know how to deliver their own speeches, the ones they have composed, just as the lyre makers are unable to play the lyres – the skill of producing speeches is distinct from the skill of using them.”",
+"kind": "speech"
+},
+{
+"entry": 31,
+"who": "Socrates",
+"text": "I thought that you are giving sufficient evidence that the skill of the speech-makers is not the one whose acquisition would result in happiness. Indeed, this skill is a portion of the enchanters’ skill, but a little inferior thereto. For the skill of the enchanters consists in charming snakes and wild creatures generally, while the speech-makers’ skill involves charming and persuading jurors, assembly members, and large gatherings in general.",
 "kind": "narration"
 },
 {
 "entry": 32,
 "who": "Socrates",
-"text": "I suggested the skill of the general next, but Clinias said, “This is, in a sense, a skill in hunting down human beings. Nothing in the actual skill of hunting goes any further than hunting down and subduing, and whenever hunters subdue whatever they are hunting, they are not able to make use of it. Instead the hunters hand it over to the cooks. The same goes for geometers, astronomers and calculators, since they too are hunters. They do not produce their own diagrams; instead, they make discoveries. And since they themselves do not know how to make use of them, but only how to hunt them down, they hand over, of course, to the dialecticians. And the same goes for the generals: whenever they capture some city or army, they hand it over to the statesmen. So if we need a particular skill which also knows how to make use of that which it acquires, then we must search for something else rather than the skill of the general.”",
+"text": "I suggested the skill of the general next, but Clinias said,",
 "kind": "narration"
+},
+{
+"entry": 32,
+"who": "Clinias",
+"text": "“This is, in a sense, a skill in hunting down human beings. Nothing in the actual skill of hunting goes any further than hunting down and subduing, and whenever hunters subdue whatever they are hunting, they are not able to make use of it. Instead the hunters hand it over to the cooks. The same goes for geometers, astronomers and calculators, since they too are hunters. They do not produce their own diagrams; instead, they make discoveries. And since they themselves do not know how to make use of them, but only how to hunt them down, they hand over, of course, to the dialecticians. And the same goes for the generals: whenever they capture some city or army, they hand it over to the statesmen. So if we need a particular skill which also knows how to make use of that which it acquires, then we must search for something else rather than the skill of the general.”",
+"kind": "speech"
 },
 {
 "entry": 33,
@@ -338,56 +950,434 @@
 {
 "entry": 55,
 "who": "Socrates",
-"text": "By Zeus,” said I, “what a wonder you are describing. Great good has come to light. But surely all the rest of the people don’t know either everything or nothing?” “Well, presumably,” said he, “it is not the case that they know some things while not knowing others. Everyone knows everything, if they actually know even one thing.” And under questioning by Ctesippus they did accept that they knew everything, case by case. There was nothing that Ctesippus did not ask them, no matter how base it was. Yet the two men met his questions most valiantly, just like boars that are driven towards an onslaught. As a result, I myself was compelled in the end to ask, incredulously, if Dionysodorus knew how to dance, and he replied, “Certainly.” “I do not suppose that at your age, you have attained such advanced wisdom that you can also somersault over swords, and be spun about on a wheel, have you?” “There is nothing I cannot do,” he replied. “And when you were children, even at the moment you were born, did you know everything?” They both said yes, simultaneously.",
+"text": "By Zeus,” said I, “what a wonder you are describing. Great good has come to light. But surely all the rest of the people don’t know either everything or nothing?”",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Euthydemus",
+"text": "“Well, presumably,”",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Euthydemus",
+"text": "“it is not the case that they know some things while not knowing others. Everyone knows everything, if they actually know even one thing.”",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "And under questioning by Ctesippus they did accept that they knew everything, case by case. There was nothing that Ctesippus did not ask them, no matter how base it was. Yet the two men met his questions most valiantly, just like boars that are driven towards an onslaught. As a result, I myself was compelled in the end to ask, incredulously, if Dionysodorus knew how to dance, and he replied,",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Dionysodorus",
+"text": "“Certainly.”",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "“I do not suppose that at your age, you have attained such advanced wisdom that you can also somersault over swords, and be spun about on a wheel, have you?”",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Dionysodorus",
+"text": "“There is nothing I cannot do,”",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Ctesippus",
+"text": "“And when you were children, even at the moment you were born, did you know everything?”",
+"kind": "speech"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "They both said yes, simultaneously.",
 "kind": "narration"
 },
 {
 "entry": 56,
 "who": "Socrates",
-"text": "Euthydemus wanted to prove I accept these amazing propositions too. He asked if I know what I know by means of something. “By the soul.” He pressed: do you always know by this same means? Always? Do you know some things by means of this and others by means of something else, or do you know all things by this? “I know all things by this,” I replied, “whatever I know at any rate.” Through careful stripping of qualifications like ‘whatever I know’ and ‘whenever I know’, he got me to say simply “Always” and “All things.” Then he announced: “Now, you have also accepted that you always know by means of that whereby you know. So it is obvious that you knew as a child, even when you were being born, even when you were being conceived. Even before you yourself were born, even before heaven and earth came into being, you knew all things, since you always know. And indeed, by Zeus, you yourself always will know, and will know all things, if it so pleases me.”",
+"text": "Euthydemus wanted to prove I accept these amazing propositions too. He asked if I know what I know by means of something. “By the soul.” He pressed: do you always know by this same means? Always? Do you know some things by means of this and others by means of something else, or do you know all things by this? “I know all things by this,” I replied, “whatever I know at any rate.” Through careful stripping of qualifications like ‘whatever I know’ and ‘whenever I know’, he got me to say simply “Always” and “All things.” Then he announced:",
 "kind": "narration"
+},
+{
+"entry": 56,
+"who": "Euthydemus",
+"text": "“Now, you have also accepted that you always know by means of that whereby you know. So it is obvious that you knew as a child, even when you were being born, even when you were being conceived. Even before you yourself were born, even before heaven and earth came into being, you knew all things, since you always know. And indeed, by Zeus, you yourself always will know, and will know all things, if it so pleases me.”",
+"kind": "speech"
 },
 {
 "entry": 57,
 "who": "Socrates",
-"text": "I asked him to tell me how I may say that I know such things as that good men are unjust. “You know, indeed,” he replied. “What?” said I. “That good men are not unjust.” “Yes, I’ve always known that,” said I. “But I am asking where I learned that the good people are unjust.” “Nowhere,” replied Dionysodorus. “Then I do not know this,” said I. “You are ruining the argument,” said Euthydemus to Dionysodorus, “and this fellow will turn out not to have known this, and to be knowledgeable and not knowledgeable at the same time.” Dionysodorus blushed. And I said, “I am certainly inferior to Heracles, who was not able to do battle with the hydra, a sophistical creature so clever that if someone cut off one head of the argument, she sent forth many more in its place. He could not do battle with her and with some other sophistical crab recently emerged from the sea, who so pained Heracles by talking and biting from his left-hand side that he called for the help of his nephew, Iolaus. But if my Iolaus were to arrive, he would just make matters worse.”",
+"text": "I asked him to tell me how I may say that I know such things as that good men are unjust.",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Euthydemus",
+"text": "“You know, indeed,”",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "he replied. “What?” said I.",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Euthydemus",
+"text": "“That good men are not unjust.”",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "“Yes, I’ve always known that,” said I. “But I am asking where I learned that the good people are unjust.”",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Dionysodorus",
+"text": "“Nowhere,”",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "replied Dionysodorus. “Then I do not know this,” said I.",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Euthydemus",
+"text": "“You are ruining the argument,”",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "said Euthydemus to Dionysodorus,",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Euthydemus",
+"text": "“and this fellow will turn out not to have known this, and to be knowledgeable and not knowledgeable at the same time.”",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "Dionysodorus blushed. And I said, “I am certainly inferior to Heracles, who was not able to do battle with the hydra, a sophistical creature so clever that if someone cut off one head of the argument, she sent forth many more in its place. He could not do battle with her and with some other sophistical crab recently emerged from the sea, who so pained Heracles by talking and biting from his left-hand side that he called for the help of his nephew, Iolaus. But if my Iolaus were to arrive, he would just make matters worse.”",
 "kind": "narration"
 },
 {
 "entry": 58,
 "who": "Socrates",
-"text": "Then Dionysodorus pursued a new line: “Was Iolaus any more the nephew of Heracles than yours?” Through careful steps he had me admit that Patrocles is my brother, then established that their father Chaeredemus was a father while being other than mine, and since being other than a father means not being a father, that Sophroniscus likewise, being other than Chaeredemus, is not a father. “And so you, Socrates, are fatherless,” said Euthydemus. Then Ctesippus took up the argument: is Euthydemus’ father, being other than my father, the same? “The same, indeed.” “But, Euthydemus, is he my father only, or is he the father of everyone else too?” “Of everyone else too. Or do you think the same man, being a father, is not a father?” This extended to their mother being the mother of sea urchins, and themselves being brothers to gudgeons, puppies and piglets.",
+"text": "Then Dionysodorus pursued a new line:",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Dionysodorus",
+"text": "“Was Iolaus any more the nephew of Heracles than yours?”",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "Through careful steps he had me admit that Patrocles is my brother, then established that their father Chaeredemus was a father while being other than mine, and since being other than a father means not being a father, that Sophroniscus likewise, being other than Chaeredemus, is not a father.",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Euthydemus",
+"text": "“And so you, Socrates, are fatherless,”",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "said Euthydemus. Then Ctesippus took up the argument: is Euthydemus’ father, being other than my father, the same?",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Euthydemus",
+"text": "“The same, indeed.”",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Ctesippus",
+"text": "“But, Euthydemus, is he my father only, or is he the father of everyone else too?”",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Euthydemus",
+"text": "“Of everyone else too. Or do you think the same man, being a father, is not a father?”",
+"kind": "speech"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "This extended to their mother being the mother of sea urchins, and themselves being brothers to gudgeons, puppies and piglets.",
 "kind": "narration"
 },
 {
 "entry": 59,
 "who": "Socrates",
-"text": "Then Dionysodorus asked whether Ctesippus has a dog. “Yes, a very nasty one.” Does he have puppies? “Yes, and they are very like himself.” “So the dog is their father?” “Yes, I saw him covering the bitch myself.” “Well now, isn’t the dog yours? In that case, he is a father and he is yours, and so he turns out to be your father, and you turn out to be the brother of puppies.” Then Dionysodorus quickly interrupted: “Answer this little question for me. Do you beat this dog?” Ctesippus laughed and said, “Yes, by the gods, since I can’t do it to you.” “Aren’t you beating your own father then?”",
+"text": "Then Dionysodorus asked whether Ctesippus has a dog.",
 "kind": "narration"
+},
+{
+"entry": 59,
+"who": "Ctesippus",
+"text": "“Yes, a very nasty one.”",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "Does he have puppies?",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Ctesippus",
+"text": "“Yes, and they are very like himself.”",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Dionysodorus",
+"text": "“So the dog is their father?”",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Ctesippus",
+"text": "“Yes, I saw him covering the bitch myself.”",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Dionysodorus",
+"text": "“Well now, isn’t the dog yours? In that case, he is a father and he is yours, and so he turns out to be your father, and you turn out to be the brother of puppies.”",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "Then Dionysodorus quickly interrupted:",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Dionysodorus",
+"text": "“Answer this little question for me. Do you beat this dog?”",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "Ctesippus laughed and said,",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Ctesippus",
+"text": "“Yes, by the gods, since I can’t do it to you.”",
+"kind": "speech"
+},
+{
+"entry": 59,
+"who": "Dionysodorus",
+"text": "“Aren’t you beating your own father then?”",
+"kind": "speech"
 },
 {
 "entry": 60,
 "who": "Socrates",
-"text": "Euthydemus asked whether it is a benefit for a sick person to drink medicine when he needs to, and whether in battle it is better to go wearing armour. Ctesippus agreed. “Indeed, since you accept that it is a benefit for a man to drink medicine when necessary, shouldn’t he simply drink this beneficial substance as much as possible? And in that case, would it be an advantage if someone were to grind and blend a wagon-load of hellebore for him?” Ctesippus replied, “Very much so, Euthydemus, particularly if the man who drinks it is the size of the big statue at Delphi.” And in battle, since it is a benefit to wear armour, should we carry as many spears and shields as possible? Ctesippus quipped whether they would arm Geryon and Briareus in this way.",
+"text": "Euthydemus asked whether it is a benefit for a sick person to drink medicine when he needs to, and whether in battle it is better to go wearing armour. Ctesippus agreed.",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Euthydemus",
+"text": "“Indeed, since you accept that it is a benefit for a man to drink medicine when necessary, shouldn’t he simply drink this beneficial substance as much as possible? And in that case, would it be an advantage if someone were to grind and blend a wagon-load of hellebore for him?”",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "Ctesippus replied,",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Ctesippus",
+"text": "“Very much so, Euthydemus, particularly if the man who drinks it is the size of the big statue at Delphi.”",
+"kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "And in battle, since it is a benefit to wear armour, should we carry as many spears and shields as possible? Ctesippus quipped whether they would arm Geryon and Briareus in this way.",
 "kind": "narration"
 },
 {
 "entry": 61,
 "who": "Socrates",
-"text": "Then Dionysodorus asked whether it is a benefit to possess gold and to have benefits at all times and in all places. And should gold be especially in ourselves? “Would a person be supremely blessed if he were to have three talents of gold in his stomach, a talent in his skull, and a stater of gold in each eye?” Ctesippus retorted that the most blessed of the Scythians, and their very best men, are the ones who have a lot of gold in their own skulls, and that they drink from their own gilded skulls. Then Euthydemus produced another ambiguity: the Scythians and others see what is ‘capable of vision’ – which is ambiguous between ‘capable of seeing’ and ‘capable of being seen’ – and so our cloaks, being capable of being seen, are ‘capable of vision’. And do our cloaks see nothing? “To me, Euthydemus,” said Ctesippus, “you seem to have fallen asleep, without being asleep, and if it is possible to speak yet say nothing, that is just what you are doing.”",
+"text": "Then Dionysodorus asked whether it is a benefit to possess gold and to have benefits at all times and in all places. And should gold be especially in ourselves?",
 "kind": "narration"
+},
+{
+"entry": 61,
+"who": "Dionysodorus",
+"text": "“Would a person be supremely blessed if he were to have three talents of gold in his stomach, a talent in his skull, and a stater of gold in each eye?”",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "Ctesippus retorted that the most blessed of the Scythians, and their very best men, are the ones who have a lot of gold in their own skulls, and that they drink from their own gilded skulls. Then Euthydemus produced another ambiguity: the Scythians and others see what is ‘capable of vision’ – which is ambiguous between ‘capable of seeing’ and ‘capable of being seen’ – and so our cloaks, being capable of being seen, are ‘capable of vision’. And do our cloaks see nothing?",
+"kind": "narration"
+},
+{
+"entry": 61,
+"who": "Ctesippus",
+"text": "“To me, Euthydemus,”",
+"kind": "speech"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "said Ctesippus,",
+"kind": "narration"
+},
+{
+"entry": 61,
+"who": "Ctesippus",
+"text": "“you seem to have fallen asleep, without being asleep, and if it is possible to speak yet say nothing, that is just what you are doing.”",
+"kind": "speech"
 },
 {
 "entry": 62,
 "who": "Socrates",
-"text": "The discussion moved to whether a speaking of what is silent is possible, and a silence of speaking. Euthydemus asked: when you are silent, are you silent in relation to all things? “I am.” Aren’t you also silent in relation to whatever speaks, if this is included in all things? And since the different is not silent, do all things speak? Dionysodorus jumped in with “Neither and both – yes, I know quite well that you will not be able to deal with this answer.” And Ctesippus, in his usual way, broke into very loud laughter and said, “Euthydemus, your brother has led the argument into a contradiction, and he has perished and been defeated.” Now, Clinias was extremely pleased, and he laughed, with the result that Ctesippus grew in stature tenfold.",
+"text": "The discussion moved to whether a speaking of what is silent is possible, and a silence of speaking. Euthydemus asked: when you are silent, are you silent in relation to all things?",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Ctesippus",
+"text": "“I am.”",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "Aren’t you also silent in relation to whatever speaks, if this is included in all things? And since the different is not silent, do all things speak? Dionysodorus jumped in with",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Dionysodorus",
+"text": "“Neither and both – yes, I know quite well that you will not be able to deal with this answer.”",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "And Ctesippus, in his usual way, broke into very loud laughter and said,",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Ctesippus",
+"text": "“Euthydemus, your brother has led the argument into a contradiction, and he has perished and been defeated.”",
+"kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "Now, Clinias was extremely pleased, and he laughed, with the result that Ctesippus grew in stature tenfold.",
 "kind": "narration"
 },
 {
 "entry": 63,
 "who": "Socrates",
-"text": "And I said, “Clinias, why are you laughing at matters that are so serious and beautiful?” “Well, Socrates,” said Dionysodorus, “have you ever yet seen a beautiful matter?” “Yes, I have, Dionysodorus, lots of them.” “So are they different from the beautiful, or the same as the beautiful?” And I became utterly perplexed, but I said they were different from the beautiful, although some beauty is present with each of them. “So, if an ox is present with you, you are an ox, and because I am present with you now, you are Dionysodorus?” “What a thing to say,” said I. “But what way could the different be different, just because difference is present with difference?” I asked if the beautiful is not beautiful and the base not base? “If it seems so to me.” “And indeed the two of you seem to me to bring the process of dialectic to fruition, just like craftsmen who bring their appropriate work to fruition.”",
+"text": "And I said, “Clinias, why are you laughing at matters that are so serious and beautiful?”",
 "kind": "narration"
+},
+{
+"entry": 63,
+"who": "Dionysodorus",
+"text": "“Well, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "said Dionysodorus,",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Dionysodorus",
+"text": "“have you ever yet seen a beautiful matter?”",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "“Yes, I have, Dionysodorus, lots of them.”",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Dionysodorus",
+"text": "“So are they different from the beautiful, or the same as the beautiful?”",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "And I became utterly perplexed, but I said they were different from the beautiful, although some beauty is present with each of them.",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Dionysodorus",
+"text": "“So, if an ox is present with you, you are an ox, and because I am present with you now, you are Dionysodorus?”",
+"kind": "speech"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "“What a thing to say,” said I. “But what way could the different be different, just because difference is present with difference?” I asked if the beautiful is not beautiful and the base not base? “If it seems so to me.” “And indeed the two of you seem to me to bring the process of dialectic to fruition, just like craftsmen who bring their appropriate work to fruition.”",
+"kind": "speech"
 },
 {
 "entry": 64,
@@ -398,8 +1388,38 @@
 {
 "entry": 65,
 "who": "Socrates",
-"text": "Well, Crito, while I lay there speechless, as though I had been felled by the argument, Ctesippus came to my aid saying, “Bravo Heracles, what a good argument.” And Dionysodorus asked, “Is Heracles a bravo, or a bravo Heracles?” And Ctesippus responded, “By Poseidon, what formidable arguments. I give up. The two men are invincible.”",
+"text": "Well, Crito, while I lay there speechless, as though I had been felled by the argument, Ctesippus came to my aid saying,",
 "kind": "narration"
+},
+{
+"entry": 65,
+"who": "Ctesippus",
+"text": "“Bravo Heracles, what a good argument.”",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "And Dionysodorus asked,",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Dionysodorus",
+"text": "“Is Heracles a bravo, or a bravo Heracles?”",
+"kind": "speech"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "And Ctesippus responded,",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Ctesippus",
+"text": "“By Poseidon, what formidable arguments. I give up. The two men are invincible.”",
+"kind": "speech"
 },
 {
 "entry": 66,

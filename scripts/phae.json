@@ -2605,8 +2605,14 @@
 },
 {
 "entry": 433,
+"who": "Simmias",
+"text": "“We accept some and reject others,”",
+"kind": "speech"
+},
+{
+"entry": 433,
 "who": "Phaedo",
-"text": "“We accept some and reject others,” they replied.",
+"text": "they replied.",
 "kind": "narration"
 },
 {
@@ -3205,8 +3211,14 @@
 },
 {
 "entry": 533,
+"who": "Simmias",
+"text": "“What you are saying is completely true,”",
+"kind": "speech"
+},
+{
+"entry": 533,
 "who": "Phaedo",
-"text": "“What you are saying is completely true,” said Simmias and Cebes together.",
+"text": "said Simmias and Cebes together.",
 "kind": "narration"
 },
 {
@@ -3313,9 +3325,9 @@
 },
 {
 "entry": 551,
-"who": "Phaedo",
+"who": "Unnamed Listener",
 "text": "“By the gods, in our earlier discussions, did we not agree the very opposite of what we are now saying? Did we not say that the greater arises from the lesser and the lesser from the greater, and in short, the actual generation of opposites is from opposites? But now I think we are saying that this would never happen.”",
-"kind": "narration"
+"kind": "speech"
 },
 {
 "entry": 552,
@@ -4184,7 +4196,19 @@
 {
 "entry": 696,
 "who": "Phaedo",
-"text": "And when we had heard this we felt ashamed and refrained from weeping. He walked around until he said that his legs were becoming heavy, then he lay flat on his back as the man had instructed, and this man who had administered the poison began examining him, and when some time had passed he probed his feet and legs and then he pinched his foot hard and asked if he could feel it. He said, “No.” And after this the man felt his shin once more, and working upwards in this way he showed us that he was going cold and stiff. And again, he touched him and said that when it reached the heart, he would then be gone.",
+"text": "And when we had heard this we felt ashamed and refrained from weeping. He walked around until he said that his legs were becoming heavy, then he lay flat on his back as the man had instructed, and this man who had administered the poison began examining him, and when some time had passed he probed his feet and legs and then he pinched his foot hard and asked if he could feel it. He said,",
+"kind": "narration"
+},
+{
+"entry": 696,
+"who": "Socrates",
+"text": "“No.”",
+"kind": "speech"
+},
+{
+"entry": 696,
+"who": "Phaedo",
+"text": "And after this the man felt his shin once more, and working upwards in this way he showed us that he was going cold and stiff. And again, he touched him and said that when it reached the heart, he would then be gone.",
 "kind": "narration"
 },
 {

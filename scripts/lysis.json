@@ -26,7 +26,19 @@
 {
 "entry": 3,
 "who": "Hippothales",
-"text": "“Come here,” he said, “directly to us. Will you not join us? It will be well worth your while.”",
+"text": "“Come here,”",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Hippothales",
+"text": "“directly to us. Will you not join us? It will be well worth your while.”",
 "kind": "speech"
 },
 {
@@ -38,7 +50,19 @@
 {
 "entry": 5,
 "who": "Hippothales",
-"text": "“Here,” he replied, showing me an enclosure of sorts with its door open, just opposite the wall. “Here is where we spend our time, ourselves and others, a great many others, handsome too.”",
+"text": "“Here,”",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "Socrates",
+"text": "he replied, showing me an enclosure of sorts with its door open, just opposite the wall.",
+"kind": "narration"
+},
+{
+"entry": 5,
+"who": "Hippothales",
+"text": "“Here is where we spend our time, ourselves and others, a great many others, handsome too.”",
 "kind": "speech"
 },
 {
@@ -50,7 +74,19 @@
 {
 "entry": 7,
 "who": "Hippothales",
-"text": "“It is a wrestling school,” he replied, “newly built. But we spend our time for the most part in discussions, and we would be most pleased to include you in them.”",
+"text": "“It is a wrestling school,”",
+"kind": "speech"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "he replied,",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Hippothales",
+"text": "“newly built. But we spend our time for the most part in discussions, and we would be most pleased to include you in them.”",
 "kind": "speech"
 },
 {
@@ -62,7 +98,19 @@
 {
 "entry": 9,
 "who": "Hippothales",
-"text": "“A friend of yours,” said he, “and an admirer, Miccus.”",
+"text": "“A friend of yours,”",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Hippothales",
+"text": "“and an admirer, Miccus.”",
 "kind": "speech"
 },
 {
@@ -74,7 +122,19 @@
 {
 "entry": 11,
 "who": "Hippothales",
-"text": "“So, would you like to follow us,” he said, “and see for yourself who is here?”",
+"text": "“So, would you like to follow us,”",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Hippothales",
+"text": "“and see for yourself who is here?”",
 "kind": "speech"
 },
 {
@@ -99,7 +159,7 @@
 "entry": 15,
 "who": "Socrates",
 "text": "When he was asked this question, he blushed, and I said, “Son of Hieronymus, Hippothales, there is no need to say whether you are in love with someone or not, for I know that you are not only in love but also that you are already proceeding far along love’s path. I myself am, for the most part, quite ordinary and useless, but somehow or other, God has given me the ability to recognise quickly a lover and a beloved.”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 16,
@@ -122,7 +182,19 @@
 {
 "entry": 19,
 "who": "Ctesippus",
-"text": "“Yes,” he replied, “he does not use his own name very much. He is still named after his father, because his father is so very well known. But I know full well that you will not fail to recognise the boy’s appearance. Yes, he is sufficiently recognisable from his appearance alone.”",
+"text": "“Yes,”",
+"kind": "speech"
+},
+{
+"entry": 19,
+"who": "Socrates",
+"text": "he replied,",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Ctesippus",
+"text": "“he does not use his own name very much. He is still named after his father, because his father is so very well known. But I know full well that you will not fail to recognise the boy’s appearance. Yes, he is sufficiently recognisable from his appearance alone.”",
 "kind": "speech"
 },
 {
@@ -134,8 +206,14 @@
 {
 "entry": 21,
 "who": "Ctesippus",
-"text": "“He is the eldest son of Democrates of Aexone,” he replied.",
+"text": "“He is the eldest son of Democrates of Aexone,”",
 "kind": "speech"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 22,
@@ -146,7 +224,19 @@
 {
 "entry": 23,
 "who": "Hippothales",
-"text": "“Socrates,” said he, “do you attach any significance to anything this fellow is saying?”",
+"text": "“Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Hippothales",
+"text": "“do you attach any significance to anything this fellow is saying?”",
 "kind": "speech"
 },
 {
@@ -158,38 +248,86 @@
 {
 "entry": 25,
 "who": "Hippothales",
-"text": "“I do not,” he replied, “but I deny composing poems for my favourite, and prose works too.”",
+"text": "“I do not,”",
+"kind": "speech"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "he replied,",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Hippothales",
+"text": "“but I deny composing poems for my favourite, and prose works too.”",
 "kind": "speech"
 },
 {
 "entry": 26,
 "who": "Ctesippus",
-"text": "“The man is not well,” said Ctesippus. “No, he is raving, and quite mad.”",
+"text": "“The man is not well,”",
+"kind": "speech"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "said Ctesippus.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Ctesippus",
+"text": "“No, he is raving, and quite mad.”",
 "kind": "speech"
 },
 {
 "entry": 27,
 "who": "Socrates",
 "text": "And I said, “Hippothales, I am not asking to hear any of the verses, or any ode you may have composed to the young man, but I do want to hear what your thinking is, so that I may know how you behave towards your favourite.”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 28,
 "who": "Hippothales",
-"text": "“Surely this fellow here will tell you,” said he, “since he knows and remembers in such detail, if indeed, as he claims, he is deaf listening to me.”",
+"text": "“Surely this fellow here will tell you,”",
+"kind": "speech"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Hippothales",
+"text": "“since he knows and remembers in such detail, if indeed, as he claims, he is deaf listening to me.”",
 "kind": "speech"
 },
 {
 "entry": 29,
 "who": "Ctesippus",
-"text": "“By the gods,” said Ctesippus, “I certainly am, and what he says is actually ridiculous, Socrates. Indeed, how can a lover avoid being ridiculous when he is so preoccupied with his favourite he has nothing of his own to say that even a child would not say? So, what he puts into verse and prose is whatever the whole city celebrates about Democrates, and Lysis, the boy’s grandfather, and about all his ancestors – their wealth, the horses they bred, and their victories, in the Pythian, Nemean, and Isthmian games, with four-horse chariots or single horses, and stories still more ancient than these. Indeed, the other day, in some poem or other, he recounted a connection with Heracles and how an ancestor of theirs entertained Heracles as a guest because they were related, the ancestor himself being the offspring of Zeus and the daughter of the founder of their deme. What the man says and sings, and forces us to listen to, are the stories of old women, Socrates, and there are many more like these.”",
+"text": "“By the gods,”",
+"kind": "speech"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "said Ctesippus,",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Ctesippus",
+"text": "“I certainly am, and what he says is actually ridiculous, Socrates. Indeed, how can a lover avoid being ridiculous when he is so preoccupied with his favourite he has nothing of his own to say that even a child would not say? So, what he puts into verse and prose is whatever the whole city celebrates about Democrates, and Lysis, the boy’s grandfather, and about all his ancestors – their wealth, the horses they bred, and their victories, in the Pythian, Nemean, and Isthmian games, with four-horse chariots or single horses, and stories still more ancient than these. Indeed, the other day, in some poem or other, he recounted a connection with Heracles and how an ancestor of theirs entertained Heracles as a guest because they were related, the ancestor himself being the offspring of Zeus and the daughter of the founder of their deme. What the man says and sings, and forces us to listen to, are the stories of old women, Socrates, and there are many more like these.”",
 "kind": "speech"
 },
 {
 "entry": 30,
 "who": "Socrates",
 "text": "And when I heard this I said, “You are ridiculous, Hippothales! Are you composing a victory ode to yourself before you have won the victory?”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 31,
@@ -206,8 +344,14 @@
 {
 "entry": 33,
 "who": "Hippothales",
-"text": "“So, what is going on?” he asked.",
+"text": "“So, what is going on?”",
 "kind": "speech"
+},
+{
+"entry": 33,
+"who": "Socrates",
+"text": "he asked.",
+"kind": "narration"
 },
 {
 "entry": 34,
@@ -218,8 +362,14 @@
 {
 "entry": 35,
 "who": "Hippothales",
-"text": "“I do,” he replied.",
+"text": "“I do,”",
 "kind": "speech"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 36,
@@ -266,7 +416,19 @@
 {
 "entry": 43,
 "who": "Hippothales",
-"text": "“By Zeus, no,” said he. “That would be highly irrational. But, Socrates, these are the very reasons why I am confiding in you, and if you have anything else to offer please advise me as to what a person should say or do if he is to be regarded with affection by his favourite.”",
+"text": "“By Zeus, no,”",
+"kind": "speech"
+},
+{
+"entry": 43,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
+},
+{
+"entry": 43,
+"who": "Hippothales",
+"text": "“That would be highly irrational. But, Socrates, these are the very reasons why I am confiding in you, and if you have anything else to offer please advise me as to what a person should say or do if he is to be regarded with affection by his favourite.”",
 "kind": "speech"
 },
 {
@@ -278,7 +440,19 @@
 {
 "entry": 45,
 "who": "Hippothales",
-"text": "“Well, that is no problem,” he said, “for if you go inside along with Ctesippus here, sit down and converse, I think he will surely come over to you, Socrates, since he is particularly fond of listening to discussions, and besides, as they are celebrating the festival of Hermes, the older boys and the younger ones are mingling with one another. So he will come over to you, and if he does not, he is friendly with Ctesippus through Ctesippus’ cousin, Menexenus, and, in fact, Menexenus happens to be his companion, more so than anyone else. So Ctesippus should call him if he does not come over himself.”",
+"text": "“Well, that is no problem,”",
+"kind": "speech"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Hippothales",
+"text": "“for if you go inside along with Ctesippus here, sit down and converse, I think he will surely come over to you, Socrates, since he is particularly fond of listening to discussions, and besides, as they are celebrating the festival of Hermes, the older boys and the younger ones are mingling with one another. So he will come over to you, and if he does not, he is friendly with Ctesippus through Ctesippus’ cousin, Menexenus, and, in fact, Menexenus happens to be his companion, more so than anyone else. So Ctesippus should call him if he does not come over himself.”",
 "kind": "speech"
 },
 {
@@ -297,13 +471,19 @@
 "entry": 48,
 "who": "Socrates",
 "text": "I then looked over at Menexenus and asked, “Son of Demophon, which of you is older?”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 49,
 "who": "Menexenus",
-"text": "“We argue over that,” he replied.",
+"text": "“We argue over that,”",
 "kind": "speech"
+},
+{
+"entry": 49,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 50,
@@ -314,8 +494,14 @@
 {
 "entry": 51,
 "who": "Menexenus",
-"text": "“Very much so,” he replied.",
+"text": "“Very much so,”",
 "kind": "speech"
+},
+{
+"entry": 51,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 52,
@@ -326,8 +512,14 @@
 {
 "entry": 53,
 "who": "Menexenus",
-"text": "“Very much so,” they replied.",
+"text": "“Very much so,”",
 "kind": "speech"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "they replied.",
+"kind": "narration"
 },
 {
 "entry": 54,
@@ -339,13 +531,19 @@
 "entry": 55,
 "who": "Socrates",
 "text": "They both agreed. After that, as I was in the process of asking which of them was more just or more wise, someone came in and fetched Menexenus away, saying that the trainer was calling him. I presumed he was involved in conducting a sacrifice. So he went out, and I asked Lysis a question: “Presumably,” said I, “your father and mother love you very much, Lysis?”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 56,
 "who": "Lysis",
-"text": "“Certainly,” he replied.",
+"text": "“Certainly,”",
 "kind": "speech"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 57,
@@ -368,8 +566,14 @@
 {
 "entry": 60,
 "who": "Lysis",
-"text": "“By Zeus, I do not think so,” he said.",
+"text": "“By Zeus, I do not think so,”",
 "kind": "speech"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "he said.",
+"kind": "narration"
 },
 {
 "entry": 61,
@@ -380,8 +584,14 @@
 {
 "entry": 62,
 "who": "Lysis",
-"text": "“Of course,” he said.",
+"text": "“Of course,”",
 "kind": "speech"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "he said.",
+"kind": "narration"
 },
 {
 "entry": 63,
@@ -428,8 +638,14 @@
 {
 "entry": 70,
 "who": "Lysis",
-"text": "“What else could they do?” said he.",
+"text": "“What else could they do?”",
 "kind": "speech"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 71,
@@ -440,8 +656,14 @@
 {
 "entry": 72,
 "who": "Lysis",
-"text": "“Why ever would they allow me?” he replied.",
+"text": "“Why ever would they allow me?”",
 "kind": "speech"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 73,
@@ -452,7 +674,19 @@
 {
 "entry": 74,
 "who": "Lysis",
-"text": "“Of course,” he replied, “the muleteer.”",
+"text": "“Of course,”",
+"kind": "speech"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "he replied,",
+"kind": "narration"
+},
+{
+"entry": 74,
+"who": "Lysis",
+"text": "“the muleteer.”",
 "kind": "speech"
 },
 {
@@ -464,8 +698,14 @@
 {
 "entry": 76,
 "who": "Lysis",
-"text": "“A slave,” he replied.",
+"text": "“A slave,”",
 "kind": "speech"
+},
+{
+"entry": 76,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 77,
@@ -488,8 +728,14 @@
 {
 "entry": 80,
 "who": "Lysis",
-"text": "“This tutor here,” he replied.",
+"text": "“This tutor here,”",
 "kind": "speech"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 81,
@@ -500,8 +746,14 @@
 {
 "entry": 82,
 "who": "Lysis",
-"text": "“What else would he be? He is ours though,” he said.",
+"text": "“What else would he be? He is ours though,”",
 "kind": "speech"
+},
+{
+"entry": 82,
+"who": "Socrates",
+"text": "he said.",
+"kind": "narration"
 },
 {
 "entry": 83,
@@ -512,8 +764,14 @@
 {
 "entry": 84,
 "who": "Lysis",
-"text": "“Well, he takes me to my teacher,” said he.",
+"text": "“Well, he takes me to my teacher,”",
 "kind": "speech"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 85,
@@ -535,8 +793,14 @@
 },
 {
 "entry": 88,
+"who": "Socrates",
+"text": "He laughed at this and said,",
+"kind": "narration"
+},
+{
+"entry": 88,
 "who": "Lysis",
-"text": "He laughed at this and said, “Socrates, not only would she prevent me, but she would beat me if I were to touch them.”",
+"text": "“Socrates, not only would she prevent me, but she would beat me if I were to touch them.”",
 "kind": "speech"
 },
 {
@@ -548,8 +812,14 @@
 {
 "entry": 90,
 "who": "Lysis",
-"text": "“By Zeus, I have not,” he replied.",
+"text": "“By Zeus, I have not,”",
 "kind": "speech"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 91,
@@ -572,8 +842,14 @@
 {
 "entry": 94,
 "who": "Lysis",
-"text": "“Very much so,” said he.",
+"text": "“Very much so,”",
 "kind": "speech"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 95,
@@ -608,8 +884,14 @@
 {
 "entry": 100,
 "who": "Lysis",
-"text": "“Yes, I think so,” he replied.",
+"text": "“Yes, I think so,”",
 "kind": "speech"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 101,
@@ -644,8 +926,14 @@
 {
 "entry": 106,
 "who": "Lysis",
-"text": "“Obviously, he would trust us,” he replied.",
+"text": "“Obviously, he would trust us,”",
 "kind": "speech"
+},
+{
+"entry": 106,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 107,
@@ -692,8 +980,14 @@
 {
 "entry": 114,
 "who": "Lysis",
-"text": "“Necessarily, Socrates,” he replied.",
+"text": "“Necessarily, Socrates,”",
 "kind": "speech"
+},
+{
+"entry": 114,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 115,
@@ -734,8 +1028,14 @@
 {
 "entry": 121,
 "who": "Lysis",
-"text": "“It seems not,” he replied.",
+"text": "“It seems not,”",
 "kind": "speech"
+},
+{
+"entry": 121,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 122,
@@ -746,8 +1046,14 @@
 {
 "entry": 123,
 "who": "Lysis",
-"text": "“How could we?” he replied.",
+"text": "“How could we?”",
 "kind": "speech"
+},
+{
+"entry": 123,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 124,
@@ -777,7 +1083,7 @@
 "entry": 128,
 "who": "Socrates",
 "text": "When I heard this, I looked over at Hippothales and almost made a mistake, for it occurred to me to say, “Hippothales, that is how you should converse with your favourite, humbling him and deflating him rather than puffing him up and spoiling him as you do.” But when I saw him struggling and in tribulation over what was being said, I remembered that he had actually stood where he hoped Lysis would not notice him. So I checked myself and held my words back. Meanwhile, Menexenus had returned and was sitting beside Lysis in the seat he had vacated earlier. Then Lysis, unnoticed by Menexenus, whispered to me playfully in a low, friendly voice.",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 129,
@@ -789,13 +1095,19 @@
 "entry": 130,
 "who": "Socrates",
 "text": "And I said, “You shall say that to him, Lysis, since you have been paying such full attention.”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 131,
 "who": "Lysis",
-"text": "“I certainly have,” he said.",
+"text": "“I certainly have,”",
 "kind": "speech"
+},
+{
+"entry": 131,
+"who": "Socrates",
+"text": "he said.",
+"kind": "narration"
 },
 {
 "entry": 132,
@@ -818,7 +1130,19 @@
 {
 "entry": 135,
 "who": "Lysis",
-"text": "“Yes, by Zeus,” said he, “very much so. That is the very reason why I want you to converse with him.”",
+"text": "“Yes, by Zeus,”",
+"kind": "speech"
+},
+{
+"entry": 135,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 135,
+"who": "Lysis",
+"text": "“very much so. That is the very reason why I want you to converse with him.”",
 "kind": "speech"
 },
 {
@@ -842,7 +1166,19 @@
 {
 "entry": 139,
 "who": "Lysis",
-"text": "“Do not be concerned about anyone else, Socrates,” said he. “Just go ahead and converse with him.”",
+"text": "“Do not be concerned about anyone else, Socrates,”",
+"kind": "speech"
+},
+{
+"entry": 139,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
+},
+{
+"entry": 139,
+"who": "Lysis",
+"text": "“Just go ahead and converse with him.”",
 "kind": "speech"
 },
 {
@@ -866,7 +1202,19 @@
 {
 "entry": 143,
 "who": "Ctesippus",
-"text": "“Well,” said he, “why not question him?”",
+"text": "“Well,”",
+"kind": "speech"
+},
+{
+"entry": 143,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 143,
+"who": "Ctesippus",
+"text": "“why not question him?”",
 "kind": "speech"
 },
 {
@@ -890,8 +1238,14 @@
 {
 "entry": 147,
 "who": "Menexenus",
-"text": "“I think there is no difference,” he replied.",
+"text": "“I think there is no difference,”",
 "kind": "speech"
+},
+{
+"entry": 147,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 148,
@@ -902,8 +1256,14 @@
 {
 "entry": 149,
 "who": "Menexenus",
-"text": "“I think so, anyway,” said he.",
+"text": "“I think so, anyway,”",
 "kind": "speech"
+},
+{
+"entry": 149,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 150,
@@ -926,7 +1286,19 @@
 {
 "entry": 153,
 "who": "Menexenus",
-"text": "“Yes,” he replied, “very true.”",
+"text": "“Yes,”",
+"kind": "speech"
+},
+{
+"entry": 153,
+"who": "Socrates",
+"text": "he replied,",
+"kind": "narration"
+},
+{
+"entry": 153,
+"who": "Menexenus",
+"text": "“very true.”",
 "kind": "speech"
 },
 {
@@ -986,8 +1358,14 @@
 {
 "entry": 163,
 "who": "Menexenus",
-"text": "“I do not think so,” he replied.",
+"text": "“I do not think so,”",
 "kind": "speech"
+},
+{
+"entry": 163,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 164,
@@ -1010,7 +1388,19 @@
 {
 "entry": 167,
 "who": "Menexenus",
-"text": "“I think,” he said, “that is so.”",
+"text": "“I think,”",
+"kind": "speech"
+},
+{
+"entry": 167,
+"who": "Socrates",
+"text": "he said,",
+"kind": "narration"
+},
+{
+"entry": 167,
+"who": "Menexenus",
+"text": "“that is so.”",
 "kind": "speech"
 },
 {
@@ -1082,8 +1472,14 @@
 {
 "entry": 179,
 "who": "Menexenus",
-"text": "“Quite likely,” said he.",
+"text": "“Quite likely,”",
 "kind": "speech"
+},
+{
+"entry": 179,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 180,
@@ -1106,20 +1502,32 @@
 {
 "entry": 183,
 "who": "Lysis",
-"text": "“Well, that is how it seems to me, Socrates,” said Lysis, and as soon as he had said this he blushed. In fact, I think his words got out unintentionally because he was paying such close attention to what was being said. Indeed, it was evident that he had listened intently throughout.",
+"text": "“Well, that is how it seems to me, Socrates,”",
 "kind": "speech"
+},
+{
+"entry": 183,
+"who": "Socrates",
+"text": "said Lysis, and as soon as he had said this he blushed. In fact, I think his words got out unintentionally because he was paying such close attention to what was being said. Indeed, it was evident that he had listened intently throughout.",
+"kind": "narration"
 },
 {
 "entry": 184,
 "who": "Socrates",
 "text": "Now, I wanted to give Menexenus a rest, and I was delighted by Lysis’ love of wisdom, so I changed my approach, directed my words to Lysis, and said, “Lysis, I think that what you are saying is true, that if we had been considering the matter properly we would never have wandered about like this. So let us not go in this direction any longer, for the enquiry looks difficult to me, rather like a hard road. No, I think we should go back to where we turned off and consider the matter based on what the poets say, for these people are like our fathers in wisdom, and our guides. They speak, of course, in no ordinary manner when they hold forth on the subject of friends and who they actually are. But they do maintain that god himself makes them friends by drawing them towards one another. And what they say I believe goes somewhat as follows: ‘God doth ever draw like unto like’, and he makes them acquainted. Or have you not come across these verses?”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 185,
 "who": "Lysis",
-"text": "“I have,” he replied.",
+"text": "“I have,”",
 "kind": "speech"
+},
+{
+"entry": 185,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 186,
@@ -1130,8 +1538,14 @@
 {
 "entry": 187,
 "who": "Lysis",
-"text": "“That is true,” said he.",
+"text": "“That is true,”",
 "kind": "speech"
+},
+{
+"entry": 187,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 188,
@@ -1142,8 +1556,14 @@
 {
 "entry": 189,
 "who": "Lysis",
-"text": "“Perhaps,” he replied.",
+"text": "“Perhaps,”",
 "kind": "speech"
+},
+{
+"entry": 189,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 190,
@@ -1154,8 +1574,14 @@
 {
 "entry": 191,
 "who": "Lysis",
-"text": "“Yes,” said he.",
+"text": "“Yes,”",
 "kind": "speech"
+},
+{
+"entry": 191,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 192,
@@ -1178,8 +1604,14 @@
 {
 "entry": 195,
 "who": "Lysis",
-"text": "“I do,” he said.",
+"text": "“I do,”",
 "kind": "speech"
+},
+{
+"entry": 195,
+"who": "Socrates",
+"text": "he said.",
+"kind": "narration"
 },
 {
 "entry": 196,
@@ -1202,8 +1634,14 @@
 {
 "entry": 199,
 "who": "Lysis",
-"text": "“Well, it certainly seems so to me,” he said.",
+"text": "“Well, it certainly seems so to me,”",
 "kind": "speech"
+},
+{
+"entry": 199,
+"who": "Socrates",
+"text": "he said.",
+"kind": "narration"
 },
 {
 "entry": 200,
@@ -1310,8 +1748,14 @@
 {
 "entry": 217,
 "who": "Lysis",
-"text": "“There is not,” said he.",
+"text": "“There is not,”",
 "kind": "speech"
+},
+{
+"entry": 217,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 218,
@@ -1334,8 +1778,14 @@
 {
 "entry": 221,
 "who": "Lysis",
-"text": "“In what way?” he asked.",
+"text": "“In what way?”",
 "kind": "speech"
+},
+{
+"entry": 221,
+"who": "Socrates",
+"text": "he asked.",
+"kind": "narration"
 },
 {
 "entry": 222,
@@ -1358,7 +1808,19 @@
 {
 "entry": 225,
 "who": "Menexenus",
-"text": "“Well,” said Menexenus, “it sounds good when I hear it like that.”",
+"text": "“Well,”",
+"kind": "speech"
+},
+{
+"entry": 225,
+"who": "Socrates",
+"text": "said Menexenus,",
+"kind": "narration"
+},
+{
+"entry": 225,
+"who": "Menexenus",
+"text": "“it sounds good when I hear it like that.”",
 "kind": "speech"
 },
 {
@@ -1394,8 +1856,14 @@
 {
 "entry": 231,
 "who": "Menexenus",
-"text": "“Neither,” he replied.",
+"text": "“Neither,”",
 "kind": "speech"
+},
+{
+"entry": 231,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 232,
@@ -1442,8 +1910,14 @@
 {
 "entry": 239,
 "who": "Menexenus",
-"text": "“What do you mean?” he asked.",
+"text": "“What do you mean?”",
 "kind": "speech"
+},
+{
+"entry": 239,
+"who": "Socrates",
+"text": "he asked.",
+"kind": "narration"
 },
 {
 "entry": 240,
@@ -1466,8 +1940,14 @@
 {
 "entry": 243,
 "who": "Menexenus",
-"text": "“I think so too,” he replied.",
+"text": "“I think so too,”",
 "kind": "speech"
+},
+{
+"entry": 243,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 244,
@@ -1622,8 +2102,14 @@
 {
 "entry": 269,
 "who": "Menexenus",
-"text": "“I do not understand,” said he.",
+"text": "“I do not understand,”",
 "kind": "speech"
+},
+{
+"entry": 269,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 270,
@@ -1634,8 +2120,14 @@
 {
 "entry": 271,
 "who": "Menexenus",
-"text": "“It would appear white,” said he.",
+"text": "“It would appear white,”",
 "kind": "speech"
+},
+{
+"entry": 271,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 272,
@@ -1682,8 +2174,14 @@
 {
 "entry": 279,
 "who": "Menexenus",
-"text": "“It is more the latter,” said he.",
+"text": "“It is more the latter,”",
 "kind": "speech"
+},
+{
+"entry": 279,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 280,
@@ -1718,8 +2216,14 @@
 {
 "entry": 285,
 "who": "Menexenus",
-"text": "“Entirely so,” they both replied.",
+"text": "“Entirely so,”",
 "kind": "speech"
+},
+{
+"entry": 285,
+"who": "Socrates",
+"text": "they both replied.",
+"kind": "narration"
 },
 {
 "entry": 286,
@@ -1731,13 +2235,19 @@
 "entry": 287,
 "who": "Socrates",
 "text": "They both said that they agreed completely that this is the case. And what is more, I myself was utterly delighted, like a hunter pleased at having what I was hunting for within my grasp. And then, I don’t know from where, the strangest suspicion came over me that what we were accepting might not be true. And I was suddenly quite agitated, and I said, “Oh dear, Lysis and Menexenus, it looks as if our new found wealth is only a dream.”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 288,
 "who": "Menexenus",
-"text": "“But why?” asked Menexenus.",
+"text": "“But why?”",
 "kind": "speech"
+},
+{
+"entry": 288,
+"who": "Socrates",
+"text": "asked Menexenus.",
+"kind": "narration"
 },
 {
 "entry": 289,
@@ -1748,8 +2258,14 @@
 {
 "entry": 290,
 "who": "Menexenus",
-"text": "“How so?” he asked.",
+"text": "“How so?”",
 "kind": "speech"
+},
+{
+"entry": 290,
+"who": "Socrates",
+"text": "he asked.",
+"kind": "narration"
 },
 {
 "entry": 291,
@@ -1760,8 +2276,14 @@
 {
 "entry": 292,
 "who": "Menexenus",
-"text": "“He must be,” he replied.",
+"text": "“He must be,”",
 "kind": "speech"
+},
+{
+"entry": 292,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 293,
@@ -1784,8 +2306,14 @@
 {
 "entry": 296,
 "who": "Menexenus",
-"text": "“I do not entirely follow,” he replied.",
+"text": "“I do not entirely follow,”",
 "kind": "speech"
+},
+{
+"entry": 296,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 297,
@@ -1832,8 +2360,14 @@
 {
 "entry": 304,
 "who": "Menexenus",
-"text": "“A good thing,” said he.",
+"text": "“A good thing,”",
 "kind": "speech"
+},
+{
+"entry": 304,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 305,
@@ -1982,8 +2516,14 @@
 {
 "entry": 329,
 "who": "Menexenus",
-"text": "“Of course,” he replied.",
+"text": "“Of course,”",
 "kind": "speech"
+},
+{
+"entry": 329,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 330,
@@ -2018,8 +2558,14 @@
 {
 "entry": 335,
 "who": "Menexenus",
-"text": "“That is quite likely so,” he said.",
+"text": "“That is quite likely so,”",
 "kind": "speech"
+},
+{
+"entry": 335,
+"who": "Socrates",
+"text": "he said.",
+"kind": "narration"
 },
 {
 "entry": 336,
@@ -2054,8 +2600,14 @@
 {
 "entry": 341,
 "who": "Menexenus",
-"text": "“That seems to be how matters stand,” he replied.",
+"text": "“That seems to be how matters stand,”",
 "kind": "speech"
+},
+{
+"entry": 341,
+"who": "Socrates",
+"text": "he replied.",
+"kind": "narration"
 },
 {
 "entry": 342,
@@ -2066,7 +2618,19 @@
 {
 "entry": 343,
 "who": "Menexenus",
-"text": "“It seems not,” said he, “based on what is now being said at any rate.”",
+"text": "“It seems not,”",
+"kind": "speech"
+},
+{
+"entry": 343,
+"who": "Socrates",
+"text": "said he,",
+"kind": "narration"
+},
+{
+"entry": 343,
+"who": "Menexenus",
+"text": "“based on what is now being said at any rate.”",
 "kind": "speech"
 },
 {
@@ -2186,8 +2750,14 @@
 {
 "entry": 363,
 "who": "Menexenus",
-"text": "“Quite likely,” said he.",
+"text": "“Quite likely,”",
 "kind": "speech"
+},
+{
+"entry": 363,
+"who": "Socrates",
+"text": "said he.",
+"kind": "narration"
 },
 {
 "entry": 364,
@@ -2235,13 +2805,19 @@
 "entry": 371,
 "who": "Socrates",
 "text": "They both concurred. “So, if the two of you are friends to one another, you are somehow, by nature, kindred to one another.”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 372,
 "who": "Menexenus",
-"text": "“Exactly,” they said.",
+"text": "“Exactly,”",
 "kind": "speech"
+},
+{
+"entry": 372,
+"who": "Socrates",
+"text": "they said.",
+"kind": "narration"
 },
 {
 "entry": 373,
@@ -2252,8 +2828,14 @@
 {
 "entry": 374,
 "who": "Menexenus",
-"text": "“Certainly,” said Menexenus, but Lysis was silent.",
+"text": "“Certainly,”",
 "kind": "speech"
+},
+{
+"entry": 374,
+"who": "Socrates",
+"text": "said Menexenus, but Lysis was silent.",
+"kind": "narration"
 },
 {
 "entry": 375,
@@ -2264,8 +2846,14 @@
 {
 "entry": 376,
 "who": "Menexenus",
-"text": "“So it seems,” he said.",
+"text": "“So it seems,”",
 "kind": "speech"
+},
+{
+"entry": 376,
+"who": "Socrates",
+"text": "he said.",
+"kind": "narration"
 },
 {
 "entry": 377,
@@ -2277,7 +2865,7 @@
 "entry": 378,
 "who": "Socrates",
 "text": "To this Lysis and Menexenus gave a somewhat reluctant nod of assent, while Hippothales was so pleased that he turned all sorts of colours. And I, wishing to scrutinise the argument, said, “If what is kindred differs from what is like, we would in my opinion, Lysis and Menexenus, be saying something worthwhile about what a friend is. But if what is kindred and what is like happen to be the same, it is not easy to discard the previous argument, that like is useless to like based upon their likeness, and to accept that what is useless is a friend. Well, since the argument is making us drunk, would you like to come to an agreement and declare that what is kindred is something different from what is like?”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 379,
@@ -2295,13 +2883,19 @@
 "entry": 381,
 "who": "Socrates",
 "text": "They both said that in their opinion, each is kindred to each, in this way. “Well then, boys,” said I, “we have once more fallen back into those arguments about friendship that we discarded initially. For the unjust will be no less a friend to the unjust, and the bad no less a friend to the bad, than the good will be to the good.”",
-"kind": "speech"
+"kind": "narration"
 },
 {
 "entry": 382,
 "who": "Menexenus",
-"text": "“So it seems,” he said.",
+"text": "“So it seems,”",
 "kind": "speech"
+},
+{
+"entry": 382,
+"who": "Socrates",
+"text": "he said.",
+"kind": "narration"
 },
 {
 "entry": 383,
@@ -2343,7 +2937,7 @@
 "entry": 389,
 "who": "Socrates",
 "text": "However, while they were departing, I said, “Now, Lysis and Menexenus, we really have become figures of fun, me an old man, and the two of you. For these people here will say, as they are leaving, that we think we are friends of one another – indeed, I also count myself as one of you – but we have not yet been able to discover what the friend is.”",
-"kind": "speech"
+"kind": "narration"
 }
 ]
 }
