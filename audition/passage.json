@@ -1,0 +1,50 @@
+{
+ "work": "alc1",
+ "lines": [
+  {
+   "who": "Narrator",
+   "text": "Plato's Alcibiades One, translated by David Horan.",
+   "entry": "title"
+  },
+  {
+   "who": "Alcibiades",
+   "text": "Socrates, you seem even stranger to me now since you began to speak, than when you were following me in silence, although you were a strange sight even then. Now, it seems you have made up your mind about whether I have these intentions or not, and if I deny it, that will not do much to dissuade you. So be it, but if I really do have these intentions, how shall I attain them through you, and why will they not happen without you? Can you tell me?",
+   "entry": 7
+  },
+  {
+   "who": "Socrates",
+   "text": "So are you asking if I can deliver a long speech, the kind you are obviously accustomed to hearing? But that is not my way. However, I shall, I believe, be able to prove to you that this is how matters stand if you are willing to perform only one small service for me.",
+   "entry": 8
+  },
+  {
+   "who": "Alcibiades",
+   "text": "Well, yes, I am willing, if the service you refer to is not a difficult one.",
+   "entry": 9
+  },
+  {
+   "who": "Socrates",
+   "text": "Does it seem difficult to answer questions?",
+   "entry": 10
+  },
+  {
+   "who": "Alcibiades",
+   "text": "No, it does not seem difficult.",
+   "entry": 11
+  },
+  {
+   "who": "Socrates",
+   "text": "So answer then.",
+   "entry": 12
+  },
+  {
+   "who": "Alcibiades",
+   "text": "Just ask.",
+   "entry": 13
+  },
+  {
+   "who": "Socrates",
+   "text": "Should I ask questions on the basis that you do have the intentions I say you have?",
+   "entry": 14
+  }
+ ]
+}
