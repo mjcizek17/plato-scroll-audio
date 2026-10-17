@@ -1,0 +1,35 @@
+{
+ "_note": "Production cast for Kokoro. kokoro = [[voice, weight]...] blend; accent = pronunciation the character reads with (gb British, us American) so a voice never mixes accents. Socrates is fixed (audition sample 6); no other character may use george, santa, daniel, liam or eric.",
+ "speed": 0.92,
+ "Narrator": {
+  "kokoro": [
+   [
+    "bm_fable",
+    1.0
+   ]
+  ],
+  "accent": "gb"
+ },
+ "Socrates": {
+  "kokoro": [
+   [
+    "bm_george",
+    0.55
+   ],
+   [
+    "am_santa",
+    0.45
+   ]
+  ],
+  "accent": "gb"
+ },
+ "Alcibiades": {
+  "kokoro": [
+   [
+    "am_michael",
+    1.0
+   ]
+  ],
+  "accent": "us"
+ }
+}
