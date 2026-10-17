@@ -1,0 +1,7 @@
+{
+ "engine": "qwen3-tts-1.7b design+clone",
+ "audio_s": 66.0,
+ "wall_s": 934.5,
+ "x_realtime": 0.071,
+ "cpus": 4
+}
