@@ -21,6 +21,8 @@ def gh(path, raw=False):
 def main(out, js=None, tags=("audio-v1", "aristotle-v1")):
     adir = os.path.join(out, "audio"); os.makedirs(adir, exist_ok=True)
     works = {}
+    idp = os.path.join(ROOT, ".cache", "timing-ids.json"); os.makedirs(os.path.dirname(idp), exist_ok=True)
+    ids = json.load(open(idp)) if os.path.exists(idp) else {}
     for tag in tags:
         try:
             rel = gh(f"repos/{REPO}/releases/tags/{tag}")
@@ -33,8 +35,9 @@ def main(out, js=None, tags=("audio-v1", "aristotle-v1")):
                 continue
             key, part, stem = m.group(1), int(m.group(2)), name[:-4]
             tpath = os.path.join(adir, stem + ".timing.json")
-            if not os.path.exists(tpath) or os.path.getsize(tpath) != assets[stem + ".timing.json"]["size"]:
-                open(tpath, "wb").write(gh(f"repos/{REPO}/releases/assets/{assets[stem + '.timing.json']['id']}", raw=True))
+            ta = assets[stem + ".timing.json"]
+            if not os.path.exists(tpath) or os.path.getsize(tpath) != ta["size"] or ids.get(stem) != ta["id"]:
+                open(tpath, "wb").write(gh(f"repos/{REPO}/releases/assets/{ta['id']}", raw=True)); ids[stem] = ta["id"]
             t = json.load(open(tpath))
             ents = [int(e) for e in list(t.get("entries", {})) + list(t.get("words", {}))]
             sp = os.path.join(ROOT, "scripts", key + ".json")
@@ -48,12 +51,16 @@ def main(out, js=None, tags=("audio-v1", "aristotle-v1")):
                 "name": stem, "label": label, "author": author, "part": part,
                 "first": min(ents) if ents else 0, "last": max(ents) if ents else 0,
                 "minutes": round(last_w / 60, 1),
+                # bytes: the offline-save size; v: the MP3's asset id, which changes when a recording is replaced,
+                # so a copy saved for offline listening can tell it is out of date
+                "bytes": assets[name]["size"], "v": assets[name]["id"],
                 "mp3": [f"https://github.com/{REPO}/releases/download/{tag}/{name}"]})
     for k in works:
         works[k].sort(key=lambda p: p["part"])
         for p in works[k]:
             p.pop("part")
     cat = {"works": works}
+    json.dump(ids, open(idp, "w"))
     json.dump(cat, open(os.path.join(adir, "catalog.json"), "w"), ensure_ascii=False, separators=(",", ":"))
     if js:
         open(js, "w").write("/* 5.20: built-in catalog of recorded works (tools/site_audio.py in plato-scroll-audio). "
