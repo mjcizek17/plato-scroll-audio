@@ -6,7 +6,7 @@ Writes OUTDIR/<id>.wav (24 kHz) and OUTDIR/<id>.json {"words": [...], "retakes":
 import json, os, re, sys, zlib
 import numpy as np
 import torch, torchaudio
-from script import work_parts, load_cast, fill
+from script import work_parts, load_cast, fill, char_spec
 from common import write_wav
 
 torch.set_num_threads(os.cpu_count() or 4)
@@ -70,14 +70,14 @@ def main(work, a, b, out):
     os.makedirs(out, exist_ok=True)
     cast = load_cast()
     flat = [l for p in work_parts(work) for l in p["lines"]][int(a):int(b)]
-    todo = [l for l in flat if cast["characters"].get(l["who"], cast["characters"]["Narrator"])["engine"] == "chatterbox"]
+    todo = [l for l in flat if char_spec(cast, work, l["who"])["engine"] == "chatterbox"]
     if not todo:
         return
     from chatterbox.tts import ChatterboxTTS
     model = ChatterboxTTS.from_pretrained(device="cpu"); sr = model.sr
     align = Aligner()
     for n, l in enumerate(todo):
-        c = cast["characters"].get(l["who"], cast["characters"]["Narrator"])
+        c = char_spec(cast, work, l["who"])
         ref = os.path.join(ROOT, "cast", "refs", c["ref"] + ".wav")
         pcm, retakes, flags = [], 0, []
         for gi, g in enumerate(groups(l["text"])):

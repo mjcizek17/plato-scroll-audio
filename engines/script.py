@@ -35,9 +35,18 @@ def work_parts(key):
     return parts
 
 
-def engine_of(who, cast):
-    c = cast["characters"].get(who)
-    return (c or cast["characters"]["Narrator"])["engine"], c is not None
+def char_spec(cast, work, who):
+    """The cast entry for a speaker in a work: work-qualified key first (symp:Companion), then the name.
+    Unknown speakers fall back to the Narrator (and are listed by tools/check_cast.py)."""
+    ch = cast["characters"]
+    c = ch.get(f"{work}:{who}") or ch.get(who)
+    return c or ch["Narrator"]
+
+
+def engine_of(who, cast, work=""):
+    ch = cast["characters"]
+    c = ch.get(f"{work}:{who}") or ch.get(who)
+    return (c or ch["Narrator"])["engine"], c is not None
 
 
 def plan_shards(keys, budget_s=5400):
@@ -48,7 +57,7 @@ def plan_shards(keys, budget_s=5400):
         flat = [l for p in work_parts(key) for l in p["lines"]]
         a, cost, n = 0, 0.0, 0
         for i, l in enumerate(flat):
-            eng, _ = engine_of(l["who"], cast)
+            eng, _ = engine_of(l["who"], cast, key)
             c = len(l["text"]) * (0.57 if eng == "chatterbox" else 0.045)
             if cost + c > budget_s and i > a:
                 shards.append({"work": key, "shard": n, "a": a, "b": i}); n += 1; a, cost = i, 0.0
