@@ -18,11 +18,11 @@ tools/master.py studio-style assembly: trim, high-pass, gentle compression, room
 .github/workflows/audition.yml   renders the audition with every engine and commits results to the `samples` branch
 ```
 
-## Engines under audition
-| Engine | Licence | How voices are made |
-|---|---|---|
-| Kokoro-82M | Apache-2.0 | the existing blended cast (Socrates = george 0.55 + santa 0.45) |
-| Qwen3-TTS 1.7B | Apache-2.0 | each character cast from a written brief (VoiceDesign), then cloned for every line (Base) |
-| Chatterbox / Chatterbox Turbo | MIT (inaudible watermark) | clones a reference clip per character |
+## Engine
+Kokoro-82M (Apache-2.0), chosen after auditioning Qwen3-TTS and Chatterbox (Oct 2026). Each character reads
+with his own accent's pronunciation (`cast/cast.json`), names come from `engines/lexicon.py`.
 
-Results: `samples` branch, `audition/run-N/<engine>/*.mp3`, with `speed.json` (real-time factor on a 4-core runner).
+## Producing audio
+Edit `render/queue.json` and push: `{"works": ["alc1", ...], "dest": "samples" | "release", "tag": "audio-v1"}`.
+`engines/kokoro_work.py` renders each work with studio mastering and writes `KEY-pN.mp3` plus
+`KEY-pN.timing.json` (per-word start times for the read-along player) and `KEY.report.json`.
