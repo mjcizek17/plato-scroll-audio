@@ -33,19 +33,11 @@
     "ref_text": "Everyone in Athens knows who I am, and before long the whole of Greece will know it too. Why should I listen to anyone telling me what I lack?",
     "kokoro": [
       [
-        "am_puck",
+        "am_michael",
         1.0
       ]
     ],
     "exaggeration": 0.6,
-    "accent": "us",
-    "kokoro_options": [
-      "am_puck",
-      "am_michael",
-      "am_fenrir",
-      "am_echo",
-      "am_adam",
-      "am_onyx"
-    ]
+    "accent": "us"
   }
 }
