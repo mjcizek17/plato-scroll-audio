@@ -1,0 +1,32 @@
+[0;93m2026-10-17 01:18:34.333777597 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+
+********
+Warning: flash-attn is not installed. Will only run the manual PyTorch version. Please install flash-attn for faster inference.
+********
+ 
+designed Narrator
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+designed Socrates
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+designed Alcibiades
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+line 0
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+line 1
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+line 2
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+line 3
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+line 4
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+line 5
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+line 6
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+line 7
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+line 8
+{"engine": "qwen3-tts-1.7b design+clone", "audio_s": 66.0, "wall_s": 1183.9, "x_realtime": 0.056, "cpus": 4}
+out/qwen/qwen.mp3 68.5 s
