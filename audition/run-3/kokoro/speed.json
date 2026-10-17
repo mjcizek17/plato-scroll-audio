@@ -1,0 +1,7 @@
+{
+ "engine": "kokoro-82m-fp32",
+ "audio_s": 66.2,
+ "wall_s": 18.9,
+ "x_realtime": 3.5,
+ "cpus": 4
+}
