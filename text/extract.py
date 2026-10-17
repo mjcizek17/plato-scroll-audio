@@ -33,11 +33,14 @@ SUP = re.compile(r"[¹²³⁰-⁹]+")
 
 
 def clean(t):
+    t = re.sub(r"<span class=\"hv-steph\"[^>]*>.*?</span>", " ", t)  # Stephanus numbers the edition inserted: not read
     t = re.sub(r"<br\s*/?>", " ", t)
     t = re.sub(r"<[^>]+>", "", t)
     t = SUP.sub("", t)                       # footnote markers are not read
     t = re.sub(r"\[[^\]]*\]", "", t)          # editorial brackets
-    t = t.replace("\n", ". ") if t.count("\n") else t
+    # a line break becomes a sentence pause, attached to the word before it, so no stray "." words appear
+    t = re.sub(r"[ \t]*\n[\s]*", "\n", t).strip()
+    t = re.sub(r"(?<=[^\s.!?:;,\]\)\u201d\u2019])\n", ". ", t).replace("\n", " ")
     return re.sub(r"\s+", " ", t).strip()
 
 

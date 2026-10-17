@@ -14,13 +14,13 @@
 {
 "entry": 0,
 "who": "Adimantus",
-"text": "“Greetings, Cephalus. If there is anything you want here, anything we can do for you, just ask.”.",
+"text": "“Greetings, Cephalus. If there is anything you want here, anything we can do for you, just ask.”",
 "kind": "speech"
 },
 {
 "entry": 0,
 "who": "Cephalus",
-"text": "“In fact,” said I, “that’s the very reason I’m here, to ask you for something.”.",
+"text": "“In fact,” said I, “that’s the very reason I’m here, to ask you for something.”",
 "kind": "speech"
 },
 {
@@ -38,7 +38,7 @@
 {
 "entry": 1,
 "who": "Cephalus",
-"text": "“Your half-brother,” I replied, “on your mother’s side, what was his name? I have forgotten it. He was just a child when I came to Athens previously from Clazomenae, and that was a long time ago now. I think his father’s name was Pyrilampes.”.",
+"text": "“Your half-brother,” I replied, “on your mother’s side, what was his name? I have forgotten it. He was just a child when I came to Athens previously from Clazomenae, and that was a long time ago now. I think his father’s name was Pyrilampes.”",
 "kind": "speech"
 },
 {
@@ -50,7 +50,7 @@
 {
 "entry": 1,
 "who": "Cephalus",
-"text": "he replied.. “And his name was?”.",
+"text": "he replied. “And his name was?”",
 "kind": "narration"
 },
 {
@@ -62,7 +62,7 @@
 {
 "entry": 2,
 "who": "Cephalus",
-"text": "“These men here,” said I, “are fellow citizens of mine, serious philosophers who have heard that this man, Antiphon, had numerous meetings with a certain Pythodorus, a companion of Zeno’s, and that he had heard the discussions that took place between Socrates and Zeno and Parmenides so often from Pythodorus that he could recite them from memory.”.",
+"text": "“These men here,” said I, “are fellow citizens of mine, serious philosophers who have heard that this man, Antiphon, had numerous meetings with a certain Pythodorus, a companion of Zeno’s, and that he had heard the discussions that took place between Socrates and Zeno and Parmenides so often from Pythodorus that he could recite them from memory.”",
 "kind": "speech"
 },
 {
@@ -74,7 +74,7 @@
 {
 "entry": 2,
 "who": "Cephalus",
-"text": "he replied.. “Well,” said I, “we want to hear an account of these discussions.”.",
+"text": "he replied. “Well,” said I, “we want to hear an account of these discussions.”",
 "kind": "narration"
 },
 {

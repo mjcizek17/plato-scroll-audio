@@ -88,7 +88,7 @@
   "key": "epist",
   "title": "Epistles",
   "parts": 1,
-  "chars": 66764,
+  "chars": 66760,
   "speakers": [
    "Narrator",
    "Plato"
@@ -132,7 +132,7 @@
   "key": "gorg",
   "title": "Gorgias",
   "parts": 1,
-  "chars": 202448,
+  "chars": 202328,
   "speakers": [
    "Callicles",
    "Chaerephon",
@@ -247,7 +247,7 @@
   "key": "parm",
   "title": "Parmenides",
   "parts": 1,
-  "chars": 111046,
+  "chars": 111038,
   "speakers": [
    "Adimantus",
    "Aristoteles",
@@ -261,7 +261,7 @@
   "key": "phae",
   "title": "Phaedo",
   "parts": 1,
-  "chars": 161891,
+  "chars": 161890,
   "speakers": [
    "Cebes",
    "Crito",
@@ -279,7 +279,7 @@
   "key": "phdr",
   "title": "Phaedrus",
   "parts": 1,
-  "chars": 134338,
+  "chars": 134337,
   "speakers": [
    "Phaedrus",
    "Socrates"
@@ -359,7 +359,7 @@
   "key": "symp",
   "title": "Symposium",
   "parts": 1,
-  "chars": 131879,
+  "chars": 131876,
   "speakers": [
    "Agathon",
    "Alcibiades",
