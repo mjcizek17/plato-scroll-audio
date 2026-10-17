@@ -67,8 +67,9 @@ def main(books, manifest, out):
             if not text:
                 continue
             if sp == "HDR":
-                cur = {"name": text.title(), "lines": []}; parts.append(cur)
-                cur["lines"].append({"entry": i, "who": "Narrator", "text": text.title(), "kind": "heading"})
+                name = re.sub(r"\b([ivxlc]+)\b", lambda m: m.group(1).upper(), text.title(), flags=re.I)  # BOOK II -> Book II
+                cur = {"name": name, "lines": []}; parts.append(cur)
+                cur["lines"].append({"entry": i, "who": "Narrator", "text": name, "kind": "heading"})
                 continue
             if cur is None:
                 cur = {"name": tx.get("title", key), "lines": []}; parts.append(cur)
