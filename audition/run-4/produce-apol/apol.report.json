@@ -1,0 +1,32 @@
+{
+ "work": "apol",
+ "parts": [
+  {
+   "file": "apol-p1.mp3",
+   "minutes": 50.72,
+   "lines": 92,
+   "words": 8942,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "apol-p2.mp3",
+   "minutes": 6.43,
+   "lines": 14,
+   "words": 1175,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "apol-p3.mp3",
+   "minutes": 8.45,
+   "lines": 19,
+   "words": 1476,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
