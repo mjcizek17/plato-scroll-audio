@@ -1,0 +1,1 @@
+{"work": "prot", "parts": [{"file": "prot-p1.mp3", "minutes": 137.85, "lines": 709, "words": 24367, "words_interpolated": 28, "retakes": 2, "flagged_takes": []}]}
