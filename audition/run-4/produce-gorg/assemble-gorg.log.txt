@@ -1,0 +1,1 @@
+{"work": "gorg", "parts": [{"file": "gorg-p1.mp3", "minutes": 218.44, "lines": 1082, "words": 37427, "words_interpolated": 53, "retakes": 0, "flagged_takes": []}]}
