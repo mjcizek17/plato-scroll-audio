@@ -1,0 +1,1 @@
+{"work": "parm", "parts": [{"file": "parm-p1.mp3", "minutes": 112.82, "lines": 1226, "words": 20800, "words_interpolated": 0, "retakes": 0, "flagged_takes": []}]}
