@@ -1,0 +1,14 @@
+{
+ "work": "gorg",
+ "parts": [
+  {
+   "file": "gorg-p1.mp3",
+   "minutes": 217.75,
+   "lines": 1082,
+   "words": 37403,
+   "words_interpolated": 53,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
