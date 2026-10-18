@@ -110,10 +110,30 @@ def fill(starts):
     return starts, miss
 
 
+def plan_ranges(ranges, budget_s=5400):
+    """Re-render only some lines: {work: [[a, b], ...]} (flat line indices, b exclusive), split by budget.
+    Shard numbers start at 900 so their artifacts never share a name with the earlier run's."""
+    cast, shards = load_cast(), []
+    for key, rs in ranges.items():
+        flat = [l for p in work_parts(key) for l in p["lines"]]
+        n = 900
+        for a0, b0 in rs:
+            a, cost = a0, 0.0
+            for i in range(a0, min(b0, len(flat))):
+                eng, _ = engine_of(flat[i]["who"], cast, key)
+                c = len(flat[i]["text"]) * (0.57 if eng == "chatterbox" else 0.045)
+                if cost + c > float(budget_s) and i > a:
+                    shards.append({"work": key, "shard": n, "a": a, "b": i}); n += 1; a, cost = i, 0.0
+                cost += c
+            shards.append({"work": key, "shard": n, "a": a, "b": min(b0, len(flat))}); n += 1
+    return shards
+
+
 if __name__ == "__main__":
     import sys
     q = json.load(open(sys.argv[1]))
-    print(json.dumps(plan_shards(q["works"], q.get("budget", 5400)), separators=(",", ":")))
+    plan = plan_ranges(q["ranges"], q.get("budget", 5400)) if q.get("ranges") else plan_shards(q["works"], q.get("budget", 5400))
+    print(json.dumps(plan, separators=(",", ":")))
 
 
 def speech_text(t):

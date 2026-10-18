@@ -4,7 +4,7 @@ group checked for runaway or truncated takes by its duration and re-taken with a
 Word timing comes from forced alignment of each sentence group against its text (torchaudio MMS_FA),
 kept per group so a nine-minute speech never needs more than ~20 s of audio in memory.
 Writes OUTDIR/<id>.wav (24 kHz) and OUTDIR/<id>.json {"words": [...], "retakes": n, ...}."""
-import json, os, re, sys, zlib
+import json, os, re, signal, sys, zlib
 import numpy as np
 import torch, torchaudio
 from script import work_parts, load_cast, fill, char_spec, word_starts, speech_text
@@ -14,6 +14,20 @@ torch.set_num_threads(os.cpu_count() or 4)
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CPS = 15.5          # expected characters per second of speech (from the audition takes)
 MAXC = 300
+# Watchdog: one sentence group normally takes a minute or two on a runner. A take that runs past the limit is
+# abandoned (counted as a retake, new seed); if every seed stalls, the group is performed in two halves.
+LIMIT = int(os.environ.get("HV_GROUP_LIMIT", "900"))
+
+
+class Stalled(Exception):
+    pass
+
+
+def _alarm(*_):
+    raise Stalled()
+
+
+signal.signal(signal.SIGALRM, _alarm)
 
 
 def groups(text):
@@ -87,16 +101,32 @@ def main(work, a, b, out):
         pcm, retakes, flags, toks, off = [], 0, [], [], 0.0
         for gi, g in enumerate(groups(l["text"])):
             want, best = len(g) / CPS, None
+            def take(text, seed):
+                torch.manual_seed(seed)
+                signal.alarm(LIMIT)
+                try:
+                    return trim(model.generate(speakable(speech_text(text)), audio_prompt_path=ref, exaggeration=c.get("exaggeration", 0.5),
+                                               cfg_weight=c.get("cfg", 0.5)).squeeze().cpu().numpy(), sr)
+                finally:
+                    signal.alarm(0)
             for attempt in range(3):
-                torch.manual_seed(zlib.crc32(f"{work}{l['id']}{gi}{attempt}".encode()))
-                x = trim(model.generate(speakable(speech_text(g)), audio_prompt_path=ref, exaggeration=c.get("exaggeration", 0.5),
-                                        cfg_weight=c.get("cfg", 0.5)).squeeze().cpu().numpy(), sr)
+                try:
+                    x = take(g, zlib.crc32(f"{work}{l['id']}{gi}{attempt}".encode()))
+                except Stalled:
+                    print(f"stalled: {l['id']} group {gi} attempt {attempt} ({len(g)} chars) - new seed", flush=True)
+                    retakes += 1; continue
                 r = (len(x) / sr) / max(want, 0.4)
                 if best is None or abs(np.log(r)) < abs(np.log(best[1])):
                     best = (x, r)
                 if 0.6 <= r <= 1.6:
                     break
                 retakes += 1
+            if best is None:   # every seed stalled: two halves, split at a space near the middle
+                k = g.rfind(" ", 0, len(g) // 2 + 20); k = k if k > 0 else len(g) // 2
+                halves = [take(h, zlib.crc32(f"{work}{l['id']}{gi}h{j}".encode())) for j, h in enumerate((g[:k], g[k:].strip()))]
+                x = np.concatenate([halves[0], np.zeros(int(0.12 * sr), np.float32), halves[1]])
+                best = (x, (len(x) / sr) / max(want, 0.4))
+                flags.append({"group": gi, "ratio": round(best[1], 2), "text": g[:80], "note": "stalled; read in halves"})
             if not 0.6 <= best[1] <= 1.6:
                 flags.append({"group": gi, "ratio": round(best[1], 2), "text": g[:80]})
             if pcm:

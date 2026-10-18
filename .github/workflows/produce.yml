@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  actions: read     # assemble can reuse the lines of an earlier run (queue "reuse_run")
 
 defaults:
   run:
@@ -28,6 +29,7 @@ jobs:
       works: ${{ steps.q.outputs.works }}
       dest: ${{ steps.q.outputs.dest }}
       tag: ${{ steps.q.outputs.tag }}
+      reuse: ${{ steps.q.outputs.reuse }}
     steps:
       - uses: actions/checkout@v4
       - run: python3 tools/check_cast.py
@@ -44,6 +46,7 @@ jobs:
           echo "works=$(jq -c .works render/queue.json)" >> "$GITHUB_OUTPUT"
           echo "dest=$(jq -r '.dest // "samples"' render/queue.json)" >> "$GITHUB_OUTPUT"
           echo "tag=$(jq -r '.tag // "audio-v1"' render/queue.json)" >> "$GITHUB_OUTPUT"
+          echo "reuse=$(jq -r '.reuse_run // ""' render/queue.json)" >> "$GITHUB_OUTPUT"
 
   render:
     needs: plan
@@ -71,6 +74,7 @@ jobs:
           python -m venv /tmp/kk && /tmp/kk/bin/pip install -q $PIP_CPU torch && /tmp/kk/bin/pip install -q "kokoro>=0.9.4" soundfile "misaki[en]" 2>&1 | tail -3
           (cd engines && /tmp/kk/bin/python kokoro_lines.py $W $A $B ../out/lines) 2>&1 | tee -a out/log-$N.txt
       - name: Chatterbox lines
+        timeout-minutes: 320   # a stuck job still uploads the lines it finished and its log (GitHub's limit is 6 h)
         run: |
           python -m venv /tmp/cb && /tmp/cb/bin/pip install -q $PIP_CPU chatterbox-tts 2>&1 | tail -3
           (cd engines && /tmp/cb/bin/python chatterbox_lines.py $W $A $B ../out/lines) 2>&1 | tee -a out/log-$N.txt
@@ -93,6 +97,10 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg && pip install -q numpy
+      - if: needs.plan.outputs.reuse != ''
+        name: Lines from the earlier run (only part of the work is re-rendered in this one)
+        uses: actions/download-artifact@v4
+        with: { pattern: "lines-${{ matrix.work }}-*", path: lines, merge-multiple: true, run-id: "${{ needs.plan.outputs.reuse }}", github-token: "${{ github.token }}" }
       - uses: actions/download-artifact@v4
         with: { pattern: "lines-${{ matrix.work }}-*", path: lines, merge-multiple: true }
       - run: mkdir -p out && python tools/assemble.py ${{ matrix.work }} lines out 2>&1 | tee out/assemble-${{ matrix.work }}.log.txt
