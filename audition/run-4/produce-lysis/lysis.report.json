@@ -1,0 +1,14 @@
+{
+ "work": "lysis",
+ "parts": [
+  {
+   "file": "lysis-p1.mp3",
+   "minutes": 57.64,
+   "lines": 490,
+   "words": 10013,
+   "words_interpolated": 13,
+   "retakes": 7,
+   "flagged_takes": []
+  }
+ ]
+}
