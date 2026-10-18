@@ -1,0 +1,1 @@
+{"work": "epin", "parts": [{"file": "epin-p1.mp3", "minutes": 39.19, "lines": 62, "words": 6547, "words_interpolated": 7, "retakes": 0, "flagged_takes": []}]}
