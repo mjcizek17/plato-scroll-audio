@@ -1,0 +1,14 @@
+{
+ "work": "stm",
+ "parts": [
+  {
+   "file": "stm-p1.mp3",
+   "minutes": 146.51,
+   "lines": 903,
+   "words": 25174,
+   "words_interpolated": 35,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
