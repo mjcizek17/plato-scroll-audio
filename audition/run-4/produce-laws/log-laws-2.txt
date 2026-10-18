@@ -1,0 +1,37 @@
+/tmp/kk/lib/python3.11/site-packages/torch/nn/modules/rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/tmp/kk/lib/python3.11/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Collecting en-core-web-sm==3.8.0
+  Downloading https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl (12.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.8/12.8 MB 51.5 MB/s eta 0:00:00
+Installing collected packages: en-core-web-sm
+Successfully installed en-core-web-sm-3.8.0
+
+[notice] A new release of pip is available: 24.0 -> 26.2.1
+[notice] To update, run: python -m pip install --upgrade pip
+/tmp/kk/lib/python3.11/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+[38;5;2m✔ Download and installation successful[0m
+You can now load the package via spacy.load('en_core_web_sm')
+kokoro laws 0/138
+kokoro laws 25/138
+kokoro laws 50/138
+kokoro laws 75/138
+kokoro laws 100/138
+kokoro laws 125/138
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/tmp/cb/lib/python3.11/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+Downloading: "https://dl.fbaipublicfiles.com/mms/torchaudio/ctc_alignment_mling_uroman/model.pt" to /home/runner/.cache/torch/hub/checkpoints/model.pt
+loaded PerthNet (Implicit) at step 250,000
+  0%|          | 0.00/1.18G [00:00<?, ?B/s]  4%|▎         | 43.0M/1.18G [00:00<00:02, 450MB/s]  8%|▊         | 92.1M/1.18G [00:00<00:02, 488MB/s] 12%|█▏        | 139M/1.18G [00:00<00:02, 470MB/s]  15%|█▌        | 184M/1.18G [00:00<00:02, 459MB/s] 19%|█▉        | 233M/1.18G [00:00<00:02, 476MB/s] 23%|██▎       | 278M/1.18G [00:00<00:02, 466MB/s] 27%|██▋       | 324M/1.18G [00:00<00:01, 471MB/s] 31%|███       | 369M/1.18G [00:00<00:01, 466MB/s] 35%|███▌      | 423M/1.18G [00:00<00:01, 494MB/s] 39%|███▉      | 470M/1.18G [00:02<00:06, 123MB/s] 44%|████▎     | 525M/1.18G [00:02<00:04, 168MB/s] 48%|████▊     | 580M/1.18G [00:02<00:03, 218MB/s] 53%|█████▎    | 635M/1.18G [00:02<00:02, 271MB/s] 57%|█████▋    | 683M/1.18G [00:02<00:01, 306MB/s] 61%|██████    | 729M/1.18G [00:02<00:01, 337MB/s] 65%|██████▍   | 781M/1.18G [00:02<00:01, 382MB/s] 69%|██████▉   | 830M/1.18G [00:02<00:00, 414MB/s] 73%|███████▎  | 878M/1.18G [00:02<00:00, 436MB/s] 78%|███████▊  | 934M/1.18G [00:02<00:00, 474MB/s] 82%|████████▏ | 989M/1.18G [00:03<00:00, 502MB/s] 87%|████████▋ | 1.02G/1.18G [00:03<00:00, 525MB/s] 91%|█████████▏| 1.07G/1.18G [00:03<00:00, 541MB/s] 96%|█████████▌| 1.13G/1.18G [00:03<00:00, 553MB/s]100%|██████████| 1.18G/1.18G [00:03<00:00, 369MB/s]
+WARNING:root:Reference mel length is not equal to 2 * reference token length.
+
+/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+`sdpa` attention does not support `output_attentions=True`. Please set your attention to `eager` if you want any of these features.
+WARNING:transformers.integrations.sdpa_attention:`sdpa` attention does not support `output_attentions=True`. Please set your attention to `eager` if you want any of these features.
+Sampling:   0%|          | 0/1000 [00:00<?, ?it/s]Sampling:   0%|          | 1/1000 [00:00<02:19,  7.15it/s]Sampling:   0%|          | 2/1000 [00:00<02:44,  6.05it/s]Sampling:   0%|          | 3/1000 [00:00<02:53,  5.73it/s]Sampling:   0%|          | 4/1000 [00:00<02:44,  6.04it/s]Sampling:   0%|          | 5/1000 [00:00<02:37,  6.32it/s]Sampling:   1%|          | 6/1000 [00:00<02:30,  6.59it/s]Sampling:   1%|          | 7/1000 [00:01<02:25,  6.82it/s]Sampling:   1%|          | 8/1000 [00:01<02:22,  6.97it/s]Sampling:   1%|          | 9/1000 [00:01<02:20,  7.03it/s]Sampling:   1%|          | 10/1000 [00:01<02:19,  7.08it/s]Sampling:   1%|          | 11/1000 [00:01<02:18,  7.16it/s]Sampling:   1%|          | 12/1000 [00:01<02:17,  7.20it/s]Sampling:   1%|▏         | 13/1000 [00:01<02:18,  7.15it/s]Sampling:   1%|▏         | 14/1000 [00:02<02:17,  7.16it/s]Sampling:   2%|▏         | 15/1000 [00:02<02:17,  7.17it/s]Sampling:   2%|▏         | 16/1000 [00:02<02:17,  7.15it/s]Sampling:   2%|▏         | 17/1000 [00:02<02:17,  7.16it/s]Sampling:   2%|▏         | 18/1000 [00:02<02:17,  7.14it/s]Sampling:   2%|▏         | 19/1000 [00:02<02:21,  6.95it/s]Sampling:   2%|▏         | 20/1000 [00:02<02:23,  6.82it/s]Sampling:   2%|▏         | 21/1000 [00:03<02:24,  6.79it/s]Sampling:   2%|▏         | 22/1000 [00:03<02:23,  6.83it/s]Sampling:   2%|▏         | 23/1000 [00:03<02:23,  6.82it/s]Sampling:   2%|▏         | 24/1000 [00:03<02:22,  6.85it/s]Sampling:   2%|▎         | 25/1000 [00:03<02:21,  6.90it/s]Sampling:   3%|▎         | 26/1000 [00:03<02:21,  6.86it/s]Sampling:   3%|▎         | 27/1000 [00:03<02:20,  6.90it/s]Sampling:   3%|▎         | 28/1000 [00:04<02:19,  6.95it/s]Sampling:   3%|▎         | 29/1000 [00:04<02:17,  7.05it/s]Sampling:   3%|▎         | 30/1000 [00:04<02:17,  7.04it/s]Sampling:   3%|▎         | 31/1000 [00:04<02:16,  7.08it/s]Sampling:   3%|▎         | 32/1000 [00:04<02:15,  7.13it/s]Sampling:   3%|▎         | 33/1000 [00:04<02:16,  7.09it/s]Sampling:   3%|▎         | 34/1000 [00:04<02:14,  7.17it/s]Sampling:   4%|▎         | 35/1000 [00:05<02:13,  7.21it/s]Sampling:   4%|▎         | 36/1000 [00:05<02:13,  7.20it/s]Sampling:   4%|▎         | 37/1000 [00:05<02:15,  7.11it/s]Sampling:   4%|▍         | 38/1000 [00:05<02:15,  7.07it/s]Sampling:   4%|▍         | 39/1000 [00:05<02:14,  7.14it/s]Sampling:   4%|▍         | 40/1000 [00:05<02:13,  7.20it/s]Sampling:   4%|▍         | 41/1000 [00:05<02:13,  7.16it/s]Sampling:   4%|▍         | 42/1000 [00:06<02:14,  7.13it/s]Sampling:   4%|▍         | 43/1000 [00:06<02:13,  7.16it/s]Sampling:   4%|▍         | 44/1000 [00:06<02:14,  7.13it/s]Sampling:   4%|▍         | 45/1000 [00:06<02:13,  7.14it/s]Sampling:   5%|▍         | 46/1000 [00:06<02:12,  7.17it/s]Sampling:   5%|▍         | 47/1000 [00:06<02:13,  7.13it/s]Sampling:   5%|▍         | 48/1000 [00:06<02:13,  7.12it/s]Sampling:   5%|▍         | 49/1000 [00:07<02:15,  7.03it/s]Sampling:   5%|▌         | 50/1000 [00:07<02:13,  7.13it/s]Sampling:   5%|▌         | 51/1000 [00:07<02:13,  7.11it/s]Sampling:   5%|▌         | 52/1000 [00:07<02:15,  6.99it/s]Sampling:   5%|▌         | 52/1000 [00:07<02:15,  6.98it/s]
+chatterbox laws 1/1 p6l0000 retakes=0

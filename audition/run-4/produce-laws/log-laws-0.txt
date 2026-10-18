@@ -1,0 +1,58 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/tmp/kk/lib/python3.11/site-packages/torch/nn/modules/rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/tmp/kk/lib/python3.11/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+Collecting en-core-web-sm==3.8.0
+  Downloading https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl (12.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.8/12.8 MB 92.5 MB/s eta 0:00:00
+Installing collected packages: en-core-web-sm
+Successfully installed en-core-web-sm-3.8.0
+
+[notice] A new release of pip is available: 24.0 -> 26.2.1
+[notice] To update, run: python -m pip install --upgrade pip
+/tmp/kk/lib/python3.11/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+[38;5;2m✔ Download and installation successful[0m
+You can now load the package via spacy.load('en_core_web_sm')
+kokoro laws 0/465
+kokoro laws 25/465
+kokoro laws 50/465
+kokoro laws 75/465
+kokoro laws 100/465
+kokoro laws 125/465
+kokoro laws 150/465
+kokoro laws 175/465
+kokoro laws 200/465
+kokoro laws 225/465
+kokoro laws 250/465
+kokoro laws 275/465
+kokoro laws 300/465
+kokoro laws 325/465
+kokoro laws 350/465
+kokoro laws 375/465
+kokoro laws 400/465
+kokoro laws 425/465
+kokoro laws 450/465
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/tmp/cb/lib/python3.11/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+Downloading: "https://dl.fbaipublicfiles.com/mms/torchaudio/ctc_alignment_mling_uroman/model.pt" to /home/runner/.cache/torch/hub/checkpoints/model.pt
+loaded PerthNet (Implicit) at step 250,000
+  0%|          | 0.00/1.18G [00:00<?, ?B/s]  4%|▍         | 53.6M/1.18G [00:00<00:02, 562MB/s]  9%|▉         | 111M/1.18G [00:00<00:01, 582MB/s]  14%|█▍        | 166M/1.18G [00:00<00:02, 460MB/s] 18%|█▊        | 221M/1.18G [00:00<00:02, 497MB/s] 23%|██▎       | 277M/1.18G [00:00<00:01, 527MB/s] 28%|██▊       | 333M/1.18G [00:00<00:01, 545MB/s] 32%|███▏      | 389M/1.18G [00:00<00:01, 559MB/s] 37%|███▋      | 443M/1.18G [00:00<00:01, 553MB/s] 41%|████▏     | 498M/1.18G [00:00<00:01, 559MB/s] 46%|████▌     | 552M/1.18G [00:01<00:01, 561MB/s] 50%|█████     | 606M/1.18G [00:01<00:01, 551MB/s] 55%|█████▍    | 659M/1.18G [00:01<00:01, 516MB/s] 59%|█████▉    | 711M/1.18G [00:01<00:00, 524MB/s] 64%|██████▍   | 767M/1.18G [00:01<00:00, 544MB/s] 69%|██████▊   | 826M/1.18G [00:01<00:00, 564MB/s] 73%|███████▎  | 880M/1.18G [00:01<00:00, 545MB/s] 77%|███████▋  | 932M/1.18G [00:01<00:00, 529MB/s] 82%|████████▏ | 986M/1.18G [00:01<00:00, 541MB/s] 86%|████████▋ | 1.01G/1.18G [00:02<00:00, 530MB/s] 90%|█████████ | 1.06G/1.18G [00:02<00:00, 528MB/s] 95%|█████████▍| 1.11G/1.18G [00:02<00:00, 516MB/s] 99%|█████████▉| 1.16G/1.18G [00:02<00:00, 517MB/s]100%|██████████| 1.18G/1.18G [00:02<00:00, 534MB/s]
+WARNING:root:Reference mel length is not equal to 2 * reference token length.
+
+/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+`sdpa` attention does not support `output_attentions=True`. Please set your attention to `eager` if you want any of these features.
+WARNING:transformers.integrations.sdpa_attention:`sdpa` attention does not support `output_attentions=True`. Please set your attention to `eager` if you want any of these features.
+Sampling:   0%|          | 0/1000 [00:00<?, ?it/s]Sampling:   0%|          | 2/1000 [00:00<01:23, 11.89it/s]Sampling:   0%|          | 4/1000 [00:00<01:23, 11.91it/s]Sampling:   1%|          | 6/1000 [00:00<01:23, 11.94it/s]Sampling:   1%|          | 8/1000 [00:00<01:23, 11.92it/s]Sampling:   1%|          | 10/1000 [00:00<01:23, 11.91it/s]Sampling:   1%|          | 12/1000 [00:01<01:23, 11.89it/s]Sampling:   1%|▏         | 14/1000 [00:01<01:23, 11.87it/s]Sampling:   2%|▏         | 16/1000 [00:01<01:23, 11.85it/s]Sampling:   2%|▏         | 18/1000 [00:01<01:22, 11.87it/s]Sampling:   2%|▏         | 20/1000 [00:01<01:22, 11.85it/s]Sampling:   2%|▏         | 22/1000 [00:01<01:22, 11.84it/s]Sampling:   2%|▏         | 24/1000 [00:02<01:22, 11.83it/s]Sampling:   3%|▎         | 26/1000 [00:02<01:22, 11.78it/s]Sampling:   3%|▎         | 28/1000 [00:02<01:22, 11.77it/s]Sampling:   3%|▎         | 30/1000 [00:02<01:23, 11.68it/s]Sampling:   3%|▎         | 32/1000 [00:02<01:22, 11.67it/s]Sampling:   3%|▎         | 34/1000 [00:02<01:23, 11.61it/s]Sampling:   4%|▎         | 36/1000 [00:03<01:22, 11.64it/s]Sampling:   4%|▍         | 38/1000 [00:03<01:22, 11.64it/s]Sampling:   4%|▍         | 40/1000 [00:03<01:22, 11.61it/s]Sampling:   4%|▍         | 42/1000 [00:03<01:22, 11.67it/s]Sampling:   4%|▍         | 44/1000 [00:03<01:21, 11.68it/s]Sampling:   5%|▍         | 46/1000 [00:03<01:21, 11.66it/s]Sampling:   5%|▍         | 48/1000 [00:04<01:21, 11.73it/s]Sampling:   5%|▌         | 50/1000 [00:04<01:20, 11.74it/s]Sampling:   5%|▌         | 52/1000 [00:04<01:21, 11.69it/s]Sampling:   5%|▌         | 54/1000 [00:04<01:21, 11.63it/s]Sampling:   6%|▌         | 56/1000 [00:04<01:21, 11.65it/s]Sampling:   6%|▌         | 58/1000 [00:04<01:20, 11.64it/s]Sampling:   6%|▌         | 60/1000 [00:05<01:20, 11.62it/s]Sampling:   6%|▌         | 62/1000 [00:05<01:21, 11.56it/s]Sampling:   6%|▋         | 64/1000 [00:05<01:20, 11.57it/s]Sampling:   7%|▋         | 66/1000 [00:05<01:20, 11.58it/s]Sampling:   7%|▋         | 68/1000 [00:05<01:21, 11.47it/s]Sampling:   7%|▋         | 70/1000 [00:05<01:20, 11.50it/s]Sampling:   7%|▋         | 72/1000 [00:06<01:20, 11.50it/s]Sampling:   7%|▋         | 74/1000 [00:06<01:20, 11.52it/s]Sampling:   8%|▊         | 76/1000 [00:06<01:19, 11.56it/s]Sampling:   8%|▊         | 78/1000 [00:06<01:20, 11.51it/s]Sampling:   8%|▊         | 80/1000 [00:06<01:19, 11.53it/s]Sampling:   8%|▊         | 82/1000 [00:07<01:19, 11.54it/s]Sampling:   8%|▊         | 84/1000 [00:07<01:19, 11.55it/s]Sampling:   9%|▊         | 86/1000 [00:07<01:19, 11.50it/s]Sampling:   9%|▉         | 88/1000 [00:07<01:19, 11.54it/s]Sampling:   9%|▉         | 90/1000 [00:07<01:19, 11.51it/s]Sampling:   9%|▉         | 92/1000 [00:07<01:19, 11.37it/s]Sampling:   9%|▉         | 93/1000 [00:07<01:17, 11.64it/s]
+chatterbox laws 1/3 p1l0000 retakes=0
+WARNING:root:Reference mel length is not equal to 2 * reference token length.
+
+Sampling:   0%|          | 0/1000 [00:00<?, ?it/s]Sampling:   0%|          | 2/1000 [00:00<01:23, 11.89it/s]Sampling:   0%|          | 4/1000 [00:00<01:23, 11.88it/s]Sampling:   1%|          | 6/1000 [00:00<01:23, 11.95it/s]Sampling:   1%|          | 8/1000 [00:00<01:23, 11.95it/s]Sampling:   1%|          | 10/1000 [00:00<01:27, 11.36it/s]Sampling:   1%|          | 12/1000 [00:01<01:25, 11.50it/s]Sampling:   1%|▏         | 14/1000 [00:01<01:24, 11.61it/s]Sampling:   2%|▏         | 16/1000 [00:01<01:25, 11.56it/s]Sampling:   2%|▏         | 18/1000 [00:01<01:24, 11.58it/s]Sampling:   2%|▏         | 20/1000 [00:01<01:24, 11.61it/s]Sampling:   2%|▏         | 22/1000 [00:01<01:23, 11.65it/s]Sampling:   2%|▏         | 24/1000 [00:02<01:23, 11.66it/s]Sampling:   3%|▎         | 26/1000 [00:02<01:23, 11.67it/s]Sampling:   3%|▎         | 28/1000 [00:02<01:23, 11.65it/s]Sampling:   3%|▎         | 30/1000 [00:02<01:23, 11.65it/s]Sampling:   3%|▎         | 32/1000 [00:02<01:23, 11.63it/s]Sampling:   3%|▎         | 34/1000 [00:02<01:23, 11.58it/s]Sampling:   4%|▎         | 36/1000 [00:03<01:23, 11.61it/s]Sampling:   4%|▍         | 38/1000 [00:03<01:22, 11.61it/s]Sampling:   4%|▍         | 40/1000 [00:03<01:24, 11.35it/s]Sampling:   4%|▍         | 42/1000 [00:03<01:26, 11.06it/s]Sampling:   4%|▍         | 44/1000 [00:03<01:25, 11.18it/s]Sampling:   5%|▍         | 46/1000 [00:03<01:25, 11.19it/s]Sampling:   5%|▍         | 48/1000 [00:04<01:24, 11.22it/s]Sampling:   5%|▌         | 50/1000 [00:04<01:24, 11.25it/s]Sampling:   5%|▌         | 52/1000 [00:04<01:24, 11.27it/s]Sampling:   5%|▌         | 54/1000 [00:04<01:23, 11.26it/s]Sampling:   6%|▌         | 56/1000 [00:04<01:23, 11.25it/s]Sampling:   6%|▌         | 58/1000 [00:05<01:23, 11.25it/s]Sampling:   6%|▌         | 60/1000 [00:05<01:23, 11.31it/s]Sampling:   6%|▌         | 60/1000 [00:05<01:22, 11.46it/s]
+chatterbox laws 2/3 p2l0000 retakes=0
+WARNING:root:Reference mel length is not equal to 2 * reference token length.
+
+Sampling:   0%|          | 0/1000 [00:00<?, ?it/s]Sampling:   0%|          | 2/1000 [00:00<01:23, 11.90it/s]Sampling:   0%|          | 4/1000 [00:00<01:24, 11.84it/s]Sampling:   1%|          | 6/1000 [00:00<01:24, 11.82it/s]Sampling:   1%|          | 8/1000 [00:00<01:23, 11.83it/s]Sampling:   1%|          | 10/1000 [00:00<01:23, 11.79it/s]Sampling:   1%|          | 12/1000 [00:01<01:23, 11.83it/s]Sampling:   1%|▏         | 14/1000 [00:01<01:23, 11.83it/s]Sampling:   2%|▏         | 16/1000 [00:01<01:23, 11.83it/s]Sampling:   2%|▏         | 18/1000 [00:01<01:23, 11.83it/s]Sampling:   2%|▏         | 20/1000 [00:01<01:23, 11.75it/s]Sampling:   2%|▏         | 22/1000 [00:01<01:23, 11.71it/s]Sampling:   2%|▏         | 24/1000 [00:02<01:23, 11.72it/s]Sampling:   3%|▎         | 26/1000 [00:02<01:23, 11.72it/s]Sampling:   3%|▎         | 28/1000 [00:02<01:22, 11.73it/s]Sampling:   3%|▎         | 30/1000 [00:02<01:23, 11.67it/s]Sampling:   3%|▎         | 32/1000 [00:02<01:23, 11.62it/s]Sampling:   3%|▎         | 34/1000 [00:02<01:22, 11.68it/s]Sampling:   4%|▎         | 36/1000 [00:03<01:22, 11.67it/s]Sampling:   4%|▍         | 38/1000 [00:03<01:22, 11.65it/s]Sampling:   4%|▍         | 40/1000 [00:03<01:22, 11.68it/s]Sampling:   4%|▍         | 42/1000 [00:03<01:22, 11.68it/s]Sampling:   4%|▍         | 44/1000 [00:03<01:22, 11.61it/s]Sampling:   5%|▍         | 46/1000 [00:03<01:22, 11.62it/s]Sampling:   5%|▍         | 48/1000 [00:04<01:21, 11.63it/s]Sampling:   5%|▌         | 50/1000 [00:04<01:21, 11.62it/s]Sampling:   5%|▌         | 52/1000 [00:04<01:21, 11.61it/s]Sampling:   5%|▌         | 54/1000 [00:04<01:22, 11.54it/s]Sampling:   6%|▌         | 56/1000 [00:04<01:21, 11.56it/s]Sampling:   6%|▌         | 56/1000 [00:04<01:20, 11.68it/s]
+chatterbox laws 3/3 p3l0000 retakes=0
