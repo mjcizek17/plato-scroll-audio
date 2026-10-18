@@ -1,0 +1,1 @@
+{"work": "hippmin", "parts": [{"file": "hippmin-p1.mp3", "minutes": 34.6, "lines": 230, "words": 5759, "words_interpolated": 24, "retakes": 0, "flagged_takes": []}]}
