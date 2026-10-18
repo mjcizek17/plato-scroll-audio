@@ -1,0 +1,14 @@
+{
+ "work": "phdr",
+ "parts": [
+  {
+   "file": "phdr-p1.mp3",
+   "minutes": 141.46,
+   "lines": 439,
+   "words": 24548,
+   "words_interpolated": 6,
+   "retakes": 9,
+   "flagged_takes": []
+  }
+ ]
+}
