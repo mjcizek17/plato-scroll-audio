@@ -1,0 +1,14 @@
+{
+ "work": "minos",
+ "parts": [
+  {
+   "file": "minos-p1.mp3",
+   "minutes": 24.22,
+   "lines": 195,
+   "words": 3872,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
