@@ -1,0 +1,14 @@
+{
+ "work": "hippmaj",
+ "parts": [
+  {
+   "file": "hippmaj-p1.mp3",
+   "minutes": 66.95,
+   "lines": 359,
+   "words": 11620,
+   "words_interpolated": 6,
+   "retakes": 1,
+   "flagged_takes": []
+  }
+ ]
+}
