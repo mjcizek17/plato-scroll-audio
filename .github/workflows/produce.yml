@@ -39,7 +39,9 @@ jobs:
           python3 -m venv /tmp/kk && /tmp/kk/bin/pip install -q $PIP_CPU torch && /tmp/kk/bin/pip install -q "kokoro>=0.9.4" soundfile "misaki[en]" 2>&1 | tail -2
           /tmp/kk/bin/python tools/make_refs.py
       - uses: actions/upload-artifact@v4
-        with: { name: refs, path: cast/refs, retention-days: 7 }
+        with: { name: refs, path: cast/refs, retention-days: 1 }
+      - name: Scratch release for the rendered lines (release files don't count against Actions storage)
+        run: gh release create "lines-${{ github.run_id }}" --prerelease --title "Working files, run ${{ github.run_id }}" --notes "Rendered lines passed from the render jobs to assemble; deleted when the works are published." || gh release view "lines-${{ github.run_id }}" >/dev/null
       - id: q
         run: |
           echo "shards=$(python3 engines/script.py render/queue.json)" >> "$GITHUB_OUTPUT"
@@ -81,8 +83,10 @@ jobs:
       - if: always()
         run: cp out/log-$N.txt out/lines/ || true
       - if: always()
-        uses: actions/upload-artifact@v4
-        with: { name: "lines-${{ env.N }}", path: out/lines, retention-days: 7 }
+        name: Hand the lines to assemble
+        run: |
+          tar -cf "lines-${W}--${{ matrix.s.shard }}.tar" -C out/lines .
+          for i in 1 2 3 4 5; do gh release upload "lines-${{ github.run_id }}" "lines-${W}--${{ matrix.s.shard }}.tar" --clobber && break; sleep $((i*20)); done
 
   assemble:
     needs: [plan, render]
@@ -97,12 +101,19 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg && pip install -q numpy
-      - if: needs.plan.outputs.reuse != ''
-        name: Lines from the earlier run (only part of the work is re-rendered in this one)
-        uses: actions/download-artifact@v4
-        with: { pattern: "lines-${{ matrix.work }}-*", path: lines, merge-multiple: true, run-id: "${{ needs.plan.outputs.reuse }}", github-token: "${{ github.token }}" }
-      - uses: actions/download-artifact@v4
-        with: { pattern: "lines-${{ matrix.work }}-*", path: lines, merge-multiple: true }
+      - name: Collect the lines (an earlier run's first when only part of the work is re-rendered)
+        run: |
+          mkdir -p lines dl
+          W="${{ matrix.work }}"; R="${{ needs.plan.outputs.reuse }}"
+          if [ -n "$R" ]; then
+            if gh release view "lines-$R" >/dev/null 2>&1; then gh release download "lines-$R" -p "lines-$W--*.tar" -D dl/old --clobber || true
+            else gh run download "$R" -p "lines-$W-*" -D dl/oldart || true; fi
+            for t in dl/old/*.tar; do [ -f "$t" ] && tar -xf "$t" -C lines; done
+            for d in dl/oldart/*/; do [ -d "$d" ] && cp -r "$d". lines/; done
+          fi
+          gh release download "lines-${{ github.run_id }}" -p "lines-$W--*.tar" -D dl/new --clobber || true
+          for t in dl/new/*.tar; do [ -f "$t" ] && tar -xf "$t" -C lines; done
+          ls lines | wc -l
       - run: mkdir -p out && python tools/assemble.py ${{ matrix.work }} lines out 2>&1 | tee out/assemble-${{ matrix.work }}.log.txt
       - if: always()
         run: cp lines/log-*.txt out/ 2>/dev/null || true
@@ -115,3 +126,16 @@ jobs:
           tag="${{ needs.plan.outputs.tag }}"
           gh release view "$tag" >/dev/null 2>&1 || gh release create "$tag" --title "$tag" --notes "Plato Scroll audiobooks, Horan translation, full cast." || true
           gh release upload "$tag" out/*.mp3 out/*.timing.json out/*.report.json --clobber
+          # published: this work's working files can go (a failed work keeps them for a repair run)
+          for a in $(gh release view "lines-${{ github.run_id }}" --json assets -q '.assets[].name' | grep "^lines-${{ matrix.work }}--"); do gh release delete-asset "lines-${{ github.run_id }}" "$a" -y || true; done
+
+  tidy:
+    needs: assemble
+    if: always()
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Drop the scratch release once nothing in it is needed
+        run: |
+          n=$(gh release view "lines-${{ github.run_id }}" -R "${{ github.repository }}" --json assets -q '.assets | length' 2>/dev/null || echo x)
+          [ "$n" = "0" ] && gh release delete "lines-${{ github.run_id }}" -R "${{ github.repository }}" -y --cleanup-tag || echo "kept: $n files"
+          gh api -X DELETE "repos/${{ github.repository }}/actions/artifacts/$(gh api repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts -q '.artifacts[] | select(.name=="refs") | .id')" || true

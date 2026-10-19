@@ -19,5 +19,6 @@
  ],
  "dest": "release",
  "tag": "neoplatonists-v1",
- "budget": 12000
+ "budget": 12000,
+ "note": "restart on release-based handoff (no Actions storage)"
 }
