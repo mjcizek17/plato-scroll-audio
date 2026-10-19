@@ -1,0 +1,101 @@
+[
+ {
+  "key": "hipparch",
+  "title": "Hipparchus",
+  "parts": 1,
+  "chars": 16129,
+  "speakers": [
+   "Friend",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "rivals",
+  "title": "The Rival Lovers",
+  "parts": 1,
+  "chars": 18195,
+  "speakers": [
+   "Socrates"
+  ]
+ },
+ {
+  "key": "theages",
+  "title": "Theages",
+  "parts": 1,
+  "chars": 25602,
+  "speakers": [
+   "Demodocus",
+   "Socrates",
+   "Theages"
+  ]
+ },
+ {
+  "key": "sisyph",
+  "title": "Sisyphus",
+  "parts": 1,
+  "chars": 11213,
+  "speakers": [
+   "Sisyphus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "axioch",
+  "title": "Axiochus",
+  "parts": 1,
+  "chars": 20675,
+  "speakers": [
+   "Axiochus",
+   "Clinias",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "demod",
+  "title": "Demodocus",
+  "parts": 1,
+  "chars": 19483,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "eryx",
+  "title": "Eryxias",
+  "parts": 1,
+  "chars": 32914,
+  "speakers": [
+   "Critias",
+   "Erasistratus",
+   "Eryxias",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "onjust",
+  "title": "On Justice",
+  "parts": 1,
+  "chars": 8691,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "onvirt",
+  "title": "On Virtue",
+  "parts": 1,
+  "chars": 9730,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "defns",
+  "title": "Definitions",
+  "parts": 1,
+  "chars": 17730,
+  "speakers": [
+   "Narrator"
+  ]
+ }
+]

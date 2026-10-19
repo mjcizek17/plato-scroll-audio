@@ -1,0 +1,1130 @@
+{
+"key": "defns",
+"title": "Definitions",
+"author": "Plato",
+"translator": "George Burges",
+"credit": "translated by George Burges",
+"parts": [
+{
+"name": "Definitions",
+"lines": [
+{
+"entry": 0,
+"who": "Narrator",
+"text": "Eternal — that which has existed formerly through all time, and is now not destroyed.",
+"kind": "narration"
+},
+{
+"entry": 1,
+"who": "Narrator",
+"text": "God — an immortal living-being, sufficient in itself for happiness; an eternal existence; the cause of the nature of the good.",
+"kind": "narration"
+},
+{
+"entry": 2,
+"who": "Narrator",
+"text": "Generation — a movement towards existence; a sharing through a change in existence; a progression towards existence.",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Narrator",
+"text": "The sun — a fire in heaven, which can alone be seen from morning to evening by the same; the greatest star, visible by day; a perpetually living being, possessing a soul. Time — a movement of the sun; a measure of progress.",
+"kind": "narration"
+},
+{
+"entry": 4,
+"who": "Narrator",
+"text": "Day — a journeying of the sun from its rising (east) to its setting (west); a light, the opposite to Night.",
+"kind": "narration"
+},
+{
+"entry": 5,
+"who": "Narrator",
+"text": "Morning — the beginning of day; the first light from the sun.",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Narrator",
+"text": "Mid-day — the time when the shadows of substances have the least length.",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Narrator",
+"text": "Evening — the close of day.",
+"kind": "narration"
+},
+{
+"entry": 8,
+"who": "Narrator",
+"text": "Night — darkness, the opposite to Day; a deprivation of the sun.",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Narrator",
+"text": "Chance — a proceeding from uncertainty to uncertainty, and from what is spontaneous; the cause of a fortuitous action.",
+"kind": "narration"
+},
+{
+"entry": 10,
+"who": "Narrator",
+"text": "Old Age — the wasting away of a thing with life, the result of time.",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Narrator",
+"text": "Wind — a movement in the air around the earth.",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Narrator",
+"text": "Air — an element, all of whose movements according to spabe are according to nature.",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Narrator",
+"text": "Heaven — a substance, surrounding all things perceived by the senses, except the uppermost air.",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Narrator",
+"text": "Soul — that which moves itself; the cause of vital motion in living beings.",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Narrator",
+"text": "Power — that, which is able by itself to produce an effect.",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Narrator",
+"text": "Vision — the (bodily) habit of distinguishing substances.",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Narrator",
+"text": "Bone — marrow, consolidated by heat.",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Narrator",
+"text": "Element — that, which combines and separates (particles) brought together.",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Narrator",
+"text": "Virtue — a (mental) constitution of the best kind; a habit of a mortal living being; the object of praise on account of itself; a habit, according to which that, which possesses it, is said to be good; a just communion of laws; a disposition, according to which that, which is constituted perfectly, is called steady; a habit, effective of a good state of law.",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Narrator",
+"text": "Discretion — a power effective by itself of the good fortune of man; a knowledge of things good and evil; a knowledge effective of felicity; a (mental) constitution, by which we determine what is to be done and what is not to be done.",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Narrator",
+"text": "Justice — an agreement of the soul with itself, and a correct arrangement of the parts of the soul towards each other and about each other; a habit, distributive to each person of that, which is according to worthiness; a habit, according to which he, who possesses it, can select what seems to him to be just; a habit in life, subservient to law; an equality that can share in common; a habit ministering to upright laws.",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Narrator",
+"text": "Temperance — a moderation of soul relating to the desires and pleasures, which exist in it according to nature; a fitness in, and correct ordering of, the soul, as regards its natural pleasures and pains; a harmony in the soul touching the states of ruling and being ruled; a self-acting according to nature; ί an intercourse of the soul, founded on reason, relating to things honourable and base; a habit according to which he, who has it, can select and be cautious of what he ought.",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Narrator",
+"text": "Fortitude — a habit of the soul, not to be moved by fear; a boldness in war; a knowledge of the things relating to war; a command over the soul relating to things of fear and dread; a boldness subservient to discretion; a bold bearing under the expectation of death; a habit, preservative of right reasoning in dangers; a strength (of mind) balancing (the apprehension) of danger;”a strength, bearing up on the side of virtue; a tranquillity of soul with reference to things that appear, according to correct reasoning, to be full of dread and daring; the safe preservation of uncertain determinations relating to things of dread; a skill in war; a habit, that can abide in law.",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Narrator",
+"text": "Continence — a power enduring pain; a following of correct reasoning; a power not exceeded by that which is perceived by correct reasoning.",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Narrator",
+"text": "Self-sufficiency — a completion in the possession of good things; a habit, according to which they, who possess it, are the masters of themselves.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Narrator",
+"text": "Reasonableness — a reduction in what is just and useful; a moderation in compacts; a well-ordering of the soul, founded on reason, as regards things honourable and base.",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Narrator",
+"text": "Endurance — the bearing-up against pain, for the sake of what is honourable; a bearing-up under labour for the sake of what is honourable.",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Narrator",
+"text": "Boldness — the non-expectation of an ill; an imperturbability in the presence of an ill.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Narrator",
+"text": "Non-perception of pain — a habit, according to which we do not fall into sorrows.",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Narrator",
+"text": "The love of labour — a habit, that accomplishes what a person chooses (to do); a voluntary endurance; a habit not to be cavilled at on the subject of labour.",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Narrator",
+"text": "Modesty — a voluntary shrinking from daring on just grounds towards what seems to be the best; a voluntary laying hold of the best; a cautious care of blame on just grounds.",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Narrator",
+"text": "Freedom — the ruling power of life; a power ruling by itself on every occasion; a power over that, which relates to oneself in life; an unsparingness in the use and possession of property.",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Narrator",
+"text": "Liberality — a habit in transacting money matters in a way that is fitting; the adding to, and possession of, property, as is meet.",
+"kind": "narration"
+},
+{
+"entry": 34,
+"who": "Narrator",
+"text": "Mildness — the settling down of an excitement arising from passion; a moderated temperament of soul.",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Narrator",
+"text": "Decorum — a voluntary yielding to what appears the best; a well-ordering respecting the movement of the body.",
+"kind": "narration"
+},
+{
+"entry": 36,
+"who": "Narrator",
+"text": "Felicity — a good composed of all good things; a power self-sufficient towards living well; a consummation as regards virtue; an utility self-sufficient for a living being.",
+"kind": "narration"
+},
+{
+"entry": 37,
+"who": "Narrator",
+"text": "Magnificence — the estimation according to correct reason of that which is the most worthy of respect.",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Narrator",
+"text": "Sagacity — a natural ability in the soul, according to which he, who possesses it, makes a conjecture in the quickest (time) relating to what needful; an acuteness of intellect.",
+"kind": "narration"
+},
+{
+"entry": 39,
+"who": "Narrator",
+"text": "Honesty — a simplicity in moral conduct in union with fair speaking; a steadiness in moral conduct.",
+"kind": "narration"
+},
+{
+"entry": 40,
+"who": "Narrator",
+"text": "Kalokagathia — a habit of selecting things that are the best.",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Narrator",
+"text": "High-mindedness — a gentlemanly use of accidental circumstances; a majesty of soul in union with reason.",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Narrator",
+"text": "Philanthropy — a habit of moral conduct that easily leads to a friendship with man; a habit of acting kindly towards men; the having thanks; a’recollection with kind conduct.",
+"kind": "narration"
+},
+{
+"entry": 43,
+"who": "Narrator",
+"text": "Piety — -justice relating to the gods; a power paying attention to the gods willingly; a correct perception of the honour due to the gods; a knowledge of the honour due to the gods.",
+"kind": "narration"
+},
+{
+"entry": 44,
+"who": "Narrator",
+"text": "Good — that on account of itself.",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Narrator",
+"text": "Fearlessness — a habit, according to which we do not fall into fear.",
+"kind": "narration"
+},
+{
+"entry": 46,
+"who": "Narrator",
+"text": "Apathy — a habit, according to which we do not fall into sufferings.",
+"kind": "narration"
+},
+{
+"entry": 47,
+"who": "Narrator",
+"text": "Peace — a quietness as regards enmity in war.",
+"kind": "narration"
+},
+{
+"entry": 48,
+"who": "Narrator",
+"text": "Listlessness — an easiness of soul; apathy respecting the objects of anger.",
+"kind": "narration"
+},
+{
+"entry": 49,
+"who": "Narrator",
+"text": "Skilfulness — a habit, according to which he, who possesses it, is able to form a conjecture about the peculiar termination (of a thing).",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Narrator",
+"text": "Friendship — a union of sentiment, relating to things honourable and just; the choice of the same kind of life; a union in opinion on questions of sect and practice; a union in sentiment relating to a communion in life in combination with kind feelings; a communion in doing well and in suffering.",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Narrator",
+"text": "Nobility of birth — the virtue of a noble moral conduct; an easy leading of the soul to words and deeds.",
+"kind": "narration"
+},
+{
+"entry": 52,
+"who": "Narrator",
+"text": "Selection — a correct approval after examination.",
+"kind": "narration"
+},
+{
+"entry": 53,
+"who": "Narrator",
+"text": "Kind feeling — the selection of a person for the purpose of embracing by a person.",
+"kind": "narration"
+},
+{
+"entry": 54,
+"who": "Narrator",
+"text": "Familiarity — a sharing in the same family.",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Narrator",
+"text": "Agreement — a sharing in all things existing; a concordance in thoughts and conceptions.",
+"kind": "narration"
+},
+{
+"entry": 56,
+"who": "Narrator",
+"text": "Lovingness — a perfect exhibition.",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Narrator",
+"text": "Statesmanship — the knowledge of what is honourable and advantageous (for a state); a knowledge productive of justice in a state.",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Narrator",
+"text": "Sociality — a friendship arising from an association amongst persons of the same age.",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Narrator",
+"text": "Good counsel — the cognate virtue of reasoning.",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Narrator",
+"text": "Belief — the correct conception of a thing being really as it seems to be; a firmness in moral conduct.",
+"kind": "narration"
+},
+{
+"entry": 61,
+"who": "Narrator",
+"text": "Truth — a habit in affirming and denying; a knowledge of things true.",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Narrator",
+"text": "A wishing — a desire with right reason; a reasonable longing; a longing with reason, according to nature.",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Narrator",
+"text": "Counselling — an exhortation to another person, previous to acting, as to what manner it is meet to act.",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Narrator",
+"text": "Fit opportunity — the meeting with the time in which it is requisite to suffer or do something.",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Narrator",
+"text": "Caution — a guard against ill; the care of guarding (oneself).",
+"kind": "narration"
+},
+{
+"entry": 66,
+"who": "Narrator",
+"text": "Order — the working out a similarity in all things existing with a relation to each other; a symmetry of communion; the cause of all things existing with a relation to each other; a symmetry towards learning.",
+"kind": "narration"
+},
+{
+"entry": 67,
+"who": "Narrator",
+"text": "Application — a bracing up of the soul for learning.",
+"kind": "narration"
+},
+{
+"entry": 68,
+"who": "Narrator",
+"text": "Natural ability — a quickness in learning; a good production of nature; an excellence from nature.",
+"kind": "narration"
+},
+{
+"entry": 69,
+"who": "Narrator",
+"text": "Docility — a natural ability in the soul towards a quickness in learning.",
+"kind": "narration"
+},
+{
+"entry": 70,
+"who": "Narrator",
+"text": "Judgment — a peremptory decision respecting a disputed matter.",
+"kind": "narration"
+},
+{
+"entry": 71,
+"who": "Narrator",
+"text": "Law — the (process of a) contest respecting the having done an injury or not.",
+"kind": "narration"
+},
+{
+"entry": 72,
+"who": "Narrator",
+"text": "Good legal conduct — an obedience shown to proper laws.",
+"kind": "narration"
+},
+{
+"entry": 73,
+"who": "Narrator",
+"text": "Cheerfulness — a delight at the acts of a temperate person.",
+"kind": "narration"
+},
+{
+"entry": 74,
+"who": "Narrator",
+"text": "Honour — a gift of good things presented on actions done through virtue; a mark of esteem in return for virtue; the outward bearing of what is an object of reverence; the watching of a mark of esteem.",
+"kind": "narration"
+},
+{
+"entry": 75,
+"who": "Narrator",
+"text": "Alacrity — the exhibition of a practical preference.",
+"kind": "narration"
+},
+{
+"entry": 76,
+"who": "Narrator",
+"text": "Favour — a voluntary act of ldndness; the return for a good act; a ministering at a fit time.",
+"kind": "narration"
+},
+{
+"entry": 77,
+"who": "Narrator",
+"text": "Concord — a similarity of opinion between rulers and ruled, how they ought to rule and be ruled.",
+"kind": "narration"
+},
+{
+"entry": 78,
+"who": "Narrator",
+"text": "A polity — the community of a multitude of persons, self-sufficient for a happy state; the community of a multitude according to law.",
+"kind": "narration"
+},
+{
+"entry": 79,
+"who": "Narrator",
+"text": "Forethought — a preparation with respect to things about to be.",
+"kind": "narration"
+},
+{
+"entry": 80,
+"who": "Narrator",
+"text": "Counsel — a consideration respecting future things how they may be advantageous.",
+"kind": "narration"
+},
+{
+"entry": 81,
+"who": "Narrator",
+"text": "Victory — a power having the superiority, as regards contention.",
+"kind": "narration"
+},
+{
+"entry": 82,
+"who": "Narrator",
+"text": "A ready-way-finding — a ready discrimination, that pos- ‘ sesses a power over what is thought upon.",
+"kind": "narration"
+},
+{
+"entry": 83,
+"who": "Narrator",
+"text": "Bribe — the exchange for a favour.",
+"kind": "narration"
+},
+{
+"entry": 84,
+"who": "Narrator",
+"text": "Opportunity — the point of time suited to what is advantageous; a time that works for some good.",
+"kind": "narration"
+},
+{
+"entry": 85,
+"who": "Narrator",
+"text": "Memory — a disposition of the soul preservative of the truth that is in it.",
+"kind": "narration"
+},
+{
+"entry": 86,
+"who": "Narrator",
+"text": "The keeping in mind — the having thought on the stretch.",
+"kind": "narration"
+},
+{
+"entry": 87,
+"who": "Narrator",
+"text": "Thinking — the commencement of knowledge.",
+"kind": "narration"
+},
+{
+"entry": 88,
+"who": "Narrator",
+"text": "Holiness — a religious dread of sins against the gods; an attention to the honour due naturally to a deity.",
+"kind": "narration"
+},
+{
+"entry": 89,
+"who": "Narrator",
+"text": "A prophecy — a knowledge, that points out beforehand an action, without a demonstrative proof.",
+"kind": "narration"
+},
+{
+"entry": 90,
+"who": "Narrator",
+"text": "The prophetic art — a science, that speculates upon what is now and will be to a mortal being.",
+"kind": "narration"
+},
+{
+"entry": 91,
+"who": "Narrator",
+"text": "Wisdom — a science not-hypothetical; a knowledge of things as they happen to exist; a science that speculates upon the cause of things existing.",
+"kind": "narration"
+},
+{
+"entry": 92,
+"who": "Narrator",
+"text": "Philosophy — a longing after the knowledge of things as they happen to exist; a habit of speculating upon the truth as to how it is true; a careful study in combination with correct reasoning.",
+"kind": "narration"
+},
+{
+"entry": 93,
+"who": "Narrator",
+"text": "Knowledge — a comprehension by the soul, not to be changed or cast down by reasoning; a true reasoning not to be changed or cast down upon reflection. .",
+"kind": "narration"
+},
+{
+"entry": 94,
+"who": "Narrator",
+"text": "Opinion — a conception to be changed by the persuasion of reason; a rational impetus; a notion falling upon false- “ hood and truth by (not-)reason.",
+"kind": "narration"
+},
+{
+"entry": 95,
+"who": "Narrator",
+"text": "Sensation — an impetus of the soul; a movement of mind; a heralding of the soul through the body to the seasons of man; from which there results a power of the soul devoid of reason, having a cognizance through the body.",
+"kind": "narration"
+},
+{
+"entry": 96,
+"who": "Narrator",
+"text": "Habit — a disposition of the soul, according to which we are said to be with certain qualities.",
+"kind": "narration"
+},
+{
+"entry": 97,
+"who": "Narrator",
+"text": "Voice — a flowing through the mouth from a thought.",
+"kind": "narration"
+},
+{
+"entry": 98,
+"who": "Narrator",
+"text": "Speech — voice expressed by letters descriptive of each of things existing; a form of language, compounded of nouns and verbs, without melody.",
+"kind": "narration"
+},
+{
+"entry": 99,
+"who": "Narrator",
+"text": "Noun — a form of language uncompounded, the interpreter of that which is predicated against being, and of every thing which is not spoken of against itself.",
+"kind": "narration"
+},
+{
+"entry": 100,
+"who": "Narrator",
+"text": "Language — the voice of a man, expressed by letters, and some common symbol, acting as an interpreter, without melody.",
+"kind": "narration"
+},
+{
+"entry": 101,
+"who": "Narrator",
+"text": "Syllable — an articulation of the human voice, expressed by letters.",
+"kind": "narration"
+},
+{
+"entry": 102,
+"who": "Narrator",
+"text": "Definition — a. sentence composed of difference and genus.",
+"kind": "narration"
+},
+{
+"entry": 103,
+"who": "Narrator",
+"text": "Proof — the showing forth of a thing not evident.",
+"kind": "narration"
+},
+{
+"entry": 104,
+"who": "Narrator",
+"text": "Demonstration — ·true reasoning ‘founded on syllogisms; a reasoning, that makes a matter plain by what is previously known.",
+"kind": "narration"
+},
+{
+"entry": 105,
+"who": "Narrator",
+"text": "Element (of voice) — a vocal sound uncompounded; the cause to the rest of vocal sounds of their being vocal sounds.",
+"kind": "narration"
+},
+{
+"entry": 106,
+"who": "Narrator",
+"text": "Useful — the cause of doing well; the cause of good.",
+"kind": "narration"
+},
+{
+"entry": 107,
+"who": "Narrator",
+"text": "Advantageous — that which conduces to good.",
+"kind": "narration"
+},
+{
+"entry": 108,
+"who": "Narrator",
+"text": "Honourable — that which is good.",
+"kind": "narration"
+},
+{
+"entry": 109,
+"who": "Narrator",
+"text": "Good — the cause of safety to things existing; the cause of all that relates to itself; from which it happens to choose’ what is meet.",
+"kind": "narration"
+},
+{
+"entry": 110,
+"who": "Narrator",
+"text": "Temperate — the orderly conduct of the soul.",
+"kind": "narration"
+},
+{
+"entry": 111,
+"who": "Narrator",
+"text": "Just — an ordonnance of law, productive of justice.",
+"kind": "narration"
+},
+{
+"entry": 112,
+"who": "Narrator",
+"text": "Voluntary — that which is drawn on by itself; that which is selected with reference to itself, (and) completed according to design.",
+"kind": "narration"
+},
+{
+"entry": 113,
+"who": "Narrator",
+"text": "Free — that which rules itself.",
+"kind": "narration"
+},
+{
+"entry": 114,
+"who": "Narrator",
+"text": "Moderate — a mean between excess and deficiency; and sufficient according to art.",
+"kind": "narration"
+},
+{
+"entry": 115,
+"who": "Narrator",
+"text": "Moderation — a mean between excess and deficiency.",
+"kind": "narration"
+},
+{
+"entry": 116,
+"who": "Narrator",
+"text": "Prize — the reward of excellence, that is chosen for its own sake.",
+"kind": "narration"
+},
+{
+"entry": 117,
+"who": "Narrator",
+"text": "Immortality — an existence endowed with soul and a remaining for ever.",
+"kind": "narration"
+},
+{
+"entry": 118,
+"who": "Narrator",
+"text": "A holy thing — service paid to a god, acceptable to a god.",
+"kind": "narration"
+},
+{
+"entry": 119,
+"who": "Narrator",
+"text": "Festival — a holy time according to law.",
+"kind": "narration"
+},
+{
+"entry": 120,
+"who": "Narrator",
+"text": "Man — an animal, wingless, biped, with wide nails; the only one of beings that is a recipient of knowledge founded on reason.",
+"kind": "narration"
+},
+{
+"entry": 121,
+"who": "Narrator",
+"text": "Sacrifice — the gift of a victim to a god.",
+"kind": "narration"
+},
+{
+"entry": 122,
+"who": "Narrator",
+"text": "Prayer — an asking for good things, or that seem so, by man from gods.",
+"kind": "narration"
+},
+{
+"entry": 123,
+"who": "Narrator",
+"text": "King — a ruler according to laws; not subject to the auditing of his accounts; the chief magistrate in a political constitution.",
+"kind": "narration"
+},
+{
+"entry": 124,
+"who": "Narrator",
+"text": "Government — the care of the whole.",
+"kind": "narration"
+},
+{
+"entry": 125,
+"who": "Narrator",
+"text": "Licence — a superintendence of law.",
+"kind": "narration"
+},
+{
+"entry": 126,
+"who": "Narrator",
+"text": "Law-giver — a maker of laws according to which it is meet for a polity to exist.",
+"kind": "narration"
+},
+{
+"entry": 127,
+"who": "Narrator",
+"text": "Law — a decree, relating to the state, made by the multitude, not limited to any time.",
+"kind": "narration"
+},
+{
+"entry": 128,
+"who": "Narrator",
+"text": "Hypothesis — a principle not demonstrated; the summary of a discourse.",
+"kind": "narration"
+},
+{
+"entry": 129,
+"who": "Narrator",
+"text": "A vote — a decree of the state limited to a certain time.",
+"kind": "narration"
+},
+{
+"entry": 130,
+"who": "Narrator",
+"text": "Statesman — a person skilled in the constitution of a state.",
+"kind": "narration"
+},
+{
+"entry": 131,
+"who": "Narrator",
+"text": "A state — the residence of a multitude of persons making use of decrees in common; a multitude of persons existing under the same law.",
+"kind": "narration"
+},
+{
+"entry": 132,
+"who": "Narrator",
+"text": "The excellence of a state — a constitution of a correct polity.",
+"kind": "narration"
+},
+{
+"entry": 133,
+"who": "Narrator",
+"text": "The science of war — skill in war.",
+"kind": "narration"
+},
+{
+"entry": 134,
+"who": "Narrator",
+"text": "Alliance — a communion in war.",
+"kind": "narration"
+},
+{
+"entry": 135,
+"who": "Narrator",
+"text": "Safety — a protection from injury.",
+"kind": "narration"
+},
+{
+"entry": 136,
+"who": "Narrator",
+"text": "Tyrant — Vi person ruling a state according to his own notion.",
+"kind": "narration"
+},
+{
+"entry": 137,
+"who": "Narrator",
+"text": "Sophist — a mercenary hunter after the young, rich, (and) in high repute.",
+"kind": "narration"
+},
+{
+"entry": 138,
+"who": "Narrator",
+"text": "Wealth — a possession suited for happiness; an abundance of means tending to happiness.",
+"kind": "narration"
+},
+{
+"entry": 139,
+"who": "Narrator",
+"text": "Deposit — a thing given with faith.",
+"kind": "narration"
+},
+{
+"entry": 140,
+"who": "Narrator",
+"text": "Purgation — a separation of the worse from the better.",
+"kind": "narration"
+},
+{
+"entry": 141,
+"who": "Narrator",
+"text": "To conquer — to possess the power, when having a difference.",
+"kind": "narration"
+},
+{
+"entry": 142,
+"who": "Narrator",
+"text": "A good man — such a one as is able to effect good for a person.",
+"kind": "narration"
+},
+{
+"entry": 143,
+"who": "Narrator",
+"text": "A temperate man — one who has moderate desires.",
+"kind": "narration"
+},
+{
+"entry": 144,
+"who": "Narrator",
+"text": "A continent man — one who has a power over the portions of the soul contending against right reason.",
+"kind": "narration"
+},
+{
+"entry": 145,
+"who": "Narrator",
+"text": "A steady man — one who is perfectly good; one who preserves his virtue.",
+"kind": "narration"
+},
+{
+"entry": 146,
+"who": "Narrator",
+"text": "Conscience — a reflection with pain without reason.",
+"kind": "narration"
+},
+{
+"entry": 147,
+"who": "Narrator",
+"text": "Indocility — a slowness in learning.",
+"kind": "narration"
+},
+{
+"entry": 148,
+"who": "Narrator",
+"text": "Lordship — a just government, not subject to the auditing of accounts.",
+"kind": "narration"
+},
+{
+"entry": 149,
+"who": "Narrator",
+"text": "Dislike of wisdom — a habit, according to which he, who has it, dislikes reasoning.",
+"kind": "narration"
+},
+{
+"entry": 150,
+"who": "Narrator",
+"text": "Fear — a consternation of the soul on the expectation of ill.",
+"kind": "narration"
+},
+{
+"entry": 151,
+"who": "Narrator",
+"text": "Passion — a violent impetus without reason; mind of regulation of soul without reason.",
+"kind": "narration"
+},
+{
+"entry": 152,
+"who": "Narrator",
+"text": "Consternation — a fear on the expectation of ill.",
+"kind": "narration"
+},
+{
+"entry": 153,
+"who": "Narrator",
+"text": "Flattery — a conversation to gratify ‘without the best;’ a habit of conversing to gratify, exceeding moderation.",
+"kind": "narration"
+},
+{
+"entry": 154,
+"who": "Narrator",
+"text": "Anger — an exhortation by passion to revenge.",
+"kind": "narration"
+},
+{
+"entry": 155,
+"who": "Narrator",
+"text": "Insult — an injury leading to dishonour.",
+"kind": "narration"
+},
+{
+"entry": 156,
+"who": "Narrator",
+"text": "Intemperance — a habit forcing a person, contrary to right reason, towards what seem to be pleasant.",
+"kind": "narration"
+},
+{
+"entry": 157,
+"who": "Narrator",
+"text": "Hesitation — a flight from the commencement of labours.",
+"kind": "narration"
+},
+{
+"entry": 158,
+"who": "Narrator",
+"text": "Cowardice — that which lays hold of (and detains) a rushing on; the cause of a (mental) contraction.",
+"kind": "narration"
+},
+{
+"entry": 159,
+"who": "Narrator",
+"text": "(A beginning) — the first cause of existence.",
+"kind": "narration"
+},
+{
+"entry": 160,
+"who": "Narrator",
+"text": "Calumny — the setting friends apart by a word.",
+"kind": "narration"
+},
+{
+"entry": 161,
+"who": "Narrator",
+"text": "Opportunity — that in which it is fitting to do and suffer each thing.",
+"kind": "narration"
+},
+{
+"entry": 162,
+"who": "Narrator",
+"text": "Injustice — a habit disregardful of laws.",
+"kind": "narration"
+},
+{
+"entry": 163,
+"who": "Narrator",
+"text": "Want — a diminution of good things.",
+"kind": "narration"
+},
+{
+"entry": 164,
+"who": "Narrator",
+"text": "Shame — a fear on the expectation of dishonour.",
+"kind": "narration"
+},
+{
+"entry": 165,
+"who": "Narrator",
+"text": "Vain-gloriousness — a habit of laying claim to a good or good things, not belonging to a person.",
+"kind": "narration"
+},
+{
+"entry": 166,
+"who": "Narrator",
+"text": "Sinning — acting contrary to right reason.",
+"kind": "narration"
+},
+{
+"entry": 167,
+"who": "Narrator",
+"text": "Envy — a pain at the good things of friends, which either are or have been.",
+"kind": "narration"
+},
+{
+"entry": 168,
+"who": "Narrator",
+"text": "Shamelessness — a habit of the soul, that endures dishonour for the sake of gain.",
+"kind": "narration"
+},
+{
+"entry": 169,
+"who": "Narrator",
+"text": "Rashness — the excess of boldness in the case of dangers, which it ought not.",
+"kind": "narration"
+},
+{
+"entry": 170,
+"who": "Narrator",
+"text": "A love of honour — a habit of the soul, lavish of every expense without consideration.",
+"kind": "narration"
+},
+{
+"entry": 171,
+"who": "Narrator",
+"text": "Natural depravity — a badness by nature, and a sinning in that, which is according to nature; a disease of that, which is according to nature.",
+"kind": "narration"
+},
+{
+"entry": 172,
+"who": "Narrator",
+"text": "Hope — the expectation of a good.",
+"kind": "narration"
+},
+{
+"entry": 173,
+"who": "Narrator",
+"text": "Madness — a habit destructive of a correct perception.",
+"kind": "narration"
+},
+{
+"entry": 174,
+"who": "Narrator",
+"text": "Talkativeness — intemperance in speech, devoid of reason.",
+"kind": "narration"
+},
+{
+"entry": 175,
+"who": "Narrator",
+"text": "Contrariety — the greatest standing apart of things, that according to a certain difference fall under the same genus.",
+"kind": "narration"
+},
+{
+"entry": 176,
+"who": "Narrator",
+"text": "Involuntary — that which is brought to an end contrary to intention.",
+"kind": "narration"
+},
+{
+"entry": 177,
+"who": "Narrator",
+"text": "Instruction — a power that has the cure of the soul.",
+"kind": "narration"
+},
+{
+"entry": 178,
+"who": "Narrator",
+"text": "Instructing — the delivering of instruction.",
+"kind": "narration"
+},
+{
+"entry": 179,
+"who": "Narrator",
+"text": "Legislation — the science that renders a state firmly fixed (and without suffering.)",
+"kind": "narration"
+},
+{
+"entry": 180,
+"who": "Narrator",
+"text": "Admonition — a speech that finds fault from design; a speech for the sake of turning aside from error.",
+"kind": "narration"
+},
+{
+"entry": 181,
+"who": "Narrator",
+"text": "Assistance — the hindering an ill either existing or in the way of existing.",
+"kind": "narration"
+},
+{
+"entry": 182,
+"who": "Narrator",
+"text": "Punishment — a curing of the soul for an error committed.",
+"kind": "narration"
+},
+{
+"entry": 183,
+"who": "Narrator",
+"text": "Power — a superiority in doing or speaking; a habit according to which that, which possesses it, is powerful; a strength according to nature.",
+"kind": "narration"
+},
+{
+"entry": 184,
+"who": "Narrator",
+"text": "To preserve — to protect from hurt.",
+"kind": "narration"
+},
+{
+"entry": 185,
+"who": "Narrator",
+"text": "(Science — is a knowledge without stumbling.)",
+"kind": "narration"
+}
+]
+}
+]
+}

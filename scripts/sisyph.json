@@ -1,0 +1,677 @@
+{
+"key": "sisyph",
+"title": "Sisyphus",
+"author": "Plato",
+"translator": "George Burges",
+"credit": "translated by George Burges",
+"parts": [
+{
+"name": "Sisyphus",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "And we too waited a long time for you yesterday, Sisyphus, at the display made by Stratonicus, in order that you might, together with us, hear a clever man, who both by word and deed exhibited many and beautiful things; and when we thought you would no longer be present, we were by ourselves the hearers of the man.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 1,
+"who": "Sisyphus",
+"text": "Truly by Zeus. For a want of leisure of rather a compulsory kind occurred to me, so that I neglected the display. For our rulers had a consultation yesterday, and they compelled me to consult with them. Now with us Pharsalians it is a law to obey the rulers, should they order any of us to consult with them.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "And honourable it is to obey the law and to be reputed by fellow-citizens to be a good counsellor, as you are . But, Sisyphus, although I should not be able to enter upon a discussion against you on the subject of consulting correctly, conceiving it to be a work requiring much leisure, and a lengthy argument, still I would endeavour to converse with you first about consulting in the abstract, what it is. Can you then tell me what it is to consult in the abstract? Do not (tell) me what it is to do so well or ill or in any manner, but what kind of thing it is alone by itself. For you could well and easily tell, being so good a counsellor. But (I fear) lest it is a superfluous work for me to make of you the inquiry.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 3,
+"who": "Sisyphus",
+"text": "Is it then unknown to you what it is to consult?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "It is, Sisyphus, to myself at least, if it be any thing else than for a person, who does not know any thing of those matters respecting which it is requisite to do some act, to speak like a diviner and off-handed, whatever may present itself, and to make a guess according to the same things for himself; like persons playing at odd and even, who, knowing nothing about the even and odd, which they hold .in their own hands, nevertheless happen by accident to say what is true about the same things. To consult then is oftentimes a thing of this kind, that a person, although knowing nothing of the matters, about which he is consulting, yet happens by accident to say what is the truth. If then it is a thing of this kind, I know what to consult is; if however it is not a thing of this kind, I should not know it at all.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 5,
+"who": "Sisyphus",
+"text": "It is not of such a kind as not to know in reality any thing at all, but to know partly something of the matter in hand, and partly not to know at all.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "Do you mean that to consult is, by Zeus, a thing of this kind; that, as I seem to myself to divine somewhat your notions relating to the act of consulting well, it is the seeking to discover the best things for a person to employ himself in for his own benefit, but not to know them clearly, but for this to be, as it were, in some form of a thought? Do you not mean somehow in this way.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 7,
+"who": "Sisyphus",
+"text": "I do.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "Whether do men seek such things as they know, or such as they do not know?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 9,
+"who": "Sisyphus",
+"text": "Both.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "Do you mean by this something of this kind, that men seek both what they know and what they do not know? just as if a person should know Callistratus, who he is; but not know to find where he is, not who is Callistratus. Do you mean that to seek both is after this manner.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 11,
+"who": "Sisyphus",
+"text": "I do.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "He then, who knows Callistratus, would not seek that matter, namely, to know him.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 13,
+"who": "Sisyphus",
+"text": "He would not.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "But he would, where he might be.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 15,
+"who": "Sisyphus",
+"text": "It seems so to myself at least.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "Nor would he seek even this, namely, where it was possible to find him, if he knew already; but he would find him forthwith.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 17,
+"who": "Sisyphus",
+"text": "Yes.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "Men then do not seek the things, which they know, but, as it seems, what they do not know. But if this reasoning appears to you to be of a captious kind, and to have been spoken, not for the sake of a practical purpose, but for conversation merely, consider the matter in this way, if the case seems to be such as has been.just now stated. Do you not know that· this takes place in geometry? that by geometricians the diameter is not unknown, whether it be a diameter or not, — for this I well know is not sought to be discovered by them, — but how great it is in measurement in proportion to the sides of the space which it intersects? Is not this the very thing which is sought respecting it?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 19,
+"who": "Sisyphus",
+"text": "So it seems at least to me.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "For it is that, which is unknown. Is it not so?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 21,
+"who": "Sisyphus",
+"text": "Certainly.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "Know you not that the doubling of the cube is sought to be discovered by geometricians, how great it is by calculation? But the cube itself is not sought for by them, whether it is a cube, or not; for that at least they know well. Is it not so?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 23,
+"who": "Sisyphus",
+"text": "Yes.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "Respecting the air likewise, do you not know that Anaxagoras and Empedocles, and the rest of those, who talk about meteorology, are all seeking whether it is boundless or has a limit?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 25,
+"who": "Sisyphus",
+"text": "Yes I do.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "But not the question, whether it is air. Is it not so?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 27,
+"who": "Sisyphus",
+"text": "It is.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "Will you then agree with me that such is the case with all other things now that to no person is there any seeking after the things he knows, but rather after those which he does not know?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 29,
+"who": "Sisyphus",
+"text": "I will.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "Did not the consulting appear to us to be this very thing, namely, that a person is seeking after the best things relating to what he would require to employ himself in for his own benefit.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 31,
+"who": "Sisyphus",
+"text": "Yes.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "And the seeking was, like the consulting, about things to be done. Is it not so?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 33,
+"who": "Sisyphus",
+"text": "Entirely.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "Must we not consider then at present, what impediment is in the way of those, who are seeking, to the discovery of the things, about which they are making the search?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 35,
+"who": "Sisyphus",
+"text": "So it seems at least to me.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "Could we say that any thing else was an impediment to them except a want of knowledge?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 37,
+"who": "Sisyphus",
+"text": "Nothing else.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "Let us, by Zeus, consider the matter very much, letting out, as the saying is, every rope, and sending out every voice. And view thou this point with me. Think you that a man could consult about music, who knows nothing of music; or how he ought to play on the guitar, or to perform any thing according to the musician’s art?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 39,
+"who": "Sisyphus",
+"text": "Not I indeed.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "What then, as regards generalship, or piloting? Do you think that the person, who knows neither of those arts, would have it in his power to consult about either of those matters, as to what is to be done by him, and how, who knows not to act the general or pilot?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 41,
+"who": "Sisyphus",
+"text": "I do not.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "Do you think then that the case is so respecting all other matters, of which a person knows nothing; that it is not possible for him even to consult, who knows nothing about them?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 43,
+"who": "Sisyphus",
+"text": "I do.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "But it is (possible) for him to seek (to know). Is it not?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 45,
+"who": "Sisyphus",
+"text": "Certainly.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "To seek then would not be the same as to consult.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 47,
+"who": "Sisyphus",
+"text": "How could it?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "Because to seek is surely applied to the matters, which a person does not know; but it seems to be not possible for a person to consult about those matters, of which he is ignorant. Or has not this been said correctly?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 49,
+"who": "Sisyphus",
+"text": "Very much so.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "Ye were then yesterday seeking to discover what was best for the state; but ye did not know it. For if ye had known, ye would not surely have been seeking it, just as we do not seek any thing amongst those which we know. Is it not so?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 51,
+"who": "Sisyphus",
+"text": "It is.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "Whether does it seem to you, Sisyphus, if a person does not know, that he ought to seek or to learn?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 53,
+"who": "Sisyphus",
+"text": "To myself at least it seems, by Zeus, to learn.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "And correctly does it seem so. But does it seem to you that he ought to learn rather than seek on this account, because a person would discover more quickly and easily, if he learnt from those, who know, than if he were to seek himself what he did not know? Or is it on some other account?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 55,
+"who": "Sisyphus",
+"text": "On no other than this.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 56,
+"who": "Sisyphus",
+"text": "Why did ye not then yesterday, disregarding the act of consulting about matters, of which ye knew nothing, and of seeking to do the best for the state, learn from some one of those, who did know, how ye might do the best for the state? But ye seem to me to liave been sitting the whole of yesterday and speaking off-hand, and prophesying about matters, of which ye were ignorant, and neglecting to learn, both the rulers of the state and you together with them. But perhaps you will say that this has been played off by myself against you for the sake of a conversation merely, and it has not been proved to you seriously. Consider then, by Zeus, this question at least for the present with seriousness. If it were conceded that to consult is something, and not, as now discovered, to be nothing else than a knowledge according to conjecture, and a speaking off-hand, making use of merely a more solemn name, but nothing else, do you think, that as regards the act of consulting well and being good counsellors, persons differ one from another on that point, as persons on all the other kinds of knowledge, (such as) carpenters from carpenters, physicians from physicians, and hautboy-players from hautboy-players, and all the rest of handicraftsmen differ from each other? As then those engaged in these arts (differ), think you that in the act of consulting persons would differ at all in this manner, one from another?",
+"kind": "speech"
+},
+{
+"entry": 57,
+"who": "Sisyphus",
+"text": "Yes I do.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "Now tell me, do not all, both those who consult well, and those who do so ill, consult about matters that are about to be?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 59,
+"who": "Sisyphus",
+"text": "Certainly.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "Is the future any thing else than what is not as yet?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 61,
+"who": "Sisyphus",
+"text": "It is not.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "For if it were, it would not surely be still about”, to be, but it would be already. Is it not so?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 63,
+"who": "Sisyphus",
+"text": "Yes.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "Therefore that, which is not yet, in reality has not been produced.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 65,
+"who": "Sisyphus",
+"text": "It has not.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "Therefore that, which is not and has not been produced, has no existence in reality.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 67,
+"who": "Sisyphus",
+"text": "It has not.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "Do not all, then, who consult well or ill, consult about things which neither are, nor have been, and which have no existence, when they consult respecting things about to be?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 69,
+"who": "Sisyphus",
+"text": "At least they seem so.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "Does it seem to you possible for a person to hit well or ill a thing, that does not exist?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 71,
+"who": "Sisyphus",
+"text": "How say you this?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "I will explain, what I mean to say. Consider then. How would you distinguish out of many archers, which of them was the good and (which) the bad?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 73,
+"who": "Sisyphus",
+"text": "Surely this is not difficult to know.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "‘For perhaps you would bid them shoot at some mark. Is it not so?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 75,
+"who": "Sisyphus",
+"text": "Certainly.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 76,
+"who": "Socrates",
+"text": "Would you not decide that he is the conqueror, who hits most often the mark in a direct way.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 77,
+"who": "Sisyphus",
+"text": "Yes, I would.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 78,
+"who": "Socrates",
+"text": "But if there were no mark laid down for them to shoot at, but each shot where he liked, how could you distinguish between the good and bad archer?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 79,
+"who": "Sisyphus",
+"text": "Not at all.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "Would you then not be at a loss to distinguish between",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "those consulting well or ill, if they did not know what they were consulting about?",
+"kind": "speech"
+},
+{
+"entry": 82,
+"who": "Sisyphus",
+"text": "Yes, I should.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "Do not those then, who consult respecting things about to be, consult respecting things not in existence?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 84,
+"who": "Sisyphus",
+"text": "Certainly.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "It is not therefore possible for any person to hit the thing not in existence. For how does any one seem to you to be able to hit, what is not in existence?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 86,
+"who": "Sisyphus",
+"text": "Not at all.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "Since then it is not possible to hit, what is not in existence, no one would be able to hit any thing of those not in existence by consulting. For things that are about to be belong to those not in existence. Is it not so?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 88,
+"who": "Sisyphus",
+"text": "So it seems at least to me.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 89,
+"who": "Socrates",
+"text": "He then, who does not hit things about to be, would be amongst men neither a good counsellor, nor a bad counsellor.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 90,
+"who": "Sisyphus",
+"text": "It seems he would not.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 91,
+"who": "Socrates",
+"text": "Nor is a person (said) to be either a better counsellor, or a worse counsellor, not even if he should be more successful or less successful in hitting, what is not in existence.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 92,
+"who": "Sisyphus",
+"text": "He is not.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 93,
+"who": "Socrates",
+"text": "Looking then to what circumstance men call certain persons by the name of good counsellors, or bad counsellors, is it not worthy, Sisyphus, to think again upon this matter?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 94,
+"who": "Sisyphus",
+"text": "(I say so).",
+"kind": "speech",
+"skip": 1
+}
+]
+}
+]
+}

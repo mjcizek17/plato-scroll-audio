@@ -76,7 +76,9 @@ def main(work, lines_dir, out):
             if l["entry"] is not None:
                 e = str(l["entry"])
                 entries.setdefault(e, round(t, 2))
-                words.setdefault(e, []).extend(int(round((t + max(0.0, s - cut / SR)) * 100)) for s in meta["words"])
+                ws = [int(round((t + max(0.0, s - cut / SR)) * 100)) for s in meta["words"]]
+                # words shown in the reader but not read (a speaker label "Socrates:") light with the first word read
+                words.setdefault(e, []).extend([ws[0] if ws else int(round(t * 100))] * l.get("skip", 0) + ws)
                 interp += meta.get("interpolated", 0); nwords += len(meta["words"])
             retakes += meta.get("retakes", 0)
             flags += [dict(f, line=l["id"]) for f in meta.get("flags", [])]

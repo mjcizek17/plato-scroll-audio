@@ -133,7 +133,9 @@ def plan_ranges(ranges, budget_s=5400):
 if __name__ == "__main__":
     import sys
     q = json.load(open(sys.argv[1]))
-    plan = plan_ranges(q["ranges"], q.get("budget", 5400)) if q.get("ranges") else plan_shards(q["works"], q.get("budget", 5400))
+    # ranges: re-render only those lines of those works; any other work in "works" is rendered whole
+    rest = [w for w in q["works"] if w not in q.get("ranges", {})]
+    plan = (plan_ranges(q["ranges"], q.get("budget", 5400)) if q.get("ranges") else []) + (plan_shards(rest, q.get("budget", 5400)) if rest else [])
     print(json.dumps(plan, separators=(",", ":")))
 
 
