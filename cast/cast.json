@@ -887,6 +887,46 @@
     "pitch": -1,
     "text": "Every art and every inquiry aims at some good. Let us begin, then, as is natural, from what is first, and consider the matter carefully and in order."
    }
+  },
+  "Plotinus Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_plotinus",
+   "exaggeration": 0.4,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_daniel",
+      0.75
+     ],
+     [
+      "bm_lewis",
+      0.25
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -1,
+    "text": "Many times it has happened: lifted out of the body into myself, becoming external to all other things and self-encentred, beholding a marvellous beauty."
+   }
+  },
+  "Iamblichus Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_iamblichus",
+   "exaggeration": 0.4,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_george",
+      0.5
+     ],
+     [
+      "bm_daniel",
+      0.5
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -1,
+    "text": "The gods are the cause of all good, and the soul that is conjoined with them receives from them a perfect life and a divine order."
+   }
   }
  }
 }

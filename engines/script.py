@@ -20,16 +20,17 @@ def work_parts(key):
     s = json.load(open(os.path.join(ROOT, "scripts", f"{key}.json"), encoding="utf-8"))
     title, parts, n = spoken(s["title"]), [], len(s["parts"])
     author, tr = s.get("author", "Plato"), s.get("translator", "David Horan")
+    credit = s.get("credit") or f"translated by {tr}"
     head = f"Plato's {title}" if author == "Plato" else f"{author}, {title}"
     for pi, p in enumerate(s["parts"]):
         lines = [dict(l) for l in p["lines"]]
         if n == 1:
-            opening = f"{head}, translated by {tr}."
+            opening = f"{head}, {credit}."
             if author != "Plato" and lines and lines[0]["kind"] == "heading":
                 lines = lines[1:]  # a lone heading repeats the title
         else:
-            book = spoken(p["name"])
-            opening = f"{head}, translated by {tr}. {book}." if pi == 0 else f"{head}. {book}."
+            book = spoken(p["name"]).rstrip(". ")
+            opening = f"{head}, {credit}. {book}." if pi == 0 else f"{head}. {book}."
             if lines and lines[0]["kind"] == "heading":
                 lines = lines[1:]
         lines.insert(0, {"entry": None, "who": "Narrator", "text": opening, "kind": "heading"})

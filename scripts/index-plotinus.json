@@ -1,0 +1,56 @@
+[
+ {
+  "key": "plot-e1",
+  "title": "The First Ennead",
+  "parts": 9,
+  "chars": 159163,
+  "speakers": [
+   "Plotinus Reader"
+  ]
+ },
+ {
+  "key": "plot-e2",
+  "title": "The Second Ennead",
+  "parts": 9,
+  "chars": 200268,
+  "speakers": [
+   "Plotinus Reader"
+  ]
+ },
+ {
+  "key": "plot-e3",
+  "title": "The Third Ennead",
+  "parts": 9,
+  "chars": 287956,
+  "speakers": [
+   "Plotinus Reader"
+  ]
+ },
+ {
+  "key": "plot-e4",
+  "title": "The Fourth Ennead",
+  "parts": 9,
+  "chars": 324371,
+  "speakers": [
+   "Plotinus Reader"
+  ]
+ },
+ {
+  "key": "plot-e5",
+  "title": "The Fifth Ennead",
+  "parts": 9,
+  "chars": 207384,
+  "speakers": [
+   "Plotinus Reader"
+  ]
+ },
+ {
+  "key": "plot-e6",
+  "title": "The Sixth Ennead",
+  "parts": 9,
+  "chars": 523680,
+  "speakers": [
+   "Plotinus Reader"
+  ]
+ }
+]

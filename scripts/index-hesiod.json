@@ -1,0 +1,20 @@
+[
+ {
+  "key": "hesiod-works-days",
+  "title": "Works and Days",
+  "parts": 1,
+  "chars": 45216,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "hesiod-theogony",
+  "title": "The Theogony",
+  "parts": 1,
+  "chars": 55318,
+  "speakers": [
+   "Narrator"
+  ]
+ }
+]

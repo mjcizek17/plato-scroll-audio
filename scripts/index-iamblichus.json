@@ -1,0 +1,65 @@
+[
+ {
+  "key": "theoarith",
+  "title": "Theoretic Arithmetic",
+  "parts": 14,
+  "chars": 396607,
+  "speakers": [
+   "Iamblichus Reader"
+  ]
+ },
+ {
+  "key": "iamb-lifepyth",
+  "title": "Life of Pythagoras",
+  "parts": 9,
+  "chars": 256919,
+  "speakers": [
+   "Iamblichus Reader"
+  ]
+ },
+ {
+  "key": "iamb-protrepticus",
+  "title": "Protrepticus (Exhortation to Philosophy)",
+  "parts": 1,
+  "chars": 190348,
+  "speakers": [
+   "Iamblichus Reader"
+  ]
+ },
+ {
+  "key": "iamb-mysteries",
+  "title": "On the Mysteries (De Mysteriis)",
+  "parts": 16,
+  "chars": 398498,
+  "speakers": [
+   "Iamblichus Reader"
+  ]
+ },
+ {
+  "key": "iamb-nicomachus",
+  "title": "On Nicomachus’ Introduction to Arithmetic",
+  "parts": 1,
+  "chars": 203728,
+  "speakers": [
+   "Iamblichus Reader"
+  ]
+ },
+ {
+  "key": "iamb-dcms",
+  "title": "On the General Science of Mathematics",
+  "parts": 1,
+  "chars": 156608,
+  "speakers": [
+   "Iamblichus Reader"
+  ]
+ },
+ {
+  "key": "iamb-fragments",
+  "title": "Fragments & The Golden Verses",
+  "parts": 1,
+  "chars": 15789,
+  "speakers": [
+   "Iamblichus Reader"
+  ]
+ }
+]
