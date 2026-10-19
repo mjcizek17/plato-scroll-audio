@@ -1,0 +1,23 @@
+{
+ "work": "on-generation-and-corruption",
+ "parts": [
+  {
+   "file": "on-generation-and-corruption-p1.mp3",
+   "minutes": 89.18,
+   "lines": 108,
+   "words": 15795,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "on-generation-and-corruption-p2.mp3",
+   "minutes": 57.23,
+   "lines": 63,
+   "words": 10306,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
