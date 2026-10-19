@@ -1,0 +1,95 @@
+{
+ "work": "nicomachean-ethics",
+ "parts": [
+  {
+   "file": "nicomachean-ethics-p1.mp3",
+   "minutes": 41.03,
+   "lines": 49,
+   "words": 8348,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "nicomachean-ethics-p2.mp3",
+   "minutes": 29.71,
+   "lines": 46,
+   "words": 5885,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "nicomachean-ethics-p3.mp3",
+   "minutes": 47.2,
+   "lines": 68,
+   "words": 9577,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "nicomachean-ethics-p4.mp3",
+   "minutes": 43.31,
+   "lines": 52,
+   "words": 8874,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "nicomachean-ethics-p5.mp3",
+   "minutes": 49.17,
+   "lines": 62,
+   "words": 9465,
+   "words_interpolated": 15,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "nicomachean-ethics-p6.mp3",
+   "minutes": 33.35,
+   "lines": 45,
+   "words": 6495,
+   "words_interpolated": 13,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "nicomachean-ethics-p7.mp3",
+   "minutes": 50.05,
+   "lines": 71,
+   "words": 9826,
+   "words_interpolated": 27,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "nicomachean-ethics-p8.mp3",
+   "minutes": 42.87,
+   "lines": 43,
+   "words": 8836,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "nicomachean-ethics-p9.mp3",
+   "minutes": 40.23,
+   "lines": 46,
+   "words": 8473,
+   "words_interpolated": 8,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "nicomachean-ethics-p10.mp3",
+   "minutes": 44.79,
+   "lines": 44,
+   "words": 9139,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
