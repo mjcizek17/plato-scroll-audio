@@ -1,0 +1,86 @@
+{
+ "work": "the-history-of-animals",
+ "parts": [
+  {
+   "file": "the-history-of-animals-p1.mp3",
+   "minutes": 54.91,
+   "lines": 137,
+   "words": 10652,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "the-history-of-animals-p2.mp3",
+   "minutes": 53.09,
+   "lines": 100,
+   "words": 10534,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "the-history-of-animals-p3.mp3",
+   "minutes": 66.22,
+   "lines": 121,
+   "words": 13066,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "the-history-of-animals-p4.mp3",
+   "minutes": 68.48,
+   "lines": 96,
+   "words": 13519,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "the-history-of-animals-p5.mp3",
+   "minutes": 85.17,
+   "lines": 164,
+   "words": 16930,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "the-history-of-animals-p6.mp3",
+   "minutes": 92.22,
+   "lines": 151,
+   "words": 18611,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "the-history-of-animals-p7.mp3",
+   "minutes": 32.39,
+   "lines": 65,
+   "words": 6507,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "the-history-of-animals-p8.mp3",
+   "minutes": 82.95,
+   "lines": 122,
+   "words": 16521,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "the-history-of-animals-p9.mp3",
+   "minutes": 109.28,
+   "lines": 152,
+   "words": 22193,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
