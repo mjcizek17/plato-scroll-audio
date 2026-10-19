@@ -1,0 +1,23 @@
+{
+ "work": "posterior-analytics",
+ "parts": [
+  {
+   "file": "posterior-analytics-p1.mp3",
+   "minutes": 115.26,
+   "lines": 139,
+   "words": 20883,
+   "words_interpolated": 50,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "posterior-analytics-p2.mp3",
+   "minutes": 66.21,
+   "lines": 85,
+   "words": 12288,
+   "words_interpolated": 24,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
