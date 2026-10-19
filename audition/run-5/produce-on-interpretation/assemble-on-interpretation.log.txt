@@ -1,0 +1,1 @@
+{"work": "on-interpretation", "parts": [{"file": "on-interpretation-p1.mp3", "minutes": 28.68, "lines": 68, "words": 5269, "words_interpolated": 11, "retakes": 2, "flagged_takes": []}, {"file": "on-interpretation-p2.mp3", "minutes": 24.42, "lines": 58, "words": 4607, "words_interpolated": 0, "retakes": 0, "flagged_takes": []}]}
