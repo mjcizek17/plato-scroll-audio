@@ -1,0 +1,71 @@
+{
+ "work": "rhetoric",
+ "parts": [
+  {
+   "file": "rhetoric-p1.mp3",
+   "minutes": 128.48,
+   "lines": 208,
+   "words": 25051,
+   "words_interpolated": 45,
+   "retakes": 11,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.59,
+     "text": "\"they leave behind them a boast; \"",
+     "line": "p1l0062"
+    },
+    {
+     "group": 0,
+     "ratio": 1.75,
+     "text": "\"as erst we came; \"",
+     "line": "p1l0066"
+    },
+    {
+     "group": 0,
+     "ratio": 0.6,
+     "text": "\"should challenge him who doth. \"",
+     "line": "p1l0203"
+    }
+   ]
+  },
+  {
+   "file": "rhetoric-p2.mp3",
+   "minutes": 132.04,
+   "lines": 241,
+   "words": 25911,
+   "words_interpolated": 118,
+   "retakes": 8,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.6,
+     "text": "\"And spreads through the hearts of men. \"",
+     "line": "p2l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "Or-",
+     "line": "p2l0154"
+    }
+   ]
+  },
+  {
+   "file": "rhetoric-p3.mp3",
+   "minutes": 89.07,
+   "lines": 205,
+   "words": 16918,
+   "words_interpolated": 89,
+   "retakes": 9,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.6,
+     "text": "\"Just like Philammon struggling with his punchball. \"",
+     "line": "p3l0109"
+    }
+   ]
+  }
+ ]
+}
