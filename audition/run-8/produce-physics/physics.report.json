@@ -1,0 +1,77 @@
+{
+ "work": "physics",
+ "parts": [
+  {
+   "file": "physics-p1.mp3",
+   "minutes": 42.16,
+   "lines": 93,
+   "words": 8023,
+   "words_interpolated": 23,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "physics-p2.mp3",
+   "minutes": 40.76,
+   "lines": 82,
+   "words": 8032,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "physics-p3.mp3",
+   "minutes": 40.05,
+   "lines": 100,
+   "words": 7764,
+   "words_interpolated": 30,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "physics-p4.mp3",
+   "minutes": 74.0,
+   "lines": 196,
+   "words": 15100,
+   "words_interpolated": 59,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "physics-p5.mp3",
+   "minutes": 38.4,
+   "lines": 46,
+   "words": 7316,
+   "words_interpolated": 12,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "physics-p6.mp3",
+   "minutes": 58.73,
+   "lines": 70,
+   "words": 11953,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "physics-p7.mp3",
+   "minutes": 36.06,
+   "lines": 35,
+   "words": 7154,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "physics-p8.mp3",
+   "minutes": 97.0,
+   "lines": 106,
+   "words": 19504,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
