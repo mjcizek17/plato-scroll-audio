@@ -1,1 +1,23 @@
-{"works": ["on-memory-and-reminiscence"], "dest": "release", "tag": "aristotle-v1", "budget": 5400}
+{
+ "works": [
+  "plot-e1",
+  "plot-e2",
+  "plot-e3",
+  "plot-e4",
+  "plot-e5",
+  "plot-e6",
+  "theoarith",
+  "iamb-lifepyth",
+  "iamb-protrepticus",
+  "iamb-mysteries",
+  "iamb-nicomachus",
+  "iamb-dcms",
+  "iamb-fragments",
+  "sallustius-on-the-gods",
+  "hesiod-works-days",
+  "hesiod-theogony"
+ ],
+ "dest": "release",
+ "tag": "neoplatonists-v1",
+ "budget": 12000
+}
