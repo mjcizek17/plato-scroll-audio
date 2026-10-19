@@ -1,0 +1,23 @@
+{
+ "work": "on-sense-and-the-sensible",
+ "parts": [
+  {
+   "file": "on-sense-and-the-sensible-p1.mp3",
+   "minutes": 31.36,
+   "lines": 57,
+   "words": 5901,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "on-sense-and-the-sensible-p2.mp3",
+   "minutes": 33.81,
+   "lines": 55,
+   "words": 6340,
+   "words_interpolated": 50,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
