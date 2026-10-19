@@ -1,0 +1,1 @@
+{"work": "prior-analytics", "parts": [{"file": "prior-analytics-p1.mp3", "minutes": 151.71, "lines": 182, "words": 28845, "words_interpolated": 5, "retakes": 0, "flagged_takes": []}, {"file": "prior-analytics-p2.mp3", "minutes": 98.3, "lines": 98, "words": 19316, "words_interpolated": 21, "retakes": 0, "flagged_takes": []}]}
