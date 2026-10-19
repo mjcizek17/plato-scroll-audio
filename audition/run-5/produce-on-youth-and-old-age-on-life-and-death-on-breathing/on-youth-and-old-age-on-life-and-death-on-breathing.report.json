@@ -1,0 +1,23 @@
+{
+ "work": "on-youth-and-old-age-on-life-and-death-on-breathing",
+ "parts": [
+  {
+   "file": "on-youth-and-old-age-on-life-and-death-on-breathing-p1.mp3",
+   "minutes": 27.67,
+   "lines": 42,
+   "words": 5401,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "on-youth-and-old-age-on-life-and-death-on-breathing-p2.mp3",
+   "minutes": 26.68,
+   "lines": 45,
+   "words": 5165,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
