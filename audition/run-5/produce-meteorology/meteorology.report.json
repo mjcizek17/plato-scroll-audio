@@ -1,0 +1,41 @@
+{
+ "work": "meteorology",
+ "parts": [
+  {
+   "file": "meteorology-p1.mp3",
+   "minutes": 60.34,
+   "lines": 103,
+   "words": 12556,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meteorology-p2.mp3",
+   "minutes": 66.71,
+   "lines": 107,
+   "words": 13729,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meteorology-p3.mp3",
+   "minutes": 31.49,
+   "lines": 46,
+   "words": 6474,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meteorology-p4.mp3",
+   "minutes": 53.22,
+   "lines": 79,
+   "words": 10483,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
