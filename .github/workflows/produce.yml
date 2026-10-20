@@ -38,10 +38,11 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
           python3 -m venv /tmp/kk && /tmp/kk/bin/pip install -q $PIP_CPU torch && /tmp/kk/bin/pip install -q "kokoro>=0.9.4" soundfile "misaki[en]" 2>&1 | tail -2
           /tmp/kk/bin/python tools/make_refs.py
-      - uses: actions/upload-artifact@v4
-        with: { name: refs, path: cast/refs, retention-days: 1 }
-      - name: Scratch release for the rendered lines (release files don't count against Actions storage)
-        run: gh release create "lines-${{ github.run_id }}" --prerelease --title "Working files, run ${{ github.run_id }}" --notes "Rendered lines passed from the render jobs to assemble; deleted when the works are published." || gh release view "lines-${{ github.run_id }}" >/dev/null
+      - name: Scratch release for the reference clips and rendered lines (release files don't count against Actions storage)
+        run: |
+          gh release create "lines-${{ github.run_id }}" --prerelease --title "Working files, run ${{ github.run_id }}" --notes "Reference clips and rendered lines passed between the jobs; deleted when the works are published." || gh release view "lines-${{ github.run_id }}" >/dev/null
+          tar -cf refs.tar -C cast/refs .
+          for i in 1 2 3 4 5; do gh release upload "lines-${{ github.run_id }}" refs.tar --clobber && break; sleep $((i*20)); done
       - id: q
         run: |
           echo "shards=$(python3 engines/script.py render/queue.json)" >> "$GITHUB_OUTPUT"
@@ -69,8 +70,10 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
       - run: mkdir -p out/lines && sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
-      - uses: actions/download-artifact@v4
-        with: { name: refs, path: cast/refs }
+      - name: Reference clips
+        run: |
+          for i in 1 2 3 4 5; do gh release download "lines-${{ github.run_id }}" -p refs.tar -D /tmp --clobber && break; sleep $((i*15)); done
+          mkdir -p cast/refs && tar -xf /tmp/refs.tar -C cast/refs
       - name: Kokoro lines
         run: |
           python -m venv /tmp/kk && /tmp/kk/bin/pip install -q $PIP_CPU torch && /tmp/kk/bin/pip install -q "kokoro>=0.9.4" soundfile "misaki[en]" 2>&1 | tail -3
@@ -136,6 +139,6 @@ jobs:
     steps:
       - name: Drop the scratch release once nothing in it is needed
         run: |
+          gh release delete-asset "lines-${{ github.run_id }}" refs.tar -R "${{ github.repository }}" -y 2>/dev/null || true
           n=$(gh release view "lines-${{ github.run_id }}" -R "${{ github.repository }}" --json assets -q '.assets | length' 2>/dev/null || echo x)
           [ "$n" = "0" ] && gh release delete "lines-${{ github.run_id }}" -R "${{ github.repository }}" -y --cleanup-tag || echo "kept: $n files"
-          gh api -X DELETE "repos/${{ github.repository }}/actions/artifacts/$(gh api repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts -q '.artifacts[] | select(.name=="refs") | .id')" || true
