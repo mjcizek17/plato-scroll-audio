@@ -1,0 +1,27 @@
+{
+ "work": "hesiod-theogony",
+ "parts": [
+  {
+   "file": "hesiod-theogony-p1.mp3",
+   "minutes": 52.15,
+   "lines": 117,
+   "words": 9916,
+   "words_interpolated": 16,
+   "retakes": 10,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.8,
+     "text": "X. Prometheus",
+     "line": "p1l0052"
+    },
+    {
+     "group": 0,
+     "ratio": 1.73,
+     "text": "XIII. Typhon",
+     "line": "p1l0079"
+    }
+   ]
+  }
+ ]
+}
