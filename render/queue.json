@@ -1,1 +1,1 @@
-{"works":["hipparch","rivals","theages","sisyph","axioch","demod","eryx","onjust","onvirt","defns"],"dest":"release","tag":"audio-v1","budget":12000}
+{"works": ["plot-e6", "theoarith"], "dest": "release", "tag": "neoplatonists-v1", "budget": 5400, "ranges": {"plot-e6": [[897, 946]], "theoarith": [[498, 509]]}, "reuse_run": "39240033276"}
