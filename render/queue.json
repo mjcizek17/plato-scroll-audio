@@ -1,1 +1,1 @@
-{"works": ["plot-e6", "theoarith"], "dest": "release", "tag": "neoplatonists-v1", "budget": 5400, "ranges": {"plot-e6": [[897, 946]], "theoarith": [[498, 509]]}, "reuse_run": "39240033276"}
+{"works": ["julian-caesars", "julian-misopogon", "julian-galilaeans", "julian-essays", "julian-letters", "julian-orations"], "dest": "release", "tag": "julian-v1", "budget": 10000}

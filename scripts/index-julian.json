@@ -1,0 +1,56 @@
+[
+ {
+  "key": "julian-orations",
+  "title": "Orations",
+  "parts": 8,
+  "chars": 502497,
+  "speakers": [
+   "Julian Reader"
+  ]
+ },
+ {
+  "key": "julian-caesars",
+  "title": "The Caesars",
+  "parts": 1,
+  "chars": 50390,
+  "speakers": [
+   "Julian Reader"
+  ]
+ },
+ {
+  "key": "julian-misopogon",
+  "title": "Misopogon",
+  "parts": 1,
+  "chars": 70360,
+  "speakers": [
+   "Julian Reader"
+  ]
+ },
+ {
+  "key": "julian-galilaeans",
+  "title": "Against the Galilaeans",
+  "parts": 1,
+  "chars": 84019,
+  "speakers": [
+   "Julian Reader"
+  ]
+ },
+ {
+  "key": "julian-letters",
+  "title": "Letters",
+  "parts": 8,
+  "chars": 196369,
+  "speakers": [
+   "Julian Reader"
+  ]
+ },
+ {
+  "key": "julian-essays",
+  "title": "Essays & Fragments",
+  "parts": 3,
+  "chars": 103724,
+  "speakers": [
+   "Julian Reader"
+  ]
+ }
+]

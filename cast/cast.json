@@ -1014,6 +1014,26 @@
     ]
    ],
    "accent": "us"
+  },
+  "Julian Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_julian",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_george",
+      0.6
+     ],
+     [
+      "bm_lewis",
+      0.4
+     ]
+    ],
+    "accent": "gb",
+    "pitch": 0,
+    "text": "I have ever been a lover of the Sun, and from childhood a longing for his rays sank deep into my soul, so that I gazed upon him when I was still a boy."
+   }
   }
  }
 }
