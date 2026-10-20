@@ -1,0 +1,14 @@
+{
+ "work": "demod",
+ "parts": [
+  {
+   "file": "demod-p1.mp3",
+   "minutes": 17.54,
+   "lines": 9,
+   "words": 3662,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
