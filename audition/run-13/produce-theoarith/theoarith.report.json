@@ -1,0 +1,925 @@
+{
+ "work": "theoarith",
+ "parts": [
+  {
+   "file": "theoarith-p1.mp3",
+   "minutes": 59.38,
+   "lines": 75,
+   "words": 10180,
+   "words_interpolated": 44,
+   "retakes": 6,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "Teplaywyn ex De Repub. lib. 7.",
+     "line": "p1l0007"
+    },
+    {
+     "group": 0,
+     "ratio": 1.8,
+     "text": "* In Mathemat. p. 18.",
+     "line": "p1l0042"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p2.mp3",
+   "minutes": 28.17,
+   "lines": 40,
+   "words": 4968,
+   "words_interpolated": 254,
+   "retakes": 9,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.9,
+     "text": "Odd numbers: 3 5 7 9 11 13. Evenly-even numbers: 4 8 16 32 64 128.",
+     "line": "p2l0033"
+    },
+    {
+     "group": 0,
+     "ratio": 1.73,
+     "text": "3 5 7 9 etc. Odd numbers. 4 8 16 32 etc. Evenly-even numbers.",
+     "line": "p2l0037"
+    },
+    {
+     "group": 0,
+     "ratio": 1.94,
+     "text": "Length. 12 24 48 9\u00d720 40 80 160 Breadth, Breadth, 28 56 112 224 36 72 144 288 Le",
+     "line": "p2l0038"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p3.mp3",
+   "minutes": 28.85,
+   "lines": 54,
+   "words": 4984,
+   "words_interpolated": 474,
+   "retakes": 17,
+   "flagged_takes": [
+    {
+     "group": 10,
+     "ratio": 1.61,
+     "text": "21 by 7; 27 by 9, and so on. But 5 measures 15 by 3; 25 by 5; 35 by 7; 45 by 9, ",
+     "line": "p3l0012"
+    },
+    {
+     "group": 0,
+     "ratio": 2.26,
+     "text": "Evenly-even numbers: 1 2 4 8 16 32 64 128 256 512 1024 2048 4096",
+     "line": "p3l0024"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "Odd numbers produced by the addition of the evenly-even numbers: 1 3 7 15 31 63 ",
+     "line": "p3l0025"
+    },
+    {
+     "group": 0,
+     "ratio": 2.46,
+     "text": "Evenly-even numbers: 1 2 4 8 16 32 64 128 256 512 1024 2048 4096",
+     "line": "p3l0044"
+    },
+    {
+     "group": 0,
+     "ratio": 1.79,
+     "text": "Odd numbers produced by the addition of the evenly-even numbers: 1 3 7 15 31 63 ",
+     "line": "p3l0045"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p4.mp3",
+   "minutes": 28.28,
+   "lines": 76,
+   "words": 4554,
+   "words_interpolated": 433,
+   "retakes": 34,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.4,
+     "text": "3 4 5 6 7 8 9 10 5 7 9 11 13 15 17 19",
+     "line": "p4l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 2.03,
+     "text": "Leaders: 3 6 9 12 15 18 21 24 27 30. Attendants: 2 4 6 8 10 12 14 16 18 20.",
+     "line": "p4l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 2.79,
+     "text": "3 6 9 12 15 18 21 7 14 21 28 35 42 49",
+     "line": "p4l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 2.36,
+     "text": "2 4 6 8 10 12 14 7 14 21 28 35 42 49",
+     "line": "p4l0016"
+    },
+    {
+     "group": 0,
+     "ratio": 2.23,
+     "text": "1 2 3 4 5 6 7 8 9 10 2 4 6 8 10 12 14 16 18 20 3 6 9 12 15 18 21 24 27 30 4 8 12",
+     "line": "p4l0022"
+    },
+    {
+     "group": 0,
+     "ratio": 2.51,
+     "text": "3 4 5 6 7 8 9 10 5 7 9 11 13 15 17 19",
+     "line": "p4l0034"
+    },
+    {
+     "group": 0,
+     "ratio": 2.57,
+     "text": "o 6 i) il) 725)",
+     "line": "p4l0037"
+    },
+    {
+     "group": 0,
+     "ratio": 2.79,
+     "text": "3 6 9 12 15 18 21 7 14 21 28 35 42 49",
+     "line": "p4l0044"
+    },
+    {
+     "group": 0,
+     "ratio": 2.66,
+     "text": "3 9 27 81 243 4 12 36 108 324 16 48 144 432",
+     "line": "p4l0058"
+    },
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "5. 25. 30. \u2014 quintuple. sesquiquintan.",
+     "line": "p4l0074"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p5.mp3",
+   "minutes": 23.75,
+   "lines": 56,
+   "words": 4001,
+   "words_interpolated": 308,
+   "retakes": 20,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.05,
+     "text": "The series of natural numbers: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 2",
+     "line": "p5l0014"
+    },
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "The series of natural numbers, two being continually omitted: 1 4 7 10 13 16 19 ",
+     "line": "p5l0024"
+    },
+    {
+     "group": 0,
+     "ratio": 1.82,
+     "text": "Pyramids from Triangles. 1 4 10 20 35 56 84 120 165 220, and generation.",
+     "line": "p5l0043"
+    },
+    {
+     "group": 0,
+     "ratio": 2.59,
+     "text": "Squares. 149 16 2 36 49 64 81 100",
+     "line": "p5l0045"
+    },
+    {
+     "group": 0,
+     "ratio": 2.17,
+     "text": "The series of natural numbers: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 2",
+     "line": "p5l0053"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p6.mp3",
+   "minutes": 27.8,
+   "lines": 60,
+   "words": 4527,
+   "words_interpolated": 438,
+   "retakes": 44,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "The series of natural numbers, two being continually omitted: 1 4 7 10 13 16 19 ",
+     "line": "p6l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 1.94,
+     "text": "The series of pentagons: 1 5 12 22 35 51 70 92 117 145 176 210",
+     "line": "p6l0009"
+    },
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Squares: 1 4 9 16 25 36 49. Numbers longer in the other part: 2 6 12 20 30 42 56",
+     "line": "p6l0016"
+    },
+    {
+     "group": 0,
+     "ratio": 2.08,
+     "text": "Odd differences. 3 5. 7. 9. 11. 13.",
+     "line": "p6l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 2.29,
+     "text": "1. 4. 9. 16. 25. 36. 49. Squares.",
+     "line": "p6l0020"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "Even differences. 4, 6. 8. 10. 12. 14.",
+     "line": "p6l0021"
+    },
+    {
+     "group": 0,
+     "ratio": 1.97,
+     "text": "2. 6. 12. 20. 30. 42. 56. Heteromekeis.",
+     "line": "p6l0022"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "The places of odd numbers: 1 3 5 7. The duple series: 1 2 4 8 16 32 64 128. The ",
+     "line": "p6l0030"
+    },
+    {
+     "group": 0,
+     "ratio": 3.65,
+     "text": "The quadruple series. 1416 64 256 1024 4096 16384 The quintuple series. 15 25 12",
+     "line": "p6l0031"
+    },
+    {
+     "group": 0,
+     "ratio": 1.97,
+     "text": "Duple differences: 1. 2. 4. 8. 16. 32. 64.",
+     "line": "p6l0049"
+    },
+    {
+     "group": 0,
+     "ratio": 2.41,
+     "text": "Duple terms: 1. 2. 4. 8. 16. 32. 64. 128.",
+     "line": "p6l0050"
+    },
+    {
+     "group": 0,
+     "ratio": 2.2,
+     "text": "Triple differences. 2, 6 18 54 162, 486. 1458. 1, 3, 9, 27, 81, 243, 729, 2187. ",
+     "line": "p6l0051"
+    },
+    {
+     "group": 0,
+     "ratio": 2.07,
+     "text": "Quadruple differences: 3. 12. 48. 192. 768. 3072. 12288. Quadruple terms: 1. 4. ",
+     "line": "p6l0052"
+    },
+    {
+     "group": 3,
+     "ratio": 2.13,
+     "text": "Thus in the six terms 2. 4. 8. 16. 32. 64, 264=128=4 32=8\u00d716.",
+     "line": "p6l0054"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p7.mp3",
+   "minutes": 29.97,
+   "lines": 53,
+   "words": 4993,
+   "words_interpolated": 607,
+   "retakes": 27,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.09,
+     "text": "for 3\u00d73\u00d72=18.",
+     "line": "p7l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.79,
+     "text": "\u00a7 Thus 2\u00d78=16 which is not a cube. Thus also 6\u00d727=162, a non-cubic number,",
+     "line": "p7l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 2.73,
+     "text": "1. 4. 9. 16. 25. 36. 49. Squares.",
+     "line": "p7l0014"
+    },
+    {
+     "group": 0,
+     "ratio": 1.95,
+     "text": "Duple differences: 1. 2. 4. 8. 16. 32. 64.",
+     "line": "p7l0043"
+    },
+    {
+     "group": 0,
+     "ratio": 2.21,
+     "text": "Duple terms: 1. 2. 4. 8. 16. 32. 64. 128.",
+     "line": "p7l0044"
+    },
+    {
+     "group": 0,
+     "ratio": 2.29,
+     "text": "Quadruple differences: 3. 12. 48. 192. 768. 3072. 12288. Quadruple terms: 1. 4. ",
+     "line": "p7l0046"
+    },
+    {
+     "group": 0,
+     "ratio": 1.76,
+     "text": "45. 25. 15. 5. |Geome. 45. 15.5. Triple proportion. Arithm. 45. 25. 5 Difference",
+     "line": "p7l0050"
+    },
+    {
+     "group": 0,
+     "ratio": 1.8,
+     "text": "40. 25. 16. 10. | Harmo. 40. 16. 10. Quadruple. Difference 24. 6. Arithm. 40. 25",
+     "line": "p7l0051"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p8.mp3",
+   "minutes": 35.15,
+   "lines": 80,
+   "words": 5099,
+   "words_interpolated": 998,
+   "retakes": 52,
+   "flagged_takes": [
+    {
+     "group": 1,
+     "ratio": 1.71,
+     "text": "And 99 consists of 41 and twice 29, i.e. =41--58.",
+     "line": "p8l0010"
+    },
+    {
+     "group": 1,
+     "ratio": 2.16,
+     "text": "9\u22121=8, and 8 divided by 2=4, and 4+9=13=1+3+9, &c.",
+     "line": "p8l0020"
+    },
+    {
+     "group": 0,
+     "ratio": 2.42,
+     "text": "In the series 1+3+4+79+75, &c.",
+     "line": "p8l0025"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "2 2+4+4+44, and so of the rest.",
+     "line": "p8l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 2.37,
+     "text": "series) i i 12 4 816 32 64 128 256 6 is added, viz. _..... 66666 6 6 6 6 the sum",
+     "line": "p8l0050"
+    },
+    {
+     "group": 0,
+     "ratio": 2.39,
+     "text": "ed, is the series 6+28+496+8128+130816, &c.",
+     "line": "p8l0057"
+    },
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "After the first three terms likewise, if each term is multiplied by 4, and 3 is ",
+     "line": "p8l0059"
+    },
+    {
+     "group": 0,
+     "ratio": 2.61,
+     "text": "(1. 2)6 = 3. (2. 2)28 = 14; 2)14 = 7. (3. 2)496 = 248; 2)248 = 124; 2)124 = 62; ",
+     "line": "p8l0065"
+    },
+    {
+     "group": 0,
+     "ratio": 2.18,
+     "text": "(4. 2)8128 = 4064; 2)4064 = 2032; 2)2032 = 1016; 2)1016 = 508; 2)508 = 254; 2)25",
+     "line": "p8l0066"
+    },
+    {
+     "group": 1,
+     "ratio": 2.15,
+     "text": "2)262016 = 131008; 2)131008 = 65504; 2)65504 = 32752; 2)32752 = 16376; 2)16376 =",
+     "line": "p8l0066"
+    },
+    {
+     "group": 2,
+     "ratio": 3.56,
+     "text": "2)131056 = 65528; 2)65528 = 32764; 2)32764 = 16382; 2)16382 = 8191.",
+     "line": "p8l0066"
+    },
+    {
+     "group": 0,
+     "ratio": 4.04,
+     "text": "(8. 2)536854528 = 268427264; 2)268427264 = 134213632; 2)134213632 = 67106816;",
+     "line": "p8l0067"
+    },
+    {
+     "group": 0,
+     "ratio": 2.19,
+     "text": "2)67106816 = 33553408; 2)33553408 = 16776704; 2)16776704 = 8388352; 2)8388352 = ",
+     "line": "p8l0068"
+    },
+    {
+     "group": 1,
+     "ratio": 1.64,
+     "text": "2)2147467264 = 1073733632; 2)1073733632 = 536866816; 2)536866816 = 268433408; 2)",
+     "line": "p8l0068"
+    },
+    {
+     "group": 2,
+     "ratio": 1.79,
+     "text": "2)262142 = 131071. (10. 2)137438691328 = 68719345664; 2)68719345664 = 3435967283",
+     "line": "p8l0068"
+    },
+    {
+     "group": 3,
+     "ratio": 3.54,
+     "text": "2)134217472 = 67108736; 2)67108736 = 33554368; 2)33554368 = 16777184; 2)16777184",
+     "line": "p8l0068"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p9.mp3",
+   "minutes": 29.53,
+   "lines": 63,
+   "words": 4218,
+   "words_interpolated": 343,
+   "retakes": 41,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.03,
+     "text": "Farther still, the product of 4096 multiplied by 8 will be 32768. The three numb",
+     "line": "p9l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.81,
+     "text": "In the first place 2\u00d75 and +1=11, 2\u00d723 and +1=47, 2\u00d7191 and +1=383, 2\u00d71535 and +",
+     "line": "p9l0014"
+    },
+    {
+     "group": 1,
+     "ratio": 3.31,
+     "text": "But 23\u00d78 and +7=191, 47\u00d78 and +7=383, 191\u00d78 and +7=1535, 383\u00d78 and +7=3071, 1535",
+     "line": "p9l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 2.61,
+     "text": "Again, 47\u00d74 and +3=191, 383\u00d74 and +3=1535, 3071\u00d74 and +3=12287, and 24575\u00d74 and ",
+     "line": "p9l0016"
+    },
+    {
+     "group": 0,
+     "ratio": 3.24,
+     "text": "1\u22128 =",
+     "line": "p9l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 2.55,
+     "text": "47+7+7+7, &c. ad infin.",
+     "line": "p9l0020"
+    },
+    {
+     "group": 0,
+     "ratio": 3.64,
+     "text": "1\u22128 = And 73727+63+63+63, &c.",
+     "line": "p9l0021"
+    },
+    {
+     "group": 0,
+     "ratio": 2.99,
+     "text": "2)2415918592 1 \u2014 2 2) 1207959296 4 \u2014 8 2) 603979648 16 \u2014___\u2014_ 32 2)301989824 A \u2014",
+     "line": "p9l0028"
+    },
+    {
+     "group": 0,
+     "ratio": 1.9,
+     "text": "The next instance is in the two numbers 2473901154304, 2473599180800, as below:",
+     "line": "p9l0029"
+    },
+    {
+     "group": 1,
+     "ratio": 5.89,
+     "text": "2)4831838192 2)2415919096 2) 1207959548 2)603979774 301989887 2473599164417+1638",
+     "line": "p9l0030"
+    },
+    {
+     "group": 0,
+     "ratio": 2.2,
+     "text": "1+8+32+512+8192+131072, &c. ad infin. And the expression gives the series 1+2+4+",
+     "line": "p9l0045"
+    },
+    {
+     "group": 0,
+     "ratio": 1.98,
+     "text": "Squares: 1 4 9 16 25 36 49 64 81 100. Numbers longer in the other part: 2 6 12 2",
+     "line": "p9l0048"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p10.mp3",
+   "minutes": 23.29,
+   "lines": 32,
+   "words": 3806,
+   "words_interpolated": 63,
+   "retakes": 15,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.67,
+     "text": "First rank: 5 23 191 1535 12287 98303. Second rank: 11 47 383 3071 24575 196607.",
+     "line": "p10l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 1.76,
+     "text": "In the first place 2\u00d75 and +1=11, 2\u00d723 and +1=47, 2\u00d7191 and +1=383, 2\u00d71535 and +",
+     "line": "p10l0020"
+    },
+    {
+     "group": 0,
+     "ratio": 2.6,
+     "text": "Again, 47\u00d74 and +3=191, 383\u00d74 and +3=1535, 3071\u00d74 and +3=12287, and 24575\u00d74 and ",
+     "line": "p10l0022"
+    },
+    {
+     "group": 0,
+     "ratio": 2.39,
+     "text": "1\u22128 =",
+     "line": "p10l0025"
+    },
+    {
+     "group": 0,
+     "ratio": 3.2,
+     "text": "1\u22128 = And 73727+63+63+63, &c.",
+     "line": "p10l0027"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p11.mp3",
+   "minutes": 28.97,
+   "lines": 47,
+   "words": 4857,
+   "words_interpolated": 118,
+   "retakes": 10,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.8,
+     "text": "Ott xat 4 ex texpoesews, nat VTOSOYG, Rat ay tamotocews Be Ba",
+     "line": "p11l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 1.73,
+     "text": "Procl. lib. 2. in Tim.",
+     "line": "p11l0009"
+    },
+    {
+     "group": 0,
+     "ratio": 1.93,
+     "text": "Squares: 1 4 9 16 25 36 49 64 81 100. Numbers longer in the other part: 2 6 12 2",
+     "line": "p11l0020"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p12.mp3",
+   "minutes": 26.84,
+   "lines": 64,
+   "words": 4319,
+   "words_interpolated": 250,
+   "retakes": 34,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "But 4\u00d71 and +1=5 the second 4\u00d74 and +1=17 the 5th hexagonal gnomon. 4\u00d710 and +14",
+     "line": "p12l0040"
+    },
+    {
+     "group": 0,
+     "ratio": 1.73,
+     "text": "7\u00d71 and +1=8 the second 7\u00d76 and +1=43 the 7th enneagonal gnomon. 7\u00d718 and +1127 ",
+     "line": "p12l0042"
+    },
+    {
+     "group": 0,
+     "ratio": 1.75,
+     "text": "8\u00d71 and +1=9 the second | 8\u00d77 and +1=57 the 8th f decagonal gnomon. 8\u00d722 and +1=",
+     "line": "p12l0043"
+    },
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "2\u00d71 and +1=3) 2\u00d72 and +1=5 2\u00d73 and +1=7 + the gnomons of squares. 24 and +1=9 2\u00d7",
+     "line": "p12l0045"
+    },
+    {
+     "group": 0,
+     "ratio": 1.9,
+     "text": "31 and +1=4 ] 32 and +1=7 33 and +1=10 } the gnomons of pentagons. 3\u00d74 and +1=13",
+     "line": "p12l0046"
+    },
+    {
+     "group": 0,
+     "ratio": 2.14,
+     "text": "4\u00d71 and +1=5 ) 4\u00d72 and +1=9 4\u00d73 and +1=13 } the gnomons of hexagons. 4\u00d74 and. +1",
+     "line": "p12l0047"
+    },
+    {
+     "group": 0,
+     "ratio": 1.9,
+     "text": "5\u00d71 and -1=6 ) 52 and +1=11 53 and +116 } the gnomons of heptagons. 5\u00d74 and +1=2",
+     "line": "p12l0048"
+    },
+    {
+     "group": 0,
+     "ratio": 2.09,
+     "text": "6\u00d71 and +1=7 |) 6\u00d72 and +1=13 6\u00d73 and +1\u201419 + the gnomons of octagons. 6\u00d74 and +",
+     "line": "p12l0049"
+    },
+    {
+     "group": 0,
+     "ratio": 1.98,
+     "text": "* Mathemat. p. 156.",
+     "line": "p12l0054"
+    },
+    {
+     "group": 0,
+     "ratio": 1.76,
+     "text": "* See chap. 5.",
+     "line": "p12l0057"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "3\u00d77 and +1=22 the 8th",
+     "line": "p12l0063"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p13.mp3",
+   "minutes": 35.16,
+   "lines": 75,
+   "words": 5830,
+   "words_interpolated": 388,
+   "retakes": 59,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "4\u00d71 and +1=5 the au 4\u00d75 and +1=21 the 6th } hexagonal gnomon. 4\u00d712 and +1=49 the",
+     "line": "p13l0007"
+    },
+    {
+     "group": 0,
+     "ratio": 1.81,
+     "text": "4\u00d71 and +1=5 the 2nd 4\u00d74 and +1=17 the 5th; hexagonal gnomon. 4\u00d77 and +1=29 the ",
+     "line": "p13l0009"
+    },
+    {
+     "group": 0,
+     "ratio": 1.93,
+     "text": "4\u00d76 and +1=25 the 7th",
+     "line": "p13l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.97,
+     "text": "4\u00d710 and +1=41 the HN &c.",
+     "line": "p13l0014"
+    },
+    {
+     "group": 0,
+     "ratio": 2.13,
+     "text": "514 and +1=71 the 15th &c.",
+     "line": "p13l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "5\u00d73 and +1=16 the 4th + heptagonal gnomon.",
+     "line": "p13l0023"
+    },
+    {
+     "group": 0,
+     "ratio": 2.15,
+     "text": "55 and +1=26 the 6th &c.",
+     "line": "p13l0025"
+    },
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "5\u00d71 and +1=6 the 2nd 5\u00d73 and +1=16 the 4th + heptagonal gnomon. 5\u00d75 and +1=26 th",
+     "line": "p13l0030"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "6\u00d71 and +1=7 the 2nd 6\u00d76 and +1=37 the 7th } octangular gnomon. 6\u00d711 and +1=67 t",
+     "line": "p13l0033"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "6\u00d71 and +1=7 the 2nd 6\u00d74 and +1=25 the 5th } octangular gnomon. 6\u00d79 and +1=55 th",
+     "line": "p13l0035"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "6\u00d71 and +1=7 the 2nd } 6\u00d73 and +1=19 the 4th } octangular gnomon. 6\u00d75 and +1=31 ",
+     "line": "p13l0036"
+    },
+    {
+     "group": 0,
+     "ratio": 1.89,
+     "text": "6\u00d71 and +1=7 the 2nd",
+     "line": "p13l0037"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "6\u00d77 and +1=43 the 8th \\ octangular gnomon. 6\u00d718 and +1=109 the 19th J &c.",
+     "line": "p13l0038"
+    },
+    {
+     "group": 0,
+     "ratio": 3.5,
+     "text": "\u00a9 For 142+4+3+4-44546+4+7=28.",
+     "line": "p13l0052"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "7\u00d71 and +1=8 the 2nd 7\u00d72 and +1=15 the 3rd + enneagonal gnomon. 7\u00d73 and +1=22 th",
+     "line": "p13l0068"
+    },
+    {
+     "group": 0,
+     "ratio": 1.7,
+     "text": "7\u00d71 and +1=8 the 2nd 7\u00d74 and +1=29 the gnomon. 7\u00d79 and +1=64 the 10th",
+     "line": "p13l0071"
+    },
+    {
+     "group": 0,
+     "ratio": 1.81,
+     "text": "&c. 7\u00d71 and +1=8 the 2nd 7\u00d76 and +1=43 the 7th } enneagonal gnomon. 7\u00d718 and +11",
+     "line": "p13l0072"
+    },
+    {
+     "group": 0,
+     "ratio": 1.82,
+     "text": "7\u00d71 and +1=8 the ond) 7\u00d73 and +1=22 the 4th } enneagonal gnomon. 7\u00d75 and +1=36 t",
+     "line": "p13l0073"
+    }
+   ]
+  },
+  {
+   "file": "theoarith-p14.mp3",
+   "minutes": 27.8,
+   "lines": 63,
+   "words": 4316,
+   "words_interpolated": 510,
+   "retakes": 61,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "8\u00d71 and +1=9 the 2nd 8\u00d72 and +1=17 the 3rd } decagonal gnomon. 8\u00d73 and +1=25 the",
+     "line": "p14l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "8\u00d71 and +1=9 the 2nd 8\u00d78 and +1=65 the 9th } decagonal gnomon. 8\u00d715 and +1=121 t",
+     "line": "p14l0005"
+    },
+    {
+     "group": 0,
+     "ratio": 1.78,
+     "text": "&c, 8\u00d71 and +1=9 the 2nd 8\u00d77 and +1=57 the 8th + decagonal gnomon. 8\u00d722 and +1=1",
+     "line": "p14l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 1.78,
+     "text": "8\u00d71 and +1=9 the 2nd 8\u00d79 and +1=73 the 10th + decagonal gnomon. 824 and +1=193 t",
+     "line": "p14l0009"
+    },
+    {
+     "group": 0,
+     "ratio": 1.69,
+     "text": "9\u00d71 and +110 the 2nd 9\u00d73 and +1=28 the 4th } endecagonal gnomon. 9\u00d75 and +1=46 t",
+     "line": "p14l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "9\u00d71 and +1=10 the 2nd 9\u00d79 and +1=82 the 10th \u27e9 endecagonal gnomon. 9\u00d717 and +1=1",
+     "line": "p14l0014"
+    },
+    {
+     "group": 0,
+     "ratio": 1.82,
+     "text": "9\u00d71 and +1=10 the 2nd } 9\u00d710 and +1=91 the 11th } endecagonal gnomon. 9\u00d727 and +",
+     "line": "p14l0016"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "&c. 101 and +1=11 the 2nd | 10\u00d73 and +1=31 the 4th | duodecagonal gnomon. 105 an",
+     "line": "p14l0020"
+    },
+    {
+     "group": 0,
+     "ratio": 1.72,
+     "text": "&c. 10 1 and +1=11 the 2nd 10\u00d710 and +1=101 the gnomon. 10\u00d719 and +1=191 the 20t",
+     "line": "p14l0021"
+    },
+    {
+     "group": 0,
+     "ratio": 1.72,
+     "text": "&c. 10 1 and +1=11 the 2nd)",
+     "line": "p14l0023"
+    },
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Thus for instance and 25+6\u00d716=121, 121+6\u00d728=289, and 289+6\u00d740=529. And so of the",
+     "line": "p14l0034"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "P. 3.",
+     "line": "p14l0038"
+    },
+    {
+     "group": 0,
+     "ratio": 2.4,
+     "text": "P. 3.",
+     "line": "p14l0040"
+    },
+    {
+     "group": 0,
+     "ratio": 2.63,
+     "text": "P. 16.",
+     "line": "p14l0045"
+    },
+    {
+     "group": 0,
+     "ratio": 3.3,
+     "text": "345 6 7 8 90 NM 12 61015 21 28 36 45 55 66 78 5 7 9 11 13 15 17 19 21 23 91625 3",
+     "line": "p14l0052"
+    },
+    {
+     "group": 1,
+     "ratio": 2.42,
+     "text": "1 6 15 28 45 66 91 120 153 190 231 270 The Gnomons of Heptagons... 1 611 1621 26",
+     "line": "p14l0053"
+    },
+    {
+     "group": 2,
+     "ratio": 1.67,
+     "text": "1 8 21 40 65 96 133 176 225 280 341 408 The Gnomons of Enneagons... 1 8 Enneagon",
+     "line": "p14l0053"
+    },
+    {
+     "group": 1,
+     "ratio": 2.36,
+     "text": "Thus 7\u00d77=49, and 49=21+28. Thus too 3131961, and 961=465+496. And so of the rest",
+     "line": "p14l0061"
+    }
+   ]
+  }
+ ]
+}
