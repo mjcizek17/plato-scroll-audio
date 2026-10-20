@@ -1,0 +1,86 @@
+{
+ "work": "plot-e4",
+ "parts": [
+  {
+   "file": "plot-e4-p1.mp3",
+   "minutes": 1.89,
+   "lines": 11,
+   "words": 298,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plot-e4-p2.mp3",
+   "minutes": 9.73,
+   "lines": 30,
+   "words": 1716,
+   "words_interpolated": 18,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plot-e4-p3.mp3",
+   "minutes": 77.7,
+   "lines": 221,
+   "words": 14660,
+   "words_interpolated": 140,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plot-e4-p4.mp3",
+   "minutes": 109.95,
+   "lines": 278,
+   "words": 20666,
+   "words_interpolated": 178,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plot-e4-p5.mp3",
+   "minutes": 27.2,
+   "lines": 85,
+   "words": 5279,
+   "words_interpolated": 37,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "plot-e4-p6.mp3",
+   "minutes": 9.93,
+   "lines": 35,
+   "words": 1857,
+   "words_interpolated": 14,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plot-e4-p7.mp3",
+   "minutes": 42.13,
+   "lines": 126,
+   "words": 7758,
+   "words_interpolated": 61,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plot-e4-p8.mp3",
+   "minutes": 20.64,
+   "lines": 53,
+   "words": 3774,
+   "words_interpolated": 30,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plot-e4-p9.mp3",
+   "minutes": 9.7,
+   "lines": 42,
+   "words": 1820,
+   "words_interpolated": 12,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
