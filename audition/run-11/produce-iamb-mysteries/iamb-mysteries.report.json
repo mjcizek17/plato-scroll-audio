@@ -1,0 +1,433 @@
+{
+ "work": "iamb-mysteries",
+ "parts": [
+  {
+   "file": "iamb-mysteries-p1.mp3",
+   "minutes": 37.77,
+   "lines": 64,
+   "words": 6562,
+   "words_interpolated": 57,
+   "retakes": 15,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.73,
+     "text": "\u2020 (pg. xviii) Answer to Catholics no Idolaters. Lond. 1676. p. 211",
+     "line": "p1l0017"
+    },
+    {
+     "group": 0,
+     "ratio": 1.75,
+     "text": "\u2021 (pg. xviii) Arrian, de Exped. Alex. 1. iv. et Curt, lib. viii.",
+     "line": "p1l0018"
+    },
+    {
+     "group": 0,
+     "ratio": 1.82,
+     "text": "\u2020 (pg. xx) Panegyr.",
+     "line": "p1l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 2.64,
+     "text": "\u2021 (pg. xx) Lib. vii.",
+     "line": "p1l0020"
+    },
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "\u00a7 (pg. xx) Lib. vi. cap. iii.",
+     "line": "p1l0021"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p2.mp3",
+   "minutes": 23.2,
+   "lines": 26,
+   "words": 3941,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "iamb-mysteries-p3.mp3",
+   "minutes": 21.8,
+   "lines": 26,
+   "words": 3721,
+   "words_interpolated": 7,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.84,
+     "text": "Chapter XI",
+     "line": "p3l0016"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p4.mp3",
+   "minutes": 24.15,
+   "lines": 32,
+   "words": 4090,
+   "words_interpolated": 4,
+   "retakes": 8,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.78,
+     "text": "Chapter XV",
+     "line": "p4l0005"
+    },
+    {
+     "group": 0,
+     "ratio": 2.16,
+     "text": "Chapter XX",
+     "line": "p4l0029"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p5.mp3",
+   "minutes": 23.48,
+   "lines": 28,
+   "words": 3948,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "iamb-mysteries-p6.mp3",
+   "minutes": 21.43,
+   "lines": 22,
+   "words": 3761,
+   "words_interpolated": 2,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Chapter XI",
+     "line": "p6l0009"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p7.mp3",
+   "minutes": 26.24,
+   "lines": 40,
+   "words": 4454,
+   "words_interpolated": 54,
+   "retakes": 14,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.79,
+     "text": "Oblivion spreads. ODYSS. lib. 4.",
+     "line": "p7l0023"
+    },
+    {
+     "group": 0,
+     "ratio": 2.34,
+     "text": "\u03a9 \u03bc\u03b1\u03ba\u03b1\u03c1 \u03bf\u03c3\u03b9\u03c2 \u03b5\u03c5\u03b4\u03b1\u03b9\u03bc\u03c9\u03bd \u03c4\u03b5\u03bb\u03b5\u03c4\u03b1\u03c2 \u03b8\u03b5\u03c9\u03bd",
+     "line": "p7l0030"
+    },
+    {
+     "group": 0,
+     "ratio": 2.03,
+     "text": "\u039f\u03c3\u03b9\u03bf\u03b9\u03c3\u03b9 \u03ba\u03b1\u03b8\u03b1\u03c1\u03bc\u03bf\u03b9\u03c2.",
+     "line": "p7l0034"
+    },
+    {
+     "group": 0,
+     "ratio": 1.99,
+     "text": "\u2020 (pg.",
+     "line": "p7l0036"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p8.mp3",
+   "minutes": 27.2,
+   "lines": 39,
+   "words": 4520,
+   "words_interpolated": 126,
+   "retakes": 17,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.75,
+     "text": "\u039f\u03c5 \u03b3\u03b1\u03c1 \u03c7\u03c1\u03b7 \u03ba\u03b5\u03b9\u03bd\u03bf\u03c5\u03c2 \u03c3\u03b5 \u03b2\u03bb\u03b5\u03c0\u03b5\u03b9\u03bd \u03c0\u03c1\u03b9\u03bd \u03c3\u03c9\u03bc\u03b1 \u03c4\u03b5\u03bb\u03b5\u03c3\u03b8\u03b5\u03b9\u03c2.",
+     "line": "p8l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 1.7,
+     "text": "\u039f\u03c4\u03b9 \u03c4\u03b1\u03c2 \u03c8\u03c5\u03c7\u03b1\u03c2 \u03c4\u03b5\u03bb\u03b3\u03bf\u03bd\u03c4\u03b5\u03c2 \u03b1\u03b5\u03b9 \u03c4\u03b5\u03bb\u03b5\u03c4\u03c9\u03bd \u03b1\u03c0\u03b1\u03b3\u03bf\u03c5\u03c3\u03b9,",
+     "line": "p8l0017"
+    },
+    {
+     "group": 2,
+     "ratio": 2.29,
+     "text": "\u03ba\u03b1\u03b9 \u03b3\u03c8\u03bc\u03bd\u03b9\u03c4\u03b1\u03c2 (\u03c9\u03c2 \u03b1\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03b9 \u03c6\u03b1\u03b9\u03b5\u03bd) \u03c4\u03bf\u03c5 \u03b8\u03b5\u03b9\u03bf\u03c5 \u03bc\u03b5\u03c4\u03b1\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03b5\u03b9\u03bd, \u03c4\u03bf\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd \u03bf\u03b9\u03bc\u03b1\u03b9 \u03c4\u03c1\u03bf\u03c0",
+     "line": "p8l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 1.84,
+     "text": "\u2020 (pg. 152) Proclus in Plat. Polit.",
+     "line": "p8l0028"
+    },
+    {
+     "group": 0,
+     "ratio": 1.77,
+     "text": "Chapter XV",
+     "line": "p8l0029"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p9.mp3",
+   "minutes": 25.01,
+   "lines": 25,
+   "words": 4315,
+   "words_interpolated": 16,
+   "retakes": 17,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.77,
+     "text": "Chapter XIX",
+     "line": "p9l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 2.02,
+     "text": "Chapter XXI",
+     "line": "p9l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 1.77,
+     "text": "Chapter XXII",
+     "line": "p9l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.85,
+     "text": "Chapter XXIV",
+     "line": "p9l0018"
+    },
+    {
+     "group": 0,
+     "ratio": 1.87,
+     "text": "Chapter XXV",
+     "line": "p9l0021"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p10.mp3",
+   "minutes": 23.42,
+   "lines": 25,
+   "words": 4026,
+   "words_interpolated": 8,
+   "retakes": 9,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.01,
+     "text": "Chapter XXIX",
+     "line": "p10l0011"
+    },
+    {
+     "group": 0,
+     "ratio": 1.84,
+     "text": "Chapter XXX",
+     "line": "p10l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.89,
+     "text": "Chapter XXXI",
+     "line": "p10l0015"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p11.mp3",
+   "minutes": 22.75,
+   "lines": 31,
+   "words": 3922,
+   "words_interpolated": 3,
+   "retakes": 8,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Chapter I",
+     "line": "p11l0027"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p12.mp3",
+   "minutes": 23.74,
+   "lines": 31,
+   "words": 4136,
+   "words_interpolated": 36,
+   "retakes": 8,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.61,
+     "text": "\u2020 (note to note on pg. 236) For 2+4+6+8=20; and 1+3+5+7=16; and 20+16=36.",
+     "line": "p12l0025"
+    },
+    {
+     "group": 0,
+     "ratio": 1.96,
+     "text": "Chapter X",
+     "line": "p12l0028"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p13.mp3",
+   "minutes": 25.02,
+   "lines": 35,
+   "words": 4273,
+   "words_interpolated": 69,
+   "retakes": 15,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Chapter XX",
+     "line": "p13l0020"
+    },
+    {
+     "group": 0,
+     "ratio": 2.22,
+     "text": "Chapter XXI",
+     "line": "p13l0022"
+    },
+    {
+     "group": 2,
+     "ratio": 1.69,
+     "text": "\u039f \u03b3\u03b1\u03c1 \u03b8\u03b5\u03c3\u03bc\u03bf\u03c2 \u03c3\u03c5\u03bc\u03c0\u03bb\u03b5\u03ba\u03b5\u03c4\u03b1\u03b9 \u03c4\u1ff3 \u03b8\u03b5\u1ff3, \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03b7\u03ba\u03b5\u03b9 \u03bc\u03b1\u03bb\u03bb\u03bf\u03bd \u03c4\u03bf\u03b9\u03c2 \u03bd\u03bf\u03b7\u03c4\u03bf\u03b9\u03c2\u0387 \u03bf \u03b4\u03b5 \u03bd\u03bf\u03bc\u03bf\u03c2 \u03c4\u03b7\u03bd",
+     "line": "p13l0029"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p14.mp3",
+   "minutes": 22.33,
+   "lines": 34,
+   "words": 3786,
+   "words_interpolated": 8,
+   "retakes": 10,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.45,
+     "text": "Chapter XXV",
+     "line": "p14l0002"
+    },
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "\u2020 Here too for \u0391\u03b2\u03c5\u03b4\u1ff3 I read \u0391\u03b4\u03c5\u03c4\u1ff3.",
+     "line": "p14l0026"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p15.mp3",
+   "minutes": 23.74,
+   "lines": 54,
+   "words": 3936,
+   "words_interpolated": 84,
+   "retakes": 33,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Xanthus by God, by men Scamander call\u2019d ILIAD XX. V. 74.",
+     "line": "p15l0002"
+    },
+    {
+     "group": 0,
+     "ratio": 2.57,
+     "text": "\u0391\u03b9\u03c4\u03b5\u03b9\u03bd\u03b7 \u03b3\u03b1\u03c1 \u03bf\u03b4\u03bf\u03c2, \u03bc\u03b1\u03ba\u03b1\u03c1\u03c9\u03bd, \u03c4\u03c1\u03b7\u03c7\u03b5\u03b9\u03b1\u03c4\u03b5 \u03c0\u03bf\u03bb\u03bb\u03bf\u03bd,",
+     "line": "p15l0011"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "\u03a7\u03b1\u03bb\u03ba\u03bf\u03b5\u03c4\u03bf\u03b9\u03c2 \u03c4\u03b1 \u03c0\u03c1\u03c9\u03c4\u03b1 \u03b4\u03b9\u03bf\u03b9\u03b3\u03bf\u03bc\u03b5\u03bd\u03b7 \u03c0\u03c5\u03bb\u03b5\u03c9\u03c3\u03b9\u03bd.",
+     "line": "p15l0012"
+    },
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "\u0391\u03c4\u03c1\u03bf\u03c0\u03b9\u03c4\u03bf\u03b9 \u03b4\u03b5 \u03b5\u03b1\u03c3\u03c3\u03b9\u03bd \u03b1\u03b8\u03b5\u03c3\u03c6\u03b1\u03c4\u03bf\u03b9 \u03b5\u03b3\u03b3\u03b5\u03b3\u03b1\u03c5\u03b9\u03b1\u03b9,",
+     "line": "p15l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 2.15,
+     "text": "\u0391\u03c2 \u03c0\u03c1\u03c9\u03c4\u03bf\u03b9 \u03bc\u03b5\u03c1\u03bf\u03c0\u03c9\u03bd \u03b5\u03c0\u2019 \u03b1\u03c0\u03b5\u03b9\u03c1\u03bf\u03bd\u03b1 \u03c0\u03c1\u03b7\u03be\u03b9\u03bd \u03b5\u03c6\u03b7\u03bd\u03b1\u03bd,",
+     "line": "p15l0014"
+    },
+    {
+     "group": 0,
+     "ratio": 1.76,
+     "text": "\u039f\u03b9 \u03c4\u03bf \u03ba\u03b1\u03bb\u03bf\u03bd \u03c0\u03b9\u03bd\u03bf\u03bd\u03c4\u03b5\u03c2 \u03c5\u03b4\u03c9\u03c1 \u039d\u03b5\u03b9\u03c9\u03c4\u03b9\u03b4\u03bf\u03c2 \u03b1\u03b9\u03b7\u03c2\u0387",
+     "line": "p15l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 1.98,
+     "text": "\u0391\u03c3\u03c3\u03c5\u03c1\u03b9\u03bf\u03b9, \u039b\u03c5\u03b4\u03bf\u03b9\u03c4\u03b5, \u03ba\u03b1\u03b9 \u0395\u03b2\u03c1\u03b1\u03b9\u03c9\u03bd (lege \u03a7\u03b1\u03bb\u03b4\u03b1\u03b9\u03c9\u03bd) \u03b3\u03b5\u03bd\u03bf\u03c2 \u03b1\u03bd\u03b4\u03c1\u03c9\u03bd.",
+     "line": "p15l0017"
+    },
+    {
+     "group": 0,
+     "ratio": 2.22,
+     "text": "\u2014\u2014 \u2014\u2014 \u2014\u2014 \u03c0\u03bf\u03c1\u03b8\u03bc\u03b9\u03bf\u03bd \u03bf\u03c5\u03bd\u03bf\u03bc\u03b1 \u03c4\u03bf \u03b4\u2019 \u03b5\u03bd \u03b1\u03c0\u03b5\u03b9\u03c1\u03bf\u03b9\u03c3",
+     "line": "p15l0042"
+    },
+    {
+     "group": 0,
+     "ratio": 2.0,
+     "text": "\u0391\u03bb\u03bb\u03b1 \u03b5\u03c3\u03c4\u03b9\u03bd \u03bf\u03c5\u03bd\u03b1\u03bc\u03bf \u03c3\u03b5\u03bc\u03bd\u03bf\u03bd \u03b1\u03ba\u03bf\u03b9\u03bc\u03b7\u03bd\u03c4\u1ff3 \u03c3\u03c4\u03c1\u03bf\u03c6\u03b1\u03b3\u03b3\u03b9,",
+     "line": "p15l0045"
+    },
+    {
+     "group": 0,
+     "ratio": 2.39,
+     "text": "\u039a\u03bf\u03c3\u03bc\u03bf\u03b9\u03c2 \u03b5\u03bd\u03b8\u03c1\u03c9\u03c3\u03ba\u03bf\u03bd, \u03ba\u03c1\u03b1\u03b9\u03c0\u03bd\u03b7\u03bd \u03b4\u03b9\u03b1 \u03c0\u03b1\u03c4\u03c1\u03bf\u03c2 \u03b5\u03bd\u03b9\u03c0\u03b7\u03bd.",
+     "line": "p15l0046"
+    }
+   ]
+  },
+  {
+   "file": "iamb-mysteries-p16.mp3",
+   "minutes": 24.19,
+   "lines": 40,
+   "words": 4305,
+   "words_interpolated": 12,
+   "retakes": 7,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "Section X",
+     "line": "p16l0022"
+    }
+   ]
+  }
+ ]
+}
