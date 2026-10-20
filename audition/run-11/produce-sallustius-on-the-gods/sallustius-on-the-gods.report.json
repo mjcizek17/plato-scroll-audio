@@ -1,0 +1,23 @@
+{
+ "work": "sallustius-on-the-gods",
+ "parts": [
+  {
+   "file": "sallustius-on-the-gods-p1.mp3",
+   "minutes": 23.23,
+   "lines": 21,
+   "words": 4005,
+   "words_interpolated": 11,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "sallustius-on-the-gods-p2.mp3",
+   "minutes": 20.94,
+   "lines": 24,
+   "words": 3699,
+   "words_interpolated": 11,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
