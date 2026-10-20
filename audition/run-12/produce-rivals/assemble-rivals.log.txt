@@ -1,0 +1,1 @@
+{"work": "rivals", "parts": [{"file": "rivals-p1.mp3", "minutes": 19.61, "lines": 123, "words": 3451, "words_interpolated": 16, "retakes": 2, "flagged_takes": []}]}
