@@ -1,0 +1,51 @@
+{
+ "work": "iamb-protrepticus",
+ "parts": [
+  {
+   "file": "iamb-protrepticus-p1.mp3",
+   "minutes": 183.8,
+   "lines": 244,
+   "words": 33685,
+   "words_interpolated": 211,
+   "retakes": 24,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.67,
+     "text": "OSCEOLA, MISSOURI, JUNE 18, 1907",
+     "line": "p1l0031"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "XXI.",
+     "line": "p1l0198"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "21 Cut not in the way.",
+     "line": "p1l0221"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "31 Eat not the brain.",
+     "line": "p1l0231"
+    },
+    {
+     "group": 0,
+     "ratio": 1.67,
+     "text": "37 Abstain from beans.",
+     "line": "p1l0237"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Symbol 2",
+     "line": "p1l0243"
+    }
+   ]
+  }
+ ]
+}
