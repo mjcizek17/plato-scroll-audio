@@ -1,0 +1,1 @@
+{"work": "julian-caesars", "parts": [{"file": "julian-caesars-p1.mp3", "minutes": 55.2, "lines": 43, "words": 9135, "words_interpolated": 10, "retakes": 0, "flagged_takes": []}]}
