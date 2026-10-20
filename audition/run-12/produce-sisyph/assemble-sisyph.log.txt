@@ -1,0 +1,1 @@
+{"work": "sisyph", "parts": [{"file": "sisyph-p1.mp3", "minutes": 12.64, "lines": 96, "words": 2203, "words_interpolated": 3, "retakes": 0, "flagged_takes": []}]}
