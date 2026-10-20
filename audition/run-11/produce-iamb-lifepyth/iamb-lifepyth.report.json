@@ -1,0 +1,164 @@
+{
+ "work": "iamb-lifepyth",
+ "parts": [
+  {
+   "file": "iamb-lifepyth-p1.mp3",
+   "minutes": 23.05,
+   "lines": 32,
+   "words": 4044,
+   "words_interpolated": 1,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "iamb-lifepyth-p2.mp3",
+   "minutes": 25.39,
+   "lines": 30,
+   "words": 4686,
+   "words_interpolated": 1,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "iamb-lifepyth-p3.mp3",
+   "minutes": 27.06,
+   "lines": 48,
+   "words": 4858,
+   "words_interpolated": 2,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "iamb-lifepyth-p4.mp3",
+   "minutes": 22.55,
+   "lines": 25,
+   "words": 4164,
+   "words_interpolated": 4,
+   "retakes": 10,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Chapter XX",
+     "line": "p4l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 1.87,
+     "text": "Chapter XXI",
+     "line": "p4l0018"
+    },
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Chapter XXII",
+     "line": "p4l0023"
+    }
+   ]
+  },
+  {
+   "file": "iamb-lifepyth-p5.mp3",
+   "minutes": 27.53,
+   "lines": 31,
+   "words": 4879,
+   "words_interpolated": 23,
+   "retakes": 14,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.88,
+     "text": "Chapter XXIV",
+     "line": "p5l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.91,
+     "text": "Chapter XXV",
+     "line": "p5l0007"
+    },
+    {
+     "group": 0,
+     "ratio": 1.87,
+     "text": "Chapter XXVI",
+     "line": "p5l0012"
+    },
+    {
+     "group": 0,
+     "ratio": 1.93,
+     "text": "Chapter XXVII",
+     "line": "p5l0019"
+    }
+   ]
+  },
+  {
+   "file": "iamb-lifepyth-p6.mp3",
+   "minutes": 30.77,
+   "lines": 48,
+   "words": 5556,
+   "words_interpolated": 2,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.03,
+     "text": "Chapter XXIX",
+     "line": "p6l0031"
+    }
+   ]
+  },
+  {
+   "file": "iamb-lifepyth-p7.mp3",
+   "minutes": 36.91,
+   "lines": 30,
+   "words": 6725,
+   "words_interpolated": 5,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.36,
+     "text": "Chapter XXXI",
+     "line": "p7l0014"
+    }
+   ]
+  },
+  {
+   "file": "iamb-lifepyth-p8.mp3",
+   "minutes": 23.79,
+   "lines": 24,
+   "words": 4164,
+   "words_interpolated": 4,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.74,
+     "text": "Chapter XXXIII",
+     "line": "p8l0014"
+    }
+   ]
+  },
+  {
+   "file": "iamb-lifepyth-p9.mp3",
+   "minutes": 27.22,
+   "lines": 31,
+   "words": 4543,
+   "words_interpolated": 3,
+   "retakes": 7,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.0,
+     "text": "Chapter XXXV",
+     "line": "p9l0005"
+    },
+    {
+     "group": 0,
+     "ratio": 1.89,
+     "text": "Chapter XXXVI",
+     "line": "p9l0025"
+    }
+   ]
+  }
+ ]
+}
