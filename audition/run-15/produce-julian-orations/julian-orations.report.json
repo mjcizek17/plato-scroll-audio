@@ -1,0 +1,77 @@
+{
+ "work": "julian-orations",
+ "parts": [
+  {
+   "file": "julian-orations-p1.mp3",
+   "minutes": 100.68,
+   "lines": 51,
+   "words": 17163,
+   "words_interpolated": 13,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "julian-orations-p2.mp3",
+   "minutes": 112.43,
+   "lines": 76,
+   "words": 19550,
+   "words_interpolated": 16,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "julian-orations-p3.mp3",
+   "minutes": 58.95,
+   "lines": 30,
+   "words": 10237,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "julian-orations-p4.mp3",
+   "minutes": 64.93,
+   "lines": 31,
+   "words": 10907,
+   "words_interpolated": 24,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "julian-orations-p5.mp3",
+   "minutes": 50.03,
+   "lines": 20,
+   "words": 8523,
+   "words_interpolated": 22,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "julian-orations-p6.mp3",
+   "minutes": 49.73,
+   "lines": 25,
+   "words": 8574,
+   "words_interpolated": 19,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "julian-orations-p7.mp3",
+   "minutes": 74.45,
+   "lines": 36,
+   "words": 12854,
+   "words_interpolated": 44,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "julian-orations-p8.mp3",
+   "minutes": 25.57,
+   "lines": 15,
+   "words": 4373,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
