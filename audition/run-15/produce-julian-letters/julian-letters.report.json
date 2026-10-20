@@ -1,0 +1,301 @@
+{
+ "work": "julian-letters",
+ "parts": [
+  {
+   "file": "julian-letters-p1.mp3",
+   "minutes": 27.1,
+   "lines": 37,
+   "words": 4684,
+   "words_interpolated": 30,
+   "retakes": 20,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.99,
+     "text": "4. To Oribasius",
+     "line": "p1l0006"
+    },
+    {
+     "group": 0,
+     "ratio": 1.72,
+     "text": "5. To Priscus",
+     "line": "p1l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "10. To Eutherius",
+     "line": "p1l0023"
+    },
+    {
+     "group": 0,
+     "ratio": 1.84,
+     "text": "11. To Leontius",
+     "line": "p1l0025"
+    },
+    {
+     "group": 0,
+     "ratio": 1.95,
+     "text": "14. To Prohaeresius",
+     "line": "p1l0031"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "15. To Bishop Aetius",
+     "line": "p1l0033"
+    }
+   ]
+  },
+  {
+   "file": "julian-letters-p2.mp3",
+   "minutes": 24.1,
+   "lines": 24,
+   "words": 4182,
+   "words_interpolated": 19,
+   "retakes": 6,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.73,
+     "text": "19. To a Priest",
+     "line": "p2l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.67,
+     "text": "23. To Ecdicius, Prefect of Egypt",
+     "line": "p2l0022"
+    }
+   ]
+  },
+  {
+   "file": "julian-letters-p3.mp3",
+   "minutes": 24.11,
+   "lines": 25,
+   "words": 4179,
+   "words_interpolated": 21,
+   "retakes": 12,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.3,
+     "text": "25. To Evagrius",
+     "line": "p3l0002"
+    },
+    {
+     "group": 0,
+     "ratio": 2.34,
+     "text": "26. To Basil",
+     "line": "p3l0005"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "27. To the Thracians",
+     "line": "p3l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "29. To his Uncle Julian",
+     "line": "p3l0017"
+    }
+   ]
+  },
+  {
+   "file": "julian-letters-p4.mp3",
+   "minutes": 30.06,
+   "lines": 42,
+   "words": 5047,
+   "words_interpolated": 31,
+   "retakes": 23,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.76,
+     "text": "34. To Theodora?",
+     "line": "p4l0006"
+    },
+    {
+     "group": 0,
+     "ratio": 1.98,
+     "text": "37. To Atarbius",
+     "line": "p4l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "40. To Hecebolius",
+     "line": "p4l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 1.82,
+     "text": "44. To Eustathius",
+     "line": "p4l0029"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "45. To Ecdicius, Prefect of Egypt",
+     "line": "p4l0032"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "47. To the Alexandrians",
+     "line": "p4l0036"
+    }
+   ]
+  },
+  {
+   "file": "julian-letters-p5.mp3",
+   "minutes": 24.46,
+   "lines": 24,
+   "words": 4248,
+   "words_interpolated": 23,
+   "retakes": 8,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.0,
+     "text": "52. To Libanius",
+     "line": "p5l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 1.93,
+     "text": "53. To Libanius",
+     "line": "p5l0021"
+    }
+   ]
+  },
+  {
+   "file": "julian-letters-p6.mp3",
+   "minutes": 23.95,
+   "lines": 27,
+   "words": 4206,
+   "words_interpolated": 22,
+   "retakes": 15,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.03,
+     "text": "55. To Photinus",
+     "line": "p6l0002"
+    },
+    {
+     "group": 0,
+     "ratio": 1.75,
+     "text": "56. Edict on Funerals",
+     "line": "p6l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "57. To Arsaces, Satrap of Armenia",
+     "line": "p6l0009"
+    },
+    {
+     "group": 0,
+     "ratio": 1.99,
+     "text": "61. To Sopater",
+     "line": "p6l0021"
+    },
+    {
+     "group": 0,
+     "ratio": 1.85,
+     "text": "63. To Hecebolius",
+     "line": "p6l0025"
+    }
+   ]
+  },
+  {
+   "file": "julian-letters-p7.mp3",
+   "minutes": 31.45,
+   "lines": 33,
+   "words": 5549,
+   "words_interpolated": 30,
+   "retakes": 31,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.91,
+     "text": "68. To Dositheus",
+     "line": "p7l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 2.07,
+     "text": "69. To Himerius",
+     "line": "p7l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 2.04,
+     "text": "70. To Diogenes",
+     "line": "p7l0012"
+    },
+    {
+     "group": 0,
+     "ratio": 1.92,
+     "text": "72. To Plutarch",
+     "line": "p7l0016"
+    },
+    {
+     "group": 0,
+     "ratio": 2.09,
+     "text": "73. To Maximinus",
+     "line": "p7l0018"
+    },
+    {
+     "group": 0,
+     "ratio": 2.01,
+     "text": "74. To Iamblichus",
+     "line": "p7l0020"
+    },
+    {
+     "group": 0,
+     "ratio": 2.03,
+     "text": "75. To the Same",
+     "line": "p7l0022"
+    },
+    {
+     "group": 0,
+     "ratio": 2.11,
+     "text": "76. To the Same",
+     "line": "p7l0025"
+    },
+    {
+     "group": 0,
+     "ratio": 1.87,
+     "text": "77. To the Same",
+     "line": "p7l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 1.79,
+     "text": "78. To the Same",
+     "line": "p7l0029"
+    }
+   ]
+  },
+  {
+   "file": "julian-letters-p8.mp3",
+   "minutes": 28.76,
+   "lines": 47,
+   "words": 4789,
+   "words_interpolated": 68,
+   "retakes": 5,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.89,
+     "text": "81. To Basil",
+     "line": "p8l0007"
+    }
+   ]
+  }
+ ]
+}
