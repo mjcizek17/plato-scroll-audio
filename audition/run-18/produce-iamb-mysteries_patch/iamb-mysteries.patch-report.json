@@ -1,0 +1,989 @@
+{
+ "work": "iamb-mysteries",
+ "patched": [
+  {
+   "part": "iamb-mysteries-p1",
+   "entry": 3,
+   "old_s": 10.69,
+   "new_s": 11.38,
+   "words": 163,
+   "was": 163
+  },
+  {
+   "part": "iamb-mysteries-p2",
+   "entry": 90,
+   "old_s": 5.81,
+   "new_s": 4.97,
+   "words": 311,
+   "was": 311
+  },
+  {
+   "part": "iamb-mysteries-p2",
+   "entry": 88,
+   "old_s": 2.79,
+   "new_s": 3.32,
+   "words": 318,
+   "was": 318
+  },
+  {
+   "part": "iamb-mysteries-p2",
+   "entry": 83,
+   "old_s": 5.24,
+   "new_s": 4.39,
+   "words": 99,
+   "was": 99
+  },
+  {
+   "part": "iamb-mysteries-p2",
+   "entry": 78,
+   "old_s": 16.2,
+   "new_s": 16.74,
+   "words": 394,
+   "was": 394
+  },
+  {
+   "part": "iamb-mysteries-p2",
+   "entry": 72,
+   "old_s": 3.5,
+   "new_s": 4.29,
+   "words": 343,
+   "was": 343
+  },
+  {
+   "part": "iamb-mysteries-p2",
+   "entry": 69,
+   "old_s": 6.13,
+   "new_s": 6.6,
+   "words": 294,
+   "was": 294
+  },
+  {
+   "part": "iamb-mysteries-p3",
+   "entry": 115,
+   "old_s": 11.55,
+   "new_s": 10.93,
+   "words": 136,
+   "was": 136
+  },
+  {
+   "part": "iamb-mysteries-p3",
+   "entry": 104,
+   "old_s": 13.28,
+   "new_s": 11.51,
+   "words": 125,
+   "was": 125
+  },
+  {
+   "part": "iamb-mysteries-p3",
+   "entry": 93,
+   "old_s": 4.52,
+   "new_s": 5.51,
+   "words": 343,
+   "was": 343
+  },
+  {
+   "part": "iamb-mysteries-p4",
+   "entry": 148,
+   "old_s": 7.2,
+   "new_s": 7.34,
+   "words": 348,
+   "was": 348
+  },
+  {
+   "part": "iamb-mysteries-p4",
+   "entry": 135,
+   "old_s": 8.56,
+   "new_s": 10.01,
+   "words": 123,
+   "was": 123
+  },
+  {
+   "part": "iamb-mysteries-p4",
+   "entry": 132,
+   "old_s": 6.59,
+   "new_s": 6.3,
+   "words": 156,
+   "was": 156
+  },
+  {
+   "part": "iamb-mysteries-p4",
+   "entry": 130,
+   "old_s": 7.75,
+   "new_s": 7.53,
+   "words": 254,
+   "was": 254
+  },
+  {
+   "part": "iamb-mysteries-p4",
+   "entry": 124,
+   "old_s": 3.48,
+   "new_s": 4.13,
+   "words": 190,
+   "was": 190
+  },
+  {
+   "part": "iamb-mysteries-p4",
+   "entry": 122,
+   "old_s": 11.39,
+   "new_s": 11.15,
+   "words": 165,
+   "was": 165
+  },
+  {
+   "part": "iamb-mysteries-p4",
+   "entry": 119,
+   "old_s": 25.52,
+   "new_s": 24.68,
+   "words": 130,
+   "was": 130
+  },
+  {
+   "part": "iamb-mysteries-p5",
+   "entry": 177,
+   "old_s": 6.06,
+   "new_s": 5.6,
+   "words": 460,
+   "was": 460
+  },
+  {
+   "part": "iamb-mysteries-p5",
+   "entry": 175,
+   "old_s": 6.49,
+   "new_s": 6.31,
+   "words": 369,
+   "was": 369
+  },
+  {
+   "part": "iamb-mysteries-p5",
+   "entry": 170,
+   "old_s": 3.8,
+   "new_s": 4.15,
+   "words": 69,
+   "was": 69
+  },
+  {
+   "part": "iamb-mysteries-p5",
+   "entry": 164,
+   "old_s": 15.27,
+   "new_s": 14.41,
+   "words": 173,
+   "was": 173
+  },
+  {
+   "part": "iamb-mysteries-p5",
+   "entry": 158,
+   "old_s": 3.77,
+   "new_s": 4.18,
+   "words": 310,
+   "was": 310
+  },
+  {
+   "part": "iamb-mysteries-p5",
+   "entry": 155,
+   "old_s": 11.34,
+   "new_s": 11.16,
+   "words": 93,
+   "was": 93
+  },
+  {
+   "part": "iamb-mysteries-p5",
+   "entry": 151,
+   "old_s": 11.16,
+   "new_s": 11.34,
+   "words": 199,
+   "was": 199
+  },
+  {
+   "part": "iamb-mysteries-p6",
+   "entry": 198,
+   "old_s": 4.16,
+   "new_s": 4.44,
+   "words": 441,
+   "was": 441
+  },
+  {
+   "part": "iamb-mysteries-p6",
+   "entry": 194,
+   "old_s": 10.69,
+   "new_s": 10.98,
+   "words": 141,
+   "was": 141
+  },
+  {
+   "part": "iamb-mysteries-p6",
+   "entry": 188,
+   "old_s": 15.21,
+   "new_s": 13.98,
+   "words": 137,
+   "was": 137
+  },
+  {
+   "part": "iamb-mysteries-p6",
+   "entry": 184,
+   "old_s": 9.85,
+   "new_s": 9.6,
+   "words": 189,
+   "was": 189
+  },
+  {
+   "part": "iamb-mysteries-p6",
+   "entry": 181,
+   "old_s": 17.28,
+   "new_s": 17.05,
+   "words": 192,
+   "was": 192
+  },
+  {
+   "part": "iamb-mysteries-p6",
+   "entry": 179,
+   "old_s": 15.85,
+   "new_s": 16.55,
+   "words": 284,
+   "was": 284
+  },
+  {
+   "part": "iamb-mysteries-p7",
+   "entry": 228,
+   "old_s": 4.21,
+   "new_s": 3.98,
+   "words": 164,
+   "was": 164
+  },
+  {
+   "part": "iamb-mysteries-p7",
+   "entry": 218,
+   "old_s": 2.28,
+   "new_s": 2.46,
+   "words": 71,
+   "was": 71
+  },
+  {
+   "part": "iamb-mysteries-p7",
+   "entry": 216,
+   "old_s": 8.88,
+   "new_s": 9.37,
+   "words": 374,
+   "was": 374
+  },
+  {
+   "part": "iamb-mysteries-p7",
+   "entry": 214,
+   "old_s": 7.27,
+   "new_s": 7.26,
+   "words": 319,
+   "was": 319
+  },
+  {
+   "part": "iamb-mysteries-p7",
+   "entry": 212,
+   "old_s": 14.86,
+   "new_s": 13.4,
+   "words": 340,
+   "was": 340
+  },
+  {
+   "part": "iamb-mysteries-p7",
+   "entry": 209,
+   "old_s": 6.84,
+   "new_s": 7.31,
+   "words": 141,
+   "was": 141
+  },
+  {
+   "part": "iamb-mysteries-p7",
+   "entry": 206,
+   "old_s": 24.18,
+   "new_s": 24.22,
+   "words": 197,
+   "was": 197
+  },
+  {
+   "part": "iamb-mysteries-p7",
+   "entry": 201,
+   "old_s": 2.62,
+   "new_s": 2.61,
+   "words": 167,
+   "was": 167
+  },
+  {
+   "part": "iamb-mysteries-p8",
+   "entry": 277,
+   "old_s": 10.61,
+   "new_s": 11.83,
+   "words": 514,
+   "was": 514
+  },
+  {
+   "part": "iamb-mysteries-p8",
+   "entry": 272,
+   "old_s": 13.76,
+   "new_s": 13.13,
+   "words": 184,
+   "was": 184
+  },
+  {
+   "part": "iamb-mysteries-p8",
+   "entry": 262,
+   "old_s": 3.69,
+   "new_s": 3.87,
+   "words": 179,
+   "was": 179
+  },
+  {
+   "part": "iamb-mysteries-p8",
+   "entry": 253,
+   "old_s": 20.36,
+   "new_s": 21.04,
+   "words": 260,
+   "was": 260
+  },
+  {
+   "part": "iamb-mysteries-p8",
+   "entry": 250,
+   "old_s": 7.69,
+   "new_s": 7.86,
+   "words": 137,
+   "was": 137
+  },
+  {
+   "part": "iamb-mysteries-p8",
+   "entry": 241,
+   "old_s": 9.22,
+   "new_s": 8.74,
+   "words": 170,
+   "was": 170
+  },
+  {
+   "part": "iamb-mysteries-p9",
+   "entry": 301,
+   "old_s": 24.39,
+   "new_s": 24.86,
+   "words": 215,
+   "was": 215
+  },
+  {
+   "part": "iamb-mysteries-p9",
+   "entry": 298,
+   "old_s": 4.95,
+   "new_s": 5.09,
+   "words": 205,
+   "was": 205
+  },
+  {
+   "part": "iamb-mysteries-p9",
+   "entry": 296,
+   "old_s": 9.81,
+   "new_s": 9.42,
+   "words": 226,
+   "was": 226
+  },
+  {
+   "part": "iamb-mysteries-p9",
+   "entry": 286,
+   "old_s": 7.29,
+   "new_s": 8.38,
+   "words": 424,
+   "was": 424
+  },
+  {
+   "part": "iamb-mysteries-p9",
+   "entry": 283,
+   "old_s": 8.07,
+   "new_s": 7.94,
+   "words": 336,
+   "was": 336
+  },
+  {
+   "part": "iamb-mysteries-p9",
+   "entry": 280,
+   "old_s": 31.48,
+   "new_s": 33.78,
+   "words": 316,
+   "was": 316
+  },
+  {
+   "part": "iamb-mysteries-p10",
+   "entry": 328,
+   "old_s": 6.64,
+   "new_s": 6.66,
+   "words": 490,
+   "was": 490
+  },
+  {
+   "part": "iamb-mysteries-p10",
+   "entry": 320,
+   "old_s": 22.78,
+   "new_s": 24.61,
+   "words": 66,
+   "was": 66
+  },
+  {
+   "part": "iamb-mysteries-p10",
+   "entry": 316,
+   "old_s": 21.46,
+   "new_s": 22.14,
+   "words": 437,
+   "was": 437
+  },
+  {
+   "part": "iamb-mysteries-p10",
+   "entry": 308,
+   "old_s": 11.66,
+   "new_s": 12.1,
+   "words": 158,
+   "was": 158
+  },
+  {
+   "part": "iamb-mysteries-p10",
+   "entry": 305,
+   "old_s": 4.29,
+   "new_s": 4.37,
+   "words": 302,
+   "was": 302
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 359,
+   "old_s": 13.17,
+   "new_s": 12.82,
+   "words": 207,
+   "was": 207
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 357,
+   "old_s": 26.61,
+   "new_s": 28.45,
+   "words": 123,
+   "was": 123
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 354,
+   "old_s": 3.14,
+   "new_s": 3.28,
+   "words": 277,
+   "was": 277
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 350,
+   "old_s": 6.97,
+   "new_s": 7.82,
+   "words": 369,
+   "was": 369
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 348,
+   "old_s": 9.95,
+   "new_s": 9.62,
+   "words": 129,
+   "was": 129
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 346,
+   "old_s": 4.33,
+   "new_s": 3.52,
+   "words": 269,
+   "was": 269
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 344,
+   "old_s": 4.77,
+   "new_s": 5.09,
+   "words": 218,
+   "was": 218
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 342,
+   "old_s": 4.42,
+   "new_s": 4.67,
+   "words": 184,
+   "was": 184
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 340,
+   "old_s": 8.0,
+   "new_s": 7.01,
+   "words": 285,
+   "was": 285
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 338,
+   "old_s": 10.59,
+   "new_s": 10.8,
+   "words": 201,
+   "was": 201
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 336,
+   "old_s": 6.32,
+   "new_s": 7.1,
+   "words": 379,
+   "was": 379
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 334,
+   "old_s": 4.6,
+   "new_s": 4.21,
+   "words": 184,
+   "was": 184
+  },
+  {
+   "part": "iamb-mysteries-p11",
+   "entry": 330,
+   "old_s": 4.22,
+   "new_s": 3.75,
+   "words": 332,
+   "was": 332
+  },
+  {
+   "part": "iamb-mysteries-p12",
+   "entry": 389,
+   "old_s": 2.68,
+   "new_s": 2.39,
+   "words": 191,
+   "was": 191
+  },
+  {
+   "part": "iamb-mysteries-p12",
+   "entry": 387,
+   "old_s": 13.05,
+   "new_s": 14.6,
+   "words": 244,
+   "was": 244
+  },
+  {
+   "part": "iamb-mysteries-p12",
+   "entry": 373,
+   "old_s": 13.94,
+   "new_s": 14.75,
+   "words": 229,
+   "was": 229
+  },
+  {
+   "part": "iamb-mysteries-p12",
+   "entry": 371,
+   "old_s": 10.39,
+   "new_s": 9.37,
+   "words": 177,
+   "was": 177
+  },
+  {
+   "part": "iamb-mysteries-p12",
+   "entry": 369,
+   "old_s": 2.92,
+   "new_s": 3.46,
+   "words": 126,
+   "was": 126
+  },
+  {
+   "part": "iamb-mysteries-p12",
+   "entry": 367,
+   "old_s": 5.34,
+   "new_s": 5.44,
+   "words": 177,
+   "was": 177
+  },
+  {
+   "part": "iamb-mysteries-p12",
+   "entry": 363,
+   "old_s": 9.79,
+   "new_s": 9.85,
+   "words": 343,
+   "was": 343
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 422,
+   "old_s": 9.38,
+   "new_s": 8.75,
+   "words": 146,
+   "was": 146
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 419,
+   "old_s": 10.55,
+   "new_s": 11.52,
+   "words": 244,
+   "was": 244
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 412,
+   "old_s": 3.28,
+   "new_s": 3.47,
+   "words": 299,
+   "was": 299
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 409,
+   "old_s": 3.23,
+   "new_s": 3.84,
+   "words": 270,
+   "was": 270
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 406,
+   "old_s": 21.32,
+   "new_s": 21.75,
+   "words": 158,
+   "was": 158
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 404,
+   "old_s": 11.45,
+   "new_s": 10.11,
+   "words": 254,
+   "was": 254
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 402,
+   "old_s": 3.85,
+   "new_s": 4.12,
+   "words": 218,
+   "was": 218
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 398,
+   "old_s": 9.68,
+   "new_s": 9.5,
+   "words": 333,
+   "was": 333
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 396,
+   "old_s": 7.71,
+   "new_s": 8.5,
+   "words": 177,
+   "was": 177
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 394,
+   "old_s": 9.22,
+   "new_s": 9.09,
+   "words": 178,
+   "was": 178
+  },
+  {
+   "part": "iamb-mysteries-p13",
+   "entry": 392,
+   "old_s": 4.88,
+   "new_s": 4.6,
+   "words": 224,
+   "was": 224
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 459,
+   "old_s": 38.77,
+   "new_s": 40.03,
+   "words": 301,
+   "was": 301
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 455,
+   "old_s": 6.83,
+   "new_s": 6.67,
+   "words": 143,
+   "was": 143
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 450,
+   "old_s": 2.81,
+   "new_s": 2.68,
+   "words": 178,
+   "was": 178
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 448,
+   "old_s": 3.96,
+   "new_s": 4.22,
+   "words": 202,
+   "was": 202
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 446,
+   "old_s": 12.68,
+   "new_s": 11.9,
+   "words": 212,
+   "was": 212
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 444,
+   "old_s": 14.97,
+   "new_s": 14.1,
+   "words": 237,
+   "was": 237
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 442,
+   "old_s": 6.59,
+   "new_s": 7.29,
+   "words": 256,
+   "was": 256
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 440,
+   "old_s": 3.27,
+   "new_s": 3.7,
+   "words": 146,
+   "was": 146
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 438,
+   "old_s": 5.25,
+   "new_s": 5.02,
+   "words": 230,
+   "was": 230
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 431,
+   "old_s": 9.49,
+   "new_s": 9.49,
+   "words": 141,
+   "was": 141
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 429,
+   "old_s": 10.19,
+   "new_s": 11.16,
+   "words": 294,
+   "was": 294
+  },
+  {
+   "part": "iamb-mysteries-p14",
+   "entry": 427,
+   "old_s": 4.52,
+   "new_s": 4.3,
+   "words": 255,
+   "was": 255
+  },
+  {
+   "part": "iamb-mysteries-p15",
+   "entry": 513,
+   "old_s": 12.44,
+   "new_s": 11.75,
+   "words": 352,
+   "was": 352
+  },
+  {
+   "part": "iamb-mysteries-p15",
+   "entry": 511,
+   "old_s": 8.13,
+   "new_s": 7.85,
+   "words": 274,
+   "was": 274
+  },
+  {
+   "part": "iamb-mysteries-p15",
+   "entry": 500,
+   "old_s": 10.95,
+   "new_s": 11.82,
+   "words": 159,
+   "was": 159
+  },
+  {
+   "part": "iamb-mysteries-p15",
+   "entry": 498,
+   "old_s": 7.23,
+   "new_s": 7.48,
+   "words": 334,
+   "was": 334
+  },
+  {
+   "part": "iamb-mysteries-p15",
+   "entry": 495,
+   "old_s": 7.62,
+   "new_s": 7.75,
+   "words": 121,
+   "was": 121
+  },
+  {
+   "part": "iamb-mysteries-p15",
+   "entry": 493,
+   "old_s": 10.82,
+   "new_s": 11.43,
+   "words": 201,
+   "was": 201
+  },
+  {
+   "part": "iamb-mysteries-p15",
+   "entry": 489,
+   "old_s": 8.34,
+   "new_s": 7.81,
+   "words": 279,
+   "was": 279
+  },
+  {
+   "part": "iamb-mysteries-p15",
+   "entry": 467,
+   "old_s": 11.98,
+   "new_s": 13.38,
+   "words": 167,
+   "was": 167
+  },
+  {
+   "part": "iamb-mysteries-p15",
+   "entry": 461,
+   "old_s": 6.62,
+   "new_s": 6.3,
+   "words": 447,
+   "was": 447
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 553,
+   "old_s": 6.76,
+   "new_s": 6.69,
+   "words": 83,
+   "was": 83
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 551,
+   "old_s": 7.66,
+   "new_s": 8.74,
+   "words": 159,
+   "was": 159
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 549,
+   "old_s": 7.68,
+   "new_s": 6.82,
+   "words": 147,
+   "was": 147
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 546,
+   "old_s": 2.69,
+   "new_s": 2.37,
+   "words": 410,
+   "was": 410
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 544,
+   "old_s": 6.34,
+   "new_s": 6.66,
+   "words": 221,
+   "was": 221
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 540,
+   "old_s": 9.47,
+   "new_s": 10.29,
+   "words": 209,
+   "was": 209
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 538,
+   "old_s": 11.94,
+   "new_s": 12.0,
+   "words": 167,
+   "was": 167
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 535,
+   "old_s": 2.07,
+   "new_s": 2.35,
+   "words": 169,
+   "was": 169
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 533,
+   "old_s": 13.03,
+   "new_s": 13.82,
+   "words": 301,
+   "was": 301
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 531,
+   "old_s": 4.64,
+   "new_s": 5.19,
+   "words": 114,
+   "was": 114
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 529,
+   "old_s": 3.54,
+   "new_s": 3.72,
+   "words": 261,
+   "was": 261
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 527,
+   "old_s": 11.5,
+   "new_s": 10.47,
+   "words": 223,
+   "was": 223
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 525,
+   "old_s": 12.13,
+   "new_s": 12.27,
+   "words": 275,
+   "was": 275
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 522,
+   "old_s": 20.26,
+   "new_s": 22.31,
+   "words": 342,
+   "was": 342
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 520,
+   "old_s": 14.21,
+   "new_s": 14.22,
+   "words": 377,
+   "was": 377
+  },
+  {
+   "part": "iamb-mysteries-p16",
+   "entry": 516,
+   "old_s": 10.28,
+   "new_s": 9.49,
+   "words": 139,
+   "was": 139
+  }
+ ]
+}
