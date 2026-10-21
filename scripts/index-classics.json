@@ -1,0 +1,272 @@
+[
+ {
+  "key": "cicero-dream-of-scipio",
+  "title": "The Dream of Scipio",
+  "parts": 1,
+  "chars": 19149,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-republic",
+  "title": "On the Republic",
+  "parts": 5,
+  "chars": 235551,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-legibus",
+  "title": "On the Laws",
+  "parts": 4,
+  "chars": 217519,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-paradoxa",
+  "title": "Stoic Paradoxes",
+  "parts": 2,
+  "chars": 38005,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-academica",
+  "title": "The Academics",
+  "parts": 3,
+  "chars": 211406,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-finibus",
+  "title": "On the Ends of Goods and Evils",
+  "parts": 6,
+  "chars": 446159,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-tusculan",
+  "title": "Tusculan Disputations",
+  "parts": 5,
+  "chars": 422848,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-natdeorum",
+  "title": "On the Nature of the Gods",
+  "parts": 3,
+  "chars": 295413,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-divinatione",
+  "title": "On Divination",
+  "parts": 3,
+  "chars": 270056,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-senectute",
+  "title": "On Old Age",
+  "parts": 2,
+  "chars": 109344,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-amicitia",
+  "title": "On Friendship",
+  "parts": 1,
+  "chars": 89364,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "cic-officiis",
+  "title": "On Duties",
+  "parts": 4,
+  "chars": 330740,
+  "speakers": [
+   "Cicero Reader"
+  ]
+ },
+ {
+  "key": "homer-iliad",
+  "title": "The Iliad",
+  "parts": 24,
+  "chars": 807777,
+  "speakers": [
+   "Homer Reader"
+  ]
+ },
+ {
+  "key": "homer-odyssey",
+  "title": "The Odyssey",
+  "parts": 24,
+  "chars": 607069,
+  "speakers": [
+   "Homer Reader"
+  ]
+ },
+ {
+  "key": "homer-hymns",
+  "title": "The Homeric Hymns",
+  "parts": 5,
+  "chars": 130959,
+  "speakers": [
+   "Homer Reader"
+  ]
+ },
+ {
+  "key": "homer-fragments",
+  "title": "Fragments & Spurious Works",
+  "parts": 3,
+  "chars": 78556,
+  "speakers": [
+   "Homer Reader"
+  ]
+ },
+ {
+  "key": "virgil-eclogues",
+  "title": "The Eclogues",
+  "parts": 2,
+  "chars": 46635,
+  "speakers": [
+   "Virgil Reader"
+  ]
+ },
+ {
+  "key": "virgil-georgics",
+  "title": "The Georgics",
+  "parts": 4,
+  "chars": 122116,
+  "speakers": [
+   "Virgil Reader"
+  ]
+ },
+ {
+  "key": "virgil-aeneid",
+  "title": "The Aeneid",
+  "parts": 12,
+  "chars": 605426,
+  "speakers": [
+   "Virgil Reader"
+  ]
+ },
+ {
+  "key": "parmenides-on-nature",
+  "title": "On Nature",
+  "parts": 1,
+  "chars": 9232,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "heraclitus-fragments",
+  "title": "Fragments",
+  "parts": 1,
+  "chars": 15640,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "empedocles-fragments",
+  "title": "Fragments",
+  "parts": 1,
+  "chars": 21727,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "xenophanes-fragments",
+  "title": "Xenophanes of Colophon",
+  "parts": 1,
+  "chars": 9523,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "philolaus-fragments",
+  "title": "The Fragments of Philolaus",
+  "parts": 1,
+  "chars": 16831,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "solon-fragments",
+  "title": "Fragments",
+  "parts": 1,
+  "chars": 22627,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "orphic-hymns",
+  "title": "The Orphic Hymns",
+  "parts": 1,
+  "chars": 69492,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "orphic-theogony",
+  "title": "The Orphic Theogony",
+  "parts": 1,
+  "chars": 25440,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "pythagorean-ethical-fragments",
+  "title": "Fragments of the Ethical Writings of Certain Pythagoreans",
+  "parts": 1,
+  "chars": 65748,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "pythagoric-sentences",
+  "title": "Pythagoric Sentences",
+  "parts": 1,
+  "chars": 18293,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "ocellus-universe",
+  "title": "On the Nature of the Universe",
+  "parts": 2,
+  "chars": 32011,
+  "speakers": [
+   "Narrator"
+  ]
+ }
+]

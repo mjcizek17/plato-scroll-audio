@@ -1,0 +1,253 @@
+{
+"key": "philolaus-fragments",
+"title": "The Fragments of Philolaus",
+"author": "Philolaus",
+"translator": "Claude AI",
+"parts": [
+{
+"name": "The Fragments of Philolaus",
+"lines": [
+{
+"entry": 0,
+"who": "Narrator",
+"text": "The Fragments of Philolaus",
+"kind": "heading"
+},
+{
+"entry": 1,
+"who": "Narrator",
+"text": "Fr. 1 · Diogenes Laertius VIII 85On Nature, of which the beginning is as follows:Nature in the cosmos was fitted together out of unlimited things and limiting things, both the cosmos as a whole and all the things in it.",
+"kind": "narration"
+},
+{
+"entry": 2,
+"who": "Narrator",
+"text": "Fr. 2 · Stobaeus, Eclogae I 21, 7a (p. 187, 14 Wachsmuth)From Philolaus’ On the Cosmos.It is necessary that the things that are be all either limiting, or unlimited, or both limiting and unlimited; but they could not be unlimited only ⟨or limiting only⟩. Since, then, they are plainly neither from things that are all limiting nor from things that are all unlimited, it is clear therefore that the cosmos and the things in it were fitted together from both limiting things and unlimited things. The things found in actual works make this clear too. For those of them that are from limiting things limit, those that are from both limiting things and unlimited things both limit and do not limit, and those that are from unlimited things will appear unlimited.(Compare Damascius, On First Principles I 101, 3 Ruelle) That which is comes from limit and the unlimited, as Plato says in the Philebus (23 C) and Philolaus in his books On Nature.",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Narrator",
+"text": "Fr. 3 · Iamblichus, On Nicomachus’ Introduction to Arithmetic p. 7, 24 PistelliFor there will not be anything at all that is going to know, if all things are unlimited,according to Philolaus.",
+"kind": "narration"
+},
+{
+"entry": 4,
+"who": "Narrator",
+"text": "Fr. 4 · Stobaeus, Eclogae I 21, 7b (p. 188, 5 Wachsmuth)And indeed all the things that are known have number; for without this nothing whatever can be either thought or known.",
+"kind": "narration"
+},
+{
+"entry": 5,
+"who": "Narrator",
+"text": "Fr. 5 · Stobaeus, Eclogae I 21, 7c (p. 188, 9 Wachsmuth)Number, indeed, has two forms proper to it, odd and even, and a third, even-odd, from the mixture of both; and of each of the two forms there are many shapes, which each thing itself indicates.",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Narrator",
+"text": "Fr. 6 · Stobaeus, Eclogae I 21, 7d (p. 188, 14 Wachsmuth), supplemented from Nicomachus, Manual of Harmonics 9 (p. 252, 17 Jan)Concerning nature and harmony the position is this. The being of things, which is eternal, and nature itself admit of divine and not human knowledge, except that it was not possible for any of the things that are and are known by us to have come to be, if there did not already exist the being of the things from which the cosmos was composed, both the limiting things and the unlimited things. But since these principles existed, being neither alike nor of the same kind, it would thereupon have been impossible for them to be set in order, had not a harmony come upon them, in whatever way it came to be. Now things that were alike and of the same kind had no further need of harmony; but things that were unlike, and neither of the same kind nor of equal rank, must of necessity be locked together by such a harmony as that by which they are to be held fast in a cosmos.",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Narrator",
+"text": "The magnitude of the attunement (harmonia) is the fourth (syllaba) and the fifth (di’ oxeian); and the fifth is greater than the fourth by a 9:8 interval (epogdoon). For from hypate to mese is a fourth, from mese to neate a fifth, from neate to trite a fourth, and from trite to hypate a fifth. The interval between mese and trite is 9:8; the fourth is 4:3, the fifth 3:2, and the octave (dia pasan) 2:1. Thus the attunement is five 9:8 intervals and two dieses, the fifth three 9:8 intervals and a diesis, and the fourth two 9:8 intervals and a diesis.",
+"kind": "narration"
+},
+{
+"entry": 8,
+"who": "Narrator",
+"text": "Boethius, De institutione musica III 8 (p. 278, 11 Friedlein)Philolaus, then, encloses these intervals and those smaller than them within the following definitions. The diesis, he says, is the interval by which the ratio 4:3 exceeds two tones. The comma is the interval by which the ratio 9:8 exceeds two dieses, that is, two minor semitones. The schisma is half of a comma, and the diaschisma half of a diesis, that is, of a minor semitone.",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Narrator",
+"text": "Fr. 7 · Stobaeus, Eclogae I 21, 8 (p. 189, 17 Wachsmuth)The first thing fitted together, the one, in the middle of the sphere, is called the hearth.",
+"kind": "narration"
+},
+{
+"entry": 10,
+"who": "Narrator",
+"text": "Fr. 8 · Iamblichus, On Nicomachus’ Introduction to Arithmetic p. 77, 9 PistelliThe monad, as being the principle of all things according to Philolaus (for does he not say ‘one is the principle of all things’?), etc.",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Narrator",
+"text": "Fr. 9 · Iamblichus, On Nicomachus’ Introduction to Arithmetic p. 19, 21 PistelliFor it belongs to another occasion to investigate at greater length how, when the number is squared as well, starting from its being set out in a row, results no less persuasive follow ‘by nature and not by convention’, as Philolaus says somewhere.",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Narrator",
+"text": "Fr. 10 · Nicomachus, Introduction to Arithmetic II 19 (p. 115, 2 Hoche)Harmony in every case arises out of opposites;for harmony is a unification of things much mixed and an agreement of things that think apart.(Theon of Smyrna p. 12, 10 Hiller) The Pythagoreans too, whom Plato follows in many places, say that music is a fitting together of opposites, a unification of the many, and an agreement of those that think apart.",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Narrator",
+"text": "Fr. 11 · Theon of Smyrna p. 106, 10 HillerAbout which both Archytas in his On the Decad and Philolaus in his On Nature set out many things.(Stobaeus, Eclogae I, proem, corollary 3, p. 16, 20 Wachsmuth) Of Philolaus.",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Narrator",
+"text": "One must consider the works and the essence of number according to the power that is in the decad; for it is great, all-completing and all-accomplishing, and the principle and guide of divine and heavenly life and of human life, sharing * * * power also of the decad. Without this all things are unlimited, unclear and obscure.",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Narrator",
+"text": "For the nature of number gives knowledge, and is a guide and a teacher to everyone in everything that is puzzling and unknown. For nothing whatever among things would be clear to anyone, either things in themselves or one thing in relation to another, if there were not number and its essence. But as it is, number, by fitting all things to sense-perception in the soul, makes them knowable and in accord with one another after the nature of the gnomon, giving them body and dividing the ratios of things, each apart from the rest, both of the unlimited things and of the limiting things.",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Narrator",
+"text": "And you may see the nature and the power of number prevailing not only in daemonic and divine things, but also in all human deeds and words everywhere, both throughout all the technical crafts and throughout music.",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Narrator",
+"text": "The nature of number, and harmony, admit no falsehood, for it is not akin to them. Falsehood and envy belong to the nature of the unlimited, the unintelligent and the irrational.",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Narrator",
+"text": "Falsehood in no way breathes upon number; for falsehood is hostile and inimical to its nature, whereas truth is akin to the race of number and grown together with it.",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Narrator",
+"text": "Fr. 12 · Stobaeus, Eclogae I, proem, corollary 3 (p. 18, 5 Wachsmuth)And the bodies of the sphere are five: those within the sphere, fire and water and earth and air, and, fifth, the hull of the sphere.",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Narrator",
+"text": "Fr. 13 · Theologumena Arithmeticae p. 20, 35 AstAnd there are four principles of the rational animal, as Philolaus too says in his On Nature: brain, heart, navel, genitals.The brain is the principle of intellect, the heart of soul and sense-perception, the navel of the rooting and growing-up of what is first, the genitals of the sowing of seed and of generation. The brain signifies the principle of man, the heart that of animal, the navel that of plant, the genitals that of all of them together; for all things both flourish and sprout.",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Narrator",
+"text": "Fr. 14 · Clement of Alexandria, Stromata III 17 (II p. 203, 11 Stählin)It is worth recalling Philolaus’ words as well; for the Pythagorean speaks as follows: ‘The ancient theologians … as in a tomb.’(Plato, Gorgias 493 A) I have indeed already heard from one of the wise that we are now dead and that the body (soma) is our tomb (sema), and that the part of the soul in which the desires are is of a kind to be won over and to shift up and down. And so some clever man, a teller of tales, perhaps a Sicilian or an Italian , playing on the word, called this part a jar (pithos) because it is persuadable (pithanon) and easily won over, and called the foolish (anoetoi) uninitiated (amyetoi); and in the uninitiated that part of the soul where the desires are, its undisciplined and unretentive part, he likened to a pierced jar, on account of its insatiability … and that they carry water to the pierced jar with another pierced thing of the same sort, a sieve. And by the sieve, as the man who told me said, he means the soul.(Plato, Cratylus 400 C. Compare Athenaeus IV 157 C) Euxitheus the Pythagorean … as Clearchus the Peripatetic says in the second book of his Lives (fr. 2, Fragmenta Historicorum Graecorum II 303), used to say that the souls of all have been bound to the body and to life here as a punishment, and that the god has declared that, if they do not abide in these conditions until he himself of his own will releases them, they will then fall into more and greater torments. Hence all, being wary of the threat held out by their masters, fear to quit life of their own accord, and gladly welcome only death in old age, convinced that the release of the soul comes about with the consent of the masters.",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Narrator",
+"text": "The ancient theologians and seers too bear witness that on account of certain punishments the soul has been yoked to the body and lies buried in it as in a tomb.",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Narrator",
+"text": "Fr. 15 · Athenagoras, Legatio 6 (p. 6, 13 Schwartz)And Philolaus too, in saying that all things are enclosed by god as if in a prison, shows both that god is one and that he is above matter.(Plato, Phaedo 61 D) ‘What, Cebes? Have you and Simmias not heard about such matters , though you have kept company with Philolaus?’ ‘Nothing definite, Socrates.’ ‘Well, I too speak of them only from hearsay.’(61 E) For I , to answer what you were asking just now, have already heard from Philolaus, when he was living among us , and already from certain others too, that one ought not to do this; but I have never yet heard anything definite about these things from anyone.(62 B) Now the account given of these things in the secret teachings, that we human beings are in a kind of prison and that one must not release oneself from it or run away, seems to me a weighty one and not easy to see through. Nevertheless this at least, Cebes, seems to me well said: that it is the gods who care for us, and that we human beings are one of the possessions of the gods.(82 D) Therefore, Cebes, those who care at all for their own soul, and do not live moulding themselves to the body , bid farewell to all these people and do not walk the same road as they do, who do not know where they are going; but, believing for their own part that they must not act against philosophy and the release and purification it brings, they turn and follow it by the way in which it leads.",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Narrator",
+"text": "Fr. 16 · Aristotle, Eudemian Ethics II 8, 1225a 30So that certain thoughts and feelings too are not in our power, nor are the actions that accord with such thoughts and reasonings; rather, as Philolaus said, there are certain reasons that are stronger than we are.",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Narrator",
+"text": "Bacchae",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Narrator",
+"text": "Fr. 17 · Stobaeus, Eclogae I 15, 7 (p. 148, 4 Wachsmuth)Philolaus, Bacchae.",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Narrator",
+"text": "The cosmos is one. It began to come to be from the middle, and from the middle upwards through the same things as downwards. For the things above the middle are placed over against those below. For to the lowest things the middle parts are as the highest, and likewise for the rest. For both stand in the same relation to the middle, save in so far as their positions are reversed.",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Narrator",
+"text": "Fr. 18 · Stobaeus, Eclogae I 25, 8 (p. 214, 21 Wachsmuth)From Philolaus’ Bacchae.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Narrator",
+"text": "Fr. 19 · Proclus, On the First Book of Euclid’s Elements p. 22, 9 FriedleinThat is why Plato too teaches us many wonderful doctrines about the gods by means of mathematical forms, and why the philosophy of the Pythagoreans, using these as veils, conceals its initiation into the divine doctrines. For such is the whole Sacred Discourse, and Philolaus in the Bacchae, and the entire manner of Pythagoras’ instruction about the gods.",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Narrator",
+"text": "Doubtful",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Narrator",
+"text": "Fr. 20 · John Lydus, De mensibus II 12Rightly, then, did Philolaus call the number seven motherless; for it alone is of a nature neither to beget nor to be begotten, and what neither begets nor is begotten is unmoved. For begetting lies in motion, since both that which begets and that which is begotten are not without motion, the one in order to beget, the other in order to be begotten. And such is god, as the Tarentine orator himself also declares; he speaks thus: ‘There is … himself like to himself.’ (Philo, On the Creation of the World 100, I p. 34, 10 Cohn) For this reason the other philosophers liken this number to the motherless Victory and Maiden, who is said to have sprung from the head of Zeus, but the Pythagoreans liken it to the leader of all things; for that which neither begets nor is begotten remains unmoved … and the only thing that neither moves nor is moved is the elder ruler and leader, of whom the hebdomad might fittingly be called an image. Philolaus too bears witness to my account in these words: ‘For there is,’ he says, ‘… different from all else.’(Anatolius, On the Decad p. 35 Heiberg) The hebdomad alone of the numbers within the decad does not beget, nor is it begotten by any other number except the monad; hence it is also called by the Pythagoreans the motherless maiden.For there is a leader and ruler of all things, god, one, existing always, abiding, unmoved, himself like to himself, different from all else.",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Narrator",
+"text": "Fr. 20a · John Lydus, De mensibus IV 12Rightly, then, does Philolaus say that the dyad is the consort of Kronos, whom one might, in plain terms, call Time (Chronos).",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Narrator",
+"text": "Spurious: On the Soul",
+"kind": "narration"
+},
+{
+"entry": 34,
+"who": "Narrator",
+"text": "Fr. 21 · Stobaeus, Eclogae I 20, 2 (p. 172, 9 Wachsmuth)From the On the Soul of Philolaus the Pythagorean. Philolaus holds that the cosmos is indestructible. At any rate he speaks as follows in his On the Soul:",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Narrator",
+"text": "Wherefore it also endures indestructible and unwearied through unlimited time. For neither will any other cause more powerful than this one be found within it, nor any outside it capable of destroying it. Rather, this cosmos was from eternity and will endure to eternity, one, steered by one that is akin to it, most mighty and unsurpassable. And the cosmos, being one and continuous and by nature breathed through and carried round from the very beginning, also possesses the principle of motion and change. One part of it is unchanging, the other changing; and the unchanging part is bounded from the soul that encompasses the whole down to the moon, the changing part from the moon down to the earth. And since the mover goes its round from eternity to eternity, and the moved is disposed just as the mover leads it, it is necessary that the one be ever-moving and the other ever-passive; and the one is wholly the †abode of intellect and soul, the other of coming-to-be and change; and the one is first in power and superior, the other later and surpassed. And that which is made of both of these, of the divine that ever runs and of the generated that ever changes, is the cosmos.",
+"kind": "narration"
+},
+{
+"entry": 36,
+"who": "Narrator",
+"text": "Hence too he said it was right that the cosmos should be the eternal activity of god and of coming-to-be, in accordance with the following-on of changeable nature. And the former, being one, abides for ever in the same state and unvarying, whereas the things that come to be and perish are many. And these, though subject to perishing, preserve their natures and forms, and by procreation restore again the same form as that of the father and craftsman who begot them …",
+"kind": "narration"
+},
+{
+"entry": 37,
+"who": "Narrator",
+"text": "On Rhythms and Measures, Books 1–3",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Narrator",
+"text": "Fr. 22 · Claudianus Mamertus, De statu animae II 3 (p. 105, 5 Engelbrecht)Since, then, Pythagoras himself had written nothing, his opinion must be sought from his successors. Among these I find that Philolaus of Tarentum was quite the most eminent, who, discoursing very obscurely in many volumes on the understanding of things and on what each of them signifies, before he pronounces on the substance of the soul, argues marvellously about measures, weights and numbers in accordance with geometry, music and arithmetic, affirming that through these the whole universe came into existence.(Claudianus Mamertus, De statu animae II 7, p. 120, 12 Engelbrecht) I now return to Philolaus, from whom I digressed a long while ago, who in the third of the volumes that he entitles On Rhythms and Measures speaks of the soul thus: ‘The soul is set into the body through number and through a harmony that is immortal and likewise incorporeal.’ Again, after other things: ‘The body is loved by the soul, because without it the soul cannot use the senses. When it has been drawn away from the body by death, it leads an incorporeal life in the world.’",
+"kind": "narration"
+},
+{
+"entry": 39,
+"who": "Narrator",
+"text": "Fr. 23 · Iamblichus, On Nicomachus’ Introduction to Arithmetic p. 10, 22 Pistelli (Syrianus 10, 22)Philolaus says that number is the sovereign and self-generated bond of the everlasting persistence of the things in the cosmos.",
+"kind": "narration"
+}
+]
+}
+]
+}

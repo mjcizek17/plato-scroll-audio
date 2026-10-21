@@ -1100,6 +1100,66 @@
     ]
    ],
    "accent": "us"
+  },
+  "Cicero Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_cicero",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "am_echo",
+      0.6
+     ],
+     [
+      "am_fenrir",
+      0.4
+     ]
+    ],
+    "accent": "us",
+    "pitch": 0,
+    "text": "O times, O customs! The senate understands these things, the consul sees them; and yet this man lives. Lives? Nay, he even comes into the senate."
+   }
+  },
+  "Homer Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_homer",
+   "exaggeration": 0.5,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "am_onyx",
+      0.6
+     ],
+     [
+      "am_adam",
+      0.4
+     ]
+    ],
+    "accent": "us",
+    "pitch": -1,
+    "text": "Sing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans, and sent many brave souls hurrying down to Hades."
+   }
+  },
+  "Virgil Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_virgil",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_george",
+      0.4
+     ],
+     [
+      "bm_fable",
+      0.6
+     ]
+    ],
+    "accent": "gb",
+    "pitch": 1,
+    "text": "Arms, and the man I sing, who, forced by fate, and haughty Juno's unrelenting hate, expelled and exiled, left the Trojan shore."
+   }
   }
  }
 }
