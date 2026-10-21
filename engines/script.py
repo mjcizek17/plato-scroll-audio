@@ -130,10 +130,32 @@ def plan_ranges(ranges, budget_s=5400):
     return shards
 
 
+def plan_patch(patch, budget_s=5400):
+    """Re-record whole paragraphs: {work: [entry, ...]} -> shards listing the flat indices of their lines ("a" is the
+    comma-separated list, "b" is "-"), packed up to the budget. Shard numbers start at 950."""
+    cast, shards = load_cast(), []
+    for key, ents in patch.items():
+        want = set(int(e) for e in ents)
+        flat = [l for p in work_parts(key) for l in p["lines"]]
+        idx = [i for i, l in enumerate(flat) if l["entry"] in want]
+        n, cur, cost = 950, [], 0.0
+        for i in idx:
+            eng, _ = engine_of(flat[i]["who"], cast, key)
+            c = len(flat[i]["text"]) * (0.57 if eng == "chatterbox" else 0.045)
+            if cur and cost + c > float(budget_s):
+                shards.append({"work": key, "shard": n, "a": ",".join(map(str, cur)) + ",", "b": "-"}); n += 1; cur, cost = [], 0.0
+            cur.append(i); cost += c
+        if cur:
+            shards.append({"work": key, "shard": n, "a": ",".join(map(str, cur)) + ",", "b": "-"})
+    return shards
+
+
 if __name__ == "__main__":
     import sys
     q = json.load(open(sys.argv[1]))
     # ranges: re-render only those lines of those works; any other work in "works" is rendered whole
+    if q.get("patch"):
+        print(json.dumps(plan_patch(q["patch"], q.get("budget", 5400)), separators=(",", ":"))); sys.exit(0)
     rest = [w for w in q["works"] if w not in q.get("ranges", {})]
     plan = (plan_ranges(q["ranges"], q.get("budget", 5400)) if q.get("ranges") else []) + (plan_shards(rest, q.get("budget", 5400)) if rest else [])
     print(json.dumps(plan, separators=(",", ":")))

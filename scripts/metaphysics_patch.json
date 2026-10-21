@@ -1,0 +1,127 @@
+{
+"key": "metaphysics_patch",
+"title": "Metaphysics",
+"author": "Aristotle",
+"translator": "W. D. Ross",
+"credit": null,
+"patch_of": "metaphysics",
+"parts": [
+{
+"name": "patch",
+"lines": [
+{
+"entry": 1,
+"who": "Aristotle",
+"text": "\"All men by nature desire to know.",
+"kind": "narration",
+"old_words": 7,
+"whole": false
+},
+{
+"entry": 82,
+"who": "Aristotle",
+"text": "\"The investigation of the truth is in one way hard, in another easy.",
+"kind": "narration",
+"old_words": 13,
+"whole": false
+},
+{
+"entry": 95,
+"who": "Aristotle",
+"text": "\"We must, with a view to the science which we are seeking, first recount the subjects that should be first discussed.",
+"kind": "narration",
+"old_words": 21,
+"whole": false
+},
+{
+"entry": 152,
+"who": "Aristotle",
+"text": "\"There is a science which investigates being as being and the attributes which belong to this in virtue of its own nature.",
+"kind": "narration",
+"old_words": 22,
+"whole": false
+},
+{
+"entry": 204,
+"who": "Aristotle",
+"text": "\"'beginning' means (1) that part of a thing from which one would start first, e.g a line or a road has a beginning in either of the contrary directions.",
+"kind": "narration",
+"old_words": 29,
+"whole": false
+},
+{
+"entry": 274,
+"who": "Aristotle",
+"text": "\"'a whole' means (1) that from which is absent none of the parts of which it is said to be naturally a whole, and (2) that which so contains the things it contains that they form a unity;",
+"kind": "narration",
+"old_words": 38,
+"whole": false
+},
+{
+"entry": 285,
+"who": "Aristotle",
+"text": "\"We are seeking the principles and the causes of the things that are, and obviously of them qua being.",
+"kind": "narration",
+"old_words": 19,
+"whole": false
+},
+{
+"entry": 293,
+"who": "Aristotle",
+"text": "\"There are several senses in which a thing may be said to 'be', as we pointed out previously in our book on the various senses of words;' for in one sense the 'being' meant is 'what a thing is' or a 'this', and in another sense it means a quality or quantity or one of the other things that are predicated as these are.",
+"kind": "narration",
+"old_words": 64,
+"whole": false
+},
+{
+"entry": 375,
+"who": "Aristotle",
+"text": "\"We must reckon up the results arising from what has been said, and compute the sum of them, and put the finishing touch to our inquiry.",
+"kind": "narration",
+"old_words": 26,
+"whole": false
+},
+{
+"entry": 396,
+"who": "Aristotle",
+"text": "\"We have treated of that which is primarily and to which all the other categories of being are referred-i.e.",
+"kind": "narration",
+"old_words": 19,
+"whole": false
+},
+{
+"entry": 435,
+"who": "Aristotle",
+"text": "\"We have said previously, in our distinction of the various meanings of words, that 'one' has several meanings;",
+"kind": "narration",
+"old_words": 18,
+"whole": false
+},
+{
+"entry": 476,
+"who": "Aristotle",
+"text": "\"That Wisdom is a science of first principles is evident from the introductory chapters, in which we have raised objections to the statements of others about the first principles;",
+"kind": "narration",
+"old_words": 29,
+"whole": false
+},
+{
+"entry": 575,
+"who": "Aristotle",
+"text": "\"We have stated what is the substance of sensible things, dealing in the treatise on physics with matter, and later with the substance which has actual existence.",
+"kind": "narration",
+"old_words": 27,
+"whole": false
+},
+{
+"entry": 641,
+"who": "Aristotle",
+"text": "\"Regarding this kind of substance, what we have said must be taken as sufficient.",
+"kind": "narration",
+"old_words": 14,
+"whole": false
+}
+]
+}
+]
+}

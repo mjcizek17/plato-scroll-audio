@@ -1,0 +1,999 @@
+{
+"key": "iamb-mysteries_patch",
+"title": "On the Mysteries (De Mysteriis)",
+"author": "Iamblichus",
+"translator": "Thomas Taylor",
+"credit": null,
+"patch_of": "iamb-mysteries",
+"parts": [
+{
+"name": "patch",
+"lines": [
+{
+"entry": 3,
+"who": "Iamblichus Reader",
+"text": "It appears to me that there are two descriptions of persons by whom the present work must be considered to be of inestimable worth, the lovers of antiquity and the lovers of ancient philosophy and religion.",
+"kind": "narration",
+"old_words": 36,
+"whole": false
+},
+{
+"entry": 69,
+"who": "Iamblichus Reader",
+"text": "Hermes, the God who presides over language, was formerly very properly considered as common to all priests;",
+"kind": "narration",
+"old_words": 17,
+"whole": false
+},
+{
+"entry": 72,
+"who": "Iamblichus Reader",
+"text": "We shall, therefore, deliver to you the peculiar dogmas of the Assyrians;",
+"kind": "narration",
+"old_words": 12,
+"whole": false
+},
+{
+"entry": 78,
+"who": "Iamblichus Reader",
+"text": "With respect to your inquiry, “what the peculiarities are in each of the more excellent genera, by which they are separated from each other?” if you understand by peculiarities the specific differences under the same genus, which are distinguished by opposite qualities, as the rational and irrational under animal;",
+"kind": "narration",
+"old_words": 49,
+"whole": false
+},
+{
+"entry": 83,
+"who": "Iamblichus Reader",
+"text": "In the next place, let us direct our attention to the solution of your inquiries.",
+"kind": "narration",
+"old_words": 15,
+"whole": false
+},
+{
+"entry": 88,
+"who": "Iamblichus Reader",
+"text": "What, therefore, shall we say concerning the media?",
+"kind": "narration",
+"old_words": 8,
+"whole": false
+},
+{
+"entry": 90,
+"who": "Iamblichus Reader",
+"text": "Of the extremes, therefore, one is supreme, transcendent, and perfect;",
+"kind": "narration",
+"old_words": 10,
+"whole": false
+},
+{
+"entry": 93,
+"who": "Iamblichus Reader",
+"text": "But neither must we admit that cause of the distinction of these genera which you subjoin, viz.",
+"kind": "narration",
+"old_words": 17,
+"whole": false
+},
+{
+"entry": 104,
+"who": "Iamblichus Reader",
+"text": "After these things, you again subjoin another division for yourself, “in which you separate the essences of the more excellent genera by the difference of passive and impassive.” But neither do I admit this division.",
+"kind": "narration",
+"old_words": 35,
+"whole": false
+},
+{
+"entry": 115,
+"who": "Iamblichus Reader",
+"text": "You also say, “that invocations are directed to the Gods as to beings that are passive, so that not only daemons are passive, but likewise the Gods.” This, however, is not the case.",
+"kind": "narration",
+"old_words": 33,
+"whole": false
+},
+{
+"entry": 119,
+"who": "Iamblichus Reader",
+"text": "Moreover, “the pacifications of anger” will become manifest, if we understand what the anger of the Gods is.* This, therefore, is not, as it appears to be to some, a certain ancient and inveterate rage, but an abandonment of the beneficent care of the Gods, from which we turn ourselves away, withdrawing, as it were, from meridian light, hiding ourselves in darkness, and depriving ourselves of the beneficent gift of the Gods.",
+"kind": "narration",
+"old_words": 72,
+"whole": false
+},
+{
+"entry": 122,
+"who": "Iamblichus Reader",
+"text": "Farther still, with respect to “what are called the necessities of the Gods,” the whole truth of this is, that necessities are peculiar to, and subsist in such a way as accords with the nature of, the Gods.",
+"kind": "narration",
+"old_words": 38,
+"whole": false
+},
+{
+"entry": 124,
+"who": "Iamblichus Reader",
+"text": "After this, you pass on to another division into contraries, viz.",
+"kind": "narration",
+"old_words": 11,
+"whole": false
+},
+{
+"entry": 130,
+"who": "Iamblichus Reader",
+"text": "The difference which separates “Gods from daemons by the corporeal and incorporeal,” is the next thing that follows in what you have written;",
+"kind": "narration",
+"old_words": 23,
+"whole": false
+},
+{
+"entry": 132,
+"who": "Iamblichus Reader",
+"text": "We will exchange, therefore, this division for the doubt which may be adduced by you against the present opinion.",
+"kind": "narration",
+"old_words": 19,
+"whole": false
+},
+{
+"entry": 135,
+"who": "Iamblichus Reader",
+"text": "Your next inquiry doubts, “how some of the Gods are beneficent, but others malefic.” This opinion, therefore, is assumed from the predictors of nativities.",
+"kind": "narration",
+"old_words": 24,
+"whole": false
+},
+{
+"entry": 148,
+"who": "Iamblichus Reader",
+"text": "After this, you again resume the same inquiries, of which what has been already said may be considered as a sufficient solution.",
+"kind": "narration",
+"old_words": 22,
+"whole": false
+},
+{
+"entry": 151,
+"who": "Iamblichus Reader",
+"text": "The division, however, of the passive from the impassive, which you adopt, may perhaps be rejected by some one, as not adapted to either of the more excellent genera, through the causes which we have before enumerated;",
+"kind": "narration",
+"old_words": 37,
+"whole": false
+},
+{
+"entry": 155,
+"who": "Iamblichus Reader",
+"text": "It is also necessary to demonstrate to you, in what daemons, heroes, and souls differ from each other, and whether this difference is according to essence, or according to power, or according to energy.",
+"kind": "narration",
+"old_words": 34,
+"whole": false
+},
+{
+"entry": 158,
+"who": "Iamblichus Reader",
+"text": "It follows, therefore, that in the next place we should define the energies of them.",
+"kind": "narration",
+"old_words": 15,
+"whole": false
+},
+{
+"entry": 164,
+"who": "Iamblichus Reader",
+"text": "Proceeding, therefore, to other peculiarities of them, we say, that with the Gods, indeed, there is acuteness and rapidity in the energies, which shine forth with greater celerity than those of intellect itself, though in themselves they are immoveable and stable.",
+"kind": "narration",
+"old_words": 41,
+"whole": false
+},
+{
+"entry": 170,
+"who": "Iamblichus Reader",
+"text": "Moreover, that which purifies souls is perfect in the Gods;",
+"kind": "narration",
+"old_words": 10,
+"whole": false
+},
+{
+"entry": 175,
+"who": "Iamblichus Reader",
+"text": "Moreover, the gifts arising from the manifestations are not all of them equal, nor have the same fruits.",
+"kind": "narration",
+"old_words": 18,
+"whole": false
+},
+{
+"entry": 177,
+"who": "Iamblichus Reader",
+"text": "Moreover, in the manifestations there is an indication of the order which the powers that are seen possess.",
+"kind": "narration",
+"old_words": 18,
+"whole": false
+},
+{
+"entry": 179,
+"who": "Iamblichus Reader",
+"text": "Moreover, with respect to the tenuity and subtilty of light, the Gods extend a light so subtle that corporeal eyes cannot sustain it, but are affected in the same manner as fishes, when they are drawn upward from turbid and thick water into attenuated and diaphanous air.",
+"kind": "narration",
+"old_words": 47,
+"whole": false
+},
+{
+"entry": 181,
+"who": "Iamblichus Reader",
+"text": "In the last place, the dispositions of the of those that invoke the Gods to appear receive, when they become visible, a liberation from the passions, a transcendent perfection, and an energy entirely more excellent, and participate of divine love and an immense joy.",
+"kind": "narration",
+"old_words": 44,
+"whole": false
+},
+{
+"entry": 184,
+"who": "Iamblichus Reader",
+"text": "What you introduce, however, for the purpose of obtaining a knowledge of these things, whether it be your own opinion, or whether you have heard it from others, is neither true nor rightly asserted.",
+"kind": "narration",
+"old_words": 34,
+"whole": false
+},
+{
+"entry": 188,
+"who": "Iamblichus Reader",
+"text": "In what follows, in which you think that ignorance and deception about these things are impiety and impurity, and in which you exhort us to the true developement of these particulars, is not, indeed, attended with any ambiguity, but is acknowledged by all men.",
+"kind": "narration",
+"old_words": 44,
+"whole": false
+},
+{
+"entry": 194,
+"who": "Iamblichus Reader",
+"text": "In the first place, therefore, you ask me to explain to you distinctly, “what that is which is effected in the foreknowledge of future events?” Immediately, however, that which you endeavour to learn is impossible.",
+"kind": "narration",
+"old_words": 35,
+"whole": false
+},
+{
+"entry": 198,
+"who": "Iamblichus Reader",
+"text": "Concerning the divination, therefore, which takes place in sleep, you say as follows:",
+"kind": "narration",
+"old_words": 13,
+"whole": false
+},
+{
+"entry": 201,
+"who": "Iamblichus Reader",
+"text": "The wise,* therefore, speak as follows:",
+"kind": "narration",
+"old_words": 6,
+"whole": false
+},
+{
+"entry": 206,
+"who": "Iamblichus Reader",
+"text": "Afterwards, also, you say, “that many, through enthusiasm and divine inspiration, predict future events, and that they are then in so wakeful a state, as even to energize according to sense, aid yet they are not conscious of the state they are in, or at least, not so much as they were before.” I wish, therefore, here to point out to you the signs by which those who are rightly possessed by the Gods may be known.",
+"kind": "narration",
+"old_words": 77,
+"whole": false
+},
+{
+"entry": 209,
+"who": "Iamblichus Reader",
+"text": "There are, therefore, many species of divine possession, and divine inspiration is multifariously excited;",
+"kind": "narration",
+"old_words": 14,
+"whole": false
+},
+{
+"entry": 212,
+"who": "Iamblichus Reader",
+"text": "That, however, which is the greatest thing is this, that lie who draw down a certain divinity, sees a spirit descending and entering into some one, recognizes its magnitude and quality, and is also mystically persuaded and governed by it.",
+"kind": "narration",
+"old_words": 40,
+"whole": false
+},
+{
+"entry": 214,
+"who": "Iamblichus Reader",
+"text": "It is not, however, sufficient to learn these things alone, nor will he who only knows these become perfect in divine science.",
+"kind": "narration",
+"old_words": 22,
+"whole": false
+},
+{
+"entry": 216,
+"who": "Iamblichus Reader",
+"text": "If, therefore, true divination was a solution of the divine part of the soul from the other parts of it, or if it was a separation of intellect, or a certain extension of it;",
+"kind": "narration",
+"old_words": 34,
+"whole": false
+},
+{
+"entry": 218,
+"who": "Iamblichus Reader",
+"text": "What you afterwards say is as follows:",
+"kind": "narration",
+"old_words": 7,
+"whole": false
+},
+{
+"entry": 228,
+"who": "Iamblichus Reader",
+"text": "Let us, however, discuss what pertains to divination more particularly;",
+"kind": "narration",
+"old_words": 10,
+"whole": false
+},
+{
+"entry": 241,
+"who": "Iamblichus Reader",
+"text": "Another species of divine divination which is much celebrated, most manifest and manifold, is that of oracles, about which you say as follows:",
+"kind": "narration",
+"old_words": 23,
+"whole": false
+},
+{
+"entry": 250,
+"who": "Iamblichus Reader",
+"text": "It appears, therefore, that the divination of oracles accords with all the hypotheses which we have before adduced concerning prediction.",
+"kind": "narration",
+"old_words": 20,
+"whole": false
+},
+{
+"entry": 253,
+"who": "Iamblichus Reader",
+"text": "Let us, therefore, now direct our attention to another species of divination, which is not public, but of a private nature, concerning which you say, “that some become enthusiastic by standing on characters, as those that are, filled from the intromission of spirits.” This species, therefore, through those who badly use it, cannot easily be comprehended in one definition.",
+"kind": "narration",
+"old_words": 59,
+"whole": false
+},
+{
+"entry": 262,
+"who": "Iamblichus Reader",
+"text": "Concerning another kind of divination, also, you say as follows:",
+"kind": "narration",
+"old_words": 10,
+"whole": false
+},
+{
+"entry": 272,
+"who": "Iamblichus Reader",
+"text": "Descending, however, to particulars, the soul of animals, the dmmon who presides over them, the air, the motion of the air, and the circulation of the heavens, variously change the viscera,* conformably to the will of the Gods.",
+"kind": "narration",
+"old_words": 38,
+"whole": false
+},
+{
+"entry": 277,
+"who": "Iamblichus Reader",
+"text": "In the next place you inquire “concerning the mode of divination, what it is, and what the quality is by which it is distinguished,” which we have already explained, both generally and particularly.",
+"kind": "narration",
+"old_words": 33,
+"whole": false
+},
+{
+"entry": 280,
+"who": "Iamblichus Reader",
+"text": "Another contest, however, awaits us, not less than that in which we have been before engaged, and which you immediately announce, concerning the causes of divination, “whether a God, an angel, or a daemon, or some other power, is present in manifestations, or divinations, or certain other sacred energies.” But our reply to your question is simply this, that it is not possible for any thing to be performed in a manner adapted to sacred concerns in divine works, without the presence of some one of the more excellent natures, as inspecting and giving completion to the sacred energy.",
+"kind": "narration",
+"old_words": 99,
+"whole": false
+},
+{
+"entry": 283,
+"who": "Iamblichus Reader",
+"text": "But neither does the cause of more excellent natures subsist as a certain middle instrument, nor does he who invokes operate through him who prophesies;",
+"kind": "narration",
+"old_words": 25,
+"whole": false
+},
+{
+"entry": 286,
+"who": "Iamblichus Reader",
+"text": "Omitting, therefore, these things, we may reasonably adduce a second cause, assigned by you, of the above mentioned particulars:",
+"kind": "narration",
+"old_words": 19,
+"whole": false
+},
+{
+"entry": 296,
+"who": "Iamblichus Reader",
+"text": "The animadversions which are after this adduced, at first, indeed, doubt about the mode of divination, but as they proceed, endeavour entirely to subvert it.",
+"kind": "narration",
+"old_words": 25,
+"whole": false
+},
+{
+"entry": 298,
+"who": "Iamblichus Reader",
+"text": "In what follows, while you endeavour to unfold divination, you entirely subvert it.",
+"kind": "narration",
+"old_words": 13,
+"whole": false
+},
+{
+"entry": 301,
+"who": "Iamblichus Reader",
+"text": "That which follows in the next place, descends from a divine alienation of mind to an ecstasy of the reasoning power which leads it to a worse condition, and absurdly says, “that the cause of divination is the mania which happens in diseases.” For, as we may conjecture, it assimilates enthusiasm to the redundancy of the black bile, to the aberrations of intoxication, and to the fury which happens from mad (logs.",
+"kind": "narration",
+"old_words": 72,
+"whole": false
+},
+{
+"entry": 305,
+"who": "Iamblichus Reader",
+"text": "There are many other contentious innovations also, which may be the subject of wonder.",
+"kind": "narration",
+"old_words": 14,
+"whole": false
+},
+{
+"entry": 308,
+"who": "Iamblichus Reader",
+"text": "Moreover, neither is it sufficient to assert, “that nature, art, and the sympathy of things in the universe, as if they were the parts of one animal, contain premanifestations of certain things with reference to each other;",
+"kind": "narration",
+"old_words": 37,
+"whole": false
+},
+{
+"entry": 316,
+"who": "Iamblichus Reader",
+"text": "Why, therefore, does the maker of images, who effects these things, desert himself, though he is better than these images, and consists of things of a more excellent nature, and confide in inanimate idols, which are inspired with the representation alone of life, contain a renovated harmony, and which is externally multiform, and are in reality diurnal?",
+"kind": "narration",
+"old_words": 57,
+"whole": false
+},
+{
+"entry": 320,
+"who": "Iamblichus Reader",
+"text": "Again, therefore, still worse than this is the explanation of sacred operations, which assigns as the cause of divination, “a certain genus of daemons, which, is naturally fraudulent, omniform, and various, and which assumes the appearance of Gods and daemons, and the souls of the deceased.” I shall, therefore, relate to you, in answer to this, what I once heard from the prophets of the Chaldeans.",
+"kind": "narration",
+"old_words": 66,
+"whole": true
+},
+{
+"entry": 328,
+"who": "Iamblichus Reader",
+"text": "Let us then, in the next place, consider the opposing arguments, what they are, and what reason they possess.",
+"kind": "narration",
+"old_words": 19,
+"whole": false
+},
+{
+"entry": 330,
+"who": "Iamblichus Reader",
+"text": "But we sometimes see that take place which is now proposed to be considered.",
+"kind": "narration",
+"old_words": 14,
+"whole": false
+},
+{
+"entry": 334,
+"who": "Iamblichus Reader",
+"text": "What then shall we say concerning the next inquiry to this, viz.",
+"kind": "narration",
+"old_words": 12,
+"whole": false
+},
+{
+"entry": 336,
+"who": "Iamblichus Reader",
+"text": "The multitude, also, are accustomed to doubt in common the very same thing concerning providence, viz.",
+"kind": "narration",
+"old_words": 16,
+"whole": false
+},
+{
+"entry": 338,
+"who": "Iamblichus Reader",
+"text": "In order, therefore, that from an abundance of arguments we may contend against the objection which is now adduced, we will grant, if you please, the contrary to what we have asserted, viz.",
+"kind": "narration",
+"old_words": 33,
+"whole": false
+},
+{
+"entry": 340,
+"who": "Iamblichus Reader",
+"text": "Moreover, it is necessary to add the causes whence evils sometimes arise, and to show how many and of what kind they are.",
+"kind": "narration",
+"old_words": 23,
+"whole": false
+},
+{
+"entry": 342,
+"who": "Iamblichus Reader",
+"text": "We may, however, beginning from another hypothesis, demonstrate the same thing.",
+"kind": "narration",
+"old_words": 11,
+"whole": false
+},
+{
+"entry": 344,
+"who": "Iamblichus Reader",
+"text": "After the body of the universe, also, many things are generated by the nature of it.",
+"kind": "narration",
+"old_words": 16,
+"whole": false
+},
+{
+"entry": 346,
+"who": "Iamblichus Reader",
+"text": "We shall collect, therefore, what happens from these conclusions.",
+"kind": "narration",
+"old_words": 9,
+"whole": false
+},
+{
+"entry": 348,
+"who": "Iamblichus Reader",
+"text": "Moreover, you inquire, and at the same time doubt, “how it comes to pass that the Gods do not hear him who invokes them, if lie is impure from venereal connexions;",
+"kind": "narration",
+"old_words": 31,
+"whole": false
+},
+{
+"entry": 350,
+"who": "Iamblichus Reader",
+"text": "It is necessary, however, to discuss these things particularly, and to show how they subsist, and what reason they possess.",
+"kind": "narration",
+"old_words": 20,
+"whole": false
+},
+{
+"entry": 354,
+"who": "Iamblichus Reader",
+"text": "Consider, therefore, also another genus of causes;",
+"kind": "narration",
+"old_words": 7,
+"whole": false
+},
+{
+"entry": 357,
+"who": "Iamblichus Reader",
+"text": "The doubt mentioned by you in the next place, is, as I may say, an inquiry which is made in common both by the learned and the unlearned, I mean concerning sacrifices, “what utility or power they possess in the universe, and with the Gods, and on what account they are performed, appropriately indeed to the powers who are honoured by them, but usefully to those by whom the gifts are offered.” In the same place, also, another objection occurs, viz.",
+"kind": "narration",
+"old_words": 81,
+"whole": false
+},
+{
+"entry": 359,
+"who": "Iamblichus Reader",
+"text": "The hostile opposition, therefore, in the things that are now proposed, may be easily dissolved by demonstrating the dignity of wholes with respect to parts, and by recalling to your recollection the exempt transcendency of the Gods above men.",
+"kind": "narration",
+"old_words": 39,
+"whole": false
+},
+{
+"entry": 363,
+"who": "Iamblichus Reader",
+"text": "Nor is that which so greatly disturbs you, and for which you so strenuously contend, attended with any difficulty, I mean abstinence from animals,* if it is rightly understood.",
+"kind": "narration",
+"old_words": 29,
+"whole": false
+},
+{
+"entry": 367,
+"who": "Iamblichus Reader",
+"text": "Your next inquiry is of greater consequence, and is concerning things of a greater nature.",
+"kind": "narration",
+"old_words": 15,
+"whole": false
+},
+{
+"entry": 369,
+"who": "Iamblichus Reader",
+"text": "But the greatest thing in sacrifices, viz.",
+"kind": "narration",
+"old_words": 7,
+"whole": false
+},
+{
+"entry": 371,
+"who": "Iamblichus Reader",
+"text": "The discussion therefore requires should show what it is through which sacrifices are effective of things, and are suspended from the Gods, the precedaneous causes of that we effects.",
+"kind": "narration",
+"old_words": 29,
+"whole": false
+},
+{
+"entry": 373,
+"who": "Iamblichus Reader",
+"text": "The same absurdities likewise happen from assigning, as the causes of what is effected by sacrifices, either certain numbers that are with ns, such, for instance, as assuming the number sixty in the crocodile, as adapted to the sun;",
+"kind": "narration",
+"old_words": 39,
+"whole": false
+},
+{
+"entry": 387,
+"who": "Iamblichus Reader",
+"text": "It is better, therefore, to assign as the cause of the efficacy of sacrifices friendship and familiarity, and a habitude which binds fabricators to the things fabricated, and generators to the things generated.",
+"kind": "narration",
+"old_words": 33,
+"whole": false
+},
+{
+"entry": 389,
+"who": "Iamblichus Reader",
+"text": "We, however, admit all these assertions;",
+"kind": "narration",
+"old_words": 6,
+"whole": false
+},
+{
+"entry": 392,
+"who": "Iamblichus Reader",
+"text": "It appears to me, also, that the present question errs in another respect.",
+"kind": "narration",
+"old_words": 13,
+"whole": false
+},
+{
+"entry": 394,
+"who": "Iamblichus Reader",
+"text": "For, in short, the vehicle which is subservient to daemons neither consists of matter, nor of the elements, nor of any other of the bodies known to us.",
+"kind": "narration",
+"old_words": 28,
+"whole": false
+},
+{
+"entry": 396,
+"who": "Iamblichus Reader",
+"text": "Subverting, therefore, in this manner the common absurd opinions concerning sacrifices, we shall introduce in their place true conceptions about them;",
+"kind": "narration",
+"old_words": 21,
+"whole": false
+},
+{
+"entry": 398,
+"who": "Iamblichus Reader",
+"text": "We shall begin, however, the elucidation of this subject in the best possible manner, if we demonstrate that the sacred law of sacrifices is connected with the order of the Gods.",
+"kind": "narration",
+"old_words": 31,
+"whole": false
+},
+{
+"entry": 402,
+"who": "Iamblichus Reader",
+"text": "Farther still, therefore, we must not disdain to add what follows;",
+"kind": "narration",
+"old_words": 11,
+"whole": false
+},
+{
+"entry": 404,
+"who": "Iamblichus Reader",
+"text": "What, therefore, shall we derive from the Gods who are entirely exempt from all human generation, with respect to sterility, or abundance or any thing else pertaining to life?",
+"kind": "narration",
+"old_words": 29,
+"whole": false
+},
+{
+"entry": 406,
+"who": "Iamblichus Reader",
+"text": "According to another division, therefore, the numerous herd of men is arranged under nature, is governed by physical powers, looks downward to the works of nature, gives completion to the administration of Fate, and to things pertaining to Fate, because it belongs to the order of it, and always employs practical reasoning about such particulars alone as subsist according to nature.",
+"kind": "narration",
+"old_words": 61,
+"whole": false
+},
+{
+"entry": 409,
+"who": "Iamblichus Reader",
+"text": "On this subject, however, there is also the following division.",
+"kind": "narration",
+"old_words": 10,
+"whole": false
+},
+{
+"entry": 412,
+"who": "Iamblichus Reader",
+"text": "Being impelled, therefore, from another principle, viz.",
+"kind": "narration",
+"old_words": 7,
+"whole": false
+},
+{
+"entry": 419,
+"who": "Iamblichus Reader",
+"text": "What then , does not the summit of the sacrific art recur to the most principal one of the whole multitude of Gods, and at one and the same time worship the many essences and principles that are in it?",
+"kind": "narration",
+"old_words": 40,
+"whole": false
+},
+{
+"entry": 422,
+"who": "Iamblichus Reader",
+"text": "The various mode, therefore, of sanctity in sacred operations partly purifies and partly perfects some one of the things that are in us or about us.",
+"kind": "narration",
+"old_words": 26,
+"whole": false
+},
+{
+"entry": 427,
+"who": "Iamblichus Reader",
+"text": "The same things also may be learned from the distribution of the Gods according to places;",
+"kind": "narration",
+"old_words": 16,
+"whole": false
+},
+{
+"entry": 429,
+"who": "Iamblichus Reader",
+"text": "If, therefore, these things were human customs alone, and derived their authority through our legal institutions, it might be said that the worship of the Gods was the invention of our conceptions.",
+"kind": "narration",
+"old_words": 32,
+"whole": false
+},
+{
+"entry": 431,
+"who": "Iamblichus Reader",
+"text": "Since, however, prayers are not the smallest part of sacrifices, especially give completion to them, and through these the whole operation of them is corroborated and effected;",
+"kind": "narration",
+"old_words": 27,
+"whole": false
+},
+{
+"entry": 438,
+"who": "Iamblichus Reader",
+"text": "It is now, however, time for me to pass on to the next doubt which you propose, viz.",
+"kind": "narration",
+"old_words": 18,
+"whole": false
+},
+{
+"entry": 440,
+"who": "Iamblichus Reader",
+"text": "After another manner, also, this doubt may be dissolved.",
+"kind": "narration",
+"old_words": 9,
+"whole": false
+},
+{
+"entry": 442,
+"who": "Iamblichus Reader",
+"text": "In the next place we shall explain how divination is effected through sacred animals, such, for instance, as hawks.",
+"kind": "narration",
+"old_words": 19,
+"whole": false
+},
+{
+"entry": 444,
+"who": "Iamblichus Reader",
+"text": "It is necessary, however, to think that the soul which uses divination of this kind, not only becomes an auditor of the prediction, but also contributes in no small degree from itself to the consummation of it, and of what pertains to its operations.",
+"kind": "narration",
+"old_words": 44,
+"whole": false
+},
+{
+"entry": 446,
+"who": "Iamblichus Reader",
+"text": "Let us, therefore, now discuss another species of doubts, the cause of which is occult, and which, as you say, is accompanied with “violent threats.” But it is variously divided about the multitude of threats.",
+"kind": "narration",
+"old_words": 35,
+"whole": false
+},
+{
+"entry": 448,
+"who": "Iamblichus Reader",
+"text": "These things also admit of another explanation of the following kind.",
+"kind": "narration",
+"old_words": 11,
+"whole": false
+},
+{
+"entry": 450,
+"who": "Iamblichus Reader",
+"text": "Or this thing may likewise be explained as follows:",
+"kind": "narration",
+"old_words": 9,
+"whole": false
+},
+{
+"entry": 455,
+"who": "Iamblichus Reader",
+"text": "The doubts also that follow in the next place require for their solution the assistance of the same divinely-wise -Muse.",
+"kind": "narration",
+"old_words": 20,
+"whole": false
+},
+{
+"entry": 459,
+"who": "Iamblichus Reader",
+"text": "Since, however, every part of the heavens, every sign of the zodiac,’ all the motion of the heavens, every period of time according to which the world is moved, and all things contained in the wholes of the universe, receive the powers which descend from the sun, some of which are complicated with these wholes, but others transcend a commixture with them, the symbolical mode of signification represents these also, indicating “that the sun is diversified according to the signs of the zodiac, and that every hour he changes his form.” At the same time, also, it indicates his immutable, stable, never failing, and at once collected communication of good to the whole world.",
+"kind": "narration",
+"old_words": 114,
+"whole": false
+},
+{
+"entry": 461,
+"who": "Iamblichus Reader",
+"text": "But the inquiries which follow in the next place, require a more abundant doctrine, in order to their elucidation.",
+"kind": "narration",
+"old_words": 19,
+"whole": false
+},
+{
+"entry": 467,
+"who": "Iamblichus Reader",
+"text": "You object, however, “that he who hears words looks to their signification, so that it is sufficient the conception remains the same, whatever the words may be that are used.” But the thing is not such as you suspect it to be.",
+"kind": "narration",
+"old_words": 42,
+"whole": false
+},
+{
+"entry": 489,
+"who": "Iamblichus Reader",
+"text": "Leaving, therefore, these particulars, you wish in the next place that I would unfold to you “What the Egyptians conceive the first cause to be;",
+"kind": "narration",
+"old_words": 25,
+"whole": false
+},
+{
+"entry": 493,
+"who": "Iamblichus Reader",
+"text": "Prior to truly existing beings and total principles , there is one God, prior to the first God and king, immoveable, and abiding in the solitude of his own unity.",
+"kind": "narration",
+"old_words": 30,
+"whole": false
+},
+{
+"entry": 495,
+"who": "Iamblichus Reader",
+"text": "According to another order, however, he arranges the God Emeph* prior to, and as the leader of, the celestial Gods.",
+"kind": "narration",
+"old_words": 20,
+"whole": false
+},
+{
+"entry": 498,
+"who": "Iamblichus Reader",
+"text": "These things, therefore, having been accurately discussed, the solution of the doubts which you have met with in certain books will be manifest.",
+"kind": "narration",
+"old_words": 23,
+"whole": false
+},
+{
+"entry": 500,
+"who": "Iamblichus Reader",
+"text": "This deific and anagogic path Hermes, indeed, narrated, but Bitys, the prophet of King Ammon, explained it, having found it in the adyta of Sais † in Egypt, written in hieroglyphics;",
+"kind": "narration",
+"old_words": 31,
+"whole": false
+},
+{
+"entry": 511,
+"who": "Iamblichus Reader",
+"text": "Hence that of which you are dubious is not true, “that all things are bound with the indissoluble bonds of Necessity,” which we call Fate.",
+"kind": "narration",
+"old_words": 25,
+"whole": false
+},
+{
+"entry": 513,
+"who": "Iamblichus Reader",
+"text": "What then, is it not possible for a man to liberate himself through the Gods that revolve in the heavens, and to consider the same as the leaders of fate, and yet as those that bind our lives with indissoluble bonds?",
+"kind": "narration",
+"old_words": 41,
+"whole": false
+},
+{
+"entry": 516,
+"who": "Iamblichus Reader",
+"text": "Let us now, therefore, to the utmost of our power, endeavour to discuss the manifold doubt concerning the peculiar daemon, and which also is subject to various objections.",
+"kind": "narration",
+"old_words": 28,
+"whole": false
+},
+{
+"entry": 520,
+"who": "Iamblichus Reader",
+"text": "You say, then, “that he is happy who having learned the scheme of his nativity, and knowing his proper daemon, is thus liberated from fate.” To me, however, you appear to assert these things in a way neither consonant to themselves nor to truth.",
+"kind": "narration",
+"old_words": 44,
+"whole": false
+},
+{
+"entry": 522,
+"who": "Iamblichus Reader",
+"text": "If, however, it be necessary, dismissing these particulars, to speak what appears to me to be the truth, you do not rightly infer “that a knowledge of this mathamatical science cannot be obtained, because there is much dissonance concerning it, or because Chaeremon, or some other, has written against it.” For if this reason were admitted, all things will be incomprehensible.",
+"kind": "narration",
+"old_words": 61,
+"whole": false
+},
+{
+"entry": 525,
+"who": "Iamblichus Reader",
+"text": "You say then, in your epistle, “that the discovery of the lord or lords of the geniture, if there are more than one in a nativity, can scarcely be obtained, and by astrologers themselves is confessed to be unattainable;",
+"kind": "narration",
+"old_words": 39,
+"whole": false
+},
+{
+"entry": 527,
+"who": "Iamblichus Reader",
+"text": "If, however, it be requisite to unfold to you the truth concerning the peculiar daemon, we must say that he is not distributed to us from one part of the heavens, or from some one of the visible elements;",
+"kind": "narration",
+"old_words": 39,
+"whole": false
+},
+{
+"entry": 529,
+"who": "Iamblichus Reader",
+"text": "From these things, therefore, it is easy to answer your next question.",
+"kind": "narration",
+"old_words": 12,
+"whole": false
+},
+{
+"entry": 531,
+"who": "Iamblichus Reader",
+"text": "Afterwards, abandoning these particulars, you pass on to the opinion of philosophy.",
+"kind": "narration",
+"old_words": 12,
+"whole": false
+},
+{
+"entry": 533,
+"who": "Iamblichus Reader",
+"text": "After this, therefore, you also mention another disquisition concerning the peculiar daemon, which represents “some as worshiping two, but others three, daemons of this kind.” The whole of this, however, is erroneous.",
+"kind": "narration",
+"old_words": 32,
+"whole": false
+},
+{
+"entry": 535,
+"who": "Iamblichus Reader",
+"text": "And this order is adapted to daemons;",
+"kind": "narration",
+"old_words": 7,
+"whole": false
+},
+{
+"entry": 538,
+"who": "Iamblichus Reader",
+"text": "It now remains, in the last place, that we should speak concerning felicity, about which you make various inquiries, first of all proposing objections, afterwards doubting, and then interrogating.",
+"kind": "narration",
+"old_words": 29,
+"whole": false
+},
+{
+"entry": 540,
+"who": "Iamblichus Reader",
+"text": "Hence you in vain doubt, “that it is not proper to look to human opinions.” For what leisure can he have whose intellect is directed to the Gods to look downward to the praises of men?",
+"kind": "narration",
+"old_words": 36,
+"whole": false
+},
+{
+"entry": 544,
+"who": "Iamblichus Reader",
+"text": "Divine divination, therefore, which is conjoined with the Gods, alone truly imparts to us a divine life;",
+"kind": "narration",
+"old_words": 17,
+"whole": false
+},
+{
+"entry": 546,
+"who": "Iamblichus Reader",
+"text": "But why am I prolix about these particulars?",
+"kind": "narration",
+"old_words": 8,
+"whole": false
+},
+{
+"entry": 549,
+"who": "Iamblichus Reader",
+"text": "Moreover, after it has conjoined the soul to the several parts of the universe, and to the total divine powers which pass through it;",
+"kind": "narration",
+"old_words": 24,
+"whole": false
+},
+{
+"entry": 551,
+"who": "Iamblichus Reader",
+"text": "Moreover, respect to the good, likewise, they conceive that one kind is divine, and this is the God who is prior to the intelligible;",
+"kind": "narration",
+"old_words": 24,
+"whole": false
+},
+{
+"entry": 553,
+"who": "Iamblichus Reader",
+"text": "And thus we have answered, to the utmost of our ability, your inquiries concerning divination and theurgy.",
+"kind": "narration",
+"old_words": 17,
+"whole": false
+}
+]
+}
+]
+}

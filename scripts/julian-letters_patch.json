@@ -1,0 +1,23 @@
+{
+"key": "julian-letters_patch",
+"title": "Letters",
+"author": "Julian",
+"translator": "Wilmer Cave Wright",
+"credit": null,
+"patch_of": "julian-letters",
+"parts": [
+{
+"name": "patch",
+"lines": [
+{
+"entry": 310,
+"who": "Julian Reader",
+"text": "A king delights in war.",
+"kind": "narration",
+"old_words": 5,
+"whole": true
+}
+]
+}
+]
+}

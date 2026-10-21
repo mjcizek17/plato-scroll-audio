@@ -1,0 +1,23 @@
+{
+"key": "plot-e5_patch",
+"title": "The Fifth Ennead",
+"author": "Plotinus",
+"translator": "Stephen MacKenna",
+"credit": null,
+"patch_of": "plot-e5",
+"parts": [
+{
+"name": "patch",
+"lines": [
+{
+"entry": 79,
+"who": "Plotinus Reader",
+"text": "Following on the First.",
+"kind": "narration",
+"old_words": 5,
+"whole": true
+}
+]
+}
+]
+}

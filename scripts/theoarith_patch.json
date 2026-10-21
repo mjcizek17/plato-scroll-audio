@@ -1,0 +1,71 @@
+{
+"key": "theoarith_patch",
+"title": "Theoretic Arithmetic",
+"author": "Iamblichus",
+"translator": "Thomas Taylor",
+"credit": null,
+"patch_of": "theoarith",
+"parts": [
+{
+"name": "patch",
+"lines": [
+{
+"entry": 1,
+"who": "Iamblichus Reader",
+"text": "If philosophy, properly so called, be, according to",
+"kind": "narration",
+"old_words": 8,
+"whole": true
+},
+{
+"entry": 107,
+"who": "Iamblichus Reader",
+"text": "The unevenly-even number is composed from both the evenly-even, and the evenly-odd number, and is a medium between both.",
+"kind": "narration",
+"old_words": 19,
+"whole": false
+},
+{
+"entry": 121,
+"who": "Iamblichus Reader",
+"text": "The second and composite number, is indeed itself odd, because it is formed by the same property of the odd number, but it retains in itself no principal essence;",
+"kind": "narration",
+"old_words": 29,
+"whole": false
+},
+{
+"entry": 127,
+"who": "Iamblichus Reader",
+"text": "The generation however and origin of these numbers is obtained by the following method, which Eratosthenes denominates a sieve;",
+"kind": "narration",
+"old_words": 19,
+"whole": false
+},
+{
+"entry": 449,
+"who": "Iamblichus Reader",
+"text": "Imperfectly amicable numbers are such as 27, and 35, 39 and 55, 65 and 77, 51 and 91, 95 and 119, 69 and 133, 115 and 187, 87 and 247.",
+"kind": "narration",
+"old_words": 30,
+"whole": false
+},
+{
+"entry": 458,
+"who": "Iamblichus Reader",
+"text": "The series of these numbers is as follows:",
+"kind": "narration",
+"old_words": 8,
+"whole": false
+},
+{
+"entry": 622,
+"who": "Iamblichus Reader",
+"text": "The pentad, as we learn from the Nicomachean extracts, was called by the Pythagoreans the privation of strife, and the unconquered, alliation or change of quality, light and justice, and the smallest extremity of vitality.",
+"kind": "narration",
+"old_words": 35,
+"whole": false
+}
+]
+}
+]
+}

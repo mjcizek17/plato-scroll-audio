@@ -1,0 +1,23 @@
+{
+"key": "plot-e1_patch",
+"title": "The First Ennead",
+"author": "Plotinus",
+"translator": "Stephen MacKenna",
+"credit": null,
+"patch_of": "plot-e1",
+"parts": [
+{
+"name": "patch",
+"lines": [
+{
+"entry": 600,
+"who": "Plotinus Reader",
+"text": "“The Reasoned Dismissal”.",
+"kind": "narration",
+"old_words": 8,
+"whole": true
+}
+]
+}
+]
+}

@@ -88,7 +88,9 @@ class Aligner:
 def main(work, a, b, out):
     os.makedirs(out, exist_ok=True)
     cast = load_cast()
-    flat = [l for p in work_parts(work) for l in p["lines"]][int(a):int(b)]
+    flat = [l for p in work_parts(work) for l in p["lines"]]
+    # a patch shard lists its lines ("12,40,41"); otherwise a..b is a range of flat line indices
+    flat = [flat[int(i)] for i in str(a).split(",") if i] if "," in str(a) or str(b) == "-" else flat[int(a):int(b)]
     todo = [l for l in flat if char_spec(cast, work, l["who"])["engine"] == "chatterbox"]
     if not todo:
         return
