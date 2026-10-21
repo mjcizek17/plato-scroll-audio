@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/home/runner/work/plato-scroll-audio/plato-scroll-audio/tools/patch.py", line 202, in <module>
+    main_head(*a[:4])
+  File "/home/runner/work/plato-scroll-audio/plato-scroll-audio/tools/patch.py", line 160, in main_head
+    a, cut = trim(read_wav(os.path.join(lines_dir, h["id"] + ".wav")))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/plato-scroll-audio/plato-scroll-audio/tools/assemble.py", line 20, in read_wav
+    with wave.open(p) as w:
+         ^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/wave.py", line 631, in open
+    return Wave_read(f)
+           ^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/wave.py", line 279, in __init__
+    f = builtins.open(f, 'rb')
+        ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'lines/p1l0004.wav'
