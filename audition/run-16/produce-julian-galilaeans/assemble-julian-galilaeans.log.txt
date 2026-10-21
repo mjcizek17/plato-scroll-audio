@@ -1,0 +1,1 @@
+{"work": "julian-galilaeans", "parts": [{"file": "julian-galilaeans-p1.mp3", "minutes": 89.91, "lines": 69, "words": 15609, "words_interpolated": 88, "retakes": 4, "flagged_takes": [{"group": 2, "ratio": 2.49, "text": ". .", "line": "p1l0062"}]}]}
