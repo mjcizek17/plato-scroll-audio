@@ -1,0 +1,1 @@
+{"work": "plot-e1", "patched": [{"part": "plot-e1-p9", "entry": 600, "old_s": 2.72, "new_s": 1.29, "words": 3, "was": 8}]}
