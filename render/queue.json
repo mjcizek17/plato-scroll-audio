@@ -1,1 +1,1 @@
-{"works": ["hermes-corpus-1", "hermes-corpus-2"], "dest": "release", "tag": "hermetica-v1", "budget": 2400}
+{"works": ["cicero-dream-of-scipio", "cic-republic", "cic-legibus", "cic-paradoxa", "cic-academica", "cic-finibus", "cic-tusculan", "cic-natdeorum", "cic-divinatione", "cic-senectute", "cic-amicitia", "cic-officiis"], "dest": "release", "tag": "classics-v1", "budget": 10000}
