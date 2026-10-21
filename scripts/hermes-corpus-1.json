@@ -1,0 +1,1816 @@
+{
+"key": "hermes-corpus-1",
+"title": "The Corpus Hermeticum (I–VII)",
+"author": "Hermes Trismegistus",
+"translator": "G. R. S. Mead",
+"parts": [
+{
+"name": "The Corpus Hermeticum (I–VII)",
+"lines": [
+{
+"entry": 0,
+"who": "Hermes Reader",
+"text": "The Corpus Hermeticum (I–VII)",
+"kind": "heading"
+},
+{
+"entry": 0,
+"who": "Hermes Reader",
+"text": "The Corpus Hermeticum — the core sermons of the Hermetic tradition, dialogues of revelation ascribed to Hermes Trismegistus, the “thrice-greatest.” In discourses between Hermes and his sons Tat and Asclepius, and with the divine Mind, Poemandres, they unfold the Hermetic vision of God, the cosmos, and the regeneration of the soul. This is G. R. S. Mead’s English translation (1906), comprising Books I–XIII. Public-domain text.",
+"kind": "narration"
+},
+{
+"entry": 1,
+"who": "Hermes Reader",
+"text": "I. Poemandres, the Shepherd of Men",
+"kind": "heading"
+},
+{
+"entry": 2,
+"who": "Hermes Reader",
+"text": "It chanced once on a time my mind was meditating on the things that are, my thought was raised to a great height, the senses of my body being held back — just as men who are weighed down with sleep after a fill of food, or from fatigue of body.",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Hermes Reader",
+"text": "Methought a Being more than vast, in size beyond all bounds, called out my name and saith: What wouldst thou hear and see, and what hast thou in mind to learn and know?",
+"kind": "narration"
+},
+{
+"entry": 4,
+"who": "Hermes Reader",
+"text": "And I do say: Who art thou?",
+"kind": "narration"
+},
+{
+"entry": 5,
+"who": "Hermes Reader",
+"text": "He saith: I am Man-Shepherd (Poemandres), Mind of all-masterhood; I know what thou desirest and I'm with thee everywhere.",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Hermes Reader",
+"text": "I reply: I long to learn the things that are, and comprehend their nature, and know God. This is, I said, what I desire to hear.",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Hermes Reader",
+"text": "He answered back to me: Hold in thy mind all thou wouldst know, and I will teach thee.",
+"kind": "narration"
+},
+{
+"entry": 8,
+"who": "Hermes Reader",
+"text": "E'en with these words His aspect changed, and straightway, in the twinkling of an eye, all things were opened to me, and I see a Vision limitless, all things turned into Light — sweet, joyous . And I became transported as I gazed.",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Hermes Reader",
+"text": "But in a little while Darkness came settling down on part , awesome and gloomy, coiling in sinuous folds, so that methought it like unto a snake.",
+"kind": "narration"
+},
+{
+"entry": 10,
+"who": "Hermes Reader",
+"text": "And then the Darkness changed into some sort of a Moist Nature, tossed about beyond all power of words, belching out smoke as from a fire, and groaning forth a wailing sound that beggars all description.",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Hermes Reader",
+"text": "after that an outcry inarticulate came forth from it, as though it were a Voice of Fire.",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Hermes Reader",
+"text": "out of the Light a Holy Word (Logos) descended on that Nature. And upwards to the height from the Moist Nature leaped forth pure Fire; light was it, swift and active too.",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Hermes Reader",
+"text": "The Air, too, being light, followed after the Fire; from out of the Earth-and-Water rising up to Fire so that it seemed to hang therefrom.",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Hermes Reader",
+"text": "But Earth-and-Water stayed so mingled with each other, that Earth from Water no one could discern. Yet were they moved to hear by reason of the Spirit-Word (Logos) pervading them.",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Hermes Reader",
+"text": "Then saith to me Man-Shepherd: Didst understand this Vision what it means?",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Hermes Reader",
+"text": "Nay; that shall I know, said I.",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Hermes Reader",
+"text": "That Light, He said, am I, thy God, Mind, prior to Moist Nature which appeared from Darkness; the Light-Word (Logos) from Mind is Son of God.",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Hermes Reader",
+"text": "What then? — say I.",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Hermes Reader",
+"text": "Know that what sees in thee and hears is the Lord's Word (Logos); but Mind is Father-God. Not separate are they the one from other; just in their union is it Life consists.",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Hermes Reader",
+"text": "Thanks be to Thee, I said.",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Hermes Reader",
+"text": "So, understand the Light , and make friends with it.",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Hermes Reader",
+"text": "And speaking thus He gazed for long into my eyes, so that I trembled at the look of him.",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Hermes Reader",
+"text": "But when He raised His head, I see in Mind the Light, now in Powers no man could number, and Cosmos grown beyond all bounds, and that the Fire was compassed round about by a most mighty Power, and subdued had come unto a stand.",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Hermes Reader",
+"text": "And when I saw these things I understood by reason of Man-Shepherd's Word (Logos).",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Hermes Reader",
+"text": "But as I was in great astonishment, He saith to me again: Thou didst behold in Mind the Archetypal Form whose being is before beginning without end. Thus spake to me Man-Shepherd.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Hermes Reader",
+"text": "And I say: Whence then have Nature's elements their being?",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Hermes Reader",
+"text": "To this He answer gives: From Will of God. received the Word (Logos), and gazing upon the Cosmos Beautiful did copy it, making herself into a cosmos, by means of her own elements and by the births of souls.",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Hermes Reader",
+"text": "And God-the-Mind, being male and female both, as Light and Life subsisting, brought forth another Mind to give things form, who, God as he was of Fire and Spirit, formed Seven Rulers who enclose the cosmos that the sense perceives. Men call their ruling Fate.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Hermes Reader",
+"text": "Straightway from out the downward elements God's Reason (Logos) leaped up to Nature's pure formation, and was at-oned with the Formative Mind; for it was co-essential with it. And Nature's downward elements were thus left reason-less, so as to be pure matter.",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Hermes Reader",
+"text": "Then the Formative Mind ( with Reason), he who surrounds the spheres and spins them with his whorl, set turning his formations, and let them turn from a beginning boundless unto an endless end. For that the circulation of these begins where it doth end, as Mind doth will.",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Hermes Reader",
+"text": "And from the downward elements Nature brought forth lives reason-less; for He did not extend the Reason (Logos) . The Air brought forth things winged; the Water things that swim, and Earth-and-Water one from another parted, as Mind willed. And from her bosom Earth produced what lives she had, four-footed things and reptiles, beasts wild and tame.",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Hermes Reader",
+"text": "But All-Father Mind, being Life and Light, did bring forth Man co-equal to Himself, with whom He fell in love, as being His own child; for he was beautiful beyond compare, the Image of his Sire. In very truth, God fell in love with his own Form; and on him did bestow all of His own formations.",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Hermes Reader",
+"text": "And when he gazed upon what the Enformer had created in the Father, too wished to enform; and assent was given him by the Father.",
+"kind": "narration"
+},
+{
+"entry": 34,
+"who": "Hermes Reader",
+"text": "Changing his state to the formative sphere, in that he was to have his whole authority, he gazed upon his Brother's creatures. They fell in love with him, and gave him each a share of his own ordering.",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Hermes Reader",
+"text": "And after that he had well learned their essence and had become a sharer in their nature, he had a mind to break right through the Boundary of their spheres, and to subdue the might of that which pressed upon the Fire.",
+"kind": "narration"
+},
+{
+"entry": 36,
+"who": "Hermes Reader",
+"text": "So he who hath the whole authority o'er the mortals in the cosmos and o'er its lives irrational, bent his face downwards through the Harmony, breaking right through its strength, and showed to downward Nature God's fair form.",
+"kind": "narration"
+},
+{
+"entry": 37,
+"who": "Hermes Reader",
+"text": "And when she saw that Form of beauty which can never satiate, and him who possessed within himself each single energy of Rulers as well as God's own Form, she smiled with love; for 'twas as though she'd seen the image of Man's fairest form upon her Water, his shadow on her Earth.",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Hermes Reader",
+"text": "He in turn beholding the form like to himself, existing in her, in her Water, loved it and willed to live in it; and with the will came act, and he vivified the form devoid of reason.",
+"kind": "narration"
+},
+{
+"entry": 39,
+"who": "Hermes Reader",
+"text": "And Nature took the object of her love and wound herself completely around him, and they were intermingled, for they were lovers.",
+"kind": "narration"
+},
+{
+"entry": 40,
+"who": "Hermes Reader",
+"text": "And this is why beyond all creatures on the earth man is twofold; mortal because of body, but because of the essential man immortal.",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Hermes Reader",
+"text": "Though deathless and possessed of sway o'er all, yet doth he suffer as a mortal doth, subject to Fate.",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Hermes Reader",
+"text": "Thus though above the Harmony, within the Harmony he hath become a slave. Though male-female, as from a Father male-female, and though he's sleepless from a sleepless , yet is he overcome .",
+"kind": "narration"
+},
+{
+"entry": 43,
+"who": "Hermes Reader",
+"text": "Thereon , O Mind of me, for I myself as well am amorous of the Word (Logos).",
+"kind": "narration"
+},
+{
+"entry": 44,
+"who": "Hermes Reader",
+"text": "The Shepherd said: This is the mystery kept hid until this day.",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Hermes Reader",
+"text": "Nature embraced by Man brought forth a wonder, oh so wonderful. For as he had the nature of the Concord of the Seven, who, as I said to thee, of Fire and Spirit — Nature delayed not, but immediately brought forth seven \"men\", in correspondence with the natures of the Seven, male-female and moving in the air.",
+"kind": "narration"
+},
+{
+"entry": 46,
+"who": "Hermes Reader",
+"text": "Thereon : O Shepherd, ..., for now I'm filled with great desire and long to hear; do not run off.",
+"kind": "narration"
+},
+{
+"entry": 47,
+"who": "Hermes Reader",
+"text": "The Shepherd said: Keep silence, for not as yet have I unrolled for thee the first discourse (logoi).",
+"kind": "narration"
+},
+{
+"entry": 48,
+"who": "Hermes Reader",
+"text": "Lo! I am still, I said.",
+"kind": "narration"
+},
+{
+"entry": 49,
+"who": "Hermes Reader",
+"text": "In such wise than, as I have said, the generation of these seven came to pass. Earth was as woman, her Water filled with longing; ripeness she took from Fire, spirit from Aether. Nature thus brought forth frames to suit the form of Man.",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Hermes Reader",
+"text": "And Man from Light and Life changed into soul and mind — from Life to soul, from Light to mind.",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Hermes Reader",
+"text": "And thus continued all the sense-world's parts until the period of their end and new beginnings.",
+"kind": "narration"
+},
+{
+"entry": 52,
+"who": "Hermes Reader",
+"text": "Now listen to the rest of the discourse (Logos) which thou dost long to hear.",
+"kind": "narration"
+},
+{
+"entry": 53,
+"who": "Hermes Reader",
+"text": "The period being ended, the bond that bound them all was loosened by God's Will. For all the animals being male-female, at the same time with Man were loosed apart; some became partly male, some in like fashion female. And straightway God spake by His Holy Word (Logos):",
+"kind": "narration"
+},
+{
+"entry": 54,
+"who": "Hermes Reader",
+"text": "\"Increase ye in increasing, and multiply in multitude, ye creatures and creations all; and man that hath Mind in him, let him learn to know that he himself is deathless, and that the cause of death is love, though Love is all.\"",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Hermes Reader",
+"text": "When He said this, His Forethought did by means of Fate and Harmony effect their couplings and their generations founded. And so all things were multiplied according to their kind.",
+"kind": "narration"
+},
+{
+"entry": 56,
+"who": "Hermes Reader",
+"text": "And he who thus hath learned to know himself, hath reached that Good which doth transcend abundance; but he who through a love that leads astray, expends his love upon his body — he stays in Darkness wandering, and suffering through his senses things of Death.",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Hermes Reader",
+"text": "What is the so great fault, said I, the ignorant commit, that they should be deprived of deathlessness?",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Hermes Reader",
+"text": "Thou seem'st, He said, O thou, not to have given heed to what thou heardest. Did I not bid thee think?",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Hermes Reader",
+"text": "Yea do I think, and I remember, and therefore give Thee thanks.",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Hermes Reader",
+"text": "If thou didst think , , tell me: Why do they merit death who are in Death?",
+"kind": "narration"
+},
+{
+"entry": 61,
+"who": "Hermes Reader",
+"text": "It is because the gloomy Darkness is the root and base of the material frame; from it came the Moist Nature; from this the body in the sense-world was composed; and from this Death doth the Water drain.",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Hermes Reader",
+"text": "Right was thy thought, O thou! But how doth \"he who knows himself, go unto Him\", as God's Word (Logos) hath declared?",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Hermes Reader",
+"text": "And I reply: the Father of the universals doth consist of Light and Life, from Him Man was born.",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Hermes Reader",
+"text": "Thou sayest well, speaking. Light and Life is Father-God, and from Him Man was born.",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Hermes Reader",
+"text": "If then thou learnest that thou art thyself of Life and Light, and that thou to be out of them, thou shalt return again to Life. Thus did Man-Shepherd speak.",
+"kind": "narration"
+},
+{
+"entry": 66,
+"who": "Hermes Reader",
+"text": "But tell me further, Mind of me, I cried, how shall I come to Life again...for God doth say: \"The man who hath Mind in him, let him learn to know that he himself .\"",
+"kind": "narration"
+},
+{
+"entry": 67,
+"who": "Hermes Reader",
+"text": "Have not all men then Mind?",
+"kind": "narration"
+},
+{
+"entry": 68,
+"who": "Hermes Reader",
+"text": "Thou sayest well, O thou, thus speaking. I, Mind, myself am present with holy men and good, the pure and merciful, men who live piously.",
+"kind": "narration"
+},
+{
+"entry": 69,
+"who": "Hermes Reader",
+"text": "my presence doth become an aid, and straightway they gain gnosis of all things, and win the Father's love by their pure lives, and give Him thanks, invoking on Him blessings, and chanting hymns, intent on Him with ardent love.",
+"kind": "narration"
+},
+{
+"entry": 70,
+"who": "Hermes Reader",
+"text": "And ere they give up the body unto its proper death, they turn them with disgust from its sensations, from knowledge of what things they operate. Nay, it is I, the Mind, that will not let the operations which befall the body, work to their end. For being door-keeper I'll close up the entrances, and cut the mental actions off which base and evil energies induce.",
+"kind": "narration"
+},
+{
+"entry": 71,
+"who": "Hermes Reader",
+"text": "But to the Mind-less ones, the wicked and depraved, the envious and covetous, and those who mured do and love impiety, I am far off, yielding my place to the Avenging Daimon, who sharpening the fire, tormenteth him and addeth fire to fire upon him, and rusheth upon him through his senses, thus rendering him readier for transgressions of the law, so that he meets with greater torment; nor doth he ever cease to have desire for appetites inordinate, insatiately striving in the dark.",
+"kind": "narration"
+},
+{
+"entry": 72,
+"who": "Hermes Reader",
+"text": "Well hast thou taught me all, as I desired, O Mind. And now, pray, tell me further of the nature of the Way Above as now it is .",
+"kind": "narration"
+},
+{
+"entry": 73,
+"who": "Hermes Reader",
+"text": "To this Man-Shepherd said: When the material body is to be dissolved, first thou surrenderest the body by itself unto the work of change, and thus the form thou hadst doth vanish, and thou surrenderest thy way of life, void of its energy, unto the Daimon. The body's senses next pass back into their sources, becoming separate, and resurrect as energies; and passion and desire withdraw unto that nature which is void of reason.",
+"kind": "narration"
+},
+{
+"entry": 74,
+"who": "Hermes Reader",
+"text": "And thus it is that man doth speed his way thereafter upwards through the Harmony.",
+"kind": "narration"
+},
+{
+"entry": 75,
+"who": "Hermes Reader",
+"text": "To the first zone he gives the Energy of Growth and Waning; unto the second , Device of Evils de-energized; unto the third, the Guile of the Desires de-energized; unto the fourth, his Domineering Arrogance, de-energized; unto the fifth, unholy Daring and the Rashness of Audacity, de-energized; unto the sixth, Striving for Wealth by evil means, deprived of its aggrandizement; and to the seventh zone, Ensnaring Falsehood, de-energized.",
+"kind": "narration"
+},
+{
+"entry": 76,
+"who": "Hermes Reader",
+"text": "And then, with all the energisings of the harmony stript from him, clothed in his proper Power, he cometh to that Nature which belongs unto the Eighth, and there with those-that-are hymneth the Father.",
+"kind": "narration"
+},
+{
+"entry": 77,
+"who": "Hermes Reader",
+"text": "They who are there welcome his coming there with joy; and he, made like to them that sojourn there, doth further hear the Powers who are above the Nature that belongs unto the Eighth, singing their songs of praise to God in language of their own.",
+"kind": "narration"
+},
+{
+"entry": 78,
+"who": "Hermes Reader",
+"text": "And then they, in a band, go to the Father home; of their own selves they make surrender of themselves to Powers, and becoming Powers they are in God. This the good end for those who have gained Gnosis — to be made one with God.",
+"kind": "narration"
+},
+{
+"entry": 79,
+"who": "Hermes Reader",
+"text": "Why shouldst thou then delay? Must it not be, since thou hast all received, that thou shouldst to the worthy point the way, in order that through thee the race of mortal kind may by God be saved?",
+"kind": "narration"
+},
+{
+"entry": 80,
+"who": "Hermes Reader",
+"text": "This when He'd said, Man-Shepherd mingled with the Powers.",
+"kind": "narration"
+},
+{
+"entry": 81,
+"who": "Hermes Reader",
+"text": "But I, with thanks and belssings unto the Father of the universal , was freed, full of the power he had poured into me, and full of what He'd taught me of the nature of the All and of the loftiest Vision.",
+"kind": "narration"
+},
+{
+"entry": 82,
+"who": "Hermes Reader",
+"text": "And I began to preach unto men the Beauty of Devotion and of Gnosis:",
+"kind": "narration"
+},
+{
+"entry": 83,
+"who": "Hermes Reader",
+"text": "O ye people, earth-born folk, ye who have given yourselves to drunkenness and sleep and ignorance of God, be sober now, cease from your surfeit, cease to be glamoured by irrational sleep!",
+"kind": "narration"
+},
+{
+"entry": 84,
+"who": "Hermes Reader",
+"text": "And when they heard, they came with one accord. Whereon I say:",
+"kind": "narration"
+},
+{
+"entry": 85,
+"who": "Hermes Reader",
+"text": "Ye earth-born folk, why have ye given yourselves up to Death, while yet ye have the power of sharing Deathlessness? Repent, O ye, who walk with Error arm in arm and make of Ignorance the sharer of your board; get ye out from the light of Darkness, and take your part in Deathlessness, forsake Destruction!",
+"kind": "narration"
+},
+{
+"entry": 86,
+"who": "Hermes Reader",
+"text": "And some of them with jests upon their lips departed , abandoning themselves unto the Way of Death; others entreated to be taught, casting themselves before my feet.",
+"kind": "narration"
+},
+{
+"entry": 87,
+"who": "Hermes Reader",
+"text": "But I made them arise, and I became a leader of the Race towards home, teaching the words (logoi), how and in what way they shall be saved. I sowed in them the words (logoi) of wisdom; of Deathless Water were they given to drink.",
+"kind": "narration"
+},
+{
+"entry": 88,
+"who": "Hermes Reader",
+"text": "And when even was come and all sun's beams began to set, I bade them all give thanks to God. And when they had brought to an end the giving of their thanks, each man returned to his own resting place.",
+"kind": "narration"
+},
+{
+"entry": 89,
+"who": "Hermes Reader",
+"text": "But I recorded in my heart Man-Shepherd's benefaction, and with my every hope fulfilled more than rejoiced. For body's sleep became the soul's awakening, and closing of the eyes — true vision, pregnant with Good my silence, and the utterance of my word (logos) begetting of good things.",
+"kind": "narration"
+},
+{
+"entry": 90,
+"who": "Hermes Reader",
+"text": "All this befell me from my Mind, that is Man-Shepherd, Word (Logos) of all masterhood, by whom being God-inspired I came unto the Plain of Truth. Wherefore with all my soul and strength thanksgiving give I unto Father-God.",
+"kind": "narration"
+},
+{
+"entry": 91,
+"who": "Hermes Reader",
+"text": "Holy art Thou, O God, the universals' Father.",
+"kind": "narration"
+},
+{
+"entry": 92,
+"who": "Hermes Reader",
+"text": "Holy art Thou, O God, whose Will perfects itself by means of its own Powers.",
+"kind": "narration"
+},
+{
+"entry": 93,
+"who": "Hermes Reader",
+"text": "Holy art Thou, O God, who willeth to be known and art known by Thine own.",
+"kind": "narration"
+},
+{
+"entry": 94,
+"who": "Hermes Reader",
+"text": "Holy art Thou,who didst by Word (Logos) make to consist the things that are.",
+"kind": "narration"
+},
+{
+"entry": 95,
+"who": "Hermes Reader",
+"text": "Holy art Thou, of whom All-nature hath been made an image.",
+"kind": "narration"
+},
+{
+"entry": 96,
+"who": "Hermes Reader",
+"text": "Holy art Thou, whose Form Nature hath never made.",
+"kind": "narration"
+},
+{
+"entry": 97,
+"who": "Hermes Reader",
+"text": "Holy art Thou, more powerful than all power.",
+"kind": "narration"
+},
+{
+"entry": 98,
+"who": "Hermes Reader",
+"text": "Holy art Thou, transcending all pre-eminence.",
+"kind": "narration"
+},
+{
+"entry": 99,
+"who": "Hermes Reader",
+"text": "Holy Thou art, Thou better than all praise.",
+"kind": "narration"
+},
+{
+"entry": 100,
+"who": "Hermes Reader",
+"text": "Accept my reason's offerings pure, from soul and heart for aye stretched up to Thee, O Thou unutterable, unspeakable, Whose Name naught but the Silence can express.",
+"kind": "narration"
+},
+{
+"entry": 101,
+"who": "Hermes Reader",
+"text": "Give ear to me who pray that I may ne'er of Gnosis fail, which is our common being's nature; and fill me with Thy Power, and with this Grace , that I may give the Light to those in ignorance of the Race, my Brethren, and Thy Sons.",
+"kind": "narration"
+},
+{
+"entry": 102,
+"who": "Hermes Reader",
+"text": "For this cause I believe, and I bear witness; I go to Life and Light. Blessed art Thou, O Father. Thy Man would holy be as Thou art holy, e'en as Thou gave him Thy full authority .",
+"kind": "narration"
+},
+{
+"entry": 103,
+"who": "Hermes Reader",
+"text": "II. To Asclepius",
+"kind": "heading"
+},
+{
+"entry": 104,
+"who": "Hermes Reader",
+"text": "All that is moved, Asclepius, is it not moved in something and by something?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 105,
+"who": "Hermetic Asclepius",
+"text": "Assuredly.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 106,
+"who": "Hermes Reader",
+"text": "H: And must not that in which it's moved be greater than the moved?",
+"kind": "narration"
+},
+{
+"entry": 107,
+"who": "Hermes Reader",
+"text": "A: It must.",
+"kind": "narration"
+},
+{
+"entry": 108,
+"who": "Hermes Reader",
+"text": "H: Mover, again, has greater power than moved?",
+"kind": "narration"
+},
+{
+"entry": 109,
+"who": "Hermes Reader",
+"text": "A: It has, of course.",
+"kind": "narration"
+},
+{
+"entry": 110,
+"who": "Hermes Reader",
+"text": "H: The nature, furthermore, of that in which it's moved must be quite other from the nature of the moved?",
+"kind": "narration"
+},
+{
+"entry": 111,
+"who": "Hermes Reader",
+"text": "A: It must completely.",
+"kind": "narration"
+},
+{
+"entry": 112,
+"who": "Hermes Reader",
+"text": "H: Is not, again, this cosmos vast, that than it there exists no body greater?",
+"kind": "narration"
+},
+{
+"entry": 113,
+"who": "Hermes Reader",
+"text": "A: Assuredly.",
+"kind": "narration"
+},
+{
+"entry": 114,
+"who": "Hermes Reader",
+"text": "H: And massive, too, for it is crammed with multitudes of other mighty frames, nay, rather all the other bodies that there are?",
+"kind": "narration"
+},
+{
+"entry": 115,
+"who": "Hermes Reader",
+"text": "A: It is.",
+"kind": "narration"
+},
+{
+"entry": 116,
+"who": "Hermes Reader",
+"text": "H: And yet the cosmos is a body?",
+"kind": "narration"
+},
+{
+"entry": 117,
+"who": "Hermes Reader",
+"text": "A: It is a body.",
+"kind": "narration"
+},
+{
+"entry": 118,
+"who": "Hermes Reader",
+"text": "H: And one that's moved?",
+"kind": "narration"
+},
+{
+"entry": 119,
+"who": "Hermes Reader",
+"text": "A: Assuredly.",
+"kind": "narration"
+},
+{
+"entry": 120,
+"who": "Hermes Reader",
+"text": "H: Of what size, then, must be the space in which it's moved, and of what kind the nature ? Must it not be far vaster , in order that it may be able to find room for its continued course, so that the moved may not be cramped for want of room and lose its motion?",
+"kind": "narration"
+},
+{
+"entry": 121,
+"who": "Hermes Reader",
+"text": "A: Something, Thrice-greatest one, it needs must be, immensely vast.",
+"kind": "narration"
+},
+{
+"entry": 122,
+"who": "Hermes Reader",
+"text": "H: And of what nature? Must it not be, Asclepius, of just the contrary? And is not contrary to body bodiless?",
+"kind": "narration"
+},
+{
+"entry": 123,
+"who": "Hermes Reader",
+"text": "A: Agreed.",
+"kind": "narration"
+},
+{
+"entry": 124,
+"who": "Hermes Reader",
+"text": "H: Space, then, is bodiless. But bodiless must either be some godlike thing or God . And by \"some godlike thing\" I mean no more the generable but the ingenerable.",
+"kind": "narration"
+},
+{
+"entry": 125,
+"who": "Hermes Reader",
+"text": "If, then, space be some godlike thing, it is substantial; but if 'tis God , it transcends substance. But it is to be thought of otherwise , and in this way.",
+"kind": "narration"
+},
+{
+"entry": 126,
+"who": "Hermes Reader",
+"text": "God is first \"thinkable\" for us, not for Himself, for that the thing that's thought doth fall beneath the thinker's sense. God then cannot be \"thinkable\" unto Himself, in that He's thought of by Himself as being nothing else but what He thinks. But he is \"something else\" for us, and so He's thought of by us.",
+"kind": "narration"
+},
+{
+"entry": 127,
+"who": "Hermes Reader",
+"text": "If space is, therefore, to be thought, not, God, but space. If God is also to be thought, not as space, but as energy that can contain .",
+"kind": "narration"
+},
+{
+"entry": 128,
+"who": "Hermes Reader",
+"text": "Further, all that is moved is moved not in the moved but in the stable. And that which moves is of course stationary, for 'tis impossible that it should move with it.",
+"kind": "narration"
+},
+{
+"entry": 129,
+"who": "Hermes Reader",
+"text": "A: How is it, then, that things down here, Thrice-greatest one, are moved with those that are moved? For thou hast said the errant spheres were moved by the inerrant one.",
+"kind": "narration"
+},
+{
+"entry": 130,
+"who": "Hermes Reader",
+"text": "H: This is not, O Asclepius, a moving with, but one against; they are not moved with one another, but one against the other. It is this contrariety which turneth the resistance of their motion into rest. For that resistance is the rest of motion.",
+"kind": "narration"
+},
+{
+"entry": 131,
+"who": "Hermes Reader",
+"text": "Hence, too, the errant spheres, being moved contrarily to the inerrant one, are moved by one another by mutual contrariety, by the spable one through contrariety itself. And this can otherwise not be.",
+"kind": "narration"
+},
+{
+"entry": 132,
+"who": "Hermes Reader",
+"text": "The Bears up there, which neither set nor rise, think'st thou they rest or move?",
+"kind": "narration"
+},
+{
+"entry": 133,
+"who": "Hermes Reader",
+"text": "A: They move, Thrice-greatest one.",
+"kind": "narration"
+},
+{
+"entry": 134,
+"who": "Hermes Reader",
+"text": "H: And what their motion, my Asclepius?",
+"kind": "narration"
+},
+{
+"entry": 135,
+"who": "Hermes Reader",
+"text": "A: Motion that turns for ever round the same.",
+"kind": "narration"
+},
+{
+"entry": 136,
+"who": "Hermes Reader",
+"text": "H: But revolution — motion around same — is fixed by rest. For \"round-the-same\" doth stop \"beyond-same\".",
+"kind": "narration"
+},
+{
+"entry": 137,
+"who": "Hermes Reader",
+"text": "\"Beyond-same\" then, being stopped, if it be steadied in \"round-same\" — the contrary stands firm, being rendered ever stable by its contrariety.",
+"kind": "narration"
+},
+{
+"entry": 138,
+"who": "Hermes Reader",
+"text": "Of this I'll give thee here on earth an instance, which the eye can see. Regard the animals down here — a man, for instance, swimming! The water moves, yet the resistance of his hands and feet give him stability, so that he is not borne along with it, nor sunk thereby.",
+"kind": "narration"
+},
+{
+"entry": 139,
+"who": "Hermes Reader",
+"text": "A: Thou hast, Thrice-greatest one, adduced a most clear instance.",
+"kind": "narration"
+},
+{
+"entry": 140,
+"who": "Hermes Reader",
+"text": "H: All motion, then, is caused in station and by station.",
+"kind": "narration"
+},
+{
+"entry": 141,
+"who": "Hermes Reader",
+"text": "The motion, therefore, of the cosmos (and of every other hylic animal) will not be caused by things exterior to the cosmos, but by things interior to the exterior — such as soul, or spirit, or some such other thing incorporeal.",
+"kind": "narration"
+},
+{
+"entry": 142,
+"who": "Hermes Reader",
+"text": "'Tis not the body that doth move the living thing in it; nay, not even the whole body e'en though there be no life in it.",
+"kind": "narration"
+},
+{
+"entry": 143,
+"who": "Hermes Reader",
+"text": "A: What meanest thou by this, Thrice-greatest one? Is it not bodies, then, that move the stock and stone and all the other things inanimate?",
+"kind": "narration"
+},
+{
+"entry": 144,
+"who": "Hermes Reader",
+"text": "H: By no means, O Asclepius. The something-in-the-body, the that-which-moves the thing inanimate, this surely's not a body, for that it moves the two of them — both body of the lifter and the lifted? So that a thing that's lifeless will not move a lifeless thing. That which doth move is animate, in that it is the mover.",
+"kind": "narration"
+},
+{
+"entry": 145,
+"who": "Hermes Reader",
+"text": "Thou seest, then, how heavy laden is the soul, for it alone doth lift two bodies. That things, moreover, moved are moved in something as well as moved by something is clear.",
+"kind": "narration"
+},
+{
+"entry": 146,
+"who": "Hermes Reader",
+"text": "A: Yea, O Thrice-greatest one, things moved must needs be moved in something void.",
+"kind": "narration"
+},
+{
+"entry": 147,
+"who": "Hermes Reader",
+"text": "H: Thou sayest well, O Asclepius! For naught of things that are is void. Alone the \"is-not\" is void stranger to subsistence. For that which is subsistent can never change to void.",
+"kind": "narration"
+},
+{
+"entry": 148,
+"who": "Hermes Reader",
+"text": "A: Are there, then, O Thrice-greatest one, no such things as an empty cask, for instance, and an empty jar, a cup and vat, and other things like unto them?",
+"kind": "narration"
+},
+{
+"entry": 149,
+"who": "Hermes Reader",
+"text": "H: Alack, Asclepius, for thy far-wandering from the truth! Think'st thou that things most full and most replete are void?",
+"kind": "narration"
+},
+{
+"entry": 150,
+"who": "Hermes Reader",
+"text": "A: How meanest thou, Thrice-greatest one?",
+"kind": "narration"
+},
+{
+"entry": 151,
+"who": "Hermes Reader",
+"text": "H: Is not air body?",
+"kind": "narration"
+},
+{
+"entry": 152,
+"who": "Hermes Reader",
+"text": "A: It is.",
+"kind": "narration"
+},
+{
+"entry": 153,
+"who": "Hermes Reader",
+"text": "H: And doth this body not pervade all things, and so, pervading, fill them? And \"body\"; doth body not consist from blending of the \"four\" ? Full, then, of air are all thou callest void; and if of air, then of the \"four\".",
+"kind": "narration"
+},
+{
+"entry": 154,
+"who": "Hermes Reader",
+"text": "Further, of this the converse follows, that all thou callest full are void — of air; for that they have their space filled out with other bodies, and, therefore, are not able to receive the air therein. These, then, which thou dost say are void, they should be hollow named, not void; for they not only are, but they are full of air and spirit.",
+"kind": "narration"
+},
+{
+"entry": 155,
+"who": "Hermes Reader",
+"text": "A: Thy argument (logos), Thrice-greatest one, is not to be gainsaid; air is a body. Further, it is this body which doth pervade all things, and so, pervading, fill them. What are we, then, to call that space in which the all doth move?",
+"kind": "narration"
+},
+{
+"entry": 156,
+"who": "Hermes Reader",
+"text": "H: The bodiless, Asclepius.",
+"kind": "narration"
+},
+{
+"entry": 157,
+"who": "Hermes Reader",
+"text": "A: What, then, is Bodiless?",
+"kind": "narration"
+},
+{
+"entry": 158,
+"who": "Hermes Reader",
+"text": "H: 'Tis Mind and Reason (logos), whole out of whole, all self-embracing, free from all body, from all error free, unsensible to body and untouchable, self stayed in self, containing all, preserving those that are, whose rays, to use a likeness, are Good, Truth, Light beyond light, the Archetype of soul.",
+"kind": "narration"
+},
+{
+"entry": 159,
+"who": "Hermes Reader",
+"text": "A: What, then, is God?",
+"kind": "narration"
+},
+{
+"entry": 160,
+"who": "Hermes Reader",
+"text": "H: Not any one of these is He; for He it is that causeth them to be, both all and each and every thing of all that are. Nor hath He left a thing beside that is-not; but they are all from things-that-are and not from things-that-are-not. For that the things-that-are-not have naturally no power of being anything, but naturally have the power of the inability-to-be. And, conversely, the things-that-are have not the nature of some time not-being.",
+"kind": "narration"
+},
+{
+"entry": 161,
+"who": "Hermes Reader",
+"text": "A: What say'st thou ever, then, God is?",
+"kind": "narration"
+},
+{
+"entry": 162,
+"who": "Hermes Reader",
+"text": "H: God, therefore, is not Mind, but Cause that the Mind is; God is not Spirit, but Cause that Spirit is; God is not Light, but Cause that the Light is. Hence one should honor God with these two names — names which pertain to Him alone and no one else.",
+"kind": "narration"
+},
+{
+"entry": 163,
+"who": "Hermes Reader",
+"text": "For no one of the other so-called gods, no one of men, or daimones, can be in any measure Good, but God alone; and He is Good alone and nothing else. The rest of things are separable all from the Good's nature; for are soul and body, which have no place that can contain the Good.",
+"kind": "narration"
+},
+{
+"entry": 164,
+"who": "Hermes Reader",
+"text": "For that as mighty is the Greatness of the Good as is the Being of all things that are — both bodies and things bodiless, things sensible and intelligible things. Call thou not, therefore, aught else Good, for thou would'st imious be; nor anything at all at any time call God but Good alone, for so thou would'st again be impious.",
+"kind": "narration"
+},
+{
+"entry": 165,
+"who": "Hermes Reader",
+"text": "Though, then, the Good is spoken of by all, it is not understood by all, what thing it is. Not only, then, is God not understood by all, but both unto the gods and some of the men they out of ignorance do give the name of Good, though they can never either be or become Good. For they are very different from God, while Good can never be distinguished from Him, for that God is the same as Good.",
+"kind": "narration"
+},
+{
+"entry": 166,
+"who": "Hermes Reader",
+"text": "The rest of the immortal ones are nonetheless honored with the name of God, and spoken of as gods; but God is Good not out of courtesy but out of nature. For that God's nature and the Good is one; one os the kind of both, from which all other kinds .",
+"kind": "narration"
+},
+{
+"entry": 167,
+"who": "Hermes Reader",
+"text": "The Good is he who gives all things and naught receives. God, then, doth give all things and receive naught.",
+"kind": "narration"
+},
+{
+"entry": 168,
+"who": "Hermes Reader",
+"text": "God, then, is Good, and Good is God.",
+"kind": "narration"
+},
+{
+"entry": 169,
+"who": "Hermes Reader",
+"text": "The other name of God is Father, again because He is the that-which-maketh-all. The part of father is to make.",
+"kind": "narration"
+},
+{
+"entry": 170,
+"who": "Hermes Reader",
+"text": "Wherefore child-making is a very great and a most pious thing in life for them who think aright, and to leave life on earth without a child a very great misfortune and impiety; and he who hath no child is punished by the daimones after death.",
+"kind": "narration"
+},
+{
+"entry": 171,
+"who": "Hermes Reader",
+"text": "And this is the punishment: that that man's soul who hath no child, shall be condemned unto a body with neither man's nor woman's nature, a thing accursed beneath the sun.",
+"kind": "narration"
+},
+{
+"entry": 172,
+"who": "Hermes Reader",
+"text": "Wherefore, Asclepius, let not your sympathies be with the man who hath no child, but rather pity his mishap, knowing what punishment abides for him.",
+"kind": "narration"
+},
+{
+"entry": 173,
+"who": "Hermes Reader",
+"text": "Let all that has been said then, be to thee, Asclepius, an introduction to the gnosis of the nature of all things.",
+"kind": "narration"
+}
+]
+},
+{
+"name": "III. The Sacred Sermon",
+"lines": [
+{
+"entry": 174,
+"who": "Hermes Reader",
+"text": "III. The Sacred Sermon",
+"kind": "heading"
+},
+{
+"entry": 175,
+"who": "Hermes Reader",
+"text": "The Glory of all things is God, Godhead and Godly Nature. Source of the things that are is God, who is both Mind and Nature — yea Matter, the Wisdom that reveals all things. Source is Godhead — yea Nature, Energy, Necessity, and End, and Making-new-again.",
+"kind": "narration"
+},
+{
+"entry": 176,
+"who": "Hermes Reader",
+"text": "Darkness that knew no bounds was in Abyss, and Water and subtle Breath intelligent; these were by Power of God in Chaos.",
+"kind": "narration"
+},
+{
+"entry": 177,
+"who": "Hermes Reader",
+"text": "Then Holy Light arose; and there collected 'neath Dry Space from out Moist Essence Elements; and all the Gods do separate things out from fecund Nature.",
+"kind": "narration"
+},
+{
+"entry": 178,
+"who": "Hermes Reader",
+"text": "All things being undefined and yet unwrought, the light things were assigned unto the height, the heavy ones had their foundations laid down underneath the moist part of Dry Space, the universal things being bounded off by Fire and hanged in Breath to keep them up.",
+"kind": "narration"
+},
+{
+"entry": 179,
+"who": "Hermes Reader",
+"text": "And Heaven was seen in seven circles; its Gods were visible in forms of stars with all their signs; while Nature had her members made articulate together with the Gods in her. And periphery revolved in cyclic course, borne on by Breath of God.",
+"kind": "narration"
+},
+{
+"entry": 180,
+"who": "Hermes Reader",
+"text": "And every God by his own proper power brought forth what was appointed him. Thus there arose four-footed beasts, and creeping things, and those that in the water dwell, and things with wings, and everything that beareth seed, and grass, and shoot of every flower, all having in themselves seed of again-becoming.",
+"kind": "narration"
+},
+{
+"entry": 181,
+"who": "Hermes Reader",
+"text": "And they selected out the births of men for gnosis of the works of God and attestation of the energy of Nature; the multitude of men for lordship over all beneath the heaven and gnosis of its blessings, that they might increase in increasing and multiply in multitude, and every soul infleshed by revolution of the Cyclic Gods, for observation of the marvels of Heaven and Heaven's Gods' revolution, and of the works of God and energy of Nature, for tokens of its blessings, for gnosis of the power of God, that they might know the fates that follow good and evil and learn the cunning work of all good arts.",
+"kind": "narration"
+},
+{
+"entry": 182,
+"who": "Hermes Reader",
+"text": "there begins their living and their growing wise, according to the fate appointed by the revolution of the Cyclic Gods, and their deceasing for this end.",
+"kind": "narration"
+},
+{
+"entry": 183,
+"who": "Hermes Reader",
+"text": "And there shall be memorials mighty of their handiworks upon the earth, leaving dim trace behind when cycles are renewed.",
+"kind": "narration"
+},
+{
+"entry": 184,
+"who": "Hermes Reader",
+"text": "For every birth of flesh ensouled, and of the fruit of seed, and every handiwork, though it decay, shall of necessity renew itself, both by the renovation of the Gods and by the turning-round of Nature's rhythmic wheel.",
+"kind": "narration"
+},
+{
+"entry": 185,
+"who": "Hermes Reader",
+"text": "For that whereas the Godhead is Nature's ever-making-new-again the cosmic mixture, Nature herself is also co-established in that Godhead.",
+"kind": "narration"
+},
+{
+"entry": 186,
+"who": "Hermes Reader",
+"text": "IV. The Cup or Monad",
+"kind": "heading"
+},
+{
+"entry": 187,
+"who": "Hermes Reader",
+"text": "With Reason (Logos), not with hands, did the World-maker make the universal World; so that thou shouldst think of him as everywhere and ever-being, the Author of all things, and One and Only, who by His Will all beings hath created.",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 188,
+"who": "Hermes Reader",
+"text": "This Body of Him is a thing no man can touch, or see, or measure, a body inextensible, like to no other frame.",
+"kind": "narration"
+},
+{
+"entry": 189,
+"who": "Hermes Reader",
+"text": "'Tis neither Fire nor Water, Air nor Breath; yet all of them come from it. Now being Good he willed to consecrate this to Himself alone, and set its Earth in order and adorn it.",
+"kind": "narration"
+},
+{
+"entry": 190,
+"who": "Hermes Reader",
+"text": "So down He sent the Cosmos of this Frame Divine — man, a life that cannot die, and yet a life that dies. And o'er lives and over Cosmos , did man excel by reason of the Reason (Logos) and the Mind. For contemplator of God's works did man become; he marvelled and did strive to know their Author.",
+"kind": "narration"
+},
+{
+"entry": 191,
+"who": "Hermes Reader",
+"text": "Reason (Logos) indeed, O Tat, among all men hath He distributed, but Mind not yet; not that He grudgeth any, for grudging cometh not from Him, but hath its place below, within the souls of men who have no Mind.",
+"kind": "narration"
+},
+{
+"entry": 192,
+"who": "Tat",
+"text": "Why then did God, O father, not on all bestow a share of Mind?",
+"kind": "speech",
+"skip": 1
+},
+{
+"entry": 193,
+"who": "Hermes Reader",
+"text": "H: He willed, my son, to have it set up in the midst for souls, just as it were a prize.",
+"kind": "narration"
+},
+{
+"entry": 194,
+"who": "Hermes Reader",
+"text": "T: And where hath He set it up?",
+"kind": "narration"
+},
+{
+"entry": 195,
+"who": "Hermes Reader",
+"text": "H: He filled a mighty Cup with it, and sent it down, joining a Herald , to whom He gave command to make this proclamation to the hearts of men:",
+"kind": "narration"
+},
+{
+"entry": 196,
+"who": "Hermes Reader",
+"text": "Baptize thyself with this Cup's baptism, what heart can do so, thou that hast faith thou canst ascend to him that hath sent down the Cup, thou that dost know for what thoudidst come into being!",
+"kind": "narration"
+},
+{
+"entry": 197,
+"who": "Hermes Reader",
+"text": "As many then as understood the Herald's tidings and doused themselves in Mind, became partakers in the Gnosis; and when they had \"received the Mind\" they were made \"perfect men\".",
+"kind": "narration"
+},
+{
+"entry": 198,
+"who": "Hermes Reader",
+"text": "But they who do not understand the tidings, these, since they possess the aid of Reason and not Mind, are ignorant wherefor they have come into being and whereby.",
+"kind": "narration"
+},
+{
+"entry": 199,
+"who": "Hermes Reader",
+"text": "The senses of such men are like irrational creatures'; and as their make-up is in their feelings and their impulses, they fail in all appreciation of those things which really are worth contemplation. These center all their thought upon the pleasures of the body and its appetites, in the belief that for its sake man hath come into being.",
+"kind": "narration"
+},
+{
+"entry": 200,
+"who": "Hermes Reader",
+"text": "But they who have received some portion of God's gift, these, Tat, if we judge by their deeds, have from Death's bonds won their release; for they embrace in their own Mind all things, things on the earth, things in the heaven, and things above the heaven — if there be aught. And having raised themselves so far they sight the Good; and having sighted it, they look upon their sojourn here as a mischance; and in disdain of all, both things in body and the bodiless, they speed their way unto that One and Only One.",
+"kind": "narration"
+},
+{
+"entry": 201,
+"who": "Hermes Reader",
+"text": "This is, O Tat, the Gnosis of the Mind, Vision of things Divine; God-knowledge is it, for the Cup is God's.",
+"kind": "narration"
+},
+{
+"entry": 202,
+"who": "Hermes Reader",
+"text": "T: Father, I, too, would be baptized.",
+"kind": "narration"
+},
+{
+"entry": 203,
+"who": "Hermes Reader",
+"text": "H: Unless thou first shall hate thy Body, son, thou canst not love thy Self. But if thou lov'st thy Self thou shalt have Mind, and having Mind thou shalt share in the Gnosis.",
+"kind": "narration"
+},
+{
+"entry": 204,
+"who": "Hermes Reader",
+"text": "T: Father, what dost thou mean?",
+"kind": "narration"
+},
+{
+"entry": 205,
+"who": "Hermes Reader",
+"text": "H: It is not possible, my son, to give thyself to both — I mean to things that perish and to things divine. For seeing that existing things are twain, Body and Bodiless, in which the perishing and the divine are understood, the man who hath the will to choose is left the choice of one or the other; for it can never be the twain should meet. And in those souls to whom the choice is left, the waning of the one causes the other's growth to show itself.",
+"kind": "narration"
+},
+{
+"entry": 206,
+"who": "Hermes Reader",
+"text": "Now the choosing of the Better not only proves a lot most fair for him who makes the choice, seeing it makes the man a God, but also shows his piety to God. Whereas the of the Worse, although it doth destroy the \"man\", it doth only disturb God's harmony to this extent, that as processions pass by in the middle of the way, without being able to do anything but take the road from others, so do such men move in procession through the world led by their bodies' pleasures.",
+"kind": "narration"
+},
+{
+"entry": 207,
+"who": "Hermes Reader",
+"text": "This being so, O Tat, what comes from God hath been and will be ours; but that which is dependent on ourselves, let this press onward and have no delay, for 'tis not God, 'tis we who are the cause of evil things, preferring them to good.",
+"kind": "narration"
+},
+{
+"entry": 208,
+"who": "Hermes Reader",
+"text": "Thou see'st, son, how many are the bodies through which we have to pass, how many are the choirs of daimones, how vast the system of the star-courses , to hasten to the One and Only God.",
+"kind": "narration"
+},
+{
+"entry": 209,
+"who": "Hermes Reader",
+"text": "For to the Good there is no other shore; It hath no bounds; It is without an end; and for Itself It is without beginning, too, though unto us it seemeth to have one — the Gnosis.",
+"kind": "narration"
+},
+{
+"entry": 210,
+"who": "Hermes Reader",
+"text": "Therefore to It Gnosis is no beginning; rather is it to us the first beginning of its being known.",
+"kind": "narration"
+},
+{
+"entry": 211,
+"who": "Hermes Reader",
+"text": "Let us lay hold, therefore, of the beginning. and quickly speed through all .",
+"kind": "narration"
+},
+{
+"entry": 212,
+"who": "Hermes Reader",
+"text": "`Tis very hard, to leave the things we have grown used to, which meet our gaze on every side, and turn ourselves back to the Old Old .",
+"kind": "narration"
+},
+{
+"entry": 213,
+"who": "Hermes Reader",
+"text": "Appearances delight us, whereas things which appear not make their believing hard.",
+"kind": "narration"
+},
+{
+"entry": 214,
+"who": "Hermes Reader",
+"text": "Now evils are the more apparent things, whereas the Good can never show Itself unto the eyes, for It hath neither form nor figure.",
+"kind": "narration"
+},
+{
+"entry": 215,
+"who": "Hermes Reader",
+"text": "Therefore the Good is like Itself alone, and unlike all things else; or `tis impossible that That which hath no body should make Itself apparent to a body.",
+"kind": "narration"
+},
+{
+"entry": 216,
+"who": "Hermes Reader",
+"text": "The \"Like's\" superiority to the \"Unlike\" and the \"Unlike's\" inferiority unto the \"Like\" consists in this:",
+"kind": "narration"
+},
+{
+"entry": 217,
+"who": "Hermes Reader",
+"text": "The Oneness being Source and Root of all, is in all things as Root and Source. Without Source is naught; whereas the Source is from naught but itself, since it is Source of all the rest. It is Itself Its Source, since It may have no other Source.",
+"kind": "narration"
+},
+{
+"entry": 218,
+"who": "Hermes Reader",
+"text": "The Oneness then being Source, containeth every number, but is contained by none; engendereth every number, but is engendered by no other one.",
+"kind": "narration"
+},
+{
+"entry": 219,
+"who": "Hermes Reader",
+"text": "Now all that is engendered is imperfect, it is divisible, to increase subject and to decrease; but with the Perfect none of these things doth hold. Now that which is increasable increases from the Oneness, but succumbs through its own feebleness when it no longer can contain the One.",
+"kind": "narration"
+},
+{
+"entry": 220,
+"who": "Hermes Reader",
+"text": "And now, O Tat, God's Image hath been sketched for thee, as far as it can be; and if thou wilt attentively dwell on it and observe it with thine heart's eyes, believe me, son, thou'lt find the Path that leads above; nay, that Image shall become thy Guide itself, because the Sight hath this peculiar , it holdeth fast and draweth unto it those who succeed in opening their eyes, just as, they say, the magnet iron.",
+"kind": "narration"
+},
+{
+"entry": 221,
+"who": "Hermes Reader",
+"text": "V. Though Unmanifest God Is Most Manifest",
+"kind": "heading"
+},
+{
+"entry": 222,
+"who": "Hermes Reader",
+"text": "I will recount to thee this sermon (logos) too, O Tat, that thou may'st cease to be without the mysteries of the God beyond all name. And mark thou well how that which to the many seems unmanifest, will grow most manifest for thee.",
+"kind": "narration"
+},
+{
+"entry": 223,
+"who": "Hermes Reader",
+"text": "Now were it manifest, it would not be. For all that is made manifest is subject to becoming, for it hath been made manifest. But the Unmanifest for ever is, for It doth not desire to be made manifest. It ever is, and maketh manifest all other things.",
+"kind": "narration"
+},
+{
+"entry": 224,
+"who": "Hermes Reader",
+"text": "Being Himself unmanifest, as ever being and ever making-manifest, Himself is not made manifest. God is not made Himself; by thinking-manifest, He thinketh all things manifest.",
+"kind": "narration"
+},
+{
+"entry": 225,
+"who": "Hermes Reader",
+"text": "Now \"thinking-manifest\" deals with things made alone, for thinking-manifest is nothing else than making.",
+"kind": "narration"
+},
+{
+"entry": 226,
+"who": "Hermes Reader",
+"text": "He, then, alone who is not made, 'tis clear, is both beyond all power of thinking-manifest, and is unmanifest.",
+"kind": "narration"
+},
+{
+"entry": 227,
+"who": "Hermes Reader",
+"text": "And as He thinketh all things manifest, He manifests through all things and in all, and most of all in whatsoever things He wills to manifest.",
+"kind": "narration"
+},
+{
+"entry": 228,
+"who": "Hermes Reader",
+"text": "Do thou, then, Tat, my son, pray first unto our Lord and Father, the One-and-Only One, from whom the One doth come, to show His mercy unto thee, in order that thou mayest have the power to catch a thought of this so mighty God, one single beam of Him to shine into thy thinking. For thought alone \"sees\" the Unmanifest, in that it is itself unmanifest.",
+"kind": "narration"
+},
+{
+"entry": 229,
+"who": "Hermes Reader",
+"text": "If, then, thou hast the power, He will, Tat, manifest to thy mind's eyes. The Lord begrudgeth not Himself to anything, but manifests Himself through the whole world.",
+"kind": "narration"
+},
+{
+"entry": 230,
+"who": "Hermes Reader",
+"text": "Thou hast the power of taking thought, of seeing it and grasping it in thy own \"hands\", and gazing face to face upon God's Image. But if what is within thee even is unmanifest to thee, how, then, shall He Himself who is within thy self be manifest for thee by means of eyes?",
+"kind": "narration"
+},
+{
+"entry": 231,
+"who": "Hermes Reader",
+"text": "But if thou wouldst \"see\" him, bethink thee of the sun, bethink thee of moon's course, bethink thee of the order of the stars. Who is the One who watcheth o'er that order? For every order hath its boundaries marked out by place and number.",
+"kind": "narration"
+},
+{
+"entry": 232,
+"who": "Hermes Reader",
+"text": "The sun's the greatest god of gods in heaven; to whom all of the heavenly gods give place as unto king and master. And he, this so-great one, he greater than the earth and sea, endures to have above him circling smaller stars than him. Out of respect to Whom, or out of fear of Whom, my son, ?",
+"kind": "narration"
+},
+{
+"entry": 233,
+"who": "Hermes Reader",
+"text": "Nor like nor equal is the course each of these stars describes in heaven. Who is He who marketh out the manner of their course and its extent?",
+"kind": "narration"
+},
+{
+"entry": 234,
+"who": "Hermes Reader",
+"text": "The Bear up there that turneth round itself, and carries round the whole cosmos with it — Who is the owner of this instrument? Who He who hath set round the sea its bounds? Who He who hath set on its seat the earth?",
+"kind": "narration"
+},
+{
+"entry": 235,
+"who": "Hermes Reader",
+"text": "For, Tat, there is someone who is the Maker and the Lord of all these things. It cound not be that number, place and measure could be kept without someone to make them. No order whatsoever could be made by that which lacketh place and lacketh measure; nay, even this is not without a lord, my son. For if the orderless lacks something, in that it is not lord of order's path, it also is beneath a lord — the one who hath not yet ordained it order.",
+"kind": "narration"
+},
+{
+"entry": 236,
+"who": "Hermes Reader",
+"text": "Would that it were possible for thee to get thee wings, and soar into the air, and, poised midway 'tween earth and heaven, behold the earth's solidity, the sea's fluidity (the flowings of its streams), the spaciousness of air, fire's swiftness, the coursing of the stars, the swiftness of heaven's circuit round them !",
+"kind": "narration"
+},
+{
+"entry": 237,
+"who": "Hermes Reader",
+"text": "Most blessed sight were it, my son, to see all these beneath one sway — the motionless in motion, and the unmanifest made manifest; whereby is made this order of the cosmos and the cosmos which we see of order.",
+"kind": "narration"
+},
+{
+"entry": 238,
+"who": "Hermes Reader",
+"text": "If thou would'st see Him too through things that suffer death, both on the earth and in the deep, think of a man's being fashioned in the womb, my son, and strictly scrutinize the art of Him who fashions him, and learn who fashioneth this fair and godly image of the Man.",
+"kind": "narration"
+},
+{
+"entry": 239,
+"who": "Hermes Reader",
+"text": "Who is He who traceth out the circles of the eyes; who He who boreth out the nostrils and the ears; who He who openeth the mouth; who He who doth stretch out and tie the nerves; who He who channels out the veins; who He who hardeneth the bones; who He who covereth the flesh with skin; who He who separates the fingers and the joints; who He who widens out a treading for the feet; who He who diggeth out the ducts; who He who spreadeth out the spleen; who he who shapeth heart like to a pyramid; who He who setteth ribs together; who He who wideneth the liver out; who He who maketh lungs like to a sponge; who He who maketh belly stretch so much; who he who doth make prominent the parts most honorable, so that they may be seen, while hiding out of sight those of least honor?",
+"kind": "narration"
+},
+{
+"entry": 240,
+"who": "Hermes Reader",
+"text": "Behold how many arts on one material, how many labors on one single sketch; and all exceeding fair, and all in perfect measure, yet all diversified! Who made them all? What mother, or what sire, save God alone, unmanifest, who hath made all things by His Will?",
+"kind": "narration"
+},
+{
+"entry": 241,
+"who": "Hermes Reader",
+"text": "And no one saith a statue or a picture comes to be without a sculptor or a painter; doth such workmanship as this exist without a Worker? What depth of blindness, what deep impiety, what depth of ignorance! See, thou ne'er, son Tat, deprivest works of Worker!",
+"kind": "narration"
+},
+{
+"entry": 242,
+"who": "Hermes Reader",
+"text": "Nay, rather is He greater than all names, so great is He, the Father of them all. For verily He is the Only One, and this is His work, to be a father.",
+"kind": "narration"
+},
+{
+"entry": 243,
+"who": "Hermes Reader",
+"text": "So, if thou forcest me somewhat too bold, to speak, His being is conceiving of all things and making .",
+"kind": "narration"
+},
+{
+"entry": 244,
+"who": "Hermes Reader",
+"text": "And as without its maker its is impossible that anything should be, so ever is He not unless He ever makes all things, in heaven, in air, in earth, in deep, in all of cosmos, in every part that is and that is not of everything.",
+"kind": "narration"
+},
+{
+"entry": 245,
+"who": "Hermes Reader",
+"text": "For there is naught in all the world that is not He.",
+"kind": "narration"
+},
+{
+"entry": 246,
+"who": "Hermes Reader",
+"text": "He is Himself, both things that are and things that are not. The things that are He hath made manifest, He keepeth things that are not in Himself.",
+"kind": "narration"
+},
+{
+"entry": 247,
+"who": "Hermes Reader",
+"text": "He is the God beyond all name; He the unmanifest, He the most manifest; He whom the mind can contemplate, He visible to the eyes ; He is the one of no body, the one of many bodies, nay, rather He of every body.",
+"kind": "narration"
+},
+{
+"entry": 248,
+"who": "Hermes Reader",
+"text": "Naught is there which he is not. For all are He and He is all. And for this cause hath He all names, in that they are one Father's. And for this cause hath He Himself no nome, in that He's Father of all.",
+"kind": "narration"
+},
+{
+"entry": 249,
+"who": "Hermes Reader",
+"text": "Who, then, may sing Thee praise of Thee, or to Thee?",
+"kind": "narration"
+},
+{
+"entry": 250,
+"who": "Hermes Reader",
+"text": "Whither, again, am I to turn my eyes to sing Thy praise; above, below, within, without?",
+"kind": "narration"
+},
+{
+"entry": 251,
+"who": "Hermes Reader",
+"text": "There is no way, no place about Thee, nor any other thing of things that are.",
+"kind": "narration"
+},
+{
+"entry": 252,
+"who": "Hermes Reader",
+"text": "All in Thee; all from Thee, O Thou who givest all and takest naught, for Thou hast all and naught is there Thou hast not.",
+"kind": "narration"
+},
+{
+"entry": 253,
+"who": "Hermes Reader",
+"text": "And when, O Father, shall I hymn Thee? For none can seize Thy hour or time.",
+"kind": "narration"
+},
+{
+"entry": 254,
+"who": "Hermes Reader",
+"text": "For what, again, shall I sing hymn? For things that Thou hast made, or things Thou hast not? For things Thou hast made manifest, or things Thou hast concealed?",
+"kind": "narration"
+},
+{
+"entry": 255,
+"who": "Hermes Reader",
+"text": "How, further, shall I hymn Thee? As being of myself? As having something of mine own? As being other?",
+"kind": "narration"
+},
+{
+"entry": 256,
+"who": "Hermes Reader",
+"text": "For that Thou art whatever I may be; Thou art whatever I may do; Thou art whatever I may speak.",
+"kind": "narration"
+},
+{
+"entry": 257,
+"who": "Hermes Reader",
+"text": "For Thou art all, and there is nothing else which Thou art not. Thou art all that which doth exist, and Thou art what doth not exist — Mind when Thou thinkest, and Father when Thou makest, and God when Thou dost energize, and Good and Maker of all things.",
+"kind": "narration"
+},
+{
+"entry": 258,
+"who": "Hermes Reader",
+"text": "For that the subtler part of matter is the air, of air the soul, of soul the mind, and of mind God.",
+"kind": "narration"
+},
+{
+"entry": 259,
+"who": "Hermes Reader",
+"text": "VI. In God Alone Is Good And Elsewhere Nowhere",
+"kind": "heading"
+},
+{
+"entry": 260,
+"who": "Hermes Reader",
+"text": "Good, O Asclepius, is in none else save in God alone; nay, rather, Good is God Himself eternally.",
+"kind": "narration"
+},
+{
+"entry": 261,
+"who": "Hermes Reader",
+"text": "If it be so, must be essence, from every kind of motion and becoming free (though naught is free from It), possessed of stable energy around Itself, never too little, nor too much, an ever-full supply. one, yet source of all; for what supplieth all is Good. When I, moreover, say altogether , it is for ever Good. But this belongs to no one else save God alone.",
+"kind": "narration"
+},
+{
+"entry": 262,
+"who": "Hermes Reader",
+"text": "For He stands not in need of any thing, so that desiring it He should be bad; nor can a single thing of things that are be lost to him, on losing which He should be pained; for pain is part of bad.",
+"kind": "narration"
+},
+{
+"entry": 263,
+"who": "Hermes Reader",
+"text": "Nor is there aught superior to Him, that He should be subdued by it; nor any peer to Him to do Him wrong, or He should fall in love on its account; nor aught that gives no ear to Him, whereat He should grow angry; nor wiser aught, for Him to envy.",
+"kind": "narration"
+},
+{
+"entry": 264,
+"who": "Hermes Reader",
+"text": "Now as all these are non-existent in His being, what is there left but Good alone?",
+"kind": "narration"
+},
+{
+"entry": 265,
+"who": "Hermes Reader",
+"text": "For just as naught of bad is to be found in such transcendent Being, so too in no one of the rest will Good be found.",
+"kind": "narration"
+},
+{
+"entry": 266,
+"who": "Hermes Reader",
+"text": "For in them are all of the other things — both in the little and the great, both in each severally and in this living one that's greater than them all and the mightiest .",
+"kind": "narration"
+},
+{
+"entry": 267,
+"who": "Hermes Reader",
+"text": "For things subject to birth abound in passions, birth in itself being passible. But where there's passion, nowhere is there Good; and where is Good, nowhere a single passion. For where is day, nowhere is night; and where is night, day is nowhere.",
+"kind": "narration"
+},
+{
+"entry": 268,
+"who": "Hermes Reader",
+"text": "Wherefore in genesis the Good can never be, but only be in the ingenerate.",
+"kind": "narration"
+},
+{
+"entry": 269,
+"who": "Hermes Reader",
+"text": "But seeing that the sharing in all things hath been bestowed on matter, so doth it share in Good.",
+"kind": "narration"
+},
+{
+"entry": 270,
+"who": "Hermes Reader",
+"text": "In this way is the Cosmos Good; that, in so far as it doth make all things, as far as making goes it's Good, but in all other things it is not Good. For it's both passible and subject unto motion, and maker of things passible.",
+"kind": "narration"
+},
+{
+"entry": 271,
+"who": "Hermes Reader",
+"text": "Whereas in man by greater or less of bad is good determined. For what is not too bad down here, is good, and good down here is the least part of bad.",
+"kind": "narration"
+},
+{
+"entry": 272,
+"who": "Hermes Reader",
+"text": "It cannot, therefore, be that good down here should be quite clean of bad, for down here good is fouled with bad; and being fouled, it stays no longer good, and staying not it changes into bad.",
+"kind": "narration"
+},
+{
+"entry": 273,
+"who": "Hermes Reader",
+"text": "In God alone, is, therefore, Good, or rather Good is God Himself.",
+"kind": "narration"
+},
+{
+"entry": 274,
+"who": "Hermes Reader",
+"text": "So then, Asclepius, the name alone of Good is found in men, the thing itself nowhere , for this can never be.",
+"kind": "narration"
+},
+{
+"entry": 275,
+"who": "Hermes Reader",
+"text": "For no material body doth contain It — a thing bound on all sides by bad, by labors, pains, desires and passions, by error and by foolish thoughts.",
+"kind": "narration"
+},
+{
+"entry": 276,
+"who": "Hermes Reader",
+"text": "And greatest ill of all, Asclepius, is that each of these things that have been said above, is thought down here to be the greatest good.",
+"kind": "narration"
+},
+{
+"entry": 277,
+"who": "Hermes Reader",
+"text": "And what is still an even greater ill, is belly-lust, the error that doth lead the band of all the other ills — the thing that makes us turn down here from Good.",
+"kind": "narration"
+},
+{
+"entry": 278,
+"who": "Hermes Reader",
+"text": "And I, for my part, give thanks to God, that He hath cast it in my mind about the Gnosis of the Good, that it can never be It should be in the world. For that the world is \"fullness\" of the bad, but God of Good, and Good of God.",
+"kind": "narration"
+},
+{
+"entry": 279,
+"who": "Hermes Reader",
+"text": "The excellencies of the Beautiful are round the very essence ; nay, they do seem too pure, too unalloyed; perchance 'tis they that are themselves Its essences.",
+"kind": "narration"
+},
+{
+"entry": 280,
+"who": "Hermes Reader",
+"text": "For one may dare to say, Asclepius — if essence, sooth, He have — God's essence is the Beautiful; the Beautiful is further also Good.",
+"kind": "narration"
+},
+{
+"entry": 281,
+"who": "Hermes Reader",
+"text": "There is no Good that can be got from objects in the world. For all the things that fall beneath the eye are image-things and pictures as it were; while those that do not meet , especially the of the Beautiful and Good.",
+"kind": "narration"
+},
+{
+"entry": 282,
+"who": "Hermes Reader",
+"text": "Just as the eye cannot see God, so can it not behold the Beautiful and Good. For that they are integral parts of God, wedded to Him alone, inseparate familiars, most beloved, with whom God is Himself in love, or they with God.",
+"kind": "narration"
+},
+{
+"entry": 283,
+"who": "Hermes Reader",
+"text": "If thou canst God conceive, thou shalt conceive the Beautiful and Good, transcending Light, made lighter than the Light by God. That Beauty is beyond compare, inimitate that Good, e'en as God is Himself.",
+"kind": "narration"
+},
+{
+"entry": 284,
+"who": "Hermes Reader",
+"text": "As, then, thou dost conceive of God, conceive the Beautiful and Good. For they cannot be joined with aught of other things that live, since they can never be divorced from God.",
+"kind": "narration"
+},
+{
+"entry": 285,
+"who": "Hermes Reader",
+"text": "Seek'st thou for God, thou seekest for the Beautiful. One is the Path that leadeth unto It — Devotion joined with Gnosis.",
+"kind": "narration"
+},
+{
+"entry": 286,
+"who": "Hermes Reader",
+"text": "And thus it is that they who do not know and do not tread Devotion's Path, do dare to call man beautiful and good, though he have ne'er e'en in his visions seen a whit that's Good, but is enveloped with every kind of bad, and thinks the bad is good, and thus doth make unceasing use of it, and even feareth that it should be ta'en from him, so straining every nerve not only to preserve but even to increase it.",
+"kind": "narration"
+},
+{
+"entry": 287,
+"who": "Hermes Reader",
+"text": "Such are the things that men call good and beautiful, Asclepius — things which we cannot flee or hate; for hardest thing of all is that we've need of them and cannot live without them.",
+"kind": "narration"
+},
+{
+"entry": 288,
+"who": "Hermes Reader",
+"text": "VII. The Greatest Ill Among Men is Ignorance of God",
+"kind": "heading"
+},
+{
+"entry": 289,
+"who": "Hermes Reader",
+"text": "Whither stumble ye, sots, who have sopped up the wine of ignorance and can so far not carry it that ye already even spew it forth?",
+"kind": "narration"
+},
+{
+"entry": 290,
+"who": "Hermes Reader",
+"text": "Stay ye, be sober, gaze upwards with the eyes of the heart! And if ye cannot all, yet ye at least who can!",
+"kind": "narration"
+},
+{
+"entry": 291,
+"who": "Hermes Reader",
+"text": "For that the ill of ignorance doth pour o`er all the earth and overwhelm the soul that's battened down within the body, preventing it from fetching port within Salvation's harbors.",
+"kind": "narration"
+},
+{
+"entry": 292,
+"who": "Hermes Reader",
+"text": "Be ye then not carried off by the fierce flood, but using the shore-current ye who can, make for Salvation's port, and, harboring there, seek ye for one to take you by the hand and lead you unto Gnosis' gates.",
+"kind": "narration"
+},
+{
+"entry": 293,
+"who": "Hermes Reader",
+"text": "Where shines clear Light, of every darkness clean; where not a single soul is drunk, but sober all they gaze with their hearts' eyes on Him who willeth to be seen.",
+"kind": "narration"
+},
+{
+"entry": 294,
+"who": "Hermes Reader",
+"text": "No ear can hear Him, nor can eye see Him, nor tongue speak of Him, but mind and heart.",
+"kind": "narration"
+},
+{
+"entry": 295,
+"who": "Hermes Reader",
+"text": "But first thou must tear off from thee the cloak which thou dost wear — the web of ignorance, the ground of bad, corruption's chain, the carapace of darkness, the living death, sensation's corpse, the tomb thou carriest with thee, the robber in thy house, who through the things he loveth, hateth thee, and through the things he hateth, bears thee malice.",
+"kind": "narration"
+},
+{
+"entry": 296,
+"who": "Hermes Reader",
+"text": "Such is the hateful cloak thou wearest — that throttles thee down to it, in order that thou may'st not gaze above, and having seen the Beauty of the Truth, and Good that dwells therein, detest the bad of it; having found out the plot that it hath schemed against thee, by making void of sense those seeming things which men think senses.",
+"kind": "narration"
+},
+{
+"entry": 297,
+"who": "Hermes Reader",
+"text": "For that it hath with mass of matter blocked them up and crammed them full of loathsome lust, so that thou may'st not hear about the things that thou should'st hear, nor see the things thou should'st see.",
+"kind": "narration"
+}
+]
+}
+]
+}

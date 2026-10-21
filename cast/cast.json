@@ -1034,6 +1034,72 @@
     "pitch": 0,
     "text": "I have ever been a lover of the Sun, and from childhood a longing for his rays sank deep into my soul, so that I gazed upon him when I was still a boy."
    }
+  },
+  "Hermes Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_hermes",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_daniel",
+      0.4
+     ],
+     [
+      "bm_fable",
+      0.3
+     ],
+     [
+      "bm_lewis",
+      0.3
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -2,
+    "text": "Then Hermes said: hear, my son, the word concerning God, for the Mind that is in thee is of the same nature as the Light, and from the Light it came."
+   }
+  },
+  "Tat": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_puck",
+     1.0
+    ]
+   ],
+   "accent": "us",
+   "pitch": 1
+  },
+  "Hermetic Asclepius": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_onyx",
+     1.0
+    ]
+   ],
+   "accent": "us"
+  },
+  "Mind": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "bm_lewis",
+     1.0
+    ]
+   ],
+   "accent": "gb",
+   "pitch": -2
+  },
+  "Ammon": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_fenrir",
+     1.0
+    ]
+   ],
+   "accent": "us"
   }
  }
 }

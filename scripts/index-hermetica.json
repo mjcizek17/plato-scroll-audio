@@ -1,0 +1,20 @@
+[
+ {
+  "key": "hermes-corpus-1",
+  "title": "The Corpus Hermeticum (I–VII)",
+  "parts": 2,
+  "chars": 49146,
+  "speakers": [
+   "Hermes Reader"
+  ]
+ },
+ {
+  "key": "hermes-corpus-2",
+  "title": "The Corpus Hermeticum (VIII–XIII)",
+  "parts": 3,
+  "chars": 67907,
+  "speakers": [
+   "Hermes Reader"
+  ]
+ }
+]
