@@ -1,0 +1,353 @@
+[
+ {
+  "key": "plut-lives-1",
+  "title": "Parallel Lives, Volume I",
+  "parts": 10,
+  "chars": 755754,
+  "speakers": [
+   "Plutarch Reader"
+  ]
+ },
+ {
+  "key": "plut-lives-2",
+  "title": "Parallel Lives, Volume II",
+  "parts": 10,
+  "chars": 757150,
+  "speakers": [
+   "Plutarch Reader"
+  ]
+ },
+ {
+  "key": "plut-lives-3",
+  "title": "Parallel Lives, Volume III",
+  "parts": 10,
+  "chars": 842403,
+  "speakers": [
+   "Plutarch Reader"
+  ]
+ },
+ {
+  "key": "plut-lives-4",
+  "title": "Parallel Lives, Volume IV",
+  "parts": 11,
+  "chars": 1000077,
+  "speakers": [
+   "Plutarch Reader"
+  ]
+ },
+ {
+  "key": "plut-lives-5",
+  "title": "Parallel Lives, Volume V",
+  "parts": 10,
+  "chars": 899058,
+  "speakers": [
+   "Plutarch Reader"
+  ]
+ },
+ {
+  "key": "plut-moralia-1",
+  "title": "Moralia, Part I (Books I–II)",
+  "parts": 12,
+  "chars": 687631,
+  "speakers": [
+   "Plutarch Reader"
+  ]
+ },
+ {
+  "key": "porph-lifeplotinus",
+  "title": "Life of Plotinus",
+  "parts": 1,
+  "chars": 48142,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "porph-lifepyth",
+  "title": "Life of Pythagoras",
+  "parts": 1,
+  "chars": 39773,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "porph-isagoge",
+  "title": "Isagoge (Introduction)",
+  "parts": 2,
+  "chars": 43266,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "porph-faculties",
+  "title": "On the Faculties of the Soul",
+  "parts": 1,
+  "chars": 11159,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "porph-christians",
+  "title": "Against the Christians",
+  "parts": 4,
+  "chars": 124139,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "porph-cave",
+  "title": "On the Cave of the Nymphs",
+  "parts": 1,
+  "chars": 42723,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "porph-abstinence",
+  "title": "On Abstinence from Animal Food",
+  "parts": 4,
+  "chars": 312805,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "porph-sentences",
+  "title": "Aids to the Study of the Intelligibles",
+  "parts": 3,
+  "chars": 68405,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "porph-marcella",
+  "title": "Letter to Marcella",
+  "parts": 1,
+  "chars": 34552,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "porph-anebo",
+  "title": "Letter to the Egyptian Anebo",
+  "parts": 1,
+  "chars": 18398,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-alcibiades",
+  "title": "Commentary on the First Alcibiades",
+  "parts": 1,
+  "chars": 92845,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-homer",
+  "title": "An Apology for the Fables of Homer",
+  "parts": 6,
+  "chars": 142493,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-euclid",
+  "title": "Commentary on Euclid's Elements, Book I",
+  "parts": 6,
+  "chars": 143929,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-physics",
+  "title": "Elements of Physics",
+  "parts": 1,
+  "chars": 5050,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-eltheo",
+  "title": "Elements of Theology",
+  "parts": 11,
+  "chars": 268277,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-tendoubts",
+  "title": "Ten Doubts Concerning Providence",
+  "parts": 1,
+  "chars": 98933,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-evils",
+  "title": "On the Existence of Evils",
+  "parts": 1,
+  "chars": 131758,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-fate",
+  "title": "On Providence and Fate",
+  "parts": 1,
+  "chars": 91998,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-hymns",
+  "title": "Hymns",
+  "parts": 1,
+  "chars": 14111,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-fragments",
+  "title": "Fragments",
+  "parts": 3,
+  "chars": 131864,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "proclus-marinus",
+  "title": "The Life of Proclus, by Marinus",
+  "parts": 2,
+  "chars": 79502,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "dam-principles",
+  "title": "Problems & Solutions Concerning the First Principles",
+  "parts": 31,
+  "chars": 800534,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "simplicius-enchiridion",
+  "title": "Commentary on the Enchiridion of Epictetus",
+  "parts": 11,
+  "chars": 741351,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "olymp-alc1",
+  "title": "Commentary on the First Alcibiades",
+  "parts": 14,
+  "chars": 414001,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "olymp-life-plato",
+  "title": "Life of Plato",
+  "parts": 1,
+  "chars": 13483,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "hierocles-golden-verses",
+  "title": "Commentary on the Golden Verses",
+  "parts": 4,
+  "chars": 199996,
+  "speakers": [
+   "Platonist Reader"
+  ]
+ },
+ {
+  "key": "alcinous-handbook",
+  "title": "The Handbook of Platonism",
+  "parts": 5,
+  "chars": 107020,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "numenius-fragments",
+  "title": "The Extant Fragments",
+  "parts": 2,
+  "chars": 76993,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "maximus-dissertations",
+  "title": "The Dissertations",
+  "parts": 19,
+  "chars": 528413,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "apuleius-on-plato",
+  "title": "On Plato and His Doctrine",
+  "parts": 3,
+  "chars": 123863,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "apuleius-god-of-socrates",
+  "title": "On the God of Socrates",
+  "parts": 1,
+  "chars": 44728,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "plethon-chaldean-oracles",
+  "title": "Exposition of the Chaldean Oracles",
+  "parts": 1,
+  "chars": 18474,
+  "speakers": [
+   "Narrator"
+  ]
+ },
+ {
+  "key": "plethon-hymns",
+  "title": "Hymns",
+  "parts": 1,
+  "chars": 14909,
+  "speakers": [
+   "Narrator"
+  ]
+ }
+]

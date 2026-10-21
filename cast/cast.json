@@ -1160,6 +1160,46 @@
     "pitch": 1,
     "text": "Arms, and the man I sing, who, forced by fate, and haughty Juno's unrelenting hate, expelled and exiled, left the Trojan shore."
    }
+  },
+  "Plutarch Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_plutarch",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "am_adam",
+      0.5
+     ],
+     [
+      "am_echo",
+      0.5
+     ]
+    ],
+    "accent": "us",
+    "pitch": -1,
+    "text": "It is not histories I am writing, but lives; and in the most glorious deeds there is not always an indication of virtue or vice."
+   }
+  },
+  "Platonist Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_platonist",
+   "exaggeration": 0.4,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_lewis",
+      0.6
+     ],
+     [
+      "bm_george",
+      0.4
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -1,
+    "text": "The one is the cause of all things, and every multitude participates in some way of the one; for that which is entirely deprived of the one is nothing."
+   }
   }
  }
 }

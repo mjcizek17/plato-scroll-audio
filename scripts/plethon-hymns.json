@@ -1,0 +1,350 @@
+{
+"key": "plethon-hymns",
+"title": "Hymns",
+"author": "Plethon",
+"translator": "Claude Fable 5.1 (Anthropic), from the Greek of the Alexandre edition of 1858",
+"parts": [
+{
+"name": "Hymns",
+"lines": [
+{
+"entry": 0,
+"who": "Narrator",
+"text": "Hymns",
+"kind": "heading"
+},
+{
+"entry": 0,
+"who": "Narrator",
+"text": "Plethon's twenty-seven hymns to the gods, from chapter 35 of Book III of his Book of Laws, in the Greek text of C. Alexandre's edition (Paris, 1858, pp. 202–228). They are the perennial, monthly, sacred and daily hymns of his restored Hellenic worship, addressed to Zeus, to Poseidon and Hera, to the Olympians, to the Titans and daemons, and closing with daily prayers and beatitudes on the virtuous life. This translation is made directly from the Greek, line for line, nine lines to each hymn. Public domain.",
+"kind": "narration"
+},
+{
+"entry": 1,
+"who": "Narrator",
+"text": "I — Perennial Hymn to Zeus",
+"kind": "heading"
+},
+{
+"entry": 2,
+"who": "Narrator",
+"text": "Father Zeus, father of yourself, eldest creator, king and begetter of all, highest of all, surpassing all, all-powerful, being itself, the One itself, and the Good itself; you who, out of infinite eternity, all these things together, the greater ones yourself, and the rest through them, begot, of such kinds and to such a degree as was best possible: be gracious, save us, leading us too along with the wholes through your ever-glorious children, to whom you entrusted what concerns us also, as indeed it had to be, by your decree.",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Narrator",
+"text": "II — Perennial Hymn to the Gods",
+"kind": "heading"
+},
+{
+"entry": 4,
+"who": "Narrator",
+"text": "Of Zeus, who is being itself and begetter of all, you glorious children and lieutenants, who guide us with justice: may we never cease to hold you as our leaders, nor cease to use the right laws that are dear to you, as far as we are able, which alone set us well in order. But, O gods, steering the charioteer intellect within us, which you set in us as akin to yourselves, grant that in every other way too we lead our life well, and grant that, together with you, we hymn Zeus last of all.",
+"kind": "narration"
+},
+{
+"entry": 5,
+"who": "Narrator",
+"text": "III — First Monthly Hymn to Zeus",
+"kind": "heading"
+},
+{
+"entry": 6,
+"who": "Narrator",
+"text": "Great Zeus, truly Janus, father of yourself, and forefather of all things, of all those to which being and becoming belong, who have made none of them on a sudden, but for as long as you yourself have been, for so long have been making these things likewise, never being idle, nor ever doing good at anything less than your own power, as indeed you must, being yourself the very thing that is Good. Hail, O Zeus, all-ruling, most kingly! Hail, O supremely blessed! Hail, unstinting giver of good things!",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Narrator",
+"text": "IV — Second Monthly Hymn to Poseidon",
+"kind": "heading"
+},
+{
+"entry": 8,
+"who": "Narrator",
+"text": "O great lord, firstborn son of Zeus, Poseidon, surpassing in splendour and in strength the whole of this generation, all that comes from Zeus, which, mightily to rule and to govern, you received as second from your father, who in turn surpasses all things by an infinite measure, since he alone of all beings is wholly ungenerated. To you indeed it fell to make this wide heaven, at your father's command, in which we too have been born to you; to these be always gentle and gracious, O father.",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Narrator",
+"text": "V — Third Monthly Hymn to Hera",
+"kind": "heading"
+},
+{
+"entry": 10,
+"who": "Narrator",
+"text": "Hera, venerable goddess, daughter of great Zeus, whose husband is Poseidon, who is the very thing that is Beautiful; mother of the gods within the heaven, and producer of matter, the seat for the forms here below, and giver of all power whatsoever, both of every other power and of that which leads to virtue and to all splendour; you who bring laws together, from which, for all the wholes, multitude and eternity alike have come to be: you to us too grant to live well, graciously leading us on to virtue.",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Narrator",
+"text": "VI — Fourth Monthly Hymn to the Olympian Gods",
+"kind": "heading"
+},
+{
+"entry": 12,
+"who": "Narrator",
+"text": "Lord Poseidon, best child of great Zeus, who from your father lead the whole of this generation; and you, Hera, his pure wife, and noble queen as well; and Apollo and Artemis, and Hephaestus, and Dionysus, and Athena: you seven gods who are the mightier than all the others, after the surpassing ruler on high; and you others who dwell on Olympus, who of the immortals here below are the fathers, and of us among them, may you be gracious to us and kindly.",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Narrator",
+"text": "VII — Fifth Monthly Hymn to Apollo",
+"kind": "heading"
+},
+{
+"entry": 14,
+"who": "Narrator",
+"text": "Lord Apollo, of the nature of the Same in each thing the guardian and leader, you who bring things one to another into one, and indeed the whole itself, many-parted though it is and many-stringed, set under a single harmony; you, out of concord, give to souls wisdom and justice, which are the finest of good things, and health to bodies, and beauty too to these; you then give always the desire for divine beauties, O lord, to our souls. Hail, Paean!",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Narrator",
+"text": "VIII — Sixth Monthly Hymn to Artemis",
+"kind": "heading"
+},
+{
+"entry": 16,
+"who": "Narrator",
+"text": "Lady Artemis, you who lead the nature of the Other and preside over it; for having received the whole as one, you then divide it, this way and that, down to the last, into many forms, and into individuals from the forms, and from wholes in turn into parts and limbs; and to souls, from their separation from what is worse, you give courage and temperance, and in turn strength and soundness to bodies. But, O lady, escape from shameful things at every turn grant us, and set upright our life of many falls.",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Narrator",
+"text": "IX — Seventh Monthly Hymn to the Heavenly Gods",
+"kind": "heading"
+},
+{
+"entry": 18,
+"who": "Narrator",
+"text": "O Helios, lord of this heaven, be gracious; gracious be you too, Selene, holy lady; and Phosphorus, and Stilbon, you two splendid ever-attendants of Helios; and you, O Phaenon and Phaethon and Pyroeis, who all are lieutenants of lord Helios, and in what concerns providence over us work together with him, wherever there is need; we too do hymn you, the glorious guardians of us, and with you the other stars, sent forth by divine foreknowledge.",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Narrator",
+"text": "X — Eighth Monthly Hymn to Athena",
+"kind": "heading"
+},
+{
+"entry": 20,
+"who": "Narrator",
+"text": "Lady Athena, you who, of form nowhere separable from matter, are guardian and leader, yourself being its creator, after the wide-ruling Poseidon, who holds all form prior to you; and you who of all motion that comes about by impulse are the cause, and whatever superfluous things might accrue you yourself thrust out from each thing; and from us too, whenever something discordant draws near us in our folly, O goddess, thrust it away, rousing our spirit with intellect toward what is needful.",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Narrator",
+"text": "XI — Ninth Monthly Hymn to Dionysus",
+"kind": "heading"
+},
+{
+"entry": 22,
+"who": "Narrator",
+"text": "Father Dionysus, begetter of all rational souls, as many as are heavenly, and as many as are daemonic, and as many as are ours, after lord Poseidon; you who of motion drawn by love of the good, and of the ascent toward the better, are the cause: grant to us too, when we fall short of good and more divine action at any time, through foolish judgment, to be led back up to it quickly, with intellect again, and not to be left to play the fool for long concerning good things.",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Narrator",
+"text": "XII — Tenth Monthly Hymn to the Titans",
+"kind": "heading"
+},
+{
+"entry": 24,
+"who": "Narrator",
+"text": "The creator of the whole of mortal nature, come, let us hymn: lord Cronus, son of Zeus, the eldest of all the other illegitimate children of Zeus, the Tartarean Titans, whom too, together with him, let us hymn, all noble, and free of dooms, though they are begetters of mortal and doom-bound things: Aphrodite, the holy wife of this same Cronus, and Pan, ruler of beasts, and Demeter of plants, and Kore of our mortal part, and all the others.",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Narrator",
+"text": "XIII — Eleventh Monthly Hymn to Hephaestus",
+"kind": "heading"
+},
+{
+"entry": 26,
+"who": "Narrator",
+"text": "Lord Hephaestus, you who of the gods beyond the heaven, both the Olympians and the Tartareans together, are leader and guardian, after wide-ruling Poseidon, and allot to them a region and a seat to each; you who of rest in the Same are the cause for the whole and for each thing, to which you furnish eternity yourself, or Poseidon, through the counsels of his father; guard us too, granting that for a very long while, in fine actions as they come about, we abide at every turn.",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Narrator",
+"text": "XIV — Twelfth Monthly Hymn to the Daemons",
+"kind": "heading"
+},
+{
+"entry": 28,
+"who": "Narrator",
+"text": "With the other immortals let us also hymn those nearest to us, these pure daemons, who, serving the other, more divine gods in what concerns us very well, give us many things, all of them noble, which all make their way to them from Zeus himself, descending through the other gods; and from there they save us too, some purifying, some leading upward, and others keeping guard, setting our intellect upright with great ease; so be gracious.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Narrator",
+"text": "XV — Thirteenth Monthly Hymn to All the Gods",
+"kind": "heading"
+},
+{
+"entry": 30,
+"who": "Narrator",
+"text": "Zeus most high, who are surpassing before all the gods, being the eldest creator and begetter of all; and you, O all you gods, as many as are Olympian, as many as are Tartarean, and heavenly, and earthly: grant, if there be some grievous fault, and reckless deeds, that we, having been purified of them, draw near to you, the blameless, so that life may become blessed for us too; and you, O Zeus, above all, you who are the most sovereign of all, being yourself both the very first good and, together, the last.",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Narrator",
+"text": "XVI — First Sacred Hymn to Zeus",
+"kind": "heading"
+},
+{
+"entry": 32,
+"who": "Narrator",
+"text": "Zeus, alone wholly ungenerated and being of yourself, begetter of all and ruler of all, who, keeping all things hidden in yourself as one, and nothing apart, from yourself each thing send forth separately, and thus a work both one and whole bring to completion, wholly full and most beautiful, so far as was possible, being one and wholly free of envy: but, O Zeus, you lead us too, through your glorious children, together with the whole, steering us as you have determined; and grant us to begin our undertakings well, and to bring our works to completion.",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Narrator",
+"text": "XVII — Second Sacred Hymn to the Olympian Gods",
+"kind": "heading"
+},
+{
+"entry": 34,
+"who": "Narrator",
+"text": "Come, let us hymn lord Poseidon, who is the eldest of all the children of Zeus and the mightiest, the second ruler, after his father, of this whole generation, and our immediate creator; and with him queen Hera, who in turn was born the eldest of goddesses to Zeus her father; and besides let us hymn the others too, as many as on Olympus are gods, who of the immortals here below are all the guardians and co-causes; so be gracious to us.",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Narrator",
+"text": "XVIII — Third Sacred Hymn to All the Gods",
+"kind": "heading"
+},
+{
+"entry": 36,
+"who": "Narrator",
+"text": "O all you gods, who after Zeus, the supremely good, are yourselves also wholly blameless and free of dooms, of whom Poseidon is the chief and, from Zeus, the ruler; both you who are beyond the heaven and you who are within the heaven, all glorious: you we hymn, we who ourselves too have a nature akin to yours, though we are the last of all. Hail, you who are yourselves blessed, and givers of good things; but us too, whose life is not always free of care, by allotting us in turn fine and noble things, set upright forever.",
+"kind": "narration"
+},
+{
+"entry": 37,
+"who": "Narrator",
+"text": "XIX — Fourth Sacred Hymn to All the Gods after the Olympians",
+"kind": "heading"
+},
+{
+"entry": 38,
+"who": "Narrator",
+"text": "O lord Cronus, who over the Titans beyond the heaven, even these, rule; and you who in turn lead this heaven, Helios, the whole of it, whom the other planets follow: from you two the whole generation of mortals has sprung, from both of you, from Cronus and from Helios; and the Titans and the planets, your lieutenants, are your fellow-workers, each in a different task; but you too we hymn, since we have many noble things through you as well; and with you the fixed stars also, and the pure daemons.",
+"kind": "narration"
+},
+{
+"entry": 39,
+"who": "Narrator",
+"text": "XX — Fifth Sacred Hymn to Pluto",
+"kind": "heading"
+},
+{
+"entry": 40,
+"who": "Narrator",
+"text": "O lord Pluto, of human nature the origin and guardian, having been allotted this from Zeus himself, holding all as one that in us comes to be separately and is present within us, govern us well both altogether here, and in turn leading us ever upward from here; around whom are the heroes, the nature that surpasses ours, and our other friends, the fine and good; and with whom Kore, the noble goddess of Tartarus, dwells, binding the mortal part to us for as long as is needful; be gracious.",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Narrator",
+"text": "XXI — Sixth Sacred Hymn to Zeus",
+"kind": "heading"
+},
+{
+"entry": 42,
+"who": "Narrator",
+"text": "Father Zeus, mighty in works, great in strength, origin of good things, begetter of all; by your intellect, since you are supremely good, not even we, of the fine things that are in the gods, were born without a share; but, by the necessity that comes from the mortal part, we are at once liable to err, and yet ever able to be set right. Grant then to us, now too, from the badness of our errors being released, through your children, to whom you entrusted these things, to draw near to the pure ones who keep an upright intellect, so that at every turn we may consort with you, gentle and gracious.",
+"kind": "narration"
+},
+{
+"entry": 43,
+"who": "Narrator",
+"text": "XXII — First Daily Hymn (Second Day)",
+"kind": "heading"
+},
+{
+"entry": 44,
+"who": "Narrator",
+"text": "May I never cease, O blessed gods, from knowing gratitude to you for the good things which, through you, are all mine and have always come to be, of which Zeus is the highest giver. May I never neglect the common good of the kind that is my own, so far as I have any power; but gladly, doing the common good well, may I know this at the same time as my own great benefit. May I never, to whomever I may meet at any time, become a cause of evil among men, but of good, as far as I am able, so that, made like to you, I too may become blessed.",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Narrator",
+"text": "XXIII — Second Daily Hymn (Third Day)",
+"kind": "heading"
+},
+{
+"entry": 46,
+"who": "Narrator",
+"text": "May I never, O gods, have disorder in sweet pleasures, but approve a limit to them, so that no badness may accrue to soul or to body from them. May I never be insatiable about money; but a measure may I make of these things too, such that the body's need may be orderly, so that I may glory in self-sufficiency. May I never be overcome by empty, wheedling opinion, recognizing this alone as its useful part: whatever may lead to divine and true virtue.",
+"kind": "narration"
+},
+{
+"entry": 47,
+"who": "Narrator",
+"text": "XXIV — Third Daily Hymn (Fourth Day)",
+"kind": "heading"
+},
+{
+"entry": 48,
+"who": "Narrator",
+"text": "May fortunes never cast me down, O gods, when they strike down at any time my mortal part, since I know that immortal is my soul, and separable from the mortal, and divine. May none of the harsh things that befall from men, of these, trouble me at all, as I practise freedom, and am not, through some base notion, a slave to my needs. May I never, when for the sake of the fine it has fallen to me to act, spare my mortal part; but that, being immortal, my soul may be in the best state, may that always be my care.",
+"kind": "narration"
+},
+{
+"entry": 49,
+"who": "Narrator",
+"text": "XXV — Fourth Daily Hymn (Fifth Day)",
+"kind": "heading"
+},
+{
+"entry": 50,
+"who": "Narrator",
+"text": "Blessed is he who has a care for his immortal soul always, that it may become as fine as possible, and for the mortal part is not greatly concerned, but, if need be, even spares it not. Blessed is he who, to those mortals who strike at him in their ignorance, never enslaves himself; but, keeping his soul untroubled, rises himself above their badness. Blessed is he who, at the fortunes sent from the daemons, does not himself grieve in soul at the bitterer ones, but bears them easily, setting the good in his own immortal part alone.",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Narrator",
+"text": "XXVI — Fifth Daily Hymn (Sixth Day)",
+"kind": "heading"
+},
+{
+"entry": 52,
+"who": "Narrator",
+"text": "Blessed is he who, to the empty opinions of mortals paying no foolish heed, but to himself, thinking rightly, with upright judgment practises divine virtue. Blessed is he who does not an endless multitude of possessions pursue forever, rashly and at random, but by the needs of the body, the fitting ones, sets the measure of them. Blessed is he who holds a due boundary of enjoyment, by which he draws no badness upon his soul nor upon his body, but lives in accord with divine virtue.",
+"kind": "narration"
+},
+{
+"entry": 53,
+"who": "Narrator",
+"text": "XXVII — Sixth Daily Hymn (Seventh Day)",
+"kind": "heading"
+},
+{
+"entry": 54,
+"who": "Narrator",
+"text": "Blessed is he who, not grasping for private advantage himself, works no evils for men through dreadful folly, but noble things always, like to the blessed gods themselves. Blessed is he who does not neglect the common good of his own kind; but rather, knowing that to the gods also the common good is a care, does not himself betray it. Blessed is he who to the gods, for the good things, whatever may be his, knows gratitude, and before all to Zeus himself, from whom first fine and noble things go forth to all.",
+"kind": "narration"
+}
+]
+}
+],
+"credit": "translated by Claude, edited by Mitchell J. Cizek"
+}

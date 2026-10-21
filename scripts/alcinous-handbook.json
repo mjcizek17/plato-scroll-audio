@@ -1,0 +1,921 @@
+{
+"key": "alcinous-handbook",
+"title": "The Handbook of Platonism",
+"author": "Alcinous",
+"translator": "George Burges",
+"parts": [
+{
+"name": "The Handbook of Platonism",
+"lines": [
+{
+"entry": 0,
+"who": "Narrator",
+"text": "The Handbook of Platonism",
+"kind": "heading"
+},
+{
+"entry": 0,
+"who": "Narrator",
+"text": "The single most important surviving handbook of Middle Platonism — a complete, systematic summary of Platonic doctrine as it was taught in the second century AD, arranged under logic (the “dialectic”), physics, and ethics. Long ascribed to the Platonist Albinus but transmitted under the name Alcinous, it was regarded from Byzantine times through the Renaissance as the ideal introduction to Plato. In thirty-four chapters it covers the philosophic life, the parts and instruments of dialectic, matter, the Ideas, the first god and his intellect, the making of the world and of man, the senses, the soul and its immortality, fate and free will, the good, the virtues, love, the forms of polity, and the sophist. This is George Burges’s translation from Bohn’s Works of Plato, vol. VI (1865); his notes are omitted. Public domain.",
+"kind": "narration"
+},
+{
+"entry": 1,
+"who": "Narrator",
+"text": "1. What Philosophy is, and what the person ought to be naturally, who is about to be a Philosopher",
+"kind": "heading"
+},
+{
+"entry": 2,
+"who": "Narrator",
+"text": "The teaching of the peculiar opinions of Plato would be something of this kind. Philosophy is a longing after wisdom, or a release or withdrawal of the soul from the body, while we are turning ourselves to what is perceived by mind, and to things that exist truly. Now Wisdom is the knowledge of things divine and human; and the person called a philosopher is so named from it, as a musician is from music. Now it is necessary for such a person to be naturally disposed, in the first place, towards those kinds of learning, that possess the power to fit him for, and lead him to, the knowledge of the existence, perceived by mind, and not of that, which wanders about, and is in a state of flowing. Next, he must have a love for truth, and by no means admit a falsehood. Moreover, he must be naturally temperate, and, as regards the portion of the soul, subject to being affected by circumstances, naturally subdued. For he, who is eager after instruction relating to things existing, and who turns to these his longing, will look upon pleasures with little admiration. It is requisite too for him, who is about to be a philosopher, to be mentally free.",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Narrator",
+"text": "For all little considerations are opposed to the soul, that is about to contemplate subjects pertaining to god and man. And towards justice likewise it is requisite for him to be naturally disposed, as it is towards truth and freedom (in thought) and temperance; and there ought to be in addition an aptitude to learn, and a (good) memory. For these things form the species of a philosopher. Since these naturally good qualities, when they meet with a proper education and fitting aliment, render a person perfect for virtue; but when they are neglected, they become the cause of great mischief. And these Plato was accustomed to call by names similar to the virtues, temperance, and fortitude, and justice.",
+"kind": "narration"
+},
+{
+"entry": 4,
+"who": "Narrator",
+"text": "2. That as Contemplation takes the lead, Action is necessary and follows",
+"kind": "heading"
+},
+{
+"entry": 5,
+"who": "Narrator",
+"text": "Since life is twofold, Contemplative and Active, of the former the chief point lies in the knowledge of truth; but of the latter, in doing what is suggested by reason. The Contemplative life then is the one held in honour, but the Active that which follows and is necessary. That such is the case will be clear from hence. Contemplation is an operation of the mind, while it is thinking upon what is perceptible by mind; but Action is an operation of the rational soul, perfected by means of the body. The soul then, when contemplating the deity and the thoughts of the deity, is said to be in a good state; and this state goes by the name of intelligence; which a person would say is nothing else than an assimilation with the deity; and hence such would take the lead, and be held in honour, and be prayed for the most, and be the most appropriate (for man); nor is it to be hindered, and is placed in our power; and it is the cause of the end laid down for us. But Action and the Active, performed through the body, can be hindered or may be carried on, when the things, which are seen during a contemplative life, require a person to apply them to the moral conduct of man.",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Narrator",
+"text": "For he, who is intent upon his duty, will come to public affairs, when he sees them improperly administered by some persons, through his considering that to act as a general, and a judge, and an ambassador, are things of circumstances, but that the best in action, and as taking the lead in it, is that relating to legislation, and statesmanship, and the regulation and instruction of young persons. It is proper then, from what has been said, for the philosopher to be never deficient in Contemplation, but to feed it ever and to increase it, as being near to his proceeding on to a life of Action.",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Narrator",
+"text": "3. That the study of the philosopher rests, according to Plato, on three points; on viewing things that exist; on doing what is correct; and on the art of reasoning",
+"kind": "heading"
+},
+{
+"entry": 8,
+"who": "Narrator",
+"text": "The study of the philosopher seems to rest, according to Plato, on three points; on the view and perception of things that exist; on doing what is correct; and on the theory itself of reasoning. The perception of things that exist is Contemplative; but Practical (science) is concerned about things to be done; and Dialectical about reasoning. Now this last is subdivided into the Distributive, and the Definitive, and the Inductive, and the Syllogistic; and this last into the Demonstrative, which is concerned about the syllogism, which exists of necessity; and into the Tentative, which is seen in the case of a syllogism, resting on opinion; and into the third, Rhetorical, which is concerned about the enthymeme, which is called an imperfect syllogism; and still further into Sophisms; which would not be that, which takes the lead in the eye of the philosopher, but what is necessary. Of Practical science one part is seen to be concerned about the care of morals, and another about the regulation of a household, and another relating to the state, and its safety. Of these, the first is called Moral; the second, Economical; the third, Political.",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Narrator",
+"text": "Of the Contemplative one portion, relating to what is unmoved and the first cause, and such things as are divine, is called Theological; another portion, relating to the movement of the stars, and their periodical revolutions, and their return to the spot from whence they started, and to the constitution of this world, is Physical; but another portion, viewed by means of geometry and the rest of learning, is Mathematical. Such then being the subdivision and portioning out of the kinds of philosophy, we must first speak of the Dialectical, as it is agreeable to the doctrines of Plato; and first of all about the Judicatory.",
+"kind": "narration"
+},
+{
+"entry": 10,
+"who": "Narrator",
+"text": "4. Respecting the faculty of Judging, and the Judicatory powers of the soul",
+"kind": "heading"
+},
+{
+"entry": 11,
+"who": "Narrator",
+"text": "Since there is that, which judges, and likewise that, which is judged, there will be also that, which is effected by them, what a person would call judging. Properly one would call the act of judging the judging faculty, but more commonly that which judges. Now this is twofold; one, by which a thing is judged; the other, through which it is. Of which the former would be the intellect that is in us; the latter, the organ, that is naturally Judicatory, acting like a leader to what is true; but like a follower after what is false. Now this organ is nothing else than natural reason. And, as regards things that exist, the philosopher would be called more clearly a judge, by whom things are judged. But reason likewise is a judge, through which the truth is judged, and which we have said is an organ. Now reason is twofold. One is altogether to be not made captive and is accurate; the other is not to be deceived by falsehoods as regards the knowledge of things. The former of these can be attained by god, but not by man; but the latter can be attained by man likewise.",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Narrator",
+"text": "Now this is also twofold; one is conversant about things perceptible by mind; the other about things perceptible by a sense; of which the one, conversant about things perceptible by mind, is Science and Scientific Reason; but the other, conversant about things perceptible by a sense, is Opinionative and Opinion. From whence the Scientific possesses a firmness and stability, as being conversant with principles firm and stable; but the Credible and Opinionative (possess) probability, as being conversant about things not stable. Now of Science, conversant about things perceptible by mind, and of Opinion, conversant about things perceptible by a sense, the principles are Intelligence and Perception. Now Perception is an affection of the soul, that gives, like a leader, by means of the body a previous intimation of a power that has been affected. But when there has been produced in the soul by means of the organs of sense an impression according to its sensation, then, in order that (the impression) may not be evanescent, but permanent, the preservation of it is called Memory. But Opinion is the complication of memory and sensation.",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Narrator",
+"text": "For when we meet for the first time with a thing perceptible by a sense, and a sensation is produced in us by it, and from this sensation Memory, and we subsequently meet again with the same thing perceived by a sense, we combine the memory previously brought into action with the sensation produced a second time; and we say within ourselves, as, for instance, say, Socrates, (or) a horse, (or) fire, or whatever thing there may be of such a kind. Now this is called Opinion through our combining the recollection brought previously into action with the sensation recently produced. And when these, placed along each other, agree, a true opinion is produced; but when they swerve from each other, a false one. For if a person, having a recollection of Socrates, and meeting with Plato, imagines, through some similarity, that he is meeting again with Socrates, and afterwards combines the sensation, which he has received from Plato, as if he had received it from Socrates, with the recollection, which he has of Socrates, the opinion would be a false one.",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Narrator",
+"text": "Now that, in which memory and sensation are produced (conjointly), Plato likens to an impression on wax; but when the soul, after remoulding by an exercise of thought the things, which have been imagined out of sensation and memory, looks upon them, as upon those, out of which they have been produced, Plato calls this a painting to the life; and sometimes too a phantasy. But he calls the exercise of thought a talking of the soul to itself; and talking (he says) is a flowing from it, proceeding with a vocal sound through the mouth. Now Cogitation is an operation of the mind, while contemplating the first things perceptible by mind. And this seems to be twofold; one, while it was contemplating things perceptible by mind, previous to the soul existing in the body; another, after it had been compelled to come into this body. Of these, one was called Cogitation; but after it existed in the body, that, which was then called Cogitation, was now called Physical Thinking, as being a cogitation in a subjective soul.",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Narrator",
+"text": "When therefore we say that Cogitation is the beginning of Scientific Reasoning, we do not mean that, which is so called now, but that, which, as we have said, was then, when the soul existed apart from the body, called Cogitation, but is now Physical Thinking. Now Physical Thinking is called by him (Plato) both a simple science, and a fledging of the soul; and sometimes, recollection. From these sciences that are simple, Physical and Scientific Reason, which exists in Nature, is composed. Since then there is Reason existing, both Scientific and Opinionative, and there is a Cogitation existing and Sensation, there are also things, that are subjective to them; as for instance, those, that are perceptible by mind, and those likewise, by a sense. Now, since of things perceptible by mind some are primary, as ideas, and some secondary, as species, which, being (impressed) on Matter, are inseparable from it, Cogitation is twofold, one of the primary, and another of the secondary.",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Narrator",
+"text": "And again, since of things perceptible by a sense, some are primary, asqualities – for instance, colour, whiteness, – but some according to accident – as white mixed with another colour, – and, moreover, a congregated mass, as fire, honey, – so there is sensation, one part of which is of primaries, and called itself primary; and another of secondaries, (and called) secondary. Of the primaries, perceptible by mind, Cogitation judges, not without Scientific Reason, by means of a certain apprehension, and not by a discourse in detail; but of the secondary, a sense judges not without Opinionative Reason; but of the congregated mass, Opinionative Reason (judges) not without a sense. Now since the world, perceptible by mind, is a primary perceptible, but that, perceptible by a sense, is a congregated mass, of the world, perceptible by mind, Cogitation judges, together with Reason that is not without reason; but of that perceptible by a sense Opinionative Reason (judges) not without a sense.",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Narrator",
+"text": "Since then there is Contemplation and Action, right reason does not judge in a similar manner of things, which fall under Contemplation, and of what are to be done; but in the case of Contemplation it looks to the truth, and to what is not in that condition; but in the case of things to be done, to what is appropriate, and what is strange, and what is being done. For by having a natural notion of what is beautiful and good we make use of reason; and referring to these natural notions, as to some determinate standards, we decide, whether any of these things are in this state or in a different one.",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Narrator",
+"text": "5. About the Dialectic element and its aim",
+"kind": "heading"
+},
+{
+"entry": 19,
+"who": "Narrator",
+"text": "The most elementary part of Dialectic Science he deems to be, first, the looking upon the essence of every thing whatsoever, and then, upon what relates to its accidents. It looks upon each thing, as it is in itself, either from above, in the way of Division or Definition, or from below, in that of Analysis; but on the accidents of, and that which exist in, essences, (it looks) either from the things contained, through Induction, or from the things containing, through a Syllogism; so that, according to this account, in Dialectical Science there is a dividing, and a defining, and an analyzing, and, moreover, that which is inductive and syllogistic. Now the dividing is the separating a genus into its species, or a whole into its parts; as when we separate the soul into the rational, and that affected by circumstances; and again the (so) affected into the irascible and the concupiscible.",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Narrator",
+"text": "The division too of the voice (is) into the things signified; as when one and the same word is referred to many things; and the division of accidents into things subjective; as when we say of good things, that some are so, as regards the soul, some, as regards the body, and some are external; and that of things subjective into accidents; as when we say of men, that some are good, some bad, and some between (both). It is necessary then to make use of the separation of the genus into its species for the purpose of knowing thoroughly each thing by itself, and what it is according to its essence. But this cannot take place without a Definition. Now a Definition is produced from a division after this manner. Of the thing, that is about to fall under a Definition, it is requisite to take (in the first place), the genus; as in the case of man (the genus) is an animal; and then to separate it, according to its proximate differences, descending to the species; as, for instance, to rational and irrational, mortal and immortal; so that if the proximate differences are combined with the genus, that proceeds from them, there exists a definition of man.",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Narrator",
+"text": "But of Analysis there are three kinds; one is an ascent from things perceptible by a sense to the primary perceptible by mind; another is an ascent through things (fully) shown and obscurely shown to propositions not to be demonstrated and without a middle; and another is that, which ascends from an hypothesis to principles not hypothetical. Now the first is something of this kind; as if we should proceed from the beauty relating to the body to the beauty relating to the soul; and from this to that in pursuits; and from this to that in laws; and then to the wide sea of beauty; and then, after having proceeded thus, we should discover what remains, namely, beauty itself. The second kind of Analysis is something like this. It is requisite to suppose what is to be sought, and to see what things are before it, and to show these from what come after, by ascending up to those before, until we arrive at the first and what is acknowledged; and beginning (again), from this we shall descend to what is sought by the Synthetical manner.",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Narrator",
+"text": "For instance, I am seeking, whether the soul is immortal; and after supposing this very thing, I inquire whether it is always moved; and after showing this, whether what is always moved is self-moved; and again, after showing this, I consider whether what is self-moved is a beginning of motion; and then, whether a beginning is unbegotten; which is laid down as being acknowledged, inasmuch as the unbegotten is likewise the indestructible; from which, as from a thing quite clear, making a beginning I will put together a demonstration of this kind – If a beginning be a thing unbegotten and indestructible, that, which is self-moved, is a beginning of motion. Now the soul is a thing self-moved; it is therefore indestructible, and unbegotten, and immortal.",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Narrator",
+"text": "But the Analysis from an hypothesis is of this kind – A person, inquiring into a matter, lays down that very thing hypothetically; and he then considers what will follow upon the assertion so laid down; and after this, whether it is requisite to give a reason for the hypothesis; and, laying down another hypothesis, he inquires whether what had been previously laid down, follows again the other hypothesis; and so he continues to do, until he arrives at some principle not hypothetical. Induction is wholly a method by reasoning, which proceeds from the like to the like, or from particulars to generals. Induction is particularly useful for exciting notions connected with physics.",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Narrator",
+"text": "6. On the kinds of the (so-called) Propositions, and on Syllogism",
+"kind": "heading"
+},
+{
+"entry": 25,
+"who": "Narrator",
+"text": "Of that portion of reasoning, which we call a Proposition, there are two kinds; one is Affirmation, the other Negation. Affirmation is a thing of this kind – Socrates is walking about; but Negation is a thing of this kind – Socrates is not walking about. Of Affirmation and Negation, there is one kind relating to what is Universal, another to what is Particular. An Affirmation relating to what is Particular is of this kind – “A certain pleasure is a good,” a Negation is of this kind – “A certain pleasure is not a good.” But an Affirmation relating to what is Universal is of this kind – “Every disgraceful thing is an evil,” a Negation is of this kind – “Not one of disgraceful things is a good.” Of Propositions some are Categorical, some Hypothetical. The Categorical are simple; as “Every just thing is beautiful,” but the Hypothetical point out a Consequence or Repugnance. Plato makes use likewise of the operation of Syllogisms, when he is disproving or proving; when disproving falsehoods by a searching inquiry; and when proving truths by a certain kind of teaching.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Narrator",
+"text": "Now a Syllogism is a reasoning, in which, on some things being laid down, something necessarily turns out different from what has been laid down. Of Syllogisms there are some Categorical; others Hypothetical; and others Mixed. Of these the Categorical are those, of which the assumptions and conclusions are simple propositions; the Hypothetical are those, that proceed from hypothetical propositions; and the Mixed are those, that combine the (other) two. The man makes use likewise of Demonstrative (reasoning), in the dialogues that covertly lead (to truth), and of Detective, in those against the Sophists and young persons; but the Litigious, against those called peculiarly Litigious, as, say, for instance, Euthydemus and Hippias. Of the Categorical, whose forms are three, the first is that, in which the common extreme is first the predicate, and then the subject; the second is, in which the common extreme is the predicate in both; the third is, in which the common extreme is the subject in both.",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Narrator",
+"text": "Now the Extremes I call the parts of Propositions; as in the Proposition, “Man is an animal,” we call “Man” an extreme, and so too “Animal.” According to the first, second, and third forms, Plato frequently asks reasons. According to the first (he argues) thus in the Alcibiades – “Just things are honourable. But honourable things are good. Therefore just things are good.” According to the second, in the Parmenides, thus – “That which has no parts, is neither straight nor round. But that which partakes of figure, is either straight or round. Hence that, which has no parts, does not partake even of figure.” According to the third in the same book thus – “That, which partakes of figure, has some quality; and that, which partakes of figure, is bounded; therefore that, which has some quality, is bounded.” And in many books we shall find hypothetical reasons asked by him; and especially in the Parmenides we shall find them such as these – “If the one has no parts, it has neither a beginning, a middle, nor an end, nor has it a limit; and if it has not a limit, neither does it partake of figure.",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Narrator",
+"text": "If then the one has no parts, neither does it partake of figure.” According to the second hypothetical form, which the majority say is the third, according to which the common extreme follows both the ends, he asks in this manner – “If the one has no parts, it is neither straight nor round. (But) if it partakes of figure, it is either straight or round. If then it has no parts, it does not partake of figure.” And yet according to the third form, but the second with some persons, according to which the common extreme leads both, he asks thus in the Phaedo – If, after we have received the knowledge of what is equal, we have not forgotten it, we know it; but, if we have forgotten it, we recall it to mind. And of the Mixed he makes mention, which thus build up (a reasoning) from a consequence – “If the one is a whole and limited, it has a beginning, a middle, and an end, and partakes of figure. Now, since the leading is so, so is the ending.” Of those too, that pull down from a consequence, (it is most easy) to contemplate the differences in a similar manner.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Narrator",
+"text": "When therefore a person looks carefully into the powers of the soul, and into the difference of men, and the kinds of reasoning, and acutely perceives which of them are suited to the soul in this way or that, and being what himself by what and what kind of reasonings he can be persuaded, such a person, if he lays hold of a fitting opportunity for the use (of his faculties), will become a perfect orator; and his oratorical skill would be justly called the science of speaking well. And of Sophisms too we shall find the method delineated by Plato in the Euthydemus, if we carefully read the book; so that it is indicated covertly, what Sophisms are in words, and what in things, and what are the solutions of them. Moreover he has pointed out secretly the ten Categories in the Parmenides and the other dialogues; and he goes through the whole question of etymology in the Cratylus; and, to speak simply, the man is the most sufficient and wonderful in the business relating to Definitions and Divisions; all of which show forth especially the power of the Dialectic art. The matter of the Cratylus has a meaning of this kind.",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Narrator",
+"text": "Plato inquires there whether names are from nature or imposition; and he is satisfied that the correctness of names is referable to imposition; not however simply so, nor accidentally, but so that the imposition follows upon the nature of the thing; for the correctness of the name is nothing else than the imposition, which agrees with the nature of the thing; nor is yet the imposition, whatever it may be, of the name, sufficient by itself for correctness; nor is nature, nor the first utterance of the voice; but that which is (compounded) of both, so that the peculiarity of every name is laid down according to its affinity with the nature of the thing; for assuredly, should what is accidental be imposed upon an accidental thing, it would not signify what is correct; as if, for instance, we should give to a man the name of a horse; since to speak is some one of actions; so that a person would not speak correctly by speaking in any manner soever, but if he should speak in such a way, as things exist naturally.",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Narrator",
+"text": "Now since to give a name to a thing is a part of speaking, so is a name a part of speech; (and) to name a thing correctly or not would take place, not according to any imposition whatsoever, but according to a natural affinity with the thing. Hence he would be the best nameimposer, who should mark out by the name the nature of the thing. For the name is an instrument of a thing, not such as occurs accidentally, but has a mutual relation by nature; and through it we teach each, other the things, and we judge of them; so that the name is something with a teaching, and the instrument, that judges of the existence of each thing, as the shuttle is of weaving. With regard to the Dialectic art, this too will take place, (to wit,) to make use of names correctly. For as a man skilled in weaving would make use of a shuttle, through knowing its work, after a workman had manufactured it, so the Dialectician would, after the name-imposer had imposed the name, make use of it in a proper and advantageous manner. For it is the part of an artificer to make a rudder, but of the steersman to make use of it properly.",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Narrator",
+"text": "So too the name-imposer himself would make a proper use of the imposition, if he were to make the imposition in the presence of the Dialectician, who knows the nature of the things that are the subject (of the names.) And let so much be written down on the Dialectical question.",
+"kind": "narration"
+}
+]
+},
+{
+"name": "7. On the Contemplative kind and its division",
+"lines": [
+{
+"entry": 33,
+"who": "Narrator",
+"text": "7. On the Contemplative kind and its division",
+"kind": "heading"
+},
+{
+"entry": 34,
+"who": "Narrator",
+"text": "Now let us speak in order of the Contemplative kind. Of this we have said that one portion is Theological; another Physical; and another Mathematical: and that of the Theological the end is the knowledge relating to the first causes, and to what is the most above, and to principles; but of the Physical to learn what is the nature of the Universe; and what kind of animal is man; and what place he occupies in the world; and whether god has any forethought respecting the Universe; and whether there are other gods under his orders; and what is the condition of man with respect to the gods; but of the Mathematical, to consider the superficial and triply-separated nature, relating both to motion and an onward carrying on, and how it exists. Let then the Contemplation of the Mathematical portion be laid down summarily. Now this was received by Plato for the acuteness of thought, as sharpening the intellect, and as furnishing an accuracy towards the consideration of things existing.",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Narrator",
+"text": "That too, which relates to Numbers, being a portion of the Mathematical, introduces an affinity, not such as is accidental, to an upward approach to things existing; and it almost relieves us from the error and ignorance relating to things perceptible by a sense; and it cooperates towards the knowledge of existence, and becomes well-constituted, as regards war, by means of the theory of tactics. So too that relating to Geometry is the most fit for a knowledge of the good; at least when a person pursues Geometry, not for any practical purpose, but makes use of it, as something additional, so as to ascend to the ever-existing being, and not to waste his time about what is generated and destroyed. Geometry is, moreover, very useful; for after its second increase there follows the contemplation according to it, which has a third increase.",
+"kind": "narration"
+},
+{
+"entry": 36,
+"who": "Narrator",
+"text": "Useful likewise as a fourth subject for learning is Astronomy; according to which we shall contemplate the onward movement of the stars in heaven, and of heaven, and the artificer of night and day, and of months and years; from whence by some familiar road we shall search out the artificer of the universe while proceeding from these subjects of learning, as from some basis and elements (by degrees to higher matters). And of Music too we shall have a care by bringing the hearing of it to our ears. For as the eyes are constituted with respect to Astronomy, so is the hearing with respect to Harmony. And as, by turning our thoughts to Astronomy, we are led on the road from things seen to an existence unseen and perceptible by mind, so by listening to the voice of Harmony, we pass, in like manner, from things heard to those that are beheld by the mind itself; so that, unless we pursue in this way these subjects of learning, our contemplation on these matters will be incomplete, and unprofitable, and nothing worth. For it is meet to turn quickly from things to be seen and heard to those, which it is possible to see by the reasoning faculty alone of the soul.",
+"kind": "narration"
+},
+{
+"entry": 37,
+"who": "Narrator",
+"text": "For the looking into Mathematical learning is a kind of prelude to the contemplation of things existing. For Geometry, and Arithmetic, and the sciences that follow upon them, although desirous to lay hold of the Being, yet are they in a dream respecting the Being, and unable to see it, as a day-dream, through being ignorant both of the principles (of things) and of what are formed from those principles. They happen, nevertheless, to be very useful, according to what has been stated. From whence Plato said that such subjects of learning were not sciences at all. The Dialectic art is then a progression, that naturally ascends from Geometrical Hypotheses to the first principles of things and non-hypothetical. From whence he called the Dialectic art a science. But the subjects of (such) learning (he said) were neither opinion, through their being more clear than things perceptible by a sense; nor a science, through their being more obscure than the primaries perceptible by mind; but of bodies he says (there is) an opinion; of the primaries a science; but of (such) subjects of learning a mental notion.",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Narrator",
+"text": "He lays down too, that Faith and Fancy are something; and that of these Faith is of things perceptible by a sense; but Fancy of resemblances and kinds. Since then the Dialectic art is the most powerful of the subjects of learning, inasmuch as it is conversant about things divine, and stable, on this account it is ranked above the other subjects of learning, and is, as it were, the coping-stone and guard.",
+"kind": "narration"
+},
+{
+"entry": 39,
+"who": "Narrator",
+"text": "8. Respecting the Primary Matter",
+"kind": "heading"
+},
+{
+"entry": 40,
+"who": "Narrator",
+"text": "After this let us speak consecutively about Principles and Theological Contemplations, commencing from on high from the primaries, and descending from them, and looking into the creation of the world, and ending with the creation and nature of man. And let us speak first of Matter. This then he calls a mould, that receives every impression, and a nurse, and a mother, and a space, and a thing subjective and tangible, (and) without sensation, and to be apprehended by spurious reasoning; and that it possesses a peculiarity of such a kind, that it receives all creations, and has the reputation of a nurse by nourishing them, and admits all forms, being itself without Figure, and Quality, and Species, but moulded into such, and fashioned, as if it were a mould, and put into a form by them, possessing no peculiar figure or quality. For there would not be any thing properly prepared for various configurations and forms, unless it were itself without Quality, and not partaking of these species, which it must receive.",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Narrator",
+"text": "For we see that those, who prepare sweet-smelling ointments from oil, make use of the most sweet-scented; and those, who are desirous of fabricating figures from wax or clay, smooth down those substances, and render them shapeless in order that they may receive (new shapes). It is fitting then for Matter which receives every thing, if it is about to receive forms universally, to be subject to the possessing not one of their natures, but to be without Quality, and without form for the purpose of receiving forms; and being such, it would be neither a body nor without a body, but a body in posse, as we understand of copper, that it is a statue in posse, because, after having received the form, it will become a statue.",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Narrator",
+"text": "9. Respecting Ideas and the Efficient Cause",
+"kind": "heading"
+},
+{
+"entry": 43,
+"who": "Narrator",
+"text": "While matter retains the character of a Principle, (Plato) admits still other principles likewise, both the pattern-like, that is, relating to Ideas, and that of god, the father and the cause of all things. Now Idea is, as regards god, a mental operation by him; as regards us, the first thing perceptible by mind; as regards Matter, a standard; but as regards the world, perceptible by a sense, a pattern; but as considered with reference to itself, an existence. For universally all that is generated according to a design ought to be generated for something. For if any thing be produced from any thing, as my own resemblance is from myself, there must be a pattern previously laid down; and whether the pattern be within or without, each of the artificers, having the pattern in himself, on every side and in every manner, invests its form with Matter. Now persons define Idea as the eternal pattern of things existing according to Nature.",
+"kind": "narration"
+},
+{
+"entry": 44,
+"who": "Narrator",
+"text": "For it does not please the majority of Platonists (to admit) that there are Ideas of works of art, such as of a shield, or lyre; nor yet of things, that are contrary to Nature, such as of fever, and cholera; nor of what exists according to a part, as of Socrates and Plato; nor of things of no value, such as of filth and rotten thatch; nor of that, which exists with reference to something, as of a greater and superior; for Ideas are the notions of god eternal and perfect in themselves. Now that there are Ideas, in this way too they exhort (us). For whether the deity be mind or something mental, it has thoughts, and these too both eternal and not to be turned aside. And if this be so, there are Ideas. For if Matter is on its own account without (a standard of) measure, it must meet with a standard from something else, that is superior and without matter; hence if the antecedent (is true), so is the consequent; and if this be so, Ideas are certain (standards of) measures without Matter. Moreover, if the world is not such, as it is, from chance, not only has it been produced out of something, but by something; and not only so, but for something likewise.",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Narrator",
+"text": "Now what could that, for which it has been produced, have been else than Idea? so that thus there would have been Ideas. Moreover, if mind differs from true opinion, what is perceived by mind differs also from what is held as an opinion; and if this be so, there will have been the primaries perceived by mind, and the primaries perceived by a sense; and if this be so, there are Ideas. Now mind does differ from a true opinion; so that there will have been Ideas.",
+"kind": "narration"
+},
+{
+"entry": 46,
+"who": "Narrator",
+"text": "10. How it is meet to delineate the deity, and respecting his mental operation",
+"kind": "heading"
+},
+{
+"entry": 47,
+"who": "Narrator",
+"text": "We must now render an account, next in order, of the third principle, which Plato considers to be almost impossible to be told. We may however be led to it after this manner. If things are perceptible by mind, and these too not perceptible by a sense, nor with a participation in the things perceptible by a sense, but belonging to some primaries perceptible by mind, there are simple primaries perceptible by mind, as there are primaries likewise perceptible by a sense. If then the antecedent (is true), so is the consequent. Now men – as being infected with the suffering from sensation, so that, when they determine to think upon something perceptible by mind, they keep in their fancy that, which is perceptible by a sense, so as to think at the same time of magnitude, and form, and colour – do frequently think not clearly upon things perceptible by mind; whereas the gods, being freed from things perceptible by a sense, (do think) clearly and without a mixture (of fancies).",
+"kind": "narration"
+},
+{
+"entry": 48,
+"who": "Narrator",
+"text": "Now since Mind is superior to the living principle, and as the Mind, which is, according to its working, thinking upon all things simultaneously and for ever, is superior to a mind in posse; and as the cause of that is better than this, and what exists is still above these, this would be the primary god, as being the cause of perpetually operating for the mind of the whole heaven. Now he is operating, although unmoved himself, for that (mind), as the sun does for vision, when it looks for him, and as that, which has the faculty of desire, excites desire, itself being unmoved. At least in this way will this Mind likewise excite the mind of the whole heaven. Now, since the primary Mind is the most beautiful, there must needs be the most beautiful thing placed under it. But nothing is more beautiful than itself. It would therefore be thinking for ever upon itself and its own cogitations; and this its mental energy is Idea. Moreover the primary god is eternal, ineffable, perfect in itself, that is, not wanting in any thing, ever-perfect, that is, for ever perfect, allperfect, that is, perfect in every way, a divinity, holiness, truth, symmetry, good.",
+"kind": "narration"
+},
+{
+"entry": 49,
+"who": "Narrator",
+"text": "And I say not this, as if giving a definition, but as of one had in mind according to all. He is a good, because, being the cause of all good, he bestows kindness on all things according to his power; and a beautiful thing, because he is (so) by himself more than that by nature and symmetrical; and truth, because he is the beginning of all truth, as the Sun is of all light; and he is the father, by being the cause of all things, and by putting into order the heavenly mind, and the soul of the world, with reference to himself and his own cogitations. For according to his own will he has filled all things with himself, after having raised up the soul of the world and turned it to himself, being the cause of that mind, which, being put into order by the father, puts into order the whole of nature in this world.",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Narrator",
+"text": "He is moreover ineffable, and to be comprehended by mind alone, as has been stated; since he is neither genus nor species, nor difference; nor has there happened to him any thing either evil – for it is not lawful to state this; or good – for he would be such according to the participation of something, especially goodness; nor difference – for this (cannot be) according to the notion of him; nor being with equality – for he has not been made a quality, nor perfected by quality; nor without quality – for he has not been deprived of any quality, coming upon him; nor a part of any thing; nor as a whole, possessing any parts; nor so as to be any thing the same or different – for nothing has happened to him, according to which he is able to be separated from the rest of things; nor does he move, nor is he moved. Now (the) first notion of him will be that, which is according to the abstraction from (all) these things; as we have had a notion of a point according to an abstraction from what is perceptible by a sense, by thinking upon a superficies, then a line, and lastly a point. The second notion will be that, which is according to analogy somehow in this way.",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Narrator",
+"text": "For the analogy which the sun has to the seeing faculty and to things seen, without being himself vision, but enabling it to see and them to be seen, this analogy has the primary mind to the thinking faculty, and to the things thought of. For not being what the thinking faculty is, it enables it to think, and for things perceptible by mind to be thought of, by throwing around them the light of truth. But the third notion would be something of this kind. A person, after contemplating the beauty in bodies, will then proceed to the beauty of the soul; and afterwards to that, which is in pursuits and laws; and then to the wide sea of the beautiful; after which he will think of the good itself, and the lovely, and desirable, as it were a light that has appeared, and is shining out upon the thus ascending soul. In this way he thinks too upon god, on account of his excellence in a state of honour, and that he is without parts, through there being nothing prior to him; for a part, and that, from which (any thing is composed), is prior to that, of which it is a part; for the plane is prior to the bulk in a body, and the line is prior to a plane.",
+"kind": "narration"
+},
+{
+"entry": 52,
+"who": "Narrator",
+"text": "By not having parts then he would be unmoved, as regards space and change. For if he were changed, it would be either by himself or by another. Now if it were by another, that other would be more powerful than he; but if by himself, he would be changed either for the worse or the better. Now both of these (suppositions) are absurd. From all which it appears that he is without body; which may be shown from these proofs likewise. For if god were body, he would be Material and with a Form, through every body being a dual substance, composed of Matter and of Form united to it; which are assimilated to Ideas and partake of them in some kind of manner hard to be explained. Now it is absurd for god to be composed of Matter and Form. For he will not be simple, nor capable of being a beginning; so that the deity would be a thing without body; and from another point, if he is body, he would be Material, and would be either fire or water, or earth or air, or something (produced) from them.",
+"kind": "narration"
+},
+{
+"entry": 53,
+"who": "Narrator",
+"text": "Now each of these at least is not capable of being a beginning; and he would be really produced posterior to Matter, if he were Material; which suppositions being absurd, we must understand him to be without body. For if he were body, he would be destroyed, and produced, and changed. But each of these events is absurd in his case.",
+"kind": "narration"
+},
+{
+"entry": 54,
+"who": "Narrator",
+"text": "11. That Qualities are incorporeal",
+"kind": "heading"
+},
+{
+"entry": 55,
+"who": "Narrator",
+"text": "Qualities moreover can be shown in this manner to be incorporeal. Every body is in a subjective state. But a Quality is not in a subjective state, but accidental. Body is therefore not a Quality. Every Quality is in a subjective state; but no body is in a subjective state. Quality therefore is not body. Further, one quality is the opposite to another quality. But one body is not so to another body; and body differs, as far as it is body, in nothing from body; but it does differ in Quality, and not, by Zeus, in bodies. Qualities are therefore not bodies. And it is most reasonable, that, as Matter is devoid of Quality, so Quality should be devoid of Matter; and if Quality be immaterial, Quality will be incorporeal. For if Qualities were bodies, two and three bodies would be in the same place a thing the most absurd. But if Qualities are incorporeal, that which fabricates them (would be) incorporeal. Now there can be no other things that fabricate but incorporeals.",
+"kind": "narration"
+},
+{
+"entry": 56,
+"who": "Narrator",
+"text": "For bodies are subject to suffering and to flowing, and to being not always in the same state and similar, and not permanent and firmly fixed; and even in cases, where they seem to be active in something, they are found to be previously passive in much. As then there is something clearly passive, so there must be something truly active. Now we should not find any thing else to be this, but what is incorporeal. The discourse then respecting the Principles of things would be of some such kind as this, when called Theological. Let us then proceed next in order to what is called Physical, beginning from some point here.",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Narrator",
+"text": "12. On the Causes of the World, and further on its Generation, Elements, and Arrangement",
+"kind": "heading"
+},
+{
+"entry": 58,
+"who": "Narrator",
+"text": "Since of the things, which are perceptible by a sense according to nature and individually, there must be some patterns defined, (namely) Ideas, from which Sciences and Definitions are produced – for besides all men a certain man is thought of, and besides all horses a certain horse – and generally, besides living beings a living being not generated and indestructible, in the same manner as from one seal there are many impressions, and of one man ten thousand likenesses upon ten thousand, the Idea (itself) being originally the cause of each being such as it is itself it is a thing of necessity that the World should have been fabricated by the deity, as the most beautiful composition, while he was looking to some Idea of a World, as being the pattern of this World, made, as it were, after the resemblance of that Idea, according to which it was, after being assimilated, worked out; while the deity came by a most wonderful forethought and mode of life to fabricate the World, because he was good.",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Narrator",
+"text": "He fabricated it therefore from the whole of matter; which moved about in no order and superfluously, previous to the generation of heaven; and taking it away from its disordered state he led it to the best order, and he adorned its parts with becoming numbers and forms, so as to discriminate how fire and earth exist at present with reference to air and water – things that exhibited previously merely foot-marks, and (were) the receptacle of the powers of the Elements, and were without reason and without measure shaking Matter and were shaken by it. For from each of the four elements, as a whole, he generated the World; and from all fire and earth and water and air leaving out neither any part or power, through having reflected, in the first place, that it was requisite to be a body and a production, and altogether tangible and visible; since without fire and without earth it was not possible for any thing to be either visible or tangible. According then to a fair reason he formed it of earth and fire.",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Narrator",
+"text": "But since it was requisite for some chain to be in the midst of both of these; and since the divine chain is that of proportion, which has by nature the power to make itself and what are united with it one; and since the World was not a plane for one middle power would have been sufficient – but spherical – and required two middle powers for the fitting together – on this account, in the midst of fire and of earth, both air and water were arranged according to the manner of a proportion; so that, as fire is to air, so air should be to water, and this last to earth, and conversely; and by nothing being left from without, he made the World his only begotten, and assimilated it, according to number, to the Idea, that was one O. He made it, moreover, without disease and without old age – inasmuch as nothing could come to it, naturally able to corrupt it – and self-sufficient, and in need of nothing from without; and he put round it a spherical form, the most regular kind of figure, and the most capacious, and the most easy to be moved.",
+"kind": "narration"
+},
+{
+"entry": 61,
+"who": "Narrator",
+"text": "But, since it requires neither vision nor hearing, nor any thing else of that kind, he did not attach to it organs of such a kind for ministering (to the senses); and after taking away the other kinds of motion, he gave it only the circularly-progressive, which has an affinity with that of Mind and Thought.",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Narrator",
+"text": "13. Respecting the Configuration of the World; and that each of its forms is analogous to the World and its Elements",
+"kind": "heading"
+},
+{
+"entry": 63,
+"who": "Narrator",
+"text": "As the things, of which the World consists, are two, (namely,) body and soul, of which the former is visible and tangible, but the latter invisible and intangible, the power and constitution of each happens to be different. For its body is generated from fire and earth and water and air. These four substances did the fabricator of the World take together, while they were not, by Zeus, preserving the order of the elements; and he gave to them the form of a Pyramid, and a Cube, and an Octohedron, and Eikosihedron, but, above all, a Dodecahedron. And as far as Matter assumed the form of a Pyramid, it became Fire, that form being the most piercing, and made up of the fewest triangles, and in this manner the most attenuated; but as far as (it assumed the form) of an Octohedron, it took the quality of air; and as far as that of an Eikosihedron, it had the quality of water; and the form of a Cube he assigned to earth, as being the most solid and stable; but he made use of the form of the Dodecahedron for the Universe. But more than all these was the Plane of the nature of a Principle. For Planes are prior to Solids.",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Narrator",
+"text": "And of the nature of a Plane there are, as it were, some two progenitors, the most beautiful, in the form of right-angled triangles; one, the Scalene ;the other, the Isosceles; the Scalene having one angle a right angle, and another two-thirds (of a right angle), and the remainder the third (of a right angle). Now the former, is the element of the Pyramid, and Octohedron, and Eikosihedron; the Pyramid consisting of four equilateral triangles, each of which is divided into six Scalene triangles, as described already; but the Octohedron in like manner of eight, each of which is divided into six Scalene; and the Eikosihedron (in like manner) of twenty. But the other, becomes the constituent form of the Cube; for when four Isosceles triangles come together, they make a Square; from six squares of which kind is formed a Cube. But for the Universe the deity made use of the Dodecahedron. Wherefore there are seen the forms of twelve animals in the circle of the Zodiac, and each of them is divided into thirty parts.",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Narrator",
+"text": "And nearly so in the case of the Dodecahedron; which consists of twelve pentagons, (each) divided into five triangles, so that, as each consists of six triangles, there are found in the whole Dodecahedron three hundred and sixty triangles, being as many as there are parts in the Zodiac. Matter then, being fashioned into these forms by the deity, was moved at first with (indistinct) footsteps, and without order, but was subsequently reduced into order by the deity, while all things were fitted together according to a proportion with each other. These things, however, when separated, do not remain at rest, but have a ceaseless shaking and communicate it to Matter. Wherefore being bound to the circumference of the World, they are driven on with it; and, while so driven on, they are carried against each other, the thinner particles into the places of the grosser; and by this means there is left no vacuum, destitute of some body; and as this inequality continues, it gives rise to a shaking; for by these particles Matter is shaken and they by it.",
+"kind": "narration"
+}
+]
+},
+{
+"name": "14. Respecting the Soul of the World, and the Spheres, and the Stars",
+"lines": [
+{
+"entry": 66,
+"who": "Narrator",
+"text": "14. Respecting the Soul of the World, and the Spheres, and the Stars",
+"kind": "heading"
+},
+{
+"entry": 67,
+"who": "Narrator",
+"text": "Bodies then has (Plato) introduced for the instruction of the Soul, touching the powers that are exhibited in it. For since we judge of each of things existing by the Soul, he has fairly placed in it the Principles of all existing things, in order that, while contemplating each of the things that fall under it, according to their affinity and proximity, we should represent to ourselves its being in harmony with its acts. By saying then that there is a certain existence perceptible by the mind, which is indivisible, he has represented to himself another existence likewise, relating to bodies, which is divisible, by showing that he is able to lay hold by intellect of each of these existences; and by seeing that, as regards things perceptible by mind, there is an identity and a difference, and (so too) as regards things perceptible by a sense, from all these he has made the Soul a contribution. For either the like is known by the like, which is the favourite doctrine of the Pythagorean, or the unlike by the unlike, which is that of Heracleitus, the Physical philosopher.",
+"kind": "narration"
+},
+{
+"entry": 68,
+"who": "Narrator",
+"text": "But when (Plato) says that the World has been generated, we must not understand him, as if there were once a time, when the World was not; but because it is ever in generation, and shows forth something as a cause more ancient than its own constitution. And even the deity does not make the Soul ever existing of the World, but puts it in order. And in this way he might be said to make it, by arousing up, as if from a drowsiness or heavy sleep, and turning to himself both its mind and itself, so that, by looking to what is perceptible by his mind, it may, while eagerly seeking his notions, assume species and forms. It is plain then that the World is a thing of life and intellectual. For the deity being desirous of making it the best (work), made it consequently both with life and intellect.",
+"kind": "narration"
+},
+{
+"entry": 69,
+"who": "Narrator",
+"text": "For that, which is with life, is, taken as a whole, a completed work superior to that, which, taken as a whole, is without life; and the intellectual than the non-intellectual; although perhaps by the mind not being able to subsist without a thing of life, but by the life being extended from the centre to the extremities, it has happened, that it surrounds the body of the World in a circle and entirely conceals it, so that it stretches along the whole of the World, and in this manner binds and keeps it together; and that the particles without have a power over those within. For that, which is without, remains uncut; but that, which is within, is cut into seven circles, divided from the commencement into double and triple intervals. Now that, which is comprehended by the (portion) of the sphere remaining uncut, is very like to the same; but the cut (like to) the different. For the movement of the heaven, which embraces all things, is not-wandering, as being one and in order; but that, which is within, is various, arid changed by risings and settings; and hence it is called wandering.",
+"kind": "narration"
+},
+{
+"entry": 70,
+"who": "Narrator",
+"text": "But that, which is without, is carried along to the right, by being moved from east to west; but that, which is within, conversely to the left, from west to east, meeting the world. The deity made, moreover, the constellations and stars; and of these some not wandering, the ornament of heaven and of night, being very many in number; and (the planets), being seven, for the generation of number and time, and the exhibition of things existing. For an interval in the movement of the World has produced Time, the image, as it were, of eternity, which is a measure of the staying of the eternal World. But the non-wandering stars are not similar in power. The Sun is the leader of all, showing and illuminating all things. But the Moon is seen in the second rank, on account of her power; and the other planets proportionally, each according to its own share. Now the Moon makes the measure of a month, after it has completely gone through its own revolution, and overtaken the Sun in such (a time); but the Sun in that of a year.",
+"kind": "narration"
+},
+{
+"entry": 71,
+"who": "Narrator",
+"text": "For after it has gone round the circle of the Zodiac, it completes the seasons of the year; while the rest make use singly of their own periodical revolutions, which are beheld, not by ordinary persons, but by the properly instructed. Now from all these revolutions the perfect number and time is completed, when all the planets, after arriving at the same point, obtain such an arrangement, that a straight line being conceived to be let fall from the non-wandering sphere to the earth in the manner of a perpendicular, the centres of all are seen upon that line. There being then seven spheres in the wandering sphere, the deity made seven visible bodies out of a substance, for the most part fire-like, and fitted them to the spheres, formed out of the circle of the different and the wandering.",
+"kind": "narration"
+},
+{
+"entry": 72,
+"who": "Narrator",
+"text": "And he placed the Moon in the first circle after the Earth; and the Sun he arranged for the second circle, and Lucifer and the so-called sacred star of Hermes into the circle, which moves with a velocity equal to the Sun, but at a distance from it; and above the rest, (each) in its own sphere, the slowest of them lying under the sphere of the non-wandering, which some call by the name of the star of Saturn; and that, which is the next after it in slowness, by the name of Jupiter, under which is that of Mars. But in the eighth the power, which is above, is thrown around them all. And all these are living intellectual beings, and gods, and of a spherical form.",
+"kind": "narration"
+},
+{
+"entry": 73,
+"who": "Narrator",
+"text": "15. On Dæmons and the Elements, with which they are combined",
+"kind": "heading"
+},
+{
+"entry": 74,
+"who": "Narrator",
+"text": "There are other Dæmons likewise, which a person might call created gods, according to each of the Elements. Some are visible, others invisible, in Æther (hot air) and Fire, and in Air (cold air) and Water; so that no part of the World is without a share of life, nor of a living being superior to the nature of man. To these are committed all under the Moon, and upon the Earth. For the deity is himself the maker of the Universe, and of the gods and demons. Now the Universe will not have, according to his will, a dissolution; but the rest his children lead according to his command, and doing what they do in imitation of him; and from whom are rumours, and voices (from heaven), and dreams, and oracles, and whatever is made an art of by mortals in the way of prophecy. Now the Earth lies in the midst of the whole (circles), and is twisted round the pole, which is stretched through all, the guardian of day and night, and is the oldest of the gods in heaven, and, after the soul of the World, furnishing us abundant food; about whom the World revolves, she being herself a star, but who, through her being a thing equally balanced, remains lying in the middle, and similar to those surrounding her. But the Æther is separated towards the most outward parts, and to the sphere of the non-wandering, and to that of the wandering; and after those spheres is that of the Air; and in the middle is the Earth with its own moisture.",
+"kind": "narration"
+},
+{
+"entry": 75,
+"who": "Narrator",
+"text": "16. About the gods, who are offsprings; and that the deity enjoined upon them the making of man",
+"kind": "heading"
+},
+{
+"entry": 76,
+"who": "Narrator",
+"text": "When all had been put into order by him, he left three remaining kinds of living beings, the winged, the aquatic, and the foot-walking. These the deity enjoined upon his offsprings to make, in order that the things moulded by him might not be immortal. They then, after they had borrowed from the primary matter certain portions for definite periods, as if they were to be paid back again, fabricated mortal things of life. But when there was respecting the race of Man, as being the nearest related to gods, again a care both to the father of all, and to the gods, his offspring, the artificer of the Universe sent down upon earth the souls of this race, equal in number to the stars; and after he had placed each soul in a star, as in a vehicle connected with it, he did, in order that he might be without blame, lay down laws, fixed by Fate, after the manner of a Law-giver; that from the body should arise mortal affections, first, sensations, then pleasure and pain, and fear and anger, and that the souls, which obtained a mastery over these (feelings), and were not controlled by them, should live justly, and arrive at the star, connected with them; while they, who were overcome by (their own) injustice, should come in their second birth to the life of a woman; and, if they did not cease then, at last to the nature of wild beasts; and that the end of their labour should be to overcome what had grown upon them, and to return to their proper state.",
+"kind": "narration"
+},
+{
+"entry": 77,
+"who": "Narrator",
+"text": "17. Respecting the body and the members of man, and the powers of his soul",
+"kind": "heading"
+},
+{
+"entry": 78,
+"who": "Narrator",
+"text": "The gods then, in a leading manner, moulded man from Earth and Fire and Air and Water, after borrowing certain portions with the view of repaying them. And, after putting them together with invisible bolts, they worked out some one body, and bound the master portion of the soul, sent down to the head, after placing as a substratum the brain in the manner of a ploughed field; and they put around the face the organs of the senses, to fulfil their fitting office. And they formed the marrow out of the smooth and straight triangles, of which the elements were composed, for it to be the generation of semen; but the bone from earth and marrow wetted, and frequently dipped in water and fire, and the nerves from bone and flesh; but the flesh itself was created out of a saline and acrid substance, like something fermented. And they placed around the marrow, bone; and around the bones, nerves; and through the means of the nerves were produced the bendings and bindings of the joints; and coverings for them by means of the flesh applied over them, here white, and there tawny, for the great utility itself of the body.",
+"kind": "narration"
+},
+{
+"entry": 79,
+"who": "Narrator",
+"text": "From these were the internal viscera likewise put into folds, both the belly and the entrails rolled around it, and higher up from the mouth (came) the arteries and the opening of the larynx, one of which goes to the stomach, and the other to the lungs. The food too is arranged along the gut, comminuted and macerated by the breath and heat, and thus passes on to the whole body, according to its peculiar changes; while the two veins, that proceed along the spine, from opposite sides, infold the head and meet each other, and divide themselves hither and thither into many parts. The gods then having made man, and bound to his body the soul to be its mistress, located that, which rules according to reason, about the head, where is the commencement of the marrow, and nerves, and mental aberrations, according as they are affected; while the senses likewise lie around the head, as if they were the leading power of spear-bearing guards, in this spot is also that, which reasons, and contemplates, and judges.",
+"kind": "narration"
+},
+{
+"entry": 80,
+"who": "Narrator",
+"text": "But that portion of the soul, which is affected by circumstances, they placed lower down, namely, the irascible about the heart, and the concupiscible about the lower belly and the parts about the navel; of which mention will be made hereafter.",
+"kind": "narration"
+},
+{
+"entry": 81,
+"who": "Narrator",
+"text": "18. On the sense of Sight, and on light, and the formation of images in mirrors",
+"kind": "heading"
+},
+{
+"entry": 82,
+"who": "Narrator",
+"text": "After placing in the face the light-enduring eyes, they enclosed in them the light-like portion of fire; which being smooth and dense, they conceived to be the brother of the light of day. Now this runs through the whole of the eye, and especially the middle of it, in the most easy manner, (as being) the most pure and clear; and having a sympathy with the light without, as like has with like, it furnishes the sense of sight.",
+"kind": "narration"
+},
+{
+"entry": 83,
+"who": "Narrator",
+"text": "Hence when light has departed at night or become obscured, that, which flows from us, adheres no longer to the air that is near; but, being kept within, it smooths down and disperses the emotions within us, and becomes the bringer-on of sleep, by which the eyelids are closed; and when there is a great quietness, slumbers fall upon (us) with short dreams; but when some emotions are still left, frequent phantoms are produced around us; and in this way are formed visions, that become, according to a direct road, some, day-dreams, and some, night-dreams; and after these the image-makings, existing in mirrors, and other things, that are transparent and smooth, are perfected, not otherwise than by refraction, according as the mirrors have a convexity, concavity, or length; for the appearances will be different, through the lights being reflected to different parts, and slipping-off from the convexity, but coming together to the convexity. For thus in some cases the left and the right are seen on opposite quarters; in others, according to equality; and in others, what is at the bottom is changed to what is at the top, and contrariwise.",
+"kind": "narration"
+},
+{
+"entry": 84,
+"who": "Narrator",
+"text": "19. Of the other senses, and for what purposes they are created",
+"kind": "heading"
+},
+{
+"entry": 85,
+"who": "Narrator",
+"text": "Hearing has been created for distinguishing sound. It commences from a movement about the head and ends at the seat of the liver. And sound is that, which passes through the ears and brain and blood in succession, until the soul is struck. An acute sound is that, which is moved quickly; a grave, slowly; a great one (is what is moved) with much (force); a small one (that which is moved) with little (force). Following upon these there has been put together the power of the nostrils for the perception of smells. Now Smell is an affection, descending from the veins in the nostrils to the places about the navel. But it does not happen that the kinds of it have received a name, except two, the most belonging to a genus, (namely) the sweet-smelling, and the bad-smelling, which have the appellation of painful and pleasant; but (it does happen) that all smell is denser than air, and thinner than water; and properly the things, in which the genus of Smell is reasonably said, that have not obtained a perfect change, but have a participation in air and water; and these are according to smoke and fog; for through these changing into each other the sense of smelling is completed.",
+"kind": "narration"
+},
+{
+"entry": 86,
+"who": "Narrator",
+"text": "And Taste too have the gods made the judge of juices the most varied, by extending to the heart the veins from it, that are to be the provers and judges of the juices; for these, when brought together and separated, according as the juices fall upon them, define the change in them. Now there are seven varieties in juices; sweet, vinegar-like, rough, salt-like, sour, bitter. And of these it happens that the sweet is of an opposite nature to all the rest, diffusing familiarly its moisture about the tongue; but those, that stir about and tear its skin, are acrid; those, that inflame and run upwards, are pungent; those, that have a detersive power so great as to cause it to waste, are sour; those, that are quietly cleansing and detersive, are salt-like; but of those, that contract the pores and unite (their parts), the more rough, are harsh; while those, that produce a less effect, are bitter. But the power of the Touch has been prepared by the gods to lay hold of things warm and cold, and soft and hard, and light and heavy, and smooth and rough, so as to judge of the differences in them; and we call things, that receive a touch, yielding; but those, that do not yield, resisting.",
+"kind": "narration"
+},
+{
+"entry": 87,
+"who": "Narrator",
+"text": "Now this happens according to the bases of the bodies themselves. For those, that have a larger base, are stable, and fixed to their seat; but those, that stand upon a small one, are yielding easily, and are soft and change their place easily. Now that, which is rough, would be with an unequal surface combined with hardness; but that, which is smooth, (would be) what is with an equal surface combined with thickness. Moreover as the properties of cold and heat are the most opposite, they are combined from opposite causes. For that, which by the sharpness and roughness of its particles cuts through (a thing), produces the property of heat; but the thicker particles (produce) cold; while by their ingress they drive out the lesser, and compel the small ones to enter on the other hand into their vacant place. For a shaking and trembling takes place then; and upon this occurring the property of cold arises in bodies.",
+"kind": "narration"
+},
+{
+"entry": 88,
+"who": "Narrator",
+"text": "20. On the Heavy and Light",
+"kind": "heading"
+},
+{
+"entry": 89,
+"who": "Narrator",
+"text": "It is by no means proper to define the Heavy and Light by the up and down; for there is neither the up nor the down. For since the whole of heaven is like a sphere, and formed accurately even on its outward surface, some persons do not justly call one part up, and another down. For that is heavy, which is drawn with difficulty to a place contrary to nature; but (that which is drawn) easily, is light; and still further, heavy is that, which is composed of rather many particles; light, of very few.",
+"kind": "narration"
+},
+{
+"entry": 90,
+"who": "Narrator",
+"text": "21. On Respiration",
+"kind": "heading"
+},
+{
+"entry": 91,
+"who": "Narrator",
+"text": "We respire in this manner. There is around us from without a great quantity of air. Now this passes to within through the mouth, and nostrils, and the rest of the pores of the body, seen (only) by reason; and, after being warmed, it proceeds with haste to what is cognate in the external portions; and according to the road, by which it goes out, it drives back again the air to the parts within; and in this manner unceasingly, the circle being completed, are inspiration and expiration produced.",
+"kind": "narration"
+},
+{
+"entry": 92,
+"who": "Narrator",
+"text": "22. Respecting the Causes of Diseases",
+"kind": "heading"
+},
+{
+"entry": 93,
+"who": "Narrator",
+"text": "The causes of diseases (Plato says) are many. In the first place, the deficiency or the excess, in the elements, and their change into other places not their own; secondly, the inverse generation of homogeneous substances; as if from flesh were produced blood, or bile, or phlegm; for all these things are nothing else than a wasting away. For phlegm is the wasting away of flesh; but sweat and a tear are, as it were, the serous portions of phlegm. Now phlegm, when left without, produces leprosy and scurvy; but, when it is within and mingled with black bile, it induces what is called the holy disease. Now the phlegm, that is acrid and salt-like, is the cause of the affections, that exist with a cold. And all the parts, that are in a state of inflammation from bile, suffer this. For bile and phlegm work out very many and very various sufferings; the continued fever is produced from fire being in excess; the quotidian, from the excess of water being so; the tertian, from that of air; and the quartan, from that of earth. Let us speak next in order of the Soul, taking up the discourse from some point here, even though we shall appear to repeat some things.",
+"kind": "narration"
+},
+{
+"entry": 94,
+"who": "Narrator",
+"text": "23. On the three principal powers of the Soul",
+"kind": "heading"
+},
+{
+"entry": 95,
+"who": "Narrator",
+"text": "The gods, who formed the race of mortals, after they had received, as we have shown, the Soul of man, that is immortal, added to it two mortal portions. But that the divine and immortal portion of it might not be infected by the trifles of mortals, they placed over the body, as if they were appointing a ruler and a king over a citadel and assigning to him a residence, the head, which possesses a form, imitating that of the Universe; and they placed under it the rest of the body to minister to it; and attached that portion to it, as it were a vehicle, while they assigned to its mortal parts a dwelling place, one to one part and another to another. For they placed that, which feels anger, in the heart; but that, which is affected by desire, in the intermediate place between the boundary on the side of the navel and that of the diaphragm, after binding it down, as if it were a mad and wild beast.",
+"kind": "narration"
+},
+{
+"entry": 96,
+"who": "Narrator",
+"text": "But the lungs they planned, for the sake of the heart, to be soft and without blood, and with cavities, and sponge-like, in order that the heart, while leaping, according as anger was boiling, might have a softening down; but the liver for exciting the feeling of desire in the soul, and for rendering it gentle, by having a sweetness and bitterness; and moreover for making manifest the prophetic power in dreams; for there is shown in it the power carried on from the mind through what is smooth and thick and brilliant; but the spleen for the sake of the liver, in order that the former may cleanse the latter, and render it brilliant, and at least receive to the same the differences, generated by certain diseases around the liver.",
+"kind": "narration"
+},
+{
+"entry": 97,
+"who": "Narrator",
+"text": "24. On the division of the parts of the Soul",
+"kind": "heading"
+},
+{
+"entry": 98,
+"who": "Narrator",
+"text": "That the Soul is tripartite according to its powers, and that its parts are distributed to their own place according to reason, we may learn from hence. In the first place, the things, separated by nature, are different. Now that, which has the property of suffering, is naturally separated from that, which has the property of reasoning; since the latter is conversant about things, perceived by the mind; but the former about things painful and pleasant, and still further what has the property of suffering, being about things with life. Secondly, since the part, that has the property of suffering, and that which has the property of reasoning, are different by nature, it is meet for them to be in separate places. For they are found to be at war with each other. Now nothing is able to be at war with itself; nor can the things opposed to each other stand together at the same time about the same object. At least in the case of Medea, anger is seen to be at war with reason; for she says— I know how great the ills I’m about to do; But rage has a pow’r greater than my counsels.",
+"kind": "narration"
+},
+{
+"entry": 99,
+"who": "Narrator",
+"text": "And in the case of Laius, when carrying off Chrysippus, desire is at war with reason; for he says— Alas! this thing from god to man’s an ill, When, what is good, one knows, but uses not. Still further is it presented to the mind, that the property of suffering is different from that of reasoning, from the care of the property of reasoning being one thing, but that of suffering another; for the former is effected by the discipline of teaching; the latter by the practice of morality.",
+"kind": "narration"
+},
+{
+"entry": 100,
+"who": "Narrator",
+"text": "25. That the Soul is immortal",
+"kind": "heading"
+},
+{
+"entry": 101,
+"who": "Narrator",
+"text": "That the soul is immortal (Plato) proves by proceeding in this manner. The soul brings life to whatsoever she is attached, as being a thing born with herself. Now that, which brings life to any thing, is itself non-recipient of death; and a thing of this kind is immortal. If then the soul is immortal, it would be indestructible likewise. For it is an incorporeal existence, (and) not to be changed in its substance, and perceptible by mind, and invisible, and of one form; (and) therefore not to be put together; not to be dissolved; not to be scattered about. But the body is altogether the contrary; it is perceptible by sense; visible; to be scattered about; to be put together; of many forms. The soul too, being by means of the body close upon what is perceived by a sense, becomes giddy and is troubled, and, as it were, drunk; but being close upon what is perceived by mind, she becomes itself of itself composed and tranquil; nor is she like to that, by which, when she is close to it, she is troubled; so that she is rather like to what is perceived by mind. Now what is perceived by mind, is naturally not to be scattered about, and indestructible.",
+"kind": "narration"
+},
+{
+"entry": 102,
+"who": "Narrator",
+"text": "Moreover the soul naturally takes the lead. Now that, which naturally takes the lead, is like to what is divine; so that the soul, by being like to what is divine, would be indestructible, and incorruptible. (Again,) the contraries, that have no middle term, and exist, not according to themselves, but by some accident, are constituted by nature to be produced from each other; for instance, that, which men call life, is the contrary to death. As then death is the separation of the soul from the body, so likewise is life the meeting of the soul, which existed, it is plain, previously, with the body. If then the soul will be after death, and was, before it fell in with the body, it is reasonable to believe that it is eternal. For it is not possible to conceive what will destroy it. Moreover if learning is (but) recollection, the soul would be immortal. Now that learning is (but) recollection, we may be led (to believe) in this manner; for learning could not be based otherwise than on the recollection of what has been known of old.",
+"kind": "narration"
+},
+{
+"entry": 103,
+"who": "Narrator",
+"text": "For if we have an idea of universals from things taken in parts, how shall we find a way through things that are infinite, as regards their parts? or how from a few: for we should have been deceived by a falsehood, as say for example, by having decided that, what makes use of respiration, is alone a living being; or how would thoughts have the property of a principle? By an act of recollection then we have an idea from small cogitations, that secretly fall from some things taken in parts, while we are remembering what was known of old, but of which we met with the oblivion, when we were invested with a body. Further, the soul is not corrupted by its own wickedness; neither will it be corrupted by that of another person, nor by any thing else at all. And being in this state, it would be a thing incorruptible. Moreover that, which is self-moved, is ever-moved in the manner of a principle. Now a thing of this kind is immortal. The soul too is self-moved. Now the self-moved is the principle of all motion and generation.",
+"kind": "narration"
+},
+{
+"entry": 104,
+"who": "Narrator",
+"text": "But a principle is not generated, and is not to be destroyed; so that the soul of the Universe would be such, and that of man likewise; since both have a share in the same mixture. Now he says that the soul is self-moved, because it possesses a life born with it, (and) ever in action by itself. That rational souls then are immortal, a person might, according to this man, firmly assert; but whether the irrational are so likewise, is a doubtful point. For it is probable that irrational souls, driven about by a mere phantasy, and making no use of either reasoning or judgement, or contemplation and their combination, or intellectual apprehension, but, being altogether without thought, belong neither to a nature perceptible by mind, nor to an existence the same as the rational, and are mortal and corruptible.",
+"kind": "narration"
+},
+{
+"entry": 105,
+"who": "Narrator",
+"text": "And it follows upon the reasoning that souls are immortal, that they are introduced into bodies by their being innate in the natures, that form the foetus; and, by passing into many bodies, both human and not human, they ever remain the same in number, either by the will of the gods or through incontinence or a love for the body; for body and soul possess somehow an affinity with each other, like fire and brimstone. The soul of the gods too possesses the judging faculty, which may be called Gnostic, and the impelling, which a person would name the Parastatic, and the appropriating; which powers, existing in human souls likewise, after being invested with body, receive, as it were, a change, the appropriating into the feeling of desire, and the impelling into that of anger.",
+"kind": "narration"
+}
+]
+},
+{
+"name": "26. On Fate and Self-power",
+"lines": [
+{
+"entry": 106,
+"who": "Narrator",
+"text": "26. On Fate and Self-power",
+"kind": "heading"
+},
+{
+"entry": 107,
+"who": "Narrator",
+"text": "On the question of Fate something of this kind is the doctrine of this man. All things he says are in Fate, but all things are not however fated. For Fate, while holding the rank of a law, does not, as it were, say that one person shall do this, and another suffer that; for it would proceed to infinity; since the things produced are infinite, and infinite too the accidents around them; moreover that, which is in our power, would depart, and praise too and blame, and every thing (else) that borders on them; but (it says) that if a soul selects a life of this kind, and does some such acts, some such things will follow it. The soul then is without a master, and it rests with itself to do or not an act; nor is it forced to do this (or that). But that, which follows upon the doing, will be accomplished according to Fate. For instance, should a Paris carry off a Helen, it being in his power to do so, there will follow, that the Greeks will make war upon the Trojans for the sake of Helen. So too did Apollo foretell to Laïus— If thou child gettest, thee that child shall kill. Now in the oracle is comprehended both Laïus and his childgetting; but the consequence is fixed by Fate.",
+"kind": "narration"
+},
+{
+"entry": 108,
+"who": "Narrator",
+"text": "Now the nature of a possibility falls somehow in the middle between the true and the false; but that, which rests on ourselves, is borne, as it were, on a vehicle, upon that (possibility) which is naturally indefinite. Now that, which happens with our own choice, will be either true or false; but it differs from what is in possibility, that is (to say), what exists according to a habit and an active operation. For that, which is in possibility, indicates a certain fitness, as regards some things, which have not, as yet, the habit; as for example, a boy will be said to be in possibility a grammarian, or a flute-player, or a carpenter; but he will be such in the habit of some one or two of these (trades), when he shall have learned them, or possessed some of these habits: but as regards active operation, when he operates from the habits, which he possesses. But possibility is neither of these; while that, which rests on ourselves, being indefinite, receives, according to the balance either way, the truth or not.",
+"kind": "narration"
+},
+{
+"entry": 109,
+"who": "Narrator",
+"text": "27. On the Good, and on what is the most to be honoured in the things of the Good, and on Virtues",
+"kind": "heading"
+},
+{
+"entry": 110,
+"who": "Narrator",
+"text": "We must next speak in order and summarily of what has been said by the man on points of Morality. The good to be most honoured and the greatest, he conceived it was not easy to discover, nor safe for those, who discovered it, to expose before all. To a very few then of his well-known friends, and those previously tried, did he give a share of his lectures on the good. If any one however takes up his writings carefully, (he will say that) he has laid down our good in the knowledge and contemplation of the primary good, which a person would call god and the primary mind. For all the things, that in any way are held by man to be good, he conceived to have obtained that appellation from their participating somehow in the primary and most honoured (good), in the manner that things sweet and hot obtain their appellations according to their participation in their primaries; but of the things, that are with us, only mind and reason reached to a similitude with the very (good).",
+"kind": "narration"
+},
+{
+"entry": 111,
+"who": "Narrator",
+"text": "Hence our good is a thing honourable and venerable and divine and lovely and symmetrical, and called somehow happiness; but of the things, that are said by the many to be good, such as health, and beauty, and strength, and wealth, and what are near to these, there is not one altogether a good, unless it meets with the use of it arising from virtue; for when these are separated, they hold merely the rank of matter, existing as an evil to those, who use them evilly. And sometimes he has called even mortal things good. And happiness he conceived to exist not in human things, but in divine and blessed.",
+"kind": "narration"
+},
+{
+"entry": 112,
+"who": "Narrator",
+"text": "From whence he said that the souls of philosophers in reality were filled with things great and wonderful, and that after the dissolution of the body they became hearth-fellows with the gods, and go round with them, while surveying the level plane of truth; since even during the period of life they had a desire for his knowledge, and honoured his pursuit above (all); by which after (they) are purified and revivified, as it were, some eye of the soul, that, having been previously lost and blinded, is better to be saved than ten thousand eyes, becomes able to reach the nature of all that is rational. But on the other hand, men without minds are likened to those, who live under the earth, and who have never seen the brilliant light (of the sun), but look upon some dim shadows of the substances, that are with us, and conceive that they are clearly laying hold of what (really) exist.",
+"kind": "narration"
+},
+{
+"entry": 113,
+"who": "Narrator",
+"text": "For as these, when they meet with a return from darkness, and arrive at a clear light, reasonably condemn what appeared then, and themselves likewise, for having been greatly deceived before; so they, who pass from the darkness, in which they have lived, to things that are truly divine and beautiful, will despise what was previously viewed by them with wonder, and they will have a more violent desire for the contemplation of the last mentioned. And for them it is all in harmony to say that the honourable is the (only) good; and that virtue is self-sufficient for happiness. But why the good consists in the knowledge of the first (being) and is honourable, has been made manifest through the whole of his compositions. But in what relates to (the good) by participation (he explains) somehow in this manner, in the first book of the Laws – “Good things are two-fold; some relating to man, others to the gods,” and so on. Now if there is any thing separated (from virtue), it is without a share in the existence of the First; and yet this is called by the senseless a good; and to him who has this, Plato says in the Euthydemus, there is a greater evil.",
+"kind": "narration"
+},
+{
+"entry": 114,
+"who": "Narrator",
+"text": "And that he considered virtues to be chosen for their own sakes, we must take as a thing that follows, through his considering what is honourable as the only good. Now this very thing is shown in very many (dialogues), and especially in the whole of the Republic. For (he thinks) that the person, who possesses the before-mentioned knowledge, is the most fortunate and most happy; not on account of the honours, which, by being such, he will receive, nor on account of (other) rewards, but that, even if he lives in obscurity amongst all men, and there happen to him what are said to be evils, such as disfranchisement, and exile, and death, (he will nevertheless be happy); but on the other hand, that he, who possesses, with the exception of this knowledge, every thing considered a good, such as wealth, and great kingly power, and health, and strength, and beauty of body, will not be at all more happy. To all which he placed as an end, that was to follow, a similarity to god, as far as is possible. Now he takes this in hand in various ways.",
+"kind": "narration"
+},
+{
+"entry": 115,
+"who": "Narrator",
+"text": "At one time he says, as in the Theætetus, that to be prudent, and just, and holy, is a similarity with god; and hence it is meet to endeavour to fly as quickly as possible thither from hence; for that flight is a similarity to god, as far as is possible; and that it is a similarity likewise to become just and holy with prudence. At another time he says, as in the last book of the Republic, that to be just alone (is so); for never is that person at least neglected by the gods, who shall be willing to be ready to become just, and, by making virtue his pursuit, to be assimilated to god, as far as it is possible for a man to be. But in the Phædo he says that to be prudent and just is to have a similarity with a god, in these words – “Are not,” says he, “those the most fortunate and blessed, and proceeding to the best place, who make the virtue relating to the people and the state their pursuit, which persons call temperance and justice?” At another time he says that the end (of life) is assimilated with god; and another, (it is) to follow (god), as when he states, – “Now god, as the old saw (says, contains) the beginning and end,” and so on.",
+"kind": "narration"
+},
+{
+"entry": 116,
+"who": "Narrator",
+"text": "At another time both; as when he says, – “But the soul, that follows god, and is likened to him,” and so on. For the beginning of utility is the good, and this is said (to be) from god. The end therefore would follow upon the beginning, or on the being assimilated to god; that god, to wit, who is in heaven, or, by Zeus, above heaven, and who does not possess virtue, but is better than it. From whence one would correctly say that misery is the evil-doing of a presiding genius, but happiness the good-doing; and that we shall arrive at the being assimilated to god by making use of a fitting nature, and morals, and of conduct according to law, and perception, (according to nature,) and, what is the chief (of all), of reason and instruction, and the handing down of contemplation, so that we may for the most part stand aside from human affairs, and be ever busied in those perceived by mind.",
+"kind": "narration"
+},
+{
+"entry": 117,
+"who": "Narrator",
+"text": "Now the previous sacrifice to, and previous cleansing for, the deity within us, if we are about to be initiated into the greater subjects of learning, would be through Music, and Arithmetic, and Astronomy, and Geometry, while we are taking care at the same time of the body by means of the Gymnastic art, which puts bodies into a state well prepared for war and peace.",
+"kind": "narration"
+},
+{
+"entry": 118,
+"who": "Narrator",
+"text": "28. What is Virtue, and how Virtues are divided by Plato",
+"kind": "heading"
+},
+{
+"entry": 119,
+"who": "Narrator",
+"text": "While Virtue is a thing divine, it is itself a constitution of the soul perfect and the best, by causing a man to be with a good habit, and firm, and consistent, in speaking and acting, as regards both himself and others. But of its forms some are under reason, some are not. For as the irascible, the rational, and the concupiscible are different, so different too would be the complete state of each. Now the perfection of the rational part is Prudence; of the irascible, Fortitude; but of the concupiscible, Temperance. Now Prudence is a knowledge of things good and bad, and of what are neither the one nor the other. But Temperance is a well-ordering (of the soul) relating to desires and longings, and their obedience to the leading power. But when we say that Temperance is a well-ordering and obedience, we suggest something of this kind, that there is a power, according to which the longings are in a well-regulated and obedient state, as regards that, which is naturally the master, namely, the rational power. But Fortitude is a power preservative of a lawful dogma dreadful or not dreadful, .",
+"kind": "narration"
+},
+{
+"entry": 120,
+"who": "Narrator",
+"text": "But Justice is a certain agreement on the part of these with each other, being a certain power, according to which the three parts of the soul agree and harmonize with each other, and each performs its own office according to its worthiness, that there may be a completion of three combined virtues, Prudence, Fortitude, and Temperance, while reason is the ruler, and the rest of the parts of the soul are kept down, according to their own peculiarities, by reason, and by their being obedient to its rein; from whence we must conceive that these virtues follow (each other) in turn. For as Fortitude is preservative of a lawful dogma, so it is of right reason. But right reason comes from Prudence. Moreover, Prudence stands as an ally with Fortitude. For it is the knowledge of good things. Now no one is able to see what is good, while it is rendered obscure by cowardice, and the feelings that follow upon cowardice. And nearly in the same manner a person is unable to act with prudence in union with intemperance, or generally through being subdued by any feeling.",
+"kind": "narration"
+},
+{
+"entry": 121,
+"who": "Narrator",
+"text": "And if he does any thing contrary to right reason, Plato says that he suffers thus through ignorance and folly; so that he would not be able to possess Prudence, while he is intemperate and a coward. The perfect virtues therefore are thus inseparable from each other.",
+"kind": "narration"
+},
+{
+"entry": 122,
+"who": "Narrator",
+"text": "29. On Virtues and Vices; and, further, how each of them are distinguished",
+"kind": "heading"
+},
+{
+"entry": 123,
+"who": "Narrator",
+"text": "In another way likewise there are what are called Virtues, such as good natural qualities, and a progress towards them, that have an appellation, similar to their perfections, through a similarity with them. Thus, for instance, we call certain soldiers brave; and sometimes we say that certain persons are brave, although they are thoughtless, while we are taking into account virtues that are not perfect. Now the perfect virtues have neither an extension nor remission. Vices however admit both of extension and remission; for one person is more thoughtless and more unjust than another. And yet vices do not follow each other. For some are opposites; which cannot exist around the same person. For such is the state of boldness as compared with cowardice, and extravagance, with a love of money; since it is really impossible for a man to exist, who is laid hold of by every kind of vice; for neither can the body possess in itself all the evils of the body. We must therefore admit a certain intermediate state, neither bad nor good.",
+"kind": "narration"
+},
+{
+"entry": 124,
+"who": "Narrator",
+"text": "For all men are not either (entirely) good or bad; since such are those, who are making a progress to a sufficient good; for it is not easy to pass immediately from vice to virtue; since there is a great interval between extremes from each other, . And we must consider that some Virtues lead and others follow; and that the leaders are those, which are in the (portion), influenced by reason, from whom the rest obtain their perfection; but the followers are those in the portion affected by suffering; for these work out what is right, not according to the reason that is in them – for they have it not – but according to that, which is bestowed upon them by Prudence, (and) generated by custom and practice. And since neither sciences nor arts exist in any other part of the body, except the rational alone, the virtues connected with that, which is affected by suffering, are not to be taught, because there are neither arts nor sciences; for they do not possess a peculiar contemplation.",
+"kind": "narration"
+},
+{
+"entry": 125,
+"who": "Narrator",
+"text": "Prudence however, as being a science, imparts to each (subordinate virtue) its own peculiarity, just as the pilot gives to the sailors certain orders, not contemplated by them, and they obey him. And the same reasoning applies to a soldier and a general. Since then vices admit of extension and remission, the sins (arising from them) would be not equal, but some greater and others less; and consequently some are punished more, and others less, by lawgivers. But though Virtues are extremes, through their being perfect, and similar to what is straight, they would be in another way means, through there being seen about all or the most of them two vices, one on each side, in excess and deficiency; as in the case of liberality, there is on one side parsimony, on the other extravagance. For in such circumstances there is a want of moderation, according as what is becoming is either in excess or deficiency. For neither would a person be apathetic, who, when his parents are assaulted, is not angry; nor would he be moderately affected, who (is angry) at every thing even of a common kind; but quite the contrary.",
+"kind": "narration"
+},
+{
+"entry": 126,
+"who": "Narrator",
+"text": "Again, in like manner, he, who is not pained, when his parents die, is apathetic; while he, who is affected excessively, so as to waste away by grief, is immoderately affected; but he, who suffers this pain in moderation, is moderately affected. Moreover he, who dreads every thing and beyond moderation, is a coward; but he, who fears nothing, is bold; while he, who is moderate in things of fear and boldness, is brave. And the same reasoning applies to other cases. Since then moderation in all affections is the best, and nothing else is moderate, but what is a mean between excess and deficiency, on this account Virtues (are) of this kind, through a mediocrity, because they cause us to be in a medium state in affections.",
+"kind": "narration"
+},
+{
+"entry": 127,
+"who": "Narrator",
+"text": "30. How Virtue is a voluntary thing, but Vice an involuntary one",
+"kind": "heading"
+},
+{
+"entry": 128,
+"who": "Narrator",
+"text": "Since there is, if any thing else, what is in our power and without a master, Virtue is likewise a thing of this kind. For what is honourable would not be an object of praise, if it were from nature or a divine lot. Virtue therefore will be likewise a voluntary thing, existing, according to some impulse, fiery, and noble, and permanent. From Virtue then being voluntary, it follows that Vice is involuntary. For who would willingly choose to have in the best part of himself and in the most worthy of honour the greatest of ills. But if any one rushes on to Vice, in the first place he will rush on not as to Vice itself, but as to a good thing. And if a person improperly stretches himself onward altogether to viciousness, such a person has been deceived, as having been about to reap a greater good at a distance from home by means of some lesser ill; and in this way he will arrive at it unwillingly. For it is impossible that a person should wish to rush on to what are ills in themselves, with neither the hope of (some) good nor the fear of a greater ill. Whatever wrongs then a bad man does are involuntary.",
+"kind": "narration"
+},
+{
+"entry": 129,
+"who": "Narrator",
+"text": "Since then a wrong is involuntary, the doing an injustice is still more an involuntary act, by how much the greater ill it would be for that person to be active in doing an injustice, than for injustice to keep itself quiet. And yet, although acts of injustice are involuntary, we must punish the doers of injustice differently. For different are the mischiefs done; and the involuntariness lies either in ignorance or some suffering. Now all of these it is permissible to turn aside by reasoning, and urbanity in conduct, and care. So great an ill (then) is injustice, that to act unjustly is a thing more to be avoided than to suffer unjustly. For the former is the work of a bad man; but the latter is the suffering of a weak one. And both is a base thing. But to act unjustly is so much the greater ill, as it is the baser thing. And it is an advantage to him, who acts unjustly, to undergo punishment, as it is to a person diseased to give up his body to a physician to cure. For all punishment is a cure for a soul that has sinned.",
+"kind": "narration"
+},
+{
+"entry": 130,
+"who": "Narrator",
+"text": "31. What are Affections; and on their distinctions",
+"kind": "heading"
+},
+{
+"entry": 131,
+"who": "Narrator",
+"text": "But since most Virtues are conversant with Affections, let us define what kind of a thing is an Affection. Now an Affection is an irrational movement of the soul, as regards either an ill or a good. And a movement has been called irrational, because Affections are neither decisions nor opinions, but movements of the irrational portions of the soul. For in the part of the soul, subject to Affections, there exist things, which, although they are our works, are nevertheless not in our power. They are however frequently produced in us, when not willing and resisting. Sometimes too, while knowing that, what have fallen on us, are neither painful, nor pleasant, nor fearful, we are not the less led by them; what we should not have suffered, had these Affections been the same as decisions. For the latter we reject, when we condemn them, whether fittingly or not fittingly. For a good or for an ill: since on the appearance of an indifferent thing an Affection is not put into motion. For all Affections exist, according to the appearance of a good or an ill.",
+"kind": "narration"
+},
+{
+"entry": 132,
+"who": "Narrator",
+"text": "For if we imagine that a good is present, we are pleased; and if it is about to be, we desire it; but if we imagine that an ill is present, we are pained; and what is about to be, we fear. For there are two Affections, simple and elementary, (namely,) Pleasure and Pain, and from these the rest are formed. For we must not number with these Fear and Desire, as being of the nature of principles and simple. For he, who fears, is not entirely deprived of pleasure: since if a person has existed through a time, that may have happened, while despairing of a release from, or an alleviation of, the ill; he abounds however in being pained and troubled; and on this account he is united to pain; and he, who desires, while remaining in the expectation of obtaining (his wish), is pleased; but as he is not completely confident, nor has a firm hope, he is weighed down. Since then Desire and Fear are not of the nature of principles, it will be conceded without a doubt that not one of the other Affections is simple, such, I mean, as Anger, and Regret, and Jealousy, and such like. For in these Pleasure and Pain are seen, mixed up, as it were, in a manner with them.",
+"kind": "narration"
+},
+{
+"entry": 133,
+"who": "Narrator",
+"text": "But of Affections some are of a wild kind, others of a tame. Now the tame are such as exist in man according to nature; (being) both necessary and proper; and they are in this state, while they preserve some measure; but when there is found in them a want of measure, they then become deviations from right. Of such a kind are Pleasure, Pain, Anger, Pity, Shame. For it is proper to be pleased at things that happen according to nature, but to be pained at their contraries. And Anger is necessary for self-defence and to avenge oneself upon foes; and Pity is proper for a love of mankind; and Shame is requisite for a retreat from things that are base. But other Affections, which are contrary to Nature, are of a wild kind, and arise from a perversion (of mind), and improper habits. Of such a kind is (excessive) laughter, and a rejoicing over calamities, and a hatred of mankind; which, by being stretched out and relaxed, and existing in any state whatsoever, are deviations from right, through not receiving any moderation.",
+"kind": "narration"
+},
+{
+"entry": 134,
+"who": "Narrator",
+"text": "And on the subject of Pleasure and Pain Plato says, that these Affections, existing somehow naturally in us from the beginning, are put into motion and carried onward; since Pain and Sorrow are generated for those, who are excited contrary to nature; but Pleasure for those, who return to their former state according to nature. Now he conceives that the state according to nature is a mean between Pain and Pleasure – while it is the same with neither of them – in which (mean) we exist for the greater portion of time. He teaches moreover that there are many kinds of Pleasures, some (felt) through the body, and others through the soul; and that of Pleasures some are mixed with their opposites; but others remain pure and undefiled; and that some are the result of memory, and others united to hope; and that some are disgraceful, such as are unrestrained, and combined with injustice, but others moderate, and participating somehow otherwise in the good, such as the good-will felt towards the good, and the pleasure received from acts of virtue. But since many pleasures are naturally in no repute, we must not inquire, whether they can belong to the simple good.",
+"kind": "narration"
+},
+{
+"entry": 135,
+"who": "Narrator",
+"text": "For that seems (to be) evanescent and of no value, which is an after-production, not by nature, and has nothing essence-like, or that takes the lead, but is coexisting with its opposite; for Pleasure and Pain are mingled. Now this would not have happened, if one (namely, Pleasure) were a simple good, and the other (namely, Pain) an ill.",
+"kind": "narration"
+}
+]
+},
+{
+"name": "32. On Friendship",
+"lines": [
+{
+"entry": 136,
+"who": "Narrator",
+"text": "32. On Friendship",
+"kind": "heading"
+},
+{
+"entry": 137,
+"who": "Narrator",
+"text": "That, which is called especially and properly Friendship, is nothing else than what exists according to a reciprocal kind feeling. Now this takes place, when each party wishes equally that his neighbour and himself should do well. And this equality is not otherwise preserved than through a similarity in manners. For like is friendly to like, when they are in moderation; but when they are immoderate, they can suit neither each other, nor what are moderate. There are likewise some other friendships so considered, but not however really being so, that receive a colour, as it were, from Virtue; such as the natural friendship of parents towards their offspring, and of relations towards each other, and that which is called political and sociable. But these do not always have a reciprocity of kind feelings. There is likewise an amatory kind of friendship. Now of the amatory one kind is well-behaved, as being that for a virtuous soul; but another ill-conducted, as being for a vicious (soul); and there is an intermediate (kind) for that, which is of a medium disposition.",
+"kind": "narration"
+},
+{
+"entry": 138,
+"who": "Narrator",
+"text": "For as there are three states of the soul in a rational living being, one good, another bad, and a third between those two, so there will be three amatory states, differing from each other in kind. Now that they are three, their aims point out especially by differing from each other. For the bad is the love of the body alone, through its being overcome by what is pleasant; and this is after the manner of beasts; but the well-behaved is for the sake of the naked soul, in which there is seen a fitness for virtue; but the intermediate has a longing for the body, and a longing likewise for the beauty of the soul. He too, who is worthy to be loved, is himself a mean, as being neither ill-conducted nor well-behaved; from whence we must call the love, that lays claim to the body, some dæmon rather than a god, who has never been generated in an earthly body, (and) is the conveyor of what is sent by the gods to man, and conversely.",
+"kind": "narration"
+},
+{
+"entry": 139,
+"who": "Narrator",
+"text": "The amatory then, being thus commonly divided into the three kinds before mentioned, the one, which relates to the love of the good, being freed from an affection, becomes a thing of art; from whence it is placed in the rational (portion) of the soul; and its contemplations are to know n the person worthy to be loved, and to possess and make use of him; and further to judge of him from his propensities and impulses, whether they are noble, and tending to what is honourable, and whether they are violent and fervid. And he, who strives to possess it, shall possess it, not by rendering delicate or praising the object of his love, but by repressing it rather, and showing that by a person, being in the state he is now, life is not to be lived. And when he gets the party loved into his power, he will make use of him, after having enjoined the things, through which he will, after being practised in them, become perfect; and the end to them (will be), that, instead of a lover and a beloved, they will become friends.",
+"kind": "narration"
+},
+{
+"entry": 140,
+"who": "Narrator",
+"text": "33. On the Forms of Polity",
+"kind": "heading"
+},
+{
+"entry": 141,
+"who": "Narrator",
+"text": "Polities (Plato) says that some (exist in reality, but some) are supposed to exist, such as he has detailed in the Republic. For in that (treatise), he has depicted the former as unwarlike; but the latter as being in a feverish state and warlike, while seeking which of these would be the best, and how they should be constituted. And it is there that, nearly alike to the division of the soul, is a Polity divided into three parts, relating to the guardians and aiders and operatives; to the first of which he assigns the counselling and ruling power; to the second, that of fighting for (the state), if need be; who are to be put into order according to the principle of anger, as if they were the allies of the rational principle; but to the last (he assigns) arts, and the rest of handicrafts. And he conceives it right for the rulers to be philosophers, and contemplative of the primary good; for they alone will administer all things properly; for never will human affairs cease from ills, unless philosophers become kings, or those, who are called kings, become, from some divine allotment, truly philosophers.",
+"kind": "narration"
+},
+{
+"entry": 142,
+"who": "Narrator",
+"text": "For states will act the best and with justice at that time, when each portion of it is under its own law; so that the rulers may consult for the people, and the cofighters be their servants and fight in their behalf, while the rest follow them obediently. And he says there are five kinds of Polities; (the first), an aristocracy, when the best are in power; the second, a timocracy, where those fond of honours are the rulers; the third, a democracy; and after this an oligarchy; and the last, a tyranny, which is the worst. He depicts likewise other Polities, hypothetically; of which there is that in the Laws, and that too, after correction, in the Epistles; of which he makes use for the states, that are labouring, as mentioned in the Laws, under a disease, and possessing a region bounded off, and persons selected from every age, so that, according to the differences in their nature, and places, there may be a need of peculiar instruction and of bringing up and of using arms.",
+"kind": "narration"
+},
+{
+"entry": 143,
+"who": "Narrator",
+"text": "For they, who are near the sea, would apply themselves to navigation and to naval battles: while those, dwelling inland, would be fitted for fighting on foot, and the use of arms, either the lighter, like mountaineers, or the heavier, like persons living on hilly plains; and some would practise cavalry exercise. But in this state he does not lay down by laws that women are to be in common. Political virtue is therefore contemplative and practical, and that which chooses to make a state good and happy, and of one mind and of one voice; (and) it enjoins commands, and has under it the science of war, and generalship, and law-judgements. For Political science considers ten thousand other matters, and especially this very one, whether we must engage in war or not.",
+"kind": "narration"
+},
+{
+"entry": 144,
+"who": "Narrator",
+"text": "34. On the Sophist",
+"kind": "heading"
+},
+{
+"entry": 145,
+"who": "Narrator",
+"text": "It has been stated before what kind of person is the philosopher. From him the Sophist differs, first in manner, in that he is the seeker of pay from young persons, and is willing to be considered a person with bodily and mental accomplishments, rather than to be so; and (secondly) in matter, in that the philosopher is conversant with things existing for ever and in the same state; while the Sophist busies himself about that which is not, and retires to a spot, difficult to be seen on account of its darkness. For to that, which is, that, which is not, is not opposed. For the latter is unsubstantial and unintelligible, nor has it any basis; and which, if a person were compelled to speak of, or to think upon, he would be overthrown, through his bringing a battle around himself. Now that which is not, as far as it is understood, is not a naked negation of what is, but (it is) with a joint-meaning as regards another thing, which follows upon the primary being; so that, unless these too had participated in that, which is not, they would not have been separated from the others. But now, as many soever as are the beings that are, so many times is the being, which is not.",
+"kind": "narration"
+},
+{
+"entry": 146,
+"who": "Narrator",
+"text": "For that, which is a not-being, is not a being. So much it suffices to be said for an Introduction to the doctrine-making of Plato; of which a part has been stated in an orderly manner; but a part dispersedly and in no order; so that it is in the power of any one, from what has been said, to become contemplative and detective of the rest of his doctrines by following out these.",
+"kind": "narration"
+}
+]
+}
+]
+}

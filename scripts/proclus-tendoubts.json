@@ -1,0 +1,547 @@
+{
+"key": "proclus-tendoubts",
+"title": "Ten Doubts Concerning Providence",
+"author": "Proclus",
+"translator": "Thomas Taylor",
+"parts": [
+{
+"name": "Preface",
+"lines": [
+{
+"entry": 0,
+"who": "Platonist Reader",
+"text": "Preface",
+"kind": "heading"
+},
+{
+"entry": 0,
+"who": "Platonist Reader",
+"text": "Translated by Thomas Taylor, 1833",
+"kind": "narration"
+},
+{
+"entry": 1,
+"who": "Platonist Reader",
+"text": "Contents",
+"kind": "heading"
+},
+{
+"entry": 2,
+"who": "Platonist Reader",
+"text": "Preface.",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Platonist Reader",
+"text": "Ten doubts concerning Providence, &c.",
+"kind": "narration"
+},
+{
+"entry": 4,
+"who": "Platonist Reader",
+"text": "Preface",
+"kind": "heading"
+},
+{
+"entry": 5,
+"who": "Platonist Reader",
+"text": "No subjects of discussion are perhaps more interesting or more important than those of which the present volume consists. For what can more demand our most serious attention, or what can be more essential to the well-being of our immortal part, than a scientific elucidation and defence of the mysterious ways of Providence, and a development of the nature of Evil? For as Divinity is goodness itself, it is requisite that all the dispensations of his providence should be beneficent, and that perfect evil should have no real existence in the nature of things. That this is necessary, is demonstrated by Proclus in the following Treatises with his usual acuteness and eloquence, by arguments which are no less admirable for their perspicuity, than invincible from their strength.",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Platonist Reader",
+"text": "In praise of Proclus, I have said so much in most of my other numerous works, that I shall only summarily observe at present respecting this coryphæan philosopher, that his disciple Marinus says in his Life of him, “that he was wise in a most transcendent degree”; and that Ammonius Hermias calls him hie divine preceptor, and says “that he possessed the power of unfolding the opinions of the ancients, and a scientific judgement of the nature of things, in the highest perfection possible to man”. And with respect to his eloquence, his before-mentioned disciple Marinus says, “that he did not appear to be without divine inspiration, for he produced from his wise mouth words similar to the most thick-falling snow; so that his eyes emitted a bright radiance, and the rest of his countenance participated of divine illumination”. Among the moderns also, the sagacious Kepler, after having made a long extract from the first book of the Commentaries of Proclus on Euclid, says of him, “His language flows like a torrent, inundating its banks, and hiding the dark fords and whirlpools of doubts, while his mind, full of the majesty of things of such a magnitude, struggles in the straits of language, and the conclusion never satisfying him, exceeds by the copia of words, the simplicity of the propositions”. Dr. Barrow also, in his Mathematical Lectures (p. 8.), quotes Proclus’s eulogy of a point, and says that it is magnificently written. And lastly, the author of the Pursuits of Literature calls Proclus, alluding to his diction, “the animated rival of Plato.”",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Platonist Reader",
+"text": "With respect to Morbeka, the author of the Latin version from which the following translation was made, the Greek original being unfortunately lost, nothing more is known of him than that he was Archbishop of Corinth in the thirteenth century, and that the version of the former of these treatises was completed by him in the year 1280, on the 4th day of February. His version also of the very admirable treatise of Proclus on Providence and Fate, was first published entire by Fabricius in the eighth volume of his Bibliotheca Græca, and afterwards, together with his Latin version of the two following treatises, by Victor Cousin, Professor of Philosophy in the University of Paris, 8vo, 1820. To this gentleman, who, as well as myself, is an ardent admirer of the philosophy of Plato, the public are indebted for excellent editions of the Commentaries of Proclus on the First Alcibiades, and on the Parmenides of Plato.",
+"kind": "narration"
+},
+{
+"entry": 8,
+"who": "Platonist Reader",
+"text": "I shall only further observe, that in the following translation I have endeavoured to give the accurate meaning of Proclus, and to preserve as much of his manner as is possible, from an original which, as Fabricius justly observes, is “all but barbarous”; and that the reader will find in these Treatises a demonstration of those great Platonic dogmas which Pope has so elegantly celebrated in his Essay on Man, but without attempting to prove that they are true. The dogmas I allude to are the following: That “there must be somewhere, such a rank as Man”; that “all partial evil is universal good”; and that “whatever is, is right” Hence Proclus proves by incontrovertible arguments, that evil has no real existence, but has only a shadowy subsistence, and that Divinity concealed it in the utility of good.",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Platonist Reader",
+"text": "TEN DOUBTS CONCERNING PROVIDENCE, &c",
+"kind": "heading"
+},
+{
+"entry": 10,
+"who": "Platonist Reader",
+"text": "The great Plato, in the tenth book of his Laws, compels us, by adamantine arguments, as it were, to confess that Providence has an existence; and also elsewhere in many places, as in the Timæus, he shows that the Demiurgus has elaborated the fabrication of things, by his providential energies, as far as to the last portion of intelligence, and this he likewise clearly asserts. But it is requisite that we should be persuaded by what Plato has demonstrated, and by the most efficacious attestations given by the oracles to the demonstrations of Plato. For I conceive that this tradition of the oracles to the worthy auditors of the Gods, is a most manifest demonstration of the existence of Providence, in answer to whatever opposes it according to the conceptions of the multitude, and is sufficient to repel the phantasms which prevent them from believing that all things subsist conformably to the will of Providence, and to lead them from base garrulity on this subject, to the truth of things. And we say this, not as if we thought that what has been written on this subject by those prior to us is not worthy of great attention, but because the soul, though these things have been the occasion of doubt, and have been distinctly considered a thousand times, yet desires to hear and speak concerning them, to revolve them, and, as it were, discuss them in herself, and is not willing to receive information alone about them from others. Let us, therefore, interrogate ourselves, and doubting, in the secret recesses of the soul, endeavour to exercise ourselves in the solution of doubts, considering it as of no consequence whether we discuss, or whether we do not, what has been said by those prior to us; since as long as we deliver what we are persuaded is truth, we shall appear to assert and to write our own conceptions on this subject To which may be added, that we shall have Hermes for our common leader, who is said to insert anticipations of common conceptions in every soul.",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Platonist Reader",
+"text": "1. And prior to everything else, let us investigate whether Providence extends to all things, to wholes and parts, and to the most individual things in the heavens, and under the heavens, to eternal and corruptible natures. But it is requisite that Providence should either know the desert of the things for which it provides, or that it should not lead all things according to their desert, in consequence of being ignorant of their worth. We must also investigate the manner in which Providence knows all things, both wholes and parts, and corruptible and eternal natures, and what the characteristic is of its knowledge. And if we are able to apprehend this, afterwards something else, and again another thing will become the subject of doubt.",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Platonist Reader",
+"text": "Considering therefore this in the first place, and invoking the common leader, Hermes, we must say that with respect to knowledge, one kind is connascent with irrationality, and is called sense or phantasy; it also pertains to things of a partial nature, and which are not external to body, and therefore manifests that the cognitions themselves are directed to partial essences. But another kind of knowledge is essentially inherent in the rational life, and is called opinion and science; differing indeed from irrational cognitions in this, that it knows universals, they, as we have said, having a perception of partial qualities alone. These two kinds of rational knowledge likewise differ from each other, because the one, viz. opinion, is the knowledge of mutable natures; but the other, viz. science, is the knowledge of things permanently immutable. Prior to these, however, there is another knowledge, which is denominated intellectual; of which one kind apprehends all things at once and simply, but the other is a knowledge, not of all things at once, but of one thing at a time. And in this they differ, one being the knowledge of an intellect in every respect perfect, but the other being the knowledge of partial intellects; all intellectual essences indeed understanding all things, and in this transcending rational cognitions; but one intellect having a total subsistence, and intellectually perceiving all things totally; but another apprehending all things partially, because being itself partial, its intellections are also of a partial nature.",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Platonist Reader",
+"text": "Beyond all these, however, is the knowledge of Providence, which is above intellect, and exists in the one alone, according to which every God is essentialized, and is said to attend providentially to all things, establishing himself in an energy prior to intellectual perception. By this one, therefore, according to which also he subsists, he knows all things. For if we admit that other cognitions necessarily remain connascent with the essences to which they pertain, — as, for instance, phantasy and sense, which, being irrational, belong to the irrational life, and likewise the cognitions prior to these, which are rational, as pertaining to rational souls, and the intellectual to intellectual essences, — it would be absurd not to admit, that the cognitions of the Gods, so far as they are Gods, are defined according to an hyparxis which is transcendently one, since from common conceptions we think that divinity is something better than intellect, and that the knowledge of everything is conformable to what the thing is.",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Platonist Reader",
+"text": "If, therefore, Providence subsists according to the one, and is that which imparts good to all things, and the good is the same with the one, through being which it provides for all things, in this one it likewise knows the things which are the subjects of its providential energies. By the one, therefore, it possesses the power of knowing all things. To this one, however, there is no greater knowledge of wholes than of parts; of things which are according to nature, than of such as are preternatural; of species, than of things which are without species. For as of all sensible things, it is necessary that there should be some impartible organ which forms a judgement of them, — and likewise of the forms prior to sensibles, that there should be another judiciary organ by which they are perceived; since if the judiciary organ was divisible, and by one part of itself perceived one thing, and by another part of itself another thing, it would be just the same as if I should perceive this thing, but you that; — thus also it is requisite that there should be something prior to forms, which has one knowledge both of universals and individuals; or after what manner could it arrange them, — these indeed as participants, but those as things participated?",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Platonist Reader",
+"text": "To these, however, there is nothing else common than unity. Prior therefore to forms, there is something gnostic, which knows all things so far as they are one. But it is evident that this which knows according to the one, knows so far as the similar is known by the similar, I mean so far as that which proceeds from a cause is known by its cause. For everywhere, and in all these, there is the one. And, indeed, every being, of whatever kind it may be, does not subsist universally; since that which exists according to a part, is different from that which exists as a whole. Nor is everything species , since there is something else which is not species; nor is everything according to nature, since there is also that which is preternatural.",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Platonist Reader",
+"text": "But everything which can be conceived, whatever it may be, is one, in consequence of the one existing above all things. If, however, there is anything which does not participate of the one, neither will it wholly participate of being, nor will it be able to participate of Providence. If, therefore, nothing escapes the one that which knows all things from itself, will possess this knowledge through a transcendency of union; since it will know all things either by the one, or by that which is not the one. This latter mode of knowledge, however, is of a subordinate nature, and foreign from that of the one. By the one, therefore, Providence knows everything which is in any respect whatever one. For unity is common to all things, both to beings, and to nonbeings. For the me of it is not like an individual one.",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Platonist Reader",
+"text": "For this is the last of beings, and is inferior to that which is universal, through the participation of which it is that which it is. The one of Providence, however, is more excellent than that which is universal: for the universal is a certain one, but is not the one itself; because it is many things, and not one alone, in consequence of possessing the differences of the things which it contains. But neither is the me according to which Providence exists such as a whole; for this indeed is partible; but that as being truly one, is also truly impartible.",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Platonist Reader",
+"text": "And it is said indeed, and is rightly said, that the whole circle exists centrally in the centre, since the centre is the cause, but the circle the thing caused; and for the same reason every number subsists monadically in the monad. All things, however, exist in the one of Providence in a far superior manner, since it is in a much more transcendent degree one than a centre and the monad. As, therefore, if the centre had a knowledge of the circle, it would have a central knowledge of it, as it likewise has a central hypostasis, and would not distribute itself into parts with the parts of the circle; . And neither is its knowledge divided with the things known; nor are the things that are known confounded on account of the profound union of knowledge. This knowledge, however, being one, comprehends indeed all the infinity of the objects of knowledge, but is transcendently united above all the union that is in them. Such, therefore, is the answer to the first of the doubts concerning Providence.",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Platonist Reader",
+"text": "2. If you are willing, however, we will direct our attention to a second object of inquiry. We say, then, that Providence knows things of a contingent nature; and by the ancients the profundity of this doubt has been sufficiently established: for on account of this profundity, some of them, admitting the existence of Providence, have taken away from beings the nature of what is contingent; but others, not at all contradicting the evidence which presents itself for the subsistence of contingent events, have denied that Providence extends as far as to these. Both these, however, preassume rightly that Providence exists, that the thing known is definite to the gnostic nature, and that the indefiniteness of that which is known arises from its own nature. We however say, that Providence knows the whole of this, in consequence of possessing a definite knowledge of the indefinite, the indefiniteness being about to be, but not actually existing, and knowledge antecedently comprehending the cause of that which is indefinite.",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Platonist Reader",
+"text": "For Providence knows that something indefinite will take place, and looking to the cause of this, it knows the indefinite thing; and as it gave subsistence to, so likewise it knows the indefinite, not by the indefinite, but as it produced the indefinite by the definite: in like manner it knows the indefinite definitely, just as it knows incorporeally and without interval, that which is distended into bulk and is corporeal. And if, indeed, the reason which is in seed, being one and wholly in each part of the seed, and possessing the cause of the seed, should know that there would be a separation of its productive power from itself, existing indeed as the cause of a distribution into parts to that which is posterior to itself, but being itself impartible; — in this case, it would say, I possess the whole of this partibility impartibly; not existing separately from either, but containing that which is subordinate in that which is more excellent; so that neither is the distribution without a cause, nor does it pre-exist in the cause , but it subsists there according to cause, and in its participants, according to hyparxis.",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Platonist Reader",
+"text": "And if, indeed, it should investigate the cause of that partition, it would find it in itself, because in itself it is impartible; but when it becomes situated in another subject, and not in itself, it is the source to them of a distribution into parts, in consequence of which each of the parts is not everywhere. After this manner therefore we say, that Providence being the cause of all things, knows the things of which it is the cause, has a definite knowledge both of that which is definite and of that which is indefinite, and gives generation to things which will have an indefinite subsistence. Nor does anything impossible happen on account of this, in whose knowledge they are antecedently comprehended, and in such a way as is adapted to causes. But this is now manifest.",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Platonist Reader",
+"text": "3. In the third place, the doubt consequent to this deserves to be considered, since it likewise requires much attention; viz. if Providence is the cause both of things definite and indefinite, whether it is the cause of both these according to one and the same thing, or according to different things. For if according to the same thing, how can it perceive in its knowledge, that this thing which is produced by it will be definite,. For everything which is of a providential nature, if we believe in common conceptions, always procures some real or some apparent good for the objects of its providential care; nor is providential anything else than beneficent energy. But we have before observed, that to impart good is the same thing as to impart unity, because the one is good, and the good is one; and this has been ten thousand times asserted. We say, therefore, that Providence is characterized by the one, or, which is the same things by the good. The one of it, however, as we have before observed, is neither such as a material one, — for this is inefficacious and unprolific, because after matter there is nothing, — but the one of Providence is prolific and most efficacious, because all things are posterior to Providence. Nor is it one as that which is an individual; for this presents itself to the view in the last division of things, and is one in such a way as to be none of other things. But Providence is one as containing all things, as present to all things of which it is the cause, and as the salvation of all things; for this, indeed, though it comprehends the things which are under it, and imparts essence to each of them, in consequence of containing their differences causally, yet it is essentially one many. The one of Providence, however, is exempt from all the beings of which it is the productive and perfective cause, and is unreceptive of variation of every kind. Providence, therefore, being no one of these, but established above every specific essence, and nevertheless producing all things according to the most profound union, possesses a power uncircumscribed, and incomprehensible by all things; so that neither can any one of the natures which subsist from it, nor all of them taken collectively, unfold the power which pre-exists in it, or receive and comprehend the immensity of it in its bosom. But all things being as it were absorbed by Providence, they participate of it in some way or other, according to the natural adaptation of each to this participation.",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Platonist Reader",
+"text": "Hence the one of Providence, being more profoundly one than every incorporeal and corporeal union, and being infinitely powerful, possesses this power in an infinitely greater degree than every infinite and finite power. For it is not at all wonderful that in infinite powers one should be more infinite than another. For the infinite according to quantity must not be considered as existing in the one of Providence; since in quantity there is not the infinitely more than the infinite. Nevertheless, everything infinite will be such to the natures which are under it, according to infinite power; but to the natures which are prior to it it will be finite, in consequence of being bounded by them. For if it were not comprehended by the natures prior to it, neither could it be under the dominion of things more excellent than itself, and therefore would not be contained by them. If, therefore, it is contained by them though it is infinite, they predominate over it; and if they predominate over it, and it is comprehended by them, it is not infinite . Neither, likewise, is it infinite to itself. For that which is infinite to itself, is incomprehensible to itself; and hence it is not able to contain, and be the saviour of itself. But every being is according to power preservative of itself. It remains, therefore, that each of the things that are infinite, is alone infinite to the natures posterior to itself. Hence the infinite power of Providence, being comprehensive of all the powers of the natures which are the subjects of its providential energy, generates as well as contains them according to the most profound union in the infinite depths of itself; just as it imparts to all things a union commensurate to each. For neither is the one everywhere the same, for instance, in incorporeal natures and in bodies; nor in perpetual bodies, and in such as are corruptible. For the union of perpetual is greater than that of corruptible bodies; or how could the former remain indissoluble, but unity perish in the other? To which also it may be added, that an incorporeal nature is more proximate to the one; but body, on account of the infinite separation of its parts, falls very far short of the one. Nor must it be doubted whether one thing is in a greater degree one than another; since we see that everything by diminution always becomes something different from that which is prior to itself, till it proceeds to the extremity of the order to which it belongs.",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Platonist Reader",
+"text": "Providence, therefore, existing according to transcendent union, and possessing infinite power, some of the natures which are produced by it and partake of its beneficent energy, (though all things proceed from, and participate of Providence,) subsist according to the one, by which they are connascently bounded; but others subsist according to the infinite, indefiniteness being connascent with their essence. For imitations of the infinite which is with Providence subsist here through indefiniteness; but the imitations of its unity, through hound. On this account, the first of the natures in the universe, and which are unchangeable, subsist according to one bound; but the natures that succeed these tend to indefiniteness, in consequence of possessing a second rank. But every infinity subsists according to the infinity of Providence, and everything definite subsists according to union. The infinity likewise which is in primary natures is vanquished by unity, and largely partakes of the one. Here too things naturally indefinite, are subservient to such as are definite; and definite natures give an orderly arrangement to such as are borne along indefinitely according to an all-various transmutation. As primary natures likewise are to each other according to their mutual order, thus also such of their recipients as possess a habitude analogous to them, give completion to the world; less excellent being suspended from more excellent beings.",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Platonist Reader",
+"text": "What has been said, however, will become more evident by assuming that intellect produces both body and that which is incorporeal, but each of these incorporeally, and that it knows and produces them conformably to its own nature. And as the productive principle of incorporeal natures is in intellect incorporeal, so likewise the cause of body in it is incorporeal; the former assimilating to itself the things which are produced, but the latter, on account of diminution with respect to intellect, producing things more foreign to the incorporeal species. Soul itself likewise generates those vital and motive productive powers or forms which are in other souls; but of those forms which fall into matter, some it produces of a gnostic, but others of a fabricative nature. And it produces indeed all these vitally, some proceeding through life into life, but others proceeding through life into the privation of vitality. And, in short, everything which generates, and at the same time knows that which it generates from different causes, generates and knows the thing produced by it, by a knowledge superior to the object of its knowledge. Of the natures, however, which are produced by this cause, some are produced conformably to it, but others according to diminution. Hence, you may say that Providence, possessing through the one of itself the cause of definite natures, but through infinity the cause of such as are indefinite, knows and generates both of them definitely; just as intellect knows and produces incorporeally, both that which subsists according to the form of the incorporeal essence, and that which subsists according to the form of body. But you will speak rightly if you say, that of the things produced, these indeed are definite on account of the one, but those are indefinite on account of infinity. For neither are beings which have a necessary existence without infinity, nor such as are contingent without bound. For the latter are entirely terminated in the bound of necessity, and the former, being eternal essences from a necessity of nature, participate of infinite power. Or whence do they derive this perpetuity, and an invariable sameness of subsistence? Here, indeed, the one predominating, and, on account of this, causing that which is generated to be necessary, and being the cause of the colligation of the infinite; but there the infinite predominating, and causing the one to be diminished, through flying from the infinite, which runs above it, and comprehends it in its embrace. Providence, however, possesses a knowledge of both these, though, as we have already said, its knowledge is according to that which is more excellent than the things which it knows, and antecedently comprehending in its knowledge a power productive of the peculiarity of each, and causing this thing to be characterized by bound, but that by infinity.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Platonist Reader",
+"text": "Every bound, therefore, is from thence, and every infinity, whether in incorporeal natures, or in bodies; and, in like manner, that which consists of both these is from thence derived. Hence also the knowledge both of simple and of composite natures is there, just as the generations of things simple and of things composite proceed from thence.",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Platonist Reader",
+"text": "Because, likewise, the one of Providence produces every kind of bound, and every kind of infinity, and also every whole, which consists of both these; hence, either from the one prevailing, that which is produced is necessary, or from infinity running before bound, that which is contingent is effected. Because, however, neither here was it lawful for the infinite to be deserted by the one, hence the contingent, as we have said, terminates in the nature of that which is necessary: and this is either in a greater degree detained by the one, and, passing into a necessary event, becomes for a longer time definite; or, in consequence of participating of the one in a more debile degree, becomes necessary in a less time, but suffers the same thing, and becomes definite. The contingent likewise imitates the infinite power of the one, but not the power of itself. For every power is the power of another thing which possesses it, but not of itself; since everything, of whatever kind it may be, which is indefinite, in consequence of not yet having a definite existence, possesses what is said to be contingent, but necessarily terminates in either being or not being; and this either prior to a greater, or prior to a less time. And this is manifested by conjectural divinations. For they are more verified in a less than in a greater time, as if the indefiniteness had now passed away. That it is requisite, however, that there should be a knowledge of the indefinite in beings superior to us, if this also ought to have an allotted order, and not to be, as it were, adventitious to the universe, must be admitted at present, as being elsewhere demonstrated; but we now alone investigate after what manner it is effected. And this likewise will become manifest. For the universe would not be one, nor the government of it according to intellect, if this government was not definite; and of those things of which there is the same order, there is a certain colligation.",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Platonist Reader",
+"text": "It is necessary, however, to attribute this knowledge either to daemons alone, — for as they are proximate to things in the sublunary region, they appear to have a knowledge of, and to preside over them, — or this knowledge must be attributed to the Gods prior to daemons, to whom the Gods commit the providential inspection of all mundane affairs. But if we leave to daemons alone the knowledge and providential inspection of things indefinite, we must say either that they know them apart from each other, and also the subjects of their providential attention, and the natures prior to themselves, as we do, or that they have a simultaneous knowledge of both. And if, indeed, they have a knowledge of these separate from each other, in what do they differ from our souls? For these are incapable of paying attention to themselves and their own concerns, and of surveying at the same time the natures which are above them.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Platonist Reader",
+"text": "But so far as they do not extend themselves to external objects, and yet possess a knowledge of these, we must confess that they tend to a definite knowledge of things indefinite. If, however, at the same time it is necessary to admit that their knowledge of the natures over which they preside is derived from a reasoning process, we must also grant that they contain the forms and exemplar of things indefinite. For dianoia ( i.e. the discursive energy of reason) is the knowledge of these. Or if we assert that this knowledge pertains to beings who energise prior to ratiocination, much more must we refer it to the Gods, from whom daemons also possess the power of divination, and the definite foreknowledge of things indefinite. For if, indeed, they perceive definite things indefinitely, we must not ascribe to them an impassivity which is adapted to immutable genera.",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Platonist Reader",
+"text": "For everything of this kind requires phantasy and sense, so that in consequence of not remembering present circumstances, the soul may conjoin the assimilation of future events to the present and the past. But if they perceive indefinite things definitely, why, if we ascribe this power to daemons, should we not admit that this in a much greater degree is possible to the Gods, so as to grant that they know temporal concerns untemporally, indefinite things definitely, and that they provide for indefinite natures according to a definite mode of knowledge? For if, indeed, they are unable to know things indefinite, definitely, — but this is possible to daemons, — then the Gods will be deprived of a knowledge of this kind through want of power, which is absurd. And if it should be said, that they do not wish to possess this knowledge, this would be attended with a much greater absurdity than to assert that they are not able to possess it; since, though they give subsistence to things of this kind, they would be unwilling to pay a providential attention to their own productions.",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Platonist Reader",
+"text": "Or on this hypothesis it must likewise be granted, that not all mortal natures and particulars, and everything which the world contains, were produced by the Gods. And some things, indeed, were fabricated by the one father of the universe, but others by the mundane gods, yet through the command of their father, who at the same time through them produced these. But it is not lawful for those beings who produce other things either immediately or mediately to neglect the Gods.",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Platonist Reader",
+"text": "If, however, the Gods wish to provide for things indefinite definitely, and are able to effect this, they will entirely both provide for them, and at the same time that they providentially attend to, will know the desert of the subjects of their providential care. And the Gods, indeed, will possess this knowledge exemptly, extending to all things their providential attention: but daemons, distributing into parts the superesseutial illuminations which they receive from them, are allotted a different prefecture over different herds of animals, as far as to the last partition, as Plato says; so that some of them preside over men, others over lions, and others over other animals, or have dominion over plants. And still more partially, some are the inspective guardians of the eye, others of the liver, and others of the heart. But all things are full of Gods; some providing for certain things, immediately, but others, as we have said, for other things through daemons as media: not that the Gods are incapable of being present with all things, but ultimate natures are not able of themselves to participate such as are primary. The inaptitude of participants likewise, by insinuating itself, becomes sometimes an obstacle to the enjoyment of the beneficent influence of the Gods, and to the conscious perception of the providential interference of daemons. That, how-. ever, which possesses a proper adaptation, has the Gods immediately present with it, and hence knows when it is known by them; and begins to see Providence descending into it, the guardian care of which it was ignorant of prior to its adaptation, and which it had participated immanifestly. But if some one sleeping in the light of the sun, and being illuminated by it, should be ignorant during his sleep that he was thus illuminated, and on waking should see himself surrounded by the solar splendour, he might then think that this light was not present with him before, because he, on account of his ignorance, was not present with the light. Then, therefore, the indefinite also becomes definite, and is converted to divinity, with whom the indefinite subsisted definitely, and from thence derives, through participation, bound. For prior to its conversion to divinity, it was indeed with reference to itself indefinite, but not such to divinity; but conformably to his nature, had with him a definite subsistence, and was known to him as a thing separated from him through its own indefiniteness, yet not so separated as to escape all bound; for in this case, falling into the abyss of nonentity, it would become latent; but it is cut off from him in such a way, as neither to be without bound, nor yet to be perfectly established in it. After its conversion, however, it both has a knowledge of its own indefiniteness, and of the pre-existing bound by which indefiniteness is adorned.",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Platonist Reader",
+"text": "This will likewise follow, if we admit that good accedes to all things from Providence alone, in the same manner as intelligence proceeds from intellect, and life and vital motion from soul. But if everything which lives, in any way whatever, lives on account of soul, and everything intelligent intellectually perceives on account of intellect, it is evident that whatever participates of the good of Providence, possesses this good on account of Providence, though the participant should rank among partial natures, and things which participate of it only at times, and not always. For it is requisite to lead everything to its fountain, from which the whole series of it is derived. If anything, therefore, which the world contains is benefited, it is benefited on account of Providence; and this is not only the case with eternal, but likewise with corruptible natures; and not only with definite, but also with such as are indefinite, whether each of these receives its proper good from Providence immediately, or through media is first benefited by it.",
+"kind": "narration"
+},
+{
+"entry": 34,
+"who": "Platonist Reader",
+"text": "For intermediate beings do not subvert the gifts of the causes prior to themselves, but render the inaptitude of ultimate natures adapted to the participation of such as are primary, corroborating them by their own forerunning illuminations. Hence things which are more proximate to Providence enjoy and are adorned by it in a greater degree; just as we must admit from common conceptions, that the natures which are nearer to the sun are more illuminated by it than those which are more remote from it; that the beings which are more proximate to soul, are more vital; and those that are nearer to intellect, are more perfect in intellectual perception. For proximity is said to be that which it is, on account of the alliance of its essence to the things to which it is near, and remoteness is entirely so denominated on account of its essential elongation from something else.",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Platonist Reader",
+"text": "It being admitted, therefore, that Providence is nothing else than that which imparts good to all things, those natures which more largely participate of it, are in a greater degree benefited and adorned. Hence it is not requisite that everything should be proximately suspended from Providence, but it is proper that intermediate natures should be suspended from those that are proximate to Providence; for this causes the latter to enjoy the good of Providence by themselves, and the former to be in want, as it were, of other colligations, in order to receive the good which it imparts. For if there was not a co-ordination of all things with reference to the one, neither would the world be one; or if all things participated of their adorning cause after the same manner, there would not be an order of things adorned. If, therefore, there are both order and co-ordination, the former giving distinction to all things, and causing some things to be prior and others to be posterior, — but the latter converting divided natures to one good, — if this be the case, it is necessary that all things should participate of Providence, but that the participations should not be the same; that all should participate, indeed, on account of co-ordination; but not of the same things, on account of order, which causes some things to be first, others to be second, and others to be successive to these.",
+"kind": "narration"
+},
+{
+"entry": 36,
+"who": "Platonist Reader",
+"text": "For, as Plato says, every power which is motive of greater, is much more motive of less things, and obtaining dominion over stronger, it will much more predominate over more debile natures. There, however, will concurring with power, it is necessary that Providence should extend its beneficent care to things of a less excellent nature. For it must not be said, that Providence is able indeed, but unwilling, to effect what it is able to effect; since whatever good men are able to accomplish, they also wish to accomplish. Nor is the power of Providence without will, nor its will without power; since the latter would render appetition vain, and the former would cause power to be imperfect.",
+"kind": "narration"
+},
+{
+"entry": 37,
+"who": "Platonist Reader",
+"text": "If, however, it is requisite that Providence should extend itself to secondary, it is much more necessary that it should extend itself to primary natures. For it does not pertain to Providence to profit and adorn less excellent beings, but leave such as are more excellent destitute of itself. For if more excellent beings are not in want of anything, they derive this superiority to any kind of indigence from Providence, which imparts to primary beings the power of being sufficient to themselves. Our common conceptions, therefore, as we have before said, necessarily proclaim, that we should assert Providence to be the cause of all good, and that we should confess that the power by which any being is sufficient to itself is thence derived, and subsists for its sake. Whether, therefore, beings are indigent, they are allotted plenitude from Providence in a way conformable to their nature; or whether they are not indigent, they are always filled, and have sufficiency from themselves (TO AYTARChES) prior to the natures which are always indigent; but at the same time they always receive from Providence an appropriate plenitude.",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Platonist Reader",
+"text": "All things, therefore, as I have said, according to the order which they possess, derive their subsistence from Providence; and of the beings which are generated, and are not always, some are essentially produced from it, and from eternal beings; but others have their generation through eternal beings, not because Providence is indigent of things posterior to itself for the production of these, but these, in consequence of being much distant from it, requiring to the participation of it the influence of the beings which it proximately produced. If, however, though Providence is present everywhere and in all things, yet the same good is not in all things, we ought not to be surprised. For this is the work of the most excellent Providence, to impart good indeed to all things, but to measure the participation of it by the desert of the recipients; and for everything to receive only as much as it is able to receive, whether essence causes a difference, as in souls and bodies, (for the good of each of these is not the same, because the essence is not the same,) or whether their desert arises from energy alone, as we say, that souls differently energising, always receive from Providence different allotments.",
+"kind": "narration"
+},
+{
+"entry": 39,
+"who": "Platonist Reader",
+"text": "And all souls, indeed, have allotments from Providence; but some submit to their allotment with facility, and others with difficulty; because they cannot be converted to Providence without obstacle. This, therefore, must be admitted. For that it is most true that there is also a particular Providence, may be assumed by directing our attention to sublunary affairs, because all these contribute something to the universe, and no one of the things which it contains is superadventitious, though we are not able to perceive the causes from which it is derived. To which it may be added, that in certain souls also the power of Providence is displayed. But it would be ridiculous to admit that these things thus subsist, and others do not, if all things existed after a similar manner. On this subject, however, enough has been said.",
+"kind": "narration"
+},
+{
+"entry": 40,
+"who": "Platonist Reader",
+"text": "4. Respiring however, as it were, from the discussion of this head, let us consider in the fourth place, from another principle, after what manner we say the participations of the Gods are effected: which also those who engage in the speculation of ideas are accustomed to investigate. For if the Gods always energising, the natures which are here do not always participate of them, must it not follow that the Gods would energise in vain? Or if we do not admit that they possess an eternal energy, a still greater absurdity will follow: if it is proper to call that which is impossible absurd. For whatever exists with the Gods, always exists with them, and prior to all time. Hence their energy does not take place in a part only of infinite time: for time and that which is infinite are external to the Gods. That these things, therefore, may also be appropriately discussed, it must be observed, in the first place, that every participation, whether it is of eternal or of corruptible natures, is always allotted a middle order between participants and the things participated.",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Platonist Reader",
+"text": "And as a communication with the extremes is requisite to all media, it is necessary that the media should be united both with the participants and the things participated; for if the media pertained to one of these only, they would not conjoin both the extremes to each other, but being media, they subsist in the before-mentioned manner in their participants. For they proceed indeed from the things participated, but are established in the recipients of their energies; just as we say, that knowledge primarily subsists in gnostic natures, and not in the things known. For gnostic natures have to things that are known the relation of participants; since every gnostic being wishes to participate that which is known. Hence, participation having this order, and Providence being primarily participated by all things, by animate, inanimate, rational, irrational, eternal and corruptible natures, according to their several powers, — for with respect to all the instruments of it, these are more proximately produced, but those more remotely, — this being the case, it is necessary that not only participations should indicate Providence as the cause from which they proceed, but also that there should be an antecedent aptitude in the participant.",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Platonist Reader",
+"text": "This aptitude, therefore, will subsist rationally in rational, but intellectually in intellectual natures; phantastically or sensibly in those beings which live according to phantasy or sense; and essentially, and through existence alone, in those which possess being without life. But all these being instruments, and Providence using all of them, it is necessary that each of them should correspond to the power which employs each according to its proper work; neither in its energy obscuring the peculiar hyparxis of Providence, nor its own nature, but exhibiting one thing which is effected by both. Thus the sun transmits light to the moon, and from the moon imparts it to us; yet the light which we receive is not such as that of the sun, white and dry, nor like that of the moon, gross and caliginous, but is mingled from the power of that which is participated, and of the participant, and its colour is changed conformably to its energy; and in many other particulars this also may be seen.",
+"kind": "narration"
+},
+{
+"entry": 43,
+"who": "Platonist Reader",
+"text": "Hence, Providence being placed above all beings according to divine union itself, and energising conformably to one energy adapted to the one, everything which accedes to participates of it, and in a way conformable to its natural adaptation; one thing indeed essentially, another vitally, another gnostically, and another participating of it according to all these, and being naturally perfect. One thing, likewise, always receives the beneficent illuminations of Providence, on account of its own power, and possesses a never-failing participation of it through the infinite energy of the giver, and through its own permanent and firm habitude with reference to it; but another is a participant only sometimes, in consequence of not being allotted a stability of nature. Hence, on account of its debility not being always a participant, it possesses, indeed, well-being from Providence, but it is owing to the recipient that it does not always participate; Providence being always able to give, and giving to those natures that possess the power of always receiving from it that which it imparts.",
+"kind": "narration"
+},
+{
+"entry": 44,
+"who": "Platonist Reader",
+"text": "Hence the participation which is effected sometimes only, is not from Providence, but from the imbecility of the participant; just as the sun, illuminating perpetually that which is not always able to see its light, and which only sometimes sees, does not by its light occasion this temporary perception, but the recipient rejecting its light, deprives itself of perpetual vision, and when turned from no longer participates of the solar rays.",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Platonist Reader",
+"text": "If, therefore, Providence energising something, only participates of it at a certain time, the thing itself diminishes its own participation, yet does not exclude the eternal energy of Providence; but the energy of deity remains always the same. Just as if a face standing in the same position, a mirror should at one time receive a clear image of it, and at another, one obscure and debile, or indeed no image at all. If some one, therefore, should say, that oracles sometimes participate of the Gods, who are the sources of divination, and sometimes fail, becoming inefficacious, and, as it were, without spirit for a certain time, the causes of the irregularity are to be referred to the spirits that use and energise through the prophetic Gods, failing in the power of always participating of these Gods. For true oracles are those to which angels, daemons, and heroes give completion, and which are illuminated by the Gods, and by the allotments which have a perpetual subsistence in the universe; though certain waters and chasms of the earth cannot always participate of them on account of the instability of their nature. Or if it should be said that the virtues of sacred rites, which sometimes cause statues to be animated and replete with divine inspiration, fail in certain periods, the defect also of these, as it appears to me, ought to be ascribed to the recipients, and not to any variation in the energy of the Gods by whom these statues are inspired.",
+"kind": "narration"
+},
+{
+"entry": 46,
+"who": "Platonist Reader",
+"text": "For neither must we dare to accuse the sun as the cause of the moon being eclipsed, but we must assign as the cause of this, the conical shadow of the earth into which the moon falls. Nor, in reality, must the participation of the energies of Providence by some things at certain times only be attributed to Providence, but the cause of this must be referred to the participants, and not to that from which the participation is derived, both to these, and to those beings that always participate. Providence, however, according to the transcendently united and infinite energy of itself, is present to all things; and of those beings which participate of it differently at different times, in consequence of their possessing an incomprehensible variety, there are certain colligations, conjoining the one of Providence and the multitude of these, the impassivity of the former and the instability of the latter.",
+"kind": "narration"
+},
+{
+"entry": 47,
+"who": "Platonist Reader",
+"text": "Hence, as it appears to me, of these colligations, angels are more proximate to Providence, but heroes to beings of an unstable nature; and daemons form the connecting link between the two, uniting the beings which participate of deity differently at different times, to the perpetually-abiding hyparxis of Providence, and multiplied natures to the one. And sometimes, indeed, the illuminations of Providence immediately extend to the beings posterior to angels, daemons and heroes, but sometimes through these as media. For there is a great difference between illuminating some of the better genera, and the transmission of illuminations through the better genera. For the natures to whom these illuminations are transmitted, scarcely participate of the beings which are proximately arranged above them, through the inferiority of their aptitude; but the better genera, on account of the excellence of their nature, tend upwards to the participation of superior beings, and the illuminations which they receive from these, have the relation, as it were, of matter with reference to supernal gifts.",
+"kind": "narration"
+},
+{
+"entry": 48,
+"who": "Platonist Reader",
+"text": "Thus, if some one should be able to participate of geometry alone, but another, not only of this, but also of a sublimer theory, though not without the assistance of geometry, through which he is led upwards, and becomes accustomed to an incorporeal nature; the former of these characters delighting in geometrical speculations, but not haying the eye of his soul sufficiently able to perceive the objects of intellectual vision, it is again evident that the perfection of the former is derived from geometry, and that his ascent is as far as to this; but that the transition to the latter is through geometry, and that by means of this he ascends to things which are prior to it. If, therefore, the like takes place in the genera that are more excellent than our nature, it is one thing to be illuminated by the genera which are posterior to the Gods, and another to be illuminated by the Gods themselves; and the former, indeed, refers the cause of the illumination to the attendants of the Gods, but the latter to the presiding Gods themselves; except that though illuminations are transmitted by the better genera, certain splendours are imparted after another manner in a greater degree by Providence, from whom the guardian care of the former is derived, in consequence of their imitating its beneficent energy according to the order which they are assigned. And such are my answers to this question, through which we may be able to lead those that are well adapted to the perfect speculation of Providence.",
+"kind": "narration"
+},
+{
+"entry": 49,
+"who": "Platonist Reader",
+"text": "5. After this, if you please, let us direct our attention to a fifth subject of inquiry, which disturbs the imaginations of many, I mean, why, if Providence exists, evil has a place among beings? For through this many are persuaded, either to deny the existence of Providence, in consequence of perceiving that evil extends to all things; or, if they admit that Providence adorns all things, they are induced to exclude evil, and to assert that all things are alone good, though certain persons think fit to call that good which is most remote from primary natures evil, for there is not any evil, which is not a less good. If, therefore, we also accord with these, there is no occasion to investigate any further what we proposed to consider. For there will not be anything evil, which, as we have said, will molest Providence. But if there is something, which in some way or other we assert to be evil, it is necessary to explain whence this is derived. For it is not proper to say that it is from Providence, from whom everything that is good proceeds; but if it is derived from another cause, if this ranks among the causes which originate from Providence, then again it will be requisite to refer to it this cause. For the beings which proceed from the causes that owe their existence to Providence, proceed likewise from Providence. If, however, they are produced without Providence co-operating in their existence, we shall make two principles, one of good, and the other of evil, and we shall not preserve Providence unmolested, since it will have something contrary to it. Admitting, therefore, that there is such a thing as evil, let us consider what kind of a thing it is, without molesting the kingdom of Providence.",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Platonist Reader",
+"text": "And in the first place, because evil is twofold, this existing in bodies, and being preternatural, but that in souls, and deviating from reason; and because that which is preternatural does not subsist in all bodies, nor in souls that rank as wholes, let us direct our attention to the bodies in which, by the will of Providence, the preternatural exists. It is obvious, therefore, that what is preternatural, is in corruptible bodies alone: for that which is not susceptible of the preternatural, is perpetual, since the preternatural is the path to non-being. But everything which is corrupted has a place among beings. Hence, it ranks among beings, either on account of some other cause, or in order, as Timæus says, that the universe may not be imperfect, and that primary natures may not be the last of the whole of things. For primary natures are eternal, and congenial to their cause.",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Platonist Reader",
+"text": "If evil therefore exists, it exists as that which is corruptible; but this is, in order that there may not only be that which is eternal; and this again in order that the universe may be perfect. Hence, it is most manifest that evil subsists on account of that Providence which energises about the world, and that Providence may be entirely what it is, by causing the world to be perfect. For to this evil the end is good; since on account of good, evil was introduced among beings, as contributing something requisite to the whole of things. For all corruption is on account of the generation of another thing, and everything which is preternatural exists in order that something may be produced which is according to, but not contrary to, nature. Hence, that is not in every respect evil, which is for the sake of good, nor is it unmingled with good, but to a certain thing it is evil, viz. to that which is corrupted, and to another thing good, viz. to that which subsists on account of the corruption of it.",
+"kind": "narration"
+},
+{
+"entry": 52,
+"who": "Platonist Reader",
+"text": "Hence, likewise, it is good to the universe, as the cause of the corruption of one thing, and the generation of another. For it is necessary that there should be both generation and corruption, and the universe requires both these, in order that it may be truly all, as we have frequently said. And if, indeed, that which corrupts energises according to nature, but that which suffers, suffers preternaturally, perhaps this also suffers according to nature. For being a contrary, it is natural to it to suffer from a contrary, and thus it now becomes manifest to us, that on account of the most excellent Providence by which the universe is governed, that which is preternatural takes place among beings, and that it is not absolutely preternatural, but is in a greater degree conformable to than contrary to nature; since it is natural for that which is corruptible to be corrupted, and for that which is capable of corrupting to corrupt.",
+"kind": "narration"
+},
+{
+"entry": 53,
+"who": "Platonist Reader",
+"text": "And if they are contraries, it is requisite that the one should be corruptible, but the other corruptive. If, also, it is necessary that generation should always exist, it is necessary there should be contraries: for generation is from contraries. Hence, if generation is according to Providence, and that which is prior to generation is likewise according to Providence; and if, also, that which is preternatural subsists differently from alternate generations, — if this be the case, the preternatural is an instrument of the cause of generations, and gives completion to that which is natural. But let us here terminate that which does not require much discussion.",
+"kind": "narration"
+},
+{
+"entry": 54,
+"who": "Platonist Reader",
+"text": "Let us, therefore, pass on to the consideration of that which is preter-rational, and evil in souls, in order that we may understand how this likewise subsists according to Providence. Here, therefore, the association of certain contraries, I mean of the immortal and mortal soul, affords a place for that which is preternatural. For when that which is mortal in us predominates over that which is divine, then the generation of evil is effected in the soul; as, for instance, when either anger or desire predominate, in consequence of either of them suffering that which is conformable to its nature; the one in wrath, but the other in concupiscence. For each of them suffers that which it is naturally adapted to suffer; but on account of that which is essentially divine being extraneous to mortal passions, and the irrational nature existing in those beings in which this conjunction takes place, the natural union of these two becomes preternatural.",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Platonist Reader",
+"text": "Hence reason, which possessed in us the appellation of divine, is denominated preterrational, instead of preternatural; at the same time both the rational and irrational part of the soul, wishing to energise conformably to the desire of that which is natural; the one desiring to live with passion, but the other without passion; and the one rationally, but the other irrationally. In the mixture, however, of both these, and in their depraved habitude with reference to each other, that which is denominated a parypostasis, or a deviation from subsistence, takes place, which as it has not a principal essence, it is evident that what is called preter-rational and not preter-irrational, is not only evil, but is likewise not evil; for it is evil to that to which a deviation from reason is not natural, but not evil to that to which the preter-rational is according to nature.",
+"kind": "narration"
+},
+{
+"entry": 56,
+"who": "Platonist Reader",
+"text": "For where there is not reason, nothing of this kind is evil, as in irrational animals; and this, not because to suffer through passion is according to nature, but to be vanquished by reason preternatural; since the latter is in a greater degree conformable to nature, because reason is naturally adapted to vanquish. For when of opposites, one is better, but the other worse; though the latter, in energising as it is adapted to energise, suffers that which pertains to itself, yet when subservient to the former, which is better, it is transferred to that which is above its own nature; since reason, also, energising in us as reason, impedes the energy of that in us which is divine and better than reason, though in so doing it operates conformably to its nature; nevertheless, from the predominance of what is divine, reason exists as reason in a greater degree.",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Platonist Reader",
+"text": "For every being has both a good connascent with itself, and a greater good derived from that which is more excellent than itself. Thus intellect is able to energise divinely, soul intellectually, and body self-motively. That which is irrational therefore, and anger and desire, are moved as such, according to nature; and the more vehemently they are moved, the more natural are their energies. But when considered with reference to that part in us which is divine, and as impeding its energy, and also as capable of participating from it another greater good, of which they are deprived, as long as they wish to be moved with their own motions, which are preter-rational, they occasion an ingress of evil to partial souls.",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Platonist Reader",
+"text": "If, however, these things are truly asserted, it is necessary that those who think they do not exist through Providence, should either blame a divine soul for its descent into generation, or the mortal soul which is in generation. For admitting that both these subsist through Providence, it is entirely necessary to refer the generation of that which is preter-rational to good, in consequence of Providence distributing everything into the world according to its desert. But, indeed, it is evident that it is good for the human soul to descend to the ultimate part of the world, in order that the universe may be perfect, and that it may not only be full of rational and immortal animals, and again, of such as are irrational and mortal, but likewise of the media between these, viz. rational, and at the same time mortal animals. For a thing of this kind exists in the universe; since if these natures were wanting, the world would be truly imperfect.",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Platonist Reader",
+"text": "It is likewise manifest to every one, that in consequence of a divine soul acceding to generation, it is requisite that prior to this a mortal soul should be present with bodies; and that the divine soul should not dwell in these fleshly, bony, and, in short, terrene organs. For how is it possible that body destitute of vitality, and mingled from many things, should of itself participate of an incorporeal and immortal soul? How also in reality is it possible, if it were merged in material masses, that it should not blind its own reason, itself suffering everything which pertains to the mortal soul; perceiving indeed the passions of the body, which are the objects of sense; being captivated by imaginative forms; desiring whatever is adapted to the wants of the body; and wishing, by energising according to anger, to repel whatever is noxious to the mortal animal.",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Platonist Reader",
+"text": "For suffering all these, it would be corrupted in as great a degree as the body, and its descent would be in vain, through not being assisted, but corrupted by its recipients. For neither would it be possible to know the things which externally corrupt, without sense which knows particulars; nor to desire liquid and solid aliment, without that part of the soul which is the source of all-various appetitions; nor to pursue what is mortal, without the remembrance of that which is able to hurt or assist it. By how much better, therefore, it is for that which is connected with another thing different from itself, by which also it is perhaps molested, to be thus connected, sometimes only, and not always, — by so much more beneficial is it for the soul, to direct its attention to the irrational nature, than to become itself irrational. If, therefore, it is necessary that the immortal soul should descend hither, that the mortal soul also should subsist on account of it, — and the existence of both these is conformable to the will of Providence, — if this be the case, the preternatural also must be referred to the same bound of Providence, for the sake of that which is according to nature. Thus too in souls, that which is preter-rational is for the sake of that which is according to reason, that which energises preterrationally in us subsisting for the sake of our rational energy. But respecting this problem enough has been said at present.",
+"kind": "narration"
+},
+{
+"entry": 61,
+"who": "Platonist Reader",
+"text": "6. Consequent to this, let us direct our attention to the sixth problem. If Providence exists, — and Providence existing, it is necessary there should be that which is according to desert, — how does it happen that there is so great an inequality of human lives in the universe? — some tyrannizing in consequence of being depraved characters, but others being in a state of servitude, though they are virtuous? — and some, indeed, being prosperous, in consequence of having a good condition of body, living in affluence, and the like; but others, on the contrary, being deprived of these, so that worse circumstances fall to the lot of better men? For everything of this kind appears to accuse Providence as not only here distributing equal things to things unequal, which is itself irrational, but, on the contrary, in things unequal, distributing what is worse to the better, and what is better to the worse; though neither can it be thought that arithmetical media will accord in such cases, nor the geometrical, by which a distribution of external good or evil is made according to the desert of those that receive it. In the first place, therefore, we should say, that Providence distributes to everything that which is adapted to it, — for this is admitted, — and bestows ends which accord with habits. But this being the case, it is not at all wonderful that it should give to good men whatever may increase virtue; nor that depraved men; relinquishing the benefits with which virtue is surrounded, should earnestly endeavour to procure health of body, and should be solicitous to obtain wealth and power, which are wholly neglected by the good. Hence, as those who direct all their attention to apparent good, are not grieved that they are not temperate, that they are not contemplators of real being, and that their soul is mutilated, — thus, also, neither are good men afflicted because they are not rich, or because they are deprived of power; but pursue virtue alone, with the possession of which they are satisfied. For neither are husbandmen indignant because they do not obtain the same things as sailors; nor sailors, because they do not reap; but both these, being intently occupied in their proper ends, if they obtain these from Providence, they are satisfied and rejoice.",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Platonist Reader",
+"text": "We must not therefore say, that the donation of Providence is destitute of geometrical proportion; for it is the most harmonic of all gifts, imparting to all things good, and to each that good which it shows itself qualified to obtain, viz. either true or apparent good. For this is evident, that he who pursues virtue, always obtains the object of his desire, and lives according to virtue; but he who desires externals, does not always obtain that which is conjoined to his appetition; here, also, Providence bestowing what is adapted to habits, — to the virtuous, indeed, that which is stable, and sufficient to itself; but to those who pursue externals, that which is dubious and full of indigence. This, therefore, must be learnt in the first place: but this, in the second place, that with worthy men a deficiency of apparent good contributes to virtue; for it accustoms them to despise the body, withdraws them from a solicitude about appearances, enlarges their conceptions of the magnitude of virtue, discloses to them the inanity of those things which are believed to be good by the multitude, and exhibits to those who are able to perceive true beauty, that good which is essentially venerable, and admirable in the most transcendent degree. For we do not admire the pilot’s art during the tranquillity of the sea and air, but in tempest and storm; nor virtue in an affluence of human good, but in those things which the violent attacks of fortune cannot shake.",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Platonist Reader",
+"text": "In the third place, if we say that Providence affords instruction to those who do not live according to Providence in such distributions, we shall assert that which is not very remote from the truth. For if Providence always imparted to the good, riches, beauty of body, and power; but to the bad, deformity, ignominy, poverty, and everything of this kind, it would indeed truly appear that virtue, comprehending all things, possesses what is honourable, and vice what is fleeting. But now, exhibiting virtue by itself alone, and vice with all its abundance, it renders the former in a greater degree admirable in a worse fortune, but shows that the latter is to be in a greater degree avoided in a better fortune, and excites those that are well born to the love of virtue and the avoidance of vice: the latter blaming fortune on account of itself; but the former truly adorning every condition: and the latter not suffering any diminution in that which is foreign to itself but filling it with turpitude; but the former using every circumstance that may occur as its proper ornament. Or will not justice blame wealth, but health intemperance, and magnificence of soul, power? And magnanimity, indeed, adorns poverty, but a masculine mind sorrow, and a transcendency of wisdom the privation of power. If we assert, therefore, that these things thus distributed are the eruditions of Providence, we shall not wander from the truth. This, likewise, as it seems, must be said by us, that man is soul, and this has been well demonstrated; but he is soul, using the body and the mortal form of life. And the two latter frequently oppose the amatory energies of the immortal soul about that which is truly good, and require such things as may be able to prevent their attacks. Thus, for instance, affliction is requisite, that the body may not, by its wanton impulses, draw down the intellect which is in us ; but poverty, that the soul may not through wealth be filled with an intemperate form of life; and the privation of power, that it may be void of ambition. Hence many worthy men have thought fit to live in insalubrious instead of salubrious places, punishing the evil germinations of corporeal desires, and choosing rather to carry about with them a feeble instrument, than to become unwise by using one that is robust. But others have abandoned the riches which they possessed, in consequence of wishing to have a soul liberated from those passions which germinate through wealth. And many instances may be adduced of those who have acted in this way. Thus, Plato dwelt in an insalubrious place, in order that he might subdue the excessive impulses of the body. But Crates abandoned his wealth, at the same time exclaiming, Crates liberates himself from the sordid burden of riches! And other examples are recorded of the like kind.",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Platonist Reader",
+"text": "If, therefore, Providence imparts to good men such things as they themselves affect through the love of virtue, independently of Providence, how can any one complain of its dispensations to those that are worthy? And how is it possible that the donations to the wicked of wealth and power, and the like, should not rather be called punishments ? For these gifts call forth into energy their latent evil, in order that by punishment they may be finally purified from it.",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Platonist Reader",
+"text": "Again, therefore, according to another mode of considering the subject, we must say, that it is the work of Providence not to comprehend in one description of persons alone the donations of all various good, — as neither did Plato, when instituting the most excellent city, think it fit that one genus only should be adorned with every good, but that different things should be distributed to different persons, — and that this is the province of him who intends to make the whole city happy, and not one part of it alone. Because, however, souls descend into generation, it is requisite that they should have a certain experience of those evils in which they are here involved, by which they are excited to desire a transition From hence, to that place which is beyond the reach of every ill. To those, therefore, who are good from themselves, things apparently disastrous are for this purpose sent by Providence.",
+"kind": "narration"
+},
+{
+"entry": 66,
+"who": "Platonist Reader",
+"text": "But as it is requisite that bad men also should participate of good, they participate indeed of a certain image of it; and the punishments inflicted by divine vengeance lead these likewise to a flight from this terrene abode. With respect also to everything which we possess, — some of these belong to us on account of the free will of our soul, some on account of our being passive to other things, and some on account of the universe alone as the cause. Hence, if those things over which we have dominion through our own energies , we must accuse ourselves. For if any one becomes diseased, or is in poverty, through his own misconduct, the cause of this must be referred to him, and not to Providence. For we must not say that free will obtained the power which it possesses in the universe for the destruction, but for the salvation of its possessor.",
+"kind": "narration"
+},
+{
+"entry": 67,
+"who": "Platonist Reader",
+"text": "And with respect to those things which we suffer from others, though we may unjustly suffer, we should consider that the law of the universe permits parts to act on each other according to their own impulse: for such are all things which conspire in union; these, indeed, naturally acting and suffering, but those electively. Retribution however, follows both those that act well, and those that act ill. That also which suffers, suffers according to its desert, and what it does is not neglected by the law . For as it is said of beings which energise immaterially, that they produce what is contingent in an uncontingent manner, and that they do not suffer from what is contingent; thus, also, in those beings that energise electively, it does not appear that everything suffers from everything indiscriminately, but that only which has an opportune arrangement in the universe for this purpose.",
+"kind": "narration"
+},
+{
+"entry": 68,
+"who": "Platonist Reader",
+"text": "Nor does the selfmotive agent relinquish its proper motion, though it may become the instrument of the universe: for the quality of the impulse leads that which acts to retribution; since it was not an inanimate instrument, but an instrument co-adapting itself to that which uses it. The cause, however, of those things which we suffer from the universe, whether they are better or worse, must be ascribed to our desert; and this must either be referred to the present life, — as if we should require, for instance, a certain bridle, as it were, (since many on account of circumstances become better,) — or it must be referred to a former life; since if those that suffer, were not worthy from the first, purification is requisite prior to the possession of virtue, — or it must be referred to a future life, Providence withdrawing us from human concerns, in order that, by considering virtue alone to be the perfection of our nature, we may establish the love of it in ourselves, and be persuaded that nothing else is our proper good.",
+"kind": "narration"
+},
+{
+"entry": 69,
+"who": "Platonist Reader",
+"text": "Further still, if some one after the same manner should inquire, why equal things are imparted by Providence to things unequal, according to arithmetical equality, (for this remains to be considered,) — as for instance, when whole cities perish, and one destruction ensues both of the good and bad, and a similar circumstance, as it appears, takes place with respect to those who are dissimilar in their habits, — in answer to this inquiry, therefore, it may I think be said, in the first place, that they do not suffer what is similar so far as they are dissimilar, but so far as they are similar; being willing, perhaps, to inhabit the same city, to enter the same ship, to engage with others in the same battles, or act in conjunction with them in anything else, and, by thus acting, suffer with them the same calamity. Hence, so far as some of them are better, and others worse, they bear the common calamity differently; the latter, indeed, impatiently, but the former mildly, though they perish. And after a separation from the present life, the abode of more excellent souls receives the former, but of depraved souls the latter. In the second place, it may be said, that of such co-ordinations of those that are at the same time saved, or at the same time perish, there is an order by which they are similarly collected together in the universe, and a common period of fate, proceeding from different principles to the same end. There is likewise a concurrence of progressions, which are either preservative or destructive of all; and it is requisite that of parts, in consequence of their following wholes, these should effect and suffer something in conjunction with certain things, but those with other things of a different nature; since with us, also, the heart is sometimes so disposed that a certain part is copassive, but many parts at another time. In this universe, likewise, with respect to the less principal parts, these suffer peculiarly, but those in common from the more principal parts; and some suffer nothing from those things from which others suffer. It is not wonderful, therefore, that the motions of one of these should be conformable to Providence, but those of the other should be from necessity, in consequence of being subdued by passions.",
+"kind": "narration"
+},
+{
+"entry": 70,
+"who": "Platonist Reader",
+"text": "It may also be added, in answer to those who accuse Providence of distributing equality in things unequal, that they are ignorant of the different equality of souls, which originates from many causes. For of souls which proceed from the same divinity, as, for instance, the sun or the moon, there is an assimilation of the former to the latter in different conditions of life, and in former periods there was a conformity in their energies. Nor is it at all wonderful that they should suffer the same thing, since this is nothing more than a retribution of actions which proceeded in common from common passions; and by how much the more amply they corresponded with each other in different circumstances, by so much the greater is the similitude of the incidental events which befall them. But in answer to those who accuse Providence on account of the inequality which takes place in the external circumstances of the good and the bad, we ask whether laudable renown, which is alone bestowed on the good, is not to be preferred to corporeal delight, to riches, and bodily health? For all bad men are inglorious and without honour, though they may be surrounded by myriads of flatterers; since those who extolled them when living, scorn them when dead. But those who despised good men when they were alive, admire them in a transcendent degree when they are dead. If, therefore, better men partake of the greatest of external goods , how can it be any longer said, that Providence does not impart that which is according to desert, bestowing on those who desire nothing else, such things as extend only to the present life, but conferring on others those benefits which are capable of being transmitted to a future and more excellent life? For the former live according to the mortal, but the latter according to the immortal part of the soul. Hence, whatever is of a more mortal nature, is adapted to those who prefer that which is mortal in things within and external to them; but such as are more immortal, are adapted to those who prefer that which is immortal. And thus distribution according to desert is preserved in each, through the similitude of the gifts to the life of the recipients. But if to him who possesses virtue, that which is propitious is always present, and this is imparted by the Gods themselves; but the whole life of the depraved man is full of inquietude and perturbation, of brutal delights, ferocity, and the envenomed bitterness of guilt; and if he finds no rest from these evils, which are to him inexplicable, is it not perfectly evident that Providence proclaims the former character to be deserving of things of a more excellent nature; but that the latter, by subjugating himself to the dominion of his passions, connumerates himself with beings inferior to the nature of man?",
+"kind": "narration"
+},
+{
+"entry": 71,
+"who": "Platonist Reader",
+"text": "7. Relinquishing, therefore, any further consideration of this subject, let us pass on to those questions, which are wont to be continually agitated, respecting brutes, and let us direct our attention to this seventh problem, Providence also proceeding to irrational, as well as to rational animals. What equality, therefore, is there in brutes, since some of them are well disposed, but others not; some of them possess an ill, but others a good habit of body; and according to other such like differences they are separated from each other? Again, therefore, what equality can there be in them, since they are thus dissimilar? For of these also, as well as of men, we see that there are certain common corruptions; and it is requisite in these to contemplate the cause of the events, being persuaded that Providence extends even to the last of things; and likewise to consider what reason can be assigned for their ultimate devoration. For these are the three particulars which occasion men to doubt respecting the administration of Providence, viz. the inequality in what happens to brutes, the common corruptions of these, and their devoration of each other, of which it is now requisite to say something; and to discuss this in the first place as follows: Either there is some vestige of a self-motive life in brutes, and which is separable from body, or there is none; and every species of soul which is in them is extinguished together with the body, and is assimilated to qualities, and to innate heat. But this division being made, we shall abound with arguments, by which we may be able to show that there is a Providential dispensation in these.",
+"kind": "narration"
+},
+{
+"entry": 72,
+"who": "Platonist Reader",
+"text": "If, therefore, as we have said, there is some vestige of a self-motive life in them, and a brute can do something worse and something better from itself, — such as we say is the case with the self-motive nature, whether according to opinion, or according to truth, — if this be admitted, then we must refer to Providence their good domestication, their devoration of each other, and their common corruption, just as we refer to Providence what happens to men from the management of their passions, and the co-ordination which they are allotted, either according to a similitude of life, or according to mundane periods, or according to both these. But if brutes are only corporeal, it is of no consequence if they suffer the same thing as a shadow all-variously transformed, and are subject to the dominion of Fate.",
+"kind": "narration"
+},
+{
+"entry": 73,
+"who": "Platonist Reader",
+"text": "8. After this, let us consider, in the eighth place, a doubt which is very widely diffused, and occasions many to oppose the existence of Providence viz. why punishments do not immediately follow the commission of crimes, but this happens some time after, or even after a great lapse of time? For offenders will be corrected in a much greater degree when they are immediately punished, than if the punishment is deferred for so long a time that they forget for what they are punished. And, indeed, they are excited to murmur at Providence, in consequence of feeling the punishment, but forgetting the offence which they had committed; in the same manner as he is affected who suffers for the crimes of others a long time after they have been committed. In answer to this we may say, that the implanted root of wickedness causes the same energies to take place in consequence of continuing inflexible by punishment, just as the earth bearing thorns, though the germs are a thousand times cut off, still produces the like.",
+"kind": "narration"
+},
+{
+"entry": 74,
+"who": "Platonist Reader",
+"text": "Providence, therefore, waits for an appropriate time, not such as may be pleasing to the vulgar, but such as it knows will contribute to the health of souls, and will instruct many by endurance. For, together with the Gods, says Plato, Fortune and Time govern all things, whether it be requisite that some good should be imparted, or that there should be a purification from something contrary to good. The cure of souls, indeed, which is called diche (or justice), is more artificial than all external medicinal arts. For the cure of the soul may be said to be a divine thing, the evil which is in it being more various than that which is in bodies. In the next place, vice is a punishment to itself, and the most grievous injury the soul can sustain. Precipitate anger, also, is not a good dispensator of punishments. Plato once, being about to chastise a slave, was seen holding his hand in an elevated position for some time, and being asked why he did so, said that he was punishing his own impetuous anger.",
+"kind": "narration"
+},
+{
+"entry": 75,
+"who": "Platonist Reader",
+"text": "Archytas said to his servants in a field, who had not done what he had ordered them to do, and expected to be punished for their negligence, “It is well for you that I am angry.” And Theano said to one of her servants, “If I were not angry I would chastise you.” Among the Egyptians there was a law, that a pregnant woman, who was judged worthy of death, should not be put to death till she was delivered. Is it, therefore, wonderful that Providence should for a time spare those who are deserving of death, but are able to perform hot trifling, but illustrious actions, till they have accomplished them? If Themistocles had been immediately punished for what he did when he was a young man, who would have delivered Athens from the Persian evils? Who, also, would have explained the Pythian oracle? If Dionysius had perished in the beginning of his tyranny, who would have freed Sicily, which was thought to be irremediably lost, from the Chalcedonians?",
+"kind": "narration"
+},
+{
+"entry": 76,
+"who": "Platonist Reader",
+"text": "If the punishment of Periander had not been deferred for a long time, who would have freed the pleasant island of Leucadia, — who would have liberated Anaxorium from its adversaries? To which may be added, that the time of deferred punishment seems long to our feeble vision, but is nothing to the eye of Providence, just as the place, also, in which we live, and carry about these bodies, is perfectly small for the punishment of great offences; but there are many and indescribable places of punishment in the infernal regions, and excessive torments for the offenders that are there. On account of the magnitude of the punishments, likewise, the whole of them are not inflicted at once. Souls, also, are naturally adapted to feel remorse, which is the forerunner of their greater sufferings. For they say, that Apollodorus the tyrant saw himself in a dream scourged and boiled by certain persons, and his heart exclaiming from the kettle, “I am the cause of these thy torments!” But Ptolemy, who was surnamed Thunder, thought in a dream that he was called to judgement by Seleucus, and that vultures and wolves sat there as his judges. Such are the preludes to the vicious of impending punishment.",
+"kind": "narration"
+},
+{
+"entry": 77,
+"who": "Platonist Reader",
+"text": "9. After this, let us consider how the crimes of other persons, as, for instance, of parents or ancestors, are punished in their posterity. For that certain persons are said to have suffered punishment for the crimes of their ancestors, both revelations and the mysteries manifest, and certain liberating Gods are said to purify from them. In answer to this it may be said, in the first place, that every city and every genus is one animal, in a much greater degree than every man, and is more immortal and sacred. For one tutelar deity presides over a city as over one animal, and likewise over the whole of one race; and there is one common period to a city, and also to a generation, comprehending in one boundary the life and death of each, as if one nature pervaded through the whole city, and every individual that it contains. And hence, one common nature extending through a whole city, and a whole race, makes each to be one.",
+"kind": "narration"
+},
+{
+"entry": 78,
+"who": "Platonist Reader",
+"text": "If, therefore, as we have shown, every city, and each genus of men, is a certain one, why is it wonderful that the crimes of progenitors should be punished in their posterity? And the life of cities being one, has a retribution in after-times for the better or worse deeds which it performed in prior times. For Providence not only rewards or punishes each of us for what we have done at another time, but considers a city as one, and a race as one; the first agents also not being neglected. For Providence existing, it is not lawful that anything should be neglected. There is also a co-passivity of posterity with their ancestors; for the former have a reference to the latter as to a summit or leading monad, being generated from, and having a common life and nature together with them; and hence, on account of them, they are deservedly honoured or punished.",
+"kind": "narration"
+},
+{
+"entry": 79,
+"who": "Platonist Reader",
+"text": "I do not, however, conceive it to be at all wonderful, if all being parts of one, and some things being co-adapted to others, not those that are near, but those that are remote, should be allotted circumstances similar to those of their ancestors. For neither is there the same similitude of all the parts to all; but of these it is greater, and of those less. Nor is there the same proportion; for there is a greater colligation of these, but less of those; and this, not because that which is near has more similitude, but that which is more remote less. For nothing hinders us from admitting, that things which are more remote may be more assimilated than such as are more near. And this, also, is manifest from medical operations. For when the loins are diseased, physicians cauterize, not the parts which are near, but those which are opposite to the loins; and when the liver is imposthumated, they scarify the epigastrium.",
+"kind": "narration"
+},
+{
+"entry": 80,
+"who": "Platonist Reader",
+"text": "When, likewise, the hoofs of oxen are extremely tender, they anoint the tips of the horns, and not the parts which are proximate to the hoofs. For the effect produced in them is not through the parts which are near, but through those which from co-passivity are in want of sanation. All the first delinquents, therefore, suffer punishment for their crimes; and through these, something occultly passes to their co-passive posterity. Nor do these suffer unjustly, but from a similitude of life similar things are allotted to them by Providence. If, also, it be requisite to speak of the transmigrations of souls, and their transitions into different lives, it must be admitted by those who believe in this doctrine, that souls are rewarded or punished in a posterior, for what they have done in a former life. Besides, in human life, the whole period of a race is analogous to a drama, different souls being frequently introduced in it, and often the same souls, in order to give completion to the inevitable scene; just as there the same players sometimes speak in the character of Tiresias, and sometimes in that of Œdipus.",
+"kind": "narration"
+},
+{
+"entry": 81,
+"who": "Platonist Reader",
+"text": "Providence, however, punishes or rewards souls according to their desert, and, through a similitude of life, punishes some on account of others, as if cutting off a certain malignant root of a plant, which it could easily antecedently perceive. For a sting is congenial to scorpions, and venom to vipers. But there is a power in the universe which knows this prior to the percussion. After the same manner, therefore, Providence, perceiving in souls iniquity congenial to that of their ancestors, punishes them for it, though they may not have committed the same crimes; previously destroying the similar evil in those who possess it, like a malady growing to an epilepsy. For as the excrescences of the extremities, blackness, and marks of fathers which do not appear in their immediate offspring, regerminate in their grandchildren, thus, also, the peculiarities of manners burst forth in more distant progeny, which are indeed unknown to others: but by the one of Providence, which knows all things, it must be granted that they are known by an antecedent knowledge. The similitude, however, becomes evident through this, that it is seen to extend to them punishments correspondent to the crimes which their ancestors committed. But I well know that I have elsewhere discussed these particulars.",
+"kind": "narration"
+},
+{
+"entry": 82,
+"who": "Platonist Reader",
+"text": "10. I shall, therefore, put an end to these doubts, by adding as a colophon, as it is said, a tenth inquiry. For Providence, by this its much celebrated unity, knowing and reducing all things to good, how are angels and daemons said to energise providentially; and, if you are willing, heroes likewise and souls, governing the world in conjunction with them and the Gods? For it is requisite that we should define what the nature is of their providential energy, since it is not, like that of the Gods, characterized by the one, if we admit that a daemon, an angel, a soul, and a hero, are not the same with deity. For the hyparxis of every God, as I have before said, subsists according to the one; and this one is prior to intellect, and is the same with the good, from which also it proceeds. But unities or goodnesses are twofold, which the good itself produces, being the cause of both, and being one in a more transcendent degree. And of these unities, some indeed are self-perfect, but others are distributed in their participants. For the one and the good have a triple subsistence; viz. either according to cause, as, for instance, the first good; since this is from itself the cause of every good, and of all unities; — or according to hyparxis, for thus every God is one and good; — or according to participation, as, for instance, the one and the good which subsists in beings, on account of which every essence is united, and every God is boniform, though he is a unity. The unity, however, of self-perfect natures does not belong to anything else, but pertains to itself only. But every intellect, and every soul, participates of a certain one. For the one which soul, and also the one which intellect participates, possess a transcendency of union. Thus, likewise, one all-perfect intellect is the cause of all intellects. But of the intellects which proceed from it, some are self-perfect, each being partially that which the all-perfect intellect is totally; one possessing the partial according to a certain thing, but another according to something else; and this existing in the moon, but that in the sun. This, also, being distributed into some other of the forms contained in all-perfect intellect, but that being an illumination from these intellects in intellectual souls; on which account, also, these souls are said to be intellectual according to participation, and tend upward to the first intellect. And all souls, indeed, have the self-motive nature in common; but those which participate of intellect, universally possess intelligence. If, therefore, we direct our attention to the first soul, and the twofold souls that proceed from it, we shall perceive that some of them are essential and separable from bodies, but others are illuminations in bodies, derived from essential souls. For that which is animated, is so through the participation of a certain soul, which some one calls (entelecheia) entelecheia, and which may be denominated an animated bond.",
+"kind": "narration"
+},
+{
+"entry": 83,
+"who": "Platonist Reader",
+"text": "Hence, there is a number proceeding from each of the principal hypostases, viz. from soul, intellect, and the good. But this number is twofold, the one consisting of sell-perfect essences, but the other of illuminations proceeding from these self-perfect beings into subordinate natures. Hence, too, though angels and dæmons are neither Gods nor unities simply, — and the like is true of heroes, of souls superior to ours, and also of ours, — yet they participate of certain unities, and are profoundly united. And the first of these illuminations are those which are suspended from the Gods themselves; the second in order are suspended from the first; the third from the second; and the fourth, which is our order, is suspended from illuminations which rank as the third. For in us, also, there is inherent a certain occult vestige of the one, which is more divine than our intellect, and in which the soul, perfecting and establishing herself, becomes divine, and lives, as far as it is possible for this to be accomplished by her, a divine life.",
+"kind": "narration"
+},
+{
+"entry": 84,
+"who": "Platonist Reader",
+"text": "All the Gods, therefore, energise providentially But angels, daemons and heroes, in consequence of possessing a certain seed, as it were, of the one, exert a providential energy, not so far as they are vital or intelligent, — for it is the province of soul to move, and of intellect to know, and the former characteristic property exists in all souls, and the latter in all intellects, — but they energise providentially through the one which they contain. For according to that through which they imitate the Gods, they provide for all things. But if all the Gods primarily exert a providential energy, because they are primarily good, but souls after these, when they are established in unity, energise divinely, and provide for other things without habitude together with the Gods, and the genera which transcend our nature, — if this be the case, the providential energies of souls do not consist in reasonings conjectural of futurity, like those of human political characters, but in illuminations in the one of the soul derived from the Gods.",
+"kind": "narration"
+},
+{
+"entry": 85,
+"who": "Platonist Reader",
+"text": "Hence, being surrounded with the transcendently united splendour of deity, they see that which is in time untemporally, that which is divisible indivisibly, and everything which is in place unlocally; and they energise not from themselves, but from the powers by which they are illuminated. And souls, indeed, are sometimes affected in this manner, but the above-mentioned energy is always present with angels, daemons and heroes. On this account, likewise, they providentially attend to subordinate natures in a more excellent manner than if they energised according to ratiocination, not in a way similar to their productions, but perceiving all things according to the one and causally, without any diminution of providential energy. These powers, therefore, differ, as we have said, from souls, by always attending to the objects of their care; but they differ from the Gods, of whom they are the attendants, by not energising providentially according to the whole of themselves, but according to their most divine part, by which they are conjoined with the Gods themselves.",
+"kind": "narration"
+},
+{
+"entry": 86,
+"who": "Platonist Reader",
+"text": "For of the Gods, each is a unity; but of these, each possesses through participation a transcendency of union. Hence, each having something else besides unity, imitates through unity the divinity prior to itself, and from which it is suspended; but by something else, it lives according to another energy. And the summit of the essence of each is according to the one; but being subsists in each according to that which is not one . This, however, being known, other particulars which have been mentioned concerning Providence may be adapted to daemons and heroes in a secondary degree, except that in these also, in the same manner as in the Divinities, unity has in some of them a more total, but in others a more partial power. The ineffable principle of things, however, as it is more excellent than every power, so likewise it transcends Providence.",
+"kind": "narration"
+},
+{
+"entry": 87,
+"who": "Platonist Reader",
+"text": "But if some one should dare to assert, that it providentially attends to all things, it must be said that this is in no other way than as desirable to all things, and as that for the sake of which all things subsist, and as the cause of Providence. For the providential energies of the Gods, and of all the beings posterior to the Gods, are on account of good; and this both things themselves manifest, and also Plato, as we have said in the beginning of this discussion.",
+"kind": "narration"
+}
+]
+}
+]
+}

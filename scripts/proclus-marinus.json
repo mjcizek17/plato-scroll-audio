@@ -1,0 +1,594 @@
+{
+"key": "proclus-marinus",
+"title": "The Life of Proclus, by Marinus",
+"author": "Proclus",
+"translator": "Thomas Taylor",
+"parts": [
+{
+"name": "Introduction",
+"lines": [
+{
+"entry": 1,
+"who": "Platonist Reader",
+"text": "Introduction",
+"kind": "heading"
+},
+{
+"entry": 1,
+"who": "Platonist Reader",
+"text": "Translated by Thomas Taylor, 1792",
+"kind": "narration"
+},
+{
+"entry": 2,
+"who": "Platonist Reader",
+"text": "Contents",
+"kind": "heading"
+},
+{
+"entry": 3,
+"who": "Platonist Reader",
+"text": "Introduction",
+"kind": "narration"
+},
+{
+"entry": 4,
+"who": "Platonist Reader",
+"text": "The Life of Proclus",
+"kind": "narration"
+},
+{
+"entry": 5,
+"who": "Platonist Reader",
+"text": "Endnotes",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Platonist Reader",
+"text": "Introduction",
+"kind": "heading"
+},
+{
+"entry": 7,
+"who": "Platonist Reader",
+"text": "Marinus, the author of the ensuing life, was the disciple of Proclus, and his successor in the Athenian school. His philosophical writings were not very numerous, and have not been preferred. A commentary ascribed to him, on Euclid’s data, is still extant; but his most celebrated work, appears to hare been, the present life of his master. It is indeed in the original elegant and concise; and may be considered as a very happy specimen of philosophical biography. Every liberal mind must be charmed and elevated with the grandeur and sublimity of character, with which Proclus is presented to our view. If compared with modern philosophical heroes, he appears to be a being of a superior order; and we look back with regret on the glorious period, so well calculated for the growth of the philosophical genius, and the encouragement of exalted merit. We find in his life, no traces of the common frailties of depraved humanity; no instances of meanness, or instability of conduct: but he is uniformly magnificent, and constantly good. I am well aware that this account of him will be considered by many as highly exaggerated; as the result of weak enthusiasm, blind superstition, or gross deception: but this will never be the persuasion of those, who know by experience what elevation of mind and purity of life the Platonic philosophy is capable of procuring; and who truly understand the divine truths contained in his works. And the testimony of the multitude, who measure the merit of other men’s characters by the baseness of their own, is surely not to be regarded. I only add, that our Philosopher flourished 412 years after Christ, according to the accurate chronology of Fabricius; and I would recommend those who desire a variety of critical information concerning Proclus, to the Prolegomena prefixed by that most learned man to his excellent Greek and Latin edition of this work, printed at London in 1703.",
+"kind": "narration"
+},
+{
+"entry": 8,
+"who": "Platonist Reader",
+"text": "Thomas taylor",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Platonist Reader",
+"text": "The Life of Proclus",
+"kind": "heading"
+},
+{
+"entry": 10,
+"who": "Platonist Reader",
+"text": "When I consider the magnitude of mind, and dignity of character belonging to Proclus, a philosopher of our time, and attend to those requisites, and that power of composition which those ought to possess who undertake a description of his life; and lastly, when I regard my own poverty of diction, I am inclined to believe it more proper to refrain from such an undertaking, not to leap over the fosse (according to the proverb), and to decline a discourse involved in so much difficulty and danger. But my scruples are something diminished when I consider, on the other hand, that even in temples, those who approach to the altars do not all sacrifice alike; but that some are solicitously employed in preparing bulls, goats, and other things of a similar kind, as not unworthy the beneficence of the Gods to whom those altars belong: likewise that they compose hymns, some of which are more elegant in verse, but others in prose; while some, who are destitute of all such gifts, and sacrifice with nothing more perhaps than a cake and a small quantity of bread, with frankincense, and who finish their invocations with a short address to the particular divinity they adore, are not less heard than others. While I thus think with myself, I am afraid, according to Ibycus, lest I should not offend against the Gods (for these are his words) but against a wise man, and thus obtain the praise of men.",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Platonist Reader",
+"text": "For I do not think it lawful, that I who was one of his familiars, should be silent concerning his life; and should not, according to my utmost ability, relate such particulars concerning him as are true, and which perhaps ought to be published in preference to others. And indeed by such a neglect I shall not perhaps obtain the esteem and honour of mankind, who will not entirely ascribe my conduct to the desire of avoiding ostentation, but will suppose I avoided such a design from indolence, or some, more dreadful disease of the soul. Incited, therefore, by all these considerations, I have taken upon me to relate some illustrious particulars of this philosopher, since they are almost infinite, and may be depended on for their undoubted reality.",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Platonist Reader",
+"text": "I shall begin therefore not according to the usual manner of writers, who are accustomed to distribute their discourse into chapters; but I consider that the felicity of this blessed man ought, with the greatest propriety, to be placed as the foundation of this treatise. For I regard him as the most happy of those men who were celebrated in former ages; I do not say happy only from the felicity of wisdom, though he possessed this in the highest degree of all men; nor because he abundantly enjoyed the goods of an animal life; nor again on account of his fortune, though this belonged to him in a most eminent degree, for he was supplied with a great abundance of all such things as are called external goods: but I call him happy, because his felicity was perfect, complete in all parts, and composed from each of the preceding particulars. Having then in the first place distributed virtues according to their kinds into natural, moral, and political, and also into those of a sublimer rank, which are wholly conversant with purification and contemplation, and are therefore called Cathartic and Theoretic, and also such as are denominated Theurgic, by which we acquire a similitude with some particular divinity; but omitting such as are superior to these, as beyond the reach of man, we shall begin from such as are more natural, and which are first in the progressions of the human soul, though not first in the nature of things.",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Platonist Reader",
+"text": "This blessed man, then, whose praise is the subject of this treatise, naturally possessed, from the hour of his birth, all those physical virtues which fall to the lot of mankind; the traces of which were manifest in the latest period of his life, and appeared to surround and invest his body after the manner of a tenacious shell. In the first place, he was endued with a singular perfection of sensation, which they denominate corporeal prudence; and this was particularly evident in the nobler senses of seeing and hearing, which are indeed given by the gods to men for the purpose of philosophizing, and for the greater convenience of the animal life; and which remained entire to this divine man through the whole of his life. Secondly, he possessed a strength of body which was not affected by cold, and which was neither weakened nor disturbed by any vicious or negligent diet, nor by any endurance of labours, though it was exhausted day and night, while he was employed in prayer, in perusing the works of others, in writing books himself, and in conversing with his familiars; all which he performed with such expedition, that he appeared to study but one thing alone.",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Platonist Reader",
+"text": "But a power of this kind may with propriety be called fortitude of body, from the singular strength employed in such exertions. The third corporeal virtue with which he was endued was beauty, which, when compared with temperance, the authors of these appellations have very properly considered as possessing a similitude of nature. For as we consider temperance as consisting in a certain symphony and consent of the powers of the soul, so corporeal beauty is understood to consist in a certain agreement of the organical parts. He was indeed of a most pleasing aspect, not only because he was endued with this excellent proportion of body, but because the flourishing condition of his soul beamed through his corporeal frame like a living light, with splendors too wonderful for language to explain. And indeed he was so beautiful that no painter could accurately describe his resemblance; and all the pictures of him which were circulated, although very beautiful, were far short of the true beauty of the original.",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Platonist Reader",
+"text": "But the fourth corporeal virtue which he possessed was health, which they affirm corresponds to justice in the soul; and that this is a certain justice in the disposition of the corporeal parts, as the other in those of the soul. For justice is nothing more than a certain habit, containing the parts of the soul in their proper duty. Hence, that is called health by physicians, which conciliates the jarring elements of the body into union and consent; and which Proclus possessed in such perfection, that he affirmed he was not ill above twice or thrice, in the course of so long a life as seventy-five years. But a sufficient proof of this is evident from hence, that, in his last illness, he was entirely ignorant what the disorders were which invaded his body, on account of the great rarity of their incursions.",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Platonist Reader",
+"text": "Such then were the corporeal goods which Proclus possessed, and which may be called the forerunners, and as it were messengers, of those forms into which we have distributed perfect virtue. But the first powers and progeny of his soul, which he naturally possessed, previous to instruction, and those parts of virtue with which he was adorned, and which Plato reckons the elements of a philosophic nature, must excite the wonder of any one who considers their excellent quality. For he was remarkable for his memory and ingenuity; he was of a disposition magnificent, gentle, and friendly; and a companion, as it were, of truth, justice, fortitude and temperance; and his love of truth was so great, that he never admitted any prudent dissimulation, but hated falsehood vehemently. Indeed it is necessary that he who prosecutes truth, with so much earnestness and sincerity, should be extremely desirous of it from his infancy, since truth is the source of every good, both to gods and men. But that he despised corporeal pleasures, and was an eminent lover of temperance, is sufficiently evident from his great propensity to disciplines, and his desire of every kind of studies; for dispositions of this kind never suffer beastly and illiberal pleasure to dwell in the mind, but are able to excite in the soul, from her own internal operations, sincere pleasure and delight. But it is impossible to say how foreign he was from avarice, so that when a boy he despised the wealth of his parents, though very rich, on account of his incredible love towards philosophy. Hence he was far removed from illiberality, and from the care of lesser concerns, as he was most studious of the universe, and of every thing divine and human. But from such a disposition of the rational soul, having acquired true magnanimity, he considered human life as of no account, and, unlike the multitude, viewed nothing dreadful in death. So that he by no means feared all that rout of molestations which appear terrible to others, and this in consequence of that natural affection which it is proper to call by no other name than that of Fortitude alone. But, from all these virtues, I think it must be evident to those who have not experienced his best of dispositions, that he loved equity from a boy; that he was just and mild, and by no means difficult or unjust in his associations or contracts. To us indeed he certainly appeared modest and elegant, neither avaritious nor illiberal, neither arrogant nor timid.",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Platonist Reader",
+"text": "But will it not be superfluous to mention the goodness and fertility of his ingenuity? Especially among those who know and who have heard, that he was full of the most beautiful disciplines, and who are acquainted with the multitude he produced and published to the world, so that he alone seemed to have drank nothing of the cup of oblivion, as he was endued with a power of memory which was never disturbed, and that which belongs to the oblivious, never happened to him. Besides, he never neglected fresh acquisitions, as if possessing a sufficiency of disciplines; and as one who is merely delighted with their study. But he was most remote from a nature rustic and horrid, and averse from the Muses, and particularly propense to more cultivated endowments: for on account of his singular urbanity and festivity (without transgressing the bounds of true honesty) in his common associations, sacred feasts, and other actions, he allured and charmed his familiars, and always dismissed them more cheerful and pleased.",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Platonist Reader",
+"text": "His mother, therefore, Marcella, lawfully united to his father Patricius, both of the Lyeian nation, and excelling in birth and virtue, produced our philosopher, thus endued from the beginning with all these, and other gifts of nature. And Minerva, the tutelar goddess of Byzantium, received him when born, and took care of him as a midwife, she being the cause of his birth in that city: but afterwards she provided for his well-being, when he was numbered among boys and young men; for she appeared once to him in a dream, and exhorted him to the study of philosophy, from whence arose his great propensity to this goddess, as he particularly performed her sacred rites, and cultivated with a greater fury (as I may say) her institutions. Lastly, his parents brought him, when born, into their native country Zanthus, consecrated to Apollo; and I cannot but think that this country happened to him by a certain divine providence; as it was requisite that he, who was to be the prince of all sciences, should be educated under the presiding deity of the Muses. Here, being instituted in the most elegant manners, he pursued moral virtues, and was accustomed to right conduct, and to a declination of its contrary, that which is base.",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Platonist Reader",
+"text": "But at that time the love of the gods, who had attended him from his nativity, manifestly appeared; for being once detained by some disease of body, and it appearing very difficult, and scarcely possible to cure him, there stood at his bed a youth of a more than ordinary appearance, so that even previous to the declaration of his name, he might be considered as Telesphorus or Apollo: but the god proclaiming who he was, and pronouncing his name, touched the head of Proclus (for he stood reclining his head on Proclus’ pillow) and having immediately restored him to health, vanished from his sight. And such was the divine vision, and the divine benevolence at that time exhibited to our youth.",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Platonist Reader",
+"text": "But having, for a short space of time, in Lycia, applied himself to grammar, he went to Alexandria in Egypt, bringing with him very singular moral virtues, by which he excited towards himself the love of the masters resident in that place. Hence Leonas the rhetorician, who derived (as I think) his lineage from Isaurus, and was illustrious among many of that profession, who were then at Alexandria, not only made him a partaker of his studies, but thought him worthy to become his domestic, and ordered that he should be supplied with food, together with his wife and children, no otherwise than if he had been his true son. He likewise took care to procure him the notice of the principal men in Egypt, who being wonderfully delighted with the acumen of the youth’s ingenuity, and with the elegance and integrity of his morals, reckoned him among their greatest friends. But he was also instructed by Orion the grammarian, whose ancestors discharged the sacerdotal office among the Egyptians, and who had made such a progress in the knowledge of his art, that he composed elaborate books on this subject, which he left not without advantage to posterity. He also went to the schools of the Roman preceptors, and made a great progress in that language; for he was at first led to the study of his father’s profession, in which he was illustrious, his employment being the study of law in the royal city. But when it appeared how vehemently the young man was delighted with the study of rhetoric, as he had not yet touched the writings of the philosophers, he both acquired great glory from his acquisitions, and became the admiration of his fellow pupils and masters, on account of the elegance of his discourse, and his celerity in perceiving; and from his exhibiting more the habit and industry of the master, than that of the scholar.",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Platonist Reader",
+"text": "But while he yet frequented the rhetorical school, the sophist Leonas, made him the companion of his journey to Byzantium: which he undertook for the purpose of gratifying his friend Theodorus, who was at that time præfect of Alexandria, and who was a man both polite and magnificent, and a lover of philosophy. But Proclus, though a youth, followed his master more cheerfully in this journey, lest he should be compelled to interrupt his studies. However, that I may speak more truly, a certain good fortune brought him back to the source of his nativity. For, on his return, his tutelar goddess exhorted him to philosophy, and to visit the Athenian schools. But having first returned to Alexandria, and bid farewell to rhetoric, and the other arts which he had formerly studied, he gave himself up to the discourses of the philosophers then resident at Alexandria. But he frequented Olympiodorus, the most illustrious of philosophers, for the sake of imbibing the doctrine of Aristotle; and in mathematical disciplines gave himself to Hero, a religious man, and one who was eminently skilful in the proper methods of institution. But these men were so delighted with the manners of the youth, that Olympiodorus wished him to espouse his daughter, whom he had taken care to instruct in philosophy, and Hero committed to him all his religion, and made him his constant companion. But having, on a certain time, heard Olympiodorus, a man who was endued with a great power of speaking, and on account of the celerity of his speech, and the gravity of his subjects, was understood by very few of his auditors, as he was departing with the dismissed multitude, he repeated to his companions all that was said, and almost verbatim, though the discourse was copious; as Ulpianus Gazæus, one of his fellow-disciples informed me, who also consumed not the least part of his life in the study of philosophy. But he likewise learned, with great facility, the writings of Aristotle, pertaining to rational philosophy, though the bare reading of them is difficult to those who are engaged in the attempt.",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Platonist Reader",
+"text": "Having therefore, at Alexandria, applied himself to these masters, and enjoyed their confidence in such instruction as they were able to afford, when upon reading together with them a certain author, they appeared to him not to interpret the mind of the philosopher as they ought; conceiving a contempt for these schools, and at the same time being mindful of the exhortation which had been divinely sent to him at Byzantium, he went to Athens, attended by the presiding deities of eloquence and philosophy, and by beneficent dæmons. For that he might preserve the genuine and entire succession of Plato, he was brought by the gods to the guardian city of philosophy, as the circumstances which happened on his first entrance into the city, and all the divine excitations manifestly evince: for they openly presaged, that this gift was sent from the father Apollo, and was a future suffrage of his succession confirmed by divine events. For when his vessel drove to the Pyræum, and it was told to the citizens, Nicolaus, who afterwards flourished in the rhetorical art, but at that time studied under the masters of Athens, descended to the shore as if to an acquaintance, received him for his guest as if he had been a citizen, and brought him to the city; for Nicolaus was also a Lycian. But Proclus. who perceived himself weary from his journey, sat down at the temple of Socrates, though he did not yet know, nor had heard that Socrates was worshipped in that place, and requested Nicolaus that he would stay there for a short time, and, if possible, procure him some water, as he said that he was exceeding thirsty. Immediately Nicolaus, from that very consecrated place, brought him some water; for the fountain belonging to the statue of Socrates was not far distant. But while he was drinking, Nicolaus, for the first time, considering the circumstance: This is an omen, says he, because you have sate in the temple of Socrates, and have there first drank the Attic water. Then Proclus rising, and having paid due reverence to the place, proceeded to the city. But when he came to the tower, the porter who was present at his entrance, and was about to close the gates with bars, said to him, (that I may repeat the words of the man,) “Certainly unless you had come, I should have closed the gates.” And what omen could be more manifest, or could less require the interpretations of Polletes or Melampodes, or such like diviners?",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Platonist Reader",
+"text": "But Proclus, despising the schools of the rhetoricians, though they very much desired his association, as if he had come for that very purpose, met with the prince of philosophers Syrianus, the son of Philoxenus. At that time too, Lachares was in the same company, a man much conversant in philosophy, and the companion of Syrianus in his study, but in eloquence he was in as great admiration as Homer in the poetic art. He then was, as I have said, present at the same time. But it was now the evening twilight, and while they were engaged in mutual converse, the sun sate, and the moon made her first appearance after her change: wherefore, having saluted the stranger, they endeavoured to dismiss him, as being a young man, from their company, that they might adore the goddess apart. But he not having proceeded far, beheld also the moon appearing from the same house, and laying aside his sandals, in their presence saluted the goddess. Here Lachares, admiring the confidence of the youth, said, speaking to Syrianus, “This is what Plato divinely affirms of great geniuses; that they either produce great good, or its contrary.” And such, that I may mention a few out of many, were the signatures of divine original, which happened to our philosopher, on his first arrival at Athens.",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Platonist Reader",
+"text": "But Syrianus brought him to the great Plutarch, the son of Nestor, who, when he saw the young man, not yet twenty years old, and heard of his love and desire of a philosophic life, he was much delighted, and immediately made him a partaker of his philosophic study, though his age almost forbade such an attempt; for he was then very old. He therefore read to Proclus his commentary on Aristotle’s books on the soul, and on the Phædo of Plato: and this great man exhorted him to commit to writing what he heard, employing the ambition of the youth as an instrument, by telling him, that if he completed those scholia, they would be reported as the commentaries of Proclus. And as he loved the youth very much on account of his inclination to the best studies, he called him his son, and caused him to reside with him as a domestic. But after he saw his temperance, with regard to animal food, he exhorted him not to abstain from animals entirely, but to use them so far as was necessary to the vital energies of the corporeal part. He likewise gave the same advice to Syrianus, concerning the youth’s diet. But he answered the old man, as that divine head (Proclus) informed us: “Suffer him with that frugality to learn what I wish, and then, if he pleases, he may die.” Such was the care of his masters respecting him, in every concern. But the old man lived about two years after the arrival of Proclus; and dying, commended the youth to his successor Syrianus, as also his grandson Archiadas. But Syrianus, when he had received Proclus as his pupil, not only much assisted him in learning, but made him his domestic as to other concerns, and the companion of his philosophic life, having found him such an auditor and successor as he had for a long time sought for; and one who was adapted for the reception of a multitude of disciplines, and divine dogmata.",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Platonist Reader",
+"text": "In a shorter space, therefore, than two years, he read, together with Syrianus, all the works of Aristotle, i.e. his logic, ethics, politics, physics, and theological science. But being sufficiently instructed in these, as in certain proteleia, and small mysteries, Syrianus led him to the sacred discipline of Plato, and this by an orderly progression, and not according to the oracle, with a transcendent foot. And he was careful that he might survey with him true mysteries, with the eyes of his soul, free from material darkness, and with a speculation of intellect refined and pure. Hence Proclus was employed night and day in vigilant energies, and in writing compendiously what he had heard, employing his own judgment in the selection and order. And in consequence of this unwearied assiduity, he made so great a progress in a short time, that by then he was twenty-eight years of age, he composed a multitude of works; and among the rest his very learned and elegant commentaries on the Timæus. But from an institution of this kind, his manners also received a greater ornament, since as he advanced in science he accumulated virtue.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Platonist Reader",
+"text": "But he likewise pursued the civil virtues from Aristotle’s political writings, and Plato’s books concerning laws and a republic. However, lest he should be conversant only in the contemplation of these, and should attempt nothing actual, since he was hindered from engaging in public affairs himself, from his being employed in more important concerns, he exhorted Archiadas, who was a religious man, to a political life, at the same time instructing him in its nature and virtues, and explaining to him the methods proper to be observed in the discharge of its duties. And in the same manner as they incite those who run in the race, so he exhorted him to preside in common over the whole of his city, and to confer benefits privately upon each according to all the virtues, but particularly in conformity with the laws of justice. But he excited in reality the emulation of himself in Archiadas, when he exhibited to him his own liberality and magnificence with respect to riches, by bestowing gifts at one time on his friends, and at another time on his kindred, guests, and citizens; proving himself by this means not in the least affected with avarice, and conferring not a little to the good of public concerns. But when dying, he bequeathed that part of his possessions which he did not leave to Archiadas, to his own country, and to Athens. But Archiadas became so great a lover of truth, as well from the company of his own associates as from the friendship of Proclus, that he is never mentioned by our acquaintance, without being at the same time celebrated as the religious Archiadas.",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Platonist Reader",
+"text": "But the philosopher also employed himself in civil consultations among public assemblies, where things pertaining to the republic were discussed; giving the most prudent counsels, conferring with governors concerning equity, and not only exhorting them to an impartial distribution of justice, but in a manner compelling them by philosophical authority. For he had a certain public care of the morals of princes, and not only instructed them in the art of temperate government by his discourse, but also by his own example through the whole of his life; since he was, as it were, the exemplar of temperance to the rest. But he gave a specimen of civil fortitude perfectly Herculean: for since at that time there was, as it were, a sea of troubles upon him, and mighty waves of stormy employments were roused by adverse winds against his upright life, he conducted himself, though in danger, with gravity, and an unshaken constancy. And when he was once very much molested by the improbity of some violent men, which was both pernicious and dangerous to himself, he undertook a journey into Asia, which contributed greatly to his own advantage: for as he was not unskilful in the more ancient rites of that place, which he yet preserved, a divine power afforded him this occasion of departure. Hence, as he well knew the whole of their concerns, he taught them more accurately in things pertaining to the gods, if they happened to have neglected any thing through a long interval of time. And while he was engaged in all these employments, and lived in a correspondent manner, he was so concealed from the multitude that he even excelled the Pythagoreans, who keep with unshaken constancy this precept of their founder, lathe biosas, live concealed. But having pasted a year only in the parts of Lydia, he returned to Athens, under the providential protection of the presiding goddess of philosophy. And thus fortitude was perfected in our philosopher, first by nature, then by custom, and afterwards by science and the consideration of causes. Besides this, he exhibited in another manner his politic habit practically, by composing letters for noblemen; and by this means procuring good to entire cities. But of this I have a sufficient testimony from those on whom they were bestowed, as well Athenians as Argives, and others of different nations.",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Platonist Reader",
+"text": "But he likewise much promoted and increased literary studies, demanding of princes rewards for the preceptors, according to their several deserts. Nor did he undertake this rashly, nor with any interested views, but he compelled them (as he considered it a matter of great moment) to be diligent in their profession, interrogating and discoursing with them respecting every particular: for he was a judge sufficiently instructed in the employments of them all. And if he ever found any one negligent in his profession, he sharply reproved him; so that he appeared very vehement and ambitious, because he was both willing and able to give a just determination on every subject: and he was indeed a lover of glory. But this was not a fault in him, as in most, because it alone regarded virtue and goodness. And, perhaps, without an energy of this kind, nothing great and excellent would ever subsist in the human mind. But he was in this respect vehement: this I will not deny. Yet, at the same time, he was gentle; for he was easily pleased, and demonstrated in a moment that his anger was as pliable as wax. For, almost at the same time, he was (as I may say) wholly transported in reprehension, and with a desire of becoming subservient to their interest, and that he might intercede with princes in their names; being moved with a certain natural conjunction of soul, and, as it were, sympathy of grief.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Platonist Reader",
+"text": "And here, I very opportunely recollect a peculiar example of his natural sympathy of soul with others: nor do I think the like was ever related of any other man. For, notwithstanding he was unmarried, and had no children (because he was not desirous of such connections, but remained free from them all, though many noble and rich alliances were offered him), yet his care of all his familiars and friends, and of their wives and children, was as great as if he had been some common father, and the cause of their birth; for he bestowed a singular attention on the life of each. And whenever any one of them was detained by any disease, he first earnestly supplicated the gods on their behalf with sacrifices and hymns; afterwards he gave a prompt attendance on the sick person himself, convened the physicians, and urged them to make an immediate trial, if they knew of any thing in their art advantageous to the condition of the diseased; and sometimes he produced some singular advice himself, among the physicians; and thus delivered many from imminent dangers. And the greatness of this blessed man’s humanity towards his servants, may be understood by those who desire it, from his will. But of all his familiars, he loved Archiadas and his kindred the most; because, in the first place, their succession was derived from the genus of Plutarch the philosopher; and afterwards on account of that Pythagoric friendship which he maintained with Archiadas, as he was both the companion and preceptor of his studies. And this other kind of friendship, differing from the two already mentioned, appears to have been the most firm and excellent, among these illustrious men. For Archiadas desired nothing, which was not also the wish of Proclus; and on the contrary, the desires of Proclus were the constant wishes of Archiadas.",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Platonist Reader",
+"text": "But having now brought the political virtues, which are inferior to the true ones, to an end, and terminating them in friendship, as their proper bound, we shall now pass to the Cathartic differing from the politic virtues. Indeed, the employment of these last consists in purifying the soul, that so being liberated from the body as much as they are able to effect, it may regard human concerns, and possess a certain similitude with divinity; which is the soul’s best and most exalted end. Yet they do not all liberate after the same manner, but some more, and others less. Since there are certain political purgations which adorn their possessors, even while connected with body, and reduce them to a better condition; bringing under the dominion of reason, anger and desire, and entirely destroying passion and every false opinion: but the Cathartic virtues, which are superior to these, separate entirely from this truly leaden weight of body, and procure an easy flight from mundane concerns. And in these, indeed, our philosopher was studiously employed during the whole of his life, which was devoted to philosophy; since he both taught by his discourses what they were, and after what manner they were preparatory to felicity, and in a particular manner conformed his life to their institutions; performing every thing which could contribute to the separation of his soul, using both night and day prayers, lustrations, and other purifications, as well according to the Orphic as the Chaldaic institutions: and every month he descended, with great diligence, to the sea; and this sometimes twice or thrice. But he was exercised in these, not only in the vigour of his age, but also towards the close of his life; and these customs he observed perpetually, as if they were certain invariable statutes.",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Platonist Reader",
+"text": "But he used meat and drink, and other necessary pleasures, only so far as was necessary, to avoid the molestations of disease; for he was in these by much the most frugal, and particularly loved abstinence from animal food. And if at any time he was invited to eat it more vehemently, he was so cautious in its use, that he ate it merely after the manner of a taster. But he purified himself every month by the sacred rites, in honour of the mother of the gods, celebrated by the Romans, and prior to them by the Phrygians: he likewise more diligently observed the unfortunate days of the Egyptians than they themselves; and, besides this, fasted on certain days in a peculiar manner, on account of the lunar appearances. He likewise instituted a fast on the last day of the month, not having supped the day before. But in what a splendid manner, and with what piety, he celebrated the new moon, and properly observed, with sacrifices, the more illustrious feasts of almost all nations, according to the manner of each country; and how from these he did not, according to the custom of many, take occasion of becoming idle and intemperate, but employed himself in continual prayers, hymns, and the like, his hymns sufficiently evince, which not only celebrate the divinities of the Greeks, but likewise Marna Gazæus, Esculapius Leonteuchus, Ascalonites, and Theandrites, another god much venerated by the Arabians; together with Isis, worshipped by the Philians; and lastly, all the rest which were the subjects of his devotion. For this sentiment was very familiar to this most religious man, that it was proper a philosopher should not be careful in the observance of the rites and institutions of one particular city, nor of certain nations only, but that he should be the general priest of the universe. And thus was he pure and holy, so far as pertains to the virtue of temperance.",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Platonist Reader",
+"text": "But he declined, as much as possible, pain: and if it ever happened to him, he bore it with gentleness, and diminished it with this view, that his best part might not at the same time be affected with its molestations. And the fortitude of his soul in this respect, was sufficiently evinced in his last illness; for when, at that time, he was oppressed and tormented with the most excruciating pains, he endeavoured to the utmost to mitigate and expel their afflictive invasions. Hence, on such occasions, he often commanded us to repeat certain hymns, which when repeated procured him a remission and cessation of pain. And what is more wonderful, he remembered what he heard of these, though forgetful of almost all human concerns, from the dissolution of his corporeal part continually increasing. For when we began to repeat, he supplied what was unfinished of the hymns, together with many of the Orphic verses; for it was these we were then reciting. Nor was he only thus constant in enduring corporeal evils, but much more so in external unfortunate events, and such as appeared to happen contrary to expectation. So that he would say, concerning particulars of this kind, So it is, such things’ are usual; which seemed to me, or rather at that time appeared to be, worthy of remembrance, and an evident argument of our philosopher’s magnanimity. But besides this, he restrained anger as much as possible, so that it might either remain free from all excitation, or that at least reason might not consent to its indulgence, but the irrational faculty alone, contrary to his will, might be moderately and lightly excited. And with respect to venereal concerns, he used them in the natural way, but so as that he might not proceed beyond a very moderate and light phantasy, in their indulgence.",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Platonist Reader",
+"text": "And thus the soul of this blessed man, having collected itself from all parts, and retiring into the depths of its essence, departed after a manner from body; while it yet appeared to be contained in its dark receptacle. For he possessed a prudence, not like that of a civil nature, which is conversant in the administration of fluctuating particulars, but prudence itself, by itself sincere, which is engaged in contemplating, and converting itself into itself, without any longer consenting to a corporeal nature. He likewise possessed a temperance free from evil; and which is not even moderately influenced by perturbations, but is abstracted from all affections. And lastly, he acquired a fortitude, which does not fear a departure from body. But reason and intellect having obtained in him a perfect dominion, and the inferior powers of his soul no longer opposing themselves to purifying justice, his whole life was adorned with the divine irradiations of genuine virtue.",
+"kind": "narration"
+},
+{
+"entry": 34,
+"who": "Platonist Reader",
+"text": "Our philosopher, therefore, having most happily absolved this form of virtues, advancing now, as it were, by the highest and most mystical step, he ascended to the greatest and most consummate or telestic virtues; employing for this purpose, the felicity of his nature, and a sciential institution. Hence, being now purified, and the victor of his nativity, and despising the vain Thyrsus-bearers, and boasters of wisdom, he happily penetrated into her profound recesses, and enjoyed the contemplation of the truly blessed spectacles she contains. No longer requiring prolix dissertations, or demonstrations, for the purpose of collecting the science of these, but, with a simple vision and energy of intellect, beholding the exemplar of the divine mind, he obtained a virtue which cannot with sufficient propriety be called prudence, but is more properly denominated wisdom, or something, if possible, still more venerable and divine. But the philosopher energizing, according to this virtue, easily comprehended all the theology of the Greeks and Barbarians, and whatever is shadowed over by the figments of fables, and placed it in a clear light, for the use of those who are willing and able to pursue its latent signification. But having interpreted divinely every thing of this kind, and showing the symphony between them all; at the same time, investigating all the writings of the ancients, whatever he found in them of genuine wisdom, and approved by general consent, this he judiciously applied to use; but if he found any thing of a different and dissonant nature, this he entirely rejected, as vicious and false. And whatever he met with contrary to wisdom, though endued with a friendly appearance, this he vigorously subverted by a diligent examination. Nor did he employ less force and perspicuity in his association with other men. For he was a man laborious to a miracle; as he often, in one day absolved five, and sometimes more lectures; and writ besides, many verses, often to the number of seven hundred. Besides this, he went to other philosophers, and frequented their company; and again celebrated with them an evening association, ceasing from the labour of writing. And all these employments he executed in such a manner, as not to neglect his nocturnal and vigilant piety to the gods, and assiduously supplicating the sun when rising, when at his meridian, and when he sets.",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Platonist Reader",
+"text": "But he was the parent of many dogmata, which were never known before, both in physics, and in intellectual and more divine concerns. For he first taught, that there was a kind of souls, endued with the power of contemplating many forms at once, which he placed, not without great probability, between intellect, collectively, and as it were with one intuition comprehending every thing, and souls, which are alone able to direct their vision to one particular form. And those who are willing to peruse his works will meet with a great variety of dogmata, peculiar to him alone; the relation of which I shall omit, lest I should give a too great extent to my discourse. But he who evolves his writings, will easily perceive that all we have above related of him is most true, and much more if he happens to have known him; to have seen his face, and to have heard him interpreting in the most excellent dissertations, and delivering the Platonic and Socratic dogmata in his yearly schools. Nor did he seem destitute of divine inspiration; for he produced from his wise mouth, words similar to the most white and thick falling snow; so that his eyes emitted a bright radiance, and the rest of his countenance was resplendent with a divine light. Hence, when on a certain time, one Rufinus, a man of a great name in the republic, who was studious of truth, and in other respects worthy of veneration, came to him when he was teaching and interpreting, he perceived that the head of Proclus was surrounded with a light; and when the philosopher had finished his interpretation, Rufinus rising, adored him; and offered to give a public testimony, by oath, of the divine vision which he had observed. And much gold was offered to him, by the same Ruffians, on his return from Asia, having escaped the danger of the war. But Proclus likewise rejected this gift, and was by no means willing to receive it.",
+"kind": "narration"
+},
+{
+"entry": 36,
+"who": "Platonist Reader",
+"text": "But that we may return to our first design, having now discoursed concerning the contemplative wisdom of the philosopher, though in a manner but little suited to its dignity, it remains that we now speak of the justice pertaining to this kind of virtues. For this, unlike that of which we spoke before, is not conversant in distribution, or proportion; but must be equally removed from the kind of self-energizing justice, by which all things are alone directed to the rational soul. For to that, concerning which we now treat, it is alone proper to refer every energy to intellect and the deity, which our philosopher performed in the most exalted manner. For he scarcely rested from his diurnal labours, or refreshed his body with sleep; and perhaps even then was not free from meditation and contemplation. This is certain, that having very speedily roused himself from sleep, as from a certain torpor of the soul, he aspired after the morning, the time of prayer; and lest the greater part of the night, should glide from him without advantage, as he was lying alone in his bed, he either composed hymns, or examined and fortified those dogmata which afterwards, in the day time, he committed to writing.",
+"kind": "narration"
+},
+{
+"entry": 37,
+"who": "Platonist Reader",
+"text": "After a similar manner he pursued that temperance which has an affinity with these virtues, and which consists in a conversion of the soul to intellect, so as not to suffer itself to be touched, nor moved with any other concerns. Lastly, he joined fortitude in alliance with these, by a certain perfect method, zealously aspiring after that liberty which is ignorant of all passion, and which he perceived was natural to the divine object of his contemplation. And thus, through the whole of his conduct, he did not lead the life of a man merely good, to which, as Plotinus says, the political virtues may lead, but leaving this far behind him, he endeavoured to change it for one much more perfect and divine, the life of the gods themselves; since, to become similar to these, and not to virtuous men, was the great object of his contention.",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Platonist Reader",
+"text": "And thus he had rendered virtues of this kind familiar to himself, while he frequented the philosopher Syrianus, and evolved and studied the commentaries of the ancients. But he received from the mouth of his preceptor certain small seeds, as it were, of the Orphic and Chaldaic theology; because he was prevented from hearing the complete interpretation of his master on the Orphic verses. For Syrianus left to the choice of Proclus and one Domninus, a philosopher of the Syrian nation, and who afterwards succeeded Syrianus, the exposition of the Orphic writings, or the oracles. But they were by no means unanimous in their choice; for Domninus preferred the interpretation of the Orphic verses, and Proclus that of the oracles. But our philosopher did not perfect his undertaking, because the death of the great Syrianus happened not long after. Having therefore, as I have said, received the outlines from the mouth of his master, he applied himself with the greatest diligence to the written commentaries of Syrianus upon Orpheus; and being assiduously nourished with the copious lucubrations of Porphyry and Iamblichus on the oracles, and similar writings of the Chaldeans, he arrived, as much as is possible to man, to the top of those highest virtues, which the divine Iamblichus was accustomed to call after a truly divine manner, theurgic.",
+"kind": "narration"
+},
+{
+"entry": 39,
+"who": "Platonist Reader",
+"text": "He laboured therefore, not without exquisite judgment, in collecting the expositions of philosophers prior to his time; and contracted into one, other Chaldaic hypotheses, and the most excellent of the commentaries on the divine oracles, completing this great work in the space of five years; concerning which this divine vision appeared to him in his sleep. For he saw the great Plutarch approach to him, affirming that he should live so many years as he had composed tetrads or quaternions on the oracles. Afterwards, having collected the number of these, he found they amounted to seventy. But that this was a divine dream, was sufficiently evinced by the last part of his life; for though he lived seventy-five years, as we have mentioned above, yet he had not the perfect use of his powers, in the five last. But his body, though naturally of the best constitution, being debilitated by that bard and scarcely tolerable kind of diet which he used, and by so many frequent labours and fastings, began to languish exactly at his seventieth year, so that he then became much more remiss in all his energies than before.",
+"kind": "narration"
+},
+{
+"entry": 40,
+"who": "Platonist Reader",
+"text": "Yet, even at this period, and thus affected, he composed orations and hymns: he also writ some things, and conversed with his friends; but his ancient vigour was wanting in each. Hence the memory of the dream excited his wonder, and he every where said, that he had only lived seventy years. But while he laboured under this infirmity of body, a certain youth, named Hegias, rendered him more alert in the business of interpretation. This young man, who already exhibited from his tender years such egregious signs of all the virtues of his ancestors, was one of that golden chain of philosophers, who had formerly appeared to men; and adhered most diligently to Proclus delivering the Platonic and other theologies. But Proclus, at this advanced period, was not moderately rejoiced in communicating with the young man, his own writings, after he understood that he made cubital advances in every kind of disciplines. And thus we have briefly discoursed concerning the apparatus of the philosopher in the Chaldean oracles.",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Platonist Reader",
+"text": "But I, on a certain time, having read with him the Orphic verses, and heard, among his interpretations, not only the recondite theology which is to be found in Iamblichus and Syrianus, but also, among many other divine men, I requested the philosopher that he would not leave these divine verses also without his explanation: but his answer was, That he had often thought of writing commentaries on Orpheus, but that he had been strongly prohibited in more than one dream. For Syrianus appearing to him in his sleep, had deterred him with threats from the design. Having therefore employed other machines, I intreated that at least he would mark what he principally approved of in the books of his master; which when this best of men had performed, in consequence of my persuasions, and had noted some things in the front of each of Syrianus’s commentaries, we obtained a collection of all these, and by this means scholia, and commentaries of no small bulk; though to accomplish this on the whole of that divine poetry, and on all the Orphic rhapsiodies, was not the intention of Proclus.",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Platonist Reader",
+"text": "But since, as we have said, his incredible study of these concerns, procured him a greater and more perfect degree of theurgic virtue, hence he no longer remained in the contemplative order, nor contented with either of the two-fold properties in divine concerns, exercised intellect and thought alone on the more excellent objects of speculation: but he was careful to obtain another kind of virtues more divine than the former, and separated from the politic mode; for he used the Chaldean assemblies and conferences, and their divine and ineffable concealments. And having comprehended these, he learned the manner of pronouncing and expressing them, with their remaining use, from Asclepigenia, the daughter of Plutarch: for she alone, at that time, preserved the knowledge of the great Orgies, and of the whole theurgic discipline, delivered to her by her father, who received it from Nestor. Besides this, our philosopher also being purified in an orderly manner in the Chaldean lustrations, was an inspector of the lucid hecatic phasmai (or visions) of which he himself makes mention in one of his commentaries. But by moving a certain hecatic sphærula, he very opportunely brought down showers of rain, and freed Athens from an unseasonable heat. Besides this, by certain phylacteria, or charms, he stopped an earthquake, and had thoroughly tried the energies of a divining tripod, having learned from certain verses concerning its defect. For when he was in his fortieth year, he thought in a dream, that he repeated to himself the following verses:",
+"kind": "narration"
+},
+{
+"entry": 43,
+"who": "Platonist Reader",
+"text": "High above æther there with radiance bright, A pure immortal splendor wings its flight; Whose beams divine with vivid force aspire, And leap resounding from a fount of sire.",
+"kind": "narration"
+},
+{
+"entry": 44,
+"who": "Platonist Reader",
+"text": "And in the beginning of his forty-second year, he appeared to himself to pronounce these verses, with a loud voice:",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Platonist Reader",
+"text": "Lo! on my soul a sacred fire descends, Whose vivid pow’r the intellect extends; From whence far-beaming through dull bodies night, It soars to æther deck’d with starry light; And with soft murmurs through the azure round, The lucid regions of the gods resound.",
+"kind": "narration"
+},
+{
+"entry": 46,
+"who": "Platonist Reader",
+"text": "Besides, he clearly perceived that he belonged to the Mercurial series; and was persuaded from a dream that he possessed the soul of Nicomachus the Pythagorean.",
+"kind": "narration"
+},
+{
+"entry": 47,
+"who": "Platonist Reader",
+"text": "Indeed, if I were willing to be prolix, I could relate many theurgical operations of this blessed man; from the infinite number of which, I will only relate one in this place of a very wonderful nature. Asclepigenia, the daughter of Archiades and Plutarch, but the wife of Theagenes, from whom I have received many benefits, while she was yet a girl, and was nourished by her parents, fell into a disease, grievous, and incurable by the physicians. And Archiades, who had reposed in her alone the hope of his race, was deeply afflicted with her condition. But the physicians despairing of her recovery, the father fled to his last anchor, Proclus the philosopher, which he was accustomed to do in affairs of the greatest moment, considering him as his best preserver, and earnestly intreated him to intercede by his prayers with the god for his daughter, whose condition was well known to our philosopher. Proclus therefore, taking with him Pericles the Lydian, a man well deserving the name of a philosopher, went to the temple of Esculapius, that he might pray to the god for the health of the sick virgin: for the city at that time happily possessed this divinity, and rejoiced in the temple of the saviour god, which was as yet free from the destruction of the Christians. As soon, therefore, as Proclus had prayed after the ancient manner, the girl immediately perceived a great change and alleviation of her disease; for the preserving god had easily restored her to health. The sacred rites being finished, Proclus went to Asclepigenia, and found her delivered from the molestations of disease, and in a healthy condition. But this affair, with many others, was performed privately, so that no traces of it remained to succeeding investigators; and the house in which he resided greatly assisted him in this design. For besides his other fortunes, he enjoyed a most convenient dwelling, which his father Syrianus and his grand-father Plutarch (for so he did not hesitate to call him) had once inhabited; and this was situated near the temple of Esculapius, together with that of the celebrated Sophocles, and of Bacchus, which is next to the theatre, and looks towards, or is at least seen from, the lofty towers of Minerva.",
+"kind": "narration"
+},
+{
+"entry": 48,
+"who": "Platonist Reader",
+"text": "But how much Proclus was loved by the philosophic goddess is abundantly evinced by his philosophic life, which he chose through her persuasions, and that with the great success we have hitherto described. But she clearly demonstrated her affection to Proclus, by the following circumstance. When her image, which had been so long dedicated in the parthenon, or temple, was taken away by those who, without any hesitation, moved out of their places things the most holy, and which ought to be immoveable, there appeared to the philosopher in a dream, a woman of a graceful form, who admonished him to build a temple with great expedition, for, says she, it pleases Minerva, the presiding deity of philosophy, to dwell with you. And how familiar he was with Esculapius, besides what we have mentioned above, may be evinced from his perceiving the presence of the same god in his last illness. For while he was between steeping and waking, he perceived a dragon creeping on his head, which vision occasioned a remission of his disease, and a mitigation of his pain; so that it is probable he would have been restored to perfect health, if his desire and vehement expectation of death had not prevented his recovery, or his no longer bestowing a diligent attention on his body.",
+"kind": "narration"
+},
+{
+"entry": 49,
+"who": "Platonist Reader",
+"text": "But he also related the following circumstances, (worthy of being remembered) but not without tears, through the sympathy of his mind. For, when a young man, he was afraid lest he should be infested with the gout, which was the disease of his father, and which loves to descend from parents to their children. Nor was he afraid, as it seems, without reason; for prior to that which we have already related concerning him, he was tormented with pains of this kind, when another extraordinary circumstance happened to this blessed man. In consequence of a certain person’s prescription, whom he had consulted, he applied a plaster to his tormented foot, which an unexpected bird flew away with as he was lying on his bed. And this was certainly a divine and salutary symbol to Proclus, and might have persuaded him not to be afraid of this calamity in future.",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Platonist Reader",
+"text": "But he, as I have said, was notwithstanding afflicted with the dread of this disease; he therefore supplicated the healing god concerning this, and intreated him to afford him a more evident token of his will: and after this he saw in his sleep (it is bold indeed to conceive such a circumstance in the mind, but we must dare, nevertheless, nor dread to bring truth to right) Esculapius approaching to him, and accurately contemplating his leg, nor disdaining, through his great philanthropy to embrace his knee. Hence, in consequence of this vision, Proclus was, through the whole of his life, free from the apprehensions of this disease, and was never more tortured with this kind of pains. Again, the god who is worshipped by the Adrotteni, did not less Conspicuously evince his great familiarity with this friend of the gods; for, more than once, the god benevolently presented himself to the sight of Proclus, frequenting his temple.",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Platonist Reader",
+"text": "And when he was doubtful, and wished to know what god or gods resided and were worshipped in that place, because the inhabitants were of different opinions in this affair, some believing that the temple of Esculapius was there, persuaded of this by various signs, as voices are certainly said to be heard, in that place, and a table is consecrated to the gods, and oracles are given concerning the recovery of health, and those who approach are miraculously delivered from the most grievous dangers of life. Others, on the contrary, think that the Dioscuri reside in that place, because there have been those who saw in the way tending towards Adrotta, two young men of the most beautiful form, and riding with great celerity on horseback; at the same time declaring, that they hastened to the temple. They add besides, that the countenance of these was indeed human, but that they immediately gave evidence of a more divine presence; for when the men were arrived at the temple, the above mentioned youths appeared to them, making no enquiry concerning the affair, and occupied in the sacred concerns; but presently after, withdrew themselves from their sight.",
+"kind": "narration"
+},
+{
+"entry": 52,
+"who": "Platonist Reader",
+"text": "As the philosopher, therefore, was in doubt concerning these divinities, and did not discredit the relations, having requested the gods who inhabited that place, that they would condescend to manifest who they were; a god appeared to him in a dream, and clearly spoke to him as follows: What! Hast thou not heard of Iamblichus teaching concerning, and celebrating those two, Machaon and Podalirius? And besides this, the god condescended to afford so great an instance of benevolence to this blessed man, that he stood after the manner of those who bestow encomiums on others in the theatres, and with a clear voice, and composed habit, extending his right hand, did not hesitate to exclaim, (that I may relate the words of the god,) Proclus the ornament of the city. And what could possibly be a greater testimony of this blessed man’s friendship with divinity? But he, indeed, in consequence of a most remarkable sympathy, by which he was united with the gods, could never refrain from tears when he mentioned this affair to us, and related the divine encomium of himself.",
+"kind": "narration"
+},
+{
+"entry": 53,
+"who": "Platonist Reader",
+"text": "Indeed, if I were willing to pursue every particular in like manner, and to relate his familiarity with the Hermetic Pan, together with the great benevolence and manifold assistance which that divinity condescended to afford Proclus at Athens, and of that perfectly singular kind of felicity, which he obtained from the mother of the gods, and in which he was accustomed especially to triumph and rejoice; I should perhaps seem to many readers, to be rash in my assertions, and to others, the author of things perfectly incredible. For many and great were the daily instances of this goddess’s benevolence towards him, in words and actions, which are both innumerable and unheard of, and concerning which, I do not at present retain an accurate remembrance. But if any one is desirous of knowing how great he was in these, he must evolve his book concerning the mother of the gods, from which he will understand, that it was not without divine assistance he produced all the theology of that goddess into light; as likewise, whatever is acted or affirmed concerning the same in the fables of Athis, which he has explained after a philosophical manner, that vulgar ears might afterwards cease to be disturbed, on perceiving the lamentations and other obscure ceremonies with which her mysteries are celebrated.",
+"kind": "narration"
+},
+{
+"entry": 54,
+"who": "Platonist Reader",
+"text": "After having, therefore, run through the theurgic virtue of Proclus, and its energies, and the happy circumstances which befell him, respecting its operations, and having shown, that he did not less excel in every kind of virtue, and that he was a man such as mortals have not beheld for a long period of time, it remains that we now bring our discourse concerning him to a conclusion: for we are not now at the beginning of our narration, nor does the half of the whole remain to us, according to the proverb, but the whole itself is now perfect and complete. Since having begun from the felicity of the philosopher, and proceeded in its exemplification, our discourse now returns to it again. For we have explained the great goods, and providential exertions, which were granted to this most excellent man from the gods, and have shown their prompt attention to his prayers, the divine visions which he enjoyed, and the help and solicitude which the gods testified towards him. We have likewise explained his prosperous fate, and propitious fortune, his country, parents, the good habit of his body, his masters, friends, and other external advantages; each of which we have shown to have been far greater and more splendid in him than in other men; and have likewise diligently enumerated such things as cannot be reckoned amongst outward allurements, but entirely depended on his will, such as are the upright and illustrious deeds of his soul, according to universal virtue. And thus we have summarily demonstrated that his soul arrived in reality at the summit of the most consummate virtue, and was happily established in a perfect life, by human and divine goods of every kind.",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Platonist Reader",
+"text": "But that the lovers of more elegant studies may be able to conjecture from the position of the stars under which he was born, that the condition of his life, was by no means among the last or middling classes, but ranked among the highest and most happy orders, we have thought fit to expose in this place, the following scheme of his nativity.",
+"kind": "narration"
+},
+{
+"entry": 56,
+"who": "Platonist Reader",
+"text": "But Proclus departed from this corporeal life, in the one hundred and twenty-fourth year after the government of Julian, on the seventeenth day of the Attic Munichion, or the April of the Romans. Nicagoras, the junior, being at that time the Athenian archon. The dead body was taken care of according to the Athenian rites, as he himself while living had directed. And if that diligent attention which is due to the deceased, was ever paid by any one, it was certainly bestowed by this most blessed man. For he did not neglect any particular of the accustomed ceremonies, but every year, on certain days, visited the sepulchres of the Athenian heroes and philosophers, and besides this sacrificed himself, and not through the medium of another, to the manes of his friends and familiars. And having thus exhibited to each a proper reverence and honour, proceeding into the Academy, he there, in a certain place, pleased one by one the manes of his ancestors and kindred; and shortly after, in another part of the same Academy, he supplicated in common the souls of all philosophers. And these ceremonies being ended, this most excellent man, having chosen a third place, performed sacred rites to all the souls of deceased mankind. The dead body of Proclus, therefore, being disposed of according to his appointment, as we have said, was carried by his friends and buried in the eastern part of the suburbs, near to Lycabetus, where also the body of his preceptor Syrianus reposes, who, when he was alive, had requested this of our philosopher, and, in consequence of this, had taken care to procure a twofold receptacle in his sepulchre. But when this most holy man was consulted how he would wish his funeral to be conducted, lest there should be any thing indecent, or without a proper decorum, he desired flutes, with which he was threatened in a dream, and nothing besides. An epigram, conssting of four verses, is inscribed on his tomb, which he composed himself, as follows:",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Platonist Reader",
+"text": "I Proclus, here the debt of nature paid, (My country Lycia) in the dust am laid; Great Syrianus form’d my early youth, And left me his successor in the truth. One common tomb, our earthly part contain? One place our kindred souls, — th’ ætherial plains.",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Platonist Reader",
+"text": "Nor were prognostics wanting in the year prior to his decease, such as an eclipse of the sun, so great that night was produced in the daytime: for the darkness was so profound, that the stars became visible. And this happened when the sun was in Capricorn, in the eastern centre. Besides, the writers of Ephemerides observe that there will be another eclipse of the sun, at the conclusion of the next year. But such like affections of the heavenly bodies are said to portend events on the earth: to us indeed, the eclipse perspicuously signified a privation and, as it were, defection of the illustrious luminary of philosophy.",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Platonist Reader",
+"text": "And thus much may suffice for the life of the philosopher. It now remains for those who are willing to undertake the labour, to write concerning his disciples and friends. For it appears that many resorted to him from all parts; among which some were only his auditors, but others firm adherents to his doctrine; and, on account of philosophy, his familiars. I could likewise wish that some one, who is more laborious than myself, would give a particular account of his writings. For I have alone delivered these particulars of his life, that I might satisfy my conscience, and might testify that I religiously reverence the soul of Proclus, and his good dæmon. I shall, therefore, add nothing concerning the philosopher’s writings, except that I have always heard him prefer his commentaries on the Timæus of Plato beyond all his works. He likewise vehemently approved of his commentaries on the Theætetus. And he used frequently to say, that if he was endued with despotic power, he would alone preserve, of all the writings of the ancients, the Oracles and the Timæus. For said, he, I would abolish all the rest, and remove them from the present age, because it happens that many are offended, who undertake to read them rashly and without proper institution.",
+"kind": "narration"
+}
+]
+},
+{
+"name": "Endnotes",
+"lines": [
+{
+"entry": 60,
+"who": "Platonist Reader",
+"text": "Endnotes",
+"kind": "heading"
+},
+{
+"entry": 61,
+"who": "Platonist Reader",
+"text": ". Plato in Phædro. Meminit et Plutarch. VIII. Sympos. Suidas in meto. Fabricius.",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Platonist Reader",
+"text": ". For a full account of the distribution of the virtues according to the Platonists, consult the sentences of Porphyry, and the Prolegomena of Fabricius to this work.",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Platonist Reader",
+"text": ". See the sixth book of his Republic, and the Epinomis.",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Platonist Reader",
+"text": ". We are informed by Fabricius, that the Platonic Olympiodorus in his MS. Commentary on the Alcibiades of Plato, divides the orders of the Gods, into yperkosmioi, or super-mundane, which are separate from all connection with body; and into enkosmioi, or mundane. And that of these, some are yoranios, or celestial, others aitherioi, or etherl, or pyrioi fiery, others aerio, or aerial, others enydroi, or watery, others chthonioi or earthly; and others ypotartarioi, or subterranean. But among the terrestrial, some ate klimazarchai, or governors of climates, others poliyochoi, or rulers over cities, and others lastly katokidioi, or governors of houses.",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Platonist Reader",
+"text": ". This epithet is likewise ascribed by Onomacritus to the Moon, as may be seen in his hymn to that deity; and the reason of which we have given in our notes to that hymn.",
+"kind": "narration"
+},
+{
+"entry": 66,
+"who": "Platonist Reader",
+"text": ". Divine visions, and extraordinary circumstances, may be fairly allowed to happen to such exalted geniuses as Proclus; but deserve ridicule when ascribed to the vulgar.",
+"kind": "narration"
+},
+{
+"entry": 67,
+"who": "Platonist Reader",
+"text": ". What glorious times! when it was considered as an extraordinary circumstance for a teacher of rhetoric to treat a noble and wealthy pupil as his domestic. When we compare them with the present, we can only exclaim, O tempora! O mores! Philosophy sunk in the ruins of ancient Greece and Rome.",
+"kind": "narration"
+},
+{
+"entry": 68,
+"who": "Platonist Reader",
+"text": ". Fabricius rightly observes, that this Olympiodorus is not the same with the Philosopher of that name, whose learned commentaries, on certain books of Plato, are extant in manuscript, in various libraries. As in these, not only Proclus himself, but Damascius, who flourished long aster Proclus, is celebrated.",
+"kind": "narration"
+},
+{
+"entry": 69,
+"who": "Platonist Reader",
+"text": ". Concerning the various mathematicians of this name, see Fabricius in Bibliotheca Græca.",
+"kind": "narration"
+},
+{
+"entry": 70,
+"who": "Platonist Reader",
+"text": ". The word in the original is logika, which Fabricius rightly conjectures has in this place a more extensive signification than either Logic, or Rhetoric: but I must beg leave to differ from that great critic, in not translating it simply philosophical, as I should rather imagine, Marinus intended to confine it to that part of Aristotle’s works, which comprehends only logic, rhetoric, and poetry. For the verb eximanthano, or to learn, which Marinus uses on this occasion, cannot with propriety be applied to the more abstruse writings of Aristotle.",
+"kind": "narration"
+},
+{
+"entry": 71,
+"who": "Platonist Reader",
+"text": ". Hence Proclus was called, by way of eminence, diadochos Platonikos, or the Platonic Successor.",
+"kind": "narration"
+},
+{
+"entry": 72,
+"who": "Platonist Reader",
+"text": ". Concerning Polletes, see Suidas; and for Melampodes, consult Fabricius in Bibliotheca Græca.",
+"kind": "narration"
+},
+{
+"entry": 73,
+"who": "Platonist Reader",
+"text": ". This Syranius was indeed a most excellent philosopher, as we may he convinced from his commentary on the metaphysics of Aristotle, a Latin translation only of which, by one Hieronimus Bagolinus, was published at Venice in 1558. The Greek is extant, according to Fabricius, in many of the Italian libraries, and in the Johannean library at Hamburg. According to Suidas, he wrote a commentary on the whole of Homer in six books; on Plato’s politics, in four books; and on the consent of Orpheus, Pythagoras, and Plato, with the Chaldean Oracles, in ten books. All these are unfortunately lost; and the liberal few, are by this means deprived of treasures of wisdom, which another philosophical age, in some distant revolution, is alone likely to produce.",
+"kind": "narration"
+},
+{
+"entry": 74,
+"who": "Platonist Reader",
+"text": ". Socrates, in the 6th book of Plato’s Republic, says, that from great geniuses nothing of a middle kind must be expected; but either great good, or great evil.",
+"kind": "narration"
+},
+{
+"entry": 75,
+"who": "Platonist Reader",
+"text": ". The reader will please to take notice, that this great man is not the same with Plutarch the biographer, whose works are so well known; but an Athenian philosopher of a much later period.",
+"kind": "narration"
+},
+{
+"entry": 76,
+"who": "Platonist Reader",
+"text": ". Aristotle’s philosophy, when compared with the discipline of Plato is, I think, deservedly considered in this place as bearing the relation of the protelcia to the epopteia in sacred mysteries. Now the proteleia, or things previous to perfection, belong to the initiated, and the mystics; the former of whom were introduced into some lighter ceremonies only: but the mystics, were permitted to be present with certain preliminary and lesser sacred concerns. On the other hand, the epoptæ were admitted into the sanctuary of the greater sacred rites; and became spectators of the symbols, and more interior ceremonies. Aristotle indeed appears to be every where an enemy to the doctrine of ideas, as understood by Plato; though they are doubtless the leading stars of all true philosophy. However, the great excellence of his works, considered as an introduction to the divine theology of Plato, deserves the most unbounded commendation. Agreeable to this, Damascus informs us that Isidorus the philosopher, “when he applied himself to the more holy philosophy of Aristotle, and saw that he trusted more to necessary reasons than to his own proper sense, yet did not entirely employ a divine intellection, was but little solicitous about his doctrine: but that when he had tasted of Plato’s conceptions, he no longer deigned to behold him in the language of Pindar. But hoping he should obtain his desired end, if he could penetrate into the sanctuary of Plato’s mind, he directed to this purpose the whole course of his application.” Photii Bibliotheca, p. 1034.",
+"kind": "narration"
+},
+{
+"entry": 77,
+"who": "Platonist Reader",
+"text": ". according to the oracle. In the original kaza to logion, which I wonder Fabricius should translate, quod aiunt, as it is usual with the Platonists, to cite the Zoroastrian oracles exactly in these words, instances of which may be found in Proclus on Plato’s theology; and the very words prove themselves to be a part of an oracle, when attentively considered.",
+"kind": "narration"
+},
+{
+"entry": 78,
+"who": "Platonist Reader",
+"text": ". Nothing is more celebrated by the ancients than that strict friendship which subsisted among the Pythagoreans; to the exercise of which they were accustomed to admonish each other, not to divide the god which they contained, as Iamblichus relates, lib. i. c. 33. De Vita Pythagoræ. Indeed, true friendship can alone subsist in souls, properly enlightened with genuine wisdom and virtue; for it then becomes an union of intellects, and must consequently be immortal and divine.",
+"kind": "narration"
+},
+{
+"entry": 79,
+"who": "Platonist Reader",
+"text": ". Pythagoras, according to Damascius, said, that friendship was the mother of all the political virtues.",
+"kind": "narration"
+},
+{
+"entry": 80,
+"who": "Platonist Reader",
+"text": ". A genuine modern will doubtless consider the whole of Proclus’ religious conduct as ridiculously superstitious. And so, indeed, at first sight, it appears; but he who has penetrated the depths of ancient wisdom, will find in it more than meets the vulgar ear. The religion of the Heathens, has indeed, for many centuries, been the object of ridicule and contempt: yet the author of the present work is not ashamed to own, that he is a perfect convert to it in every particular, so far as it was understood and illustrated by the Pythagoric and Platonic philosophers. Indeed the theology of the ancient, as well at of the modern vulgar, was no doubt full of absurdity; but that of the ancient philosophers, appears to be worthy of the highest commendations, and the most assiduous cultivation. However, the present prevailing opinions, forbid the defence of such a system; for this must be the business of a more enlightened and philosophic age. Besides, the author is not forgetful of Porphyry’s destiny, whose polemical writings were suppressed by the decrees of emperors; and whose arguments in defence of his religion were so very futile and easy of solution, that, as Sr. Hierom informs us, in his preface on Daniel, Eusebius answered him in twenty five, and Apollinaris in thirty volumes!",
+"kind": "narration"
+},
+{
+"entry": 81,
+"who": "Platonist Reader",
+"text": ". See Proclus on Plato’s Politics, p. 399. Inflit. Theolog. num. 196; and the extracts of Ficinus from Proclus’s commentary on the first Alcibiades, p. 246. etc.",
+"kind": "narration"
+},
+{
+"entry": 82,
+"who": "Platonist Reader",
+"text": ". Alluding to the beautiful description given of Ulysses, in the 3rd book of the Iliad, v. 222:",
+"kind": "narration"
+},
+{
+"entry": 83,
+"who": "Platonist Reader",
+"text": "Kai epia niphadesin eoikota cheimeriesin.",
+"kind": "narration"
+},
+{
+"entry": 84,
+"who": "Platonist Reader",
+"text": "Which is thus elegantly paraphrased by Mr. Pope.",
+"kind": "narration"
+},
+{
+"entry": 85,
+"who": "Platonist Reader",
+"text": "But when he speaks, what elocution flows! Soft as the fleeces of descending snows. The copious accents fall, with easy art; Melting they fall, and sink into the heart! etc.",
+"kind": "narration"
+},
+{
+"entry": 86,
+"who": "Platonist Reader",
+"text": ". Concerning Domninus, sec Photius and Suidas from Damascius in hit Life of Isidorus.",
+"kind": "narration"
+},
+{
+"entry": 87,
+"who": "Platonist Reader",
+"text": ". Nicephorus, in his commentary on Synesius de Insomniis, p. 562. informs us, that the hecatic orb, is a golden sphere, which has a sapphire stone included in its middle part, and through its whole extremity, characters and various figures. He adds, that turning this sphere round, they perform invocations, which they call Jyngæ. Thus too, according lo Suidas, the magician Julian of Chaldea, and Arnuphis the Egyptian, brought down showers of rain, by a magical power. And by an artifice of this kind, Empedocles was accustomed to restrain the fury of the winds; on which account he was called alexoemos, or a chaser of winds.",
+"kind": "narration"
+},
+{
+"entry": 88,
+"who": "Platonist Reader",
+"text": ". No opinion is more celebrated, than that of the metempsychosis of Pythagoras: but perhaps, no doctrine is more generally mistaken. By most of the present day it is exploded as ridiculous; and the few who retain some veneration for its founder, endeavour to destroy the literal, and to confine it to an allegorical meaning. By some of the ancients this mutation was limited to similar bodies: so that they conceived the human soul might transmigrate into various human bodies, but not into those of brutes; and this was the opinion of Hierocles, as may be seen in his comment on the Golden Verses. But why may not the human soul become connected with subordinate as well as with superior lives, by a tendency of inclination? Do not similars love to be united; and is there not in all kinds of life, something similar and common? Hence, when the affections of the soul verge to a baser nature, while connected with a human body, these affections, on the dissolution of such a body, become enveloped as it were, in a brutal nature, and the rational eye, in this case, clouded with perturbations, is oppressed by the irrational energies of the brute, and surveys nothing but the dark phantasms of a degraded imagination. But this doctrine is vindicated by Proclus with his usual subtilty, in his admirable commentary on the Timæus, lib. v. p. 329, as follows, “It is usual, (says he,) to enquire how souls can descend into brute animals. And some, indeed, think that there are certain similitudes of men to brutes, which they call savage lives: for they by no means think it possible that the rational essence can become the soul of a savage animal. On the contrary, others allow it may be sent into brutes, because all souls are of one and the same kind; so that they may become wolves and panthers, and ichneumons. But true reason, indeed, asserts that the human soul may be lodged in brutes, yet in such a manner, as that it may obtain its own proper life, and that the degraded soul may, as it were, be carried above it, and be bound to the baser nature, by a propensity and similitude of affection. And that this is the only mode of insinuation, we have proved by a multitude of reasons, in our commentaries on the Phædrus. But if it is requisite to take notice, that this is the opinion of Plato, we add, that in his politics, he says, that the soul of Thersites assumed an ape, but not the body of an ape: and in the Phædrus, that the soul descends into a savage life, but not into a savage body; for life is conjoined with its proper soul. And in this place he says it is changed into a brutal nature: for a brutal nature is not a brutal body, but a brutal life.”",
+"kind": "narration"
+},
+{
+"entry": 89,
+"who": "Platonist Reader",
+"text": ". Pericles Lydus, a Stoic philosopher.",
+"kind": "narration"
+},
+{
+"entry": 90,
+"who": "Platonist Reader",
+"text": ". Vide Pausan. lib. i. Atticorum, cap. 21. et. 20.",
+"kind": "narration"
+},
+{
+"entry": 91,
+"who": "Platonist Reader",
+"text": ". He means the Christians.",
+"kind": "narration"
+},
+{
+"entry": 92,
+"who": "Platonist Reader",
+"text": ". Proclus was born in the year of Christ 412, on the 6th of the Ides of February. But, for the sake of the astrologers, I have subjoined the following figure from the Prolegomena of Fabricius to this life: and though I am not skilled in the art myself, I am persuaded, from the arguments of Plotinus, that it contains many general truths; but when made subservient to particulars, is liable to great inaccuracy and error. In short, its evidence is wholly of a physiognomic nature; for such is the admirable order and connection of things, that throughout the universe, one thing is signified by another, and wholes are after a manner contained, in their parts. So that the language of the obscure and profound Heraclitus is perfectly just, when he says, “You must connect the perfect and the imperfect, the agreeing and the disagreeing, the consonant and the dissonant, and out of one all things, and out of all things one.”",
+"kind": "narration"
+},
+{
+"entry": 93,
+"who": "Platonist Reader",
+"text": "“A scheme of the situation of the stars, such as it was at Byzantium, when the Philosopher Proclus was born.”",
+"kind": "narration"
+},
+{
+"entry": 94,
+"who": "Platonist Reader",
+"text": ". It was formerly the custom of almost all nations, to have their burial places in the suburbs, and not in the city itself.",
+"kind": "narration"
+},
+{
+"entry": 95,
+"who": "Platonist Reader",
+"text": ". This eclipse happened, according to Fabricius, in A.C. 484. 19 Cal. Feb. at sunrise.",
+"kind": "narration"
+}
+]
+}
+]
+}

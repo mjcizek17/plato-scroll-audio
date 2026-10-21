@@ -1,0 +1,505 @@
+{
+"key": "proclus-physics",
+"title": "Elements of Physics",
+"author": "Proclus",
+"translator": "Thomas Taylor",
+"parts": [
+{
+"name": "Book I",
+"lines": [
+{
+"entry": 0,
+"who": "Platonist Reader",
+"text": "Book I",
+"kind": "heading"
+},
+{
+"entry": 0,
+"who": "Platonist Reader",
+"text": "Translated by Kenneth Sylvan Guthrie, 1925",
+"kind": "narration"
+},
+{
+"entry": 1,
+"who": "Platonist Reader",
+"text": "Contents",
+"kind": "heading"
+},
+{
+"entry": 2,
+"who": "Platonist Reader",
+"text": "Book I",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Platonist Reader",
+"text": "Book II",
+"kind": "narration"
+},
+{
+"entry": 4,
+"who": "Platonist Reader",
+"text": "Book I",
+"kind": "heading"
+},
+{
+"entry": 5,
+"who": "Platonist Reader",
+"text": "1. Continuous are things whose term is one.",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Platonist Reader",
+"text": "2. CONTIGUOUS are things whose terms join.",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Platonist Reader",
+"text": "3. Consequent are things between whom is nothing of the same kind.",
+"kind": "narration"
+},
+{
+"entry": 8,
+"who": "Platonist Reader",
+"text": "4. The first moment of motion is the one than whom there is nothing longer nor shorter.",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Platonist Reader",
+"text": "5. The original place is the one that is neither larger nor smaller than the contained body.",
+"kind": "narration"
+},
+{
+"entry": 10,
+"who": "Platonist Reader",
+"text": "6. That is at rest which, before and after, both itself and its parts remain in one and the same place.",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Platonist Reader",
+"text": "Proposition 1. Two indivisibles do not touch.",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Platonist Reader",
+"text": "2. From two indivisibles no continuum can be formed.",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Platonist Reader",
+"text": "3. What is interposed between indivisibles must be continuous.",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Platonist Reader",
+"text": "4. Two indivisibles cannot be consequent.",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Platonist Reader",
+"text": "5. Every continuum is divisible, and ever divisible.",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Platonist Reader",
+"text": "6. If a quantity is composed of indivisibles, the motion made thereon will also be indivisible,",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Platonist Reader",
+"text": "7. If the motion is composed of indivisibles, its time will also be composed of indivisibles.",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Platonist Reader",
+"text": "8. Amidst things moved unequally. the swiftest, is the one traversing the greater space.",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Platonist Reader",
+"text": "9. Things moved unequally, — if one takes more time than is required by the slowest, but less than the swiftest in this medium space of time the swiftest will cover the most ground and the slowest less. |14",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Platonist Reader",
+"text": "10. Of things moved with unequal swiftness an equal apace is traversed by the swiftest in less time.",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Platonist Reader",
+"text": "11. All time, magnitude and motion are divisible in infinity.",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Platonist Reader",
+"text": "12. It is impossible to traverse an infinite magnitude in finite time.",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Platonist Reader",
+"text": "13. No finite magnitude is traversed in infinite time.",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Platonist Reader",
+"text": "14. If the swiftest bears to the slowest a sesquialter ratio, the lines were not indivisible.",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Platonist Reader",
+"text": "15. A moment remains the same either in the past or future.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Platonist Reader",
+"text": "16. A moment is indivisible.",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Platonist Reader",
+"text": "17. Everything that moves, moves in time.",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Platonist Reader",
+"text": "18. Everything that rests, rests in time.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Platonist Reader",
+"text": "19. Everything that moves is indivisible.",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Platonist Reader",
+"text": "20. If the parts of some motion correspond to the parts of some continuum, certainly all the motion will be of all.",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Platonist Reader",
+"text": "21. All that is moved primarily is moved in that in which it is moved.",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Platonist Reader",
+"text": "22. All that is moved, is primarily moved in an indivisible.",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Platonist Reader",
+"text": "23. No mutation has any beginning from the moved, which is motion; no mutation has a mutation as beginning, at the time of which that which is moved may be said to be moved primarily.",
+"kind": "narration"
+},
+{
+"entry": 34,
+"who": "Platonist Reader",
+"text": "24. If mutation is of something which possesses quantity, the first of this quantity will be incomprehensible.",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Platonist Reader",
+"text": "25. If the first time of the mutation, whatever it be, is taken in any part of time, there will be a part of motion",
+"kind": "narration"
+},
+{
+"entry": 36,
+"who": "Platonist Reader",
+"text": "26. All that is moved is moved primarily",
+"kind": "narration"
+},
+{
+"entry": 37,
+"who": "Platonist Reader",
+"text": "27. All that is moved was moved primarily",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Platonist Reader",
+"text": "28. If that which is moved is infinite, a finite quantity will not pass infinite time. |15",
+"kind": "narration"
+},
+{
+"entry": 39,
+"who": "Platonist Reader",
+"text": "29. If what is moved is infinite, an infinite magnitude will not pass in finite time.",
+"kind": "narration"
+},
+{
+"entry": 40,
+"who": "Platonist Reader",
+"text": "30. So motion is not infinite, because it is repeated.",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Platonist Reader",
+"text": "31. All that is moved in a place is all in the moment according to the first place.",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Platonist Reader",
+"text": "32. Everything indivisible in quantity is immovable by itself.",
+"kind": "narration"
+},
+{
+"entry": 43,
+"who": "Platonist Reader",
+"text": "Book II",
+"kind": "heading"
+},
+{
+"entry": 44,
+"who": "Platonist Reader",
+"text": "Postulates.",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Platonist Reader",
+"text": "1. Every natural body is movable according to the place.",
+"kind": "narration"
+},
+{
+"entry": 46,
+"who": "Platonist Reader",
+"text": "2. All motion which is made according to the place is either circular, straight, or mixed.",
+"kind": "narration"
+},
+{
+"entry": 47,
+"who": "Platonist Reader",
+"text": "3. Every natural body is moved by a single one of the above notions.",
+"kind": "narration"
+},
+{
+"entry": 48,
+"who": "Platonist Reader",
+"text": "4. Every natural body is either simple or composite.",
+"kind": "narration"
+},
+{
+"entry": 49,
+"who": "Platonist Reader",
+"text": "5. Every simple movement is of a simple body.",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Platonist Reader",
+"text": "6. Every simple body is moved by a single movement according to its nature.",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Platonist Reader",
+"text": "Definitions",
+"kind": "narration"
+},
+{
+"entry": 52,
+"who": "Platonist Reader",
+"text": "1. Past intervals of movable things are in a ratio to their speed.",
+"kind": "narration"
+},
+{
+"entry": 53,
+"who": "Platonist Reader",
+"text": "2. That is heavy which is borne to its centre.",
+"kind": "narration"
+},
+{
+"entry": 54,
+"who": "Platonist Reader",
+"text": "3. That is light which is moved from its. centre.",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Platonist Reader",
+"text": "4. Circular notion consists in being borne from one point to the same.",
+"kind": "narration"
+},
+{
+"entry": 56,
+"who": "Platonist Reader",
+"text": "5. Contrary movements are those borne from contraries to contraries.",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Platonist Reader",
+"text": "6. Time is the number of the notion of celestial bodies.",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Platonist Reader",
+"text": "7. Motion is single when it does not differ in kind, is in one subject, and occurs in continuous time.",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Platonist Reader",
+"text": "Propositions",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Platonist Reader",
+"text": "1. Things which by nature are borne circularly are simple.",
+"kind": "narration"
+},
+{
+"entry": 61,
+"who": "Platonist Reader",
+"text": "2. Things which are naturally borne circularly are not identical with those naturally borne straight or mixed.",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Platonist Reader",
+"text": "3. Things naturally borne circularly have neither weight nor lightness. |16",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Platonist Reader",
+"text": "4. Nothing is contrary to circular motion",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Platonist Reader",
+"text": "5. Things naturally borne circularly are not subject to generation or decay.",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Platonist Reader",
+"text": "6. Every thing naturally borne circularly is finite.",
+"kind": "narration"
+},
+{
+"entry": 66,
+"who": "Platonist Reader",
+"text": "7. Bodies of infinite magnitude have infinite powers.",
+"kind": "narration"
+},
+{
+"entry": 67,
+"who": "Platonist Reader",
+"text": "8. Bodies of finite nagnitude do not have infinite powers.",
+"kind": "narration"
+},
+{
+"entry": 68,
+"who": "Platonist Reader",
+"text": "9. Powers of things moved in equal speed are in alternate ratio to the times of movement.",
+"kind": "narration"
+},
+{
+"entry": 69,
+"who": "Platonist Reader",
+"text": "10. No weight nor lightness is infinite.",
+"kind": "narration"
+},
+{
+"entry": 70,
+"who": "Platonist Reader",
+"text": "11. Nothing infinite can suffer from the finite.",
+"kind": "narration"
+},
+{
+"entry": 71,
+"who": "Platonist Reader",
+"text": "12. Nothing finite can suffer from the infinite.",
+"kind": "narration"
+},
+{
+"entry": 72,
+"who": "Platonist Reader",
+"text": "13. Nothing infinite can suffer from the infinite.",
+"kind": "narration"
+},
+{
+"entry": 73,
+"who": "Platonist Reader",
+"text": "14. Simple bodies are finite in kind.",
+"kind": "narration"
+},
+{
+"entry": 74,
+"who": "Platonist Reader",
+"text": "15. No sensible body is infinite.",
+"kind": "narration"
+},
+{
+"entry": 75,
+"who": "Platonist Reader",
+"text": "16. Time is continuous and also perpetual.",
+"kind": "narration"
+},
+{
+"entry": 76,
+"who": "Platonist Reader",
+"text": "17. Circular movement is perpetual.",
+"kind": "narration"
+},
+{
+"entry": 77,
+"who": "Platonist Reader",
+"text": "18. That which is the cause of perpetual movement is perpetual.",
+"kind": "narration"
+},
+{
+"entry": 78,
+"who": "Platonist Reader",
+"text": "19. That which is immovable precedes the movable things, and the things which move; it claims the principal rank.",
+"kind": "narration"
+},
+{
+"entry": 79,
+"who": "Platonist Reader",
+"text": "20. All that is moved is moved by somebody.",
+"kind": "narration"
+},
+{
+"entry": 80,
+"who": "Platonist Reader",
+"text": "21. As the First moves the circular conversion, it has no parts.",
+"kind": "narration"
+}
+]
+}
+]
+}
