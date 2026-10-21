@@ -1,0 +1,13 @@
+{
+ "work": "julian-letters",
+ "patched": [
+  {
+   "part": "julian-letters-p8",
+   "entry": 310,
+   "old_s": 1.62,
+   "new_s": 1.64,
+   "words": 5,
+   "was": 5
+  }
+ ]
+}
