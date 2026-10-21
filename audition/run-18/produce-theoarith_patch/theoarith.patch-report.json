@@ -1,0 +1,61 @@
+{
+ "work": "theoarith",
+ "patched": [
+  {
+   "part": "theoarith-p1",
+   "entry": 1,
+   "old_s": 3.51,
+   "new_s": 3.64,
+   "words": 8,
+   "was": 8
+  },
+  {
+   "part": "theoarith-p2",
+   "entry": 107,
+   "old_s": 7.3,
+   "new_s": 7.62,
+   "words": 151,
+   "was": 151
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 127,
+   "old_s": 6.61,
+   "new_s": 7.64,
+   "words": 336,
+   "was": 336
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 121,
+   "old_s": 9.47,
+   "new_s": 9.23,
+   "words": 288,
+   "was": 288
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 458,
+   "old_s": 1.62,
+   "new_s": 2.28,
+   "words": 67,
+   "was": 67
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 449,
+   "old_s": 16.17,
+   "new_s": 18.05,
+   "words": 61,
+   "was": 61
+  },
+  {
+   "part": "theoarith-p11",
+   "entry": 622,
+   "old_s": 12.75,
+   "new_s": 13.19,
+   "words": 85,
+   "was": 85
+  }
+ ]
+}
