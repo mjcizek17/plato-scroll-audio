@@ -1,0 +1,1 @@
+{"work": "pythagorean-ethical-fragments", "parts": [{"file": "pythagorean-ethical-fragments-p1.mp3", "minutes": 61.54, "lines": 57, "words": 11391, "words_interpolated": 15, "retakes": 0, "flagged_takes": []}]}
