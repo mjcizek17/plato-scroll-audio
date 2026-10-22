@@ -1,0 +1,36 @@
+{
+ "work": "cic-senectute",
+ "parts": [
+  {
+   "file": "cic-senectute-p1.mp3",
+   "minutes": 38.53,
+   "lines": 74,
+   "words": 6339,
+   "words_interpolated": 155,
+   "retakes": 6,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "(a). Fabius Maximus ... 10-12. (b). Plato; (c). Isocrates; (d). Gorgias ... 13. ",
+     "line": "p1l0056"
+    },
+    {
+     "group": 1,
+     "ratio": 2.1,
+     "text": "(62-64).",
+     "line": "p1l0068"
+    }
+   ]
+  },
+  {
+   "file": "cic-senectute-p2.mp3",
+   "minutes": 72.79,
+   "lines": 101,
+   "words": 13518,
+   "words_interpolated": 93,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
