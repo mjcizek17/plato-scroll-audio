@@ -1,0 +1,1 @@
+{"work": "pythagoric-sentences", "parts": [{"file": "pythagoric-sentences-p1.mp3", "minutes": 18.7, "lines": 180, "words": 3389, "words_interpolated": 31, "retakes": 0, "flagged_takes": []}]}
