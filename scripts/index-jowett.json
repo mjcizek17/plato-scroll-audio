@@ -1,0 +1,316 @@
+[
+ {
+  "key": "euth-b",
+  "title": "Euthyphro",
+  "parts": 1,
+  "chars": 33552,
+  "speakers": [
+   "Euthyphro",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "apol-b",
+  "title": "Apology",
+  "parts": 1,
+  "chars": 59118,
+  "speakers": [
+   "Socrates"
+  ]
+ },
+ {
+  "key": "crito-b",
+  "title": "Crito",
+  "parts": 1,
+  "chars": 27458,
+  "speakers": [
+   "Crito",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "hippmaj-b",
+  "title": "Hippias Major",
+  "parts": 1,
+  "chars": 60995,
+  "speakers": [
+   "Hippias",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "hippmin-b",
+  "title": "Hippias Minor",
+  "parts": 1,
+  "chars": 30506,
+  "speakers": [
+   "Eudicus",
+   "Hippias",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "alc1-b",
+  "title": "Alcibiades I",
+  "parts": 1,
+  "chars": 72226,
+  "speakers": [
+   "Alcibiades",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "chrm-b",
+  "title": "Charmides",
+  "parts": 1,
+  "chars": 56154,
+  "speakers": [
+   "Socrates"
+  ]
+ },
+ {
+  "key": "lach-b",
+  "title": "Laches",
+  "parts": 1,
+  "chars": 52297,
+  "speakers": [
+   "Aristides",
+   "Laches",
+   "Lysimachus",
+   "Melesias",
+   "Narrator",
+   "Nicias",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "lysis-b",
+  "title": "Lysis",
+  "parts": 1,
+  "chars": 46715,
+  "speakers": [
+   "Socrates"
+  ]
+ },
+ {
+  "key": "ion-b",
+  "title": "Ion",
+  "parts": 1,
+  "chars": 25958,
+  "speakers": [
+   "Ion",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "phae-b",
+  "title": "Phaedo",
+  "parts": 1,
+  "chars": 145162,
+  "speakers": [
+   "Echecrates",
+   "Phaedo"
+  ]
+ },
+ {
+  "key": "crat-b",
+  "title": "Cratylus",
+  "parts": 1,
+  "chars": 125085,
+  "speakers": [
+   "Cratylus",
+   "Hermogenes",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "euthy-b",
+  "title": "Euthydemus",
+  "parts": 1,
+  "chars": 82270,
+  "speakers": [
+   "Crito",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "prot-b",
+  "title": "Protagoras",
+  "parts": 1,
+  "chars": 122164,
+  "speakers": [
+   "Companion",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "gorg-b",
+  "title": "Gorgias",
+  "parts": 1,
+  "chars": 183128,
+  "speakers": [
+   "Callicles",
+   "Chaerephon",
+   "Gorgias",
+   "Polus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "meno-b",
+  "title": "Meno",
+  "parts": 1,
+  "chars": 63441,
+  "speakers": [
+   "Anytus",
+   "Meno",
+   "Servant",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "menex-b",
+  "title": "Menexenus",
+  "parts": 1,
+  "chars": 35478,
+  "speakers": [
+   "Menexenus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "symp-b",
+  "title": "Symposium",
+  "parts": 1,
+  "chars": 118033,
+  "speakers": [
+   "Apollodorus",
+   "Companion"
+  ]
+ },
+ {
+  "key": "rep-b",
+  "title": "Republic",
+  "parts": 10,
+  "chars": 631274,
+  "speakers": [
+   "Narrator",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "phdr-b",
+  "title": "Phaedrus",
+  "parts": 1,
+  "chars": 121434,
+  "speakers": [
+   "Phaedrus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "parm-b",
+  "title": "Parmenides",
+  "parts": 1,
+  "chars": 97504,
+  "speakers": [
+   "Cephalus"
+  ]
+ },
+ {
+  "key": "tht-b",
+  "title": "Theaetetus",
+  "parts": 1,
+  "chars": 161569,
+  "speakers": [
+   "Euclides",
+   "Narrator",
+   "Socrates",
+   "Terpsion",
+   "Theaetetus",
+   "Theodorus"
+  ]
+ },
+ {
+  "key": "tim-b",
+  "title": "Timaeus",
+  "parts": 1,
+  "chars": 179142,
+  "speakers": [
+   "Critias",
+   "Hermocrates",
+   "Socrates",
+   "Timaeus"
+  ]
+ },
+ {
+  "key": "crit-b",
+  "title": "Critias",
+  "parts": 1,
+  "chars": 37333,
+  "speakers": [
+   "Critias",
+   "Hermocrates",
+   "Socrates",
+   "Timaeus"
+  ]
+ },
+ {
+  "key": "soph-b",
+  "title": "Sophist",
+  "parts": 1,
+  "chars": 112091,
+  "speakers": [
+   "Narrator",
+   "Socrates",
+   "Stranger",
+   "Theaetetus",
+   "Theodorus"
+  ]
+ },
+ {
+  "key": "stm-b",
+  "title": "Statesman",
+  "parts": 1,
+  "chars": 120823,
+  "speakers": [
+   "Socrates",
+   "Stranger",
+   "Theodorus",
+   "Young Socrates"
+  ]
+ },
+ {
+  "key": "phil-b",
+  "title": "Philebus",
+  "parts": 1,
+  "chars": 119622,
+  "speakers": [
+   "Philebus",
+   "Protarchus",
+   "Socrates"
+  ]
+ },
+ {
+  "key": "laws-b",
+  "title": "Laws",
+  "parts": 12,
+  "chars": 750688,
+  "speakers": [
+   "Athenian Stranger",
+   "Clinias",
+   "Megillus",
+   "Narrator"
+  ]
+ },
+ {
+  "key": "alc2-b",
+  "title": "Alcibiades II",
+  "parts": 1,
+  "chars": 28166,
+  "speakers": [
+   "Alcibiades",
+   "Socrates"
+  ]
+ }
+]

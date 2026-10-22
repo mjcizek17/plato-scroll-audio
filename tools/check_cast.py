@@ -15,7 +15,7 @@ for x in [x for f in sorted(glob.glob(os.path.join(ROOT, "scripts", "index*.json
     w, seen = x["key"], {}
     who = sorted({l["who"] for p in work_parts(w) for l in p["lines"]} - {"Narrator"})
     for s in who:
-        c = ch.get(f"{w}:{s}") or ch.get(s)
+        c = ch.get(f"{w}:{s}") or ch.get(f"{w.removesuffix('-b')}:{s}") or ch.get(s)
         if c is None:
             print("UNCAST", w, s); bad += 1; continue
         sig = json.dumps([c["engine"], c.get("kokoro") or c.get("ref"), c.get("pitch", 0)])

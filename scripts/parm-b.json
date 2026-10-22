@@ -1,0 +1,7256 @@
+{
+"key": "parm-b",
+"title": "Parmenides",
+"author": "Plato",
+"translator": "Benjamin Jowett",
+"credit": "translated by Benjamin Jowett",
+"parts": [
+{
+"name": "Parmenides",
+"lines": [
+{
+"entry": 0,
+"who": "Cephalus",
+"text": "We had come from our home at Clazomenae to Athens, and met Adeimantus and Glaucon in the Agora. Welcome, Cephalus, said Adeimantus, taking me by the hand; is there anything which we can do for you in Athens?",
+"kind": "narration"
+},
+{
+"entry": 1,
+"who": "Cephalus",
+"text": "Yes; that is why I am here; I wish to ask a favour of you.",
+"kind": "narration"
+},
+{
+"entry": 2,
+"who": "Cephalus",
+"text": "What may that be? he said.",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Cephalus",
+"text": "I want you to tell me the name of your half brother, which I have forgotten; he was a mere child when I last came hither from Clazomenae, but that was a long time ago; his father’s name, if I remember rightly, was Pyrilampes?",
+"kind": "narration"
+},
+{
+"entry": 4,
+"who": "Cephalus",
+"text": "Yes, he said, and the name of our brother, Antiphon; but why do you ask?",
+"kind": "narration"
+},
+{
+"entry": 5,
+"who": "Cephalus",
+"text": "Let me introduce some countrymen of mine, I said; they are lovers of philosophy, and have heard that Antiphon was intimate with a certain Pythodorus, a friend of Zeno, and remembers a conversation which took place between Socrates, Zeno, and Parmenides many years ago, Pythodorus having often recited it to him.",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Cephalus",
+"text": "Quite true.",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Cephalus",
+"text": "And could we hear it? I asked.",
+"kind": "narration"
+},
+{
+"entry": 8,
+"who": "Cephalus",
+"text": "Nothing easier, he replied; when he was a youth he made a careful study of the piece; at present his thoughts run in another direction; like his grandfather Antiphon he is devoted to horses. But, if that is what you want, let us go and look for him; he dwells at Melita, which is quite near, and he has only just left us to go home.",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Cephalus",
+"text": "Accordingly we went to look for him; he was at home, and in the act of giving a bridle to a smith to be fitted. When he had done with the smith, his brothers told him the purpose of our visit; and he saluted me as an acquaintance whom he remembered from my former visit, and we asked him to repeat the dialogue. At first he was not very willing, and complained of the trouble, but at length he consented. He told us that Pythodorus had described to him the appearance of Parmenides and Zeno; they came to Athens, as he said, at the great Panathenaea; the former was, at the time of his visit, about 65 years old, very white with age, but well favoured. Zeno was nearly 40 years of age, tall and fair to look upon; in the days of his youth he was reported to have been beloved by Parmenides. He said that they lodged with Pythodorus in the Ceramicus, outside the wall, whither Socrates, then a very young man, came to see them, and many others with him; they wanted to hear the writings of Zeno, which had been brought to Athens for the first time on the occasion of their visit. These Zeno himself read to them in the absence of Parmenides, and had very nearly finished when Pythodorus entered, and with him Parmenides and Aristoteles who was afterwards one of the Thirty, and heard the little that remained of the dialogue. Pythodorus had heard Zeno repeat them before.",
+"kind": "narration"
+},
+{
+"entry": 10,
+"who": "Cephalus",
+"text": "When the recitation was completed, Socrates requested that the first thesis of the first argument might be read over again, and this having been done, he said: What is your meaning, Zeno? Do you maintain that if being is many, it must be both like and unlike, and that this is impossible, for neither can the like be unlike, nor the unlike like — is that your position?",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Cephalus",
+"text": "Just so, said Zeno.",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Cephalus",
+"text": "And if the unlike cannot be like, or the like unlike, then according to you, being could not be many; for this would involve an impossibility. In all that you say have you any other purpose except to disprove the being of the many? and is not each division of your treatise intended to furnish a separate proof of this, there being in all as many proofs of the not-being of the many as you have composed arguments? Is that your meaning, or have I misunderstood you?",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Cephalus",
+"text": "No, said Zeno; you have correctly understood my general purpose.",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Cephalus",
+"text": "I see, Parmenides, said Socrates, that Zeno would like to be not only one with you in friendship but your second self in his writings too; he puts what you say in another way, and would fain make believe that he is telling us something which is new. For you, in your poems, say The All is one, and of this you adduce excellent proofs; and he on the other hand says There is no many; and on behalf of this he offers overwhelming evidence. You affirm unity, he denies plurality. And so you deceive the world into believing that you are saying different things when really you are saying much the same. This is a strain of art beyond the reach of most of us.",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Cephalus",
+"text": "Yes, Socrates, said Zeno. But although you are as keen as a Spartan hound in pursuing the track, you do not fully apprehend the true motive of the composition, which is not really such an artificial work as you imagine; for what you speak of was an accident; there was no pretence of a great purpose; nor any serious intention of deceiving the world. The truth is, that these writings of mine were meant to protect the arguments of Parmenides against those who make fun of him and seek to show the many ridiculous and contradictory results which they suppose to follow from the affirmation of the one. My answer is addressed to the partisans of the many, whose attack I return with interest by retorting upon them that their hypothesis of the being of many, if carried out, appears to be still more ridiculous than the hypothesis of the being of one. Zeal for my master led me to write the book in the days of my youth, but some one stole the copy; and therefore I had no choice whether it should be published or not; the motive, however, of writing, was not the ambition of an elder man, but the pugnacity of a young one. This you do not seem to see, Socrates; though in other respects, as I was saying, your notion is a very just one.",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Cephalus",
+"text": "I understand, said Socrates, and quite accept your account. But tell me, Zeno, do you not further think that there is an idea of likeness in itself, and another idea of unlikeness, which is the opposite of likeness, and that in these two, you and I and all other things to which we apply the term many, participate — things which participate in likeness become in that degree and manner like; and so far as they participate in unlikeness become in that degree unlike, or both like and unlike in the degree in which they participate in both? And may not all things partake of both opposites, and be both like and unlike, by reason of this participation? — Where is the wonder? Now if a person could prove the absolute like to become unlike, or the absolute unlike to become like, that, in my opinion, would indeed be a wonder; but there is nothing extraordinary, Zeno, in showing that the things which only partake of likeness and unlikeness experience both. Nor, again, if a person were to show that all is one by partaking of one, and at the same time many by partaking of many, would that be very astonishing. But if he were to show me that the absolute one was many, or the absolute many one, I should be truly amazed. And so of all the rest: I should be surprised to hear that the natures or ideas themselves had these opposite qualities; but not if a person wanted to prove of me that I was many and also one. When he wanted to show that I was many he would say that I have a right and a left side, and a front and a back, and an upper and a lower half, for I cannot deny that I partake of multitude; when, on the other hand, he wants to prove that I am one, he will say, that we who are here assembled are seven, and that I am one and partake of the one. In both instances he proves his case. So again, if a person shows that such things as wood, stones, and the like, being many are also one, we admit that he shows the coexistence of the one and many, but he does not show that the many are one or the one many; he is uttering not a paradox but a truism. If however, as I just now suggested, some one were to abstract simple notions of like, unlike, one, many, rest, motion, and similar ideas, and then to show that these admit of admixture and separation in themselves, I should be very much astonished. This part of the argument appears to be treated by you, Zeno, in a very spirited manner; but, as I was saying, I should be far more amazed if any one found in the ideas themselves which are apprehended by reason, the same puzzle and entanglement which you have shown to exist in visible objects.",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Cephalus",
+"text": "While Socrates was speaking, Pythodorus thought that Parmenides and Zeno were not altogether pleased at the successive steps of the argument; but still they gave the closest attention, and often looked at one another, and smiled as if in admiration of him. When he had finished, Parmenides expressed their feelings in the following words: —",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Cephalus",
+"text": "Socrates, he said, I admire the bent of your mind towards philosophy; tell me now, was this your own distinction between ideas in themselves and the things which partake of them? and do you think that there is an idea of likeness apart from the likeness which we possess, and of the one and many, and of the other things which Zeno mentioned?",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Cephalus",
+"text": "I think that there are such ideas, said Socrates.",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Cephalus",
+"text": "Parmenides proceeded: And would you also make absolute ideas of the just and the beautiful and the good, and of all that class?",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Cephalus",
+"text": "Yes, he said, I should.",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Cephalus",
+"text": "And would you make an idea of man apart from us and from all other human creatures, or of fire and water?",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Cephalus",
+"text": "I am often undecided, Parmenides, as to whether I ought to include them or not.",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Cephalus",
+"text": "And would you feel equally undecided, Socrates, about things of which the mention may provoke a smile? — I mean such things as hair, mud, dirt, or anything else which is vile and paltry; would you suppose that each of these has an idea distinct from the actual objects with which we come into contact, or not?",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Cephalus",
+"text": "Certainly not, said Socrates; visible things like these are such as they appear to us, and I am afraid that there would be an absurdity in assuming any idea of them, although I sometimes get disturbed, and begin to think that there is nothing without an idea; but then again, when I have taken up this position, I run away, because I am afraid that I may fall into a bottomless pit of nonsense, and perish; and so I return to the ideas of which I was just now speaking, and occupy myself with them.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Cephalus",
+"text": "Yes, Socrates, said Parmenides; that is because you are still young; the time will come, if I am not mistaken, when philosophy will have a firmer grasp of you, and then you will not despise even the meanest things; at your age, you are too much disposed to regard the opinions of men. But I should like to know whether you mean that there are certain ideas of which all other things partake, and from which they derive their names; that similars, for example, become similar, because they partake of similarity; and great things become great, because they partake of greatness; and that just and beautiful things become just and beautiful, because they partake of justice and beauty?",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Cephalus",
+"text": "Yes, certainly, said Socrates that is my meaning.",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Cephalus",
+"text": "Then each individual partakes either of the whole of the idea or else of a part of the idea? Can there be any other mode of participation?",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Cephalus",
+"text": "There cannot be, he said.",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Cephalus",
+"text": "Then do you think that the whole idea is one, and yet, being one, is in each one of the many?",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Cephalus",
+"text": "Why not, Parmenides? said Socrates.",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Cephalus",
+"text": "Because one and the same thing will exist as a whole at the same time in many separate individuals, and will therefore be in a state of separation from itself.",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Cephalus",
+"text": "Nay, but the idea may be like the day which is one and the same in many places at once, and yet continuous with itself; in this way each idea may be one and the same in all at the same time.",
+"kind": "narration"
+},
+{
+"entry": 34,
+"who": "Cephalus",
+"text": "I like your way, Socrates, of making one in many places at once. You mean to say, that if I were to spread out a sail and cover a number of men, there would be one whole including many — is not that your meaning?",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Cephalus",
+"text": "I think so.",
+"kind": "narration"
+},
+{
+"entry": 36,
+"who": "Cephalus",
+"text": "And would you say that the whole sail includes each man, or a part of it only, and different parts different men?",
+"kind": "narration"
+},
+{
+"entry": 37,
+"who": "Cephalus",
+"text": "The latter.",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Cephalus",
+"text": "Then, Socrates, the ideas themselves will be divisible, and things which participate in them will have a part of them only and not the whole idea existing in each of them?",
+"kind": "narration"
+},
+{
+"entry": 39,
+"who": "Cephalus",
+"text": "That seems to follow.",
+"kind": "narration"
+},
+{
+"entry": 40,
+"who": "Cephalus",
+"text": "Then would you like to say, Socrates, that the one idea is really divisible and yet remains one?",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Cephalus",
+"text": "Certainly not, he said.",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Cephalus",
+"text": "Suppose that you divide absolute greatness, and that of the many great things, each one is great in virtue of a portion of greatness less than absolute greatness — is that conceivable?",
+"kind": "narration"
+},
+{
+"entry": 43,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 44,
+"who": "Cephalus",
+"text": "Or will each equal thing, if possessing some small portion of equality less than absolute equality, be equal to some other thing by virtue of that portion only?",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 46,
+"who": "Cephalus",
+"text": "Or suppose one of us to have a portion of smallness; this is but a part of the small, and therefore the absolutely small is greater; if the absolutely small be greater, that to which the part of the small is added will be smaller and not greater than before.",
+"kind": "narration"
+},
+{
+"entry": 47,
+"who": "Cephalus",
+"text": "How absurd!",
+"kind": "narration"
+},
+{
+"entry": 48,
+"who": "Cephalus",
+"text": "Then in what way, Socrates, will all things participate in the ideas, if they are unable to participate in them either as parts or wholes?",
+"kind": "narration"
+},
+{
+"entry": 49,
+"who": "Cephalus",
+"text": "Indeed, he said, you have asked a question which is not easily answered.",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Cephalus",
+"text": "Well, said Parmenides, and what do you say of another question?",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Cephalus",
+"text": "What question?",
+"kind": "narration"
+},
+{
+"entry": 52,
+"who": "Cephalus",
+"text": "I imagine that the way in which you are led to assume one idea of each kind is as follows: — You see a number of great objects, and when you look at them there seems to you to be one and the same idea (or nature) in them all; hence you conceive of greatness as one.",
+"kind": "narration"
+},
+{
+"entry": 53,
+"who": "Cephalus",
+"text": "Very true, said Socrates.",
+"kind": "narration"
+},
+{
+"entry": 54,
+"who": "Cephalus",
+"text": "And if you go on and allow your mind in like manner to embrace in one view the idea of greatness and of great things which are not the idea, and to compare them, will not another greatness arise, which will appear to be the source of all these?",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Cephalus",
+"text": "It would seem so.",
+"kind": "narration"
+},
+{
+"entry": 56,
+"who": "Cephalus",
+"text": "Then another idea of greatness now comes into view over and above absolute greatness, and the individuals which partake of it; and then another, over and above all these, by virtue of which they will all be great, and so each idea instead of being one will be infinitely multiplied.",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Cephalus",
+"text": "But may not the ideas, asked Socrates, be thoughts only, and have no proper existence except in our minds, Parmenides? For in that case each idea may still be one, and not experience this infinite multiplication.",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Cephalus",
+"text": "And can there be individual thoughts which are thoughts of nothing?",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Cephalus",
+"text": "Impossible, he said.",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Cephalus",
+"text": "The thought must be of something?",
+"kind": "narration"
+},
+{
+"entry": 61,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Cephalus",
+"text": "Of something which is or which is not?",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Cephalus",
+"text": "Of something which is.",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Cephalus",
+"text": "Must it not be of a single something, which the thought recognizes as attaching to all, being a single form or nature?",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 66,
+"who": "Cephalus",
+"text": "And will not the something which is apprehended as one and the same in all, be an idea?",
+"kind": "narration"
+},
+{
+"entry": 67,
+"who": "Cephalus",
+"text": "From that, again, there is no escape.",
+"kind": "narration"
+},
+{
+"entry": 68,
+"who": "Cephalus",
+"text": "Then, said Parmenides, if you say that everything else participates in the ideas, must you not say either that everything is made up of thoughts, and that all things think; or that they are thoughts but have no thought?",
+"kind": "narration"
+},
+{
+"entry": 69,
+"who": "Cephalus",
+"text": "The latter view, Parmenides, is no more rational than the previous one. In my opinion, the ideas are, as it were, patterns fixed in nature, and other things are like them, and resemblances of them — what is meant by the participation of other things in the ideas, is really assimilation to them.",
+"kind": "narration"
+},
+{
+"entry": 70,
+"who": "Cephalus",
+"text": "But if, said he, the individual is like the idea, must not the idea also be like the individual, in so far as the individual is a resemblance of the idea? That which is like, cannot be conceived of as other than the like of like.",
+"kind": "narration"
+},
+{
+"entry": 71,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 72,
+"who": "Cephalus",
+"text": "And when two things are alike, must they not partake of the same idea?",
+"kind": "narration"
+},
+{
+"entry": 73,
+"who": "Cephalus",
+"text": "They must.",
+"kind": "narration"
+},
+{
+"entry": 74,
+"who": "Cephalus",
+"text": "And will not that of which the two partake, and which makes them alike, be the idea itself?",
+"kind": "narration"
+},
+{
+"entry": 75,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 76,
+"who": "Cephalus",
+"text": "Then the idea cannot be like the individual, or the individual like the idea; for if they are alike, some further idea of likeness will always be coming to light, and if that be like anything else, another; and new ideas will be always arising, if the idea resembles that which partakes of it?",
+"kind": "narration"
+},
+{
+"entry": 77,
+"who": "Cephalus",
+"text": "Quite true.",
+"kind": "narration"
+},
+{
+"entry": 78,
+"who": "Cephalus",
+"text": "The theory, then, that other things participate in the ideas by resemblance, has to be given up, and some other mode of participation devised?",
+"kind": "narration"
+},
+{
+"entry": 79,
+"who": "Cephalus",
+"text": "It would seem so.",
+"kind": "narration"
+},
+{
+"entry": 80,
+"who": "Cephalus",
+"text": "Do you see then, Socrates, how great is the difficulty of affirming the ideas to be absolute?",
+"kind": "narration"
+},
+{
+"entry": 81,
+"who": "Cephalus",
+"text": "Yes, indeed.",
+"kind": "narration"
+},
+{
+"entry": 82,
+"who": "Cephalus",
+"text": "And, further, let me say that as yet you only understand a small part of the difficulty which is involved if you make of each thing a single idea, parting it off from other things.",
+"kind": "narration"
+},
+{
+"entry": 83,
+"who": "Cephalus",
+"text": "What difficulty? he said.",
+"kind": "narration"
+},
+{
+"entry": 84,
+"who": "Cephalus",
+"text": "There are many, but the greatest of all is this: — If an opponent argues that these ideas, being such as we say they ought to be, must remain unknown, no one can prove to him that he is wrong, unless he who denies their existence be a man of great ability and knowledge, and is willing to follow a long and laborious demonstration; he will remain unconvinced, and still insist that they cannot be known.",
+"kind": "narration"
+},
+{
+"entry": 85,
+"who": "Cephalus",
+"text": "What do you mean, Parmenides? said Socrates.",
+"kind": "narration"
+},
+{
+"entry": 86,
+"who": "Cephalus",
+"text": "In the first place, I think, Socrates, that you, or any one who maintains the existence of absolute essences, will admit that they cannot exist in us.",
+"kind": "narration"
+},
+{
+"entry": 87,
+"who": "Cephalus",
+"text": "No, said Socrates; for then they would be no longer absolute.",
+"kind": "narration"
+},
+{
+"entry": 88,
+"who": "Cephalus",
+"text": "True, he said; and therefore when ideas are what they are in relation to one another, their essence is determined by a relation among themselves, and has nothing to do with the resemblances, or whatever they are to be termed, which are in our sphere, and from which we receive this or that name when we partake of them. And the things which are within our sphere and have the same names with them, are likewise only relative to one another, and not to the ideas which have the same names with them, but belong to themselves and not to them.",
+"kind": "narration"
+},
+{
+"entry": 89,
+"who": "Cephalus",
+"text": "What do you mean? said Socrates.",
+"kind": "narration"
+},
+{
+"entry": 90,
+"who": "Cephalus",
+"text": "I may illustrate my meaning in this way, said Parmenides: — A master has a slave; now there is nothing absolute in the relation between them, which is simply a relation of one man to another. But there is also an idea of mastership in the abstract, which is relative to the idea of slavery in the abstract. These natures have nothing to do with us, nor we with them; they are concerned with themselves only, and we with ourselves. Do you see my meaning?",
+"kind": "narration"
+},
+{
+"entry": 91,
+"who": "Cephalus",
+"text": "Yes, said Socrates, I quite see your meaning.",
+"kind": "narration"
+},
+{
+"entry": 92,
+"who": "Cephalus",
+"text": "And will not knowledge — I mean absolute knowledge — answer to absolute truth?",
+"kind": "narration"
+},
+{
+"entry": 93,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 94,
+"who": "Cephalus",
+"text": "And each kind of absolute knowledge will answer to each kind of absolute being?",
+"kind": "narration"
+},
+{
+"entry": 95,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 96,
+"who": "Cephalus",
+"text": "But the knowledge which we have, will answer to the truth which we have; and again, each kind of knowledge which we have, will be a knowledge of each kind of being which we have?",
+"kind": "narration"
+},
+{
+"entry": 97,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 98,
+"who": "Cephalus",
+"text": "But the ideas themselves, as you admit, we have not, and cannot have?",
+"kind": "narration"
+},
+{
+"entry": 99,
+"who": "Cephalus",
+"text": "No, we cannot.",
+"kind": "narration"
+},
+{
+"entry": 100,
+"who": "Cephalus",
+"text": "And the absolute natures or kinds are known severally by the absolute idea of knowledge?",
+"kind": "narration"
+},
+{
+"entry": 101,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 102,
+"who": "Cephalus",
+"text": "And we have not got the idea of knowledge?",
+"kind": "narration"
+},
+{
+"entry": 103,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 104,
+"who": "Cephalus",
+"text": "Then none of the ideas are known to us, because we have no share in absolute knowledge?",
+"kind": "narration"
+},
+{
+"entry": 105,
+"who": "Cephalus",
+"text": "I suppose not.",
+"kind": "narration"
+},
+{
+"entry": 106,
+"who": "Cephalus",
+"text": "Then the nature of the beautiful in itself, and of the good in itself, and all other ideas which we suppose to exist absolutely, are unknown to us?",
+"kind": "narration"
+},
+{
+"entry": 107,
+"who": "Cephalus",
+"text": "It would seem so.",
+"kind": "narration"
+},
+{
+"entry": 108,
+"who": "Cephalus",
+"text": "I think that there is a stranger consequence still.",
+"kind": "narration"
+},
+{
+"entry": 109,
+"who": "Cephalus",
+"text": "What is it?",
+"kind": "narration"
+},
+{
+"entry": 110,
+"who": "Cephalus",
+"text": "Would you, or would you not say, that absolute knowledge, if there is such a thing, must be a far more exact knowledge than our knowledge; and the same of beauty and of the rest?",
+"kind": "narration"
+},
+{
+"entry": 111,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 112,
+"who": "Cephalus",
+"text": "And if there be such a thing as participation in absolute knowledge, no one is more likely than God to have this most exact knowledge?",
+"kind": "narration"
+},
+{
+"entry": 113,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 114,
+"who": "Cephalus",
+"text": "But then, will God, having absolute knowledge, have a knowledge of human things?",
+"kind": "narration"
+},
+{
+"entry": 115,
+"who": "Cephalus",
+"text": "Why not?",
+"kind": "narration"
+},
+{
+"entry": 116,
+"who": "Cephalus",
+"text": "Because, Socrates, said Parmenides, we have admitted that the ideas are not valid in relation to human things; nor human things in relation to them; the relations of either are limited to their respective spheres.",
+"kind": "narration"
+},
+{
+"entry": 117,
+"who": "Cephalus",
+"text": "Yes, that has been admitted.",
+"kind": "narration"
+},
+{
+"entry": 118,
+"who": "Cephalus",
+"text": "And if God has this perfect authority, and perfect knowledge, his authority cannot rule us, nor his knowledge know us, or any human thing; just as our authority does not extend to the gods, nor our knowledge know anything which is divine, so by parity of reason they, being gods, are not our masters, neither do they know the things of men.",
+"kind": "narration"
+},
+{
+"entry": 119,
+"who": "Cephalus",
+"text": "Yet, surely, said Socrates, to deprive God of knowledge is monstrous.",
+"kind": "narration"
+},
+{
+"entry": 120,
+"who": "Cephalus",
+"text": "These, Socrates, said Parmenides, are a few, and only a few of the difficulties in which we are involved if ideas really are and we determine each one of them to be an absolute unity. He who hears what may be said against them will deny the very existence of them — and even if they do exist, he will say that they must of necessity be unknown to man; and he will seem to have reason on his side, and as we were remarking just now, will be very difficult to convince; a man must be gifted with very considerable ability before he can learn that everything has a class and an absolute essence; and still more remarkable will he be who discovers all these things for himself, and having thoroughly investigated them is able to teach them to others.",
+"kind": "narration"
+},
+{
+"entry": 121,
+"who": "Cephalus",
+"text": "I agree with you, Parmenides, said Socrates; and what you say is very much to my mind.",
+"kind": "narration"
+},
+{
+"entry": 122,
+"who": "Cephalus",
+"text": "And yet, Socrates, said Parmenides, if a man, fixing his attention on these and the like difficulties, does away with ideas of things and will not admit that every individual thing has its own determinate idea which is always one and the same, he will have nothing on which his mind can rest; and so he will utterly destroy the power of reasoning, as you seem to me to have particularly noted.",
+"kind": "narration"
+},
+{
+"entry": 123,
+"who": "Cephalus",
+"text": "Very true, he said.",
+"kind": "narration"
+},
+{
+"entry": 124,
+"who": "Cephalus",
+"text": "But, then, what is to become of philosophy? Whither shall we turn, if the ideas are unknown?",
+"kind": "narration"
+},
+{
+"entry": 125,
+"who": "Cephalus",
+"text": "I certainly do not see my way at present.",
+"kind": "narration"
+},
+{
+"entry": 126,
+"who": "Cephalus",
+"text": "Yes, said Parmenides; and I think that this arises, Socrates, out of your attempting to define the beautiful, the just, the good, and the ideas generally, without sufficient previous training. I noticed your deficiency, when I heard you talking here with your friend Aristoteles, the day before yesterday. The impulse that carries you towards philosophy is assuredly noble and divine; but there is an art which is called by the vulgar idle talking, and which is often imagined to be useless; in that you must train and exercise yourself, now that you are young, or truth will elude your grasp.",
+"kind": "narration"
+},
+{
+"entry": 127,
+"who": "Cephalus",
+"text": "And what is the nature of this exercise, Parmenides, which you would recommend?",
+"kind": "narration"
+},
+{
+"entry": 128,
+"who": "Cephalus",
+"text": "That which you heard Zeno practising; at the same time, I give you credit for saying to him that you did not care to examine the perplexity in reference to visible things, or to consider the question that way; but only in reference to objects of thought, and to what may be called ideas.",
+"kind": "narration"
+},
+{
+"entry": 129,
+"who": "Cephalus",
+"text": "Why, yes, he said, there appears to me to be no difficulty in showing by this method that visible things are like and unlike and may experience anything.",
+"kind": "narration"
+},
+{
+"entry": 130,
+"who": "Cephalus",
+"text": "Quite true, said Parmenides; but I think that you should go a step further, and consider not only the consequences which flow from a given hypothesis, but also the consequences which flow from denying the hypothesis; and that will be still better training for you.",
+"kind": "narration"
+},
+{
+"entry": 131,
+"who": "Cephalus",
+"text": "What do you mean? he said.",
+"kind": "narration"
+},
+{
+"entry": 132,
+"who": "Cephalus",
+"text": "I mean, for example, that in the case of this very hypothesis of Zeno’s about the many, you should inquire not only what will be the consequences to the many in relation to themselves and to the one, and to the one in relation to itself and the many, on the hypothesis of the being of the many, but also what will be the consequences to the one and the many in their relation to themselves and to each other, on the opposite hypothesis. Or, again, if likeness is or is not, what will be the consequences in either of these cases to the subjects of the hypothesis, and to other things, in relation both to themselves and to one another, and so of unlikeness; and the same holds good of motion and rest, of generation and destruction, and even of being and not-being. In a word, when you suppose anything to be or not to be, or to be in any way affected, you must look at the consequences in relation to the thing itself, and to any other things which you choose, — to each of them singly, to more than one, and to all; and so of other things, you must look at them in relation to themselves and to anything else which you suppose either to be or not to be, if you would train yourself perfectly and see the real truth.",
+"kind": "narration"
+},
+{
+"entry": 133,
+"who": "Cephalus",
+"text": "That, Parmenides, is a tremendous business of which you speak, and I do not quite understand you; will you take some hypothesis and go through the steps? — then I shall apprehend you better.",
+"kind": "narration"
+},
+{
+"entry": 134,
+"who": "Cephalus",
+"text": "That, Socrates, is a serious task to impose on a man of my years.",
+"kind": "narration"
+},
+{
+"entry": 135,
+"who": "Cephalus",
+"text": "Then will you, Zeno? said Socrates.",
+"kind": "narration"
+},
+{
+"entry": 136,
+"who": "Cephalus",
+"text": "Zeno answered with a smile: — Let us make our petition to Parmenides himself, who is quite right in saying that you are hardly aware of the extent of the task which you are imposing on him; and if there were more of us I should not ask him, for these are not subjects which any one, especially at his age, can well speak of before a large audience; most people are not aware that this roundabout progress through all things is the only way in which the mind can attain truth and wisdom. And therefore, Parmenides, I join in the request of Socrates, that I may hear the process again which I have not heard for a long time.",
+"kind": "narration"
+},
+{
+"entry": 137,
+"who": "Cephalus",
+"text": "When Zeno had thus spoken, Pythodorus, according to Antiphon’s report of him, said, that he himself and Aristoteles and the whole company entreated Parmenides to give an example of the process. I cannot refuse, said Parmenides; and yet I feel rather like Ibycus, who, when in his old age, against his will, he fell in love, compared himself to an old racehorse, who was about to run in a chariot race, shaking with fear at the course he knew so well — this was his simile of himself. And I also experience a trembling when I remember through what an ocean of words I have to wade at my time of life. But I must indulge you, as Zeno says that I ought, and we are alone. Where shall I begin? And what shall be our first hypothesis, if I am to attempt this laborious pastime? Shall I begin with myself, and take my own hypothesis the one? and consider the consequences which follow on the supposition either of the being or of the not-being of one?",
+"kind": "narration"
+},
+{
+"entry": 138,
+"who": "Cephalus",
+"text": "By all means, said Zeno.",
+"kind": "narration"
+},
+{
+"entry": 139,
+"who": "Cephalus",
+"text": "And who will answer me? he said. Shall I propose the youngest? He will not make difficulties and will be the most likely to say what he thinks; and his answers will give me time to breathe.",
+"kind": "narration"
+},
+{
+"entry": 140,
+"who": "Cephalus",
+"text": "I am the one whom you mean, Parmenides, said Aristoteles; for I am the youngest and at your service. Ask, and I will answer.",
+"kind": "narration"
+},
+{
+"entry": 141,
+"who": "Cephalus",
+"text": "Parmenides proceeded: 1.a. If one is, he said, the one cannot be many?",
+"kind": "narration"
+},
+{
+"entry": 142,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 143,
+"who": "Cephalus",
+"text": "Then the one cannot have parts, and cannot be a whole?",
+"kind": "narration"
+},
+{
+"entry": 144,
+"who": "Cephalus",
+"text": "Why not?",
+"kind": "narration"
+},
+{
+"entry": 145,
+"who": "Cephalus",
+"text": "Because every part is part of a whole; is it not?",
+"kind": "narration"
+},
+{
+"entry": 146,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 147,
+"who": "Cephalus",
+"text": "And what is a whole? would not that of which no part is wanting be a whole?",
+"kind": "narration"
+},
+{
+"entry": 148,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 149,
+"who": "Cephalus",
+"text": "Then, in either case, the one would be made up of parts; both as being a whole, and also as having parts?",
+"kind": "narration"
+},
+{
+"entry": 150,
+"who": "Cephalus",
+"text": "To be sure.",
+"kind": "narration"
+},
+{
+"entry": 151,
+"who": "Cephalus",
+"text": "And in either case, the one would be many, and not one?",
+"kind": "narration"
+},
+{
+"entry": 152,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 153,
+"who": "Cephalus",
+"text": "But, surely, it ought to be one and not many?",
+"kind": "narration"
+},
+{
+"entry": 154,
+"who": "Cephalus",
+"text": "It ought.",
+"kind": "narration"
+},
+{
+"entry": 155,
+"who": "Cephalus",
+"text": "Then, if the one is to remain one, it will not be a whole, and will not have parts?",
+"kind": "narration"
+},
+{
+"entry": 156,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 157,
+"who": "Cephalus",
+"text": "But if it has no parts, it will have neither beginning, middle, nor end; for these would of course be parts of it.",
+"kind": "narration"
+},
+{
+"entry": 158,
+"who": "Cephalus",
+"text": "Right.",
+"kind": "narration"
+},
+{
+"entry": 159,
+"who": "Cephalus",
+"text": "But then, again, a beginning and an end are the limits of everything?",
+"kind": "narration"
+},
+{
+"entry": 160,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 161,
+"who": "Cephalus",
+"text": "Then the one, having neither beginning nor end, is unlimited?",
+"kind": "narration"
+},
+{
+"entry": 162,
+"who": "Cephalus",
+"text": "Yes, unlimited.",
+"kind": "narration"
+},
+{
+"entry": 163,
+"who": "Cephalus",
+"text": "And therefore formless; for it cannot partake either of round or straight.",
+"kind": "narration"
+},
+{
+"entry": 164,
+"who": "Cephalus",
+"text": "But why?",
+"kind": "narration"
+},
+{
+"entry": 165,
+"who": "Cephalus",
+"text": "Why, because the round is that of which all the extreme points are equidistant from the centre?",
+"kind": "narration"
+},
+{
+"entry": 166,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 167,
+"who": "Cephalus",
+"text": "And the straight is that of which the centre intercepts the view of the extremes?",
+"kind": "narration"
+},
+{
+"entry": 168,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 169,
+"who": "Cephalus",
+"text": "Then the one would have parts and would be many, if it partook either of a straight or of a circular form?",
+"kind": "narration"
+},
+{
+"entry": 170,
+"who": "Cephalus",
+"text": "Assuredly.",
+"kind": "narration"
+},
+{
+"entry": 171,
+"who": "Cephalus",
+"text": "But having no parts, it will be neither straight nor round?",
+"kind": "narration"
+},
+{
+"entry": 172,
+"who": "Cephalus",
+"text": "Right.",
+"kind": "narration"
+},
+{
+"entry": 173,
+"who": "Cephalus",
+"text": "And, being of such a nature, it cannot be in any place, for it cannot be either in another or in itself.",
+"kind": "narration"
+},
+{
+"entry": 174,
+"who": "Cephalus",
+"text": "How so?",
+"kind": "narration"
+},
+{
+"entry": 175,
+"who": "Cephalus",
+"text": "Because if it were in another, it would be encircled by that in which it was, and would touch it at many places and with many parts; but that which is one and indivisible, and does not partake of a circular nature, cannot be touched all round in many places.",
+"kind": "narration"
+},
+{
+"entry": 176,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 177,
+"who": "Cephalus",
+"text": "But if, on the other hand, one were in itself, it would also be contained by nothing else but itself; that is to say, if it were really in itself; for nothing can be in anything which does not contain it.",
+"kind": "narration"
+},
+{
+"entry": 178,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 179,
+"who": "Cephalus",
+"text": "But then, that which contains must be other than that which is contained? for the same whole cannot do and suffer both at once; and if so, one will be no longer one, but two?",
+"kind": "narration"
+},
+{
+"entry": 180,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 181,
+"who": "Cephalus",
+"text": "Then one cannot be anywhere, either in itself or in another?",
+"kind": "narration"
+},
+{
+"entry": 182,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 183,
+"who": "Cephalus",
+"text": "Further consider, whether that which is of such a nature can have either rest or motion.",
+"kind": "narration"
+},
+{
+"entry": 184,
+"who": "Cephalus",
+"text": "Why not?",
+"kind": "narration"
+},
+{
+"entry": 185,
+"who": "Cephalus",
+"text": "Why, because the one, if it were moved, would be either moved in place or changed in nature; for these are the only kinds of motion.",
+"kind": "narration"
+},
+{
+"entry": 186,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 187,
+"who": "Cephalus",
+"text": "And the one, when it changes and ceases to be itself, cannot be any longer one.",
+"kind": "narration"
+},
+{
+"entry": 188,
+"who": "Cephalus",
+"text": "It cannot.",
+"kind": "narration"
+},
+{
+"entry": 189,
+"who": "Cephalus",
+"text": "It cannot therefore experience the sort of motion which is change of nature?",
+"kind": "narration"
+},
+{
+"entry": 190,
+"who": "Cephalus",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 191,
+"who": "Cephalus",
+"text": "Then can the motion of the one be in place?",
+"kind": "narration"
+},
+{
+"entry": 192,
+"who": "Cephalus",
+"text": "Perhaps.",
+"kind": "narration"
+},
+{
+"entry": 193,
+"who": "Cephalus",
+"text": "But if the one moved in place, must it not either move round and round in the same place, or from one place to another?",
+"kind": "narration"
+},
+{
+"entry": 194,
+"who": "Cephalus",
+"text": "It must.",
+"kind": "narration"
+},
+{
+"entry": 195,
+"who": "Cephalus",
+"text": "And that which moves in a circle must rest upon a centre; and that which goes round upon a centre must have parts which are different from the centre; but that which has no centre and no parts cannot possibly be carried round upon a centre?",
+"kind": "narration"
+},
+{
+"entry": 196,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 197,
+"who": "Cephalus",
+"text": "But perhaps the motion of the one consists in change of place?",
+"kind": "narration"
+},
+{
+"entry": 198,
+"who": "Cephalus",
+"text": "Perhaps so, if it moves at all.",
+"kind": "narration"
+},
+{
+"entry": 199,
+"who": "Cephalus",
+"text": "And have we not already shown that it cannot be in anything?",
+"kind": "narration"
+},
+{
+"entry": 200,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 201,
+"who": "Cephalus",
+"text": "Then its coming into being in anything is still more impossible; is it not?",
+"kind": "narration"
+},
+{
+"entry": 202,
+"who": "Cephalus",
+"text": "I do not see why.",
+"kind": "narration"
+},
+{
+"entry": 203,
+"who": "Cephalus",
+"text": "Why, because anything which comes into being in anything, can neither as yet be in that other thing while still coming into being, nor be altogether out of it, if already coming into being in it.",
+"kind": "narration"
+},
+{
+"entry": 204,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 205,
+"who": "Cephalus",
+"text": "And therefore whatever comes into being in another must have parts, and then one part may be in, and another part out of that other; but that which has no parts can never be at one and the same time neither wholly within nor wholly without anything.",
+"kind": "narration"
+},
+{
+"entry": 206,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 207,
+"who": "Cephalus",
+"text": "And is there not a still greater impossibility in that which has no parts, and is not a whole, coming into being anywhere, since it cannot come into being either as a part or as a whole?",
+"kind": "narration"
+},
+{
+"entry": 208,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 209,
+"who": "Cephalus",
+"text": "Then it does not change place by revolving in the same spot, nor by going somewhere and coming into being in something; nor again, by change in itself?",
+"kind": "narration"
+},
+{
+"entry": 210,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 211,
+"who": "Cephalus",
+"text": "Then in respect of any kind of motion the one is immoveable?",
+"kind": "narration"
+},
+{
+"entry": 212,
+"who": "Cephalus",
+"text": "Immoveable.",
+"kind": "narration"
+},
+{
+"entry": 213,
+"who": "Cephalus",
+"text": "But neither can the one be in anything, as we affirm?",
+"kind": "narration"
+},
+{
+"entry": 214,
+"who": "Cephalus",
+"text": "Yes, we said so.",
+"kind": "narration"
+},
+{
+"entry": 215,
+"who": "Cephalus",
+"text": "Then it is never in the same?",
+"kind": "narration"
+},
+{
+"entry": 216,
+"who": "Cephalus",
+"text": "Why not?",
+"kind": "narration"
+},
+{
+"entry": 217,
+"who": "Cephalus",
+"text": "Because if it were in the same it would be in something.",
+"kind": "narration"
+},
+{
+"entry": 218,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 219,
+"who": "Cephalus",
+"text": "And we said that it could not be in itself, and could not be in other?",
+"kind": "narration"
+},
+{
+"entry": 220,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 221,
+"who": "Cephalus",
+"text": "Then one is never in the same place?",
+"kind": "narration"
+},
+{
+"entry": 222,
+"who": "Cephalus",
+"text": "It would seem not.",
+"kind": "narration"
+},
+{
+"entry": 223,
+"who": "Cephalus",
+"text": "But that which is never in the same place is never quiet or at rest?",
+"kind": "narration"
+},
+{
+"entry": 224,
+"who": "Cephalus",
+"text": "Never.",
+"kind": "narration"
+},
+{
+"entry": 225,
+"who": "Cephalus",
+"text": "One then, as would seem, is neither at rest nor in motion?",
+"kind": "narration"
+},
+{
+"entry": 226,
+"who": "Cephalus",
+"text": "It certainly appears so.",
+"kind": "narration"
+},
+{
+"entry": 227,
+"who": "Cephalus",
+"text": "Neither will it be the same with itself or other; nor again, other than itself or other.",
+"kind": "narration"
+},
+{
+"entry": 228,
+"who": "Cephalus",
+"text": "How is that?",
+"kind": "narration"
+},
+{
+"entry": 229,
+"who": "Cephalus",
+"text": "If other than itself it would be other than one, and would not be one.",
+"kind": "narration"
+},
+{
+"entry": 230,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 231,
+"who": "Cephalus",
+"text": "And if the same with other, it would be that other, and not itself; so that upon this supposition too, it would not have the nature of one, but would be other than one?",
+"kind": "narration"
+},
+{
+"entry": 232,
+"who": "Cephalus",
+"text": "It would.",
+"kind": "narration"
+},
+{
+"entry": 233,
+"who": "Cephalus",
+"text": "Then it will not be the same with other, or other than itself?",
+"kind": "narration"
+},
+{
+"entry": 234,
+"who": "Cephalus",
+"text": "It will not.",
+"kind": "narration"
+},
+{
+"entry": 235,
+"who": "Cephalus",
+"text": "Neither will it be other than other, while it remains one; for not one, but only other, can be other than other, and nothing else.",
+"kind": "narration"
+},
+{
+"entry": 236,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 237,
+"who": "Cephalus",
+"text": "Then not by virtue of being one will it be other?",
+"kind": "narration"
+},
+{
+"entry": 238,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 239,
+"who": "Cephalus",
+"text": "But if not by virtue of being one, not by virtue of itself; and if not by virtue of itself, not itself, and itself not being other at all, will not be other than anything?",
+"kind": "narration"
+},
+{
+"entry": 240,
+"who": "Cephalus",
+"text": "Right.",
+"kind": "narration"
+},
+{
+"entry": 241,
+"who": "Cephalus",
+"text": "Neither will one be the same with itself.",
+"kind": "narration"
+},
+{
+"entry": 242,
+"who": "Cephalus",
+"text": "How not?",
+"kind": "narration"
+},
+{
+"entry": 243,
+"who": "Cephalus",
+"text": "Surely the nature of the one is not the nature of the same.",
+"kind": "narration"
+},
+{
+"entry": 244,
+"who": "Cephalus",
+"text": "Why not?",
+"kind": "narration"
+},
+{
+"entry": 245,
+"who": "Cephalus",
+"text": "It is not when anything becomes the same with anything that it becomes one.",
+"kind": "narration"
+},
+{
+"entry": 246,
+"who": "Cephalus",
+"text": "What of that?",
+"kind": "narration"
+},
+{
+"entry": 247,
+"who": "Cephalus",
+"text": "Anything which becomes the same with the many, necessarily becomes many and not one.",
+"kind": "narration"
+},
+{
+"entry": 248,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 249,
+"who": "Cephalus",
+"text": "But, if there were no difference between the one and the same, when a thing became the same, it would always become one; and when it became one, the same?",
+"kind": "narration"
+},
+{
+"entry": 250,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 251,
+"who": "Cephalus",
+"text": "And, therefore, if one be the same with itself, it is not one with itself, and will therefore be one and also not one.",
+"kind": "narration"
+},
+{
+"entry": 252,
+"who": "Cephalus",
+"text": "Surely that is impossible.",
+"kind": "narration"
+},
+{
+"entry": 253,
+"who": "Cephalus",
+"text": "And therefore the one can neither be other than other, nor the same with itself.",
+"kind": "narration"
+},
+{
+"entry": 254,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 255,
+"who": "Cephalus",
+"text": "And thus the one can neither be the same, nor other, either in relation to itself or other?",
+"kind": "narration"
+},
+{
+"entry": 256,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 257,
+"who": "Cephalus",
+"text": "Neither will the one be like anything or unlike itself or other.",
+"kind": "narration"
+},
+{
+"entry": 258,
+"who": "Cephalus",
+"text": "Why not?",
+"kind": "narration"
+},
+{
+"entry": 259,
+"who": "Cephalus",
+"text": "Because likeness is sameness of affections.",
+"kind": "narration"
+},
+{
+"entry": 260,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 261,
+"who": "Cephalus",
+"text": "And sameness has been shown to be of a nature distinct from oneness?",
+"kind": "narration"
+},
+{
+"entry": 262,
+"who": "Cephalus",
+"text": "That has been shown.",
+"kind": "narration"
+},
+{
+"entry": 263,
+"who": "Cephalus",
+"text": "But if the one had any other affection than that of being one, it would be affected in such a way as to be more than one; which is impossible.",
+"kind": "narration"
+},
+{
+"entry": 264,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 265,
+"who": "Cephalus",
+"text": "Then the one can never be so affected as to be the same either with another or with itself?",
+"kind": "narration"
+},
+{
+"entry": 266,
+"who": "Cephalus",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 267,
+"who": "Cephalus",
+"text": "Then it cannot be like another, or like itself?",
+"kind": "narration"
+},
+{
+"entry": 268,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 269,
+"who": "Cephalus",
+"text": "Nor can it be affected so as to be other, for then it would be affected in such a way as to be more than one.",
+"kind": "narration"
+},
+{
+"entry": 270,
+"who": "Cephalus",
+"text": "It would.",
+"kind": "narration"
+},
+{
+"entry": 271,
+"who": "Cephalus",
+"text": "That which is affected otherwise than itself or another, will be unlike itself or another, for sameness of affections is likeness.",
+"kind": "narration"
+},
+{
+"entry": 272,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 273,
+"who": "Cephalus",
+"text": "But the one, as appears, never being affected otherwise, is never unlike itself or other?",
+"kind": "narration"
+},
+{
+"entry": 274,
+"who": "Cephalus",
+"text": "Never.",
+"kind": "narration"
+},
+{
+"entry": 275,
+"who": "Cephalus",
+"text": "Then the one will never be either like or unlike itself or other?",
+"kind": "narration"
+},
+{
+"entry": 276,
+"who": "Cephalus",
+"text": "Plainly not.",
+"kind": "narration"
+},
+{
+"entry": 277,
+"who": "Cephalus",
+"text": "Again, being of this nature, it can neither be equal nor unequal either to itself or to other.",
+"kind": "narration"
+},
+{
+"entry": 278,
+"who": "Cephalus",
+"text": "How is that?",
+"kind": "narration"
+},
+{
+"entry": 279,
+"who": "Cephalus",
+"text": "Why, because the one if equal must be of the same measures as that to which it is equal.",
+"kind": "narration"
+},
+{
+"entry": 280,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 281,
+"who": "Cephalus",
+"text": "And if greater or less than things which are commensurable with it, the one will have more measures than that which is less, and fewer than that which is greater?",
+"kind": "narration"
+},
+{
+"entry": 282,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 283,
+"who": "Cephalus",
+"text": "And so of things which are not commensurate with it, the one will have greater measures than that which is less and smaller than that which is greater.",
+"kind": "narration"
+},
+{
+"entry": 284,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 285,
+"who": "Cephalus",
+"text": "But how can that which does not partake of sameness, have either the same measures or have anything else the same?",
+"kind": "narration"
+},
+{
+"entry": 286,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 287,
+"who": "Cephalus",
+"text": "And not having the same measures, the one cannot be equal either with itself or with another?",
+"kind": "narration"
+},
+{
+"entry": 288,
+"who": "Cephalus",
+"text": "It appears so.",
+"kind": "narration"
+},
+{
+"entry": 289,
+"who": "Cephalus",
+"text": "But again, whether it have fewer or more measures, it will have as many parts as it has measures; and thus again the one will be no longer one but will have as many parts as measures.",
+"kind": "narration"
+},
+{
+"entry": 290,
+"who": "Cephalus",
+"text": "Right.",
+"kind": "narration"
+},
+{
+"entry": 291,
+"who": "Cephalus",
+"text": "And if it were of one measure, it would be equal to that measure; yet it has been shown to be incapable of equality.",
+"kind": "narration"
+},
+{
+"entry": 292,
+"who": "Cephalus",
+"text": "It has.",
+"kind": "narration"
+},
+{
+"entry": 293,
+"who": "Cephalus",
+"text": "Then it will neither partake of one measure, nor of many, nor of few, nor of the same at all, nor be equal to itself or another; nor be greater or less than itself, or other?",
+"kind": "narration"
+},
+{
+"entry": 294,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 295,
+"who": "Cephalus",
+"text": "Well, and do we suppose that one can be older, or younger than anything, or of the same age with it?",
+"kind": "narration"
+},
+{
+"entry": 296,
+"who": "Cephalus",
+"text": "Why not?",
+"kind": "narration"
+},
+{
+"entry": 297,
+"who": "Cephalus",
+"text": "Why, because that which is of the same age with itself or other, must partake of equality or likeness of time; and we said that the one did not partake either of equality or of likeness?",
+"kind": "narration"
+},
+{
+"entry": 298,
+"who": "Cephalus",
+"text": "We did say so.",
+"kind": "narration"
+},
+{
+"entry": 299,
+"who": "Cephalus",
+"text": "And we also said, that it did not partake of inequality or unlikeness.",
+"kind": "narration"
+},
+{
+"entry": 300,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 301,
+"who": "Cephalus",
+"text": "How then can one, being of this nature, be either older or younger than anything, or have the same age with it?",
+"kind": "narration"
+},
+{
+"entry": 302,
+"who": "Cephalus",
+"text": "In no way.",
+"kind": "narration"
+},
+{
+"entry": 303,
+"who": "Cephalus",
+"text": "Then one cannot be older or younger, or of the same age, either with itself or with another?",
+"kind": "narration"
+},
+{
+"entry": 304,
+"who": "Cephalus",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 305,
+"who": "Cephalus",
+"text": "Then the one, being of this nature, cannot be in time at all; for must not that which is in time, be always growing older than itself?",
+"kind": "narration"
+},
+{
+"entry": 306,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 307,
+"who": "Cephalus",
+"text": "And that which is older, must always be older than something which is younger?",
+"kind": "narration"
+},
+{
+"entry": 308,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 309,
+"who": "Cephalus",
+"text": "Then, that which becomes older than itself, also becomes at the same time younger than itself, if it is to have something to become older than.",
+"kind": "narration"
+},
+{
+"entry": 310,
+"who": "Cephalus",
+"text": "What do you mean?",
+"kind": "narration"
+},
+{
+"entry": 311,
+"who": "Cephalus",
+"text": "I mean this: — A thing does not need to become different from another thing which is already different; it IS different, and if its different has become, it has become different; if its different will be, it will be different; but of that which is becoming different, there cannot have been, or be about to be, or yet be, a different — the only different possible is one which is becoming.",
+"kind": "narration"
+},
+{
+"entry": 312,
+"who": "Cephalus",
+"text": "That is inevitable.",
+"kind": "narration"
+},
+{
+"entry": 313,
+"who": "Cephalus",
+"text": "But, surely, the elder is a difference relative to the younger, and to nothing else.",
+"kind": "narration"
+},
+{
+"entry": 314,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 315,
+"who": "Cephalus",
+"text": "Then that which becomes older than itself must also, at the same time, become younger than itself?",
+"kind": "narration"
+},
+{
+"entry": 316,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 317,
+"who": "Cephalus",
+"text": "But again, it is true that it cannot become for a longer or for a shorter time than itself, but it must become, and be, and have become, and be about to be, for the same time with itself?",
+"kind": "narration"
+},
+{
+"entry": 318,
+"who": "Cephalus",
+"text": "That again is inevitable.",
+"kind": "narration"
+},
+{
+"entry": 319,
+"who": "Cephalus",
+"text": "Then things which are in time, and partake of time, must in every case, I suppose, be of the same age with themselves; and must also become at once older and younger than themselves?",
+"kind": "narration"
+},
+{
+"entry": 320,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 321,
+"who": "Cephalus",
+"text": "But the one did not partake of those affections?",
+"kind": "narration"
+},
+{
+"entry": 322,
+"who": "Cephalus",
+"text": "Not at all.",
+"kind": "narration"
+},
+{
+"entry": 323,
+"who": "Cephalus",
+"text": "Then it does not partake of time, and is not in any time?",
+"kind": "narration"
+},
+{
+"entry": 324,
+"who": "Cephalus",
+"text": "So the argument shows.",
+"kind": "narration"
+},
+{
+"entry": 325,
+"who": "Cephalus",
+"text": "Well, but do not the expressions ‘was,’ and ‘has become,’ and ‘was becoming,’ signify a participation of past time?",
+"kind": "narration"
+},
+{
+"entry": 326,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 327,
+"who": "Cephalus",
+"text": "And do not ‘will be,’ ‘will become,’ ‘will have become,’ signify a participation of future time?",
+"kind": "narration"
+},
+{
+"entry": 328,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 329,
+"who": "Cephalus",
+"text": "And ’is,’ or ‘becomes,’ signifies a participation of present time?",
+"kind": "narration"
+},
+{
+"entry": 330,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 331,
+"who": "Cephalus",
+"text": "And if the one is absolutely without participation in time, it never had become, or was becoming, or was at any time, or is now become or is becoming, or is, or will become, or will have become, or will be, hereafter.",
+"kind": "narration"
+},
+{
+"entry": 332,
+"who": "Cephalus",
+"text": "Most true.",
+"kind": "narration"
+},
+{
+"entry": 333,
+"who": "Cephalus",
+"text": "But are there any modes of partaking of being other than these?",
+"kind": "narration"
+},
+{
+"entry": 334,
+"who": "Cephalus",
+"text": "There are none.",
+"kind": "narration"
+},
+{
+"entry": 335,
+"who": "Cephalus",
+"text": "Then the one cannot possibly partake of being?",
+"kind": "narration"
+},
+{
+"entry": 336,
+"who": "Cephalus",
+"text": "That is the inference.",
+"kind": "narration"
+},
+{
+"entry": 337,
+"who": "Cephalus",
+"text": "Then the one is not at all?",
+"kind": "narration"
+},
+{
+"entry": 338,
+"who": "Cephalus",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 339,
+"who": "Cephalus",
+"text": "Then the one does not exist in such way as to be one; for if it were and partook of being, it would already be; but if the argument is to be trusted, the one neither is nor is one?",
+"kind": "narration"
+},
+{
+"entry": 340,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 341,
+"who": "Cephalus",
+"text": "But that which is not admits of no attribute or relation?",
+"kind": "narration"
+},
+{
+"entry": 342,
+"who": "Cephalus",
+"text": "Of course not.",
+"kind": "narration"
+},
+{
+"entry": 343,
+"who": "Cephalus",
+"text": "Then there is no name, nor expression, nor perception, nor opinion, nor knowledge of it?",
+"kind": "narration"
+},
+{
+"entry": 344,
+"who": "Cephalus",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 345,
+"who": "Cephalus",
+"text": "Then it is neither named, nor expressed, nor opined, nor known, nor does anything that is perceive it.",
+"kind": "narration"
+},
+{
+"entry": 346,
+"who": "Cephalus",
+"text": "So we must infer.",
+"kind": "narration"
+},
+{
+"entry": 347,
+"who": "Cephalus",
+"text": "But can all this be true about the one?",
+"kind": "narration"
+},
+{
+"entry": 348,
+"who": "Cephalus",
+"text": "I think not.",
+"kind": "narration"
+},
+{
+"entry": 349,
+"who": "Cephalus",
+"text": "1.b. Suppose, now, that we return once more to the original hypothesis; let us see whether, on a further review, any new aspect of the question appears.",
+"kind": "narration"
+},
+{
+"entry": 350,
+"who": "Cephalus",
+"text": "I shall be very happy to do so.",
+"kind": "narration"
+},
+{
+"entry": 351,
+"who": "Cephalus",
+"text": "We say that we have to work out together all the consequences, whatever they may be, which follow, if the one is?",
+"kind": "narration"
+},
+{
+"entry": 352,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 353,
+"who": "Cephalus",
+"text": "Then we will begin at the beginning: — If one is, can one be, and not partake of being?",
+"kind": "narration"
+},
+{
+"entry": 354,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 355,
+"who": "Cephalus",
+"text": "Then the one will have being, but its being will not be the same with the one; for if the same, it would not be the being of the one; nor would the one have participated in being, for the proposition that one is would have been identical with the proposition that one is one; but our hypothesis is not if one is one, what will follow, but if one is: — am I not right?",
+"kind": "narration"
+},
+{
+"entry": 356,
+"who": "Cephalus",
+"text": "Quite right.",
+"kind": "narration"
+},
+{
+"entry": 357,
+"who": "Cephalus",
+"text": "We mean to say, that being has not the same significance as one?",
+"kind": "narration"
+},
+{
+"entry": 358,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 359,
+"who": "Cephalus",
+"text": "And when we put them together shortly, and say ‘One is,’ that is equivalent to saying, ‘partakes of being’?",
+"kind": "narration"
+},
+{
+"entry": 360,
+"who": "Cephalus",
+"text": "Quite true.",
+"kind": "narration"
+},
+{
+"entry": 361,
+"who": "Cephalus",
+"text": "Once more then let us ask, if one is what will follow. Does not this hypothesis necessarily imply that one is of such a nature as to have parts?",
+"kind": "narration"
+},
+{
+"entry": 362,
+"who": "Cephalus",
+"text": "How so?",
+"kind": "narration"
+},
+{
+"entry": 363,
+"who": "Cephalus",
+"text": "In this way: — If being is predicated of the one, if the one is, and one of being, if being is one; and if being and one are not the same; and since the one, which we have assumed, is, must not the whole, if it is one, itself be, and have for its parts, one and being?",
+"kind": "narration"
+},
+{
+"entry": 364,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 365,
+"who": "Cephalus",
+"text": "And is each of these parts — one and being — to be simply called a part, or must the word ‘part’ be relative to the word ‘whole’?",
+"kind": "narration"
+},
+{
+"entry": 366,
+"who": "Cephalus",
+"text": "The latter.",
+"kind": "narration"
+},
+{
+"entry": 367,
+"who": "Cephalus",
+"text": "Then that which is one is both a whole and has a part?",
+"kind": "narration"
+},
+{
+"entry": 368,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 369,
+"who": "Cephalus",
+"text": "Again, of the parts of the one, if it is — I mean being and one — does either fail to imply the other? is the one wanting to being, or being to the one?",
+"kind": "narration"
+},
+{
+"entry": 370,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 371,
+"who": "Cephalus",
+"text": "Thus, each of the parts also has in turn both one and being, and is at the least made up of two parts; and the same principle goes on for ever, and every part whatever has always these two parts; for being always involves one, and one being; so that one is always disappearing, and becoming two.",
+"kind": "narration"
+},
+{
+"entry": 372,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 373,
+"who": "Cephalus",
+"text": "And so the one, if it is, must be infinite in multiplicity?",
+"kind": "narration"
+},
+{
+"entry": 374,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 375,
+"who": "Cephalus",
+"text": "Let us take another direction.",
+"kind": "narration"
+},
+{
+"entry": 376,
+"who": "Cephalus",
+"text": "What direction?",
+"kind": "narration"
+},
+{
+"entry": 377,
+"who": "Cephalus",
+"text": "We say that the one partakes of being and therefore it is?",
+"kind": "narration"
+},
+{
+"entry": 378,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 379,
+"who": "Cephalus",
+"text": "And in this way, the one, if it has being, has turned out to be many?",
+"kind": "narration"
+},
+{
+"entry": 380,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 381,
+"who": "Cephalus",
+"text": "But now, let us abstract the one which, as we say, partakes of being, and try to imagine it apart from that of which, as we say, it partakes — will this abstract one be one only or many?",
+"kind": "narration"
+},
+{
+"entry": 382,
+"who": "Cephalus",
+"text": "One, I think.",
+"kind": "narration"
+},
+{
+"entry": 383,
+"who": "Cephalus",
+"text": "Let us see: — Must not the being of one be other than one? for the one is not being, but, considered as one, only partook of being?",
+"kind": "narration"
+},
+{
+"entry": 384,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 385,
+"who": "Cephalus",
+"text": "If being and the one be two different things, it is not because the one is one that it is other than being; nor because being is being that it is other than the one; but they differ from one another in virtue of otherness and difference.",
+"kind": "narration"
+},
+{
+"entry": 386,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 387,
+"who": "Cephalus",
+"text": "So that the other is not the same — either with the one or with being?",
+"kind": "narration"
+},
+{
+"entry": 388,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 389,
+"who": "Cephalus",
+"text": "And therefore whether we take being and the other, or being and the one, or the one and the other, in every such case we take two things, which may be rightly called both.",
+"kind": "narration"
+},
+{
+"entry": 390,
+"who": "Cephalus",
+"text": "How so.",
+"kind": "narration"
+},
+{
+"entry": 391,
+"who": "Cephalus",
+"text": "In this way — you may speak of being?",
+"kind": "narration"
+},
+{
+"entry": 392,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 393,
+"who": "Cephalus",
+"text": "And also of one?",
+"kind": "narration"
+},
+{
+"entry": 394,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 395,
+"who": "Cephalus",
+"text": "Then now we have spoken of either of them?",
+"kind": "narration"
+},
+{
+"entry": 396,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 397,
+"who": "Cephalus",
+"text": "Well, and when I speak of being and one, I speak of them both?",
+"kind": "narration"
+},
+{
+"entry": 398,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 399,
+"who": "Cephalus",
+"text": "And if I speak of being and the other, or of the one and the other, — in any such case do I not speak of both?",
+"kind": "narration"
+},
+{
+"entry": 400,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 401,
+"who": "Cephalus",
+"text": "And must not that which is correctly called both, be also two?",
+"kind": "narration"
+},
+{
+"entry": 402,
+"who": "Cephalus",
+"text": "Undoubtedly.",
+"kind": "narration"
+},
+{
+"entry": 403,
+"who": "Cephalus",
+"text": "And of two things how can either by any possibility not be one?",
+"kind": "narration"
+},
+{
+"entry": 404,
+"who": "Cephalus",
+"text": "It cannot.",
+"kind": "narration"
+},
+{
+"entry": 405,
+"who": "Cephalus",
+"text": "Then, if the individuals of the pair are together two, they must be severally one?",
+"kind": "narration"
+},
+{
+"entry": 406,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 407,
+"who": "Cephalus",
+"text": "And if each of them is one, then by the addition of any one to any pair, the whole becomes three?",
+"kind": "narration"
+},
+{
+"entry": 408,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 409,
+"who": "Cephalus",
+"text": "And three are odd, and two are even?",
+"kind": "narration"
+},
+{
+"entry": 410,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 411,
+"who": "Cephalus",
+"text": "And if there are two there must also be twice, and if there are three there must be thrice; that is, if twice one makes two, and thrice one three?",
+"kind": "narration"
+},
+{
+"entry": 412,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 413,
+"who": "Cephalus",
+"text": "There are two, and twice, and therefore there must be twice two; and there are three, and there is thrice, and therefore there must be thrice three?",
+"kind": "narration"
+},
+{
+"entry": 414,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 415,
+"who": "Cephalus",
+"text": "If there are three and twice, there is twice three; and if there are two and thrice, there is thrice two?",
+"kind": "narration"
+},
+{
+"entry": 416,
+"who": "Cephalus",
+"text": "Undoubtedly.",
+"kind": "narration"
+},
+{
+"entry": 417,
+"who": "Cephalus",
+"text": "Here, then, we have even taken even times, and odd taken odd times, and even taken odd times, and odd taken even times.",
+"kind": "narration"
+},
+{
+"entry": 418,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 419,
+"who": "Cephalus",
+"text": "And if this is so, does any number remain which has no necessity to be?",
+"kind": "narration"
+},
+{
+"entry": 420,
+"who": "Cephalus",
+"text": "None whatever.",
+"kind": "narration"
+},
+{
+"entry": 421,
+"who": "Cephalus",
+"text": "Then if one is, number must also be?",
+"kind": "narration"
+},
+{
+"entry": 422,
+"who": "Cephalus",
+"text": "It must.",
+"kind": "narration"
+},
+{
+"entry": 423,
+"who": "Cephalus",
+"text": "But if there is number, there must also be many, and infinite multiplicity of being; for number is infinite in multiplicity, and partakes also of being: am I not right?",
+"kind": "narration"
+},
+{
+"entry": 424,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 425,
+"who": "Cephalus",
+"text": "And if all number participates in being, every part of number will also participate?",
+"kind": "narration"
+},
+{
+"entry": 426,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 427,
+"who": "Cephalus",
+"text": "Then being is distributed over the whole multitude of things, and nothing that is, however small or however great, is devoid of it? And, indeed, the very supposition of this is absurd, for how can that which is, be devoid of being?",
+"kind": "narration"
+},
+{
+"entry": 428,
+"who": "Cephalus",
+"text": "In no way.",
+"kind": "narration"
+},
+{
+"entry": 429,
+"who": "Cephalus",
+"text": "And it is divided into the greatest and into the smallest, and into being of all sizes, and is broken up more than all things; the divisions of it have no limit.",
+"kind": "narration"
+},
+{
+"entry": 430,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 431,
+"who": "Cephalus",
+"text": "Then it has the greatest number of parts?",
+"kind": "narration"
+},
+{
+"entry": 432,
+"who": "Cephalus",
+"text": "Yes, the greatest number.",
+"kind": "narration"
+},
+{
+"entry": 433,
+"who": "Cephalus",
+"text": "Is there any of these which is a part of being, and yet no part?",
+"kind": "narration"
+},
+{
+"entry": 434,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 435,
+"who": "Cephalus",
+"text": "But if it is at all and so long as it is, it must be one, and cannot be none?",
+"kind": "narration"
+},
+{
+"entry": 436,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 437,
+"who": "Cephalus",
+"text": "Then the one attaches to every single part of being, and does not fail in any part, whether great or small, or whatever may be the size of it?",
+"kind": "narration"
+},
+{
+"entry": 438,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 439,
+"who": "Cephalus",
+"text": "But reflect: — Can one, in its entirety, be in many places at the same time?",
+"kind": "narration"
+},
+{
+"entry": 440,
+"who": "Cephalus",
+"text": "No; I see the impossibility of that.",
+"kind": "narration"
+},
+{
+"entry": 441,
+"who": "Cephalus",
+"text": "And if not in its entirety, then it is divided; for it cannot be present with all the parts of being, unless divided.",
+"kind": "narration"
+},
+{
+"entry": 442,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 443,
+"who": "Cephalus",
+"text": "And that which has parts will be as many as the parts are?",
+"kind": "narration"
+},
+{
+"entry": 444,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 445,
+"who": "Cephalus",
+"text": "Then we were wrong in saying just now, that being was distributed into the greatest number of parts. For it is not distributed into parts more than the one, into parts equal to the one; the one is never wanting to being, or being to the one, but being two they are co-equal and co-extensive.",
+"kind": "narration"
+},
+{
+"entry": 446,
+"who": "Cephalus",
+"text": "Certainly that is true.",
+"kind": "narration"
+},
+{
+"entry": 447,
+"who": "Cephalus",
+"text": "The one itself, then, having been broken up into parts by being, is many and infinite?",
+"kind": "narration"
+},
+{
+"entry": 448,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 449,
+"who": "Cephalus",
+"text": "Then not only the one which has being is many, but the one itself distributed by being, must also be many?",
+"kind": "narration"
+},
+{
+"entry": 450,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 451,
+"who": "Cephalus",
+"text": "Further, inasmuch as the parts are parts of a whole, the one, as a whole, will be limited; for are not the parts contained by the whole?",
+"kind": "narration"
+},
+{
+"entry": 452,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 453,
+"who": "Cephalus",
+"text": "And that which contains, is a limit?",
+"kind": "narration"
+},
+{
+"entry": 454,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 455,
+"who": "Cephalus",
+"text": "Then the one if it has being is one and many, whole and parts, having limits and yet unlimited in number?",
+"kind": "narration"
+},
+{
+"entry": 456,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 457,
+"who": "Cephalus",
+"text": "And because having limits, also having extremes?",
+"kind": "narration"
+},
+{
+"entry": 458,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 459,
+"who": "Cephalus",
+"text": "And if a whole, having beginning and middle and end. For can anything be a whole without these three? And if any one of them is wanting to anything, will that any longer be a whole?",
+"kind": "narration"
+},
+{
+"entry": 460,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 461,
+"who": "Cephalus",
+"text": "Then the one, as appears, will have beginning, middle, and end.",
+"kind": "narration"
+},
+{
+"entry": 462,
+"who": "Cephalus",
+"text": "It will.",
+"kind": "narration"
+},
+{
+"entry": 463,
+"who": "Cephalus",
+"text": "But, again, the middle will be equidistant from the extremes; or it would not be in the middle?",
+"kind": "narration"
+},
+{
+"entry": 464,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 465,
+"who": "Cephalus",
+"text": "Then the one will partake of figure, either rectilinear or round, or a union of the two?",
+"kind": "narration"
+},
+{
+"entry": 466,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 467,
+"who": "Cephalus",
+"text": "And if this is the case, it will be both in itself and in another too.",
+"kind": "narration"
+},
+{
+"entry": 468,
+"who": "Cephalus",
+"text": "How?",
+"kind": "narration"
+},
+{
+"entry": 469,
+"who": "Cephalus",
+"text": "Every part is in the whole, and none is outside the whole.",
+"kind": "narration"
+},
+{
+"entry": 470,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 471,
+"who": "Cephalus",
+"text": "And all the parts are contained by the whole?",
+"kind": "narration"
+},
+{
+"entry": 472,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 473,
+"who": "Cephalus",
+"text": "And the one is all its parts, and neither more nor less than all?",
+"kind": "narration"
+},
+{
+"entry": 474,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 475,
+"who": "Cephalus",
+"text": "And the one is the whole?",
+"kind": "narration"
+},
+{
+"entry": 476,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 477,
+"who": "Cephalus",
+"text": "But if all the parts are in the whole, and the one is all of them and the whole, and they are all contained by the whole, the one will be contained by the one; and thus the one will be in itself.",
+"kind": "narration"
+},
+{
+"entry": 478,
+"who": "Cephalus",
+"text": "That is true.",
+"kind": "narration"
+},
+{
+"entry": 479,
+"who": "Cephalus",
+"text": "But then, again, the whole is not in the parts — neither in all the parts, nor in some one of them. For if it is in all, it must be in one; for if there were any one in which it was not, it could not be in all the parts; for the part in which it is wanting is one of all, and if the whole is not in this, how can it be in them all?",
+"kind": "narration"
+},
+{
+"entry": 480,
+"who": "Cephalus",
+"text": "It cannot.",
+"kind": "narration"
+},
+{
+"entry": 481,
+"who": "Cephalus",
+"text": "Nor can the whole be in some of the parts; for if the whole were in some of the parts, the greater would be in the less, which is impossible.",
+"kind": "narration"
+},
+{
+"entry": 482,
+"who": "Cephalus",
+"text": "Yes, impossible.",
+"kind": "narration"
+},
+{
+"entry": 483,
+"who": "Cephalus",
+"text": "But if the whole is neither in one, nor in more than one, nor in all of the parts, it must be in something else, or cease to be anywhere at all?",
+"kind": "narration"
+},
+{
+"entry": 484,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 485,
+"who": "Cephalus",
+"text": "If it were nowhere, it would be nothing; but being a whole, and not being in itself, it must be in another.",
+"kind": "narration"
+},
+{
+"entry": 486,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 487,
+"who": "Cephalus",
+"text": "The one then, regarded as a whole, is in another, but regarded as being all its parts, is in itself; and therefore the one must be itself in itself and also in another.",
+"kind": "narration"
+},
+{
+"entry": 488,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 489,
+"who": "Cephalus",
+"text": "The one then, being of this nature, is of necessity both at rest and in motion?",
+"kind": "narration"
+},
+{
+"entry": 490,
+"who": "Cephalus",
+"text": "How?",
+"kind": "narration"
+},
+{
+"entry": 491,
+"who": "Cephalus",
+"text": "The one is at rest since it is in itself, for being in one, and not passing out of this, it is in the same, which is itself.",
+"kind": "narration"
+},
+{
+"entry": 492,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 493,
+"who": "Cephalus",
+"text": "And that which is ever in the same, must be ever at rest?",
+"kind": "narration"
+},
+{
+"entry": 494,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 495,
+"who": "Cephalus",
+"text": "Well, and must not that, on the contrary, which is ever in other, never be in the same; and if never in the same, never at rest, and if not at rest, in motion?",
+"kind": "narration"
+},
+{
+"entry": 496,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 497,
+"who": "Cephalus",
+"text": "Then the one being always itself in itself and other, must always be both at rest and in motion?",
+"kind": "narration"
+},
+{
+"entry": 498,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 499,
+"who": "Cephalus",
+"text": "And must be the same with itself, and other than itself; and also the same with the others, and other than the others; this follows from its previous affections.",
+"kind": "narration"
+},
+{
+"entry": 500,
+"who": "Cephalus",
+"text": "How so?",
+"kind": "narration"
+},
+{
+"entry": 501,
+"who": "Cephalus",
+"text": "Everything in relation to every other thing, is either the same or other; or if neither the same nor other, then in the relation of a part to a whole, or of a whole to a part.",
+"kind": "narration"
+},
+{
+"entry": 502,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 503,
+"who": "Cephalus",
+"text": "And is the one a part of itself?",
+"kind": "narration"
+},
+{
+"entry": 504,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 505,
+"who": "Cephalus",
+"text": "Since it is not a part in relation to itself it cannot be related to itself as whole to part?",
+"kind": "narration"
+},
+{
+"entry": 506,
+"who": "Cephalus",
+"text": "It cannot.",
+"kind": "narration"
+},
+{
+"entry": 507,
+"who": "Cephalus",
+"text": "But is the one other than one?",
+"kind": "narration"
+},
+{
+"entry": 508,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 509,
+"who": "Cephalus",
+"text": "And therefore not other than itself?",
+"kind": "narration"
+},
+{
+"entry": 510,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 511,
+"who": "Cephalus",
+"text": "If then it be neither other, nor a whole, nor a part in relation to itself, must it not be the same with itself?",
+"kind": "narration"
+},
+{
+"entry": 512,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 513,
+"who": "Cephalus",
+"text": "But then, again, a thing which is in another place from ‘itself,’ if this ‘itself’ remains in the same place with itself, must be other than ‘itself,’ for it will be in another place?",
+"kind": "narration"
+},
+{
+"entry": 514,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 515,
+"who": "Cephalus",
+"text": "Then the one has been shown to be at once in itself and in another?",
+"kind": "narration"
+},
+{
+"entry": 516,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 517,
+"who": "Cephalus",
+"text": "Thus, then, as appears, the one will be other than itself?",
+"kind": "narration"
+},
+{
+"entry": 518,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 519,
+"who": "Cephalus",
+"text": "Well, then, if anything be other than anything, will it not be other than that which is other?",
+"kind": "narration"
+},
+{
+"entry": 520,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 521,
+"who": "Cephalus",
+"text": "And will not all things that are not one, be other than the one, and the one other than the not-one?",
+"kind": "narration"
+},
+{
+"entry": 522,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 523,
+"who": "Cephalus",
+"text": "Then the one will be other than the others?",
+"kind": "narration"
+},
+{
+"entry": 524,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 525,
+"who": "Cephalus",
+"text": "But, consider: — Are not the absolute same, and the absolute other, opposites to one another?",
+"kind": "narration"
+},
+{
+"entry": 526,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 527,
+"who": "Cephalus",
+"text": "Then will the same ever be in the other, or the other in the same?",
+"kind": "narration"
+},
+{
+"entry": 528,
+"who": "Cephalus",
+"text": "They will not.",
+"kind": "narration"
+},
+{
+"entry": 529,
+"who": "Cephalus",
+"text": "If then the other is never in the same, there is nothing in which the other is during any space of time; for during that space of time, however small, the other would be in the same. Is not that true?",
+"kind": "narration"
+},
+{
+"entry": 530,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 531,
+"who": "Cephalus",
+"text": "And since the other is never in the same, it can never be in anything that is.",
+"kind": "narration"
+},
+{
+"entry": 532,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 533,
+"who": "Cephalus",
+"text": "Then the other will never be either in the not-one, or in the one?",
+"kind": "narration"
+},
+{
+"entry": 534,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 535,
+"who": "Cephalus",
+"text": "Then not by reason of otherness is the one other than the not-one, or the not-one other than the one.",
+"kind": "narration"
+},
+{
+"entry": 536,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 537,
+"who": "Cephalus",
+"text": "Nor by reason of themselves will they be other than one another, if not partaking of the other.",
+"kind": "narration"
+},
+{
+"entry": 538,
+"who": "Cephalus",
+"text": "How can they be?",
+"kind": "narration"
+},
+{
+"entry": 539,
+"who": "Cephalus",
+"text": "But if they are not other, either by reason of themselves or of the other, will they not altogether escape being other than one another?",
+"kind": "narration"
+},
+{
+"entry": 540,
+"who": "Cephalus",
+"text": "They will.",
+"kind": "narration"
+},
+{
+"entry": 541,
+"who": "Cephalus",
+"text": "Again, the not-one cannot partake of the one; otherwise it would not have been not-one, but would have been in some way one.",
+"kind": "narration"
+},
+{
+"entry": 542,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 543,
+"who": "Cephalus",
+"text": "Nor can the not-one be number; for having number, it would not have been not-one at all.",
+"kind": "narration"
+},
+{
+"entry": 544,
+"who": "Cephalus",
+"text": "It would not.",
+"kind": "narration"
+},
+{
+"entry": 545,
+"who": "Cephalus",
+"text": "Again, is the not-one part of the one; or rather, would it not in that case partake of the one?",
+"kind": "narration"
+},
+{
+"entry": 546,
+"who": "Cephalus",
+"text": "It would.",
+"kind": "narration"
+},
+{
+"entry": 547,
+"who": "Cephalus",
+"text": "If then, in every point of view, the one and the not-one are distinct, then neither is the one part or whole of the not-one, nor is the not-one part or whole of the one?",
+"kind": "narration"
+},
+{
+"entry": 548,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 549,
+"who": "Cephalus",
+"text": "But we said that things which are neither parts nor wholes of one another, nor other than one another, will be the same with one another: — so we said?",
+"kind": "narration"
+},
+{
+"entry": 550,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 551,
+"who": "Cephalus",
+"text": "Then shall we say that the one, being in this relation to the not-one, is the same with it?",
+"kind": "narration"
+},
+{
+"entry": 552,
+"who": "Cephalus",
+"text": "Let us say so.",
+"kind": "narration"
+},
+{
+"entry": 553,
+"who": "Cephalus",
+"text": "Then it is the same with itself and the others, and also other than itself and the others.",
+"kind": "narration"
+},
+{
+"entry": 554,
+"who": "Cephalus",
+"text": "That appears to be the inference.",
+"kind": "narration"
+},
+{
+"entry": 555,
+"who": "Cephalus",
+"text": "And it will also be like and unlike itself and the others?",
+"kind": "narration"
+},
+{
+"entry": 556,
+"who": "Cephalus",
+"text": "Perhaps.",
+"kind": "narration"
+},
+{
+"entry": 557,
+"who": "Cephalus",
+"text": "Since the one was shown to be other than the others, the others will also be other than the one.",
+"kind": "narration"
+},
+{
+"entry": 558,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 559,
+"who": "Cephalus",
+"text": "And the one is other than the others in the same degree that the others are other than it, and neither more nor less?",
+"kind": "narration"
+},
+{
+"entry": 560,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 561,
+"who": "Cephalus",
+"text": "And if neither more nor less, then in a like degree?",
+"kind": "narration"
+},
+{
+"entry": 562,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 563,
+"who": "Cephalus",
+"text": "In virtue of the affection by which the one is other than others and others in like manner other than it, the one will be affected like the others and the others like the one.",
+"kind": "narration"
+},
+{
+"entry": 564,
+"who": "Cephalus",
+"text": "How do you mean?",
+"kind": "narration"
+},
+{
+"entry": 565,
+"who": "Cephalus",
+"text": "I may take as an illustration the case of names: You give a name to a thing?",
+"kind": "narration"
+},
+{
+"entry": 566,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 567,
+"who": "Cephalus",
+"text": "And you may say the name once or oftener?",
+"kind": "narration"
+},
+{
+"entry": 568,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 569,
+"who": "Cephalus",
+"text": "And when you say it once, you mention that of which it is the name? and when more than once, is it something else which you mention? or must it always be the same thing of which you speak, whether you utter the name once or more than once?",
+"kind": "narration"
+},
+{
+"entry": 570,
+"who": "Cephalus",
+"text": "Of course it is the same.",
+"kind": "narration"
+},
+{
+"entry": 571,
+"who": "Cephalus",
+"text": "And is not ‘other’ a name given to a thing?",
+"kind": "narration"
+},
+{
+"entry": 572,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 573,
+"who": "Cephalus",
+"text": "Whenever, then, you use the word ‘other,’ whether once or oftener, you name that of which it is the name, and to no other do you give the name?",
+"kind": "narration"
+},
+{
+"entry": 574,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 575,
+"who": "Cephalus",
+"text": "Then when we say that the others are other than the one, and the one other than the others, in repeating the word ‘other’ we speak of that nature to which the name is applied, and of no other?",
+"kind": "narration"
+},
+{
+"entry": 576,
+"who": "Cephalus",
+"text": "Quite true.",
+"kind": "narration"
+},
+{
+"entry": 577,
+"who": "Cephalus",
+"text": "Then the one which is other than others, and the other which is other than the one, in that the word ‘other’ is applied to both, will be in the same condition; and that which is in the same condition is like?",
+"kind": "narration"
+},
+{
+"entry": 578,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 579,
+"who": "Cephalus",
+"text": "Then in virtue of the affection by which the one is other than the others, every thing will be like every thing, for every thing is other than every thing.",
+"kind": "narration"
+},
+{
+"entry": 580,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 581,
+"who": "Cephalus",
+"text": "Again, the like is opposed to the unlike?",
+"kind": "narration"
+},
+{
+"entry": 582,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 583,
+"who": "Cephalus",
+"text": "And the other to the same?",
+"kind": "narration"
+},
+{
+"entry": 584,
+"who": "Cephalus",
+"text": "True again.",
+"kind": "narration"
+},
+{
+"entry": 585,
+"who": "Cephalus",
+"text": "And the one was also shown to be the same with the others?",
+"kind": "narration"
+},
+{
+"entry": 586,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 587,
+"who": "Cephalus",
+"text": "And to be the same with the others is the opposite of being other than the others?",
+"kind": "narration"
+},
+{
+"entry": 588,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 589,
+"who": "Cephalus",
+"text": "And in that it was other it was shown to be like?",
+"kind": "narration"
+},
+{
+"entry": 590,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 591,
+"who": "Cephalus",
+"text": "But in that it was the same it will be unlike by virtue of the opposite affection to that which made it like; and this was the affection of otherness.",
+"kind": "narration"
+},
+{
+"entry": 592,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 593,
+"who": "Cephalus",
+"text": "The same then will make it unlike; otherwise it will not be the opposite of the other.",
+"kind": "narration"
+},
+{
+"entry": 594,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 595,
+"who": "Cephalus",
+"text": "Then the one will be both like and unlike the others; like in so far as it is other, and unlike in so far as it is the same.",
+"kind": "narration"
+},
+{
+"entry": 596,
+"who": "Cephalus",
+"text": "Yes, that argument may be used.",
+"kind": "narration"
+},
+{
+"entry": 597,
+"who": "Cephalus",
+"text": "And there is another argument.",
+"kind": "narration"
+},
+{
+"entry": 598,
+"who": "Cephalus",
+"text": "What?",
+"kind": "narration"
+},
+{
+"entry": 599,
+"who": "Cephalus",
+"text": "In so far as it is affected in the same way it is not affected otherwise, and not being affected otherwise is not unlike, and not being unlike, is like; but in so far as it is affected by other it is otherwise, and being otherwise affected is unlike.",
+"kind": "narration"
+},
+{
+"entry": 600,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 601,
+"who": "Cephalus",
+"text": "Then because the one is the same with the others and other than the others, on either of these two grounds, or on both of them, it will be both like and unlike the others?",
+"kind": "narration"
+},
+{
+"entry": 602,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 603,
+"who": "Cephalus",
+"text": "And in the same way as being other than itself and the same with itself, on either of these two grounds and on both of them, it will be like and unlike itself?",
+"kind": "narration"
+},
+{
+"entry": 604,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 605,
+"who": "Cephalus",
+"text": "Again, how far can the one touch or not touch itself and others? — consider.",
+"kind": "narration"
+},
+{
+"entry": 606,
+"who": "Cephalus",
+"text": "I am considering.",
+"kind": "narration"
+},
+{
+"entry": 607,
+"who": "Cephalus",
+"text": "The one was shown to be in itself which was a whole?",
+"kind": "narration"
+},
+{
+"entry": 608,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 609,
+"who": "Cephalus",
+"text": "And also in other things?",
+"kind": "narration"
+},
+{
+"entry": 610,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 611,
+"who": "Cephalus",
+"text": "In so far as it is in other things it would touch other things, but in so far as it is in itself it would be debarred from touching them, and would touch itself only.",
+"kind": "narration"
+},
+{
+"entry": 612,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 613,
+"who": "Cephalus",
+"text": "Then the inference is that it would touch both?",
+"kind": "narration"
+},
+{
+"entry": 614,
+"who": "Cephalus",
+"text": "It would.",
+"kind": "narration"
+},
+{
+"entry": 615,
+"who": "Cephalus",
+"text": "But what do you say to a new point of view? Must not that which is to touch another be next to that which it is to touch, and occupy the place nearest to that in which what it touches is situated?",
+"kind": "narration"
+},
+{
+"entry": 616,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 617,
+"who": "Cephalus",
+"text": "Then the one, if it is to touch itself, ought to be situated next to itself, and occupy the place next to that in which itself is?",
+"kind": "narration"
+},
+{
+"entry": 618,
+"who": "Cephalus",
+"text": "It ought.",
+"kind": "narration"
+},
+{
+"entry": 619,
+"who": "Cephalus",
+"text": "And that would require that the one should be two, and be in two places at once, and this, while it is one, will never happen.",
+"kind": "narration"
+},
+{
+"entry": 620,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 621,
+"who": "Cephalus",
+"text": "Then the one cannot touch itself any more than it can be two?",
+"kind": "narration"
+},
+{
+"entry": 622,
+"who": "Cephalus",
+"text": "It cannot.",
+"kind": "narration"
+},
+{
+"entry": 623,
+"who": "Cephalus",
+"text": "Neither can it touch others.",
+"kind": "narration"
+},
+{
+"entry": 624,
+"who": "Cephalus",
+"text": "Why not?",
+"kind": "narration"
+},
+{
+"entry": 625,
+"who": "Cephalus",
+"text": "The reason is, that whatever is to touch another must be in separation from, and next to, that which it is to touch, and no third thing can be between them.",
+"kind": "narration"
+},
+{
+"entry": 626,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 627,
+"who": "Cephalus",
+"text": "Two things, then, at the least are necessary to make contact possible?",
+"kind": "narration"
+},
+{
+"entry": 628,
+"who": "Cephalus",
+"text": "They are.",
+"kind": "narration"
+},
+{
+"entry": 629,
+"who": "Cephalus",
+"text": "And if to the two a third be added in due order, the number of terms will be three, and the contacts two?",
+"kind": "narration"
+},
+{
+"entry": 630,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 631,
+"who": "Cephalus",
+"text": "And every additional term makes one additional contact, whence it follows that the contacts are one less in number than the terms; the first two terms exceeded the number of contacts by one, and the whole number of terms exceeds the whole number of contacts by one in like manner; and for every one which is afterwards added to the number of terms, one contact is added to the contacts.",
+"kind": "narration"
+},
+{
+"entry": 632,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 633,
+"who": "Cephalus",
+"text": "Whatever is the whole number of things, the contacts will be always one less.",
+"kind": "narration"
+},
+{
+"entry": 634,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 635,
+"who": "Cephalus",
+"text": "But if there be only one, and not two, there will be no contact?",
+"kind": "narration"
+},
+{
+"entry": 636,
+"who": "Cephalus",
+"text": "How can there be?",
+"kind": "narration"
+},
+{
+"entry": 637,
+"who": "Cephalus",
+"text": "And do we not say that the others being other than the one are not one and have no part in the one?",
+"kind": "narration"
+},
+{
+"entry": 638,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 639,
+"who": "Cephalus",
+"text": "Then they have no number, if they have no one in them?",
+"kind": "narration"
+},
+{
+"entry": 640,
+"who": "Cephalus",
+"text": "Of course not.",
+"kind": "narration"
+},
+{
+"entry": 641,
+"who": "Cephalus",
+"text": "Then the others are neither one nor two, nor are they called by the name of any number?",
+"kind": "narration"
+},
+{
+"entry": 642,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 643,
+"who": "Cephalus",
+"text": "One, then, alone is one, and two do not exist?",
+"kind": "narration"
+},
+{
+"entry": 644,
+"who": "Cephalus",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 645,
+"who": "Cephalus",
+"text": "And if there are not two, there is no contact?",
+"kind": "narration"
+},
+{
+"entry": 646,
+"who": "Cephalus",
+"text": "There is not.",
+"kind": "narration"
+},
+{
+"entry": 647,
+"who": "Cephalus",
+"text": "Then neither does the one touch the others, nor the others the one, if there is no contact?",
+"kind": "narration"
+},
+{
+"entry": 648,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 649,
+"who": "Cephalus",
+"text": "For all which reasons the one touches and does not touch itself and the others?",
+"kind": "narration"
+},
+{
+"entry": 650,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 651,
+"who": "Cephalus",
+"text": "Further — is the one equal and unequal to itself and others?",
+"kind": "narration"
+},
+{
+"entry": 652,
+"who": "Cephalus",
+"text": "How do you mean?",
+"kind": "narration"
+},
+{
+"entry": 653,
+"who": "Cephalus",
+"text": "If the one were greater or less than the others, or the others greater or less than the one, they would not be greater or less than each other in virtue of their being the one and the others; but, if in addition to their being what they are they had equality, they would be equal to one another, or if the one had smallness and the others greatness, or the one had greatness and the others smallness — whichever kind had greatness would be greater, and whichever had smallness would be smaller?",
+"kind": "narration"
+},
+{
+"entry": 654,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 655,
+"who": "Cephalus",
+"text": "Then there are two such ideas as greatness and smallness; for if they were not they could not be opposed to each other and be present in that which is.",
+"kind": "narration"
+},
+{
+"entry": 656,
+"who": "Cephalus",
+"text": "How could they?",
+"kind": "narration"
+},
+{
+"entry": 657,
+"who": "Cephalus",
+"text": "If, then, smallness is present in the one it will be present either in the whole or in a part of the whole?",
+"kind": "narration"
+},
+{
+"entry": 658,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 659,
+"who": "Cephalus",
+"text": "Suppose the first; it will be either co-equal and co-extensive with the whole one, or will contain the one?",
+"kind": "narration"
+},
+{
+"entry": 660,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 661,
+"who": "Cephalus",
+"text": "If it be co-extensive with the one it will be co-equal with the one, or if containing the one it will be greater than the one?",
+"kind": "narration"
+},
+{
+"entry": 662,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 663,
+"who": "Cephalus",
+"text": "But can smallness be equal to anything or greater than anything, and have the functions of greatness and equality and not its own functions?",
+"kind": "narration"
+},
+{
+"entry": 664,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 665,
+"who": "Cephalus",
+"text": "Then smallness cannot be in the whole of one, but, if at all, in a part only?",
+"kind": "narration"
+},
+{
+"entry": 666,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 667,
+"who": "Cephalus",
+"text": "And surely not in all of a part, for then the difficulty of the whole will recur; it will be equal to or greater than any part in which it is.",
+"kind": "narration"
+},
+{
+"entry": 668,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 669,
+"who": "Cephalus",
+"text": "Then smallness will not be in anything, whether in a whole or in a part; nor will there be anything small but actual smallness.",
+"kind": "narration"
+},
+{
+"entry": 670,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 671,
+"who": "Cephalus",
+"text": "Neither will greatness be in the one, for if greatness be in anything there will be something greater other and besides greatness itself, namely, that in which greatness is; and this too when the small itself is not there, which the one, if it is great, must exceed; this, however, is impossible, seeing that smallness is wholly absent.",
+"kind": "narration"
+},
+{
+"entry": 672,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 673,
+"who": "Cephalus",
+"text": "But absolute greatness is only greater than absolute smallness, and smallness is only smaller than absolute greatness.",
+"kind": "narration"
+},
+{
+"entry": 674,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 675,
+"who": "Cephalus",
+"text": "Then other things not greater or less than the one, if they have neither greatness nor smallness; nor have greatness or smallness any power of exceeding or being exceeded in relation to the one, but only in relation to one another; nor will the one be greater or less than them or others, if it has neither greatness nor smallness.",
+"kind": "narration"
+},
+{
+"entry": 676,
+"who": "Cephalus",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 677,
+"who": "Cephalus",
+"text": "Then if the one is neither greater nor less than the others, it cannot either exceed or be exceeded by them?",
+"kind": "narration"
+},
+{
+"entry": 678,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 679,
+"who": "Cephalus",
+"text": "And that which neither exceeds nor is exceeded, must be on an equality; and being on an equality, must be equal.",
+"kind": "narration"
+},
+{
+"entry": 680,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 681,
+"who": "Cephalus",
+"text": "And this will be true also of the relation of the one to itself; having neither greatness nor smallness in itself, it will neither exceed nor be exceeded by itself, but will be on an equality with and equal to itself.",
+"kind": "narration"
+},
+{
+"entry": 682,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 683,
+"who": "Cephalus",
+"text": "Then the one will be equal both to itself and the others?",
+"kind": "narration"
+},
+{
+"entry": 684,
+"who": "Cephalus",
+"text": "Clearly so.",
+"kind": "narration"
+},
+{
+"entry": 685,
+"who": "Cephalus",
+"text": "And yet the one, being itself in itself, will also surround and be without itself; and, as containing itself, will be greater than itself; and, as contained in itself, will be less; and will thus be greater and less than itself.",
+"kind": "narration"
+},
+{
+"entry": 686,
+"who": "Cephalus",
+"text": "It will.",
+"kind": "narration"
+},
+{
+"entry": 687,
+"who": "Cephalus",
+"text": "Now there cannot possibly be anything which is not included in the one and the others?",
+"kind": "narration"
+},
+{
+"entry": 688,
+"who": "Cephalus",
+"text": "Of course not.",
+"kind": "narration"
+},
+{
+"entry": 689,
+"who": "Cephalus",
+"text": "But, surely, that which is must always be somewhere?",
+"kind": "narration"
+},
+{
+"entry": 690,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 691,
+"who": "Cephalus",
+"text": "But that which is in anything will be less, and that in which it is will be greater; in no other way can one thing be in another.",
+"kind": "narration"
+},
+{
+"entry": 692,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 693,
+"who": "Cephalus",
+"text": "And since there is nothing other or besides the one and the others, and they must be in something, must they not be in one another, the one in the others and the others in the one, if they are to be anywhere?",
+"kind": "narration"
+},
+{
+"entry": 694,
+"who": "Cephalus",
+"text": "That is clear.",
+"kind": "narration"
+},
+{
+"entry": 695,
+"who": "Cephalus",
+"text": "But inasmuch as the one is in the others, the others will be greater than the one, because they contain the one, which will be less than the others, because it is contained in them; and inasmuch as the others are in the one, the one on the same principle will be greater than the others, and the others less than the one.",
+"kind": "narration"
+},
+{
+"entry": 696,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 697,
+"who": "Cephalus",
+"text": "The one, then, will be equal to and greater and less than itself and the others?",
+"kind": "narration"
+},
+{
+"entry": 698,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 699,
+"who": "Cephalus",
+"text": "And if it be greater and less and equal, it will be of equal and more and less measures or divisions than itself and the others, and if of measures, also of parts?",
+"kind": "narration"
+},
+{
+"entry": 700,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 701,
+"who": "Cephalus",
+"text": "And if of equal and more and less measures or divisions, it will be in number more or less than itself and the others, and likewise equal in number to itself and to the others?",
+"kind": "narration"
+},
+{
+"entry": 702,
+"who": "Cephalus",
+"text": "How is that?",
+"kind": "narration"
+},
+{
+"entry": 703,
+"who": "Cephalus",
+"text": "It will be of more measures than those things which it exceeds, and of as many parts as measures; and so with that to which it is equal, and that than which it is less.",
+"kind": "narration"
+},
+{
+"entry": 704,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 705,
+"who": "Cephalus",
+"text": "And being greater and less than itself, and equal to itself, it will be of equal measures with itself and of more and fewer measures than itself; and if of measures then also of parts?",
+"kind": "narration"
+},
+{
+"entry": 706,
+"who": "Cephalus",
+"text": "It will.",
+"kind": "narration"
+},
+{
+"entry": 707,
+"who": "Cephalus",
+"text": "And being of equal parts with itself, it will be numerically equal to itself; and being of more parts, more, and being of less, less than itself?",
+"kind": "narration"
+},
+{
+"entry": 708,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 709,
+"who": "Cephalus",
+"text": "And the same will hold of its relation to other things; inasmuch as it is greater than them, it will be more in number than them; and inasmuch as it is smaller, it will be less in number; and inasmuch as it is equal in size to other things, it will be equal to them in number.",
+"kind": "narration"
+},
+{
+"entry": 710,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 711,
+"who": "Cephalus",
+"text": "Once more, then, as would appear, the one will be in number both equal to and more and less than both itself and all other things.",
+"kind": "narration"
+},
+{
+"entry": 712,
+"who": "Cephalus",
+"text": "It will.",
+"kind": "narration"
+},
+{
+"entry": 713,
+"who": "Cephalus",
+"text": "Does the one also partake of time? And is it and does it become older and younger than itself and others, and again, neither younger nor older than itself and others, by virtue of participation in time?",
+"kind": "narration"
+},
+{
+"entry": 714,
+"who": "Cephalus",
+"text": "How do you mean?",
+"kind": "narration"
+},
+{
+"entry": 715,
+"who": "Cephalus",
+"text": "If one is, being must be predicated of it?",
+"kind": "narration"
+},
+{
+"entry": 716,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 717,
+"who": "Cephalus",
+"text": "But to be (einai) is only participation of being in present time, and to have been is the participation of being at a past time, and to be about to be is the participation of being at a future time?",
+"kind": "narration"
+},
+{
+"entry": 718,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 719,
+"who": "Cephalus",
+"text": "Then the one, since it partakes of being, partakes of time?",
+"kind": "narration"
+},
+{
+"entry": 720,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 721,
+"who": "Cephalus",
+"text": "And is not time always moving forward?",
+"kind": "narration"
+},
+{
+"entry": 722,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 723,
+"who": "Cephalus",
+"text": "Then the one is always becoming older than itself, since it moves forward in time?",
+"kind": "narration"
+},
+{
+"entry": 724,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 725,
+"who": "Cephalus",
+"text": "And do you remember that the older becomes older than that which becomes younger?",
+"kind": "narration"
+},
+{
+"entry": 726,
+"who": "Cephalus",
+"text": "I remember.",
+"kind": "narration"
+},
+{
+"entry": 727,
+"who": "Cephalus",
+"text": "Then since the one becomes older than itself, it becomes younger at the same time?",
+"kind": "narration"
+},
+{
+"entry": 728,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 729,
+"who": "Cephalus",
+"text": "Thus, then, the one becomes older as well as younger than itself?",
+"kind": "narration"
+},
+{
+"entry": 730,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 731,
+"who": "Cephalus",
+"text": "And it is older (is it not?) when in becoming, it gets to the point of time between ‘was’ and ‘will be,’ which is ‘now’: for surely in going from the past to the future, it cannot skip the present?",
+"kind": "narration"
+},
+{
+"entry": 732,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 733,
+"who": "Cephalus",
+"text": "And when it arrives at the present it stops from becoming older, and no longer becomes, but is older, for if it went on it would never be reached by the present, for it is the nature of that which goes on, to touch both the present and the future, letting go the present and seizing the future, while in process of becoming between them.",
+"kind": "narration"
+},
+{
+"entry": 734,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 735,
+"who": "Cephalus",
+"text": "But that which is becoming cannot skip the present; when it reaches the present it ceases to become, and is then whatever it may happen to be becoming.",
+"kind": "narration"
+},
+{
+"entry": 736,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 737,
+"who": "Cephalus",
+"text": "And so the one, when in becoming older it reaches the present, ceases to become, and is then older.",
+"kind": "narration"
+},
+{
+"entry": 738,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 739,
+"who": "Cephalus",
+"text": "And it is older than that than which it was becoming older, and it was becoming older than itself.",
+"kind": "narration"
+},
+{
+"entry": 740,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 741,
+"who": "Cephalus",
+"text": "And that which is older is older than that which is younger?",
+"kind": "narration"
+},
+{
+"entry": 742,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 743,
+"who": "Cephalus",
+"text": "Then the one is younger than itself, when in becoming older it reaches the present?",
+"kind": "narration"
+},
+{
+"entry": 744,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 745,
+"who": "Cephalus",
+"text": "But the present is always present with the one during all its being; for whenever it is it is always now.",
+"kind": "narration"
+},
+{
+"entry": 746,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 747,
+"who": "Cephalus",
+"text": "Then the one always both is and becomes older and younger than itself?",
+"kind": "narration"
+},
+{
+"entry": 748,
+"who": "Cephalus",
+"text": "Truly.",
+"kind": "narration"
+},
+{
+"entry": 749,
+"who": "Cephalus",
+"text": "And is it or does it become a longer time than itself or an equal time with itself?",
+"kind": "narration"
+},
+{
+"entry": 750,
+"who": "Cephalus",
+"text": "An equal time.",
+"kind": "narration"
+},
+{
+"entry": 751,
+"who": "Cephalus",
+"text": "But if it becomes or is for an equal time with itself, it is of the same age with itself?",
+"kind": "narration"
+},
+{
+"entry": 752,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 753,
+"who": "Cephalus",
+"text": "And that which is of the same age, is neither older nor younger?",
+"kind": "narration"
+},
+{
+"entry": 754,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 755,
+"who": "Cephalus",
+"text": "The one, then, becoming and being the same time with itself, neither is nor becomes older or younger than itself?",
+"kind": "narration"
+},
+{
+"entry": 756,
+"who": "Cephalus",
+"text": "I should say not.",
+"kind": "narration"
+},
+{
+"entry": 757,
+"who": "Cephalus",
+"text": "And what are its relations to other things? Is it or does it become older or younger than they?",
+"kind": "narration"
+},
+{
+"entry": 758,
+"who": "Cephalus",
+"text": "I cannot tell you.",
+"kind": "narration"
+},
+{
+"entry": 759,
+"who": "Cephalus",
+"text": "You can at least tell me that others than the one are more than the one — other would have been one, but the others have multitude, and are more than one?",
+"kind": "narration"
+},
+{
+"entry": 760,
+"who": "Cephalus",
+"text": "They will have multitude.",
+"kind": "narration"
+},
+{
+"entry": 761,
+"who": "Cephalus",
+"text": "And a multitude implies a number larger than one?",
+"kind": "narration"
+},
+{
+"entry": 762,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 763,
+"who": "Cephalus",
+"text": "And shall we say that the lesser or the greater is the first to come or to have come into existence?",
+"kind": "narration"
+},
+{
+"entry": 764,
+"who": "Cephalus",
+"text": "The lesser.",
+"kind": "narration"
+},
+{
+"entry": 765,
+"who": "Cephalus",
+"text": "Then the least is the first? And that is the one?",
+"kind": "narration"
+},
+{
+"entry": 766,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 767,
+"who": "Cephalus",
+"text": "Then the one of all things that have number is the first to come into being; but all other things have also number, being plural and not singular.",
+"kind": "narration"
+},
+{
+"entry": 768,
+"who": "Cephalus",
+"text": "They have.",
+"kind": "narration"
+},
+{
+"entry": 769,
+"who": "Cephalus",
+"text": "And since it came into being first it must be supposed to have come into being prior to the others, and the others later; and the things which came into being later, are younger than that which preceded them? And so the other things will be younger than the one, and the one older than other things?",
+"kind": "narration"
+},
+{
+"entry": 770,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 771,
+"who": "Cephalus",
+"text": "What would you say of another question? Can the one have come into being contrary to its own nature, or is that impossible?",
+"kind": "narration"
+},
+{
+"entry": 772,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 773,
+"who": "Cephalus",
+"text": "And yet, surely, the one was shown to have parts; and if parts, then a beginning, middle and end?",
+"kind": "narration"
+},
+{
+"entry": 774,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 775,
+"who": "Cephalus",
+"text": "And a beginning, both of the one itself and of all other things, comes into being first of all; and after the beginning, the others follow, until you reach the end?",
+"kind": "narration"
+},
+{
+"entry": 776,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 777,
+"who": "Cephalus",
+"text": "And all these others we shall affirm to be parts of the whole and of the one, which, as soon as the end is reached, has become whole and one?",
+"kind": "narration"
+},
+{
+"entry": 778,
+"who": "Cephalus",
+"text": "Yes; that is what we shall say.",
+"kind": "narration"
+},
+{
+"entry": 779,
+"who": "Cephalus",
+"text": "But the end comes last, and the one is of such a nature as to come into being with the last; and, since the one cannot come into being except in accordance with its own nature, its nature will require that it should come into being after the others, simultaneously with the end.",
+"kind": "narration"
+},
+{
+"entry": 780,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 781,
+"who": "Cephalus",
+"text": "Then the one is younger than the others and the others older than the one.",
+"kind": "narration"
+},
+{
+"entry": 782,
+"who": "Cephalus",
+"text": "That also is clear in my judgment.",
+"kind": "narration"
+},
+{
+"entry": 783,
+"who": "Cephalus",
+"text": "Well, and must not a beginning or any other part of the one or of anything, if it be a part and not parts, being a part, be also of necessity one?",
+"kind": "narration"
+},
+{
+"entry": 784,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 785,
+"who": "Cephalus",
+"text": "And will not the one come into being together with each part — together with the first part when that comes into being, and together with the second part and with all the rest, and will not be wanting to any part, which is added to any other part until it has reached the last and become one whole; it will be wanting neither to the middle, nor to the first, nor to the last, nor to any of them, while the process of becoming is going on?",
+"kind": "narration"
+},
+{
+"entry": 786,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 787,
+"who": "Cephalus",
+"text": "Then the one is of the same age with all the others, so that if the one itself does not contradict its own nature, it will be neither prior nor posterior to the others, but simultaneous; and according to this argument the one will be neither older nor younger than the others, nor the others than the one, but according to the previous argument the one will be older and younger than the others and the others than the one.",
+"kind": "narration"
+},
+{
+"entry": 788,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 789,
+"who": "Cephalus",
+"text": "After this manner then the one is and has become. But as to its becoming older and younger than the others, and the others than the one, and neither older nor younger, what shall we say? Shall we say as of being so also of becoming, or otherwise?",
+"kind": "narration"
+},
+{
+"entry": 790,
+"who": "Cephalus",
+"text": "I cannot answer.",
+"kind": "narration"
+},
+{
+"entry": 791,
+"who": "Cephalus",
+"text": "But I can venture to say, that even if one thing were older or younger than another, it could not become older or younger in a greater degree than it was at first; for equals added to unequals, whether to periods of time or to anything else, leave the difference between them the same as at first.",
+"kind": "narration"
+},
+{
+"entry": 792,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 793,
+"who": "Cephalus",
+"text": "Then that which is, cannot become older or younger than that which is, since the difference of age is always the same; the one is and has become older and the other younger; but they are no longer becoming so.",
+"kind": "narration"
+},
+{
+"entry": 794,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 795,
+"who": "Cephalus",
+"text": "And the one which is does not therefore become either older or younger than the others which are.",
+"kind": "narration"
+},
+{
+"entry": 796,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 797,
+"who": "Cephalus",
+"text": "But consider whether they may not become older and younger in another way.",
+"kind": "narration"
+},
+{
+"entry": 798,
+"who": "Cephalus",
+"text": "In what way?",
+"kind": "narration"
+},
+{
+"entry": 799,
+"who": "Cephalus",
+"text": "Just as the one was proven to be older than the others and the others than the one.",
+"kind": "narration"
+},
+{
+"entry": 800,
+"who": "Cephalus",
+"text": "And what of that?",
+"kind": "narration"
+},
+{
+"entry": 801,
+"who": "Cephalus",
+"text": "If the one is older than the others, has come into being a longer time than the others.",
+"kind": "narration"
+},
+{
+"entry": 802,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 803,
+"who": "Cephalus",
+"text": "But consider again; if we add equal time to a greater and a less time, will the greater differ from the less time by an equal or by a smaller portion than before?",
+"kind": "narration"
+},
+{
+"entry": 804,
+"who": "Cephalus",
+"text": "By a smaller portion.",
+"kind": "narration"
+},
+{
+"entry": 805,
+"who": "Cephalus",
+"text": "Then the difference between the age of the one and the age of the others will not be afterwards so great as at first, but if an equal time be added to both of them they will differ less and less in age?",
+"kind": "narration"
+},
+{
+"entry": 806,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 807,
+"who": "Cephalus",
+"text": "And that which differs in age from some other less than formerly, from being older will become younger in relation to that other than which it was older?",
+"kind": "narration"
+},
+{
+"entry": 808,
+"who": "Cephalus",
+"text": "Yes, younger.",
+"kind": "narration"
+},
+{
+"entry": 809,
+"who": "Cephalus",
+"text": "And if the one becomes younger the others aforesaid will become older than they were before, in relation to the one.",
+"kind": "narration"
+},
+{
+"entry": 810,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 811,
+"who": "Cephalus",
+"text": "Then that which had become younger becomes older relatively to that which previously had become and was older; it never really is older, but is always becoming, for the one is always growing on the side of youth and the other on the side of age. And in like manner the older is always in process of becoming younger than the younger; for as they are always going in opposite directions they become in ways the opposite to one another, the younger older than the older, and the older younger than the younger. They cannot, however, have become; for if they had already become they would be and not merely become. But that is impossible; for they are always becoming both older and younger than one another: the one becomes younger than the others because it was seen to be older and prior, and the others become older than the one because they came into being later; and in the same way the others are in the same relation to the one, because they were seen to be older, and prior to the one.",
+"kind": "narration"
+},
+{
+"entry": 812,
+"who": "Cephalus",
+"text": "That is clear.",
+"kind": "narration"
+},
+{
+"entry": 813,
+"who": "Cephalus",
+"text": "Inasmuch then, one thing does not become older or younger than another, in that they always differ from each other by an equal number, the one cannot become older or younger than the others, nor the others than the one; but inasmuch as that which came into being earlier and that which came into being later must continually differ from each other by a different portion — in this point of view the others must become older and younger than the one, and the one than the others.",
+"kind": "narration"
+},
+{
+"entry": 814,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 815,
+"who": "Cephalus",
+"text": "For all these reasons, then, the one is and becomes older and younger than itself and the others, and neither is nor becomes older or younger than itself or the others.",
+"kind": "narration"
+},
+{
+"entry": 816,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 817,
+"who": "Cephalus",
+"text": "But since the one partakes of time, and partakes of becoming older and younger, must it not also partake of the past, the present, and the future?",
+"kind": "narration"
+},
+{
+"entry": 818,
+"who": "Cephalus",
+"text": "Of course it must.",
+"kind": "narration"
+},
+{
+"entry": 819,
+"who": "Cephalus",
+"text": "Then the one was and is and will be, and was becoming and is becoming and will become?",
+"kind": "narration"
+},
+{
+"entry": 820,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 821,
+"who": "Cephalus",
+"text": "And there is and was and will be something which is in relation to it and belongs to it?",
+"kind": "narration"
+},
+{
+"entry": 822,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 823,
+"who": "Cephalus",
+"text": "And since we have at this moment opinion and knowledge and perception of the one, there is opinion and knowledge and perception of it?",
+"kind": "narration"
+},
+{
+"entry": 824,
+"who": "Cephalus",
+"text": "Quite right.",
+"kind": "narration"
+},
+{
+"entry": 825,
+"who": "Cephalus",
+"text": "Then there is name and expression for it, and it is named and expressed, and everything of this kind which appertains to other things appertains to the one.",
+"kind": "narration"
+},
+{
+"entry": 826,
+"who": "Cephalus",
+"text": "Certainly, that is true.",
+"kind": "narration"
+},
+{
+"entry": 827,
+"who": "Cephalus",
+"text": "Yet once more and for the third time, let us consider: If the one is both one and many, as we have described, and is neither one nor many, and participates in time, must it not, in as far as it is one, at times partake of being, and in as far as it is not one, at times not partake of being?",
+"kind": "narration"
+},
+{
+"entry": 828,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 829,
+"who": "Cephalus",
+"text": "But can it partake of being when not partaking of being, or not partake of being when partaking of being?",
+"kind": "narration"
+},
+{
+"entry": 830,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 831,
+"who": "Cephalus",
+"text": "Then the one partakes and does not partake of being at different times, for that is the only way in which it can partake and not partake of the same.",
+"kind": "narration"
+},
+{
+"entry": 832,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 833,
+"who": "Cephalus",
+"text": "And is there not also a time at which it assumes being and relinquishes being — for how can it have and not have the same thing unless it receives and also gives it up at some time?",
+"kind": "narration"
+},
+{
+"entry": 834,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 835,
+"who": "Cephalus",
+"text": "And the assuming of being is what you would call becoming?",
+"kind": "narration"
+},
+{
+"entry": 836,
+"who": "Cephalus",
+"text": "I should.",
+"kind": "narration"
+},
+{
+"entry": 837,
+"who": "Cephalus",
+"text": "And the relinquishing of being you would call destruction?",
+"kind": "narration"
+},
+{
+"entry": 838,
+"who": "Cephalus",
+"text": "I should.",
+"kind": "narration"
+},
+{
+"entry": 839,
+"who": "Cephalus",
+"text": "The one then, as would appear, becomes and is destroyed by taking and giving up being.",
+"kind": "narration"
+},
+{
+"entry": 840,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 841,
+"who": "Cephalus",
+"text": "And being one and many and in process of becoming and being destroyed, when it becomes one it ceases to be many, and when many, it ceases to be one?",
+"kind": "narration"
+},
+{
+"entry": 842,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 843,
+"who": "Cephalus",
+"text": "And as it becomes one and many, must it not inevitably experience separation and aggregation?",
+"kind": "narration"
+},
+{
+"entry": 844,
+"who": "Cephalus",
+"text": "Inevitably.",
+"kind": "narration"
+},
+{
+"entry": 845,
+"who": "Cephalus",
+"text": "And whenever it becomes like and unlike it must be assimilated and dissimilated?",
+"kind": "narration"
+},
+{
+"entry": 846,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 847,
+"who": "Cephalus",
+"text": "And when it becomes greater or less or equal it must grow or diminish or be equalized?",
+"kind": "narration"
+},
+{
+"entry": 848,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 849,
+"who": "Cephalus",
+"text": "And when being in motion it rests, and when being at rest it changes to motion, it can surely be in no time at all?",
+"kind": "narration"
+},
+{
+"entry": 850,
+"who": "Cephalus",
+"text": "How can it?",
+"kind": "narration"
+},
+{
+"entry": 851,
+"who": "Cephalus",
+"text": "But that a thing which is previously at rest should be afterwards in motion, or previously in motion and afterwards at rest, without experiencing change, is impossible.",
+"kind": "narration"
+},
+{
+"entry": 852,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 853,
+"who": "Cephalus",
+"text": "And surely there cannot be a time in which a thing can be at once neither in motion nor at rest?",
+"kind": "narration"
+},
+{
+"entry": 854,
+"who": "Cephalus",
+"text": "There cannot.",
+"kind": "narration"
+},
+{
+"entry": 855,
+"who": "Cephalus",
+"text": "But neither can it change without changing.",
+"kind": "narration"
+},
+{
+"entry": 856,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 857,
+"who": "Cephalus",
+"text": "When then does it change; for it cannot change either when at rest, or when in motion, or when in time?",
+"kind": "narration"
+},
+{
+"entry": 858,
+"who": "Cephalus",
+"text": "It cannot.",
+"kind": "narration"
+},
+{
+"entry": 859,
+"who": "Cephalus",
+"text": "And does this strange thing in which it is at the time of changing really exist?",
+"kind": "narration"
+},
+{
+"entry": 860,
+"who": "Cephalus",
+"text": "What thing?",
+"kind": "narration"
+},
+{
+"entry": 861,
+"who": "Cephalus",
+"text": "The moment. For the moment seems to imply a something out of which change takes place into either of two states; for the change is not from the state of rest as such, nor from the state of motion as such; but there is this curious nature which we call the moment lying between rest and motion, not being in any time; and into this and out of this what is in motion changes into rest, and what is at rest into motion.",
+"kind": "narration"
+},
+{
+"entry": 862,
+"who": "Cephalus",
+"text": "So it appears.",
+"kind": "narration"
+},
+{
+"entry": 863,
+"who": "Cephalus",
+"text": "And the one then, since it is at rest and also in motion, will change to either, for only in this way can it be in both. And in changing it changes in a moment, and when it is changing it will be in no time, and will not then be either in motion or at rest.",
+"kind": "narration"
+},
+{
+"entry": 864,
+"who": "Cephalus",
+"text": "It will not.",
+"kind": "narration"
+},
+{
+"entry": 865,
+"who": "Cephalus",
+"text": "And it will be in the same case in relation to the other changes, when it passes from being into cessation of being, or from not-being into becoming — then it passes between certain states of motion and rest, and neither is nor is not, nor becomes nor is destroyed.",
+"kind": "narration"
+},
+{
+"entry": 866,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 867,
+"who": "Cephalus",
+"text": "And on the same principle, in the passage from one to many and from many to one, the one is neither one nor many, neither separated nor aggregated; and in the passage from like to unlike, and from unlike to like, it is neither like nor unlike, neither in a state of assimilation nor of dissimilation; and in the passage from small to great and equal and back again, it will be neither small nor great, nor equal, nor in a state of increase, or diminution, or equalization.",
+"kind": "narration"
+},
+{
+"entry": 868,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 869,
+"who": "Cephalus",
+"text": "All these, then, are the affections of the one, if the one has being.",
+"kind": "narration"
+},
+{
+"entry": 870,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 871,
+"who": "Cephalus",
+"text": "1.aa. But if one is, what will happen to the others — is not that also to be considered?",
+"kind": "narration"
+},
+{
+"entry": 872,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 873,
+"who": "Cephalus",
+"text": "Let us show then, if one is, what will be the affections of the others than the one.",
+"kind": "narration"
+},
+{
+"entry": 874,
+"who": "Cephalus",
+"text": "Let us do so.",
+"kind": "narration"
+},
+{
+"entry": 875,
+"who": "Cephalus",
+"text": "Inasmuch as there are things other than the one, the others are not the one; for if they were they could not be other than the one.",
+"kind": "narration"
+},
+{
+"entry": 876,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 877,
+"who": "Cephalus",
+"text": "Nor are the others altogether without the one, but in a certain way they participate in the one.",
+"kind": "narration"
+},
+{
+"entry": 878,
+"who": "Cephalus",
+"text": "In what way?",
+"kind": "narration"
+},
+{
+"entry": 879,
+"who": "Cephalus",
+"text": "Because the others are other than the one inasmuch as they have parts; for if they had no parts they would be simply one.",
+"kind": "narration"
+},
+{
+"entry": 880,
+"who": "Cephalus",
+"text": "Right.",
+"kind": "narration"
+},
+{
+"entry": 881,
+"who": "Cephalus",
+"text": "And parts, as we affirm, have relation to a whole?",
+"kind": "narration"
+},
+{
+"entry": 882,
+"who": "Cephalus",
+"text": "So we say.",
+"kind": "narration"
+},
+{
+"entry": 883,
+"who": "Cephalus",
+"text": "And a whole must necessarily be one made up of many; and the parts will be parts of the one, for each of the parts is not a part of many, but of a whole.",
+"kind": "narration"
+},
+{
+"entry": 884,
+"who": "Cephalus",
+"text": "How do you mean?",
+"kind": "narration"
+},
+{
+"entry": 885,
+"who": "Cephalus",
+"text": "If anything were a part of many, being itself one of them, it will surely be a part of itself, which is impossible, and it will be a part of each one of the other parts, if of all; for if not a part of some one, it will be a part of all the others but this one, and thus will not be a part of each one; and if not a part of each, one it will not be a part of any one of the many; and not being a part of any one, it cannot be a part or anything else of all those things of none of which it is anything.",
+"kind": "narration"
+},
+{
+"entry": 886,
+"who": "Cephalus",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 887,
+"who": "Cephalus",
+"text": "Then the part is not a part of the many, nor of all, but is of a certain single form, which we call a whole, being one perfect unity framed out of all — of this the part will be a part.",
+"kind": "narration"
+},
+{
+"entry": 888,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 889,
+"who": "Cephalus",
+"text": "If, then, the others have parts, they will participate in the whole and in the one.",
+"kind": "narration"
+},
+{
+"entry": 890,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 891,
+"who": "Cephalus",
+"text": "Then the others than the one must be one perfect whole, having parts.",
+"kind": "narration"
+},
+{
+"entry": 892,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 893,
+"who": "Cephalus",
+"text": "And the same argument holds of each part, for the part must participate in the one; for if each of the parts is a part, this means, I suppose, that it is one separate from the rest and self-related; otherwise it is not each.",
+"kind": "narration"
+},
+{
+"entry": 894,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 895,
+"who": "Cephalus",
+"text": "But when we speak of the part participating in the one, it must clearly be other than one; for if not, it would not merely have participated, but would have been one; whereas only the itself can be one.",
+"kind": "narration"
+},
+{
+"entry": 896,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 897,
+"who": "Cephalus",
+"text": "Both the whole and the part must participate in the one; for the whole will be one whole, of which the parts will be parts; and each part will be one part of the whole which is the whole of the part.",
+"kind": "narration"
+},
+{
+"entry": 898,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 899,
+"who": "Cephalus",
+"text": "And will not the things which participate in the one, be other than it?",
+"kind": "narration"
+},
+{
+"entry": 900,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 901,
+"who": "Cephalus",
+"text": "And the things which are other than the one will be many; for if the things which are other than the one were neither one nor more than one, they would be nothing.",
+"kind": "narration"
+},
+{
+"entry": 902,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 903,
+"who": "Cephalus",
+"text": "But, seeing that the things which participate in the one as a part, and in the one as a whole, are more than one, must not those very things which participate in the one be infinite in number?",
+"kind": "narration"
+},
+{
+"entry": 904,
+"who": "Cephalus",
+"text": "How so?",
+"kind": "narration"
+},
+{
+"entry": 905,
+"who": "Cephalus",
+"text": "Let us look at the matter thus: — Is it not a fact that in partaking of the one they are not one, and do not partake of the one at the very time when they are partaking of it?",
+"kind": "narration"
+},
+{
+"entry": 906,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 907,
+"who": "Cephalus",
+"text": "They do so then as multitudes in which the one is not present?",
+"kind": "narration"
+},
+{
+"entry": 908,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 909,
+"who": "Cephalus",
+"text": "And if we were to abstract from them in idea the very smallest fraction, must not that least fraction, if it does not partake of the one, be a multitude and not one?",
+"kind": "narration"
+},
+{
+"entry": 910,
+"who": "Cephalus",
+"text": "It must.",
+"kind": "narration"
+},
+{
+"entry": 911,
+"who": "Cephalus",
+"text": "And if we continue to look at the other side of their nature, regarded simply, and in itself, will not they, as far as we see them, be unlimited in number?",
+"kind": "narration"
+},
+{
+"entry": 912,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 913,
+"who": "Cephalus",
+"text": "And yet, when each several part becomes a part, then the parts have a limit in relation to the whole and to each other, and the whole in relation to the parts.",
+"kind": "narration"
+},
+{
+"entry": 914,
+"who": "Cephalus",
+"text": "Just so.",
+"kind": "narration"
+},
+{
+"entry": 915,
+"who": "Cephalus",
+"text": "The result to the others than the one is that the union of themselves and the one appears to create a new element in them which gives to them limitation in relation to one another; whereas in their own nature they have no limit.",
+"kind": "narration"
+},
+{
+"entry": 916,
+"who": "Cephalus",
+"text": "That is clear.",
+"kind": "narration"
+},
+{
+"entry": 917,
+"who": "Cephalus",
+"text": "Then the others than the one, both as whole and parts, are infinite, and also partake of limit.",
+"kind": "narration"
+},
+{
+"entry": 918,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 919,
+"who": "Cephalus",
+"text": "Then they are both like and unlike one another and themselves.",
+"kind": "narration"
+},
+{
+"entry": 920,
+"who": "Cephalus",
+"text": "How is that?",
+"kind": "narration"
+},
+{
+"entry": 921,
+"who": "Cephalus",
+"text": "Inasmuch as they are unlimited in their own nature, they are all affected in the same way.",
+"kind": "narration"
+},
+{
+"entry": 922,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 923,
+"who": "Cephalus",
+"text": "And inasmuch as they all partake of limit, they are all affected in the same way.",
+"kind": "narration"
+},
+{
+"entry": 924,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 925,
+"who": "Cephalus",
+"text": "But inasmuch as their state is both limited and unlimited, they are affected in opposite ways.",
+"kind": "narration"
+},
+{
+"entry": 926,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 927,
+"who": "Cephalus",
+"text": "And opposites are the most unlike of things.",
+"kind": "narration"
+},
+{
+"entry": 928,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 929,
+"who": "Cephalus",
+"text": "Considered, then, in regard to either one of their affections, they will be like themselves and one another; considered in reference to both of them together, most opposed and most unlike.",
+"kind": "narration"
+},
+{
+"entry": 930,
+"who": "Cephalus",
+"text": "That appears to be true.",
+"kind": "narration"
+},
+{
+"entry": 931,
+"who": "Cephalus",
+"text": "Then the others are both like and unlike themselves and one another?",
+"kind": "narration"
+},
+{
+"entry": 932,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 933,
+"who": "Cephalus",
+"text": "And they are the same and also different from one another, and in motion and at rest, and experience every sort of opposite affection, as may be proved without difficulty of them, since they have been shown to have experienced the affections aforesaid?",
+"kind": "narration"
+},
+{
+"entry": 934,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 935,
+"who": "Cephalus",
+"text": "1.bb. Suppose, now, that we leave the further discussion of these matters as evident, and consider again upon the hypothesis that the one is, whether opposite of all this is or is not equally true of the others.",
+"kind": "narration"
+},
+{
+"entry": 936,
+"who": "Cephalus",
+"text": "By all means.",
+"kind": "narration"
+},
+{
+"entry": 937,
+"who": "Cephalus",
+"text": "Then let us begin again, and ask, If one is, what must be the affections of the others?",
+"kind": "narration"
+},
+{
+"entry": 938,
+"who": "Cephalus",
+"text": "Let us ask that question.",
+"kind": "narration"
+},
+{
+"entry": 939,
+"who": "Cephalus",
+"text": "Must not the one be distinct from the others, and the others from the one?",
+"kind": "narration"
+},
+{
+"entry": 940,
+"who": "Cephalus",
+"text": "Why so?",
+"kind": "narration"
+},
+{
+"entry": 941,
+"who": "Cephalus",
+"text": "Why, because there is nothing else beside them which is distinct from both of them; for the expression ‘one and the others’ includes all things.",
+"kind": "narration"
+},
+{
+"entry": 942,
+"who": "Cephalus",
+"text": "Yes, all things.",
+"kind": "narration"
+},
+{
+"entry": 943,
+"who": "Cephalus",
+"text": "Then we cannot suppose that there is anything different from them in which both the one and the others might exist?",
+"kind": "narration"
+},
+{
+"entry": 944,
+"who": "Cephalus",
+"text": "There is nothing.",
+"kind": "narration"
+},
+{
+"entry": 945,
+"who": "Cephalus",
+"text": "Then the one and the others are never in the same?",
+"kind": "narration"
+},
+{
+"entry": 946,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 947,
+"who": "Cephalus",
+"text": "Then they are separated from each other?",
+"kind": "narration"
+},
+{
+"entry": 948,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 949,
+"who": "Cephalus",
+"text": "And we surely cannot say that what is truly one has parts?",
+"kind": "narration"
+},
+{
+"entry": 950,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 951,
+"who": "Cephalus",
+"text": "Then the one will not be in the others as a whole, nor as part, if it be separated from the others, and has no parts?",
+"kind": "narration"
+},
+{
+"entry": 952,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 953,
+"who": "Cephalus",
+"text": "Then there is no way in which the others can partake of the one, if they do not partake either in whole or in part?",
+"kind": "narration"
+},
+{
+"entry": 954,
+"who": "Cephalus",
+"text": "It would seem not.",
+"kind": "narration"
+},
+{
+"entry": 955,
+"who": "Cephalus",
+"text": "Then there is no way in which the others are one, or have in themselves any unity?",
+"kind": "narration"
+},
+{
+"entry": 956,
+"who": "Cephalus",
+"text": "There is not.",
+"kind": "narration"
+},
+{
+"entry": 957,
+"who": "Cephalus",
+"text": "Nor are the others many; for if they were many, each part of them would be a part of the whole; but now the others, not partaking in any way of the one, are neither one nor many, nor whole, nor part.",
+"kind": "narration"
+},
+{
+"entry": 958,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 959,
+"who": "Cephalus",
+"text": "Then the others neither are nor contain two or three, if entirely deprived of the one?",
+"kind": "narration"
+},
+{
+"entry": 960,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 961,
+"who": "Cephalus",
+"text": "Then the others are neither like nor unlike the one, nor is likeness and unlikeness in them; for if they were like and unlike, or had in them likeness and unlikeness, they would have two natures in them opposite to one another.",
+"kind": "narration"
+},
+{
+"entry": 962,
+"who": "Cephalus",
+"text": "That is clear.",
+"kind": "narration"
+},
+{
+"entry": 963,
+"who": "Cephalus",
+"text": "But for that which partakes of nothing to partake of two things was held by us to be impossible?",
+"kind": "narration"
+},
+{
+"entry": 964,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 965,
+"who": "Cephalus",
+"text": "Then the others are neither like nor unlike nor both, for if they were like or unlike they would partake of one of those two natures, which would be one thing, and if they were both they would partake of opposites which would be two things, and this has been shown to be impossible.",
+"kind": "narration"
+},
+{
+"entry": 966,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 967,
+"who": "Cephalus",
+"text": "Therefore they are neither the same, nor other, nor in motion, nor at rest, nor in a state of becoming, nor of being destroyed, nor greater, nor less, nor equal, nor have they experienced anything else of the sort; for, if they are capable of experiencing any such affection, they will participate in one and two and three, and odd and even, and in these, as has been proved, they do not participate, seeing that they are altogether and in every way devoid of the one.",
+"kind": "narration"
+},
+{
+"entry": 968,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 969,
+"who": "Cephalus",
+"text": "Therefore if one is, the one is all things, and also nothing, both in relation to itself and to other things.",
+"kind": "narration"
+},
+{
+"entry": 970,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 971,
+"who": "Cephalus",
+"text": "2.a. Well, and ought we not to consider next what will be the consequence if the one is not?",
+"kind": "narration"
+},
+{
+"entry": 972,
+"who": "Cephalus",
+"text": "Yes; we ought.",
+"kind": "narration"
+},
+{
+"entry": 973,
+"who": "Cephalus",
+"text": "What is the meaning of the hypothesis — If the one is not; is there any difference between this and the hypothesis — If the not one is not?",
+"kind": "narration"
+},
+{
+"entry": 974,
+"who": "Cephalus",
+"text": "There is a difference, certainly.",
+"kind": "narration"
+},
+{
+"entry": 975,
+"who": "Cephalus",
+"text": "Is there a difference only, or rather are not the two expressions — if the one is not, and if the not one is not, entirely opposed?",
+"kind": "narration"
+},
+{
+"entry": 976,
+"who": "Cephalus",
+"text": "They are entirely opposed.",
+"kind": "narration"
+},
+{
+"entry": 977,
+"who": "Cephalus",
+"text": "And suppose a person to say: — If greatness is not, if smallness is not, or anything of that sort, does he not mean, whenever he uses such an expression, that ‘what is not’ is other than other things?",
+"kind": "narration"
+},
+{
+"entry": 978,
+"who": "Cephalus",
+"text": "To be sure.",
+"kind": "narration"
+},
+{
+"entry": 979,
+"who": "Cephalus",
+"text": "And so when he says ‘If one is not’ he clearly means, that what ’is not’ is other than all others; we know what he means — do we not?",
+"kind": "narration"
+},
+{
+"entry": 980,
+"who": "Cephalus",
+"text": "Yes, we do.",
+"kind": "narration"
+},
+{
+"entry": 981,
+"who": "Cephalus",
+"text": "When he says ‘one,’ he says something which is known; and secondly something which is other than all other things; it makes no difference whether he predicate of one being or not-being, for that which is said ‘not to be’ is known to be something all the same, and is distinguished from other things.",
+"kind": "narration"
+},
+{
+"entry": 982,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 983,
+"who": "Cephalus",
+"text": "Then I will begin again, and ask: If one is not, what are the consequences? In the first place, as would appear, there is a knowledge of it, or the very meaning of the words, ‘if one is not,’ would not be known.",
+"kind": "narration"
+},
+{
+"entry": 984,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 985,
+"who": "Cephalus",
+"text": "Secondly, the others differ from it, or it could not be described as different from the others?",
+"kind": "narration"
+},
+{
+"entry": 986,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 987,
+"who": "Cephalus",
+"text": "Difference, then, belongs to it as well as knowledge; for in speaking of the one as different from the others, we do not speak of a difference in the others, but in the one.",
+"kind": "narration"
+},
+{
+"entry": 988,
+"who": "Cephalus",
+"text": "Clearly so.",
+"kind": "narration"
+},
+{
+"entry": 989,
+"who": "Cephalus",
+"text": "Moreover, the one that is not is something and partakes of relation to ‘that,’ and ‘this,’ and ‘these,’ and the like, and is an attribute of ‘this’; for the one, or the others than the one, could not have been spoken of, nor could any attribute or relative of the one that is not have been or been spoken of, nor could it have been said to be anything, if it did not partake of ‘some,’ or of the other relations just now mentioned.",
+"kind": "narration"
+},
+{
+"entry": 990,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 991,
+"who": "Cephalus",
+"text": "Being, then, cannot be ascribed to the one, since it is not; but the one that is not may or rather must participate in many things, if it and nothing else is not; if, however, neither the one nor the one that is not is supposed not to be, and we are speaking of something of a different nature, we can predicate nothing of it. But supposing that the one that is not and nothing else is not, then it must participate in the predicate ‘that,’ and in many others.",
+"kind": "narration"
+},
+{
+"entry": 992,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 993,
+"who": "Cephalus",
+"text": "And it will have unlikeness in relation to the others, for the others being different from the one will be of a different kind.",
+"kind": "narration"
+},
+{
+"entry": 994,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 995,
+"who": "Cephalus",
+"text": "And are not things of a different kind also other in kind?",
+"kind": "narration"
+},
+{
+"entry": 996,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 997,
+"who": "Cephalus",
+"text": "And are not things other in kind unlike?",
+"kind": "narration"
+},
+{
+"entry": 998,
+"who": "Cephalus",
+"text": "They are unlike.",
+"kind": "narration"
+},
+{
+"entry": 999,
+"who": "Cephalus",
+"text": "And if they are unlike the one, that which they are unlike will clearly be unlike them?",
+"kind": "narration"
+},
+{
+"entry": 1000,
+"who": "Cephalus",
+"text": "Clearly so.",
+"kind": "narration"
+},
+{
+"entry": 1001,
+"who": "Cephalus",
+"text": "Then the one will have unlikeness in respect of which the others are unlike it?",
+"kind": "narration"
+},
+{
+"entry": 1002,
+"who": "Cephalus",
+"text": "That would seem to be true.",
+"kind": "narration"
+},
+{
+"entry": 1003,
+"who": "Cephalus",
+"text": "And if unlikeness to other things is attributed to it, it must have likeness to itself.",
+"kind": "narration"
+},
+{
+"entry": 1004,
+"who": "Cephalus",
+"text": "How so?",
+"kind": "narration"
+},
+{
+"entry": 1005,
+"who": "Cephalus",
+"text": "If the one have unlikeness to one, something else must be meant; nor will the hypothesis relate to one; but it will relate to something other than one?",
+"kind": "narration"
+},
+{
+"entry": 1006,
+"who": "Cephalus",
+"text": "Quite so.",
+"kind": "narration"
+},
+{
+"entry": 1007,
+"who": "Cephalus",
+"text": "But that cannot be.",
+"kind": "narration"
+},
+{
+"entry": 1008,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 1009,
+"who": "Cephalus",
+"text": "Then the one must have likeness to itself?",
+"kind": "narration"
+},
+{
+"entry": 1010,
+"who": "Cephalus",
+"text": "It must.",
+"kind": "narration"
+},
+{
+"entry": 1011,
+"who": "Cephalus",
+"text": "Again, it is not equal to the others; for if it were equal, then it would at once be and be like them in virtue of the equality; but if one has no being, then it can neither be nor be like?",
+"kind": "narration"
+},
+{
+"entry": 1012,
+"who": "Cephalus",
+"text": "It cannot.",
+"kind": "narration"
+},
+{
+"entry": 1013,
+"who": "Cephalus",
+"text": "But since it is not equal to the others, neither can the others be equal to it?",
+"kind": "narration"
+},
+{
+"entry": 1014,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 1015,
+"who": "Cephalus",
+"text": "And things that are not equal are unequal?",
+"kind": "narration"
+},
+{
+"entry": 1016,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1017,
+"who": "Cephalus",
+"text": "And they are unequal to an unequal?",
+"kind": "narration"
+},
+{
+"entry": 1018,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 1019,
+"who": "Cephalus",
+"text": "Then the one partakes of inequality, and in respect of this the others are unequal to it?",
+"kind": "narration"
+},
+{
+"entry": 1020,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 1021,
+"who": "Cephalus",
+"text": "And inequality implies greatness and smallness?",
+"kind": "narration"
+},
+{
+"entry": 1022,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 1023,
+"who": "Cephalus",
+"text": "Then the one, if of such a nature, has greatness and smallness?",
+"kind": "narration"
+},
+{
+"entry": 1024,
+"who": "Cephalus",
+"text": "That appears to be true.",
+"kind": "narration"
+},
+{
+"entry": 1025,
+"who": "Cephalus",
+"text": "And greatness and smallness always stand apart?",
+"kind": "narration"
+},
+{
+"entry": 1026,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1027,
+"who": "Cephalus",
+"text": "Then there is always something between them?",
+"kind": "narration"
+},
+{
+"entry": 1028,
+"who": "Cephalus",
+"text": "There is.",
+"kind": "narration"
+},
+{
+"entry": 1029,
+"who": "Cephalus",
+"text": "And can you think of anything else which is between them other than equality?",
+"kind": "narration"
+},
+{
+"entry": 1030,
+"who": "Cephalus",
+"text": "No, it is equality which lies between them.",
+"kind": "narration"
+},
+{
+"entry": 1031,
+"who": "Cephalus",
+"text": "Then that which has greatness and smallness also has equality, which lies between them?",
+"kind": "narration"
+},
+{
+"entry": 1032,
+"who": "Cephalus",
+"text": "That is clear.",
+"kind": "narration"
+},
+{
+"entry": 1033,
+"who": "Cephalus",
+"text": "Then the one, which is not, partakes, as would appear, of greatness and smallness and equality?",
+"kind": "narration"
+},
+{
+"entry": 1034,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 1035,
+"who": "Cephalus",
+"text": "Further, it must surely in a sort partake of being?",
+"kind": "narration"
+},
+{
+"entry": 1036,
+"who": "Cephalus",
+"text": "How so?",
+"kind": "narration"
+},
+{
+"entry": 1037,
+"who": "Cephalus",
+"text": "It must be so, for if not, then we should not speak the truth in saying that the one is not. But if we speak the truth, clearly we must say what is. Am I not right?",
+"kind": "narration"
+},
+{
+"entry": 1038,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 1039,
+"who": "Cephalus",
+"text": "And since we affirm that we speak truly, we must also affirm that we say what is?",
+"kind": "narration"
+},
+{
+"entry": 1040,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 1041,
+"who": "Cephalus",
+"text": "Then, as would appear, the one, when it is not, is; for if it were not to be when it is not, but (Or, ‘to remit something of existence in relation to not-being.’) were to relinquish something of being, so as to become not-being, it would at once be.",
+"kind": "narration"
+},
+{
+"entry": 1042,
+"who": "Cephalus",
+"text": "Quite true.",
+"kind": "narration"
+},
+{
+"entry": 1043,
+"who": "Cephalus",
+"text": "Then the one which is not, if it is to maintain itself, must have the being of not-being as the bond of not-being, just as being must have as a bond the not-being of not-being in order to perfect its own being; for the truest assertion of the being of being and of the not-being of not-being is when being partakes of the being of being, and not of the being of not-being — that is, the perfection of being; and when not-being does not partake of the not-being of not-being but of the being of not-being — that is the perfection of not-being.",
+"kind": "narration"
+},
+{
+"entry": 1044,
+"who": "Cephalus",
+"text": "Most true.",
+"kind": "narration"
+},
+{
+"entry": 1045,
+"who": "Cephalus",
+"text": "Since then what is partakes of not-being, and what is not of being, must not the one also partake of being in order not to be?",
+"kind": "narration"
+},
+{
+"entry": 1046,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 1047,
+"who": "Cephalus",
+"text": "Then the one, if it is not, clearly has being?",
+"kind": "narration"
+},
+{
+"entry": 1048,
+"who": "Cephalus",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 1049,
+"who": "Cephalus",
+"text": "And has not-being also, if it is not?",
+"kind": "narration"
+},
+{
+"entry": 1050,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 1051,
+"who": "Cephalus",
+"text": "But can anything which is in a certain state not be in that state without changing?",
+"kind": "narration"
+},
+{
+"entry": 1052,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 1053,
+"who": "Cephalus",
+"text": "Then everything which is and is not in a certain state, implies change?",
+"kind": "narration"
+},
+{
+"entry": 1054,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 1055,
+"who": "Cephalus",
+"text": "And change is motion — we may say that?",
+"kind": "narration"
+},
+{
+"entry": 1056,
+"who": "Cephalus",
+"text": "Yes, motion.",
+"kind": "narration"
+},
+{
+"entry": 1057,
+"who": "Cephalus",
+"text": "And the one has been proved both to be and not to be?",
+"kind": "narration"
+},
+{
+"entry": 1058,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 1059,
+"who": "Cephalus",
+"text": "And therefore is and is not in the same state?",
+"kind": "narration"
+},
+{
+"entry": 1060,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 1061,
+"who": "Cephalus",
+"text": "Thus the one that is not has been shown to have motion also, because it changes from being to not-being?",
+"kind": "narration"
+},
+{
+"entry": 1062,
+"who": "Cephalus",
+"text": "That appears to be true.",
+"kind": "narration"
+},
+{
+"entry": 1063,
+"who": "Cephalus",
+"text": "But surely if it is nowhere among what is, as is the fact, since it is not, it cannot change from one place to another?",
+"kind": "narration"
+},
+{
+"entry": 1064,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 1065,
+"who": "Cephalus",
+"text": "Then it cannot move by changing place?",
+"kind": "narration"
+},
+{
+"entry": 1066,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 1067,
+"who": "Cephalus",
+"text": "Nor can it turn on the same spot, for it nowhere touches the same, for the same is, and that which is not cannot be reckoned among things that are?",
+"kind": "narration"
+},
+{
+"entry": 1068,
+"who": "Cephalus",
+"text": "It cannot.",
+"kind": "narration"
+},
+{
+"entry": 1069,
+"who": "Cephalus",
+"text": "Then the one, if it is not, cannot turn in that in which it is not?",
+"kind": "narration"
+},
+{
+"entry": 1070,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 1071,
+"who": "Cephalus",
+"text": "Neither can the one, whether it is or is not, be altered into other than itself, for if it altered and became different from itself, then we could not be still speaking of the one, but of something else?",
+"kind": "narration"
+},
+{
+"entry": 1072,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1073,
+"who": "Cephalus",
+"text": "But if the one neither suffers alteration, nor turns round in the same place, nor changes place, can it still be capable of motion?",
+"kind": "narration"
+},
+{
+"entry": 1074,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 1075,
+"who": "Cephalus",
+"text": "Now that which is unmoved must surely be at rest, and that which is at rest must stand still?",
+"kind": "narration"
+},
+{
+"entry": 1076,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 1077,
+"who": "Cephalus",
+"text": "Then the one that is not, stands still, and is also in motion?",
+"kind": "narration"
+},
+{
+"entry": 1078,
+"who": "Cephalus",
+"text": "That seems to be true.",
+"kind": "narration"
+},
+{
+"entry": 1079,
+"who": "Cephalus",
+"text": "But if it be in motion it must necessarily undergo alteration, for anything which is moved, in so far as it is moved, is no longer in the same state, but in another?",
+"kind": "narration"
+},
+{
+"entry": 1080,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 1081,
+"who": "Cephalus",
+"text": "Then the one, being moved, is altered?",
+"kind": "narration"
+},
+{
+"entry": 1082,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 1083,
+"who": "Cephalus",
+"text": "And, further, if not moved in any way, it will not be altered in any way?",
+"kind": "narration"
+},
+{
+"entry": 1084,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 1085,
+"who": "Cephalus",
+"text": "Then, in so far as the one that is not is moved, it is altered, but in so far as it is not moved, it is not altered?",
+"kind": "narration"
+},
+{
+"entry": 1086,
+"who": "Cephalus",
+"text": "Right.",
+"kind": "narration"
+},
+{
+"entry": 1087,
+"who": "Cephalus",
+"text": "Then the one that is not is altered and is not altered?",
+"kind": "narration"
+},
+{
+"entry": 1088,
+"who": "Cephalus",
+"text": "That is clear.",
+"kind": "narration"
+},
+{
+"entry": 1089,
+"who": "Cephalus",
+"text": "And must not that which is altered become other than it previously was, and lose its former state and be destroyed; but that which is not altered can neither come into being nor be destroyed?",
+"kind": "narration"
+},
+{
+"entry": 1090,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 1091,
+"who": "Cephalus",
+"text": "And the one that is not, being altered, becomes and is destroyed; and not being altered, neither becomes nor is destroyed; and so the one that is not becomes and is destroyed, and neither becomes nor is destroyed?",
+"kind": "narration"
+},
+{
+"entry": 1092,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1093,
+"who": "Cephalus",
+"text": "2.b. And now, let us go back once more to the beginning, and see whether these or some other consequences will follow.",
+"kind": "narration"
+},
+{
+"entry": 1094,
+"who": "Cephalus",
+"text": "Let us do as you say.",
+"kind": "narration"
+},
+{
+"entry": 1095,
+"who": "Cephalus",
+"text": "If one is not, we ask what will happen in respect of one? That is the question.",
+"kind": "narration"
+},
+{
+"entry": 1096,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 1097,
+"who": "Cephalus",
+"text": "Do not the words ’is not’ signify absence of being in that to which we apply them?",
+"kind": "narration"
+},
+{
+"entry": 1098,
+"who": "Cephalus",
+"text": "Just so.",
+"kind": "narration"
+},
+{
+"entry": 1099,
+"who": "Cephalus",
+"text": "And when we say that a thing is not, do we mean that it is not in one way but is in another? or do we mean, absolutely, that what is not has in no sort or way or kind participation of being?",
+"kind": "narration"
+},
+{
+"entry": 1100,
+"who": "Cephalus",
+"text": "Quite absolutely.",
+"kind": "narration"
+},
+{
+"entry": 1101,
+"who": "Cephalus",
+"text": "Then, that which is not cannot be, or in any way participate in being?",
+"kind": "narration"
+},
+{
+"entry": 1102,
+"who": "Cephalus",
+"text": "It cannot.",
+"kind": "narration"
+},
+{
+"entry": 1103,
+"who": "Cephalus",
+"text": "And did we not mean by becoming, and being destroyed, the assumption of being and the loss of being?",
+"kind": "narration"
+},
+{
+"entry": 1104,
+"who": "Cephalus",
+"text": "Nothing else.",
+"kind": "narration"
+},
+{
+"entry": 1105,
+"who": "Cephalus",
+"text": "And can that which has no participation in being, either assume or lose being?",
+"kind": "narration"
+},
+{
+"entry": 1106,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 1107,
+"who": "Cephalus",
+"text": "The one then, since it in no way is, cannot have or lose or assume being in any way?",
+"kind": "narration"
+},
+{
+"entry": 1108,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1109,
+"who": "Cephalus",
+"text": "Then the one that is not, since it in no way partakes of being, neither perishes nor becomes?",
+"kind": "narration"
+},
+{
+"entry": 1110,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 1111,
+"who": "Cephalus",
+"text": "Then it is not altered at all; for if it were it would become and be destroyed?",
+"kind": "narration"
+},
+{
+"entry": 1112,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1113,
+"who": "Cephalus",
+"text": "But if it be not altered it cannot be moved?",
+"kind": "narration"
+},
+{
+"entry": 1114,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 1115,
+"who": "Cephalus",
+"text": "Nor can we say that it stands, if it is nowhere; for that which stands must always be in one and the same spot?",
+"kind": "narration"
+},
+{
+"entry": 1116,
+"who": "Cephalus",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 1117,
+"who": "Cephalus",
+"text": "Then we must say that the one which is not never stands still and never moves?",
+"kind": "narration"
+},
+{
+"entry": 1118,
+"who": "Cephalus",
+"text": "Neither.",
+"kind": "narration"
+},
+{
+"entry": 1119,
+"who": "Cephalus",
+"text": "Nor is there any existing thing which can be attributed to it; for if there had been, it would partake of being?",
+"kind": "narration"
+},
+{
+"entry": 1120,
+"who": "Cephalus",
+"text": "That is clear.",
+"kind": "narration"
+},
+{
+"entry": 1121,
+"who": "Cephalus",
+"text": "And therefore neither smallness, nor greatness, nor equality, can be attributed to it?",
+"kind": "narration"
+},
+{
+"entry": 1122,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 1123,
+"who": "Cephalus",
+"text": "Nor yet likeness nor difference, either in relation to itself or to others?",
+"kind": "narration"
+},
+{
+"entry": 1124,
+"who": "Cephalus",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 1125,
+"who": "Cephalus",
+"text": "Well, and if nothing should be attributed to it, can other things be attributed to it?",
+"kind": "narration"
+},
+{
+"entry": 1126,
+"who": "Cephalus",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 1127,
+"who": "Cephalus",
+"text": "And therefore other things can neither be like or unlike, the same, or different in relation to it?",
+"kind": "narration"
+},
+{
+"entry": 1128,
+"who": "Cephalus",
+"text": "They cannot.",
+"kind": "narration"
+},
+{
+"entry": 1129,
+"who": "Cephalus",
+"text": "Nor can what is not, be anything, or be this thing, or be related to or the attribute of this or that or other, or be past, present, or future. Nor can knowledge, or opinion, or perception, or expression, or name, or any other thing that is, have any concern with it?",
+"kind": "narration"
+},
+{
+"entry": 1130,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 1131,
+"who": "Cephalus",
+"text": "Then the one that is not has no condition of any kind?",
+"kind": "narration"
+},
+{
+"entry": 1132,
+"who": "Cephalus",
+"text": "Such appears to be the conclusion.",
+"kind": "narration"
+},
+{
+"entry": 1133,
+"who": "Cephalus",
+"text": "2.aa. Yet once more; if one is not, what becomes of the others? Let us determine that.",
+"kind": "narration"
+},
+{
+"entry": 1134,
+"who": "Cephalus",
+"text": "Yes; let us determine that.",
+"kind": "narration"
+},
+{
+"entry": 1135,
+"who": "Cephalus",
+"text": "The others must surely be; for if they, like the one, were not, we could not be now speaking of them.",
+"kind": "narration"
+},
+{
+"entry": 1136,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1137,
+"who": "Cephalus",
+"text": "But to speak of the others implies difference — the terms ‘other’ and ‘different’ are synonymous?",
+"kind": "narration"
+},
+{
+"entry": 1138,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1139,
+"who": "Cephalus",
+"text": "Other means other than other, and different, different from the different?",
+"kind": "narration"
+},
+{
+"entry": 1140,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 1141,
+"who": "Cephalus",
+"text": "Then, if there are to be others, there is something than which they will be other?",
+"kind": "narration"
+},
+{
+"entry": 1142,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 1143,
+"who": "Cephalus",
+"text": "And what can that be? — for if the one is not, they will not be other than the one.",
+"kind": "narration"
+},
+{
+"entry": 1144,
+"who": "Cephalus",
+"text": "They will not.",
+"kind": "narration"
+},
+{
+"entry": 1145,
+"who": "Cephalus",
+"text": "Then they will be other than each other; for the only remaining alternative is that they are other than nothing.",
+"kind": "narration"
+},
+{
+"entry": 1146,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1147,
+"who": "Cephalus",
+"text": "And they are each other than one another, as being plural and not singular; for if one is not, they cannot be singular, but every particle of them is infinite in number; and even if a person takes that which appears to be the smallest fraction, this, which seemed one, in a moment evanesces into many, as in a dream, and from being the smallest becomes very great, in comparison with the fractions into which it is split up?",
+"kind": "narration"
+},
+{
+"entry": 1148,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 1149,
+"who": "Cephalus",
+"text": "And in such particles the others will be other than one another, if others are, and the one is not?",
+"kind": "narration"
+},
+{
+"entry": 1150,
+"who": "Cephalus",
+"text": "Exactly.",
+"kind": "narration"
+},
+{
+"entry": 1151,
+"who": "Cephalus",
+"text": "And will there not be many particles, each appearing to be one, but not being one, if one is not?",
+"kind": "narration"
+},
+{
+"entry": 1152,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1153,
+"who": "Cephalus",
+"text": "And it would seem that number can be predicated of them if each of them appears to be one, though it is really many?",
+"kind": "narration"
+},
+{
+"entry": 1154,
+"who": "Cephalus",
+"text": "It can.",
+"kind": "narration"
+},
+{
+"entry": 1155,
+"who": "Cephalus",
+"text": "And there will seem to be odd and even among them, which will also have no reality, if one is not?",
+"kind": "narration"
+},
+{
+"entry": 1156,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 1157,
+"who": "Cephalus",
+"text": "And there will appear to be a least among them; and even this will seem large and manifold in comparison with the many small fractions which are contained in it?",
+"kind": "narration"
+},
+{
+"entry": 1158,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 1159,
+"who": "Cephalus",
+"text": "And each particle will be imagined to be equal to the many and little; for it could not have appeared to pass from the greater to the less without having appeared to arrive at the middle; and thus would arise the appearance of equality.",
+"kind": "narration"
+},
+{
+"entry": 1160,
+"who": "Cephalus",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 1161,
+"who": "Cephalus",
+"text": "And having neither beginning, middle, nor end, each separate particle yet appears to have a limit in relation to itself and other.",
+"kind": "narration"
+},
+{
+"entry": 1162,
+"who": "Cephalus",
+"text": "How so?",
+"kind": "narration"
+},
+{
+"entry": 1163,
+"who": "Cephalus",
+"text": "Because, when a person conceives of any one of these as such, prior to the beginning another beginning appears, and there is another end, remaining after the end, and in the middle truer middles within but smaller, because no unity can be conceived of any of them, since the one is not.",
+"kind": "narration"
+},
+{
+"entry": 1164,
+"who": "Cephalus",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 1165,
+"who": "Cephalus",
+"text": "And so all being, whatever we think of, must be broken up into fractions, for a particle will have to be conceived of without unity?",
+"kind": "narration"
+},
+{
+"entry": 1166,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 1167,
+"who": "Cephalus",
+"text": "And such being when seen indistinctly and at a distance, appears to be one; but when seen near and with keen intellect, every single thing appears to be infinite, since it is deprived of the one, which is not?",
+"kind": "narration"
+},
+{
+"entry": 1168,
+"who": "Cephalus",
+"text": "Nothing more certain.",
+"kind": "narration"
+},
+{
+"entry": 1169,
+"who": "Cephalus",
+"text": "Then each of the others must appear to be infinite and finite, and one and many, if others than the one exist and not the one.",
+"kind": "narration"
+},
+{
+"entry": 1170,
+"who": "Cephalus",
+"text": "They must.",
+"kind": "narration"
+},
+{
+"entry": 1171,
+"who": "Cephalus",
+"text": "Then will they not appear to be like and unlike?",
+"kind": "narration"
+},
+{
+"entry": 1172,
+"who": "Cephalus",
+"text": "In what way?",
+"kind": "narration"
+},
+{
+"entry": 1173,
+"who": "Cephalus",
+"text": "Just as in a picture things appear to be all one to a person standing at a distance, and to be in the same state and alike?",
+"kind": "narration"
+},
+{
+"entry": 1174,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1175,
+"who": "Cephalus",
+"text": "But when you approach them, they appear to be many and different; and because of the appearance of the difference, different in kind from, and unlike, themselves?",
+"kind": "narration"
+},
+{
+"entry": 1176,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1177,
+"who": "Cephalus",
+"text": "And so must the particles appear to be like and unlike themselves and each other.",
+"kind": "narration"
+},
+{
+"entry": 1178,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 1179,
+"who": "Cephalus",
+"text": "And must they not be the same and yet different from one another, and in contact with themselves, although they are separated, and having every sort of motion, and every sort of rest, and becoming and being destroyed, and in neither state, and the like, all which things may be easily enumerated, if the one is not and the many are?",
+"kind": "narration"
+},
+{
+"entry": 1180,
+"who": "Cephalus",
+"text": "Most true.",
+"kind": "narration"
+},
+{
+"entry": 1181,
+"who": "Cephalus",
+"text": "2.bb. Once more, let us go back to the beginning, and ask if the one is not, and the others of the one are, what will follow.",
+"kind": "narration"
+},
+{
+"entry": 1182,
+"who": "Cephalus",
+"text": "Let us ask that question.",
+"kind": "narration"
+},
+{
+"entry": 1183,
+"who": "Cephalus",
+"text": "In the first place, the others will not be one?",
+"kind": "narration"
+},
+{
+"entry": 1184,
+"who": "Cephalus",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 1185,
+"who": "Cephalus",
+"text": "Nor will they be many; for if they were many one would be contained in them. But if no one of them is one, all of them are nought, and therefore they will not be many.",
+"kind": "narration"
+},
+{
+"entry": 1186,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1187,
+"who": "Cephalus",
+"text": "If there be no one in the others, the others are neither many nor one.",
+"kind": "narration"
+},
+{
+"entry": 1188,
+"who": "Cephalus",
+"text": "They are not.",
+"kind": "narration"
+},
+{
+"entry": 1189,
+"who": "Cephalus",
+"text": "Nor do they appear either as one or many.",
+"kind": "narration"
+},
+{
+"entry": 1190,
+"who": "Cephalus",
+"text": "Why not?",
+"kind": "narration"
+},
+{
+"entry": 1191,
+"who": "Cephalus",
+"text": "Because the others have no sort or manner or way of communion with any sort of not-being, nor can anything which is not, be connected with any of the others; for that which is not has no parts.",
+"kind": "narration"
+},
+{
+"entry": 1192,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1193,
+"who": "Cephalus",
+"text": "Nor is there an opinion or any appearance of not-being in connexion with the others, nor is not-being ever in any way attributed to the others.",
+"kind": "narration"
+},
+{
+"entry": 1194,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 1195,
+"who": "Cephalus",
+"text": "Then if one is not, there is no conception of any of the others either as one or many; for you cannot conceive the many without the one.",
+"kind": "narration"
+},
+{
+"entry": 1196,
+"who": "Cephalus",
+"text": "You cannot.",
+"kind": "narration"
+},
+{
+"entry": 1197,
+"who": "Cephalus",
+"text": "Then if one is not, the others neither are, nor can be conceived to be either one or many?",
+"kind": "narration"
+},
+{
+"entry": 1198,
+"who": "Cephalus",
+"text": "It would seem not.",
+"kind": "narration"
+},
+{
+"entry": 1199,
+"who": "Cephalus",
+"text": "Nor as like or unlike?",
+"kind": "narration"
+},
+{
+"entry": 1200,
+"who": "Cephalus",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 1201,
+"who": "Cephalus",
+"text": "Nor as the same or different, nor in contact or separation, nor in any of those states which we enumerated as appearing to be; — the others neither are nor appear to be any of these, if one is not?",
+"kind": "narration"
+},
+{
+"entry": 1202,
+"who": "Cephalus",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 1203,
+"who": "Cephalus",
+"text": "Then may we not sum up the argument in a word and say truly: If one is not, then nothing is?",
+"kind": "narration"
+},
+{
+"entry": 1204,
+"who": "Cephalus",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 1205,
+"who": "Cephalus",
+"text": "Let thus much be said; and further let us affirm what seems to be the truth, that, whether one is or is not, one and the others in relation to themselves and one another, all of them, in every way, are and are not, and appear to be and appear not to be.",
+"kind": "narration"
+},
+{
+"entry": 1206,
+"who": "Cephalus",
+"text": "Most true.",
+"kind": "narration"
+}
+]
+}
+]
+}

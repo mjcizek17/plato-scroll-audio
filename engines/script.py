@@ -44,13 +44,15 @@ def char_spec(cast, work, who):
     """The cast entry for a speaker in a work: work-qualified key first (symp:Companion), then the name.
     Unknown speakers fall back to the Narrator (and are listed by tools/check_cast.py)."""
     ch = cast["characters"]
-    c = ch.get(f"{work}:{who}") or ch.get(who)
+    base = re.sub(r"-b$", "", work)   # Jowett's slots (alc1-b) share Horan's work-qualified cast (alc1)
+    c = ch.get(f"{work}:{who}") or ch.get(f"{base}:{who}") or ch.get(who)
     return c or ch["Narrator"]
 
 
 def engine_of(who, cast, work=""):
     ch = cast["characters"]
-    c = ch.get(f"{work}:{who}") or ch.get(who)
+    base = re.sub(r"-b$", "", work)
+    c = ch.get(f"{work}:{who}") or ch.get(f"{base}:{who}") or ch.get(who)
     return (c or ch["Narrator"])["engine"], c is not None
 
 

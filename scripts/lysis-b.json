@@ -1,0 +1,2360 @@
+{
+"key": "lysis-b",
+"title": "Lysis",
+"author": "Plato",
+"translator": "Benjamin Jowett",
+"credit": "translated by Benjamin Jowett",
+"parts": [
+{
+"name": "Lysis",
+"lines": [
+{
+"entry": 0,
+"who": "Socrates",
+"text": "I was going from the Academy straight to the Lyceum, intending to take the outer road, which is close under the wall. When I came to the postern gate of the city, which is by the fountain of Panops, I fell in with Hippothales, the son of Hieronymus, and Ctesippus the Paeanian, and a company of young men who were standing with them. Hippothales, seeing me approach, asked whence I came and whither I was going.",
+"kind": "narration"
+},
+{
+"entry": 1,
+"who": "Socrates",
+"text": "I am going, I replied, from the Academy straight to the Lyceum.",
+"kind": "narration"
+},
+{
+"entry": 2,
+"who": "Socrates",
+"text": "Then come straight to us, he said, and put in here; you may as well.",
+"kind": "narration"
+},
+{
+"entry": 3,
+"who": "Socrates",
+"text": "Who are you, I said; and where am I to come?",
+"kind": "narration"
+},
+{
+"entry": 4,
+"who": "Socrates",
+"text": "He showed me an enclosed space and an open door over against the wall. And there, he said, is the building at which we all meet: and a goodly company we are.",
+"kind": "narration"
+},
+{
+"entry": 5,
+"who": "Socrates",
+"text": "And what is this building, I asked; and what sort of entertainment have you?",
+"kind": "narration"
+},
+{
+"entry": 6,
+"who": "Socrates",
+"text": "The building, he replied, is a newly erected Palaestra; and the entertainment is generally conversation, to which you are welcome.",
+"kind": "narration"
+},
+{
+"entry": 7,
+"who": "Socrates",
+"text": "Thank you, I said; and is there any teacher there?",
+"kind": "narration"
+},
+{
+"entry": 8,
+"who": "Socrates",
+"text": "Yes, he said, your old friend and admirer, Miccus.",
+"kind": "narration"
+},
+{
+"entry": 9,
+"who": "Socrates",
+"text": "Indeed, I replied; he is a very eminent professor.",
+"kind": "narration"
+},
+{
+"entry": 10,
+"who": "Socrates",
+"text": "Are you disposed, he said, to go with me and see them?",
+"kind": "narration"
+},
+{
+"entry": 11,
+"who": "Socrates",
+"text": "Yes, I said; but I should like to know first, what is expected of me, and who is the favourite among you?",
+"kind": "narration"
+},
+{
+"entry": 12,
+"who": "Socrates",
+"text": "Some persons have one favourite, Socrates, and some another, he said.",
+"kind": "narration"
+},
+{
+"entry": 13,
+"who": "Socrates",
+"text": "And who is yours? I asked: tell me that, Hippothales.",
+"kind": "narration"
+},
+{
+"entry": 14,
+"who": "Socrates",
+"text": "At this he blushed; and I said to him, O Hippothales, thou son of Hieronymus! do not say that you are, or that you are not, in love; the confession is too late; for I see that you are not only in love, but are already far gone in your love. Simple and foolish as I am, the Gods have given me the power of understanding affections of this kind.",
+"kind": "narration"
+},
+{
+"entry": 15,
+"who": "Socrates",
+"text": "Whereupon he blushed more and more.",
+"kind": "narration"
+},
+{
+"entry": 16,
+"who": "Socrates",
+"text": "Ctesippus said: I like to see you blushing, Hippothales, and hesitating to tell Socrates the name; when, if he were with you but for a very short time, you would have plagued him to death by talking about nothing else. Indeed, Socrates, he has literally deafened us, and stopped our ears with the praises of Lysis; and if he is a little intoxicated, there is every likelihood that we may have our sleep murdered with a cry of Lysis. His performances in prose are bad enough, but nothing at all in comparison with his verse; and when he drenches us with his poems and other compositions, it is really too bad; and worse still is his manner of singing them to his love; he has a voice which is truly appalling, and we cannot help hearing him: and now having a question put to him by you, behold he is blushing.",
+"kind": "narration"
+},
+{
+"entry": 17,
+"who": "Socrates",
+"text": "Who is Lysis? I said: I suppose that he must be young; for the name does not recall any one to me.",
+"kind": "narration"
+},
+{
+"entry": 18,
+"who": "Socrates",
+"text": "Why, he said, his father being a very well-known man, he retains his patronymic, and is not as yet commonly called by his own name; but, although you do not know his name, I am sure that you must know his face, for that is quite enough to distinguish him.",
+"kind": "narration"
+},
+{
+"entry": 19,
+"who": "Socrates",
+"text": "But tell me whose son he is, I said.",
+"kind": "narration"
+},
+{
+"entry": 20,
+"who": "Socrates",
+"text": "He is the eldest son of Democrates, of the deme of Aexone.",
+"kind": "narration"
+},
+{
+"entry": 21,
+"who": "Socrates",
+"text": "Ah, Hippothales, I said; what a noble and really perfect love you have found! I wish that you would favour me with the exhibition which you have been making to the rest of the company, and then I shall be able to judge whether you know what a lover ought to say about his love, either to the youth himself, or to others.",
+"kind": "narration"
+},
+{
+"entry": 22,
+"who": "Socrates",
+"text": "Nay, Socrates, he said; you surely do not attach any importance to what he is saying.",
+"kind": "narration"
+},
+{
+"entry": 23,
+"who": "Socrates",
+"text": "Do you mean, I said, that you disown the love of the person whom he says that you love?",
+"kind": "narration"
+},
+{
+"entry": 24,
+"who": "Socrates",
+"text": "No; but I deny that I make verses or address compositions to him.",
+"kind": "narration"
+},
+{
+"entry": 25,
+"who": "Socrates",
+"text": "He is not in his right mind, said Ctesippus; he is talking nonsense, and is stark mad.",
+"kind": "narration"
+},
+{
+"entry": 26,
+"who": "Socrates",
+"text": "O Hippothales, I said, if you have ever made any verses or songs in honour of your favourite, I do not want to hear them; but I want to know the purport of them, that I may be able to judge of your mode of approaching your fair one.",
+"kind": "narration"
+},
+{
+"entry": 27,
+"who": "Socrates",
+"text": "Ctesippus will be able to tell you, he said; for if, as he avers, the sound of my words is always dinning in his ears, he must have a very accurate knowledge and recollection of them.",
+"kind": "narration"
+},
+{
+"entry": 28,
+"who": "Socrates",
+"text": "Yes, indeed, said Ctesippus; I know only too well; and very ridiculous the tale is: for although he is a lover, and very devotedly in love, he has nothing particular to talk about to his beloved which a child might not say. Now is not that ridiculous? He can only speak of the wealth of Democrates, which the whole city celebrates, and grandfather Lysis, and the other ancestors of the youth, and their stud of horses, and their victory at the Pythian games, and at the Isthmus, and at Nemea with four horses and single horses — these are the tales which he composes and repeats. And there is greater twaddle still. Only the day before yesterday he made a poem in which he described the entertainment of Heracles, who was a connexion of the family, setting forth how in virtue of this relationship he was hospitably received by an ancestor of Lysis; this ancestor was himself begotten of Zeus by the daughter of the founder of the deme. And these are the sort of old wives’ tales which he sings and recites to us, and we are obliged to listen to him.",
+"kind": "narration"
+},
+{
+"entry": 29,
+"who": "Socrates",
+"text": "When I heard this, I said: O ridiculous Hippothales! how can you be making and singing hymns in honour of yourself before you have won?",
+"kind": "narration"
+},
+{
+"entry": 30,
+"who": "Socrates",
+"text": "But my songs and verses, he said, are not in honour of myself, Socrates.",
+"kind": "narration"
+},
+{
+"entry": 31,
+"who": "Socrates",
+"text": "You think not? I said.",
+"kind": "narration"
+},
+{
+"entry": 32,
+"who": "Socrates",
+"text": "Nay, but what do you think? he replied.",
+"kind": "narration"
+},
+{
+"entry": 33,
+"who": "Socrates",
+"text": "Most assuredly, I said, those songs are all in your own honour; for if you win your beautiful love, your discourses and songs will be a glory to you, and may be truly regarded as hymns of praise composed in honour of you who have conquered and won such a love; but if he slips away from you, the more you have praised him, the more ridiculous you will look at having lost this fairest and best of blessings; and therefore the wise lover does not praise his beloved until he has won him, because he is afraid of accidents. There is also another danger; the fair, when any one praises or magnifies them, are filled with the spirit of pride and vain-glory. Do you not agree with me?",
+"kind": "narration"
+},
+{
+"entry": 34,
+"who": "Socrates",
+"text": "Yes, he said.",
+"kind": "narration"
+},
+{
+"entry": 35,
+"who": "Socrates",
+"text": "And the more vain-glorious they are, the more difficult is the capture of them?",
+"kind": "narration"
+},
+{
+"entry": 36,
+"who": "Socrates",
+"text": "I believe you.",
+"kind": "narration"
+},
+{
+"entry": 37,
+"who": "Socrates",
+"text": "What should you say of a hunter who frightened away his prey, and made the capture of the animals which he is hunting more difficult?",
+"kind": "narration"
+},
+{
+"entry": 38,
+"who": "Socrates",
+"text": "He would be a bad hunter, undoubtedly.",
+"kind": "narration"
+},
+{
+"entry": 39,
+"who": "Socrates",
+"text": "Yes; and if, instead of soothing them, he were to infuriate them with words and songs, that would show a great want of wit: do you not agree.",
+"kind": "narration"
+},
+{
+"entry": 40,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 41,
+"who": "Socrates",
+"text": "And now reflect, Hippothales, and see whether you are not guilty of all these errors in writing poetry. For I can hardly suppose that you will affirm a man to be a good poet who injures himself by his poetry.",
+"kind": "narration"
+},
+{
+"entry": 42,
+"who": "Socrates",
+"text": "Assuredly not, he said; such a poet would be a fool. And this is the reason why I take you into my counsels, Socrates, and I shall be glad of any further advice which you may have to offer. Will you tell me by what words or actions I may become endeared to my love?",
+"kind": "narration"
+},
+{
+"entry": 43,
+"who": "Socrates",
+"text": "That is not easy to determine, I said; but if you will bring your love to me, and will let me talk with him, I may perhaps be able to show you how to converse with him, instead of singing and reciting in the fashion of which you are accused.",
+"kind": "narration"
+},
+{
+"entry": 44,
+"who": "Socrates",
+"text": "There will be no difficulty in bringing him, he replied; if you will only go with Ctesippus into the Palaestra, and sit down and talk, I believe that he will come of his own accord; for he is fond of listening, Socrates. And as this is the festival of the Hermaea, the young men and boys are all together, and there is no separation between them. He will be sure to come: but if he does not, Ctesippus with whom he is familiar, and whose relation Menexenus is his great friend, shall call him.",
+"kind": "narration"
+},
+{
+"entry": 45,
+"who": "Socrates",
+"text": "That will be the way, I said. Thereupon I led Ctesippus into the Palaestra, and the rest followed.",
+"kind": "narration"
+},
+{
+"entry": 46,
+"who": "Socrates",
+"text": "Upon entering we found that the boys had just been sacrificing; and this part of the festival was nearly at an end. They were all in their white array, and games at dice were going on among them. Most of them were in the outer court amusing themselves; but some were in a corner of the Apodyterium playing at odd and even with a number of dice, which they took out of little wicker baskets. There was also a circle of lookers-on; among them was Lysis. He was standing with the other boys and youths, having a crown upon his head, like a fair vision, and not less worthy of praise for his goodness than for his beauty. We left them, and went over to the opposite side of the room, where, finding a quiet place, we sat down; and then we began to talk. This attracted Lysis, who was constantly turning round to look at us — he was evidently wanting to come to us. For a time he hesitated and had not the courage to come alone; but first of all, his friend Menexenus, leaving his play, entered the Palaestra from the court, and when he saw Ctesippus and myself, was going to take a seat by us; and then Lysis, seeing him, followed, and sat down by his side; and the other boys joined. I should observe that Hippothales, when he saw the crowd, got behind them, where he thought that he would be out of sight of Lysis, lest he should anger him; and there he stood and listened.",
+"kind": "narration"
+},
+{
+"entry": 47,
+"who": "Socrates",
+"text": "I turned to Menexenus, and said: Son of Demophon, which of you two youths is the elder?",
+"kind": "narration"
+},
+{
+"entry": 48,
+"who": "Socrates",
+"text": "That is a matter of dispute between us, he said.",
+"kind": "narration"
+},
+{
+"entry": 49,
+"who": "Socrates",
+"text": "And which is the nobler? Is that also a matter of dispute?",
+"kind": "narration"
+},
+{
+"entry": 50,
+"who": "Socrates",
+"text": "Yes, certainly.",
+"kind": "narration"
+},
+{
+"entry": 51,
+"who": "Socrates",
+"text": "And another disputed point is, which is the fairer?",
+"kind": "narration"
+},
+{
+"entry": 52,
+"who": "Socrates",
+"text": "The two boys laughed.",
+"kind": "narration"
+},
+{
+"entry": 53,
+"who": "Socrates",
+"text": "I shall not ask which is the richer of the two, I said; for you are friends, are you not?",
+"kind": "narration"
+},
+{
+"entry": 54,
+"who": "Socrates",
+"text": "Certainly, they replied.",
+"kind": "narration"
+},
+{
+"entry": 55,
+"who": "Socrates",
+"text": "And friends have all things in common, so that one of you can be no richer than the other, if you say truly that you are friends.",
+"kind": "narration"
+},
+{
+"entry": 56,
+"who": "Socrates",
+"text": "They assented. I was about to ask which was the juster of the two, and which was the wiser of the two; but at this moment Menexenus was called away by some one who came and said that the gymnastic-master wanted him. I supposed that he had to offer sacrifice. So he went away, and I asked Lysis some more questions. I dare say, Lysis, I said, that your father and mother love you very much.",
+"kind": "narration"
+},
+{
+"entry": 57,
+"who": "Socrates",
+"text": "Certainly, he said.",
+"kind": "narration"
+},
+{
+"entry": 58,
+"who": "Socrates",
+"text": "And they would wish you to be perfectly happy.",
+"kind": "narration"
+},
+{
+"entry": 59,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 60,
+"who": "Socrates",
+"text": "But do you think that any one is happy who is in the condition of a slave, and who cannot do what he likes?",
+"kind": "narration"
+},
+{
+"entry": 61,
+"who": "Socrates",
+"text": "I should think not indeed, he said.",
+"kind": "narration"
+},
+{
+"entry": 62,
+"who": "Socrates",
+"text": "And if your father and mother love you, and desire that you should be happy, no one can doubt that they are very ready to promote your happiness.",
+"kind": "narration"
+},
+{
+"entry": 63,
+"who": "Socrates",
+"text": "Certainly, he replied.",
+"kind": "narration"
+},
+{
+"entry": 64,
+"who": "Socrates",
+"text": "And do they then permit you to do what you like, and never rebuke you or hinder you from doing what you desire?",
+"kind": "narration"
+},
+{
+"entry": 65,
+"who": "Socrates",
+"text": "Yes, indeed, Socrates; there are a great many things which they hinder me from doing.",
+"kind": "narration"
+},
+{
+"entry": 66,
+"who": "Socrates",
+"text": "What do you mean? I said. Do they want you to be happy, and yet hinder you from doing what you like? for example, if you want to mount one of your father’s chariots, and take the reins at a race, they will not allow you to do so — they will prevent you?",
+"kind": "narration"
+},
+{
+"entry": 67,
+"who": "Socrates",
+"text": "Certainly, he said, they will not allow me to do so.",
+"kind": "narration"
+},
+{
+"entry": 68,
+"who": "Socrates",
+"text": "Whom then will they allow?",
+"kind": "narration"
+},
+{
+"entry": 69,
+"who": "Socrates",
+"text": "There is a charioteer, whom my father pays for driving.",
+"kind": "narration"
+},
+{
+"entry": 70,
+"who": "Socrates",
+"text": "And do they trust a hireling more than you? and may he do what he likes with the horses? and do they pay him for this?",
+"kind": "narration"
+},
+{
+"entry": 71,
+"who": "Socrates",
+"text": "They do.",
+"kind": "narration"
+},
+{
+"entry": 72,
+"who": "Socrates",
+"text": "But I dare say that you may take the whip and guide the mule-cart if you like; — they will permit that?",
+"kind": "narration"
+},
+{
+"entry": 73,
+"who": "Socrates",
+"text": "Permit me! indeed they will not.",
+"kind": "narration"
+},
+{
+"entry": 74,
+"who": "Socrates",
+"text": "Then, I said, may no one use the whip to the mules?",
+"kind": "narration"
+},
+{
+"entry": 75,
+"who": "Socrates",
+"text": "Yes, he said, the muleteer.",
+"kind": "narration"
+},
+{
+"entry": 76,
+"who": "Socrates",
+"text": "And is he a slave or a free man?",
+"kind": "narration"
+},
+{
+"entry": 77,
+"who": "Socrates",
+"text": "A slave, he said.",
+"kind": "narration"
+},
+{
+"entry": 78,
+"who": "Socrates",
+"text": "And do they esteem a slave of more value than you who are their son? And do they entrust their property to him rather than to you? and allow him to do what he likes, when they prohibit you? Answer me now: Are you your own master, or do they not even allow that?",
+"kind": "narration"
+},
+{
+"entry": 79,
+"who": "Socrates",
+"text": "Nay, he said; of course they do not allow it.",
+"kind": "narration"
+},
+{
+"entry": 80,
+"who": "Socrates",
+"text": "Then you have a master?",
+"kind": "narration"
+},
+{
+"entry": 81,
+"who": "Socrates",
+"text": "Yes, my tutor; there he is.",
+"kind": "narration"
+},
+{
+"entry": 82,
+"who": "Socrates",
+"text": "And is he a slave?",
+"kind": "narration"
+},
+{
+"entry": 83,
+"who": "Socrates",
+"text": "To be sure; he is our slave, he replied.",
+"kind": "narration"
+},
+{
+"entry": 84,
+"who": "Socrates",
+"text": "Surely, I said, this is a strange thing, that a free man should be governed by a slave. And what does he do with you?",
+"kind": "narration"
+},
+{
+"entry": 85,
+"who": "Socrates",
+"text": "He takes me to my teachers.",
+"kind": "narration"
+},
+{
+"entry": 86,
+"who": "Socrates",
+"text": "You do not mean to say that your teachers also rule over you?",
+"kind": "narration"
+},
+{
+"entry": 87,
+"who": "Socrates",
+"text": "Of course they do.",
+"kind": "narration"
+},
+{
+"entry": 88,
+"who": "Socrates",
+"text": "Then I must say that your father is pleased to inflict many lords and masters on you. But at any rate when you go home to your mother, she will let you have your own way, and will not interfere with your happiness; her wool, or the piece of cloth which she is weaving, are at your disposal: I am sure that there is nothing to hinder you from touching her wooden spathe, or her comb, or any other of her spinning implements.",
+"kind": "narration"
+},
+{
+"entry": 89,
+"who": "Socrates",
+"text": "Nay, Socrates, he replied, laughing; not only does she hinder me, but I should be beaten if I were to touch one of them.",
+"kind": "narration"
+},
+{
+"entry": 90,
+"who": "Socrates",
+"text": "Well, I said, this is amazing. And did you ever behave ill to your father or your mother?",
+"kind": "narration"
+},
+{
+"entry": 91,
+"who": "Socrates",
+"text": "No, indeed, he replied.",
+"kind": "narration"
+},
+{
+"entry": 92,
+"who": "Socrates",
+"text": "But why then are they so terribly anxious to prevent you from being happy, and doing as you like? — keeping you all day long in subjection to another, and, in a word, doing nothing which you desire; so that you have no good, as would appear, out of their great possessions, which are under the control of anybody rather than of you, and have no use of your own fair person, which is tended and taken care of by another; while you, Lysis, are master of nobody, and can do nothing?",
+"kind": "narration"
+},
+{
+"entry": 93,
+"who": "Socrates",
+"text": "Why, he said, Socrates, the reason is that I am not of age.",
+"kind": "narration"
+},
+{
+"entry": 94,
+"who": "Socrates",
+"text": "I doubt whether that is the real reason, I said; for I should imagine that your father Democrates, and your mother, do permit you to do many things already, and do not wait until you are of age: for example, if they want anything read or written, you, I presume, would be the first person in the house who is summoned by them.",
+"kind": "narration"
+},
+{
+"entry": 95,
+"who": "Socrates",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 96,
+"who": "Socrates",
+"text": "And you would be allowed to write or read the letters in any order which you please, or to take up the lyre and tune the notes, and play with the fingers, or strike with the plectrum, exactly as you please, and neither father nor mother would interfere with you.",
+"kind": "narration"
+},
+{
+"entry": 97,
+"who": "Socrates",
+"text": "That is true, he said.",
+"kind": "narration"
+},
+{
+"entry": 98,
+"who": "Socrates",
+"text": "Then what can be the reason, Lysis, I said, why they allow you to do the one and not the other?",
+"kind": "narration"
+},
+{
+"entry": 99,
+"who": "Socrates",
+"text": "I suppose, he said, because I understand the one, and not the other.",
+"kind": "narration"
+},
+{
+"entry": 100,
+"who": "Socrates",
+"text": "Yes, my dear youth, I said, the reason is not any deficiency of years, but a deficiency of knowledge; and whenever your father thinks that you are wiser than he is, he will instantly commit himself and his possessions to you.",
+"kind": "narration"
+},
+{
+"entry": 101,
+"who": "Socrates",
+"text": "I think so.",
+"kind": "narration"
+},
+{
+"entry": 102,
+"who": "Socrates",
+"text": "Aye, I said; and about your neighbour, too, does not the same rule hold as about your father? If he is satisfied that you know more of housekeeping than he does, will he continue to administer his affairs himself, or will he commit them to you?",
+"kind": "narration"
+},
+{
+"entry": 103,
+"who": "Socrates",
+"text": "I think that he will commit them to me.",
+"kind": "narration"
+},
+{
+"entry": 104,
+"who": "Socrates",
+"text": "Will not the Athenian people, too, entrust their affairs to you when they see that you have wisdom enough to manage them?",
+"kind": "narration"
+},
+{
+"entry": 105,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 106,
+"who": "Socrates",
+"text": "And oh! let me put another case, I said: There is the great king, and he has an eldest son, who is the Prince of Asia; — suppose that you and I go to him and establish to his satisfaction that we are better cooks than his son, will he not entrust to us the prerogative of making soup, and putting in anything that we like while the pot is boiling, rather than to the Prince of Asia, who is his son?",
+"kind": "narration"
+},
+{
+"entry": 107,
+"who": "Socrates",
+"text": "To us, clearly.",
+"kind": "narration"
+},
+{
+"entry": 108,
+"who": "Socrates",
+"text": "And we shall be allowed to throw in salt by handfuls, whereas the son will not be allowed to put in as much as he can take up between his fingers?",
+"kind": "narration"
+},
+{
+"entry": 109,
+"who": "Socrates",
+"text": "Of course.",
+"kind": "narration"
+},
+{
+"entry": 110,
+"who": "Socrates",
+"text": "Or suppose again that the son has bad eyes, will he allow him, or will he not allow him, to touch his own eyes if he thinks that he has no knowledge of medicine?",
+"kind": "narration"
+},
+{
+"entry": 111,
+"who": "Socrates",
+"text": "He will not allow him.",
+"kind": "narration"
+},
+{
+"entry": 112,
+"who": "Socrates",
+"text": "Whereas, if he supposes us to have a knowledge of medicine, he will allow us to do what we like with him — even to open the eyes wide and sprinkle ashes upon them, because he supposes that we know what is best?",
+"kind": "narration"
+},
+{
+"entry": 113,
+"who": "Socrates",
+"text": "That is true.",
+"kind": "narration"
+},
+{
+"entry": 114,
+"who": "Socrates",
+"text": "And everything in which we appear to him to be wiser than himself or his son he will commit to us?",
+"kind": "narration"
+},
+{
+"entry": 115,
+"who": "Socrates",
+"text": "That is very true, Socrates, he replied.",
+"kind": "narration"
+},
+{
+"entry": 116,
+"who": "Socrates",
+"text": "Then now, my dear Lysis, I said, you perceive that in things which we know every one will trust us, — Hellenes and barbarians, men and women, — and we may do as we please about them, and no one will like to interfere with us; we shall be free, and masters of others; and these things will be really ours, for we shall be benefited by them. But in things of which we have no understanding, no one will trust us to do as seems good to us — they will hinder us as far as they can; and not only strangers, but father and mother, and the friend, if there be one, who is dearer still, will also hinder us; and we shall be subject to others; and these things will not be ours, for we shall not be benefited by them. Do you agree?",
+"kind": "narration"
+},
+{
+"entry": 117,
+"who": "Socrates",
+"text": "He assented.",
+"kind": "narration"
+},
+{
+"entry": 118,
+"who": "Socrates",
+"text": "And shall we be friends to others, and will any others love us, in as far as we are useless to them?",
+"kind": "narration"
+},
+{
+"entry": 119,
+"who": "Socrates",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 120,
+"who": "Socrates",
+"text": "Neither can your father or mother love you, nor can anybody love anybody else, in so far as they are useless to them?",
+"kind": "narration"
+},
+{
+"entry": 121,
+"who": "Socrates",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 122,
+"who": "Socrates",
+"text": "And therefore, my boy, if you are wise, all men will be your friends and kindred, for you will be useful and good; but if you are not wise, neither father, nor mother, nor kindred, nor any one else, will be your friends. And in matters of which you have as yet no knowledge, can you have any conceit of knowledge?",
+"kind": "narration"
+},
+{
+"entry": 123,
+"who": "Socrates",
+"text": "That is impossible, he replied.",
+"kind": "narration"
+},
+{
+"entry": 124,
+"who": "Socrates",
+"text": "And you, Lysis, if you require a teacher, have not yet attained to wisdom.",
+"kind": "narration"
+},
+{
+"entry": 125,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 126,
+"who": "Socrates",
+"text": "And therefore you are not conceited, having nothing of which to be conceited.",
+"kind": "narration"
+},
+{
+"entry": 127,
+"who": "Socrates",
+"text": "Indeed, Socrates, I think not.",
+"kind": "narration"
+},
+{
+"entry": 128,
+"who": "Socrates",
+"text": "When I heard him say this, I turned to Hippothales, and was very nearly making a blunder, for I was going to say to him: That is the way, Hippothales, in which you should talk to your beloved, humbling and lowering him, and not as you do, puffing him up and spoiling him. But I saw that he was in great excitement and confusion at what had been said, and I remembered that, although he was in the neighbourhood, he did not want to be seen by Lysis; so upon second thoughts I refrained.",
+"kind": "narration"
+},
+{
+"entry": 129,
+"who": "Socrates",
+"text": "In the meantime Menexenus came back and sat down in his place by Lysis; and Lysis, in a childish and affectionate manner, whispered privately in my ear, so that Menexenus should not hear: Do, Socrates, tell Menexenus what you have been telling me.",
+"kind": "narration"
+},
+{
+"entry": 130,
+"who": "Socrates",
+"text": "Suppose that you tell him yourself, Lysis, I replied; for I am sure that you were attending.",
+"kind": "narration"
+},
+{
+"entry": 131,
+"who": "Socrates",
+"text": "Certainly, he replied.",
+"kind": "narration"
+},
+{
+"entry": 132,
+"who": "Socrates",
+"text": "Try, then, to remember the words, and be as exact as you can in repeating them to him, and if you have forgotten anything, ask me again the next time that you see me.",
+"kind": "narration"
+},
+{
+"entry": 133,
+"who": "Socrates",
+"text": "I will be sure to do so, Socrates; but go on telling him something new, and let me hear, as long as I am allowed to stay.",
+"kind": "narration"
+},
+{
+"entry": 134,
+"who": "Socrates",
+"text": "I certainly cannot refuse, I said, since you ask me; but then, as you know, Menexenus is very pugnacious, and therefore you must come to the rescue if he attempts to upset me.",
+"kind": "narration"
+},
+{
+"entry": 135,
+"who": "Socrates",
+"text": "Yes, indeed, he said; he is very pugnacious, and that is the reason why I want you to argue with him.",
+"kind": "narration"
+},
+{
+"entry": 136,
+"who": "Socrates",
+"text": "That I may make a fool of myself?",
+"kind": "narration"
+},
+{
+"entry": 137,
+"who": "Socrates",
+"text": "No, indeed, he said; but I want you to put him down.",
+"kind": "narration"
+},
+{
+"entry": 138,
+"who": "Socrates",
+"text": "That is no easy matter, I replied; for he is a terrible fellow — a pupil of Ctesippus. And there is Ctesippus himself: do you see him?",
+"kind": "narration"
+},
+{
+"entry": 139,
+"who": "Socrates",
+"text": "Never mind, Socrates, you shall argue with him.",
+"kind": "narration"
+},
+{
+"entry": 140,
+"who": "Socrates",
+"text": "Well, I suppose that I must, I replied.",
+"kind": "narration"
+},
+{
+"entry": 141,
+"who": "Socrates",
+"text": "Hereupon Ctesippus complained that we were talking in secret, and keeping the feast to ourselves.",
+"kind": "narration"
+},
+{
+"entry": 142,
+"who": "Socrates",
+"text": "I shall be happy, I said, to let you have a share. Here is Lysis, who does not understand something that I was saying, and wants me to ask Menexenus, who, as he thinks, is likely to know.",
+"kind": "narration"
+},
+{
+"entry": 143,
+"who": "Socrates",
+"text": "And why do you not ask him? he said.",
+"kind": "narration"
+},
+{
+"entry": 144,
+"who": "Socrates",
+"text": "Very well, I said, I will; and do you, Menexenus, answer. But first I must tell you that I am one who from my childhood upward have set my heart upon a certain thing. All people have their fancies; some desire horses, and others dogs; and some are fond of gold, and others of honour. Now, I have no violent desire of any of these things; but I have a passion for friends; and I would rather have a good friend than the best cock or quail in the world: I would even go further, and say the best horse or dog. Yea, by the dog of Egypt, I should greatly prefer a real friend to all the gold of Darius, or even to Darius himself: I am such a lover of friends as that. And when I see you and Lysis, at your early age, so easily possessed of this treasure, and so soon, he of you, and you of him, I am amazed and delighted, seeing that I myself, although I am now advanced in years, am so far from having made a similar acquisition, that I do not even know in what way a friend is acquired. But I want to ask you a question about this, for you have experience: tell me then, when one loves another, is the lover or the beloved the friend; or may either be the friend?",
+"kind": "narration"
+},
+{
+"entry": 145,
+"who": "Socrates",
+"text": "Either may, I should think, be the friend of either.",
+"kind": "narration"
+},
+{
+"entry": 146,
+"who": "Socrates",
+"text": "Do you mean, I said, that if only one of them loves the other, they are mutual friends?",
+"kind": "narration"
+},
+{
+"entry": 147,
+"who": "Socrates",
+"text": "Yes, he said; that is my meaning.",
+"kind": "narration"
+},
+{
+"entry": 148,
+"who": "Socrates",
+"text": "But what if the lover is not loved in return? which is a very possible case.",
+"kind": "narration"
+},
+{
+"entry": 149,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 150,
+"who": "Socrates",
+"text": "Or is, perhaps, even hated? which is a fancy which sometimes is entertained by lovers respecting their beloved. Nothing can exceed their love; and yet they imagine either that they are not loved in return, or that they are hated. Is not that true?",
+"kind": "narration"
+},
+{
+"entry": 151,
+"who": "Socrates",
+"text": "Yes, he said, quite true.",
+"kind": "narration"
+},
+{
+"entry": 152,
+"who": "Socrates",
+"text": "In that case, the one loves, and the other is loved?",
+"kind": "narration"
+},
+{
+"entry": 153,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 154,
+"who": "Socrates",
+"text": "Then which is the friend of which? Is the lover the friend of the beloved, whether he be loved in return, or hated; or is the beloved the friend; or is there no friendship at all on either side, unless they both love one another?",
+"kind": "narration"
+},
+{
+"entry": 155,
+"who": "Socrates",
+"text": "There would seem to be none at all.",
+"kind": "narration"
+},
+{
+"entry": 156,
+"who": "Socrates",
+"text": "Then this notion is not in accordance with our previous one. We were saying that both were friends, if one only loved; but now, unless they both love, neither is a friend.",
+"kind": "narration"
+},
+{
+"entry": 157,
+"who": "Socrates",
+"text": "That appears to be true.",
+"kind": "narration"
+},
+{
+"entry": 158,
+"who": "Socrates",
+"text": "Then nothing which does not love in return is beloved by a lover?",
+"kind": "narration"
+},
+{
+"entry": 159,
+"who": "Socrates",
+"text": "I think not.",
+"kind": "narration"
+},
+{
+"entry": 160,
+"who": "Socrates",
+"text": "Then they are not lovers of horses, whom the horses do not love in return; nor lovers of quails, nor of dogs, nor of wine, nor of gymnastic exercises, who have no return of love; no, nor of wisdom, unless wisdom loves them in return. Or shall we say that they do love them, although they are not beloved by them; and that the poet was wrong who sings —",
+"kind": "narration"
+},
+{
+"entry": 161,
+"who": "Socrates",
+"text": "‘Happy the man to whom his children are dear, and steeds having single hoofs, and dogs of chase, and the stranger of another land’?",
+"kind": "narration"
+},
+{
+"entry": 162,
+"who": "Socrates",
+"text": "I do not think that he was wrong.",
+"kind": "narration"
+},
+{
+"entry": 163,
+"who": "Socrates",
+"text": "You think that he is right?",
+"kind": "narration"
+},
+{
+"entry": 164,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 165,
+"who": "Socrates",
+"text": "Then, Menexenus, the conclusion is, that what is beloved, whether loving or hating, may be dear to the lover of it: for example, very young children, too young to love, or even hating their father or mother when they are punished by them, are never dearer to them than at the time when they are being hated by them.",
+"kind": "narration"
+},
+{
+"entry": 166,
+"who": "Socrates",
+"text": "I think that what you say is true.",
+"kind": "narration"
+},
+{
+"entry": 167,
+"who": "Socrates",
+"text": "And, if so, not the lover, but the beloved, is the friend or dear one?",
+"kind": "narration"
+},
+{
+"entry": 168,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 169,
+"who": "Socrates",
+"text": "And the hated one, and not the hater, is the enemy?",
+"kind": "narration"
+},
+{
+"entry": 170,
+"who": "Socrates",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 171,
+"who": "Socrates",
+"text": "Then many men are loved by their enemies, and hated by their friends, and are the friends of their enemies, and the enemies of their friends. Yet how absurd, my dear friend, or indeed impossible is this paradox of a man being an enemy to his friend or a friend to his enemy.",
+"kind": "narration"
+},
+{
+"entry": 172,
+"who": "Socrates",
+"text": "I quite agree, Socrates, in what you say.",
+"kind": "narration"
+},
+{
+"entry": 173,
+"who": "Socrates",
+"text": "But if this cannot be, the lover will be the friend of that which is loved?",
+"kind": "narration"
+},
+{
+"entry": 174,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 175,
+"who": "Socrates",
+"text": "And the hater will be the enemy of that which is hated?",
+"kind": "narration"
+},
+{
+"entry": 176,
+"who": "Socrates",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 177,
+"who": "Socrates",
+"text": "Yet we must acknowledge in this, as in the preceding instance, that a man may be the friend of one who is not his friend, or who may be his enemy, when he loves that which does not love him or which even hates him. And he may be the enemy of one who is not his enemy, and is even his friend: for example, when he hates that which does not hate him, or which even loves him.",
+"kind": "narration"
+},
+{
+"entry": 178,
+"who": "Socrates",
+"text": "That appears to be true.",
+"kind": "narration"
+},
+{
+"entry": 179,
+"who": "Socrates",
+"text": "But if the lover is not a friend, nor the beloved a friend, nor both together, what are we to say? Whom are we to call friends to one another? Do any remain?",
+"kind": "narration"
+},
+{
+"entry": 180,
+"who": "Socrates",
+"text": "Indeed, Socrates, I cannot find any.",
+"kind": "narration"
+},
+{
+"entry": 181,
+"who": "Socrates",
+"text": "But, O Menexenus! I said, may we not have been altogether wrong in our conclusions?",
+"kind": "narration"
+},
+{
+"entry": 182,
+"who": "Socrates",
+"text": "I am sure that we have been wrong, Socrates, said Lysis. And he blushed as he spoke, the words seeming to come from his lips involuntarily, because his whole mind was taken up with the argument; there was no mistaking his attentive look while he was listening.",
+"kind": "narration"
+},
+{
+"entry": 183,
+"who": "Socrates",
+"text": "I was pleased at the interest which was shown by Lysis, and I wanted to give Menexenus a rest, so I turned to him and said, I think, Lysis, that what you say is true, and that, if we had been right, we should never have gone so far wrong; let us proceed no further in this direction (for the road seems to be getting troublesome), but take the other path into which we turned, and see what the poets have to say; for they are to us in a manner the fathers and authors of wisdom, and they speak of friends in no light or trivial manner, but God himself, as they say, makes them and draws them to one another; and this they express, if I am not mistaken, in the following words: —",
+"kind": "narration"
+},
+{
+"entry": 184,
+"who": "Socrates",
+"text": "‘God is ever drawing like towards like, and making them acquainted.’",
+"kind": "narration"
+},
+{
+"entry": 185,
+"who": "Socrates",
+"text": "I dare say that you have heard those words.",
+"kind": "narration"
+},
+{
+"entry": 186,
+"who": "Socrates",
+"text": "Yes, he said; I have.",
+"kind": "narration"
+},
+{
+"entry": 187,
+"who": "Socrates",
+"text": "And have you not also met with the treatises of philosophers who say that like must love like? they are the people who argue and write about nature and the universe.",
+"kind": "narration"
+},
+{
+"entry": 188,
+"who": "Socrates",
+"text": "Very true, he replied.",
+"kind": "narration"
+},
+{
+"entry": 189,
+"who": "Socrates",
+"text": "And are they right in saying this?",
+"kind": "narration"
+},
+{
+"entry": 190,
+"who": "Socrates",
+"text": "They may be.",
+"kind": "narration"
+},
+{
+"entry": 191,
+"who": "Socrates",
+"text": "Perhaps, I said, about half, or possibly, altogether, right, if their meaning were rightly apprehended by us. For the more a bad man has to do with a bad man, and the more nearly he is brought into contact with him, the more he will be likely to hate him, for he injures him; and injurer and injured cannot be friends. Is not that true?",
+"kind": "narration"
+},
+{
+"entry": 192,
+"who": "Socrates",
+"text": "Yes, he said.",
+"kind": "narration"
+},
+{
+"entry": 193,
+"who": "Socrates",
+"text": "Then one half of the saying is untrue, if the wicked are like one another?",
+"kind": "narration"
+},
+{
+"entry": 194,
+"who": "Socrates",
+"text": "That is true.",
+"kind": "narration"
+},
+{
+"entry": 195,
+"who": "Socrates",
+"text": "But the real meaning of the saying, as I imagine, is, that the good are like one another, and friends to one another; and that the bad, as is often said of them, are never at unity with one another or with themselves; for they are passionate and restless, and anything which is at variance and enmity with itself is not likely to be in union or harmony with any other thing. Do you not agree?",
+"kind": "narration"
+},
+{
+"entry": 196,
+"who": "Socrates",
+"text": "Yes, I do.",
+"kind": "narration"
+},
+{
+"entry": 197,
+"who": "Socrates",
+"text": "Then, my friend, those who say that the like is friendly to the like mean to intimate, if I rightly apprehend them, that the good only is the friend of the good, and of him only; but that the evil never attains to any real friendship, either with good or evil. Do you agree?",
+"kind": "narration"
+},
+{
+"entry": 198,
+"who": "Socrates",
+"text": "He nodded assent.",
+"kind": "narration"
+},
+{
+"entry": 199,
+"who": "Socrates",
+"text": "Then now we know how to answer the question ‘Who are friends?’ for the argument declares ‘That the good are friends.’",
+"kind": "narration"
+},
+{
+"entry": 200,
+"who": "Socrates",
+"text": "Yes, he said, that is true.",
+"kind": "narration"
+},
+{
+"entry": 201,
+"who": "Socrates",
+"text": "Yes, I replied; and yet I am not quite satisfied with this answer. By heaven, and shall I tell you what I suspect? I will. Assuming that like, inasmuch as he is like, is the friend of like, and useful to him — or rather let me try another way of putting the matter: Can like do any good or harm to like which he could not do to himself, or suffer anything from his like which he would not suffer from himself? And if neither can be of any use to the other, how can they be loved by one another? Can they now?",
+"kind": "narration"
+},
+{
+"entry": 202,
+"who": "Socrates",
+"text": "They cannot.",
+"kind": "narration"
+},
+{
+"entry": 203,
+"who": "Socrates",
+"text": "And can he who is not loved be a friend?",
+"kind": "narration"
+},
+{
+"entry": 204,
+"who": "Socrates",
+"text": "Certainly not.",
+"kind": "narration"
+},
+{
+"entry": 205,
+"who": "Socrates",
+"text": "But say that the like is not the friend of the like in so far as he is like; still the good may be the friend of the good in so far as he is good?",
+"kind": "narration"
+},
+{
+"entry": 206,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 207,
+"who": "Socrates",
+"text": "But then again, will not the good, in so far as he is good, be sufficient for himself? Certainly he will. And he who is sufficient wants nothing — that is implied in the word sufficient.",
+"kind": "narration"
+},
+{
+"entry": 208,
+"who": "Socrates",
+"text": "Of course not.",
+"kind": "narration"
+},
+{
+"entry": 209,
+"who": "Socrates",
+"text": "And he who wants nothing will desire nothing?",
+"kind": "narration"
+},
+{
+"entry": 210,
+"who": "Socrates",
+"text": "He will not.",
+"kind": "narration"
+},
+{
+"entry": 211,
+"who": "Socrates",
+"text": "Neither can he love that which he does not desire?",
+"kind": "narration"
+},
+{
+"entry": 212,
+"who": "Socrates",
+"text": "He cannot.",
+"kind": "narration"
+},
+{
+"entry": 213,
+"who": "Socrates",
+"text": "And he who loves not is not a lover or friend?",
+"kind": "narration"
+},
+{
+"entry": 214,
+"who": "Socrates",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 215,
+"who": "Socrates",
+"text": "What place then is there for friendship, if, when absent, good men have no need of one another (for even when alone they are sufficient for themselves), and when present have no use of one another? How can such persons ever be induced to value one another?",
+"kind": "narration"
+},
+{
+"entry": 216,
+"who": "Socrates",
+"text": "They cannot.",
+"kind": "narration"
+},
+{
+"entry": 217,
+"who": "Socrates",
+"text": "And friends they cannot be, unless they value one another?",
+"kind": "narration"
+},
+{
+"entry": 218,
+"who": "Socrates",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 219,
+"who": "Socrates",
+"text": "But see now, Lysis, whether we are not being deceived in all this — are we not indeed entirely wrong?",
+"kind": "narration"
+},
+{
+"entry": 220,
+"who": "Socrates",
+"text": "How so? he replied.",
+"kind": "narration"
+},
+{
+"entry": 221,
+"who": "Socrates",
+"text": "Have I not heard some one say, as I just now recollect, that the like is the greatest enemy of the like, the good of the good? — Yes, and he quoted the authority of Hesiod, who says:",
+"kind": "narration"
+},
+{
+"entry": 222,
+"who": "Socrates",
+"text": "‘Potter quarrels with potter, bard with bard, Beggar with beggar;’",
+"kind": "narration"
+},
+{
+"entry": 223,
+"who": "Socrates",
+"text": "and of all other things he affirmed, in like manner, ‘That of necessity the most like are most full of envy, strife, and hatred of one another, and the most unlike, of friendship. For the poor man is compelled to be the friend of the rich, and the weak requires the aid of the strong, and the sick man of the physician; and every one who is ignorant, has to love and court him who knows.’ And indeed he went on to say in grandiloquent language, that the idea of friendship existing between similars is not the truth, but the very reverse of the truth, and that the most opposed are the most friendly; for that everything desires not like but that which is most unlike: for example, the dry desires the moist, the cold the hot, the bitter the sweet, the sharp the blunt, the void the full, the full the void, and so of all other things; for the opposite is the food of the opposite, whereas like receives nothing from like. And I thought that he who said this was a charming man, and that he spoke well. What do the rest of you say?",
+"kind": "narration"
+},
+{
+"entry": 224,
+"who": "Socrates",
+"text": "I should say, at first hearing, that he is right, said Menexenus.",
+"kind": "narration"
+},
+{
+"entry": 225,
+"who": "Socrates",
+"text": "Then we are to say that the greatest friendship is of opposites?",
+"kind": "narration"
+},
+{
+"entry": 226,
+"who": "Socrates",
+"text": "Exactly.",
+"kind": "narration"
+},
+{
+"entry": 227,
+"who": "Socrates",
+"text": "Yes, Menexenus; but will not that be a monstrous answer? and will not the all-wise eristics be down upon us in triumph, and ask, fairly enough, whether love is not the very opposite of hate; and what answer shall we make to them — must we not admit that they speak the truth?",
+"kind": "narration"
+},
+{
+"entry": 228,
+"who": "Socrates",
+"text": "We must.",
+"kind": "narration"
+},
+{
+"entry": 229,
+"who": "Socrates",
+"text": "They will then proceed to ask whether the enemy is the friend of the friend, or the friend the friend of the enemy?",
+"kind": "narration"
+},
+{
+"entry": 230,
+"who": "Socrates",
+"text": "Neither, he replied.",
+"kind": "narration"
+},
+{
+"entry": 231,
+"who": "Socrates",
+"text": "Well, but is a just man the friend of the unjust, or the temperate of the intemperate, or the good of the bad?",
+"kind": "narration"
+},
+{
+"entry": 232,
+"who": "Socrates",
+"text": "I do not see how that is possible.",
+"kind": "narration"
+},
+{
+"entry": 233,
+"who": "Socrates",
+"text": "And yet, I said, if friendship goes by contraries, the contraries must be friends.",
+"kind": "narration"
+},
+{
+"entry": 234,
+"who": "Socrates",
+"text": "They must.",
+"kind": "narration"
+},
+{
+"entry": 235,
+"who": "Socrates",
+"text": "Then neither like and like nor unlike and unlike are friends.",
+"kind": "narration"
+},
+{
+"entry": 236,
+"who": "Socrates",
+"text": "I suppose not.",
+"kind": "narration"
+},
+{
+"entry": 237,
+"who": "Socrates",
+"text": "And yet there is a further consideration: may not all these notions of friendship be erroneous? but may not that which is neither good nor evil still in some cases be the friend of the good?",
+"kind": "narration"
+},
+{
+"entry": 238,
+"who": "Socrates",
+"text": "How do you mean? he said.",
+"kind": "narration"
+},
+{
+"entry": 239,
+"who": "Socrates",
+"text": "Why really, I said, the truth is that I do not know; but my head is dizzy with thinking of the argument, and therefore I hazard the conjecture, that ‘the beautiful is the friend,’ as the old proverb says. Beauty is certainly a soft, smooth, slippery thing, and therefore of a nature which easily slips in and permeates our souls. For I affirm that the good is the beautiful. You will agree to that?",
+"kind": "narration"
+},
+{
+"entry": 240,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 241,
+"who": "Socrates",
+"text": "This I say from a sort of notion that what is neither good nor evil is the friend of the beautiful and the good, and I will tell you why I am inclined to think so: I assume that there are three principles — the good, the bad, and that which is neither good nor bad. You would agree — would you not?",
+"kind": "narration"
+},
+{
+"entry": 242,
+"who": "Socrates",
+"text": "I agree.",
+"kind": "narration"
+},
+{
+"entry": 243,
+"who": "Socrates",
+"text": "And neither is the good the friend of the good, nor the evil of the evil, nor the good of the evil; — these alternatives are excluded by the previous argument; and therefore, if there be such a thing as friendship or love at all, we must infer that what is neither good nor evil must be the friend, either of the good, or of that which is neither good nor evil, for nothing can be the friend of the bad.",
+"kind": "narration"
+},
+{
+"entry": 244,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 245,
+"who": "Socrates",
+"text": "But neither can like be the friend of like, as we were just now saying.",
+"kind": "narration"
+},
+{
+"entry": 246,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 247,
+"who": "Socrates",
+"text": "And if so, that which is neither good nor evil can have no friend which is neither good nor evil.",
+"kind": "narration"
+},
+{
+"entry": 248,
+"who": "Socrates",
+"text": "Clearly not.",
+"kind": "narration"
+},
+{
+"entry": 249,
+"who": "Socrates",
+"text": "Then the good alone is the friend of that only which is neither good nor evil.",
+"kind": "narration"
+},
+{
+"entry": 250,
+"who": "Socrates",
+"text": "That may be assumed to be certain.",
+"kind": "narration"
+},
+{
+"entry": 251,
+"who": "Socrates",
+"text": "And does not this seem to put us in the right way? Just remark, that the body which is in health requires neither medical nor any other aid, but is well enough; and the healthy man has no love of the physician, because he is in health.",
+"kind": "narration"
+},
+{
+"entry": 252,
+"who": "Socrates",
+"text": "He has none.",
+"kind": "narration"
+},
+{
+"entry": 253,
+"who": "Socrates",
+"text": "But the sick loves him, because he is sick?",
+"kind": "narration"
+},
+{
+"entry": 254,
+"who": "Socrates",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 255,
+"who": "Socrates",
+"text": "And sickness is an evil, and the art of medicine a good and useful thing?",
+"kind": "narration"
+},
+{
+"entry": 256,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 257,
+"who": "Socrates",
+"text": "But the human body, regarded as a body, is neither good nor evil?",
+"kind": "narration"
+},
+{
+"entry": 258,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 259,
+"who": "Socrates",
+"text": "And the body is compelled by reason of disease to court and make friends of the art of medicine?",
+"kind": "narration"
+},
+{
+"entry": 260,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 261,
+"who": "Socrates",
+"text": "Then that which is neither good nor evil becomes the friend of good, by reason of the presence of evil?",
+"kind": "narration"
+},
+{
+"entry": 262,
+"who": "Socrates",
+"text": "So we may infer.",
+"kind": "narration"
+},
+{
+"entry": 263,
+"who": "Socrates",
+"text": "And clearly this must have happened before that which was neither good nor evil had become altogether corrupted with the element of evil — if itself had become evil it would not still desire and love the good; for, as we were saying, the evil cannot be the friend of the good.",
+"kind": "narration"
+},
+{
+"entry": 264,
+"who": "Socrates",
+"text": "Impossible.",
+"kind": "narration"
+},
+{
+"entry": 265,
+"who": "Socrates",
+"text": "Further, I must observe that some substances are assimilated when others are present with them; and there are some which are not assimilated: take, for example, the case of an ointment or colour which is put on another substance.",
+"kind": "narration"
+},
+{
+"entry": 266,
+"who": "Socrates",
+"text": "Very good.",
+"kind": "narration"
+},
+{
+"entry": 267,
+"who": "Socrates",
+"text": "In such a case, is the substance which is anointed the same as the colour or ointment?",
+"kind": "narration"
+},
+{
+"entry": 268,
+"who": "Socrates",
+"text": "What do you mean? he said.",
+"kind": "narration"
+},
+{
+"entry": 269,
+"who": "Socrates",
+"text": "This is what I mean: Suppose that I were to cover your auburn locks with white lead, would they be really white, or would they only appear to be white?",
+"kind": "narration"
+},
+{
+"entry": 270,
+"who": "Socrates",
+"text": "They would only appear to be white, he replied.",
+"kind": "narration"
+},
+{
+"entry": 271,
+"who": "Socrates",
+"text": "And yet whiteness would be present in them?",
+"kind": "narration"
+},
+{
+"entry": 272,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 273,
+"who": "Socrates",
+"text": "But that would not make them at all the more white, notwithstanding the presence of white in them — they would not be white any more than black?",
+"kind": "narration"
+},
+{
+"entry": 274,
+"who": "Socrates",
+"text": "No.",
+"kind": "narration"
+},
+{
+"entry": 275,
+"who": "Socrates",
+"text": "But when old age infuses whiteness into them, then they become assimilated, and are white by the presence of white.",
+"kind": "narration"
+},
+{
+"entry": 276,
+"who": "Socrates",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 277,
+"who": "Socrates",
+"text": "Now I want to know whether in all cases a substance is assimilated by the presence of another substance; or must the presence be after a peculiar sort?",
+"kind": "narration"
+},
+{
+"entry": 278,
+"who": "Socrates",
+"text": "The latter, he said.",
+"kind": "narration"
+},
+{
+"entry": 279,
+"who": "Socrates",
+"text": "Then that which is neither good nor evil may be in the presence of evil, but not as yet evil, and that has happened before now?",
+"kind": "narration"
+},
+{
+"entry": 280,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 281,
+"who": "Socrates",
+"text": "And when anything is in the presence of evil, not being as yet evil, the presence of good arouses the desire of good in that thing; but the presence of evil, which makes a thing evil, takes away the desire and friendship of the good; for that which was once both good and evil has now become evil only, and the good was supposed to have no friendship with the evil?",
+"kind": "narration"
+},
+{
+"entry": 282,
+"who": "Socrates",
+"text": "None.",
+"kind": "narration"
+},
+{
+"entry": 283,
+"who": "Socrates",
+"text": "And therefore we say that those who are already wise, whether Gods or men, are no longer lovers of wisdom; nor can they be lovers of wisdom who are ignorant to the extent of being evil, for no evil or ignorant person is a lover of wisdom. There remain those who have the misfortune to be ignorant, but are not yet hardened in their ignorance, or void of understanding, and do not as yet fancy that they know what they do not know: and therefore those who are the lovers of wisdom are as yet neither good nor bad. But the bad do not love wisdom any more than the good; for, as we have already seen, neither is unlike the friend of unlike, nor like of like. You remember that?",
+"kind": "narration"
+},
+{
+"entry": 284,
+"who": "Socrates",
+"text": "Yes, they both said.",
+"kind": "narration"
+},
+{
+"entry": 285,
+"who": "Socrates",
+"text": "And so, Lysis and Menexenus, we have discovered the nature of friendship — there can be no doubt of it: Friendship is the love which by reason of the presence of evil the neither good nor evil has of the good, either in the soul, or in the body, or anywhere.",
+"kind": "narration"
+},
+{
+"entry": 286,
+"who": "Socrates",
+"text": "They both agreed and entirely assented, and for a moment I rejoiced and was satisfied like a huntsman just holding fast his prey. But then a most unaccountable suspicion came across me, and I felt that the conclusion was untrue. I was pained, and said, Alas! Lysis and Menexenus, I am afraid that we have been grasping at a shadow only.",
+"kind": "narration"
+},
+{
+"entry": 287,
+"who": "Socrates",
+"text": "Why do you say so? said Menexenus.",
+"kind": "narration"
+},
+{
+"entry": 288,
+"who": "Socrates",
+"text": "I am afraid, I said, that the argument about friendship is false: arguments, like men, are often pretenders.",
+"kind": "narration"
+},
+{
+"entry": 289,
+"who": "Socrates",
+"text": "How do you mean? he asked.",
+"kind": "narration"
+},
+{
+"entry": 290,
+"who": "Socrates",
+"text": "Well, I said; look at the matter in this way: a friend is the friend of some one; is he not?",
+"kind": "narration"
+},
+{
+"entry": 291,
+"who": "Socrates",
+"text": "Certainly he is.",
+"kind": "narration"
+},
+{
+"entry": 292,
+"who": "Socrates",
+"text": "And has he a motive and object in being a friend, or has he no motive and object?",
+"kind": "narration"
+},
+{
+"entry": 293,
+"who": "Socrates",
+"text": "He has a motive and object.",
+"kind": "narration"
+},
+{
+"entry": 294,
+"who": "Socrates",
+"text": "And is the object which makes him a friend, dear to him, or neither dear nor hateful to him?",
+"kind": "narration"
+},
+{
+"entry": 295,
+"who": "Socrates",
+"text": "I do not quite follow you, he said.",
+"kind": "narration"
+},
+{
+"entry": 296,
+"who": "Socrates",
+"text": "I do not wonder at that, I said. But perhaps, if I put the matter in another way, you will be able to follow me, and my own meaning will be clearer to myself. The sick man, as I was just now saying, is the friend of the physician — is he not?",
+"kind": "narration"
+},
+{
+"entry": 297,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 298,
+"who": "Socrates",
+"text": "And he is the friend of the physician because of disease, and for the sake of health?",
+"kind": "narration"
+},
+{
+"entry": 299,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 300,
+"who": "Socrates",
+"text": "And disease is an evil?",
+"kind": "narration"
+},
+{
+"entry": 301,
+"who": "Socrates",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 302,
+"who": "Socrates",
+"text": "And what of health? I said. Is that good or evil, or neither?",
+"kind": "narration"
+},
+{
+"entry": 303,
+"who": "Socrates",
+"text": "Good, he replied.",
+"kind": "narration"
+},
+{
+"entry": 304,
+"who": "Socrates",
+"text": "And we were saying, I believe, that the body being neither good nor evil, because of disease, that is to say because of evil, is the friend of medicine, and medicine is a good: and medicine has entered into this friendship for the sake of health, and health is a good.",
+"kind": "narration"
+},
+{
+"entry": 305,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 306,
+"who": "Socrates",
+"text": "And is health a friend, or not a friend?",
+"kind": "narration"
+},
+{
+"entry": 307,
+"who": "Socrates",
+"text": "A friend.",
+"kind": "narration"
+},
+{
+"entry": 308,
+"who": "Socrates",
+"text": "And disease is an enemy?",
+"kind": "narration"
+},
+{
+"entry": 309,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 310,
+"who": "Socrates",
+"text": "Then that which is neither good nor evil is the friend of the good because of the evil and hateful, and for the sake of the good and the friend?",
+"kind": "narration"
+},
+{
+"entry": 311,
+"who": "Socrates",
+"text": "Clearly.",
+"kind": "narration"
+},
+{
+"entry": 312,
+"who": "Socrates",
+"text": "Then the friend is a friend for the sake of the friend, and because of the enemy?",
+"kind": "narration"
+},
+{
+"entry": 313,
+"who": "Socrates",
+"text": "That is to be inferred.",
+"kind": "narration"
+},
+{
+"entry": 314,
+"who": "Socrates",
+"text": "Then at this point, my boys, let us take heed, and be on our guard against deceptions. I will not again repeat that the friend is the friend of the friend, and the like of the like, which has been declared by us to be an impossibility; but, in order that this new statement may not delude us, let us attentively examine another point, which I will proceed to explain: Medicine, as we were saying, is a friend, or dear to us for the sake of health?",
+"kind": "narration"
+},
+{
+"entry": 315,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 316,
+"who": "Socrates",
+"text": "And health is also dear?",
+"kind": "narration"
+},
+{
+"entry": 317,
+"who": "Socrates",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 318,
+"who": "Socrates",
+"text": "And if dear, then dear for the sake of something?",
+"kind": "narration"
+},
+{
+"entry": 319,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 320,
+"who": "Socrates",
+"text": "And surely this object must also be dear, as is implied in our previous admissions?",
+"kind": "narration"
+},
+{
+"entry": 321,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 322,
+"who": "Socrates",
+"text": "And that something dear involves something else dear?",
+"kind": "narration"
+},
+{
+"entry": 323,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 324,
+"who": "Socrates",
+"text": "But then, proceeding in this way, shall we not arrive at some first principle of friendship or dearness which is not capable of being referred to any other, for the sake of which, as we maintain, all other things are dear, and, having there arrived, we shall stop?",
+"kind": "narration"
+},
+{
+"entry": 325,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 326,
+"who": "Socrates",
+"text": "My fear is that all those other things, which, as we say, are dear for the sake of another, are illusions and deceptions only, but where that first principle is, there is the true ideal of friendship. Let me put the matter thus: Suppose the case of a great treasure (this may be a son, who is more precious to his father than all his other treasures); would not the father, who values his son above all things, value other things also for the sake of his son? I mean, for instance, if he knew that his son had drunk hemlock, and the father thought that wine would save him, he would value the wine?",
+"kind": "narration"
+},
+{
+"entry": 327,
+"who": "Socrates",
+"text": "He would.",
+"kind": "narration"
+},
+{
+"entry": 328,
+"who": "Socrates",
+"text": "And also the vessel which contains the wine?",
+"kind": "narration"
+},
+{
+"entry": 329,
+"who": "Socrates",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 330,
+"who": "Socrates",
+"text": "But does he therefore value the three measures of wine, or the earthen vessel which contains them, equally with his son? Is not this rather the true state of the case? All his anxiety has regard not to the means which are provided for the sake of an object, but to the object for the sake of which they are provided. And although we may often say that gold and silver are highly valued by us, that is not the truth; for there is a further object, whatever it may be, which we value most of all, and for the sake of which gold and all our other possessions are acquired by us. Am I not right?",
+"kind": "narration"
+},
+{
+"entry": 331,
+"who": "Socrates",
+"text": "Yes, certainly.",
+"kind": "narration"
+},
+{
+"entry": 332,
+"who": "Socrates",
+"text": "And may not the same be said of the friend? That which is only dear to us for the sake of something else is improperly said to be dear, but the truly dear is that in which all these so-called dear friendships terminate.",
+"kind": "narration"
+},
+{
+"entry": 333,
+"who": "Socrates",
+"text": "That, he said, appears to be true.",
+"kind": "narration"
+},
+{
+"entry": 334,
+"who": "Socrates",
+"text": "And the truly dear or ultimate principle of friendship is not for the sake of any other or further dear.",
+"kind": "narration"
+},
+{
+"entry": 335,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 336,
+"who": "Socrates",
+"text": "Then we have done with the notion that friendship has any further object. May we then infer that the good is the friend?",
+"kind": "narration"
+},
+{
+"entry": 337,
+"who": "Socrates",
+"text": "I think so.",
+"kind": "narration"
+},
+{
+"entry": 338,
+"who": "Socrates",
+"text": "And the good is loved for the sake of the evil? Let me put the case in this way: Suppose that of the three principles, good, evil, and that which is neither good nor evil, there remained only the good and the neutral, and that evil went far away, and in no way affected soul or body, nor ever at all that class of things which, as we say, are neither good nor evil in themselves; — would the good be of any use, or other than useless to us? For if there were nothing to hurt us any longer, we should have no need of anything that would do us good. Then would be clearly seen that we did but love and desire the good because of the evil, and as the remedy of the evil, which was the disease; but if there had been no disease, there would have been no need of a remedy. Is not this the nature of the good — to be loved by us who are placed between the two, because of the evil? but there is no use in the good for its own sake.",
+"kind": "narration"
+},
+{
+"entry": 339,
+"who": "Socrates",
+"text": "I suppose not.",
+"kind": "narration"
+},
+{
+"entry": 340,
+"who": "Socrates",
+"text": "Then the final principle of friendship, in which all other friendships terminated, those, I mean, which are relatively dear and for the sake of something else, is of another and a different nature from them. For they are called dear because of another dear or friend. But with the true friend or dear, the case is quite the reverse; for that is proved to be dear because of the hated, and if the hated were away it would be no longer dear.",
+"kind": "narration"
+},
+{
+"entry": 341,
+"who": "Socrates",
+"text": "Very true, he replied: at any rate not if our present view holds good.",
+"kind": "narration"
+},
+{
+"entry": 342,
+"who": "Socrates",
+"text": "But, oh! will you tell me, I said, whether if evil were to perish, we should hunger any more, or thirst any more, or have any similar desire? Or may we suppose that hunger will remain while men and animals remain, but not so as to be hurtful? And the same of thirst and the other desires, — that they will remain, but will not be evil because evil has perished? Or rather shall I say, that to ask what either will be then or will not be is ridiculous, for who knows? This we do know, that in our present condition hunger may injure us, and may also benefit us: — Is not that true?",
+"kind": "narration"
+},
+{
+"entry": 343,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 344,
+"who": "Socrates",
+"text": "And in like manner thirst or any similar desire may sometimes be a good and sometimes an evil to us, and sometimes neither one nor the other?",
+"kind": "narration"
+},
+{
+"entry": 345,
+"who": "Socrates",
+"text": "To be sure.",
+"kind": "narration"
+},
+{
+"entry": 346,
+"who": "Socrates",
+"text": "But is there any reason why, because evil perishes, that which is not evil should perish with it?",
+"kind": "narration"
+},
+{
+"entry": 347,
+"who": "Socrates",
+"text": "None.",
+"kind": "narration"
+},
+{
+"entry": 348,
+"who": "Socrates",
+"text": "Then, even if evil perishes, the desires which are neither good nor evil will remain?",
+"kind": "narration"
+},
+{
+"entry": 349,
+"who": "Socrates",
+"text": "Clearly they will.",
+"kind": "narration"
+},
+{
+"entry": 350,
+"who": "Socrates",
+"text": "And must not a man love that which he desires and affects?",
+"kind": "narration"
+},
+{
+"entry": 351,
+"who": "Socrates",
+"text": "He must.",
+"kind": "narration"
+},
+{
+"entry": 352,
+"who": "Socrates",
+"text": "Then, even if evil perishes, there may still remain some elements of love or friendship?",
+"kind": "narration"
+},
+{
+"entry": 353,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 354,
+"who": "Socrates",
+"text": "But not if evil is the cause of friendship: for in that case nothing will be the friend of any other thing after the destruction of evil; for the effect cannot remain when the cause is destroyed.",
+"kind": "narration"
+},
+{
+"entry": 355,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 356,
+"who": "Socrates",
+"text": "And have we not admitted already that the friend loves something for a reason? and at the time of making the admission we were of opinion that the neither good nor evil loves the good because of the evil?",
+"kind": "narration"
+},
+{
+"entry": 357,
+"who": "Socrates",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 358,
+"who": "Socrates",
+"text": "But now our view is changed, and we conceive that there must be some other cause of friendship?",
+"kind": "narration"
+},
+{
+"entry": 359,
+"who": "Socrates",
+"text": "I suppose so.",
+"kind": "narration"
+},
+{
+"entry": 360,
+"who": "Socrates",
+"text": "May not the truth be rather, as we were saying just now, that desire is the cause of friendship; for that which desires is dear to that which is desired at the time of desiring it? and may not the other theory have been only a long story about nothing?",
+"kind": "narration"
+},
+{
+"entry": 361,
+"who": "Socrates",
+"text": "Likely enough.",
+"kind": "narration"
+},
+{
+"entry": 362,
+"who": "Socrates",
+"text": "But surely, I said, he who desires, desires that of which he is in want?",
+"kind": "narration"
+},
+{
+"entry": 363,
+"who": "Socrates",
+"text": "Yes.",
+"kind": "narration"
+},
+{
+"entry": 364,
+"who": "Socrates",
+"text": "And that of which he is in want is dear to him?",
+"kind": "narration"
+},
+{
+"entry": 365,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 366,
+"who": "Socrates",
+"text": "And he is in want of that of which he is deprived?",
+"kind": "narration"
+},
+{
+"entry": 367,
+"who": "Socrates",
+"text": "Certainly.",
+"kind": "narration"
+},
+{
+"entry": 368,
+"who": "Socrates",
+"text": "Then love, and desire, and friendship would appear to be of the natural or congenial. Such, Lysis and Menexenus, is the inference.",
+"kind": "narration"
+},
+{
+"entry": 369,
+"who": "Socrates",
+"text": "They assented.",
+"kind": "narration"
+},
+{
+"entry": 370,
+"who": "Socrates",
+"text": "Then if you are friends, you must have natures which are congenial to one another?",
+"kind": "narration"
+},
+{
+"entry": 371,
+"who": "Socrates",
+"text": "Certainly, they both said.",
+"kind": "narration"
+},
+{
+"entry": 372,
+"who": "Socrates",
+"text": "And I say, my boys, that no one who loves or desires another would ever have loved or desired or affected him, if he had not been in some way congenial to him, either in his soul, or in his character, or in his manners, or in his form.",
+"kind": "narration"
+},
+{
+"entry": 373,
+"who": "Socrates",
+"text": "Yes, yes, said Menexenus. But Lysis was silent.",
+"kind": "narration"
+},
+{
+"entry": 374,
+"who": "Socrates",
+"text": "Then, I said, the conclusion is, that what is of a congenial nature must be loved.",
+"kind": "narration"
+},
+{
+"entry": 375,
+"who": "Socrates",
+"text": "It follows, he said.",
+"kind": "narration"
+},
+{
+"entry": 376,
+"who": "Socrates",
+"text": "Then the lover, who is true and no counterfeit, must of necessity be loved by his love.",
+"kind": "narration"
+},
+{
+"entry": 377,
+"who": "Socrates",
+"text": "Lysis and Menexenus gave a faint assent to this; and Hippothales changed into all manner of colours with delight.",
+"kind": "narration"
+},
+{
+"entry": 378,
+"who": "Socrates",
+"text": "Here, intending to revise the argument, I said: Can we point out any difference between the congenial and the like? For if that is possible, then I think, Lysis and Menexenus, there may be some sense in our argument about friendship. But if the congenial is only the like, how will you get rid of the other argument, of the uselessness of like to like in as far as they are like; for to say that what is useless is dear, would be absurd? Suppose, then, that we agree to distinguish between the congenial and the like — in the intoxication of argument, that may perhaps be allowed.",
+"kind": "narration"
+},
+{
+"entry": 379,
+"who": "Socrates",
+"text": "Very true.",
+"kind": "narration"
+},
+{
+"entry": 380,
+"who": "Socrates",
+"text": "And shall we further say that the good is congenial, and the evil uncongenial to every one? Or again that the evil is congenial to the evil, and the good to the good; and that which is neither good nor evil to that which is neither good nor evil?",
+"kind": "narration"
+},
+{
+"entry": 381,
+"who": "Socrates",
+"text": "They agreed to the latter alternative.",
+"kind": "narration"
+},
+{
+"entry": 382,
+"who": "Socrates",
+"text": "Then, my boys, we have again fallen into the old discarded error; for the unjust will be the friend of the unjust, and the bad of the bad, as well as the good of the good.",
+"kind": "narration"
+},
+{
+"entry": 383,
+"who": "Socrates",
+"text": "That appears to be the result.",
+"kind": "narration"
+},
+{
+"entry": 384,
+"who": "Socrates",
+"text": "But again, if we say that the congenial is the same as the good, in that case the good and he only will be the friend of the good.",
+"kind": "narration"
+},
+{
+"entry": 385,
+"who": "Socrates",
+"text": "True.",
+"kind": "narration"
+},
+{
+"entry": 386,
+"who": "Socrates",
+"text": "But that too was a position of ours which, as you will remember, has been already refuted by ourselves.",
+"kind": "narration"
+},
+{
+"entry": 387,
+"who": "Socrates",
+"text": "We remember.",
+"kind": "narration"
+},
+{
+"entry": 388,
+"who": "Socrates",
+"text": "Then what is to be done? Or rather is there anything to be done? I can only, like the wise men who argue in courts, sum up the arguments: — If neither the beloved, nor the lover, nor the like, nor the unlike, nor the good, nor the congenial, nor any other of whom we spoke — for there were such a number of them that I cannot remember all — if none of these are friends, I know not what remains to be said.",
+"kind": "narration"
+},
+{
+"entry": 389,
+"who": "Socrates",
+"text": "Here I was going to invite the opinion of some older person, when suddenly we were interrupted by the tutors of Lysis and Menexenus, who came upon us like an evil apparition with their brothers, and bade them go home, as it was getting late. At first, we and the by-standers drove them off; but afterwards, as they would not mind, and only went on shouting in their barbarous dialect, and got angry, and kept calling the boys — they appeared to us to have been drinking rather too much at the Hermaea, which made them difficult to manage — we fairly gave way and broke up the company.",
+"kind": "narration"
+},
+{
+"entry": 390,
+"who": "Socrates",
+"text": "I said, however, a few words to the boys at parting: O Menexenus and Lysis, how ridiculous that you two boys, and I, an old boy, who would fain be one of you, should imagine ourselves to be friends — this is what the by-standers will go away and say — and as yet we have not been able to discover what is a friend!",
+"kind": "narration"
+}
+]
+}
+]
+}

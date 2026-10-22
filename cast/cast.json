@@ -1200,6 +1200,17 @@
     "pitch": -1,
     "text": "The one is the cause of all things, and every multitude participates in some way of the one; for that which is entirely deprived of the one is nothing."
    }
+  },
+  "lach-b:Aristides": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "am_puck",
+     1.0
+    ]
+   ],
+   "accent": "us",
+   "pitch": 1
   }
  }
 }
