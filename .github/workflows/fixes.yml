@@ -1,0 +1,23 @@
+name: fixes
+# Hand-corrected timing (or report) files: put them under fixes/<release tag>/ and push; each is uploaded to that
+# release, replacing the published copy. (The session that writes the corrections cannot edit releases itself.)
+on:
+  push:
+    branches: [main]
+    paths: ["fixes/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+env:
+  GH_TOKEN: ${{ github.token }}
+jobs:
+  upload:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          for d in fixes/*/; do
+            tag=$(basename "$d"); ls "$d" | head -50
+            gh release view "$tag" >/dev/null
+            gh release upload "$tag" "$d"/* --clobber
+          done
