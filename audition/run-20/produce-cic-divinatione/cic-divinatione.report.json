@@ -1,0 +1,32 @@
+{
+ "work": "cic-divinatione",
+ "parts": [
+  {
+   "file": "cic-divinatione-p1.mp3",
+   "minutes": 12.16,
+   "lines": 39,
+   "words": 1885,
+   "words_interpolated": 23,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "cic-divinatione-p2.mp3",
+   "minutes": 121.46,
+   "lines": 396,
+   "words": 21219,
+   "words_interpolated": 279,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "cic-divinatione-p3.mp3",
+   "minutes": 141.8,
+   "lines": 213,
+   "words": 25409,
+   "words_interpolated": 363,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
