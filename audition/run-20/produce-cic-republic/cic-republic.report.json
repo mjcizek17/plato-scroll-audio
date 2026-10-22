@@ -1,0 +1,57 @@
+{
+ "work": "cic-republic",
+ "parts": [
+  {
+   "file": "cic-republic-p1.mp3",
+   "minutes": 78.27,
+   "lines": 164,
+   "words": 13622,
+   "words_interpolated": 76,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "cic-republic-p2.mp3",
+   "minutes": 61.98,
+   "lines": 98,
+   "words": 10704,
+   "words_interpolated": 119,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "cic-republic-p3.mp3",
+   "minutes": 45.03,
+   "lines": 80,
+   "words": 7796,
+   "words_interpolated": 111,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.6,
+     "text": "V. * * *",
+     "line": "p3l0015"
+    }
+   ]
+  },
+  {
+   "file": "cic-republic-p4.mp3",
+   "minutes": 23.12,
+   "lines": 88,
+   "words": 4035,
+   "words_interpolated": 52,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "cic-republic-p5.mp3",
+   "minutes": 28.66,
+   "lines": 56,
+   "words": 5127,
+   "words_interpolated": 17,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
