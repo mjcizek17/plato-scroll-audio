@@ -1,0 +1,1 @@
+{"work": "cic-paradoxa", "parts": [{"file": "cic-paradoxa-p1.mp3", "minutes": 23.2, "lines": 18, "words": 4135, "words_interpolated": 6, "retakes": 0, "flagged_takes": []}, {"file": "cic-paradoxa-p2.mp3", "minutes": 15.62, "lines": 11, "words": 2816, "words_interpolated": 9, "retakes": 0, "flagged_takes": []}]}
