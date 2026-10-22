@@ -1,0 +1,221 @@
+{
+ "work": "homer-iliad",
+ "parts": [
+  {
+   "file": "homer-iliad-p1.mp3",
+   "minutes": 30.27,
+   "lines": 56,
+   "words": 5861,
+   "words_interpolated": 24,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p2.mp3",
+   "minutes": 42.8,
+   "lines": 85,
+   "words": 7976,
+   "words_interpolated": 25,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p3.mp3",
+   "minutes": 21.23,
+   "lines": 43,
+   "words": 4063,
+   "words_interpolated": 14,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p4.mp3",
+   "minutes": 26.09,
+   "lines": 41,
+   "words": 5103,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p5.mp3",
+   "minutes": 44.29,
+   "lines": 69,
+   "words": 8643,
+   "words_interpolated": 18,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p6.mp3",
+   "minutes": 25.78,
+   "lines": 37,
+   "words": 4991,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p7.mp3",
+   "minutes": 22.86,
+   "lines": 37,
+   "words": 4446,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p8.mp3",
+   "minutes": 27.72,
+   "lines": 43,
+   "words": 5348,
+   "words_interpolated": 19,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p9.mp3",
+   "minutes": 34.93,
+   "lines": 36,
+   "words": 6900,
+   "words_interpolated": 34,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p10.mp3",
+   "minutes": 27.56,
+   "lines": 50,
+   "words": 5548,
+   "words_interpolated": 23,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p11.mp3",
+   "minutes": 43.66,
+   "lines": 57,
+   "words": 8602,
+   "words_interpolated": 48,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p12.mp3",
+   "minutes": 24.16,
+   "lines": 25,
+   "words": 4782,
+   "words_interpolated": 24,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p13.mp3",
+   "minutes": 43.19,
+   "lines": 56,
+   "words": 8420,
+   "words_interpolated": 32,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p14.mp3",
+   "minutes": 26.42,
+   "lines": 42,
+   "words": 5260,
+   "words_interpolated": 25,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p15.mp3",
+   "minutes": 37.38,
+   "lines": 59,
+   "words": 7423,
+   "words_interpolated": 28,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p16.mp3",
+   "minutes": 45.57,
+   "lines": 56,
+   "words": 8966,
+   "words_interpolated": 44,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p17.mp3",
+   "minutes": 37.06,
+   "lines": 52,
+   "words": 7315,
+   "words_interpolated": 33,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p18.mp3",
+   "minutes": 30.48,
+   "lines": 50,
+   "words": 6055,
+   "words_interpolated": 24,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p19.mp3",
+   "minutes": 20.4,
+   "lines": 33,
+   "words": 4033,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p20.mp3",
+   "minutes": 25.87,
+   "lines": 38,
+   "words": 5038,
+   "words_interpolated": 17,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p21.mp3",
+   "minutes": 31.18,
+   "lines": 41,
+   "words": 6227,
+   "words_interpolated": 27,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p22.mp3",
+   "minutes": 26.99,
+   "lines": 39,
+   "words": 5489,
+   "words_interpolated": 28,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p23.mp3",
+   "minutes": 45.31,
+   "lines": 67,
+   "words": 8973,
+   "words_interpolated": 25,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-iliad-p24.mp3",
+   "minutes": 41.19,
+   "lines": 58,
+   "words": 8354,
+   "words_interpolated": 19,
+   "retakes": 1,
+   "flagged_takes": []
+  }
+ ]
+}
