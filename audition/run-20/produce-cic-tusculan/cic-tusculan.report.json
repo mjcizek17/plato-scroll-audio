@@ -1,0 +1,50 @@
+{
+ "work": "cic-tusculan",
+ "parts": [
+  {
+   "file": "cic-tusculan-p1.mp3",
+   "minutes": 116.58,
+   "lines": 255,
+   "words": 21440,
+   "words_interpolated": 45,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "cic-tusculan-p2.mp3",
+   "minutes": 58.79,
+   "lines": 179,
+   "words": 10713,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "cic-tusculan-p3.mp3",
+   "minutes": 77.45,
+   "lines": 163,
+   "words": 14166,
+   "words_interpolated": 27,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "cic-tusculan-p4.mp3",
+   "minutes": 75.17,
+   "lines": 126,
+   "words": 13402,
+   "words_interpolated": 35,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "cic-tusculan-p5.mp3",
+   "minutes": 96.2,
+   "lines": 87,
+   "words": 17425,
+   "words_interpolated": 28,
+   "retakes": 3,
+   "flagged_takes": []
+  }
+ ]
+}
