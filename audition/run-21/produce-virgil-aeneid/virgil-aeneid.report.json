@@ -1,0 +1,113 @@
+{
+ "work": "virgil-aeneid",
+ "parts": [
+  {
+   "file": "virgil-aeneid-p1.mp3",
+   "minutes": 46.99,
+   "lines": 39,
+   "words": 8201,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p2.mp3",
+   "minutes": 48.33,
+   "lines": 28,
+   "words": 8492,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p3.mp3",
+   "minutes": 41.08,
+   "lines": 35,
+   "words": 7290,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p4.mp3",
+   "minutes": 44.52,
+   "lines": 44,
+   "words": 7867,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p5.mp3",
+   "minutes": 50.22,
+   "lines": 38,
+   "words": 8784,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p6.mp3",
+   "minutes": 55.83,
+   "lines": 35,
+   "words": 9642,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p7.mp3",
+   "minutes": 48.91,
+   "lines": 46,
+   "words": 8558,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p8.mp3",
+   "minutes": 43.28,
+   "lines": 26,
+   "words": 7523,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p9.mp3",
+   "minutes": 49.09,
+   "lines": 55,
+   "words": 8687,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p10.mp3",
+   "minutes": 58.01,
+   "lines": 68,
+   "words": 10182,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p11.mp3",
+   "minutes": 58.08,
+   "lines": 52,
+   "words": 10363,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-aeneid-p12.mp3",
+   "minutes": 61.13,
+   "lines": 81,
+   "words": 10775,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
