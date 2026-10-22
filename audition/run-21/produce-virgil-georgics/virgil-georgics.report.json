@@ -1,0 +1,41 @@
+{
+ "work": "virgil-georgics",
+ "parts": [
+  {
+   "file": "virgil-georgics-p1.mp3",
+   "minutes": 29.01,
+   "lines": 9,
+   "words": 5089,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-georgics-p2.mp3",
+   "minutes": 29.72,
+   "lines": 9,
+   "words": 5147,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-georgics-p3.mp3",
+   "minutes": 30.18,
+   "lines": 9,
+   "words": 5243,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "virgil-georgics-p4.mp3",
+   "minutes": 32.41,
+   "lines": 9,
+   "words": 5665,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
