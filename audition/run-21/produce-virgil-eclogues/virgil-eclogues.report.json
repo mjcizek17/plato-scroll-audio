@@ -1,0 +1,55 @@
+{
+ "work": "virgil-eclogues",
+ "parts": [
+  {
+   "file": "virgil-eclogues-p1.mp3",
+   "minutes": 24.44,
+   "lines": 87,
+   "words": 4216,
+   "words_interpolated": 0,
+   "retakes": 12,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.72,
+     "text": "Alexis",
+     "line": "p1l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 1.6,
+     "text": "Damoetas",
+     "line": "p1l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "Damoetas",
+     "line": "p1l0030"
+    }
+   ]
+  },
+  {
+   "file": "virgil-eclogues-p2.mp3",
+   "minutes": 23.52,
+   "lines": 68,
+   "words": 4103,
+   "words_interpolated": 1,
+   "retakes": 8,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.77,
+     "text": "Moeris",
+     "line": "p2l0050"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Eclogue X",
+     "line": "p2l0064"
+    }
+   ]
+  }
+ ]
+}
