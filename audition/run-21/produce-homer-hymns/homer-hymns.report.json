@@ -1,0 +1,125 @@
+{
+ "work": "homer-hymns",
+ "parts": [
+  {
+   "file": "homer-hymns-p1.mp3",
+   "minutes": 30.49,
+   "lines": 51,
+   "words": 5399,
+   "words_interpolated": 61,
+   "retakes": 10,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.7,
+     "text": "(ll. 460-469) \u2018Come, my daughter;",
+     "line": "p1l0047"
+    }
+   ]
+  },
+  {
+   "file": "homer-hymns-p2.mp3",
+   "minutes": 31.29,
+   "lines": 46,
+   "words": 5542,
+   "words_interpolated": 66,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-hymns-p3.mp3",
+   "minutes": 33.85,
+   "lines": 51,
+   "words": 6083,
+   "words_interpolated": 73,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-hymns-p4.mp3",
+   "minutes": 22.92,
+   "lines": 39,
+   "words": 4072,
+   "words_interpolated": 51,
+   "retakes": 12,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.94,
+     "text": "VII. TO DIONYSUS (59 lines)",
+     "line": "p4l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 1.86,
+     "text": "VIII. TO ARES (17 lines)",
+     "line": "p4l0034"
+    }
+   ]
+  },
+  {
+   "file": "homer-hymns-p5.mp3",
+   "minutes": 18.78,
+   "lines": 74,
+   "words": 3026,
+   "words_interpolated": 82,
+   "retakes": 37,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.79,
+     "text": "XI. TO ATHENA (5 lines)",
+     "line": "p5l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 1.87,
+     "text": "XIX. TO PAN (49 lines)",
+     "line": "p5l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 1.76,
+     "text": "XXI. TO APOLLO (5 lines)",
+     "line": "p5l0034"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "XXII. TO POSEIDON (7 lines)",
+     "line": "p5l0037"
+    },
+    {
+     "group": 0,
+     "ratio": 1.99,
+     "text": "XXVI. TO DIONYSUS (13 lines)",
+     "line": "p5l0048"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "XXVIII. TO ATHENA (18 lines)",
+     "line": "p5l0054"
+    },
+    {
+     "group": 0,
+     "ratio": 1.81,
+     "text": "XXIX. TO HESTIA (13 lines)",
+     "line": "p5l0057"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "XXXI. TO HELIOS (20 lines)",
+     "line": "p5l0064"
+    },
+    {
+     "group": 0,
+     "ratio": 1.67,
+     "text": "XXXIII. TO THE DIOSCURI (19 lines)",
+     "line": "p5l0071"
+    }
+   ]
+  }
+ ]
+}
