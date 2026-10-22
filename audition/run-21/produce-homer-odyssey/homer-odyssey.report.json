@@ -1,0 +1,221 @@
+{
+ "work": "homer-odyssey",
+ "parts": [
+  {
+   "file": "homer-odyssey-p1.mp3",
+   "minutes": 20.27,
+   "lines": 34,
+   "words": 4141,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p2.mp3",
+   "minutes": 20.81,
+   "lines": 37,
+   "words": 4242,
+   "words_interpolated": 18,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p3.mp3",
+   "minutes": 23.63,
+   "lines": 40,
+   "words": 4732,
+   "words_interpolated": 14,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p4.mp3",
+   "minutes": 39.45,
+   "lines": 83,
+   "words": 8077,
+   "words_interpolated": 28,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p5.mp3",
+   "minutes": 23.08,
+   "lines": 39,
+   "words": 4720,
+   "words_interpolated": 24,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p6.mp3",
+   "minutes": 16.44,
+   "lines": 28,
+   "words": 3454,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p7.mp3",
+   "minutes": 16.7,
+   "lines": 31,
+   "words": 3368,
+   "words_interpolated": 6,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p8.mp3",
+   "minutes": 28.14,
+   "lines": 52,
+   "words": 5624,
+   "words_interpolated": 15,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p9.mp3",
+   "minutes": 27.54,
+   "lines": 46,
+   "words": 5818,
+   "words_interpolated": 11,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p10.mp3",
+   "minutes": 27.21,
+   "lines": 51,
+   "words": 5713,
+   "words_interpolated": 15,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p11.mp3",
+   "minutes": 29.75,
+   "lines": 56,
+   "words": 6061,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p12.mp3",
+   "minutes": 20.97,
+   "lines": 41,
+   "words": 4354,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p13.mp3",
+   "minutes": 20.52,
+   "lines": 40,
+   "words": 4204,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p14.mp3",
+   "minutes": 25.68,
+   "lines": 37,
+   "words": 5404,
+   "words_interpolated": 11,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p15.mp3",
+   "minutes": 25.98,
+   "lines": 50,
+   "words": 5428,
+   "words_interpolated": 10,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p16.mp3",
+   "minutes": 22.1,
+   "lines": 47,
+   "words": 4564,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p17.mp3",
+   "minutes": 28.69,
+   "lines": 65,
+   "words": 5879,
+   "words_interpolated": 13,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p18.mp3",
+   "minutes": 20.46,
+   "lines": 43,
+   "words": 4174,
+   "words_interpolated": 11,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p19.mp3",
+   "minutes": 29.71,
+   "lines": 41,
+   "words": 6046,
+   "words_interpolated": 17,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p20.mp3",
+   "minutes": 19.16,
+   "lines": 38,
+   "words": 3859,
+   "words_interpolated": 13,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p21.mp3",
+   "minutes": 20.64,
+   "lines": 44,
+   "words": 4267,
+   "words_interpolated": 11,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p22.mp3",
+   "minutes": 22.2,
+   "lines": 54,
+   "words": 4571,
+   "words_interpolated": 8,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p23.mp3",
+   "minutes": 17.97,
+   "lines": 31,
+   "words": 3711,
+   "words_interpolated": 12,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "homer-odyssey-p24.mp3",
+   "minutes": 25.82,
+   "lines": 47,
+   "words": 5240,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
