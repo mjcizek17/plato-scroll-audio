@@ -43,12 +43,13 @@ def main(out, js=None, tags=("audio-v1", "aristotle-v1", "neoplatonists-v1", "ju
             sp = os.path.join(ROOT, "scripts", key + ".json")
             s = json.load(open(sp)) if os.path.exists(sp) else {"title": key, "parts": []}
             title, author = s["title"], s.get("author", "Plato")
+            tr = s.get("translator", "David Horan") if author == "Plato" else ""   # Plato has two recorded translations
             label = title
             if len(s["parts"]) > 1 and part <= len(s["parts"]):
                 label = f"{title} — {s['parts'][part - 1]['name']}"
             last_w = max((v[-1] for v in t.get("words", {}).values() if v), default=0) / 100
             works.setdefault(key, []).append({
-                "name": stem, "label": label, "author": author, "part": part,
+                "name": stem, "label": label, "author": author, "part": part, **({"tr": tr} if tr else {}),
                 "first": min(ents) if ents else 0, "last": max(ents) if ents else 0,
                 "minutes": round(last_w / 60, 1),
                 # bytes: the offline-save size; v: the MP3's asset id, which changes when a recording is replaced,
