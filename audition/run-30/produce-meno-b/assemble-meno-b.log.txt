@@ -1,0 +1,1 @@
+{"work": "meno-b", "parts": [{"file": "meno-b-p1.mp3", "minutes": 70.48, "lines": 576, "words": 12314, "words_interpolated": 51, "retakes": 0, "flagged_takes": []}]}
