@@ -1,0 +1,1 @@
+{"work": "phdr-b", "parts": [{"file": "phdr-b-p1.mp3", "minutes": 128.88, "lines": 410, "words": 22844, "words_interpolated": 98, "retakes": 13, "flagged_takes": [{"group": 0, "ratio": 1.71, "text": "Very good.", "line": "p1l0156"}, {"group": 0, "ratio": 0.6, "text": "Let me hear.", "line": "p1l0328"}]}]}
