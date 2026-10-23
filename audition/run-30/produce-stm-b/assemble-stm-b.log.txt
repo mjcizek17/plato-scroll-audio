@@ -1,0 +1,1 @@
+{"work": "stm-b", "parts": [{"file": "stm-b-p1.mp3", "minutes": 126.46, "lines": 892, "words": 22305, "words_interpolated": 97, "retakes": 0, "flagged_takes": []}]}
