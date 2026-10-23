@@ -1,0 +1,95 @@
+{
+ "work": "rep-b",
+ "parts": [
+  {
+   "file": "rep-b-p1.mp3",
+   "minutes": 69.89,
+   "lines": 494,
+   "words": 12399,
+   "words_interpolated": 45,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "rep-b-p2.mp3",
+   "minutes": 66.54,
+   "lines": 353,
+   "words": 11637,
+   "words_interpolated": 56,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "rep-b-p3.mp3",
+   "minutes": 79.63,
+   "lines": 496,
+   "words": 13872,
+   "words_interpolated": 44,
+   "retakes": 3,
+   "flagged_takes": []
+  },
+  {
+   "file": "rep-b-p4.mp3",
+   "minutes": 66.19,
+   "lines": 457,
+   "words": 11482,
+   "words_interpolated": 37,
+   "retakes": 4,
+   "flagged_takes": []
+  },
+  {
+   "file": "rep-b-p5.mp3",
+   "minutes": 79.1,
+   "lines": 561,
+   "words": 14004,
+   "words_interpolated": 51,
+   "retakes": 4,
+   "flagged_takes": []
+  },
+  {
+   "file": "rep-b-p6.mp3",
+   "minutes": 68.44,
+   "lines": 408,
+   "words": 11900,
+   "words_interpolated": 49,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "rep-b-p7.mp3",
+   "minutes": 65.3,
+   "lines": 372,
+   "words": 11512,
+   "words_interpolated": 38,
+   "retakes": 3,
+   "flagged_takes": []
+  },
+  {
+   "file": "rep-b-p8.mp3",
+   "minutes": 65.22,
+   "lines": 446,
+   "words": 11230,
+   "words_interpolated": 77,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "rep-b-p9.mp3",
+   "minutes": 52.13,
+   "lines": 406,
+   "words": 8989,
+   "words_interpolated": 37,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "rep-b-p10.mp3",
+   "minutes": 66.39,
+   "lines": 320,
+   "words": 11722,
+   "words_interpolated": 53,
+   "retakes": 4,
+   "flagged_takes": []
+  }
+ ]
+}
