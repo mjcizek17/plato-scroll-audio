@@ -1,1 +1,1 @@
-{"works": ["audition-athenian"], "dest": "samples"}
+{"works": ["laws", "laws-b", "epin"], "dest": "release", "tag": "audio-v1", "tags": {"laws": "audio-v1", "epin": "audio-v1", "laws-b": "jowett-v1"}, "budget": 10000}
