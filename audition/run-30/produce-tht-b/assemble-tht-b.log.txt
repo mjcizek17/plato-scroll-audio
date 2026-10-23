@@ -1,0 +1,1 @@
+{"work": "tht-b", "parts": [{"file": "tht-b-p1.mp3", "minutes": 175.26, "lines": 1029, "words": 30504, "words_interpolated": 160, "retakes": 0, "flagged_takes": []}]}
