@@ -1,0 +1,1 @@
+{"work": "hippmaj-b", "parts": [{"file": "hippmaj-b-p1.mp3", "minutes": 65.64, "lines": 358, "words": 11524, "words_interpolated": 25, "retakes": 0, "flagged_takes": []}]}
