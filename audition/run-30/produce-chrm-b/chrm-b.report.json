@@ -1,0 +1,14 @@
+{
+ "work": "chrm-b",
+ "parts": [
+  {
+   "file": "chrm-b-p1.mp3",
+   "minutes": 60.47,
+   "lines": 363,
+   "words": 10734,
+   "words_interpolated": 27,
+   "retakes": 2,
+   "flagged_takes": []
+  }
+ ]
+}
