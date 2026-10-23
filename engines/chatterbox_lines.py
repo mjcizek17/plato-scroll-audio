@@ -7,7 +7,7 @@ Writes OUTDIR/<id>.wav (24 kHz) and OUTDIR/<id>.json {"words": [...], "retakes":
 import json, os, re, signal, sys, zlib
 import numpy as np
 import torch, torchaudio
-from script import work_parts, load_cast, fill, char_spec, word_starts, speech_text
+from script import work_parts, load_cast, fill, char_spec, speech_text, printed_starts, _notes
 from common import write_wav
 
 torch.set_num_threads(os.cpu_count() or 4)
@@ -101,7 +101,7 @@ def main(work, a, b, out):
         c = char_spec(cast, work, l["who"])
         ref = os.path.join(ROOT, "cast", "refs", c["ref"] + ".wav")
         pcm, retakes, flags, toks, off = [], 0, [], [], 0.0
-        for gi, g in enumerate(groups(l["text"])):
+        for gi, g in enumerate(groups(_notes.spoken(l["text"], work))):
             want, best = len(g) / CPS, None
             def take(text, seed):
                 torch.manual_seed(seed)
@@ -137,7 +137,7 @@ def main(work, a, b, out):
             pcm.append(best[0].astype(np.float32)); off += len(best[0]) / sr
         audio = np.concatenate(pcm)
         write_wav(f"{out}/{l['id']}.wav", audio, sr)
-        starts, miss = word_starts(l["text"], toks)
+        starts, miss = printed_starts(l, work, toks)
         json.dump({"words": starts, "interpolated": miss, "retakes": retakes, "flags": flags, "engine": "chatterbox"},
                   open(f"{out}/{l['id']}.json", "w"))
         print(f"chatterbox {work} {n + 1}/{len(todo)} {l['id']} retakes={retakes}", flush=True)

@@ -1,0 +1,66 @@
+name: slice-notes
+# Cut the editor's notes ("(Compare Symp.)", "(Il.)", "(Greek)", translator's notes: text/notes.py) out of recordings
+# that were made before the voices learned to skip them. Edit render/slice.json ({"works": [...]}) and push.
+# Each work: its published MP3s and timing files are downloaded from whichever release holds them, the originals are
+# kept on the release "notes-originals", and the cut files replace the published ones (tools/slice_notes.py).
+on:
+  push:
+    branches: [main]
+    paths: ["render/slice.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: slice-notes, cancel-in-progress: false }
+defaults:
+  run:
+    shell: bash -o pipefail -e {0}
+env:
+  GH_TOKEN: ${{ github.token }}
+jobs:
+  plan:
+    runs-on: ubuntu-24.04
+    outputs:
+      works: ${{ steps.q.outputs.works }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: q
+        run: echo "works=$(jq -c .works render/slice.json)" >> "$GITHUB_OUTPUT"
+      - run: gh release view notes-originals >/dev/null 2>&1 || gh release create notes-originals --prerelease --title "Recordings before the editor's notes were cut" --notes "Originals of the files changed by the slice-notes workflow, kept in case a cut has to be undone."
+  slice:
+    needs: plan
+    runs-on: ubuntu-24.04
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        work: ${{ fromJSON(needs.plan.outputs.works) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg && pip install -q numpy
+      - name: Find the release that holds this work
+        id: rel
+        run: |
+          W="${{ matrix.work }}"
+          for t in $(gh api "repos/${{ github.repository }}/releases?per_page=100" --paginate -q '.[] | select(.prerelease | not) | .tag_name'); do
+            if gh api "repos/${{ github.repository }}/releases/tags/$t" -q '.assets[].name' | grep -qx "$W-p1.timing.json"; then echo "tag=$t" >> "$GITHUB_OUTPUT"; echo "found in $t"; exit 0; fi
+          done
+          echo "no release holds $W"; exit 1
+      - name: Cut
+        run: |
+          W="${{ matrix.work }}"; mkdir -p pub out
+          gh release download "${{ steps.rel.outputs.tag }}" -p "$W-p*.mp3" -p "$W-p*.timing.json" -D pub --clobber
+          python tools/slice_notes.py "$W" pub out 2>&1 | tee "out/$W.slice-log.txt"
+          ls out
+      - name: Keep the originals, then publish the cut files
+        run: |
+          W="${{ matrix.work }}"
+          n=$(ls out/*.mp3 2>/dev/null | wc -l)
+          if [ "$n" = "0" ]; then echo "nothing to change"; exit 0; fi
+          orig=""
+          for f in out/*.mp3 out/*.timing.json; do b=$(basename "$f"); cp "pub/$b" "orig-$b"; orig="$orig orig-$b"; done
+          # an original already kept (an earlier run) is not replaced by a cut copy
+          have=$(gh release view notes-originals --json assets -q '.assets[].name')
+          for f in $orig; do echo "$have" | grep -qx "$f" || gh release upload notes-originals "$f"; done
+          gh release upload "${{ steps.rel.outputs.tag }}" out/*.mp3 out/*.timing.json "out/$W.slice-report.json" --clobber

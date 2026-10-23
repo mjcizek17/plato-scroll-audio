@@ -163,6 +163,27 @@ if __name__ == "__main__":
     print(json.dumps(plan, separators=(",", ":")))
 
 
+sys_path_text = os.path.join(ROOT, "text")
+if sys_path_text not in __import__("sys").path:
+    __import__("sys").path.insert(0, sys_path_text)
+import notes as _notes  # noqa: E402
+
+
+def line_text(l, work):
+    """what the voice reads: the printed line without the editor's notes in brackets (text/notes.py)"""
+    return speech_text(_notes.spoken(l["text"], work))
+
+
+def printed_starts(l, work, toks):
+    """word starts for every printed word of the line, from tokens of the spoken text: skipped notes get the time of
+    the next spoken word, so the read-along stays word-for-word with the page"""
+    mask = _notes.silent_mask(l["text"], work)
+    starts, miss = word_starts(_notes.spoken(l["text"], work), toks)
+    if not any(mask):
+        return starts, miss
+    return _notes.expand(starts, mask), miss
+
+
 def speech_text(t):
     """Text as it should be spoken: an all-capitals opening word ("ALL men by nature...") is read as a word."""
     return re.sub(r"^([\"“‘'(]*)([A-Z]{2,})(?=\b)", lambda m: m.group(1) + m.group(2).capitalize(), t)

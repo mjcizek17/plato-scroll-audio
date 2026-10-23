@@ -6,7 +6,7 @@ import numpy as np
 import torch
 from kokoro import KPipeline
 from lexicon import mark
-from script import work_parts, load_cast, word_starts, char_spec, speech_text
+from script import work_parts, load_cast, char_spec, line_text, printed_starts
 import subprocess, tempfile
 from common import write_wav
 
@@ -43,7 +43,7 @@ def main(work, a, b, out):
         if vk not in vcache:
             vcache[vk] = sum(w * pipes["gb"].load_single_voice(v) for v, w in c["kokoro"])
         audio, toks, off = [], [], 0.0
-        for r in pipes[acc](mark(speech_text(l["text"]), acc), voice=vcache[vk], speed=speed):
+        for r in pipes[acc](mark(line_text(l, work), acc), voice=vcache[vk], speed=speed):
             if r.audio is None:
                 continue
             x = r.audio.numpy()
@@ -53,7 +53,7 @@ def main(work, a, b, out):
         write_wav(wav, np.concatenate(audio) if audio else np.zeros(SR // 10), SR)
         if c.get("pitch"):
             pitch(wav, c["pitch"])
-        starts, miss = word_starts(l["text"], toks)
+        starts, miss = printed_starts(l, work, toks)
         json.dump({"words": starts, "interpolated": miss, "engine": "kokoro"}, open(f"{out}/{l['id']}.json", "w"))
         if n % 25 == 0:
             print(f"kokoro {work} {n}/{len(todo)}", flush=True)

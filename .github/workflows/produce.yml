@@ -35,6 +35,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 tools/check_cast.py
+      - name: Editor's notes the voices will skip (text/notes.py) and brackets to check
+        run: python3 tools/lint_notes.py render/queue.json
       - name: Make missing reference clips
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
