@@ -44,7 +44,8 @@ jobs:
         run: |
           W="${{ matrix.work }}"
           for t in $(gh api "repos/${{ github.repository }}/releases?per_page=100" --paginate -q '.[] | select(.prerelease | not) | .tag_name'); do
-            if gh api "repos/${{ github.repository }}/releases/tags/$t" -q '.assets[].name' | grep -qx "$W-p1.timing.json"; then echo "tag=$t" >> "$GITHUB_OUTPUT"; echo "found in $t"; exit 0; fi
+            names=$(gh api "repos/${{ github.repository }}/releases/tags/$t" --paginate -q '.assets[].name')   # whole list first: grep -q closing the pipe early failed the step
+            if printf '%s\n' "$names" | grep -qx "$W-p1.timing.json"; then echo "tag=$t" >> "$GITHUB_OUTPUT"; echo "found in $t"; exit 0; fi
           done
           echo "no release holds $W"; exit 1
       - name: Cut
@@ -56,7 +57,7 @@ jobs:
       - name: Keep the originals, then publish the cut files
         run: |
           W="${{ matrix.work }}"
-          n=$(ls out/*.mp3 2>/dev/null | wc -l)
+          shopt -s nullglob; mp3s=(out/*.mp3); n=${#mp3s[@]}
           if [ "$n" = "0" ]; then echo "nothing to change"; exit 0; fi
           orig=""
           for f in out/*.mp3 out/*.timing.json; do b=$(basename "$f"); cp "pub/$b" "orig-$b"; orig="$orig orig-$b"; done
