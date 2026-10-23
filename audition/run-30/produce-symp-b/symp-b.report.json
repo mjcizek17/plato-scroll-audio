@@ -1,0 +1,14 @@
+{
+ "work": "symp-b",
+ "parts": [
+  {
+   "file": "symp-b-p1.mp3",
+   "minutes": 113.81,
+   "lines": 181,
+   "words": 22291,
+   "words_interpolated": 112,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
