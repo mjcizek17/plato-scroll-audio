@@ -1,0 +1,14 @@
+{
+ "work": "phil-b",
+ "parts": [
+  {
+   "file": "phil-b-p1.mp3",
+   "minutes": 133.45,
+   "lines": 1149,
+   "words": 22295,
+   "words_interpolated": 71,
+   "retakes": 1,
+   "flagged_takes": []
+  }
+ ]
+}
