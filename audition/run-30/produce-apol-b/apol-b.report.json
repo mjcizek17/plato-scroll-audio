@@ -1,0 +1,14 @@
+{
+ "work": "apol-b",
+ "parts": [
+  {
+   "file": "apol-b-p1.mp3",
+   "minutes": 62.4,
+   "lines": 76,
+   "words": 11544,
+   "words_interpolated": 80,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
