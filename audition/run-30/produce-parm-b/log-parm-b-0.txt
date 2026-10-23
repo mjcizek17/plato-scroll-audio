@@ -1,0 +1,80 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/tmp/kk/lib/python3.11/site-packages/torch/nn/modules/rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/tmp/kk/lib/python3.11/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+Collecting en-core-web-sm==3.8.0
+  Downloading https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl (12.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.8/12.8 MB 138.0 MB/s eta 0:00:00
+Installing collected packages: en-core-web-sm
+Successfully installed en-core-web-sm-3.8.0
+
+[notice] A new release of pip is available: 24.0 -> 26.2.2
+[notice] To update, run: python -m pip install --upgrade pip
+/tmp/kk/lib/python3.11/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+[38;5;2m✔ Download and installation successful[0m
+You can now load the package via spacy.load('en_core_web_sm')
+kokoro parm-b 0/1207
+kokoro parm-b 25/1207
+kokoro parm-b 50/1207
+kokoro parm-b 75/1207
+kokoro parm-b 100/1207
+kokoro parm-b 125/1207
+kokoro parm-b 150/1207
+kokoro parm-b 175/1207
+kokoro parm-b 200/1207
+kokoro parm-b 225/1207
+kokoro parm-b 250/1207
+kokoro parm-b 275/1207
+kokoro parm-b 300/1207
+kokoro parm-b 325/1207
+kokoro parm-b 350/1207
+kokoro parm-b 375/1207
+kokoro parm-b 400/1207
+kokoro parm-b 425/1207
+kokoro parm-b 450/1207
+kokoro parm-b 475/1207
+kokoro parm-b 500/1207
+kokoro parm-b 525/1207
+kokoro parm-b 550/1207
+kokoro parm-b 575/1207
+kokoro parm-b 600/1207
+kokoro parm-b 625/1207
+kokoro parm-b 650/1207
+kokoro parm-b 675/1207
+kokoro parm-b 700/1207
+kokoro parm-b 725/1207
+kokoro parm-b 750/1207
+kokoro parm-b 775/1207
+kokoro parm-b 800/1207
+kokoro parm-b 825/1207
+kokoro parm-b 850/1207
+kokoro parm-b 875/1207
+kokoro parm-b 900/1207
+kokoro parm-b 925/1207
+kokoro parm-b 950/1207
+kokoro parm-b 975/1207
+kokoro parm-b 1000/1207
+kokoro parm-b 1025/1207
+kokoro parm-b 1050/1207
+kokoro parm-b 1075/1207
+kokoro parm-b 1100/1207
+kokoro parm-b 1125/1207
+kokoro parm-b 1150/1207
+kokoro parm-b 1175/1207
+kokoro parm-b 1200/1207
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/tmp/cb/lib/python3.11/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+Downloading: "https://dl.fbaipublicfiles.com/mms/torchaudio/ctc_alignment_mling_uroman/model.pt" to /home/runner/.cache/torch/hub/checkpoints/model.pt
+loaded PerthNet (Implicit) at step 250,000
+  0%|          | 0.00/1.18G [00:00<?, ?B/s]  4%|▍         | 52.4M/1.18G [00:00<00:02, 549MB/s]  9%|▊         | 105M/1.18G [00:00<00:02, 537MB/s]  13%|█▎        | 159M/1.18G [00:00<00:01, 550MB/s] 18%|█▊        | 211M/1.18G [00:00<00:01, 547MB/s] 23%|██▎       | 281M/1.18G [00:00<00:01, 612MB/s] 29%|██▉       | 348M/1.18G [00:00<00:01, 642MB/s] 34%|███▍      | 409M/1.18G [00:00<00:01, 614MB/s] 39%|███▉      | 472M/1.18G [00:00<00:01, 626MB/s] 44%|████▍     | 535M/1.18G [00:00<00:01, 637MB/s] 50%|████▉     | 597M/1.18G [00:01<00:00, 642MB/s] 55%|█████▍    | 660M/1.18G [00:01<00:00, 649MB/s] 60%|██████    | 723M/1.18G [00:01<00:00, 651MB/s] 65%|██████▌   | 787M/1.18G [00:01<00:00, 657MB/s] 71%|███████   | 850M/1.18G [00:01<00:00, 649MB/s] 76%|███████▌  | 913M/1.18G [00:01<00:00, 654MB/s] 81%|████████  | 976M/1.18G [00:01<00:00, 640MB/s] 86%|████████▌ | 1.01G/1.18G [00:01<00:00, 638MB/s] 91%|█████████▏| 1.07G/1.18G [00:01<00:00, 643MB/s] 96%|█████████▋| 1.13G/1.18G [00:01<00:00, 641MB/s]100%|██████████| 1.18G/1.18G [00:02<00:00, 629MB/s]
+WARNING:root:Reference mel length is not equal to 2 * reference token length.
+
+/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+`sdpa` attention does not support `output_attentions=True`. Please set your attention to `eager` if you want any of these features.
+WARNING:transformers.integrations.sdpa_attention:`sdpa` attention does not support `output_attentions=True`. Please set your attention to `eager` if you want any of these features.
+Sampling:   0%|          | 0/1000 [00:00<?, ?it/s]Sampling:   0%|          | 1/1000 [00:00<02:16,  7.32it/s]Sampling:   0%|          | 2/1000 [00:00<02:21,  7.07it/s]Sampling:   0%|          | 3/1000 [00:00<02:19,  7.14it/s]Sampling:   0%|          | 4/1000 [00:00<02:16,  7.32it/s]Sampling:   0%|          | 5/1000 [00:00<02:15,  7.33it/s]Sampling:   1%|          | 6/1000 [00:00<02:16,  7.28it/s]Sampling:   1%|          | 7/1000 [00:00<02:16,  7.30it/s]Sampling:   1%|          | 8/1000 [00:01<02:14,  7.39it/s]Sampling:   1%|          | 9/1000 [00:01<02:14,  7.35it/s]Sampling:   1%|          | 10/1000 [00:01<02:14,  7.36it/s]Sampling:   1%|          | 11/1000 [00:01<02:13,  7.41it/s]Sampling:   1%|          | 12/1000 [00:01<02:13,  7.42it/s]Sampling:   1%|▏         | 13/1000 [00:01<02:12,  7.42it/s]Sampling:   1%|▏         | 14/1000 [00:01<02:12,  7.45it/s]Sampling:   2%|▏         | 15/1000 [00:02<02:12,  7.43it/s]Sampling:   2%|▏         | 16/1000 [00:02<02:12,  7.43it/s]Sampling:   2%|▏         | 17/1000 [00:02<02:12,  7.41it/s]Sampling:   2%|▏         | 18/1000 [00:02<02:11,  7.45it/s]Sampling:   2%|▏         | 19/1000 [00:02<02:12,  7.38it/s]Sampling:   2%|▏         | 20/1000 [00:02<02:12,  7.39it/s]Sampling:   2%|▏         | 21/1000 [00:02<02:10,  7.48it/s]Sampling:   2%|▏         | 22/1000 [00:02<02:10,  7.52it/s]Sampling:   2%|▏         | 23/1000 [00:03<02:09,  7.53it/s]Sampling:   2%|▏         | 24/1000 [00:03<02:09,  7.52it/s]Sampling:   2%|▎         | 25/1000 [00:03<02:09,  7.55it/s]Sampling:   3%|▎         | 26/1000 [00:03<02:09,  7.53it/s]Sampling:   3%|▎         | 27/1000 [00:03<02:09,  7.52it/s]Sampling:   3%|▎         | 28/1000 [00:03<02:09,  7.51it/s]Sampling:   3%|▎         | 29/1000 [00:03<02:17,  7.07it/s]Sampling:   3%|▎         | 30/1000 [00:04<02:14,  7.19it/s]Sampling:   3%|▎         | 31/1000 [00:04<02:12,  7.29it/s]Sampling:   3%|▎         | 32/1000 [00:04<02:12,  7.32it/s]Sampling:   3%|▎         | 33/1000 [00:04<02:11,  7.35it/s]Sampling:   3%|▎         | 34/1000 [00:04<02:10,  7.38it/s]Sampling:   4%|▎         | 35/1000 [00:04<02:11,  7.33it/s]Sampling:   4%|▎         | 36/1000 [00:04<02:10,  7.40it/s]Sampling:   4%|▎         | 37/1000 [00:05<02:09,  7.41it/s]Sampling:   4%|▍         | 38/1000 [00:05<02:08,  7.46it/s]Sampling:   4%|▍         | 39/1000 [00:05<02:09,  7.44it/s]Sampling:   4%|▍         | 40/1000 [00:05<02:08,  7.45it/s]Sampling:   4%|▍         | 41/1000 [00:05<02:09,  7.40it/s]Sampling:   4%|▍         | 42/1000 [00:05<02:10,  7.36it/s]Sampling:   4%|▍         | 43/1000 [00:05<02:10,  7.35it/s]Sampling:   4%|▍         | 44/1000 [00:05<02:09,  7.40it/s]Sampling:   4%|▍         | 45/1000 [00:06<02:07,  7.46it/s]Sampling:   5%|▍         | 46/1000 [00:06<02:07,  7.46it/s]Sampling:   5%|▍         | 47/1000 [00:06<02:08,  7.43it/s]Sampling:   5%|▍         | 48/1000 [00:06<02:08,  7.38it/s]Sampling:   5%|▍         | 49/1000 [00:06<02:09,  7.36it/s]Sampling:   5%|▌         | 50/1000 [00:06<02:09,  7.34it/s]Sampling:   5%|▌         | 51/1000 [00:06<02:09,  7.35it/s]Sampling:   5%|▌         | 52/1000 [00:07<02:08,  7.37it/s]Sampling:   5%|▌         | 53/1000 [00:07<02:09,  7.31it/s]Sampling:   5%|▌         | 54/1000 [00:07<02:09,  7.31it/s]Sampling:   6%|▌         | 55/1000 [00:07<02:09,  7.30it/s]Sampling:   6%|▌         | 56/1000 [00:07<02:08,  7.33it/s]Sampling:   6%|▌         | 57/1000 [00:07<02:09,  7.28it/s]Sampling:   6%|▌         | 58/1000 [00:07<02:08,  7.31it/s]Sampling:   6%|▌         | 59/1000 [00:07<02:07,  7.36it/s]Sampling:   6%|▌         | 60/1000 [00:08<02:07,  7.35it/s]Sampling:   6%|▌         | 61/1000 [00:08<02:08,  7.29it/s]Sampling:   6%|▌         | 62/1000 [00:08<02:08,  7.29it/s]Sampling:   6%|▋         | 63/1000 [00:08<02:09,  7.22it/s]Sampling:   6%|▋         | 64/1000 [00:08<02:08,  7.28it/s]Sampling:   6%|▋         | 65/1000 [00:08<02:07,  7.31it/s]Sampling:   7%|▋         | 66/1000 [00:08<02:06,  7.36it/s]Sampling:   7%|▋         | 67/1000 [00:09<02:06,  7.39it/s]Sampling:   7%|▋         | 68/1000 [00:09<02:06,  7.35it/s]Sampling:   7%|▋         | 69/1000 [00:09<02:06,  7.35it/s]Sampling:   7%|▋         | 70/1000 [00:09<02:06,  7.33it/s]Sampling:   7%|▋         | 71/1000 [00:09<02:06,  7.32it/s]Sampling:   7%|▋         | 72/1000 [00:09<02:05,  7.37it/s]Sampling:   7%|▋         | 73/1000 [00:09<02:05,  7.39it/s]Sampling:   7%|▋         | 74/1000 [00:10<02:04,  7.44it/s]Sampling:   8%|▊         | 75/1000 [00:10<02:03,  7.48it/s]Sampling:   8%|▊         | 76/1000 [00:10<02:03,  7.46it/s]Sampling:   8%|▊         | 77/1000 [00:10<02:03,  7.48it/s]Sampling:   8%|▊         | 78/1000 [00:10<02:03,  7.46it/s]Sampling:   8%|▊         | 79/1000 [00:10<02:03,  7.46it/s]Sampling:   8%|▊         | 80/1000 [00:10<02:04,  7.36it/s]Sampling:   8%|▊         | 81/1000 [00:10<02:05,  7.33it/s]Sampling:   8%|▊         | 82/1000 [00:11<02:05,  7.30it/s]Sampling:   8%|▊         | 83/1000 [00:11<02:06,  7.27it/s]Sampling:   8%|▊         | 84/1000 [00:11<02:06,  7.25it/s]Sampling:   8%|▊         | 85/1000 [00:11<02:05,  7.30it/s]Sampling:   9%|▊         | 86/1000 [00:11<02:04,  7.35it/s]Sampling:   9%|▊         | 87/1000 [00:11<02:03,  7.40it/s]Sampling:   9%|▉         | 88/1000 [00:11<02:03,  7.39it/s]Sampling:   9%|▉         | 89/1000 [00:12<02:04,  7.29it/s]Sampling:   9%|▉         | 90/1000 [00:12<02:05,  7.24it/s]Sampling:   9%|▉         | 91/1000 [00:12<02:04,  7.30it/s]Sampling:   9%|▉         | 92/1000 [00:12<02:04,  7.30it/s]Sampling:   9%|▉         | 93/1000 [00:12<02:05,  7.25it/s]Sampling:   9%|▉         | 93/1000 [00:12<02:03,  7.36it/s]
+chatterbox parm-b 1/1 p1l0000 retakes=0
