@@ -1,1 +1,1 @@
-{"works": ["euth-b", "apol-b", "crito-b", "hippmaj-b", "hippmin-b", "alc1-b", "chrm-b", "lach-b", "lysis-b", "ion-b", "phae-b", "crat-b", "euthy-b", "prot-b", "gorg-b", "meno-b", "menex-b", "symp-b", "rep-b", "phdr-b", "parm-b", "tht-b", "tim-b", "crit-b", "soph-b", "stm-b", "phil-b", "laws-b", "alc2-b"], "dest": "release", "tag": "jowett-v1", "budget": 10000}
+{"works": ["dam-principles", "simplicius-enchiridion", "hierocles-golden-verses", "maximus-dissertations"], "dest": "release", "tag": "plutarch-platonists-v1", "budget": 10000}
