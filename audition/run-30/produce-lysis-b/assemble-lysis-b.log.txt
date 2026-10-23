@@ -1,0 +1,1 @@
+{"work": "lysis-b", "parts": [{"file": "lysis-b-p1.mp3", "minutes": 50.39, "lines": 392, "words": 9187, "words_interpolated": 37, "retakes": 2, "flagged_takes": []}]}
