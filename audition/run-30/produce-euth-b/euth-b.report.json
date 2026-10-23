@@ -1,0 +1,14 @@
+{
+ "work": "euth-b",
+ "parts": [
+  {
+   "file": "euth-b-p1.mp3",
+   "minutes": 36.72,
+   "lines": 235,
+   "words": 6559,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
