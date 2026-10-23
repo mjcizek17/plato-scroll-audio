@@ -1,5 +1,5 @@
 """Build the site's audio folder and the reader's built-in catalog from the published releases.
-Usage: python tools/site_audio.py OUT_SITE_DIR [--js reader/audio-data.js] [--tags audio-v1 aristotle-v1 neoplatonists-v1 julian-v1 hermetica-v1 classics-v1]
+Usage: python tools/site_audio.py OUT_SITE_DIR [--js reader/audio-data.js] [--tags audio-v1 aristotle-v1 neoplatonists-v1 julian-v1 hermetica-v1 classics-v1 jowett-v1]
 Writes OUT_SITE_DIR/audio/catalog.json and OUT_SITE_DIR/audio/<part>.timing.json for every MP3 on the releases.
 catalog.json: {"works": {key: [{name, label, author, first, last, minutes, mp3: [url]}...]}}
   first/last = the entry range the part covers (for tap-to-seek and choosing the part on screen).
@@ -18,7 +18,7 @@ def gh(path, raw=False):
     return out if raw else json.loads(out)
 
 
-def main(out, js=None, tags=("audio-v1", "aristotle-v1", "neoplatonists-v1", "julian-v1", "hermetica-v1", "classics-v1")):
+def main(out, js=None, tags=("audio-v1", "aristotle-v1", "neoplatonists-v1", "julian-v1", "hermetica-v1", "classics-v1", "jowett-v1")):
     adir = os.path.join(out, "audio"); os.makedirs(adir, exist_ok=True)
     works = {}
     idp = os.path.join(ROOT, ".cache", "timing-ids.json"); os.makedirs(os.path.dirname(idp), exist_ok=True)
@@ -72,5 +72,5 @@ def main(out, js=None, tags=("audio-v1", "aristotle-v1", "neoplatonists-v1", "ju
 if __name__ == "__main__":
     a = sys.argv[1:]
     js = a[a.index("--js") + 1] if "--js" in a else None
-    tags = a[a.index("--tags") + 1:] if "--tags" in a else ("audio-v1", "aristotle-v1", "neoplatonists-v1", "julian-v1", "hermetica-v1", "classics-v1")
+    tags = a[a.index("--tags") + 1:] if "--tags" in a else ("audio-v1", "aristotle-v1", "neoplatonists-v1", "julian-v1", "hermetica-v1", "classics-v1", "jowett-v1")
     main(a[0], js, tags)
