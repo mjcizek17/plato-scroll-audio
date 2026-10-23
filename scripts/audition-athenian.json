@@ -1,0 +1,122 @@
+{
+"key": "audition-athenian",
+"title": "Audition: the Athenian Stranger",
+"author": "Audition",
+"translator": "Benjamin Jowett",
+"credit": "six voices for the Athenian Stranger of the Laws",
+"parts": [
+{
+"name": "Audition",
+"lines": [
+{
+"entry": 0,
+"who": "Narrator",
+"text": "Option one.",
+"kind": "heading"
+},
+{
+"entry": 1,
+"who": "A1",
+"text": "And do you, Cleinias, believe, as Homer tells, that every ninth year Minos went to converse with his Olympian sire, and was inspired by him to make laws for your cities?",
+"kind": "speech"
+},
+{
+"entry": 2,
+"who": "A1",
+"text": "And will he who constitutes the state and orders the life of man have in view external war, or that kind of intestine war called civil, which no one, if he could prevent, would like to have occurring in his own state; and when occurring, every one would wish to be quit of as soon as possible?",
+"kind": "speech"
+},
+{
+"entry": 3,
+"who": "Narrator",
+"text": "Option two.",
+"kind": "heading"
+},
+{
+"entry": 4,
+"who": "A2",
+"text": "And do you, Cleinias, believe, as Homer tells, that every ninth year Minos went to converse with his Olympian sire, and was inspired by him to make laws for your cities?",
+"kind": "speech"
+},
+{
+"entry": 5,
+"who": "A2",
+"text": "And will he who constitutes the state and orders the life of man have in view external war, or that kind of intestine war called civil, which no one, if he could prevent, would like to have occurring in his own state; and when occurring, every one would wish to be quit of as soon as possible?",
+"kind": "speech"
+},
+{
+"entry": 6,
+"who": "Narrator",
+"text": "Option three.",
+"kind": "heading"
+},
+{
+"entry": 7,
+"who": "A3",
+"text": "And do you, Cleinias, believe, as Homer tells, that every ninth year Minos went to converse with his Olympian sire, and was inspired by him to make laws for your cities?",
+"kind": "speech"
+},
+{
+"entry": 8,
+"who": "A3",
+"text": "And will he who constitutes the state and orders the life of man have in view external war, or that kind of intestine war called civil, which no one, if he could prevent, would like to have occurring in his own state; and when occurring, every one would wish to be quit of as soon as possible?",
+"kind": "speech"
+},
+{
+"entry": 9,
+"who": "Narrator",
+"text": "Option four.",
+"kind": "heading"
+},
+{
+"entry": 10,
+"who": "A4",
+"text": "And do you, Cleinias, believe, as Homer tells, that every ninth year Minos went to converse with his Olympian sire, and was inspired by him to make laws for your cities?",
+"kind": "speech"
+},
+{
+"entry": 11,
+"who": "A4",
+"text": "And will he who constitutes the state and orders the life of man have in view external war, or that kind of intestine war called civil, which no one, if he could prevent, would like to have occurring in his own state; and when occurring, every one would wish to be quit of as soon as possible?",
+"kind": "speech"
+},
+{
+"entry": 12,
+"who": "Narrator",
+"text": "Option five.",
+"kind": "heading"
+},
+{
+"entry": 13,
+"who": "A5",
+"text": "And do you, Cleinias, believe, as Homer tells, that every ninth year Minos went to converse with his Olympian sire, and was inspired by him to make laws for your cities?",
+"kind": "speech"
+},
+{
+"entry": 14,
+"who": "A5",
+"text": "And will he who constitutes the state and orders the life of man have in view external war, or that kind of intestine war called civil, which no one, if he could prevent, would like to have occurring in his own state; and when occurring, every one would wish to be quit of as soon as possible?",
+"kind": "speech"
+},
+{
+"entry": 15,
+"who": "Narrator",
+"text": "Option six.",
+"kind": "heading"
+},
+{
+"entry": 16,
+"who": "A6",
+"text": "And do you, Cleinias, believe, as Homer tells, that every ninth year Minos went to converse with his Olympian sire, and was inspired by him to make laws for your cities?",
+"kind": "speech"
+},
+{
+"entry": 17,
+"who": "A6",
+"text": "And will he who constitutes the state and orders the life of man have in view external war, or that kind of intestine war called civil, which no one, if he could prevent, would like to have occurring in his own state; and when occurring, every one would wish to be quit of as soon as possible?",
+"kind": "speech"
+}
+]
+}
+]
+}

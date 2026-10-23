@@ -1211,6 +1211,106 @@
    ],
    "accent": "us",
    "pitch": 1
+  },
+  "audition-athenian:A1": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "bm_lewis",
+     1.0
+    ]
+   ],
+   "accent": "gb",
+   "pitch": -1,
+   "note": "the present voice: Kokoro Lewis, a semitone down"
+  },
+  "audition-athenian:A2": {
+   "engine": "chatterbox",
+   "ref": "cb_ath2",
+   "exaggeration": 0.5,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_lewis",
+      1.0
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -1,
+    "text": "And do you, Cleinias, believe, as Homer tells, that every ninth year Minos went to converse with his Olympian sire, and was inspired by him to make laws for your cities?"
+   },
+   "note": "Chatterbox cloning the same Lewis voice (same voice, natural prosody)"
+  },
+  "audition-athenian:A3": {
+   "engine": "chatterbox",
+   "ref": "cb_ath3",
+   "exaggeration": 0.5,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_lewis",
+      0.5
+     ],
+     [
+      "bm_fable",
+      0.5
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -1,
+    "text": "And do you, Cleinias, believe, as Homer tells, that every ninth year Minos went to converse with his Olympian sire, and was inspired by him to make laws for your cities?"
+   },
+   "note": "Chatterbox: Lewis and Fable blended, a semitone down"
+  },
+  "audition-athenian:A4": {
+   "engine": "chatterbox",
+   "ref": "cb_ath4",
+   "exaggeration": 0.5,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_fable",
+      1.0
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -2,
+    "text": "And do you, Cleinias, believe, as Homer tells, that every ninth year Minos went to converse with his Olympian sire, and was inspired by him to make laws for your cities?"
+   },
+   "note": "Chatterbox: Fable alone, two semitones down (deeper, warmer)"
+  },
+  "audition-athenian:A5": {
+   "engine": "chatterbox",
+   "ref": "cb_ath5",
+   "exaggeration": 0.5,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_lewis",
+      0.6
+     ],
+     [
+      "am_michael",
+      0.4
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -1,
+    "text": "And do you, Cleinias, believe, as Homer tells, that every ninth year Minos went to converse with his Olympian sire, and was inspired by him to make laws for your cities?"
+   },
+   "note": "Chatterbox: Lewis with Michael, a semitone down"
+  },
+  "audition-athenian:A6": {
+   "engine": "kokoro",
+   "kokoro": [
+    [
+     "bm_fable",
+     1.0
+    ]
+   ],
+   "accent": "gb",
+   "pitch": -1,
+   "note": "Kokoro Fable alone, a semitone down (no cloning)"
   }
  }
 }
