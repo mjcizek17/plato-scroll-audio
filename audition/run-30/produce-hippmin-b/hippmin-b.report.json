@@ -1,0 +1,14 @@
+{
+ "work": "hippmin-b",
+ "parts": [
+  {
+   "file": "hippmin-b-p1.mp3",
+   "minutes": 33.55,
+   "lines": 240,
+   "words": 5828,
+   "words_interpolated": 30,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
