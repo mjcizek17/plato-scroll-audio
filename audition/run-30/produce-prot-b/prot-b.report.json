@@ -1,0 +1,14 @@
+{
+ "work": "prot-b",
+ "parts": [
+  {
+   "file": "prot-b-p1.mp3",
+   "minutes": 129.42,
+   "lines": 463,
+   "words": 23005,
+   "words_interpolated": 99,
+   "retakes": 2,
+   "flagged_takes": []
+  }
+ ]
+}
