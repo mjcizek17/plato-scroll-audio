@@ -1,0 +1,21 @@
+{
+ "work": "alc1-b",
+ "parts": [
+  {
+   "file": "alc1-b-p1.mp3",
+   "minutes": 85.17,
+   "lines": 892,
+   "words": 13933,
+   "words_interpolated": 54,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.58,
+     "text": "When they are sick?",
+     "line": "p1l0511"
+    }
+   ]
+  }
+ ]
+}
