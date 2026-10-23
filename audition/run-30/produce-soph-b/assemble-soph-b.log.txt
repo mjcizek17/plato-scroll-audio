@@ -1,0 +1,1 @@
+{"work": "soph-b", "parts": [{"file": "soph-b-p1.mp3", "minutes": 117.9, "lines": 1177, "words": 21009, "words_interpolated": 87, "retakes": 0, "flagged_takes": []}]}
