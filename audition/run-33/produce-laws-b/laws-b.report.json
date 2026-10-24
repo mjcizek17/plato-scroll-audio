@@ -1,0 +1,113 @@
+{
+ "work": "laws-b",
+ "parts": [
+  {
+   "file": "laws-b-p1.mp3",
+   "minutes": 60.4,
+   "lines": 256,
+   "words": 10648,
+   "words_interpolated": 45,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p2.mp3",
+   "minutes": 52.57,
+   "lines": 219,
+   "words": 9064,
+   "words_interpolated": 33,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p3.mp3",
+   "minutes": 62.67,
+   "lines": 286,
+   "words": 10562,
+   "words_interpolated": 41,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p4.mp3",
+   "minutes": 47.23,
+   "lines": 162,
+   "words": 8315,
+   "words_interpolated": 26,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p5.mp3",
+   "minutes": 55.24,
+   "lines": 23,
+   "words": 9690,
+   "words_interpolated": 51,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p6.mp3",
+   "minutes": 84.62,
+   "lines": 126,
+   "words": 14930,
+   "words_interpolated": 80,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p7.mp3",
+   "minutes": 88.09,
+   "lines": 241,
+   "words": 15550,
+   "words_interpolated": 56,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p8.mp3",
+   "minutes": 56.9,
+   "lines": 96,
+   "words": 9947,
+   "words_interpolated": 30,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p9.mp3",
+   "minutes": 76.72,
+   "lines": 111,
+   "words": 13650,
+   "words_interpolated": 40,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p10.mp3",
+   "minutes": 64.95,
+   "lines": 258,
+   "words": 11343,
+   "words_interpolated": 50,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p11.mp3",
+   "minutes": 68.68,
+   "lines": 44,
+   "words": 12574,
+   "words_interpolated": 31,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "laws-b-p12.mp3",
+   "minutes": 73.86,
+   "lines": 126,
+   "words": 13270,
+   "words_interpolated": 34,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
