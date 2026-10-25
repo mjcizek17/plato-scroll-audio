@@ -37,8 +37,13 @@ jobs:
       - run: python3 tools/check_cast.py
       - name: Editor's notes the voices will skip (text/notes.py) and brackets to check
         run: python3 tools/lint_notes.py render/queue.json
-      - name: Make missing reference clips
+      - name: Make missing reference clips (only when a cast entry's clip is not in cast/refs — the clips are committed)
         run: |
+          if python3 -c '
+          import json, os, sys
+          c = json.load(open("cast/cast.json"))["characters"]
+          missing = [v["ref"] for v in c.values() if v.get("ref_kokoro") and not os.path.exists(os.path.join("cast/refs", v["ref"] + ".wav"))]
+          print("missing reference clips:", missing or "none"); sys.exit(1 if missing else 0)'; then exit 0; fi
           sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
           python3 -m venv /tmp/kk && /tmp/kk/bin/pip install -q $PIP_CPU torch && /tmp/kk/bin/pip install -q "kokoro>=0.9.4" soundfile "misaki[en]" 2>&1 | tail -2
           /tmp/kk/bin/python tools/make_refs.py
