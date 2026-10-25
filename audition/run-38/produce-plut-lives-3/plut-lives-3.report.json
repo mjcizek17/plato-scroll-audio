@@ -1,0 +1,129 @@
+{
+ "work": "plut-lives-3",
+ "parts": [
+  {
+   "file": "plut-lives-3-p1.mp3",
+   "minutes": 91.21,
+   "lines": 74,
+   "words": 16818,
+   "words_interpolated": 229,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-3-p2.mp3",
+   "minutes": 107.22,
+   "lines": 92,
+   "words": 19882,
+   "words_interpolated": 285,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-3-p3.mp3",
+   "minutes": 67.3,
+   "lines": 74,
+   "words": 12196,
+   "words_interpolated": 209,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-3-p4.mp3",
+   "minutes": 94.47,
+   "lines": 73,
+   "words": 17252,
+   "words_interpolated": 244,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.94,
+     "text": "Cornelio L SVLLAE FEELICc DIC",
+     "line": "p4l0064"
+    }
+   ]
+  },
+  {
+   "file": "plut-lives-3-p5.mp3",
+   "minutes": 58.94,
+   "lines": 99,
+   "words": 10503,
+   "words_interpolated": 191,
+   "retakes": 7,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 3.78,
+     "text": ";",
+     "line": "p5l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 1.86,
+     "text": "Cimon",
+     "line": "p5l0014"
+    }
+   ]
+  },
+  {
+   "file": "plut-lives-3-p6.mp3",
+   "minutes": 113.1,
+   "lines": 97,
+   "words": 20382,
+   "words_interpolated": 307,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-3-p7.mp3",
+   "minutes": 87.81,
+   "lines": 138,
+   "words": 15921,
+   "words_interpolated": 253,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.34,
+     "text": "Nicias",
+     "line": "p7l0007"
+    }
+   ]
+  },
+  {
+   "file": "plut-lives-3-p8.mp3",
+   "minutes": 85.65,
+   "lines": 77,
+   "words": 15767,
+   "words_interpolated": 226,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.87,
+     "text": "(Chorus)",
+     "line": "p8l0072"
+    }
+   ]
+  },
+  {
+   "file": "plut-lives-3-p9.mp3",
+   "minutes": 57.05,
+   "lines": 51,
+   "words": 10305,
+   "words_interpolated": 151,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-3-p10.mp3",
+   "minutes": 61.77,
+   "lines": 49,
+   "words": 11285,
+   "words_interpolated": 168,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
