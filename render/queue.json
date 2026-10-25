@@ -1,1 +1,1 @@
-{"works": ["plut-lives-4", "plut-lives-5", "plut-moralia-1"], "dest": "release", "tag": "plutarch-platonists-v1", "budget": 10000}
+{"works": ["plut-lives-1"], "dest": "release", "tag": "plutarch-platonists-v1", "budget": 2400, "ranges": {"plut-lives-1": [[800, 825]]}, "reuse_run": "40101107426"}
