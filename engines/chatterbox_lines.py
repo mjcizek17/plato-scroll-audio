@@ -135,7 +135,7 @@ def main(work, a, b, out):
                 pcm.append(np.zeros(int(0.28 * sr), np.float32)); off += 0.28
             toks += [(w, None if t is None else off + t) for w, t in align(best[0], sr, g)]
             pcm.append(best[0].astype(np.float32)); off += len(best[0]) / sr
-        audio = np.concatenate(pcm)
+        audio = np.concatenate(pcm) if pcm else np.zeros(int(0.1 * sr), np.float32)   # a line that is all editor's note ("(Rogers.)") is silent
         write_wav(f"{out}/{l['id']}.wav", audio, sr)
         starts, miss = printed_starts(l, work, toks)
         json.dump({"words": starts, "interpolated": miss, "retakes": retakes, "flags": flags, "engine": "chatterbox"},
