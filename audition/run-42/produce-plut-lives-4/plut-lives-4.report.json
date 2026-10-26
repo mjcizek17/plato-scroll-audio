@@ -1,0 +1,132 @@
+{
+ "work": "plut-lives-4",
+ "parts": [
+  {
+   "file": "plut-lives-4-p1.mp3",
+   "minutes": 88.16,
+   "lines": 72,
+   "words": 16193,
+   "words_interpolated": 270,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-4-p2.mp3",
+   "minutes": 165.17,
+   "lines": 152,
+   "words": 31043,
+   "words_interpolated": 485,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.34,
+     "text": ";",
+     "line": "p2l0059"
+    }
+   ]
+  },
+  {
+   "file": "plut-lives-4-p3.mp3",
+   "minutes": 179.94,
+   "lines": 164,
+   "words": 32966,
+   "words_interpolated": 855,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-4-p4.mp3",
+   "minutes": 131.15,
+   "lines": 108,
+   "words": 24429,
+   "words_interpolated": 614,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-4-p5.mp3",
+   "minutes": 68.43,
+   "lines": 63,
+   "words": 12596,
+   "words_interpolated": 199,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 3.33,
+     "text": ";",
+     "line": "p5l0004"
+    }
+   ]
+  },
+  {
+   "file": "plut-lives-4-p6.mp3",
+   "minutes": 136.87,
+   "lines": 124,
+   "words": 25824,
+   "words_interpolated": 400,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 4.49,
+     "text": "and,",
+     "line": "p6l0118"
+    }
+   ]
+  },
+  {
+   "file": "plut-lives-4-p7.mp3",
+   "minutes": 37.62,
+   "lines": 37,
+   "words": 6961,
+   "words_interpolated": 118,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-4-p8.mp3",
+   "minutes": 72.92,
+   "lines": 69,
+   "words": 13458,
+   "words_interpolated": 224,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.21,
+     "text": "and",
+     "line": "p8l0018"
+    }
+   ]
+  },
+  {
+   "file": "plut-lives-4-p9.mp3",
+   "minutes": 41.59,
+   "lines": 36,
+   "words": 7744,
+   "words_interpolated": 121,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-4-p10.mp3",
+   "minutes": 35.72,
+   "lines": 27,
+   "words": 6713,
+   "words_interpolated": 102,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-lives-4-p11.mp3",
+   "minutes": 8.83,
+   "lines": 7,
+   "words": 1596,
+   "words_interpolated": 24,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
