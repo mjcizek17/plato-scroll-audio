@@ -1,0 +1,177 @@
+{
+ "work": "plut-moralia-1",
+ "parts": [
+  {
+   "file": "plut-moralia-1-p1.mp3",
+   "minutes": 49.64,
+   "lines": 90,
+   "words": 9121,
+   "words_interpolated": 64,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-moralia-1-p2.mp3",
+   "minutes": 91.22,
+   "lines": 359,
+   "words": 16343,
+   "words_interpolated": 126,
+   "retakes": 16,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 3.02,
+     "text": "and,",
+     "line": "p2l0028"
+    },
+    {
+     "group": 0,
+     "ratio": 3.44,
+     "text": "and,",
+     "line": "p2l0030"
+    },
+    {
+     "group": 3,
+     "ratio": 2.81,
+     "text": "\u2014",
+     "line": "p2l0038"
+    },
+    {
+     "group": 0,
+     "ratio": 1.78,
+     "text": "and",
+     "line": "p2l0327"
+    }
+   ]
+  },
+  {
+   "file": "plut-moralia-1-p3.mp3",
+   "minutes": 43.66,
+   "lines": 50,
+   "words": 8098,
+   "words_interpolated": 47,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-moralia-1-p4.mp3",
+   "minutes": 102.66,
+   "lines": 160,
+   "words": 18761,
+   "words_interpolated": 77,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.64,
+     "text": "and",
+     "line": "p4l0138"
+    }
+   ]
+  },
+  {
+   "file": "plut-moralia-1-p5.mp3",
+   "minutes": 52.64,
+   "lines": 72,
+   "words": 9641,
+   "words_interpolated": 29,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-moralia-1-p6.mp3",
+   "minutes": 26.63,
+   "lines": 61,
+   "words": 4902,
+   "words_interpolated": 30,
+   "retakes": 6,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 3.35,
+     "text": "and",
+     "line": "p6l0039"
+    },
+    {
+     "group": 0,
+     "ratio": 2.02,
+     "text": "10 1 But since",
+     "line": "p6l0053"
+    }
+   ]
+  },
+  {
+   "file": "plut-moralia-1-p7.mp3",
+   "minutes": 27.93,
+   "lines": 95,
+   "words": 5004,
+   "words_interpolated": 37,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-moralia-1-p8.mp3",
+   "minutes": 79.83,
+   "lines": 417,
+   "words": 14766,
+   "words_interpolated": 128,
+   "retakes": 12,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.73,
+     "text": "And:",
+     "line": "p8l0096"
+    },
+    {
+     "group": 0,
+     "ratio": 2.76,
+     "text": "and",
+     "line": "p8l0168"
+    },
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "since",
+     "line": "p8l0216"
+    }
+   ]
+  },
+  {
+   "file": "plut-moralia-1-p9.mp3",
+   "minutes": 59.31,
+   "lines": 68,
+   "words": 11031,
+   "words_interpolated": 80,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-moralia-1-p10.mp3",
+   "minutes": 32.28,
+   "lines": 73,
+   "words": 6020,
+   "words_interpolated": 108,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-moralia-1-p11.mp3",
+   "minutes": 73.5,
+   "lines": 196,
+   "words": 14090,
+   "words_interpolated": 65,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "plut-moralia-1-p12.mp3",
+   "minutes": 29.93,
+   "lines": 95,
+   "words": 5513,
+   "words_interpolated": 40,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
