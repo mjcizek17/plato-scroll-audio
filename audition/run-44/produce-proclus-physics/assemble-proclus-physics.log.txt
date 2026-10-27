@@ -1,0 +1,1 @@
+{"work": "proclus-physics", "parts": [{"file": "proclus-physics-p1.mp3", "minutes": 7.08, "lines": 82, "words": 903, "words_interpolated": 77, "retakes": 10, "flagged_takes": [{"group": 0, "ratio": 1.65, "text": "Book I", "line": "p1l0003"}]}]}
