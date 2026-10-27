@@ -1,1 +1,1 @@
-{"works": ["olymp-alc1"], "dest": "release", "tag": "plutarch-platonists-v1", "budget": 2400, "ranges": {"olymp-alc1": [[933, 946]]}, "reuse_run": "40263557449"}
+{"works": ["seneca-essays", "seneca-epistles"], "dest": "release", "tag": "stoics-v1", "budget": 10000}
