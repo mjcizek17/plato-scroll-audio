@@ -1,0 +1,14 @@
+{
+ "work": "plethon-hymns",
+ "parts": [
+  {
+   "file": "plethon-hymns-p1.mp3",
+   "minutes": 15.33,
+   "lines": 56,
+   "words": 2761,
+   "words_interpolated": 28,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
