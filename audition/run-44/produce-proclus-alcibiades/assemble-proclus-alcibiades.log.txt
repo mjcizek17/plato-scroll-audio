@@ -1,0 +1,1 @@
+{"work": "proclus-alcibiades", "parts": [{"file": "proclus-alcibiades-p1.mp3", "minutes": 101.14, "lines": 103, "words": 15731, "words_interpolated": 5, "retakes": 0, "flagged_takes": []}]}
