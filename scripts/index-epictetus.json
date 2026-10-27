@@ -1,0 +1,20 @@
+[
+ {
+  "key": "epictetus-discourses",
+  "title": "The Discourses",
+  "parts": 23,
+  "chars": 617294,
+  "speakers": [
+   "Epictetus Reader"
+  ]
+ },
+ {
+  "key": "epictetus-enchiridion",
+  "title": "The Enchiridion",
+  "parts": 1,
+  "chars": 42678,
+  "speakers": [
+   "Epictetus Reader"
+  ]
+ }
+]

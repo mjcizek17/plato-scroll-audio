@@ -1,0 +1,20 @@
+[
+ {
+  "key": "seneca-epistles",
+  "title": "Letters & Consolations",
+  "parts": 43,
+  "chars": 1365779,
+  "speakers": [
+   "Seneca Reader"
+  ]
+ },
+ {
+  "key": "seneca-essays",
+  "title": "The Essays & Dialogues",
+  "parts": 21,
+  "chars": 1518477,
+  "speakers": [
+   "Seneca Reader"
+  ]
+ }
+]

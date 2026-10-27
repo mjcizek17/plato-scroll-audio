@@ -1,0 +1,20 @@
+[
+ {
+  "key": "boethius-consolation",
+  "title": "The Consolation of Philosophy",
+  "parts": 5,
+  "chars": 212161,
+  "speakers": [
+   "Boethius Reader"
+  ]
+ },
+ {
+  "key": "boethius-tractates",
+  "title": "The Theological Tractates",
+  "parts": 3,
+  "chars": 100239,
+  "speakers": [
+   "Boethius Reader"
+  ]
+ }
+]

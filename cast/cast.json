@@ -1206,6 +1206,146 @@
    ],
    "accent": "us",
    "pitch": 1
+  },
+  "Marcus Aurelius Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_marcus",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_fable",
+      0.5
+     ],
+     [
+      "bm_daniel",
+      0.5
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -1,
+    "text": "Begin the morning by saying to thyself: I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil."
+   }
+  },
+  "Epictetus Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_epictetus",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "am_fenrir",
+      0.6
+     ],
+     [
+      "am_onyx",
+      0.4
+     ]
+    ],
+    "accent": "us",
+    "pitch": 0,
+    "text": "Of things, some are in our power, and others are not. In our power are opinion, movement toward a thing, desire, aversion; and in a word, whatever are our own acts."
+   }
+  },
+  "Seneca Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_seneca",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_lewis",
+      0.5
+     ],
+     [
+      "am_michael",
+      0.5
+     ]
+    ],
+    "accent": "gb",
+    "pitch": 0,
+    "text": "It is not that we have a short time to live, but that we waste a great deal of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements, if it were all well invested."
+   }
+  },
+  "Boethius Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_boethius",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_daniel",
+      0.6
+     ],
+     [
+      "bm_fable",
+      0.4
+     ]
+    ],
+    "accent": "gb",
+    "pitch": 0,
+    "text": "While I was pondering thus in silence, and using my pen to set down so tearful a complaint, there appeared standing over my head a woman's form, whose countenance was full of majesty, whose eyes shone as with fire."
+   }
+  },
+  "Sextus Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_sextus",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "am_adam",
+      0.6
+     ],
+     [
+      "am_fenrir",
+      0.4
+     ]
+    ],
+    "accent": "us",
+    "pitch": 1,
+    "text": "The natural result of any investigation is that the investigators either discover the object of search, or deny that it is discoverable and confess it to be inapprehensible, or persist in their search."
+   }
+  },
+  "Epicurus Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_epicurus",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "am_michael",
+      0.6
+     ],
+     [
+      "am_puck",
+      0.4
+     ]
+    ],
+    "accent": "us",
+    "pitch": 0,
+    "text": "Let no one delay to study philosophy while he is young, and when he is old let him not become weary of the study; for no man can ever find the time unsuitable or too late to study the health of his soul."
+   }
+  },
+  "Dionysius Reader": {
+   "engine": "chatterbox",
+   "ref": "cb_dionysius",
+   "exaggeration": 0.45,
+   "ref_kokoro": {
+    "voice": [
+     [
+      "bm_george",
+      0.3
+     ],
+     [
+      "bm_daniel",
+      0.7
+     ]
+    ],
+    "accent": "gb",
+    "pitch": -2,
+    "text": "Trinity, which is above being, above divinity, above goodness, guide of Christians in divine wisdom, direct us to the super-unknown and super-brilliant and highest summit of the mystic oracles."
+   }
   }
  }
 }
