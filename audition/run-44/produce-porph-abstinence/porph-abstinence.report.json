@@ -1,0 +1,48 @@
+{
+ "work": "porph-abstinence",
+ "parts": [
+  {
+   "file": "porph-abstinence-p1.mp3",
+   "minutes": 89.41,
+   "lines": 72,
+   "words": 14449,
+   "words_interpolated": 36,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "porph-abstinence-p2.mp3",
+   "minutes": 92.15,
+   "lines": 87,
+   "words": 14903,
+   "words_interpolated": 35,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.25,
+     "text": "Hesiod. Op. et Di. lib. i. v. 133.",
+     "line": "p2l0010"
+    }
+   ]
+  },
+  {
+   "file": "porph-abstinence-p3.mp3",
+   "minutes": 79.55,
+   "lines": 63,
+   "words": 13004,
+   "words_interpolated": 35,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "porph-abstinence-p4.mp3",
+   "minutes": 74.64,
+   "lines": 67,
+   "words": 12097,
+   "words_interpolated": 45,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
