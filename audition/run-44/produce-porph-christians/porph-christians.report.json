@@ -1,0 +1,213 @@
+{
+ "work": "porph-christians",
+ "parts": [
+  {
+   "file": "porph-christians-p1.mp3",
+   "minutes": 42.88,
+   "lines": 111,
+   "words": 7102,
+   "words_interpolated": 99,
+   "retakes": 46,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.82,
+     "text": "Preparation I.5.10:",
+     "line": "p1l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "Jerome, Epistle 57:8-9:",
+     "line": "p1l0022"
+    },
+    {
+     "group": 0,
+     "ratio": 2.07,
+     "text": "Cod. Lawr. 184. B. 64. saec. X. fol. 17r. (Scholion on Act. 15, 20).",
+     "line": "p1l0034"
+    },
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Jerome, Tract on Psalm LXXVII",
+     "line": "p1l0040"
+    },
+    {
+     "group": 0,
+     "ratio": 1.77,
+     "text": "Macarius, Apocriticus II:12:",
+     "line": "p1l0050"
+    },
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Jerome, Epistle 130:14:",
+     "line": "p1l0078"
+    },
+    {
+     "group": 0,
+     "ratio": 1.73,
+     "text": "Macarius, Apocriticus III: 32:",
+     "line": "p1l0089"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "Macarius, Apocriticus III: 34:",
+     "line": "p1l0093"
+    },
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "Macarius, Apocriticus III: 35:",
+     "line": "p1l0095"
+    }
+   ]
+  },
+  {
+   "file": "porph-christians-p2.mp3",
+   "minutes": 37.79,
+   "lines": 71,
+   "words": 6115,
+   "words_interpolated": 78,
+   "retakes": 16,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.0,
+     "text": "Theodoret, Graec. Affect. Cur. VII, 36:",
+     "line": "p2l0001"
+    },
+    {
+     "group": 0,
+     "ratio": 1.79,
+     "text": "Severianus Gabal., de Mundi Creatione, Orat. VI (PG 56, col. 487):",
+     "line": "p2l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 2.54,
+     "text": "H. (On 5:1) .",
+     "line": "p2l0029"
+    },
+    {
+     "group": 0,
+     "ratio": 2.3,
+     "text": "K. (On 7:5)",
+     "line": "p2l0031"
+    },
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Eusebius, Demonstratio, VI: 18: 11: from",
+     "line": "p2l0069"
+    }
+   ]
+  },
+  {
+   "file": "porph-christians-p3.mp3",
+   "minutes": 28.94,
+   "lines": 73,
+   "words": 4887,
+   "words_interpolated": 43,
+   "retakes": 26,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.6,
+     "text": "Macarius, Apocriticus II: 8:",
+     "line": "p3l0017"
+    },
+    {
+     "group": 0,
+     "ratio": 1.67,
+     "text": "Jerome, Quaest. In Genesim. 1:10:",
+     "line": "p3l0024"
+    },
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "Macarius, Apocriticus II: 14:",
+     "line": "p3l0048"
+    },
+    {
+     "group": 0,
+     "ratio": 1.99,
+     "text": "Anastasius Sinaita, Hodegos 13: (PG 89, col. 233)",
+     "line": "p3l0050"
+    },
+    {
+     "group": 0,
+     "ratio": 1.6,
+     "text": "Macarius, Apocriticus II: 16:",
+     "line": "p3l0067"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Macarius, Apocriticus II: 15:",
+     "line": "p3l0070"
+    }
+   ]
+  },
+  {
+   "file": "porph-christians-p4.mp3",
+   "minutes": 26.26,
+   "lines": 62,
+   "words": 4416,
+   "words_interpolated": 58,
+   "retakes": 29,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Macarius, Apocriticus IV: 22:",
+     "line": "p4l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 1.75,
+     "text": "Theophylakt, Enarr. In Joh.: (PG 123, col. 1141)",
+     "line": "p4l0029"
+    },
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "Macarius, Apocriticus IV: 19:",
+     "line": "p4l0033"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "Macarius, Apocriticus IV: 6:",
+     "line": "p4l0036"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "90a. Macarius, Apocriticus IV: 7:",
+     "line": "p4l0039"
+    },
+    {
+     "group": 0,
+     "ratio": 1.73,
+     "text": "90b. Nemesius, De Natura hom. 38:",
+     "line": "p4l0042"
+    },
+    {
+     "group": 0,
+     "ratio": 1.7,
+     "text": "Macarius, Apocriticus III: 16:",
+     "line": "p4l0058"
+    },
+    {
+     "group": 0,
+     "ratio": 1.72,
+     "text": "Jerome, Comm. in Isaiah. 3: 2:",
+     "line": "p4l0060"
+    }
+   ]
+  }
+ ]
+}
