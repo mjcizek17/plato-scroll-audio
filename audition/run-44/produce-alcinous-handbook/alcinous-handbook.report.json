@@ -1,0 +1,57 @@
+{
+ "work": "alcinous-handbook",
+ "parts": [
+  {
+   "file": "alcinous-handbook-p1.mp3",
+   "minutes": 24.53,
+   "lines": 34,
+   "words": 4558,
+   "words_interpolated": 28,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "alcinous-handbook-p2.mp3",
+   "minutes": 22.56,
+   "lines": 33,
+   "words": 4334,
+   "words_interpolated": 22,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "alcinous-handbook-p3.mp3",
+   "minutes": 24.53,
+   "lines": 40,
+   "words": 4772,
+   "words_interpolated": 11,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "21. On Respiration",
+     "line": "p3l0024"
+    }
+   ]
+  },
+  {
+   "file": "alcinous-handbook-p4.mp3",
+   "minutes": 21.51,
+   "lines": 30,
+   "words": 4156,
+   "words_interpolated": 15,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "alcinous-handbook-p5.mp3",
+   "minutes": 7.04,
+   "lines": 11,
+   "words": 1356,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
