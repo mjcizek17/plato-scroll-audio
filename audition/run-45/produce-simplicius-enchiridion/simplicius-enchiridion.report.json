@@ -1,0 +1,352 @@
+{
+ "work": "simplicius-enchiridion",
+ "parts": [
+  {
+   "file": "simplicius-enchiridion-p1.mp3",
+   "minutes": 78.87,
+   "lines": 72,
+   "words": 12914,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "simplicius-enchiridion-p2.mp3",
+   "minutes": 66.85,
+   "lines": 69,
+   "words": 10970,
+   "words_interpolated": 0,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "simplicius-enchiridion-p3.mp3",
+   "minutes": 91.87,
+   "lines": 83,
+   "words": 15059,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "simplicius-enchiridion-p4.mp3",
+   "minutes": 68.84,
+   "lines": 79,
+   "words": 11532,
+   "words_interpolated": 0,
+   "retakes": 11,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.88,
+     "text": "Chapters XVI, XVII",
+     "line": "p4l0018"
+    },
+    {
+     "group": 0,
+     "ratio": 1.82,
+     "text": "Chapter XXI",
+     "line": "p4l0055"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "Chapter XXII",
+     "line": "p4l0064"
+    }
+   ]
+  },
+  {
+   "file": "simplicius-enchiridion-p5.mp3",
+   "minutes": 65.38,
+   "lines": 70,
+   "words": 10789,
+   "words_interpolated": 0,
+   "retakes": 15,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "Chapter XXV",
+     "line": "p5l0005"
+    },
+    {
+     "group": 0,
+     "ratio": 1.78,
+     "text": "Chapter XXVII",
+     "line": "p5l0017"
+    },
+    {
+     "group": 0,
+     "ratio": 2.18,
+     "text": "Chapter XXIX",
+     "line": "p5l0029"
+    },
+    {
+     "group": 0,
+     "ratio": 1.95,
+     "text": "Chapter XXX",
+     "line": "p5l0039"
+    },
+    {
+     "group": 0,
+     "ratio": 2.01,
+     "text": "Chapter XXXI",
+     "line": "p5l0045"
+    }
+   ]
+  },
+  {
+   "file": "simplicius-enchiridion-p6.mp3",
+   "minutes": 83.48,
+   "lines": 79,
+   "words": 13936,
+   "words_interpolated": 0,
+   "retakes": 5,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.16,
+     "text": "Chapter XXXIV",
+     "line": "p6l0020"
+    }
+   ]
+  },
+  {
+   "file": "simplicius-enchiridion-p7.mp3",
+   "minutes": 140.3,
+   "lines": 119,
+   "words": 23191,
+   "words_interpolated": 2,
+   "retakes": 12,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.49,
+     "text": "Chapter XXXV",
+     "line": "p7l0002"
+    },
+    {
+     "group": 0,
+     "ratio": 1.96,
+     "text": "Chapter XXXVI",
+     "line": "p7l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.78,
+     "text": "Chapter XXXVII",
+     "line": "p7l0009"
+    },
+    {
+     "group": 0,
+     "ratio": 1.8,
+     "text": "Chapter XXXVIII",
+     "line": "p7l0051"
+    }
+   ]
+  },
+  {
+   "file": "simplicius-enchiridion-p8.mp3",
+   "minutes": 67.91,
+   "lines": 78,
+   "words": 11089,
+   "words_interpolated": 0,
+   "retakes": 21,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.07,
+     "text": "Chapter XL",
+     "line": "p8l0017"
+    },
+    {
+     "group": 0,
+     "ratio": 1.93,
+     "text": "Chapter XLI",
+     "line": "p8l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "Chapter XLIV",
+     "line": "p8l0036"
+    },
+    {
+     "group": 0,
+     "ratio": 1.87,
+     "text": "Chapter XLVI",
+     "line": "p8l0045"
+    },
+    {
+     "group": 0,
+     "ratio": 1.98,
+     "text": "Chapter XLVII",
+     "line": "p8l0057"
+    },
+    {
+     "group": 0,
+     "ratio": 1.9,
+     "text": "Chapter XLIX",
+     "line": "p8l0072"
+    }
+   ]
+  },
+  {
+   "file": "simplicius-enchiridion-p9.mp3",
+   "minutes": 67.95,
+   "lines": 85,
+   "words": 11208,
+   "words_interpolated": 2,
+   "retakes": 31,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Chapter LI",
+     "line": "p9l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "Chapter LII",
+     "line": "p9l0011"
+    },
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Chapter LIII",
+     "line": "p9l0016"
+    },
+    {
+     "group": 0,
+     "ratio": 1.78,
+     "text": "Chapter LVI",
+     "line": "p9l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 1.94,
+     "text": "Chapter LVII",
+     "line": "p9l0037"
+    },
+    {
+     "group": 0,
+     "ratio": 1.9,
+     "text": "Chapter LXI",
+     "line": "p9l0061"
+    },
+    {
+     "group": 0,
+     "ratio": 2.01,
+     "text": "Chapter LXII",
+     "line": "p9l0069"
+    },
+    {
+     "group": 0,
+     "ratio": 2.2,
+     "text": "Chapter LXIV",
+     "line": "p9l0073"
+    },
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "Chapter LXV",
+     "line": "p9l0080"
+    },
+    {
+     "group": 0,
+     "ratio": 2.03,
+     "text": "Vid. Plutarch. Moral. Tom. 1. .",
+     "line": "p9l0084"
+    }
+   ]
+  },
+  {
+   "file": "simplicius-enchiridion-p10.mp3",
+   "minutes": 68.54,
+   "lines": 69,
+   "words": 11231,
+   "words_interpolated": 1,
+   "retakes": 27,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.01,
+     "text": "Chapter LXVII",
+     "line": "p10l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 1.67,
+     "text": "Chapter LXVIII",
+     "line": "p10l0009"
+    },
+    {
+     "group": 0,
+     "ratio": 2.05,
+     "text": "Chapter LXIX",
+     "line": "p10l0011"
+    },
+    {
+     "group": 0,
+     "ratio": 2.43,
+     "text": "Chapter LXX",
+     "line": "p10l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 2.1,
+     "text": "Chapter LXXI",
+     "line": "p10l0026"
+    },
+    {
+     "group": 0,
+     "ratio": 1.99,
+     "text": "Chapter LXXIII",
+     "line": "p10l0039"
+    },
+    {
+     "group": 0,
+     "ratio": 2.01,
+     "text": "Chapter LXXIV",
+     "line": "p10l0045"
+    },
+    {
+     "group": 0,
+     "ratio": 2.15,
+     "text": "Chapter LXXV",
+     "line": "p10l0050"
+    },
+    {
+     "group": 0,
+     "ratio": 2.11,
+     "text": "Chapter LXXVI",
+     "line": "p10l0061"
+    }
+   ]
+  },
+  {
+   "file": "simplicius-enchiridion-p11.mp3",
+   "minutes": 8.19,
+   "lines": 15,
+   "words": 1340,
+   "words_interpolated": 1,
+   "retakes": 6,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "Chapter LXXVIII",
+     "line": "p11l0002"
+    },
+    {
+     "group": 0,
+     "ratio": 2.12,
+     "text": "Chapter LXXIX",
+     "line": "p11l0008"
+    }
+   ]
+  }
+ ]
+}
