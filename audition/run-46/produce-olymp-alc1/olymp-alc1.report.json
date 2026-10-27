@@ -1,0 +1,191 @@
+{
+ "work": "olymp-alc1",
+ "parts": [
+  {
+   "file": "olymp-alc1-p1.mp3",
+   "minutes": 46.78,
+   "lines": 140,
+   "words": 7206,
+   "words_interpolated": 197,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "olymp-alc1-p2.mp3",
+   "minutes": 52.28,
+   "lines": 69,
+   "words": 8357,
+   "words_interpolated": 201,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "olymp-alc1-p3.mp3",
+   "minutes": 24.72,
+   "lines": 33,
+   "words": 4016,
+   "words_interpolated": 113,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "olymp-alc1-p4.mp3",
+   "minutes": 41.12,
+   "lines": 80,
+   "words": 6547,
+   "words_interpolated": 155,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "olymp-alc1-p5.mp3",
+   "minutes": 25.17,
+   "lines": 25,
+   "words": 4170,
+   "words_interpolated": 93,
+   "retakes": 4,
+   "flagged_takes": []
+  },
+  {
+   "file": "olymp-alc1-p6.mp3",
+   "minutes": 39.85,
+   "lines": 102,
+   "words": 6188,
+   "words_interpolated": 150,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "olymp-alc1-p7.mp3",
+   "minutes": 28.94,
+   "lines": 62,
+   "words": 4409,
+   "words_interpolated": 110,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "Lecture 13",
+     "line": "p7l0041"
+    }
+   ]
+  },
+  {
+   "file": "olymp-alc1-p8.mp3",
+   "minutes": 38.65,
+   "lines": 45,
+   "words": 6014,
+   "words_interpolated": 135,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "olymp-alc1-p9.mp3",
+   "minutes": 29.1,
+   "lines": 75,
+   "words": 4556,
+   "words_interpolated": 122,
+   "retakes": 8,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.25,
+     "text": "and",
+     "line": "p9l0021"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "Lecture 17",
+     "line": "p9l0056"
+    }
+   ]
+  },
+  {
+   "file": "olymp-alc1-p10.mp3",
+   "minutes": 29.21,
+   "lines": 73,
+   "words": 4494,
+   "words_interpolated": 127,
+   "retakes": 7,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.45,
+     "text": "124A\u2013",
+     "line": "p10l0045"
+    }
+   ]
+  },
+  {
+   "file": "olymp-alc1-p11.mp3",
+   "minutes": 30.39,
+   "lines": 100,
+   "words": 4604,
+   "words_interpolated": 134,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Lecture 21",
+     "line": "p11l0068"
+    }
+   ]
+  },
+  {
+   "file": "olymp-alc1-p12.mp3",
+   "minutes": 29.64,
+   "lines": 94,
+   "words": 4509,
+   "words_interpolated": 122,
+   "retakes": 5,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.72,
+     "text": "Lecture 23",
+     "line": "p12l0022"
+    }
+   ]
+  },
+  {
+   "file": "olymp-alc1-p13.mp3",
+   "minutes": 30.32,
+   "lines": 45,
+   "words": 4657,
+   "words_interpolated": 138,
+   "retakes": 9,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.87,
+     "text": "Lecture 26",
+     "line": "p13l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.88,
+     "text": ":",
+     "line": "p13l0018"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "Lecture 27",
+     "line": "p13l0031"
+    }
+   ]
+  },
+  {
+   "file": "olymp-alc1-p14.mp3",
+   "minutes": 19.3,
+   "lines": 17,
+   "words": 3044,
+   "words_interpolated": 92,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
