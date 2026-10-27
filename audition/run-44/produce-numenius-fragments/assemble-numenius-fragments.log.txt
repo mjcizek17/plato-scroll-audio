@@ -1,0 +1,1 @@
+{"work": "numenius-fragments", "parts": [{"file": "numenius-fragments-p1.mp3", "minutes": 26.23, "lines": 122, "words": 4457, "words_interpolated": 29, "retakes": 3, "flagged_takes": []}, {"file": "numenius-fragments-p2.mp3", "minutes": 47.69, "lines": 214, "words": 8576, "words_interpolated": 73, "retakes": 3, "flagged_takes": []}]}
