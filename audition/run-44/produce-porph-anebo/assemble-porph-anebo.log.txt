@@ -1,0 +1,1 @@
+{"work": "porph-anebo", "parts": [{"file": "porph-anebo-p1.mp3", "minutes": 19.99, "lines": 42, "words": 3194, "words_interpolated": 4, "retakes": 0, "flagged_takes": []}]}
