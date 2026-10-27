@@ -1,0 +1,659 @@
+{
+ "work": "proclus-eltheo",
+ "parts": [
+  {
+   "file": "proclus-eltheo-p1.mp3",
+   "minutes": 24.77,
+   "lines": 52,
+   "words": 3980,
+   "words_interpolated": 21,
+   "retakes": 5,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-eltheo-p2.mp3",
+   "minutes": 25.79,
+   "lines": 65,
+   "words": 4009,
+   "words_interpolated": 16,
+   "retakes": 16,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.67,
+     "text": "Proposition 16",
+     "line": "p2l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 1.6,
+     "text": "Proposition 24",
+     "line": "p2l0045"
+    }
+   ]
+  },
+  {
+   "file": "proclus-eltheo-p3.mp3",
+   "minutes": 25.77,
+   "lines": 82,
+   "words": 3907,
+   "words_interpolated": 29,
+   "retakes": 11,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-eltheo-p4.mp3",
+   "minutes": 25.05,
+   "lines": 67,
+   "words": 3820,
+   "words_interpolated": 24,
+   "retakes": 15,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Proposition 57",
+     "line": "p4l0012"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "Proposition 63",
+     "line": "p4l0035"
+    },
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Proposition 66",
+     "line": "p4l0048"
+    }
+   ]
+  },
+  {
+   "file": "proclus-eltheo-p5.mp3",
+   "minutes": 26.14,
+   "lines": 79,
+   "words": 3877,
+   "words_interpolated": 24,
+   "retakes": 30,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Proposition 75",
+     "line": "p5l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Proposition 75",
+     "line": "p5l0018"
+    },
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Proposition 79",
+     "line": "p5l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "Proposition 82",
+     "line": "p5l0036"
+    },
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "Proposition 89",
+     "line": "p5l0058"
+    },
+    {
+     "group": 0,
+     "ratio": 1.72,
+     "text": "Proposition 93",
+     "line": "p5l0070"
+    }
+   ]
+  },
+  {
+   "file": "proclus-eltheo-p6.mp3",
+   "minutes": 26.31,
+   "lines": 66,
+   "words": 3999,
+   "words_interpolated": 28,
+   "retakes": 40,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.6,
+     "text": "Proposition 100",
+     "line": "p6l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "Proposition 101",
+     "line": "p6l0016"
+    },
+    {
+     "group": 0,
+     "ratio": 1.82,
+     "text": "Proposition 102",
+     "line": "p6l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "Proposition 105",
+     "line": "p6l0028"
+    },
+    {
+     "group": 0,
+     "ratio": 1.84,
+     "text": "Proposition 106",
+     "line": "p6l0031"
+    },
+    {
+     "group": 0,
+     "ratio": 1.87,
+     "text": "Proposition 107",
+     "line": "p6l0034"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "Proposition 108",
+     "line": "p6l0039"
+    },
+    {
+     "group": 0,
+     "ratio": 1.85,
+     "text": "Proposition 110",
+     "line": "p6l0045"
+    },
+    {
+     "group": 0,
+     "ratio": 1.73,
+     "text": "Proposition 111",
+     "line": "p6l0048"
+    },
+    {
+     "group": 0,
+     "ratio": 1.92,
+     "text": "Proposition 112",
+     "line": "p6l0051"
+    },
+    {
+     "group": 0,
+     "ratio": 1.96,
+     "text": "Proposition 114",
+     "line": "p6l0057"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "Proposition 116",
+     "line": "p6l0063"
+    }
+   ]
+  },
+  {
+   "file": "proclus-eltheo-p7.mp3",
+   "minutes": 26.05,
+   "lines": 58,
+   "words": 3790,
+   "words_interpolated": 20,
+   "retakes": 47,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Proposition 118",
+     "line": "p7l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "Proposition 119",
+     "line": "p7l0007"
+    },
+    {
+     "group": 0,
+     "ratio": 1.77,
+     "text": "Proposition 120",
+     "line": "p7l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "Proposition 121",
+     "line": "p7l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.6,
+     "text": "Proposition 123",
+     "line": "p7l0020"
+    },
+    {
+     "group": 0,
+     "ratio": 1.76,
+     "text": "Proposition 124",
+     "line": "p7l0023"
+    },
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "Proposition 125",
+     "line": "p7l0026"
+    },
+    {
+     "group": 0,
+     "ratio": 1.9,
+     "text": "Proposition 126",
+     "line": "p7l0029"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "Proposition 128",
+     "line": "p7l0035"
+    },
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Proposition 129",
+     "line": "p7l0038"
+    },
+    {
+     "group": 0,
+     "ratio": 2.16,
+     "text": "Proposition 130",
+     "line": "p7l0040"
+    },
+    {
+     "group": 0,
+     "ratio": 1.88,
+     "text": "Proposition 132",
+     "line": "p7l0046"
+    },
+    {
+     "group": 0,
+     "ratio": 1.84,
+     "text": "Proposition 133",
+     "line": "p7l0049"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Proposition 134",
+     "line": "p7l0052"
+    },
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Proposition 135",
+     "line": "p7l0055"
+    }
+   ]
+  },
+  {
+   "file": "proclus-eltheo-p8.mp3",
+   "minutes": 25.79,
+   "lines": 66,
+   "words": 3823,
+   "words_interpolated": 22,
+   "retakes": 38,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.86,
+     "text": "Proposition 137",
+     "line": "p8l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 1.8,
+     "text": "Proposition 138",
+     "line": "p8l0006"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Proposition 139",
+     "line": "p8l0009"
+    },
+    {
+     "group": 0,
+     "ratio": 2.02,
+     "text": "Proposition 140",
+     "line": "p8l0012"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Proposition 141",
+     "line": "p8l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 1.81,
+     "text": "Proposition 142",
+     "line": "p8l0018"
+    },
+    {
+     "group": 0,
+     "ratio": 1.95,
+     "text": "Proposition 143",
+     "line": "p8l0021"
+    },
+    {
+     "group": 0,
+     "ratio": 1.74,
+     "text": "Proposition 144",
+     "line": "p8l0024"
+    },
+    {
+     "group": 0,
+     "ratio": 1.95,
+     "text": "Proposition 145",
+     "line": "p8l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "Proposition 147",
+     "line": "p8l0033"
+    },
+    {
+     "group": 0,
+     "ratio": 1.96,
+     "text": "Proposition 156",
+     "line": "p8l0060"
+    }
+   ]
+  },
+  {
+   "file": "proclus-eltheo-p9.mp3",
+   "minutes": 27.13,
+   "lines": 68,
+   "words": 3860,
+   "words_interpolated": 21,
+   "retakes": 51,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "Proposition 159",
+     "line": "p9l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "Proposition 160",
+     "line": "p9l0006"
+    },
+    {
+     "group": 0,
+     "ratio": 1.97,
+     "text": "Proposition 161",
+     "line": "p9l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 1.74,
+     "text": "Proposition 162",
+     "line": "p9l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.75,
+     "text": "Proposition 163",
+     "line": "p9l0016"
+    },
+    {
+     "group": 0,
+     "ratio": 1.7,
+     "text": "Proposition 164",
+     "line": "p9l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 1.8,
+     "text": "Proposition 165",
+     "line": "p9l0022"
+    },
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "Proposition 166",
+     "line": "p9l0025"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "Proposition 167",
+     "line": "p9l0028"
+    },
+    {
+     "group": 0,
+     "ratio": 1.71,
+     "text": "Proposition 168",
+     "line": "p9l0032"
+    },
+    {
+     "group": 0,
+     "ratio": 1.79,
+     "text": "Proposition 169",
+     "line": "p9l0035"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "Proposition 171",
+     "line": "p9l0041"
+    },
+    {
+     "group": 0,
+     "ratio": 1.98,
+     "text": "Proposition 173",
+     "line": "p9l0047"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Proposition 174",
+     "line": "p9l0050"
+    },
+    {
+     "group": 0,
+     "ratio": 1.99,
+     "text": "Proposition 175",
+     "line": "p9l0053"
+    },
+    {
+     "group": 0,
+     "ratio": 2.29,
+     "text": "Proposition 176",
+     "line": "p9l0058"
+    },
+    {
+     "group": 0,
+     "ratio": 1.72,
+     "text": "Proposition 177",
+     "line": "p9l0063"
+    }
+   ]
+  },
+  {
+   "file": "proclus-eltheo-p10.mp3",
+   "minutes": 26.31,
+   "lines": 71,
+   "words": 3726,
+   "words_interpolated": 30,
+   "retakes": 55,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.67,
+     "text": "Proposition 179",
+     "line": "p10l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Proposition 181",
+     "line": "p10l0009"
+    },
+    {
+     "group": 0,
+     "ratio": 1.9,
+     "text": "Proposition 182",
+     "line": "p10l0012"
+    },
+    {
+     "group": 0,
+     "ratio": 1.86,
+     "text": "Proposition 183",
+     "line": "p10l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 1.76,
+     "text": "Proposition 185",
+     "line": "p10l0022"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "Proposition 186",
+     "line": "p10l0025"
+    },
+    {
+     "group": 0,
+     "ratio": 1.94,
+     "text": "Proposition 187",
+     "line": "p10l0028"
+    },
+    {
+     "group": 0,
+     "ratio": 1.81,
+     "text": "Proposition 188",
+     "line": "p10l0031"
+    },
+    {
+     "group": 0,
+     "ratio": 1.82,
+     "text": "Proposition 189",
+     "line": "p10l0034"
+    },
+    {
+     "group": 0,
+     "ratio": 1.82,
+     "text": "Proposition 192",
+     "line": "p10l0043"
+    },
+    {
+     "group": 0,
+     "ratio": 1.7,
+     "text": "Proposition 194",
+     "line": "p10l0049"
+    },
+    {
+     "group": 0,
+     "ratio": 1.91,
+     "text": "Proposition 195",
+     "line": "p10l0052"
+    },
+    {
+     "group": 0,
+     "ratio": 1.79,
+     "text": "Proposition 196",
+     "line": "p10l0055"
+    },
+    {
+     "group": 0,
+     "ratio": 2.03,
+     "text": "Proposition 197",
+     "line": "p10l0058"
+    },
+    {
+     "group": 0,
+     "ratio": 1.83,
+     "text": "Proposition 198",
+     "line": "p10l0061"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "Proposition 199",
+     "line": "p10l0064"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "Proposition 200",
+     "line": "p10l0067"
+    }
+   ]
+  },
+  {
+   "file": "proclus-eltheo-p11.mp3",
+   "minutes": 49.35,
+   "lines": 175,
+   "words": 7123,
+   "words_interpolated": 55,
+   "retakes": 26,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.6,
+     "text": "Proposition 205",
+     "line": "p11l0012"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "Proposition 206",
+     "line": "p11l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 1.77,
+     "text": "Proposition 209",
+     "line": "p11l0024"
+    },
+    {
+     "group": 0,
+     "ratio": 1.72,
+     "text": "Proposition 210",
+     "line": "p11l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 1.67,
+     "text": "Proposition 211",
+     "line": "p11l0030"
+    },
+    {
+     "group": 0,
+     "ratio": 1.76,
+     "text": "Endnotes",
+     "line": "p11l0033"
+    },
+    {
+     "group": 0,
+     "ratio": 2.61,
+     "text": "6 In Prop. 5.",
+     "line": "p11l0039"
+    },
+    {
+     "group": 0,
+     "ratio": 2.22,
+     "text": "In Prop. 93.",
+     "line": "p11l0123"
+    }
+   ]
+  }
+ ]
+}
