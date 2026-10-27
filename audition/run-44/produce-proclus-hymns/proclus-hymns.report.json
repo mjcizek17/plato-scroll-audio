@@ -1,0 +1,27 @@
+{
+ "work": "proclus-hymns",
+ "parts": [
+  {
+   "file": "proclus-hymns-p1.mp3",
+   "minutes": 18.8,
+   "lines": 256,
+   "words": 2450,
+   "words_interpolated": 107,
+   "retakes": 19,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.61,
+     "text": "Thee too they celebrate in sacred hymns \u2060 30",
+     "line": "p1l0032"
+    },
+    {
+     "group": 0,
+     "ratio": 1.69,
+     "text": "And rage insane, of earth-begotten love. \u2060 20",
+     "line": "p1l0189"
+    }
+   ]
+  }
+ ]
+}
