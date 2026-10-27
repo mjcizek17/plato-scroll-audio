@@ -1,0 +1,318 @@
+{
+ "work": "dam-principles",
+ "parts": [
+  {
+   "file": "dam-principles-p1.mp3",
+   "minutes": 25.95,
+   "lines": 25,
+   "words": 4206,
+   "words_interpolated": 102,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p2.mp3",
+   "minutes": 28.12,
+   "lines": 22,
+   "words": 4584,
+   "words_interpolated": 115,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p3.mp3",
+   "minutes": 25.5,
+   "lines": 20,
+   "words": 4084,
+   "words_interpolated": 91,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.78,
+     "text": "Chapter 11 \u2014 Nor Is the Irrational Soul \u00b7 pp. 33\u201334",
+     "line": "p3l0003"
+    }
+   ]
+  },
+  {
+   "file": "dam-principles-p4.mp3",
+   "minutes": 27.36,
+   "lines": 21,
+   "words": 4262,
+   "words_interpolated": 103,
+   "retakes": 7,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.7,
+     "text": "Chapter 18 \u2014 Life Twofold; the Scale of Separability \u00b7 pp. 49\u201351",
+     "line": "p4l0005"
+    },
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Chapter 21 \u2014 Is Being the Principle? The One before Being \u00b7 pp. 53\u201354",
+     "line": "p4l0013"
+    }
+   ]
+  },
+  {
+   "file": "dam-principles-p5.mp3",
+   "minutes": 25.27,
+   "lines": 23,
+   "words": 4021,
+   "words_interpolated": 101,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p6.mp3",
+   "minutes": 25.26,
+   "lines": 13,
+   "words": 4104,
+   "words_interpolated": 83,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p7.mp3",
+   "minutes": 30.66,
+   "lines": 23,
+   "words": 4956,
+   "words_interpolated": 114,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p8.mp3",
+   "minutes": 28.06,
+   "lines": 19,
+   "words": 4486,
+   "words_interpolated": 103,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p9.mp3",
+   "minutes": 28.54,
+   "lines": 21,
+   "words": 4561,
+   "words_interpolated": 117,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p10.mp3",
+   "minutes": 25.53,
+   "lines": 14,
+   "words": 4110,
+   "words_interpolated": 93,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p11.mp3",
+   "minutes": 32.62,
+   "lines": 24,
+   "words": 5200,
+   "words_interpolated": 148,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p12.mp3",
+   "minutes": 26.37,
+   "lines": 17,
+   "words": 4202,
+   "words_interpolated": 94,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p13.mp3",
+   "minutes": 27.48,
+   "lines": 18,
+   "words": 4433,
+   "words_interpolated": 103,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p14.mp3",
+   "minutes": 27.35,
+   "lines": 19,
+   "words": 4379,
+   "words_interpolated": 132,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p15.mp3",
+   "minutes": 31.99,
+   "lines": 16,
+   "words": 4999,
+   "words_interpolated": 134,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p16.mp3",
+   "minutes": 33.54,
+   "lines": 19,
+   "words": 5300,
+   "words_interpolated": 123,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p17.mp3",
+   "minutes": 46.26,
+   "lines": 28,
+   "words": 7238,
+   "words_interpolated": 173,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p18.mp3",
+   "minutes": 28.73,
+   "lines": 16,
+   "words": 4475,
+   "words_interpolated": 101,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p19.mp3",
+   "minutes": 28.21,
+   "lines": 12,
+   "words": 4491,
+   "words_interpolated": 108,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p20.mp3",
+   "minutes": 33.02,
+   "lines": 19,
+   "words": 5216,
+   "words_interpolated": 133,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p21.mp3",
+   "minutes": 26.49,
+   "lines": 13,
+   "words": 4189,
+   "words_interpolated": 100,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p22.mp3",
+   "minutes": 29.54,
+   "lines": 19,
+   "words": 4638,
+   "words_interpolated": 125,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p23.mp3",
+   "minutes": 24.3,
+   "lines": 15,
+   "words": 3872,
+   "words_interpolated": 87,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p24.mp3",
+   "minutes": 35.04,
+   "lines": 22,
+   "words": 5468,
+   "words_interpolated": 121,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 1,
+     "ratio": 4.05,
+     "text": "312\u2013317",
+     "line": "p24l0015"
+    }
+   ]
+  },
+  {
+   "file": "dam-principles-p25.mp3",
+   "minutes": 25.59,
+   "lines": 18,
+   "words": 3941,
+   "words_interpolated": 88,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p26.mp3",
+   "minutes": 31.86,
+   "lines": 21,
+   "words": 4845,
+   "words_interpolated": 150,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 1,
+     "ratio": 1.68,
+     "text": "the Same Rides Upon All and Is Exalted Above All \u00b7 pp. 336\u2013339",
+     "line": "p26l0015"
+    }
+   ]
+  },
+  {
+   "file": "dam-principles-p27.mp3",
+   "minutes": 27.37,
+   "lines": 24,
+   "words": 4151,
+   "words_interpolated": 108,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p28.mp3",
+   "minutes": 30.47,
+   "lines": 25,
+   "words": 4542,
+   "words_interpolated": 122,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p29.mp3",
+   "minutes": 29.14,
+   "lines": 23,
+   "words": 4624,
+   "words_interpolated": 116,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p30.mp3",
+   "minutes": 28.01,
+   "lines": 29,
+   "words": 4340,
+   "words_interpolated": 127,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "dam-principles-p31.mp3",
+   "minutes": 19.66,
+   "lines": 26,
+   "words": 2995,
+   "words_interpolated": 101,
+   "retakes": 1,
+   "flagged_takes": []
+  }
+ ]
+}
