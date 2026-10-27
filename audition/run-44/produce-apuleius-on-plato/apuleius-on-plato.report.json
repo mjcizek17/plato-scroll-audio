@@ -1,0 +1,32 @@
+{
+ "work": "apuleius-on-plato",
+ "parts": [
+  {
+   "file": "apuleius-on-plato-p1.mp3",
+   "minutes": 31.93,
+   "lines": 19,
+   "words": 5911,
+   "words_interpolated": 13,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "apuleius-on-plato-p2.mp3",
+   "minutes": 48.0,
+   "lines": 28,
+   "words": 9263,
+   "words_interpolated": 15,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "apuleius-on-plato-p3.mp3",
+   "minutes": 35.24,
+   "lines": 98,
+   "words": 6194,
+   "words_interpolated": 14,
+   "retakes": 1,
+   "flagged_takes": []
+  }
+ ]
+}
