@@ -1,0 +1,57 @@
+{
+ "work": "proclus-fate",
+ "parts": [
+  {
+   "file": "proclus-fate-p1.mp3",
+   "minutes": 99.46,
+   "lines": 64,
+   "words": 16082,
+   "words_interpolated": 68,
+   "retakes": 26,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.9,
+     "text": "To",
+     "line": "p1l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 1.65,
+     "text": "4.",
+     "line": "p1l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 1.77,
+     "text": "12.",
+     "line": "p1l0021"
+    },
+    {
+     "group": 0,
+     "ratio": 2.2,
+     "text": "31.",
+     "line": "p1l0041"
+    },
+    {
+     "group": 0,
+     "ratio": 1.84,
+     "text": "33.",
+     "line": "p1l0043"
+    },
+    {
+     "group": 0,
+     "ratio": 2.08,
+     "text": "37.",
+     "line": "p1l0047"
+    },
+    {
+     "group": 0,
+     "ratio": 1.75,
+     "text": "38.",
+     "line": "p1l0048"
+    }
+   ]
+  }
+ ]
+}
