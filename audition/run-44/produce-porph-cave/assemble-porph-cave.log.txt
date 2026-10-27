@@ -1,0 +1,1 @@
+{"work": "porph-cave", "parts": [{"file": "porph-cave-p1.mp3", "minutes": 46.62, "lines": 51, "words": 7343, "words_interpolated": 29, "retakes": 0, "flagged_takes": []}]}
