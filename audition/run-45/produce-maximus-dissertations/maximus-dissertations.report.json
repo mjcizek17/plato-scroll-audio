@@ -1,0 +1,176 @@
+{
+ "work": "maximus-dissertations",
+ "parts": [
+  {
+   "file": "maximus-dissertations-p1.mp3",
+   "minutes": 31.17,
+   "lines": 51,
+   "words": 5824,
+   "words_interpolated": 34,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p2.mp3",
+   "minutes": 23.78,
+   "lines": 38,
+   "words": 4338,
+   "words_interpolated": 16,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p3.mp3",
+   "minutes": 27.9,
+   "lines": 44,
+   "words": 5222,
+   "words_interpolated": 28,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p4.mp3",
+   "minutes": 27.63,
+   "lines": 40,
+   "words": 5148,
+   "words_interpolated": 18,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p5.mp3",
+   "minutes": 21.88,
+   "lines": 31,
+   "words": 4137,
+   "words_interpolated": 10,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p6.mp3",
+   "minutes": 22.69,
+   "lines": 30,
+   "words": 4245,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p7.mp3",
+   "minutes": 31.11,
+   "lines": 44,
+   "words": 5671,
+   "words_interpolated": 17,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p8.mp3",
+   "minutes": 25.36,
+   "lines": 32,
+   "words": 4708,
+   "words_interpolated": 31,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p9.mp3",
+   "minutes": 30.13,
+   "lines": 41,
+   "words": 5652,
+   "words_interpolated": 19,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p10.mp3",
+   "minutes": 24.77,
+   "lines": 32,
+   "words": 4601,
+   "words_interpolated": 22,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p11.mp3",
+   "minutes": 24.75,
+   "lines": 30,
+   "words": 4723,
+   "words_interpolated": 22,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p12.mp3",
+   "minutes": 25.56,
+   "lines": 32,
+   "words": 4677,
+   "words_interpolated": 33,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p13.mp3",
+   "minutes": 26.27,
+   "lines": 31,
+   "words": 4827,
+   "words_interpolated": 23,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p14.mp3",
+   "minutes": 25.05,
+   "lines": 30,
+   "words": 4685,
+   "words_interpolated": 32,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p15.mp3",
+   "minutes": 27.78,
+   "lines": 36,
+   "words": 5277,
+   "words_interpolated": 36,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p16.mp3",
+   "minutes": 39.99,
+   "lines": 44,
+   "words": 7495,
+   "words_interpolated": 52,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p17.mp3",
+   "minutes": 23.3,
+   "lines": 26,
+   "words": 4293,
+   "words_interpolated": 26,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p18.mp3",
+   "minutes": 23.33,
+   "lines": 25,
+   "words": 4198,
+   "words_interpolated": 23,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "maximus-dissertations-p19.mp3",
+   "minutes": 12.67,
+   "lines": 15,
+   "words": 2383,
+   "words_interpolated": 10,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
