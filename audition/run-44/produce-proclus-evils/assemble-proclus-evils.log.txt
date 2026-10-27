@@ -1,0 +1,1 @@
+{"work": "proclus-evils", "parts": [{"file": "proclus-evils-p1.mp3", "minutes": 145.5, "lines": 112, "words": 23329, "words_interpolated": 108, "retakes": 0, "flagged_takes": []}]}
