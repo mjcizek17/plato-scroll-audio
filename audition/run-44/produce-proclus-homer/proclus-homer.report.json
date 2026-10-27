@@ -1,0 +1,66 @@
+{
+ "work": "proclus-homer",
+ "parts": [
+  {
+   "file": "proclus-homer-p1.mp3",
+   "minutes": 28.19,
+   "lines": 24,
+   "words": 4425,
+   "words_interpolated": 11,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-homer-p2.mp3",
+   "minutes": 26.35,
+   "lines": 28,
+   "words": 4027,
+   "words_interpolated": 26,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-homer-p3.mp3",
+   "minutes": 26.2,
+   "lines": 38,
+   "words": 4074,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-homer-p4.mp3",
+   "minutes": 26.74,
+   "lines": 40,
+   "words": 4117,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-homer-p5.mp3",
+   "minutes": 26.93,
+   "lines": 36,
+   "words": 4103,
+   "words_interpolated": 3,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.24,
+     "text": "And,",
+     "line": "p5l0007"
+    }
+   ]
+  },
+  {
+   "file": "proclus-homer-p6.mp3",
+   "minutes": 19.32,
+   "lines": 38,
+   "words": 3137,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
