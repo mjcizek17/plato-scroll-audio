@@ -1,0 +1,12 @@
+{
+ "work": "rep",
+ "patched": [
+  {
+   "part": "rep-p9",
+   "entry": 1209,
+   "old_s": 48.33,
+   "new_s": 48.28,
+   "words": 132
+  }
+ ]
+}
