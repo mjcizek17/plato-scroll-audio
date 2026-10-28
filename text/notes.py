@@ -18,7 +18,7 @@ Kept: the speaker's own asides ("(for I was certain that ...)"), glosses that ar
 etymologies: "(aei thei peri tou aera reon)", "(the son of good fortune)"), and anything not matching a rule below."""
 import os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import numbers as _numbers  # noqa: E402  (text/numbers.py: figures written out)
+import figures as _numbers  # noqa: E402  (text/figures.py: figures written out; not "numbers", which clashes with the stdlib module)
 import speak_fix as _caps  # noqa: E402  (all-capitals words read as words)
 
 PAREN = re.compile(r"\((?:[^()]|\([^()]*\))*\)")
@@ -118,7 +118,7 @@ def silent_mask(text, work=""):
 
 def plan(text, work=""):
     """(spoken_text, counts): what the voice reads, and for every printed word how many spoken words stand for it
-    (0 = an editor's note, not read; 1 = itself; more = a figure written out, text/numbers.py)."""
+    (0 = an editor's note, not read; 1 = itself; more = a figure written out, text/figures.py)."""
     mask = silent_mask(text, work)
     base = re.sub(r"-[a-z]$", "", work or "")
     if base not in _caps.GEOMETRY:

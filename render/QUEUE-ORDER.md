@@ -7,7 +7,7 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
 
 ## 2026-10-27 evening — figures and section numbers (user's request: "stop all recordings and fix this")
 - The voices misread figures ("478" → "578", "186 B.C." → "eighteen-six"). From now on every figure is written out in words
-  before it is spoken (text/numbers.py, via text/notes.py plan()), and bare page / chapter / section / verse numbers
+  before it is spoken (text/figures.py, via text/notes.py plan()), and bare page / chapter / section / verse numbers
   (Plutarch's "596 1 1", ".” 2 But…", the Golden Verses' line numbers) are not read at all.
 - render/queue.json is now the repair: re-record the 823 paragraphs with figures in 80 published works (patch mode, ~14 h
   of audio) and splice them in. The Seneca batch (queue G) was cancelled for it and saved as render/next/queue-G-stoics.json —

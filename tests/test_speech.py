@@ -3,6 +3,7 @@ Run: python3 tests/test_speech.py            (fast cases)
      python3 tests/test_speech.py --corpus   (every line of every script: the mapping must stay word-for-word)
 The produce workflow runs both before any rendering."""
 import glob, json, os, re, sys
+import numbers  # noqa: F401  the stdlib module torch loads first on a runner: our modules must not share its name
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "text"))

@@ -1,5 +1,5 @@
 """List the editor's notes the recording will skip (text/notes.py), brackets that look like notes but are read, and
-the paragraphs whose figures are written out in words (text/numbers.py).
+the paragraphs whose figures are written out in words (text/figures.py).
 Usage: python tools/lint_notes.py render/queue.json | WORK...
 Runs in the produce workflow before rendering; it never fails the run, it only reports, so a new kind of note can be
 added to text/notes.py before the recording is made."""
