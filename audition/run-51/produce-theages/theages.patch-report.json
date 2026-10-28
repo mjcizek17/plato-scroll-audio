@@ -1,0 +1,19 @@
+{
+ "work": "theages",
+ "patched": [
+  {
+   "part": "theages-p1",
+   "entry": 95,
+   "old_s": 13.61,
+   "new_s": 13.79,
+   "words": 45
+  },
+  {
+   "part": "theages-p1",
+   "entry": 89,
+   "old_s": 32.43,
+   "new_s": 33.54,
+   "words": 88
+  }
+ ]
+}
