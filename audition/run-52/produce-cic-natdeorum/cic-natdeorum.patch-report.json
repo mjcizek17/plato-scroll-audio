@@ -1,0 +1,12 @@
+{
+ "work": "cic-natdeorum",
+ "patched": [
+  {
+   "part": "cic-natdeorum-p1",
+   "entry": 1,
+   "old_s": 12.88,
+   "new_s": 13.46,
+   "words": 32
+  }
+ ]
+}
