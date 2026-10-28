@@ -19,6 +19,7 @@ etymologies: "(aei thei peri tou aera reon)", "(the son of good fortune)"), and 
 import os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import numbers as _numbers  # noqa: E402  (text/numbers.py: figures written out)
+import speak_fix as _caps  # noqa: E402  (all-capitals words read as words)
 
 PAREN = re.compile(r"\((?:[^()]|\([^()]*\))*\)")
 
@@ -50,6 +51,9 @@ LOCUS = re.compile(r"""^\(\s*(?:
     | ad\s+Att\.[^()]* | Ep\.\s+ad\b[^()]* | [^()]*\bpp?\.\s*\d[^()]* | [^()]{1,30}’s\s+translation
     | \w+\.?,\s+[A-Z][a-z]+\.
 )\s*\)$""", re.X)
+# editions whose running text prints chapter / section numbers after each sentence (".” 2 But…")
+LOCATOR_MID = {"plut-lives-1", "plut-lives-2", "plut-lives-3", "plut-lives-4", "plut-lives-5", "plut-moralia-1",
+               "cic-finibus", "cic-officiis", "cic-divinatione", "olymp-alc1", "iamb-protrepticus", "hierocles-golden-verses"}
 LOCATOR = re.compile(r"(?:^|[.!?”’\")\]]\s)(\d{1,4}(?: \d{1,4}){0,2}) (?=[A-Z“\"‘(])")
 NOT_ABBR = re.compile(r"^\(\s*(?:Yes|No|True|Well|Good|Right|Nay|Aye|So|Indeed)\.?\s*\)$", re.I)
 
@@ -88,9 +92,20 @@ def notes(text, work=""):
 def silent_mask(text, work=""):
     """one flag per printed word: True = not spoken (an editor's note, or a page / section / verse number)"""
     spans = notes(text, work)
+    # square brackets are the editor's too ("[and found him feasting]"): the page does not light them, so they are not read
+    spans += [(m.start(), m.end(), "bracket") for m in re.finditer(r"\[[^\]]*\]", text)]
     # bare figures that are the edition's page, chapter, section or verse numbers, not the author's words: at the start
     # of a line ("596 1 1 Archidamus...") or after a sentence (".” 2 But after..."), before a capitalised word
-    spans += [(m.start(1), m.end(1), "locator") for m in LOCATOR.finditer(text)]
+    for m in LOCATOR.finditer(text):
+        before = text[: m.start(1)].rstrip()
+        mid = m.start(1) > 0
+        if mid and (re.sub(r"-[a-z]$", "", work or "") not in LOCATOR_MID):
+            continue   # a figure after a full stop is a section number only in editions that print them
+        if mid and re.search(r"(?:^|\s)(?:c|ca|p|pp|l|ll|vol|no|fl|b|d|r|lib|cap|ch|i\.e|e\.g|etc|viz|cf|St|Mt|Dr|Mr|Mrs|Prof)\.$", before):
+            continue   # "c. 478": the full stop is an abbreviation's
+        if re.match(r"^(?:BC|BCE|AD|CE|B\.C|A\.D)\b", text[m.end():].lstrip()):
+            continue   # "478 BCE": a date
+        spans.append((m.start(1), m.end(1), "locator"))
     mask, pos = [], 0
     for w in text.split():
         i = text.index(w, pos); j = i + len(w); pos = j
@@ -104,7 +119,13 @@ def silent_mask(text, work=""):
 def plan(text, work=""):
     """(spoken_text, counts): what the voice reads, and for every printed word how many spoken words stand for it
     (0 = an editor's note, not read; 1 = itself; more = a figure written out, text/numbers.py)."""
-    words, mask = text.split(), silent_mask(text, work)
+    mask = silent_mask(text, work)
+    base = re.sub(r"-[a-z]$", "", work or "")
+    if base not in _caps.GEOMETRY:
+        fixed = _caps.fix(text)              # "IT IS, I think" -> "It is, I think" (same words, same count)
+        if len(fixed.split()) == len(text.split()):
+            text = fixed
+    words = text.split()
     out, counts = [], []
     for i, (w, m) in enumerate(zip(words, mask)):
         if m:
@@ -115,13 +136,27 @@ def plan(text, work=""):
                     out[-1] += tail
             continue
         said = _numbers.spoken(w, words[i - 1] if i else "", words[i + 1] if i + 1 < len(words) else "")
-        if said:
+        if said is not None and all(len(x.split()) == 1 for x in said):
             out += said
             counts.append(len(said))
+            if not said and out:   # a section number dropped mid-line keeps the sentence's punctuation before it
+                pass
         else:
             out.append(w)
             counts.append(1)
-    return " ".join(out), counts
+    # stray square brackets (an editor's insertion that runs over several paragraphs) are not read
+    if "[" in text or "]" in text:
+        fixed, counts2, j = [], [], 0
+        for c in counts:
+            toks = out[j: j + c]; j += c
+            toks = [re.sub(r"[\[\]]", "", t) for t in toks]
+            toks = [t for t in toks if re.search(r"[0-9A-Za-zÀ-ÿ]", t) or not re.fullmatch(r"[\[\]]*", t)]
+            fixed += toks; counts2.append(len(toks))
+        out, counts = fixed, counts2
+    spoken_text = " ".join(out)
+    if len(spoken_text.split()) != sum(counts) or len(counts) != len(text.split()):
+        return text, [1] * len(text.split())   # never let a bad expansion put the read-along out of step
+    return spoken_text, counts
 
 
 def spoken(text, work=""):

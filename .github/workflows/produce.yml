@@ -35,6 +35,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 tools/check_cast.py
+      - name: Speech rules still hold (tests/test_speech.py)
+        run: python3 tests/test_speech.py
+      - name: Everything queued is safe to read aloud, or stop here (tools/speech_gate.py)
+        run: python3 tools/speech_gate.py render/queue.json
       - name: Editor's notes the voices will skip (text/notes.py) and brackets to check
         run: python3 tools/lint_notes.py render/queue.json
       - name: Make missing reference clips (only when a cast entry's clip is not in cast/refs — the clips are committed)

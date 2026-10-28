@@ -17,6 +17,9 @@ MAXC = 300
 # Watchdog: one sentence group normally takes a minute or two on a runner. A take that runs past the limit is
 # abandoned (counted as a retake, new seed); if every seed stalls, the group is performed in two halves.
 LIMIT = int(os.environ.get("HV_GROUP_LIMIT", "900"))
+# A take whose words align to its text with a mean score under this is tried once more with another seed
+# (Chatterbox now and then drops or garbles a clause while keeping a plausible length).
+ALIGN_MIN = float(os.environ.get("HV_ALIGN_MIN", "0.45"))
 
 
 class Stalled(Exception):
@@ -71,6 +74,7 @@ class Aligner:
         clean = [re.sub(r"[^a-z]", "", w.lower()) for w in words]
         keep = [i for i, w in enumerate(clean) if w]
         starts = [None] * len(words)
+        self.score = None
         if keep:
             try:
                 wav = torchaudio.functional.resample(torch.tensor(audio).unsqueeze(0), sr, self.sr)
@@ -80,6 +84,8 @@ class Aligner:
                 ratio = wav.size(1) / em.size(1) / self.sr
                 for i, sp in zip(keep, spans):
                     starts[i] = sp[0].start * ratio
+                # how well the take matches its text (mean token score, 0..1): a dropped or garbled passage scores low
+                self.score = float(np.mean([t.score for sp in spans for t in sp]))
             except Exception as e:  # alignment failure: interpolate this group's words
                 print("align failed:", e, flush=True)
         return list(zip(words, starts))
@@ -133,7 +139,20 @@ def main(work, a, b, out):
                 flags.append({"group": gi, "ratio": round(best[1], 2), "text": g[:80]})
             if pcm:
                 pcm.append(np.zeros(int(0.28 * sr), np.float32)); off += 0.28
-            toks += [(w, None if t is None else off + t) for w, t in align(best[0], sr, g)]
+            aligned = align(best[0], sr, g)
+            # the take is the right length but does not match its words (a skipped or garbled passage): one more seed
+            if align.score is not None and align.score < ALIGN_MIN:
+                y = take(g, zlib.crc32(f"{work}{l['id']}{gi}score".encode()))
+                ry = (len(y) / sr) / max(want, 0.4)
+                s0 = align.score
+                al2 = align(y, sr, g)
+                if 0.6 <= ry <= 1.6 and align.score is not None and align.score > s0:
+                    best, aligned = (y, ry), al2
+                    flags.append({"group": gi, "ratio": round(ry, 2), "text": g[:80], "note": f"re-taken: match {s0:.2f} -> {align.score:.2f}"})
+                else:
+                    flags.append({"group": gi, "ratio": round(best[1], 2), "text": g[:80], "note": f"poor match to text ({s0:.2f})"})
+                retakes += 1
+            toks += [(w, None if t is None else off + t) for w, t in aligned]
             pcm.append(best[0].astype(np.float32)); off += len(best[0]) / sr
         audio = np.concatenate(pcm) if pcm else np.zeros(int(0.1 * sr), np.float32)   # a line that is all editor's note ("(Rogers.)") is silent
         write_wav(f"{out}/{l['id']}.wav", audio, sr)

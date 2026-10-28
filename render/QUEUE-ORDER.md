@@ -15,3 +15,16 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
   the spoken section numbers out of the paragraphs that were not re-recorded.
 - The user dislikes the "Narrator" voice (cast/refs/narrator.wav: Hesiod, Xenophanes and 22 other works). Do not record
   any new work with it; a replacement is being auditioned.
+
+## 2026-10-27 night — nothing renders until the user has approved the speech rules
+- The user: "Let's perfect the audio before doing any more renders — think of all the things that can go wrong."
+  Every run was cancelled (produce 48 = the figures repair, slice-notes, audition-voice). Nothing is queued; render/queue.json
+  still holds the repair patch and will be pushed again, recomputed, when he says go.
+- The produce workflow now stops itself before any rendering if anything in the queue is unsafe to read:
+  tests/test_speech.py (the rules) and tools/speech_gate.py (count mismatches, figures left to a voice, the retired
+  Narrator clip, uncast speakers). Run both locally before pushing a queue.
+- Chatterbox takes whose forced alignment scores poorly (a dropped or garbled clause at a plausible length) are re-taken
+  once (HV_ALIGN_MIN, engines/chatterbox_lines.py) and flagged in the assemble report.
+- 13 of the 80 works in the repair queue are read by the retired Narrator clip (24 whole works, 25.5 h in all); the gate
+  refuses to patch them in that voice. They need a new reader and a full re-record — the user chooses the voice from the
+  Orphic Theogony audition (audition/old-reader.json) first.

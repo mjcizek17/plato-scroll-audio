@@ -10,23 +10,29 @@ import json, re, sys
 GEOMETRY = {"physics", "prior-analytics", "posterior-analytics", "meteorology", "on-the-heavens", "metaphysics",
             "on-memory-and-reminiscence", "nicomachean-ethics", "the-history-of-animals", "euclid-elements", "euclid-data"}
 ROMAN = re.compile(r"^[IVXLCDM]+$")
-CAPW = re.compile(r"^([“‘(\"']*)([A-Z][A-Z’']+)([.,;:!?’”)\"']*)$")
+CAPW = re.compile(r"^([“‘(\"']*)([A-Z][A-Z’'\-]+)([.,;:!?’”)\"']*)$")
+
+
+ERAS = {"BC", "BCE", "AD", "CE", "MSS", "MS"}
 
 
 def word_ok(w):
-    return len(w) >= 2 and not ROMAN.match(w) and re.search(r"[AEIOUY]", w)
+    return len(w) >= 2 and not ROMAN.match(w) and w not in ERAS and re.search(r"[AEIOUY]", w)
 
 
 def fix(text):
     toks = text.split(" ")
     caps = [bool((m := CAPW.match(t)) and word_ok(m.group(2))) for t in toks]
     out = list(toks)
+    # tokens that do not count as words before an opening capital: figures, dashes, section labels like "I." or "(ii.)"
+    letters = [bool(re.search(r"[A-Za-z]", t)) and not re.fullmatch(r"[(\[]*[IVXLCivxlc]+\.?[)\]]*\.?", t) for t in toks]
     for i, t in enumerate(toks):
-        lead = all(caps[:i + 1])                                       # part of the opening run of capitals
+        # part of the opening run of capitals ("1 1 THERE is", "— THIS is": figures and dashes before it do not count)
+        lead = caps[i] and all(caps[j] or not letters[j] for j in range(i + 1))
         run = caps[i] and ((i > 0 and caps[i - 1]) or (i + 1 < len(toks) and caps[i + 1]))
         if caps[i] and (lead or run):
             m = CAPW.match(t); w = m.group(2).lower()
-            if i == 0 or toks[i - 1].endswith((".", "!", "?", ":", "”")) or (lead and i == 0):
+            if lead or toks[i - 1].endswith((".", "!", "?", ":", "”")):
                 w = w[0].upper() + w[1:]
             if w.lower() in ("i",):
                 w = "I"
