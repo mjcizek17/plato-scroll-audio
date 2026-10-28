@@ -7,7 +7,8 @@ uncertain.)"). The reader shows them; the narrator skips them.
 
 notes(text, work) -> [(start_char, end_char, category)] for each bracket to skip
 silent_mask(text, work) -> one bool per whitespace word: True = not spoken
-spoken(text, work) -> the text without those words (what the voice is given)
+plan(text, work) -> (spoken text, spoken-word count per printed word): notes dropped, figures written out in words
+spoken(text, work) -> the spoken text alone
 
 The read-along keeps every word of the printed text: a skipped word gets the start time of the next spoken word, so
 the highlight passes over it. The recording tools use these functions, so a note in a new script is never read;
@@ -15,7 +16,9 @@ tools/lint_notes.py lists what is skipped, and any bracket that looks like a not
 
 Kept: the speaker's own asides ("(for I was certain that ...)"), glosses that are part of the argument (Cratylus'
 etymologies: "(aei thei peri tou aera reon)", "(the son of good fortune)"), and anything not matching a rule below."""
-import re
+import os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import numbers as _numbers  # noqa: E402  (text/numbers.py: figures written out)
 
 PAREN = re.compile(r"\((?:[^()]|\([^()]*\))*\)")
 
@@ -47,6 +50,7 @@ LOCUS = re.compile(r"""^\(\s*(?:
     | ad\s+Att\.[^()]* | Ep\.\s+ad\b[^()]* | [^()]*\bpp?\.\s*\d[^()]* | [^()]{1,30}’s\s+translation
     | \w+\.?,\s+[A-Z][a-z]+\.
 )\s*\)$""", re.X)
+LOCATOR = re.compile(r"(?:^|[.!?”’\")\]]\s)(\d{1,4}(?: \d{1,4}){0,2}) (?=[A-Z“\"‘(])")
 NOT_ABBR = re.compile(r"^\(\s*(?:Yes|No|True|Well|Good|Right|Nay|Aye|So|Indeed)\.?\s*\)$", re.I)
 
 
@@ -82,7 +86,11 @@ def notes(text, work=""):
 
 
 def silent_mask(text, work=""):
+    """one flag per printed word: True = not spoken (an editor's note, or a page / section / verse number)"""
     spans = notes(text, work)
+    # bare figures that are the edition's page, chapter, section or verse numbers, not the author's words: at the start
+    # of a line ("596 1 1 Archidamus...") or after a sentence (".” 2 But after..."), before a capitalised word
+    spans += [(m.start(1), m.end(1), "locator") for m in LOCATOR.finditer(text)]
     mask, pos = [], 0
     for w in text.split():
         i = text.index(w, pos); j = i + len(w); pos = j
@@ -93,25 +101,45 @@ def silent_mask(text, work=""):
     return mask
 
 
-def spoken(text, work=""):
+def plan(text, work=""):
+    """(spoken_text, counts): what the voice reads, and for every printed word how many spoken words stand for it
+    (0 = an editor's note, not read; 1 = itself; more = a figure written out, text/numbers.py)."""
     words, mask = text.split(), silent_mask(text, work)
-    if not any(mask):
-        return text
-    out = []
-    for w, m in zip(words, mask):
-        if not m:
+    out, counts = [], []
+    for i, (w, m) in enumerate(zip(words, mask)):
+        if m:
+            counts.append(0)
+            if out:   # keep the sentence's own punctuation that followed the note: "fire (Greek)." -> "fire."
+                tail = re.sub(r"^.*\)", "", w)
+                if tail and not re.search(r"[0-9A-Za-z]", tail):
+                    out[-1] += tail
+            continue
+        said = _numbers.spoken(w, words[i - 1] if i else "", words[i + 1] if i + 1 < len(words) else "")
+        if said:
+            out += said
+            counts.append(len(said))
+        else:
             out.append(w)
-        elif out:   # keep the sentence's own punctuation that followed the note: "fire (Greek)." -> "fire."
-            tail = re.sub(r"^.*\)", "", w)
-            if tail and not re.search(r"[0-9A-Za-z]", tail):
-                out[-1] += tail
-    return " ".join(out)
+            counts.append(1)
+    return " ".join(out), counts
 
 
-def expand(starts_spoken, mask, end=None):
-    """word start times of the spoken text -> one per printed word; a silent word takes the next spoken word's time"""
+def spoken(text, work=""):
+    return plan(text, work)[0]
+
+
+def expand(starts_spoken, counts, end=None):
+    """word start times of the spoken text -> one per printed word: a word spoken as several takes the first one's
+    time; a silent word takes the next spoken word's time"""
     it = iter(starts_spoken)
-    full = [None if m else next(it) for m in mask]
+    full = []
+    for c in counts:
+        if c == 0:
+            full.append(None)
+        else:
+            full.append(next(it))
+            for _ in range(c - 1):
+                next(it)
     nxt = end if end is not None else max([t for t in full if t is not None], default=0.0)
     for i in range(len(full) - 1, -1, -1):
         if full[i] is None:

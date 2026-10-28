@@ -1,4 +1,5 @@
-"""List the editor's notes the recording will skip (text/notes.py), and brackets that look like notes but are read.
+"""List the editor's notes the recording will skip (text/notes.py), brackets that look like notes but are read, and
+the paragraphs whose figures are written out in words (text/numbers.py).
 Usage: python tools/lint_notes.py render/queue.json | WORK...
 Runs in the produce workflow before rendering; it never fails the run, it only reports, so a new kind of note can be
 added to text/notes.py before the recording is made."""
@@ -26,9 +27,12 @@ def main(args):
         if not os.path.exists(p):
             continue
         d = json.load(open(p, encoding="utf-8"))
-        skipped, read = [], []
+        skipped, read, figures = [], [], []
         for part in d.get("parts", []):
             for l in part.get("lines", []):
+                sp, counts = N.plan(l["text"], w)
+                if any(c > 1 for c in counts):
+                    figures.append((l["entry"], sp[:110]))
                 caught = {(a, b) for a, b, _ in N.notes(l["text"], w)}
                 for m in N.PAREN.finditer(l["text"]):
                     t = m.group(0)
@@ -37,8 +41,10 @@ def main(args):
                     elif LOOKS.search(t) and len(t) < 160:
                         read.append((l["entry"], t))
         total += len(skipped)
-        if skipped or read:
-            print(f"== {w}: {len(skipped)} notes skipped, {len(read)} brackets read that may be notes")
+        if skipped or read or figures:
+            print(f"== {w}: {len(skipped)} notes skipped, {len(read)} brackets read that may be notes, {len(figures)} paragraphs with figures written out")
+            for e, t in figures[:12]:
+                print(f"   figs  {e}: {t}")
             for e, t in skipped[:200]:
                 print(f"   skip  {e}: {t[:110]}")
             for e, t in read[:60]:

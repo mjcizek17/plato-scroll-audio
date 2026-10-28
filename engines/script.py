@@ -170,18 +170,18 @@ import notes as _notes  # noqa: E402
 
 
 def line_text(l, work):
-    """what the voice reads: the printed line without the editor's notes in brackets (text/notes.py)"""
+    """what the voice reads: the printed line without the editor's notes in brackets, figures in words (text/notes.py)"""
     return speech_text(_notes.spoken(l["text"], work))
 
 
 def printed_starts(l, work, toks):
     """word starts for every printed word of the line, from tokens of the spoken text: skipped notes get the time of
     the next spoken word, so the read-along stays word-for-word with the page"""
-    mask = _notes.silent_mask(l["text"], work)
-    starts, miss = word_starts(_notes.spoken(l["text"], work), toks)
-    if not any(mask):
+    spoken, counts = _notes.plan(l["text"], work)
+    starts, miss = word_starts(spoken, toks)
+    if all(c == 1 for c in counts):
         return starts, miss
-    return _notes.expand(starts, mask), miss
+    return _notes.expand(starts, counts), miss
 
 
 def speech_text(t):
