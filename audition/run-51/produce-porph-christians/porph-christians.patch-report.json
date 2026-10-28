@@ -1,0 +1,173 @@
+{
+ "work": "porph-christians",
+ "patched": [
+  {
+   "part": "porph-christians-p1",
+   "entry": 63,
+   "old_s": 3.57,
+   "new_s": 4.17,
+   "words": 6
+  },
+  {
+   "part": "porph-christians-p1",
+   "entry": 56,
+   "old_s": 37.02,
+   "new_s": 37.85,
+   "words": 94
+  },
+  {
+   "part": "porph-christians-p1",
+   "entry": 54,
+   "old_s": 29.4,
+   "new_s": 31.78,
+   "words": 77
+  },
+  {
+   "part": "porph-christians-p1",
+   "entry": 33,
+   "old_s": 7.64,
+   "new_s": 9.58,
+   "words": 14
+  },
+  {
+   "part": "porph-christians-p1",
+   "entry": 3,
+   "old_s": 42.99,
+   "new_s": 43.14,
+   "words": 112
+  },
+  {
+   "part": "porph-christians-p1",
+   "entry": 2,
+   "old_s": 27.38,
+   "new_s": 28.0,
+   "words": 58
+  },
+  {
+   "part": "porph-christians-p1",
+   "entry": 0,
+   "old_s": 2.72,
+   "new_s": 2.9,
+   "words": 3
+  },
+  {
+   "part": "porph-christians-p2",
+   "entry": 175,
+   "old_s": 6.69,
+   "new_s": 7.12,
+   "words": 11
+  },
+  {
+   "part": "porph-christians-p2",
+   "entry": 143,
+   "old_s": 68.59,
+   "new_s": 67.91,
+   "words": 180
+  },
+  {
+   "part": "porph-christians-p2",
+   "entry": 138,
+   "old_s": 14.34,
+   "new_s": 14.82,
+   "words": 44
+  },
+  {
+   "part": "porph-christians-p2",
+   "entry": 137,
+   "old_s": 12.32,
+   "new_s": 13.09,
+   "words": 35
+  },
+  {
+   "part": "porph-christians-p2",
+   "entry": 136,
+   "old_s": 7.99,
+   "new_s": 9.54,
+   "words": 22
+  },
+  {
+   "part": "porph-christians-p2",
+   "entry": 135,
+   "old_s": 16.24,
+   "new_s": 18.32,
+   "words": 50
+  },
+  {
+   "part": "porph-christians-p2",
+   "entry": 129,
+   "old_s": 7.61,
+   "new_s": 8.34,
+   "words": 11
+  },
+  {
+   "part": "porph-christians-p2",
+   "entry": 122,
+   "old_s": 24.03,
+   "new_s": 24.83,
+   "words": 58
+  },
+  {
+   "part": "porph-christians-p3",
+   "entry": 241,
+   "old_s": 35.52,
+   "new_s": 37.85,
+   "words": 110
+  },
+  {
+   "part": "porph-christians-p3",
+   "entry": 232,
+   "old_s": 4.53,
+   "new_s": 7.08,
+   "words": 8
+  },
+  {
+   "part": "porph-christians-p4",
+   "entry": 302,
+   "old_s": 6.52,
+   "new_s": 7.7,
+   "words": 11
+  },
+  {
+   "part": "porph-christians-p4",
+   "entry": 300,
+   "old_s": 6.31,
+   "new_s": 6.96,
+   "words": 11
+  },
+  {
+   "part": "porph-christians-p4",
+   "entry": 285,
+   "old_s": 4.14,
+   "new_s": 6.58,
+   "words": 8
+  },
+  {
+   "part": "porph-christians-p4",
+   "entry": 283,
+   "old_s": 7.26,
+   "new_s": 7.04,
+   "words": 11
+  },
+  {
+   "part": "porph-christians-p4",
+   "entry": 277,
+   "old_s": 3.8,
+   "new_s": 4.4,
+   "words": 6
+  },
+  {
+   "part": "porph-christians-p4",
+   "entry": 275,
+   "old_s": 7.04,
+   "new_s": 6.65,
+   "words": 11
+  },
+  {
+   "part": "porph-christians-p4",
+   "entry": 270,
+   "old_s": 7.52,
+   "new_s": 6.49,
+   "words": 11
+  }
+ ]
+}
