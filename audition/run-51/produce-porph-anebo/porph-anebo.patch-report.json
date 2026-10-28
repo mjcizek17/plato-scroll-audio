@@ -1,0 +1,12 @@
+{
+ "work": "porph-anebo",
+ "patched": [
+  {
+   "part": "porph-anebo-p1",
+   "entry": 0,
+   "old_s": 2.67,
+   "new_s": 2.72,
+   "words": 5
+  }
+ ]
+}
