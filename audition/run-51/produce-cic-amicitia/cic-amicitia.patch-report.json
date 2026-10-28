@@ -1,0 +1,47 @@
+{
+ "work": "cic-amicitia",
+ "patched": [
+  {
+   "part": "cic-amicitia-p1",
+   "entry": 12,
+   "old_s": 29.12,
+   "new_s": 31.74,
+   "words": 78
+  },
+  {
+   "part": "cic-amicitia-p1",
+   "entry": 11,
+   "old_s": 52.62,
+   "new_s": 53.49,
+   "words": 146
+  },
+  {
+   "part": "cic-amicitia-p1",
+   "entry": 10,
+   "old_s": 75.12,
+   "new_s": 75.22,
+   "words": 211
+  },
+  {
+   "part": "cic-amicitia-p1",
+   "entry": 9,
+   "old_s": 17.56,
+   "new_s": 17.41,
+   "words": 45
+  },
+  {
+   "part": "cic-amicitia-p1",
+   "entry": 7,
+   "old_s": 56.22,
+   "new_s": 55.45,
+   "words": 158
+  },
+  {
+   "part": "cic-amicitia-p1",
+   "entry": 5,
+   "old_s": 51.04,
+   "new_s": 52.36,
+   "words": 154
+  }
+ ]
+}
