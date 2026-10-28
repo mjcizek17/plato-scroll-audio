@@ -1,0 +1,12 @@
+{
+ "work": "iamb-lifepyth",
+ "patched": [
+  {
+   "part": "iamb-lifepyth-p1",
+   "entry": 14,
+   "old_s": 29.82,
+   "new_s": 28.75,
+   "words": 85
+  }
+ ]
+}
