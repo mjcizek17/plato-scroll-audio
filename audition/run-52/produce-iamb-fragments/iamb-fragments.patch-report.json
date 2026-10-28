@@ -1,0 +1,19 @@
+{
+ "work": "iamb-fragments",
+ "patched": [
+  {
+   "part": "iamb-fragments-p1",
+   "entry": 22,
+   "old_s": 54.43,
+   "new_s": 54.62,
+   "words": 147
+  },
+  {
+   "part": "iamb-fragments-p1",
+   "entry": 1,
+   "old_s": 3.05,
+   "new_s": 2.99,
+   "words": 6
+  }
+ ]
+}
