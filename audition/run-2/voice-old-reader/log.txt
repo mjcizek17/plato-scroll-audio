@@ -1,0 +1,30 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/torch/nn/modules/rnn.py:123: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn(
+/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/torch/nn/utils/weight_norm.py:143: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/_distutils_hack/__init__.py:30: UserWarning: Setuptools is replacing distutils. Support for replacing an already imported distutils is deprecated. In the future, this condition will fail. Register concerns at https://github.com/pypa/setuptools/issues/new?template=distutils-deprecation.yml
+  warnings.warn(
+Collecting en-core-web-sm==3.8.0
+  Downloading en_core_web_sm-3.8.0-py3-none-any.whl (12.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.8/12.8 MB 60.2 MB/s  0:00:00
+Installing collected packages: en-core-web-sm
+Successfully installed en-core-web-sm-3.8.0
+
+[notice] A new release of pip is available: 26.2.1 -> 26.2.2
+[notice] To update, run: pip install --upgrade pip
+[38;5;2m✔ Download and installation successful[0m
+You can now load the package via spacy.load('en_core_web_sm')
+Traceback (most recent call last):
+  File "/home/runner/work/plato-scroll-audio/plato-scroll-audio/tools/audition_voice.py", line 91, in <module>
+    main(sys.argv[1], sys.argv[2])
+  File "/home/runner/work/plato-scroll-audio/plato-scroll-audio/tools/audition_voice.py", line 48, in main
+    passage = speech_text(notes.spoken(spec["passage"]))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/plato-scroll-audio/plato-scroll-audio/text/notes.py", line 163, in spoken
+    return plan(text, work)[0]
+           ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/plato-scroll-audio/plato-scroll-audio/text/notes.py", line 138, in plan
+    said = _numbers.spoken(w, words[i - 1] if i else "", words[i + 1] if i + 1 < len(words) else "")
+           ^^^^^^^^^^^^^^^
+AttributeError: module 'numbers' has no attribute 'spoken'
