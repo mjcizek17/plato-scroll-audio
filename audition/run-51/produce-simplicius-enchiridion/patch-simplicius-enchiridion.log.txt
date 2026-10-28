@@ -1,0 +1,1 @@
+{"work": "simplicius-enchiridion", "patched": [{"part": "simplicius-enchiridion-p1", "entry": 1, "old_s": 15.61, "new_s": 14.69, "words": 36}]}
