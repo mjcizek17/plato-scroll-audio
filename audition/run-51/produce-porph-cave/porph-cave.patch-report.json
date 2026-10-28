@@ -1,0 +1,12 @@
+{
+ "work": "porph-cave",
+ "patched": [
+  {
+   "part": "porph-cave-p1",
+   "entry": 1,
+   "old_s": 1.77,
+   "new_s": 2.6,
+   "words": 5
+  }
+ ]
+}
