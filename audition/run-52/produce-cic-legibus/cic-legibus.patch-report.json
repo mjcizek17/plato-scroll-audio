@@ -1,0 +1,12 @@
+{
+ "work": "cic-legibus",
+ "patched": [
+  {
+   "part": "cic-legibus-p1",
+   "entry": 1,
+   "old_s": 12.45,
+   "new_s": 12.99,
+   "words": 32
+  }
+ ]
+}
