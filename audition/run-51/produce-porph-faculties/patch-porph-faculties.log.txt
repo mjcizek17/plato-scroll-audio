@@ -1,0 +1,1 @@
+{"work": "porph-faculties", "patched": [{"part": "porph-faculties-p1", "entry": 0, "old_s": 3.21, "new_s": 3.41, "words": 6}]}
