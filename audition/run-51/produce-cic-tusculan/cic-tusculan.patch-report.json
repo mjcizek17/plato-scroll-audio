@@ -1,0 +1,19 @@
+{
+ "work": "cic-tusculan",
+ "patched": [
+  {
+   "part": "cic-tusculan-p1",
+   "entry": 4,
+   "old_s": 32.61,
+   "new_s": 33.35,
+   "words": 85
+  },
+  {
+   "part": "cic-tusculan-p1",
+   "entry": 1,
+   "old_s": 13.51,
+   "new_s": 14.39,
+   "words": 37
+  }
+ ]
+}
