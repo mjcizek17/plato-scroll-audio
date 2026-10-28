@@ -1,0 +1,1 @@
+{"work": "olymp-alc1", "patched": [{"part": "olymp-alc1-p6", "entry": 442, "old_s": 234.51, "new_s": 230.69, "words": 614}, {"part": "olymp-alc1-p9", "entry": 564, "old_s": 127.14, "new_s": 130.47, "words": 360}]}
