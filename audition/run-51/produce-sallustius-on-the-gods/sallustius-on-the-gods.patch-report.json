@@ -1,0 +1,12 @@
+{
+ "work": "sallustius-on-the-gods",
+ "patched": [
+  {
+   "part": "sallustius-on-the-gods-p1",
+   "entry": 0,
+   "old_s": 35.82,
+   "new_s": 37.86,
+   "words": 95
+  }
+ ]
+}
