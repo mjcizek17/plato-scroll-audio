@@ -1,0 +1,1 @@
+{"work": "rep-b", "patched": [{"part": "rep-b-p8", "entry": 3196, "old_s": 213.01, "new_s": 212.35, "words": 564}, {"part": "rep-b-p9", "entry": 3960, "old_s": 16.62, "new_s": 17.87, "words": 49}]}
