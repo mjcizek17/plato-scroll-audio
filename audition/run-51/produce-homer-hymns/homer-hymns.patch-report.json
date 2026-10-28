@@ -1,0 +1,12 @@
+{
+ "work": "homer-hymns",
+ "patched": [
+  {
+   "part": "homer-hymns-p1",
+   "entry": 7,
+   "old_s": 2.42,
+   "new_s": 2.39,
+   "words": 5
+  }
+ ]
+}
