@@ -1,0 +1,1 @@
+{"work": "iamb-dcms", "patched": [{"part": "iamb-dcms-p1", "entry": 1, "old_s": 14.99, "new_s": 14.71, "words": 36}]}
