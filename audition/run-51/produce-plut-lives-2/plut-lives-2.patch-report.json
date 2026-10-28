@@ -1,0 +1,278 @@
+{
+ "work": "plut-lives-2",
+ "patched": [
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 120,
+   "old_s": 29.64,
+   "new_s": 30.34,
+   "words": 94
+  },
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 108,
+   "old_s": 66.11,
+   "new_s": 63.44,
+   "words": 192
+  },
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 104,
+   "old_s": 23.45,
+   "new_s": 21.83,
+   "words": 67
+  },
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 99,
+   "old_s": 49.97,
+   "new_s": 47.14,
+   "words": 149
+  },
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 95,
+   "old_s": 70.91,
+   "new_s": 68.83,
+   "words": 205
+  },
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 92,
+   "old_s": 80.51,
+   "new_s": 78.47,
+   "words": 237
+  },
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 85,
+   "old_s": 60.17,
+   "new_s": 54.69,
+   "words": 173
+  },
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 51,
+   "old_s": 85.83,
+   "new_s": 83.78,
+   "words": 263
+  },
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 31,
+   "old_s": 63.38,
+   "new_s": 61.48,
+   "words": 202
+  },
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 18,
+   "old_s": 94.64,
+   "new_s": 91.11,
+   "words": 302
+  },
+  {
+   "part": "plut-lives-2-p1",
+   "entry": 2,
+   "old_s": 33.64,
+   "new_s": 32.46,
+   "words": 92
+  },
+  {
+   "part": "plut-lives-2-p3",
+   "entry": 224,
+   "old_s": 115.95,
+   "new_s": 110.48,
+   "words": 358
+  },
+  {
+   "part": "plut-lives-2-p3",
+   "entry": 220,
+   "old_s": 69.84,
+   "new_s": 65.32,
+   "words": 195
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 421,
+   "old_s": 119.04,
+   "new_s": 115.77,
+   "words": 391
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 419,
+   "old_s": 126.19,
+   "new_s": 121.4,
+   "words": 376
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 415,
+   "old_s": 117.31,
+   "new_s": 112.81,
+   "words": 344
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 412,
+   "old_s": 17.32,
+   "new_s": 17.04,
+   "words": 47
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 405,
+   "old_s": 99.86,
+   "new_s": 94.81,
+   "words": 295
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 402,
+   "old_s": 64.67,
+   "new_s": 61.06,
+   "words": 183
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 396,
+   "old_s": 120.7,
+   "new_s": 116.25,
+   "words": 347
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 388,
+   "old_s": 161.35,
+   "new_s": 155.23,
+   "words": 470
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 383,
+   "old_s": 92.19,
+   "new_s": 87.18,
+   "words": 265
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 379,
+   "old_s": 81.73,
+   "new_s": 77.18,
+   "words": 243
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 376,
+   "old_s": 65.93,
+   "new_s": 62.25,
+   "words": 213
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 371,
+   "old_s": 84.51,
+   "new_s": 82.08,
+   "words": 261
+  },
+  {
+   "part": "plut-lives-2-p5",
+   "entry": 365,
+   "old_s": 44.03,
+   "new_s": 40.36,
+   "words": 126
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 561,
+   "old_s": 67.27,
+   "new_s": 62.47,
+   "words": 184
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 558,
+   "old_s": 71.28,
+   "new_s": 67.85,
+   "words": 197
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 544,
+   "old_s": 31.2,
+   "new_s": 30.08,
+   "words": 87
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 532,
+   "old_s": 81.21,
+   "new_s": 75.91,
+   "words": 255
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 528,
+   "old_s": 90.12,
+   "new_s": 85.54,
+   "words": 266
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 525,
+   "old_s": 87.22,
+   "new_s": 82.91,
+   "words": 263
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 520,
+   "old_s": 93.12,
+   "new_s": 86.96,
+   "words": 282
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 513,
+   "old_s": 55.26,
+   "new_s": 53.86,
+   "words": 171
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 505,
+   "old_s": 64.91,
+   "new_s": 61.77,
+   "words": 162
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 492,
+   "old_s": 78.77,
+   "new_s": 74.33,
+   "words": 233
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 486,
+   "old_s": 45.29,
+   "new_s": 42.19,
+   "words": 121
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 481,
+   "old_s": 108.64,
+   "new_s": 105.99,
+   "words": 327
+  },
+  {
+   "part": "plut-lives-2-p7",
+   "entry": 479,
+   "old_s": 140.77,
+   "new_s": 135.21,
+   "words": 406
+  }
+ ]
+}
