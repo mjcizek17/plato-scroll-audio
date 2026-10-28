@@ -28,3 +28,13 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
 - 13 of the 80 works in the repair queue are read by the retired Narrator clip (24 whole works, 25.5 h in all); the gate
   refuses to patch them in that voice. They need a new reader and a full re-record — the user chooses the voice from the
   Orphic Theogony audition (audition/old-reader.json) first.
+
+## 2026-10-28 morning — what ran
+- Figures repair published for 67 works (runs 40630431694 render → 40689916160 + 40697343442 assemble-only; patch mode
+  needed `works` for the assemble matrix, and a reports-branch push race must not skip the release upload — both fixed).
+  apol had nothing to patch (a spurious entry 0).
+- The user chose audition option 6 (the Socrates voice) for everything the retired Narrator clip read: cast "Narrator" now
+  clones cast/refs/socrates.wav. Queue I (render/next/queue-I-narrator-recast.json) re-records those 24 works whole — run 40698186848.
+- slice-notes over the other 168 published works — run 40698186887. A work patched since its original was kept starts
+  from the patched file (its patch-report is newer than the orig- asset); notes already cut are skipped.
+- Still parked: render/next/queue-G-stoics.json (Seneca) — after queue I publishes.
