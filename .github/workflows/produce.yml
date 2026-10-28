@@ -154,6 +154,7 @@ jobs:
       - if: always() && needs.plan.outputs.dest == 'samples'
         run: bash tools/publish.sh out "produce-${{ matrix.work }}"
       - if: always() && needs.plan.outputs.dest == 'release'
+        continue-on-error: true   # the reports branch is nice to have; a push race here must not stop the release upload
         run: mkdir -p meta && cp out/*.json out/*.txt meta/ 2>/dev/null; bash tools/publish.sh meta "produce-${{ matrix.work }}"
       - if: success() && needs.plan.outputs.dest == 'release'
         run: |
