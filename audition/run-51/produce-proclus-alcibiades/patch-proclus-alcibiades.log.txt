@@ -1,0 +1,1 @@
+{"work": "proclus-alcibiades", "patched": [{"part": "proclus-alcibiades-p1", "entry": 0, "old_s": 1.73, "new_s": 3.33, "words": 5}]}
