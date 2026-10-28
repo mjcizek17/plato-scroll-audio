@@ -1,6 +1,7 @@
 name: fixes
-# Hand-corrected timing (or report) files: put them under fixes/<release tag>/ and push; each is uploaded to that
-# release, replacing the published copy. (The session that writes the corrections cannot edit releases itself.)
+# Hand-corrected timing (or report) files: put them under fixes/<release tag>/ and push; each file CHANGED BY THE PUSH is
+# uploaded to that release, replacing the published copy. (Older files under fixes/ are left alone: the published copy
+# may have moved on since — the editor's-note cuts change timing files too.)
 on:
   push:
     branches: [main]
@@ -15,9 +16,14 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-      - run: |
-          for d in fixes/*/; do
-            tag=$(basename "$d"); ls "$d" | head -50
+        with: { fetch-depth: 2 }
+      - name: Upload the files this push changed (not every file under fixes/, which would put back old copies)
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then files=$(git ls-files fixes); else files=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- fixes); fi
+          echo "$files"
+          for f in $files; do
+            [ -f "$f" ] || continue
+            tag=$(basename "$(dirname "$f")")
             gh release view "$tag" >/dev/null
-            gh release upload "$tag" "$d"/* --clobber
+            gh release upload "$tag" "$f" --clobber
           done
