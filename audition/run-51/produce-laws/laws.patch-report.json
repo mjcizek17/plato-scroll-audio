@@ -1,0 +1,68 @@
+{
+ "work": "laws",
+ "patched": [
+  {
+   "part": "laws-p5",
+   "entry": 963,
+   "old_s": 103.29,
+   "new_s": 105.52,
+   "words": 281
+  },
+  {
+   "part": "laws-p5",
+   "entry": 961,
+   "old_s": 111.04,
+   "new_s": 110.63,
+   "words": 315
+  },
+  {
+   "part": "laws-p5",
+   "entry": 953,
+   "old_s": 99.07,
+   "new_s": 98.55,
+   "words": 267
+  },
+  {
+   "part": "laws-p5",
+   "entry": 948,
+   "old_s": 65.04,
+   "new_s": 64.0,
+   "words": 162
+  },
+  {
+   "part": "laws-p6",
+   "entry": 1044,
+   "old_s": 108.63,
+   "new_s": 107.7,
+   "words": 308
+  },
+  {
+   "part": "laws-p9",
+   "entry": 1718,
+   "old_s": 37.35,
+   "new_s": 36.73,
+   "words": 104
+  },
+  {
+   "part": "laws-p11",
+   "entry": 2182,
+   "old_s": 21.93,
+   "new_s": 22.59,
+   "words": 67
+  },
+  {
+   "part": "laws-p11",
+   "entry": 2159,
+   "old_s": 34.72,
+   "new_s": 38.52,
+   "words": 95
+  },
+  {
+   "part": "laws-p11",
+   "entry": 2101,
+   "old_s": 34.23,
+   "new_s": 34.59,
+   "words": 90
+  }
+ ]
+}
