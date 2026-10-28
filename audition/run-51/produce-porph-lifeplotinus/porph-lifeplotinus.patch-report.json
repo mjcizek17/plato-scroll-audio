@@ -1,0 +1,26 @@
+{
+ "work": "porph-lifeplotinus",
+ "patched": [
+  {
+   "part": "porph-lifeplotinus-p1",
+   "entry": 3,
+   "old_s": 55.01,
+   "new_s": 56.56,
+   "words": 122
+  },
+  {
+   "part": "porph-lifeplotinus-p1",
+   "entry": 1,
+   "old_s": 36.65,
+   "new_s": 36.74,
+   "words": 88
+  },
+  {
+   "part": "porph-lifeplotinus-p1",
+   "entry": 0,
+   "old_s": 3.15,
+   "new_s": 3.09,
+   "words": 5
+  }
+ ]
+}
