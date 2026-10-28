@@ -1,0 +1,1 @@
+{"work": "proclus-evils", "patched": [{"part": "proclus-evils-p1", "entry": 0, "old_s": 1.64, "new_s": 3.32, "words": 5}]}
