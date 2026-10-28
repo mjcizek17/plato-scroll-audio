@@ -1,0 +1,32 @@
+name: audition-voice
+# Numbered voice samples on a passage: python tools/audition_voice.py audition/<spec>.json. Results go to the
+# `samples` branch under audition/run-<n>/voice-<spec>/ (option-N.mp3 + sheet.txt).
+on:
+  workflow_dispatch:
+    inputs:
+      spec: { description: "audition/<spec>.json", required: true, default: "audition/old-reader.json" }
+permissions:
+  contents: write
+defaults:
+  run:
+    shell: bash -o pipefail -e {0}
+env:
+  HF_HUB_DISABLE_PROGRESS_BARS: "1"
+  PIP_CPU: "--extra-index-url https://download.pytorch.org/whl/cpu"
+  GITHUB_TOKEN: ${{ github.token }}
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng ffmpeg
+      - run: pip install -q $PIP_CPU torch && pip install -q "kokoro>=0.9.4" soundfile "misaki[en]" chatterbox-tts 2>&1 | tail -2
+      - run: |
+          mkdir -p out
+          python tools/audition_voice.py "${{ inputs.spec }}" out 2>&1 | tee out/log.txt
+          rm -f out/ref-*.wav
+      - if: always()
+        run: bash tools/publish.sh out "voice-$(basename "${{ inputs.spec }}" .json)"

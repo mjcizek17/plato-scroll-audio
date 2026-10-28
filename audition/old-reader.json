@@ -1,0 +1,95 @@
+{
+ "passage": "To the reader of this text, if you feel that goodness and virtue are things that only fools pursue, take my advice and close this book; you will find nothing here that will interest you. But if you are a reader who loves beauty and who possesses a well-meaning disposition, please do read on. You are welcome and will hear a story both marvelous and useful. II.",
+ "ref_text": "In the beginning there was neither heaven nor earth, but only Time, who had no father, and with him the Aether and the boundless Chasm, and from these the silver egg was made.",
+ "speed": 0.92,
+ "candidates": [
+  {
+   "name": "Old reader A — Fable, two semitones down (deep, warm, British)",
+   "kokoro": [
+    [
+     "bm_fable",
+     1.0
+    ]
+   ],
+   "accent": "gb",
+   "pitch": -2,
+   "exaggeration": 0.35
+  },
+  {
+   "name": "Old reader B — Onyx with Lewis, a semitone down (dark, grave, mid-Atlantic)",
+   "kokoro": [
+    [
+     "am_onyx",
+     0.7
+    ],
+    [
+     "bm_lewis",
+     0.3
+    ]
+   ],
+   "accent": "gb",
+   "pitch": -1,
+   "exaggeration": 0.35
+  },
+  {
+   "name": "Old reader C — Lewis with Fable, two semitones down (aged British)",
+   "kokoro": [
+    [
+     "bm_lewis",
+     0.6
+    ],
+    [
+     "bm_fable",
+     0.4
+    ]
+   ],
+   "accent": "gb",
+   "pitch": -2,
+   "exaggeration": 0.4
+  },
+  {
+   "name": "Old reader D — Onyx alone, two semitones down (very deep, American)",
+   "kokoro": [
+    [
+     "am_onyx",
+     1.0
+    ]
+   ],
+   "accent": "us",
+   "pitch": -2,
+   "exaggeration": 0.35
+  },
+  {
+   "name": "Old reader E — Adam with Fable, a semitone down (weathered)",
+   "kokoro": [
+    [
+     "am_adam",
+     0.5
+    ],
+    [
+     "bm_fable",
+     0.5
+    ]
+   ],
+   "accent": "gb",
+   "pitch": -1,
+   "exaggeration": 0.4
+  },
+  {
+   "name": "Old reader F — the Socrates voice (George with Santa), as in the Laws",
+   "kokoro": [
+    [
+     "bm_george",
+     0.55
+    ],
+    [
+     "am_santa",
+     0.45
+    ]
+   ],
+   "accent": "gb",
+   "pitch": 0,
+   "exaggeration": 0.45
+  }
+ ]
+}
