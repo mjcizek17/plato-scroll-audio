@@ -1,0 +1,782 @@
+{
+ "work": "proclus-eltheo",
+ "patched": [
+  {
+   "part": "proclus-eltheo-p1",
+   "entry": 1,
+   "old_s": 83.35,
+   "new_s": 83.89,
+   "words": 191
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 408,
+   "old_s": 1.61,
+   "new_s": 2.15,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 405,
+   "old_s": 0.84,
+   "new_s": 1.99,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 402,
+   "old_s": 1.9,
+   "new_s": 1.54,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 399,
+   "old_s": 1.33,
+   "new_s": 1.55,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 396,
+   "old_s": 0.78,
+   "new_s": 1.86,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 393,
+   "old_s": 0.76,
+   "new_s": 2.01,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 390,
+   "old_s": 0.79,
+   "new_s": 1.89,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 387,
+   "old_s": 1.5,
+   "new_s": 1.96,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 384,
+   "old_s": 1.6,
+   "new_s": 1.48,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 379,
+   "old_s": 1.82,
+   "new_s": 1.66,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 376,
+   "old_s": 1.78,
+   "new_s": 1.8,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 373,
+   "old_s": 1.58,
+   "new_s": 1.99,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 370,
+   "old_s": 1.24,
+   "new_s": 1.99,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 367,
+   "old_s": 1.43,
+   "new_s": 1.65,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 364,
+   "old_s": 0.72,
+   "new_s": 1.33,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p6",
+   "entry": 361,
+   "old_s": 0.7,
+   "new_s": 1.94,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 466,
+   "old_s": 0.72,
+   "new_s": 1.91,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 463,
+   "old_s": 1.59,
+   "new_s": 1.94,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 460,
+   "old_s": 1.78,
+   "new_s": 1.75,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 457,
+   "old_s": 0.73,
+   "new_s": 1.61,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 454,
+   "old_s": 1.45,
+   "new_s": 2.19,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 451,
+   "old_s": 0.77,
+   "new_s": 1.39,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 449,
+   "old_s": 1.62,
+   "new_s": 2.14,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 446,
+   "old_s": 0.7,
+   "new_s": 2.28,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 443,
+   "old_s": 1.5,
+   "new_s": 2.11,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 440,
+   "old_s": 0.68,
+   "new_s": 2.58,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 437,
+   "old_s": 1.59,
+   "new_s": 2.01,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 434,
+   "old_s": 1.7,
+   "new_s": 2.22,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 431,
+   "old_s": 1.55,
+   "new_s": 2.34,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 428,
+   "old_s": 1.45,
+   "new_s": 1.76,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 424,
+   "old_s": 1.58,
+   "new_s": 2.72,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 421,
+   "old_s": 1.72,
+   "new_s": 2.06,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 418,
+   "old_s": 1.57,
+   "new_s": 2.38,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p7",
+   "entry": 415,
+   "old_s": 0.62,
+   "new_s": 1.6,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 532,
+   "old_s": 1.5,
+   "new_s": 2.11,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 529,
+   "old_s": 0.74,
+   "new_s": 1.67,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 526,
+   "old_s": 1.48,
+   "new_s": 1.98,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 523,
+   "old_s": 1.42,
+   "new_s": 1.96,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 520,
+   "old_s": 1.44,
+   "new_s": 1.83,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 517,
+   "old_s": 1.52,
+   "new_s": 2.07,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 514,
+   "old_s": 1.5,
+   "new_s": 2.61,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 511,
+   "old_s": 1.32,
+   "new_s": 1.38,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 508,
+   "old_s": 1.46,
+   "new_s": 1.84,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 505,
+   "old_s": 1.54,
+   "new_s": 2.17,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 502,
+   "old_s": 1.57,
+   "new_s": 1.58,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 499,
+   "old_s": 1.51,
+   "new_s": 2.54,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 496,
+   "old_s": 1.89,
+   "new_s": 2.18,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 493,
+   "old_s": 1.68,
+   "new_s": 1.94,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 490,
+   "old_s": 1.89,
+   "new_s": 1.87,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 487,
+   "old_s": 1.76,
+   "new_s": 1.56,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 484,
+   "old_s": 1.59,
+   "new_s": 1.65,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 481,
+   "old_s": 0.81,
+   "new_s": 1.52,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 478,
+   "old_s": 0.75,
+   "new_s": 1.69,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 475,
+   "old_s": 0.67,
+   "new_s": 1.8,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p8",
+   "entry": 472,
+   "old_s": 1.8,
+   "new_s": 1.82,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 598,
+   "old_s": 0.64,
+   "new_s": 1.85,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 593,
+   "old_s": 0.72,
+   "new_s": 1.95,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 588,
+   "old_s": 1.92,
+   "new_s": 2.94,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 585,
+   "old_s": 1.59,
+   "new_s": 2.52,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 582,
+   "old_s": 0.76,
+   "new_s": 2.2,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 579,
+   "old_s": 1.4,
+   "new_s": 2.27,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 576,
+   "old_s": 0.7,
+   "new_s": 1.83,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 573,
+   "old_s": 1.48,
+   "new_s": 2.11,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 570,
+   "old_s": 0.68,
+   "new_s": 2.25,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 567,
+   "old_s": 1.66,
+   "new_s": 2.4,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 563,
+   "old_s": 0.66,
+   "new_s": 2.12,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 560,
+   "old_s": 1.57,
+   "new_s": 2.28,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 557,
+   "old_s": 0.67,
+   "new_s": 2.23,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 554,
+   "old_s": 1.65,
+   "new_s": 2.32,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 551,
+   "old_s": 0.69,
+   "new_s": 2.42,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 548,
+   "old_s": 0.67,
+   "new_s": 2.53,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 545,
+   "old_s": 0.98,
+   "new_s": 2.01,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 541,
+   "old_s": 0.73,
+   "new_s": 1.51,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p9",
+   "entry": 538,
+   "old_s": 1.61,
+   "new_s": 2.26,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 667,
+   "old_s": 1.62,
+   "new_s": 2.29,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 664,
+   "old_s": 0.9,
+   "new_s": 2.48,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 661,
+   "old_s": 1.08,
+   "new_s": 1.95,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 658,
+   "old_s": 1.72,
+   "new_s": 2.0,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 655,
+   "old_s": 0.67,
+   "new_s": 2.4,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 652,
+   "old_s": 0.64,
+   "new_s": 2.2,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 649,
+   "old_s": 1.48,
+   "new_s": 2.6,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 646,
+   "old_s": 0.61,
+   "new_s": 2.75,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 643,
+   "old_s": 1.44,
+   "new_s": 2.4,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 640,
+   "old_s": 1.54,
+   "new_s": 1.88,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 637,
+   "old_s": 0.71,
+   "new_s": 2.1,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 634,
+   "old_s": 0.69,
+   "new_s": 1.85,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 631,
+   "old_s": 0.77,
+   "new_s": 2.82,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 628,
+   "old_s": 1.78,
+   "new_s": 2.29,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 625,
+   "old_s": 1.71,
+   "new_s": 2.11,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 621,
+   "old_s": 0.67,
+   "new_s": 1.93,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 618,
+   "old_s": 1.8,
+   "new_s": 1.7,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 615,
+   "old_s": 0.66,
+   "new_s": 1.57,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 612,
+   "old_s": 0.7,
+   "new_s": 2.39,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 609,
+   "old_s": 1.26,
+   "new_s": 1.73,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p10",
+   "entry": 606,
+   "old_s": 0.65,
+   "new_s": 1.65,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 782,
+   "old_s": 86.08,
+   "new_s": 86.43,
+   "words": 228
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 778,
+   "old_s": 41.58,
+   "new_s": 43.56,
+   "words": 93
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 776,
+   "old_s": 23.81,
+   "new_s": 23.29,
+   "words": 59
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 774,
+   "old_s": 11.03,
+   "new_s": 11.11,
+   "words": 24
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 771,
+   "old_s": 43.21,
+   "new_s": 45.32,
+   "words": 102
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 704,
+   "old_s": 1.63,
+   "new_s": 1.54,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 701,
+   "old_s": 1.66,
+   "new_s": 1.64,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 698,
+   "old_s": 1.71,
+   "new_s": 1.73,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 695,
+   "old_s": 1.48,
+   "new_s": 1.64,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 692,
+   "old_s": 1.49,
+   "new_s": 2.17,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 689,
+   "old_s": 1.61,
+   "new_s": 2.16,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 686,
+   "old_s": 1.55,
+   "new_s": 1.77,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 683,
+   "old_s": 1.51,
+   "new_s": 2.02,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 680,
+   "old_s": 1.35,
+   "new_s": 1.83,
+   "words": 2
+  },
+  {
+   "part": "proclus-eltheo-p11",
+   "entry": 677,
+   "old_s": 1.32,
+   "new_s": 1.83,
+   "words": 2
+  }
+ ]
+}
