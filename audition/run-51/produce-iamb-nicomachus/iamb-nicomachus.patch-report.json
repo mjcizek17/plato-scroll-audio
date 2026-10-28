@@ -1,0 +1,131 @@
+{
+ "work": "iamb-nicomachus",
+ "patched": [
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 168,
+   "old_s": 46.88,
+   "new_s": 49.7,
+   "words": 158
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 161,
+   "old_s": 91.75,
+   "new_s": 94.6,
+   "words": 267
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 159,
+   "old_s": 57.5,
+   "new_s": 61.31,
+   "words": 175
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 156,
+   "old_s": 65.38,
+   "new_s": 70.38,
+   "words": 225
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 150,
+   "old_s": 65.06,
+   "new_s": 65.65,
+   "words": 226
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 145,
+   "old_s": 101.66,
+   "new_s": 105.45,
+   "words": 279
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 142,
+   "old_s": 2.33,
+   "new_s": 4.78,
+   "words": 10
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 126,
+   "old_s": 90.7,
+   "new_s": 92.54,
+   "words": 260
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 115,
+   "old_s": 52.71,
+   "new_s": 57.07,
+   "words": 151
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 114,
+   "old_s": 69.62,
+   "new_s": 76.77,
+   "words": 213
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 113,
+   "old_s": 82.18,
+   "new_s": 85.16,
+   "words": 262
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 111,
+   "old_s": 79.86,
+   "new_s": 84.68,
+   "words": 251
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 110,
+   "old_s": 65.19,
+   "new_s": 66.34,
+   "words": 202
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 109,
+   "old_s": 66.78,
+   "new_s": 70.31,
+   "words": 233
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 85,
+   "old_s": 93.48,
+   "new_s": 97.3,
+   "words": 236
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 56,
+   "old_s": 60.17,
+   "new_s": 60.77,
+   "words": 194
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 55,
+   "old_s": 80.59,
+   "new_s": 81.32,
+   "words": 259
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 1,
+   "old_s": 15.35,
+   "new_s": 16.12,
+   "words": 40
+  }
+ ]
+}
