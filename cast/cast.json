@@ -4,8 +4,9 @@
  "characters": {
   "Narrator": {
    "engine": "chatterbox",
-   "ref": "narrator",
-   "exaggeration": 0.4
+   "ref": "socrates",
+   "exaggeration": 0.4,
+   "_note": "2026-10-28: the user chose audition option 6 (the Socrates voice, as the Athenian Stranger in the Laws) for every work the old Narrator clip read. cast/refs/narrator.wav is retired."
   },
   "Socrates": {
    "engine": "chatterbox",

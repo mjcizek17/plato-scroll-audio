@@ -94,6 +94,9 @@ def silent_mask(text, work=""):
     spans = notes(text, work)
     # square brackets are the editor's too ("[and found him feasting]"): the page does not light them, so they are not read
     spans += [(m.start(), m.end(), "bracket") for m in re.finditer(r"\[[^\]]*\]", text)]
+    # Stephanus references in brackets, "(61 E)" "(82 D)", and Ritter-Preller style "R. P. 34.E": citations, not read
+    spans += [(m.start(), m.end(), "locator") for m in re.finditer(r"\((?:\d{1,3}\s?[A-E]|[A-Z][a-z]*\.?\s?\d{1,3}\s?[a-eA-E])\)", text)]
+    spans += [(m.start(), m.end(), "locator") for m in re.finditer(r"\bR\. P\. \d{1,3}\.?[A-E]?\b\.?", text)]
     # bare figures that are the edition's page, chapter, section or verse numbers, not the author's words: at the start
     # of a line ("596 1 1 Archidamus...") or after a sentence (".” 2 But after..."), before a capitalised word
     for m in LOCATOR.finditer(text):

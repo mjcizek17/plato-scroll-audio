@@ -36,6 +36,8 @@ CASES = [
     ("You are like Alcibiades (Compare Symp.), whom I loved (Greek).", "You are like Alcibiades, whom I loved."),
     ("596 1 1 Archidamus left 2 sons. 45 Labour at these things.", "Archidamus left two sons. forty-five Labour at these things."),
     ("of Menelaus [and found him feasting]. Then he spoke.", "of Menelaus Then he spoke."),
+    ("only from hearsay.’(61 E) For I, to answer; (Syrianus ten, 22)Philolaus says; the lyre. R. P. 34.E Men do not",
+     "only from hearsay.’ For I, to answer; (Syrianus ten, twenty-two Philolaus says; the lyre. Men do not"),
     # Greek
     ("the letter Π, the “hidden” τὸ κρύφιον; ὁ λόγος; Dæmons", "the letter pi, the “hidden” to kruphion; ho logos; Daemons"),
     # capitals

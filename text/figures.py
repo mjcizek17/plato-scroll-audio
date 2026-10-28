@@ -179,6 +179,14 @@ def say(word, prev="", nxt=""):
         core = re.sub(r"(?<=\d)[⟩«](?=\d|$)", "×", core).rstrip("}{")
         core = re.sub(r"^(\d[\d,]*),[a-z]$", r"\1", core)
     nxt_fig = bool(re.match(r"^[(\[]*\d", nxt or ""))
+    # "hearsay.’(61 E)": a Stephanus reference glued to the word before it — the word alone (the "E)" is silenced)
+    m = re.match(r"^(.+?[^\d(])\((\d{1,3})$", core)
+    if m and re.match(r"^[A-Ea-e]\)", nxt or ""):
+        return [m.group(1)]
+    # "22)Philolaus": a figure closing a bracket, glued to the next word
+    m = re.match(r"^(\d{1,4})\)([A-Z][A-Za-z’'-]+)$", core)
+    if m:
+        return cardinal(int(m.group(1))) + [m.group(2)]
     # a lone "x" between figures is the multiplication sign ("21 x 20")
     if core == "x" and re.search(r"\d$", prev or "") and nxt_fig:
         return ["times"]
