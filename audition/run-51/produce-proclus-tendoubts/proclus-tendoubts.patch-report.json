@@ -1,0 +1,19 @@
+{
+ "work": "proclus-tendoubts",
+ "patched": [
+  {
+   "part": "proclus-tendoubts-p1",
+   "entry": 7,
+   "old_s": 59.9,
+   "new_s": 57.81,
+   "words": 156
+  },
+  {
+   "part": "proclus-tendoubts-p1",
+   "entry": 0,
+   "old_s": 3.14,
+   "new_s": 3.04,
+   "words": 5
+  }
+ ]
+}
