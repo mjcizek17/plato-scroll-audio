@@ -1,0 +1,341 @@
+{
+ "work": "plut-lives-5",
+ "patched": [
+  {
+   "part": "plut-lives-5-p1",
+   "entry": 59,
+   "old_s": 67.33,
+   "new_s": 64.38,
+   "words": 214
+  },
+  {
+   "part": "plut-lives-5-p1",
+   "entry": 47,
+   "old_s": 69.3,
+   "new_s": 68.78,
+   "words": 226
+  },
+  {
+   "part": "plut-lives-5-p1",
+   "entry": 40,
+   "old_s": 60.34,
+   "new_s": 58.19,
+   "words": 181
+  },
+  {
+   "part": "plut-lives-5-p1",
+   "entry": 27,
+   "old_s": 103.22,
+   "new_s": 96.3,
+   "words": 289
+  },
+  {
+   "part": "plut-lives-5-p1",
+   "entry": 25,
+   "old_s": 131.17,
+   "new_s": 125.6,
+   "words": 399
+  },
+  {
+   "part": "plut-lives-5-p1",
+   "entry": 20,
+   "old_s": 111.06,
+   "new_s": 107.66,
+   "words": 334
+  },
+  {
+   "part": "plut-lives-5-p1",
+   "entry": 11,
+   "old_s": 51.31,
+   "new_s": 51.12,
+   "words": 160
+  },
+  {
+   "part": "plut-lives-5-p1",
+   "entry": 9,
+   "old_s": 91.5,
+   "new_s": 85.96,
+   "words": 280
+  },
+  {
+   "part": "plut-lives-5-p1",
+   "entry": 6,
+   "old_s": 116.12,
+   "new_s": 110.04,
+   "words": 337
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 265,
+   "old_s": 75.82,
+   "new_s": 73.67,
+   "words": 236
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 262,
+   "old_s": 54.83,
+   "new_s": 52.19,
+   "words": 174
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 253,
+   "old_s": 79.21,
+   "new_s": 77.93,
+   "words": 248
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 238,
+   "old_s": 49.16,
+   "new_s": 49.35,
+   "words": 155
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 232,
+   "old_s": 104.75,
+   "new_s": 102.61,
+   "words": 328
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 229,
+   "old_s": 96.55,
+   "new_s": 92.0,
+   "words": 265
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 227,
+   "old_s": 118.68,
+   "new_s": 110.94,
+   "words": 353
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 223,
+   "old_s": 63.48,
+   "new_s": 59.83,
+   "words": 188
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 218,
+   "old_s": 41.93,
+   "new_s": 41.95,
+   "words": 134
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 211,
+   "old_s": 85.37,
+   "new_s": 82.35,
+   "words": 261
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 207,
+   "old_s": 55.11,
+   "new_s": 51.84,
+   "words": 170
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 192,
+   "old_s": 132.47,
+   "new_s": 129.29,
+   "words": 416
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 185,
+   "old_s": 12.18,
+   "new_s": 12.34,
+   "words": 34
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 180,
+   "old_s": 57.03,
+   "new_s": 54.66,
+   "words": 168
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 167,
+   "old_s": 116.82,
+   "new_s": 115.84,
+   "words": 371
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 163,
+   "old_s": 105.68,
+   "new_s": 103.35,
+   "words": 321
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 161,
+   "old_s": 90.96,
+   "new_s": 89.12,
+   "words": 298
+  },
+  {
+   "part": "plut-lives-5-p3",
+   "entry": 158,
+   "old_s": 158.35,
+   "new_s": 156.73,
+   "words": 504
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 489,
+   "old_s": 79.62,
+   "new_s": 74.51,
+   "words": 245
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 485,
+   "old_s": 100.63,
+   "new_s": 96.06,
+   "words": 294
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 482,
+   "old_s": 112.2,
+   "new_s": 111.87,
+   "words": 343
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 477,
+   "old_s": 127.41,
+   "new_s": 124.14,
+   "words": 379
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 473,
+   "old_s": 116.32,
+   "new_s": 107.05,
+   "words": 354
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 471,
+   "old_s": 68.56,
+   "new_s": 68.08,
+   "words": 222
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 469,
+   "old_s": 90.29,
+   "new_s": 85.37,
+   "words": 266
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 464,
+   "old_s": 47.92,
+   "new_s": 47.99,
+   "words": 141
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 461,
+   "old_s": 100.94,
+   "new_s": 97.2,
+   "words": 316
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 458,
+   "old_s": 84.98,
+   "new_s": 78.16,
+   "words": 247
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 451,
+   "old_s": 77.0,
+   "new_s": 74.15,
+   "words": 235
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 447,
+   "old_s": 151.63,
+   "new_s": 144.81,
+   "words": 473
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 445,
+   "old_s": 42.37,
+   "new_s": 42.75,
+   "words": 133
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 442,
+   "old_s": 67.05,
+   "new_s": 64.84,
+   "words": 203
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 439,
+   "old_s": 83.27,
+   "new_s": 79.93,
+   "words": 245
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 434,
+   "old_s": 56.02,
+   "new_s": 52.52,
+   "words": 164
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 430,
+   "old_s": 57.83,
+   "new_s": 55.18,
+   "words": 171
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 426,
+   "old_s": 73.51,
+   "new_s": 71.46,
+   "words": 232
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 423,
+   "old_s": 120.31,
+   "new_s": 110.0,
+   "words": 402
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 417,
+   "old_s": 83.04,
+   "new_s": 79.66,
+   "words": 263
+  },
+  {
+   "part": "plut-lives-5-p5",
+   "entry": 404,
+   "old_s": 38.02,
+   "new_s": 37.89,
+   "words": 106
+  }
+ ]
+}
