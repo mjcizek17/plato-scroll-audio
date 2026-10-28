@@ -1,0 +1,1 @@
+{"work": "cicero-dream-of-scipio", "patched": [{"part": "cicero-dream-of-scipio-p1", "entry": 0, "old_s": 31.84, "new_s": 30.54, "words": 78}]}
