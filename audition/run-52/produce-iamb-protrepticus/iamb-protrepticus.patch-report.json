@@ -1,0 +1,54 @@
+{
+ "work": "iamb-protrepticus",
+ "patched": [
+  {
+   "part": "iamb-protrepticus-p1",
+   "entry": 31,
+   "old_s": 3.45,
+   "new_s": 3.22,
+   "words": 5
+  },
+  {
+   "part": "iamb-protrepticus-p1",
+   "entry": 28,
+   "old_s": 33.65,
+   "new_s": 35.52,
+   "words": 90
+  },
+  {
+   "part": "iamb-protrepticus-p1",
+   "entry": 15,
+   "old_s": 142.94,
+   "new_s": 141.45,
+   "words": 320
+  },
+  {
+   "part": "iamb-protrepticus-p1",
+   "entry": 14,
+   "old_s": 35.89,
+   "new_s": 36.52,
+   "words": 86
+  },
+  {
+   "part": "iamb-protrepticus-p1",
+   "entry": 13,
+   "old_s": 51.77,
+   "new_s": 53.69,
+   "words": 155
+  },
+  {
+   "part": "iamb-protrepticus-p1",
+   "entry": 10,
+   "old_s": 80.61,
+   "new_s": 78.65,
+   "words": 223
+  },
+  {
+   "part": "iamb-protrepticus-p1",
+   "entry": 1,
+   "old_s": 2.03,
+   "new_s": 3.15,
+   "words": 6
+  }
+ ]
+}
