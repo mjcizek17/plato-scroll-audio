@@ -87,6 +87,10 @@ def main(work, pub, outdir, dry=False):
         # work from the end, so the times of the cuts still to come stay valid
         for e, i, j, nxt, text in sorted(cuts, key=lambda c: words[c[0]][c[1]], reverse=True):
             W = words[e]
+            # a note cut in an earlier pass: its words all sit at the time of the cut, as does the word after it
+            if (j > i and W[j] == W[i]) or (nxt is not None and W[nxt] == W[j]) or (i > 0 and W[i] == W[i - 1]):
+                report["skipped"].append({"part": name, "entry": e, "words": [i, j], "text": text, "why": "already cut"})
+                continue
             t_first, t_last = W[i] / 100, W[j] / 100
             prev = W[i - 1] / 100 if i > 0 else ent.get(e, t_first)
             if nxt is not None:

@@ -1,81 +1,56 @@
 {
- "patch": {
-  "cic-officiis": [
-   1,
-   4,
-   5,
-   6,
-   424
-  ],
-  "iamb-protrepticus": [
-   1,
-   10,
-   13,
-   14,
-   15,
-   28,
-   31
-  ],
-  "iamb-fragments": [
-   1,
-   22
-  ],
-  "cic-legibus": [
-   1
-  ],
-  "cic-natdeorum": [
-   1
-  ],
-  "laws-b": [
-   934,
-   937,
-   938,
-   942,
-   944,
-   977,
-   1014,
-   1316,
-   1515,
-   1785,
-   1805
-  ],
-  "julian-essays": [
-   62,
-   65,
-   68,
-   71,
-   74,
-   77,
-   80,
-   90
-  ],
-  "metaphysics": [
-   65,
-   644
-  ],
-  "rep-b": [
-   3196,
-   3960
-  ],
-  "porph-isagoge": [
-   1,
-   3
-  ]
- },
- "tags": {
-  "cic-officiis": "classics-v1",
-  "iamb-protrepticus": "neoplatonists-v1",
-  "iamb-fragments": "neoplatonists-v1",
-  "cic-legibus": "classics-v1",
-  "cic-natdeorum": "classics-v1",
-  "laws-b": "jowett-v1",
-  "julian-essays": "julian-v1",
-  "metaphysics": "aristotle-v1",
-  "rep-b": "jowett-v1",
-  "porph-isagoge": "plutarch-platonists-v1"
- },
+ "works": [
+  "defns",
+  "demod",
+  "onjust",
+  "onvirt",
+  "empedocles-fragments",
+  "heraclitus-fragments",
+  "ocellus-universe",
+  "orphic-hymns",
+  "orphic-theogony",
+  "parmenides-on-nature",
+  "philolaus-fragments",
+  "pythagorean-ethical-fragments",
+  "pythagoric-sentences",
+  "solon-fragments",
+  "xenophanes-fragments",
+  "hesiod-theogony",
+  "hesiod-works-days",
+  "alcinous-handbook",
+  "apuleius-god-of-socrates",
+  "apuleius-on-plato",
+  "maximus-dissertations",
+  "numenius-fragments",
+  "plethon-chaldean-oracles",
+  "plethon-hymns"
+ ],
  "dest": "release",
- "reuse_run": "40630431694",
- "no_render": true,
- "_note": "Assemble only, second pass: these 10 works patched fine in run 40689916160 but their reports push to the samples branch lost a race and the release upload was skipped."
+ "tag": "classics-v1",
+ "tags": {
+  "defns": "audio-v1",
+  "demod": "audio-v1",
+  "onjust": "audio-v1",
+  "onvirt": "audio-v1",
+  "empedocles-fragments": "classics-v1",
+  "heraclitus-fragments": "classics-v1",
+  "ocellus-universe": "classics-v1",
+  "orphic-hymns": "classics-v1",
+  "orphic-theogony": "classics-v1",
+  "parmenides-on-nature": "classics-v1",
+  "philolaus-fragments": "classics-v1",
+  "pythagorean-ethical-fragments": "classics-v1",
+  "pythagoric-sentences": "classics-v1",
+  "solon-fragments": "classics-v1",
+  "xenophanes-fragments": "classics-v1",
+  "hesiod-theogony": "neoplatonists-v1",
+  "hesiod-works-days": "neoplatonists-v1",
+  "alcinous-handbook": "plutarch-platonists-v1",
+  "apuleius-god-of-socrates": "plutarch-platonists-v1",
+  "apuleius-on-plato": "plutarch-platonists-v1",
+  "maximus-dissertations": "plutarch-platonists-v1",
+  "numenius-fragments": "plutarch-platonists-v1",
+  "plethon-chaldean-oracles": "plutarch-platonists-v1",
+  "plethon-hymns": "plutarch-platonists-v1"
+ }
 }

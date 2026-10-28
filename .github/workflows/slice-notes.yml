@@ -52,8 +52,22 @@ jobs:
         run: |
           W="${{ matrix.work }}"; mkdir -p pub out
           gh release download "${{ steps.rel.outputs.tag }}" -p "$W-p*.mp3" -p "$W-p*.timing.json" -D pub --clobber
-          # a work cut before starts again from its uncut original (kept on notes-originals), so the rules can change
-          mkdir -p orig && gh release download notes-originals -p "orig-$W-p*" -D orig --clobber 2>/dev/null || true
+          # a work cut before starts again from its uncut original (kept on notes-originals), so the rules can change —
+          # unless the work was patched since (re-recorded paragraphs spliced in: its patch-report on the release is
+          # newer than the kept original): then the published file is the new base and the stale original is dropped,
+          # so a cut never undoes a patch
+          mkdir -p orig
+          pt=$(gh api "repos/${{ github.repository }}/releases/tags/${{ steps.rel.outputs.tag }}" --paginate -q ".assets[] | select(.name==\"$W.patch-report.json\") | .updated_at")
+          origts=$(gh api "repos/${{ github.repository }}/releases/tags/notes-originals" --paginate -q '.assets[] | "\(.name) \(.updated_at)"')
+          for b in $(echo "$origts" | awk -v w="orig-$W-p" 'index($1, w)==1 {print $1}'); do
+            ot=$(echo "$origts" | awk -v n="$b" '$1==n {print $2}')
+            if [ -n "$pt" ] && [ "$pt" \> "$ot" ]; then
+              echo "$W was patched ($pt) after $b was kept ($ot): the published file is the base now"
+              gh release delete-asset notes-originals "$b" -y || true
+            else
+              gh release download notes-originals -p "$b" -D orig --clobber 2>/dev/null || true
+            fi
+          done
           for f in orig/orig-*; do [ -f "$f" ] && cp "$f" "pub/$(basename "${f#orig/orig-}")"; done
           ls pub
           python tools/slice_notes.py "$W" pub out 2>&1 | tee "out/$W.slice-log.txt"
