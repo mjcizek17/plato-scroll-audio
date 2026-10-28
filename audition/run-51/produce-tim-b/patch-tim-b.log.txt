@@ -1,0 +1,1 @@
+{"work": "tim-b", "patched": [{"part": "tim-b-p1", "entry": 80, "old_s": 163.86, "new_s": 164.15, "words": 486}, {"part": "tim-b-p1", "entry": 56, "old_s": 17.89, "new_s": 20.4, "words": 54}, {"part": "tim-b-p1", "entry": 38, "old_s": 368.54, "new_s": 369.39, "words": 1344}]}
