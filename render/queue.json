@@ -950,5 +950,8 @@
   "theoarith": "neoplatonists-v1",
   "tim-b": "jowett-v1"
  },
- "dest": "release"
+ "dest": "release",
+ "reuse_run": "40630431694",
+ "no_render": true,
+ "_note": "Assemble only: the 100 shards of run 40630431694 (figures repair) rendered fine, but the assemble matrix was empty in patch mode."
 }

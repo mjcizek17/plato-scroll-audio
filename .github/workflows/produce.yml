@@ -59,7 +59,7 @@ jobs:
       - id: q
         run: |
           echo "shards=$(python3 engines/script.py render/queue.json)" >> "$GITHUB_OUTPUT"
-          echo "works=$(jq -c .works render/queue.json)" >> "$GITHUB_OUTPUT"
+          echo "works=$(jq -c '.works // (.patch | keys)' render/queue.json)" >> "$GITHUB_OUTPUT"   # patch mode: the patched works
           echo "dest=$(jq -r '.dest // "samples"' render/queue.json)" >> "$GITHUB_OUTPUT"
           echo "tag=$(jq -r '.tag // "audio-v1"' render/queue.json)" >> "$GITHUB_OUTPUT"
           echo "reuse=$(jq -r '.reuse_run // ""' render/queue.json)" >> "$GITHUB_OUTPUT"
@@ -68,6 +68,7 @@ jobs:
 
   render:
     needs: plan
+    if: needs.plan.outputs.shards != '[]'
     runs-on: ubuntu-24.04
     timeout-minutes: 355
     strategy:

@@ -156,6 +156,8 @@ if __name__ == "__main__":
     import sys
     q = json.load(open(sys.argv[1]))
     # ranges: re-render only those lines of those works; any other work in "works" is rendered whole
+    if q.get("no_render"):   # assemble only, from the lines of reuse_run (nothing is rendered)
+        print("[]"); sys.exit(0)
     if q.get("patch"):
         print(json.dumps(plan_patch(q["patch"], q.get("budget", 5400)), separators=(",", ":"))); sys.exit(0)
     rest = [w for w in q["works"] if w not in q.get("ranges", {})]
