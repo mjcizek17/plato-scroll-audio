@@ -1,0 +1,19 @@
+{
+ "work": "cic-republic",
+ "patched": [
+  {
+   "part": "cic-republic-p1",
+   "entry": 1,
+   "old_s": 15.2,
+   "new_s": 15.17,
+   "words": 40
+  },
+  {
+   "part": "cic-republic-p5",
+   "entry": 435,
+   "old_s": 57.13,
+   "new_s": 57.72,
+   "words": 156
+  }
+ ]
+}
