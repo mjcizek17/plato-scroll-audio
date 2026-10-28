@@ -1,0 +1,1 @@
+{"work": "athenian-constitution", "patched": [{"part": "athenian-constitution-p1", "entry": 107, "old_s": 72.68, "new_s": 72.38, "words": 249}, {"part": "athenian-constitution-p1", "entry": 41, "old_s": 87.74, "new_s": 87.2, "words": 267}]}
