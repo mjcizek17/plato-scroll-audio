@@ -1,0 +1,159 @@
+{
+ "work": "dam-principles",
+ "patched": [
+  {
+   "part": "dam-principles-p8",
+   "entry": 157,
+   "old_s": 8.8,
+   "new_s": 7.94,
+   "words": 19
+  },
+  {
+   "part": "dam-principles-p9",
+   "entry": 174,
+   "old_s": 7.18,
+   "new_s": 7.14,
+   "words": 17
+  },
+  {
+   "part": "dam-principles-p25",
+   "entry": 470,
+   "old_s": 22.34,
+   "new_s": 22.78,
+   "words": 50
+  },
+  {
+   "part": "dam-principles-p25",
+   "entry": 462,
+   "old_s": 24.3,
+   "new_s": 26.78,
+   "words": 59
+  },
+  {
+   "part": "dam-principles-p26",
+   "entry": 491,
+   "old_s": 23.34,
+   "new_s": 27.08,
+   "words": 49
+  },
+  {
+   "part": "dam-principles-p26",
+   "entry": 489,
+   "old_s": 22.0,
+   "new_s": 26.14,
+   "words": 48
+  },
+  {
+   "part": "dam-principles-p26",
+   "entry": 481,
+   "old_s": 21.18,
+   "new_s": 24.17,
+   "words": 52
+  },
+  {
+   "part": "dam-principles-p27",
+   "entry": 512,
+   "old_s": 28.29,
+   "new_s": 31.45,
+   "words": 65
+  },
+  {
+   "part": "dam-principles-p27",
+   "entry": 510,
+   "old_s": 22.9,
+   "new_s": 24.89,
+   "words": 56
+  },
+  {
+   "part": "dam-principles-p27",
+   "entry": 504,
+   "old_s": 18.84,
+   "new_s": 22.77,
+   "words": 47
+  },
+  {
+   "part": "dam-principles-p28",
+   "entry": 540,
+   "old_s": 21.2,
+   "new_s": 24.87,
+   "words": 51
+  },
+  {
+   "part": "dam-principles-p28",
+   "entry": 537,
+   "old_s": 21.68,
+   "new_s": 24.69,
+   "words": 51
+  },
+  {
+   "part": "dam-principles-p28",
+   "entry": 533,
+   "old_s": 20.03,
+   "new_s": 26.13,
+   "words": 48
+  },
+  {
+   "part": "dam-principles-p28",
+   "entry": 526,
+   "old_s": 27.34,
+   "new_s": 29.3,
+   "words": 63
+  },
+  {
+   "part": "dam-principles-p29",
+   "entry": 562,
+   "old_s": 21.12,
+   "new_s": 26.26,
+   "words": 63
+  },
+  {
+   "part": "dam-principles-p29",
+   "entry": 555,
+   "old_s": 24.23,
+   "new_s": 30.56,
+   "words": 62
+  },
+  {
+   "part": "dam-principles-p30",
+   "entry": 591,
+   "old_s": 33.02,
+   "new_s": 36.64,
+   "words": 73
+  },
+  {
+   "part": "dam-principles-p30",
+   "entry": 583,
+   "old_s": 26.28,
+   "new_s": 27.27,
+   "words": 52
+  },
+  {
+   "part": "dam-principles-p30",
+   "entry": 577,
+   "old_s": 23.8,
+   "new_s": 27.8,
+   "words": 63
+  },
+  {
+   "part": "dam-principles-p31",
+   "entry": 622,
+   "old_s": 5.43,
+   "new_s": 5.29,
+   "words": 13
+  },
+  {
+   "part": "dam-principles-p31",
+   "entry": 612,
+   "old_s": 30.32,
+   "new_s": 35.49,
+   "words": 73
+  },
+  {
+   "part": "dam-principles-p31",
+   "entry": 605,
+   "old_s": 35.59,
+   "new_s": 38.4,
+   "words": 74
+  }
+ ]
+}
