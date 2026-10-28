@@ -1,0 +1,12 @@
+{
+ "work": "cic-academica",
+ "patched": [
+  {
+   "part": "cic-academica-p1",
+   "entry": 1,
+   "old_s": 11.49,
+   "new_s": 11.39,
+   "words": 28
+  }
+ ]
+}
