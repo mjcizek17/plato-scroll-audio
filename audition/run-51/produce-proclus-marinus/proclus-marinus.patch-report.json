@@ -1,0 +1,75 @@
+{
+ "work": "proclus-marinus",
+ "patched": [
+  {
+   "part": "proclus-marinus-p1",
+   "entry": 7,
+   "old_s": 123.97,
+   "new_s": 123.38,
+   "words": 322
+  },
+  {
+   "part": "proclus-marinus-p1",
+   "entry": 1,
+   "old_s": 1.63,
+   "new_s": 3.11,
+   "words": 5
+  },
+  {
+   "part": "proclus-marinus-p2",
+   "entry": 95,
+   "old_s": 6.94,
+   "new_s": 7.63,
+   "words": 15
+  },
+  {
+   "part": "proclus-marinus-p2",
+   "entry": 92,
+   "old_s": 58.76,
+   "new_s": 59.31,
+   "words": 162
+  },
+  {
+   "part": "proclus-marinus-p2",
+   "entry": 88,
+   "old_s": 180.7,
+   "new_s": 181.12,
+   "words": 487
+  },
+  {
+   "part": "proclus-marinus-p2",
+   "entry": 87,
+   "old_s": 44.46,
+   "new_s": 43.11,
+   "words": 106
+  },
+  {
+   "part": "proclus-marinus-p2",
+   "entry": 82,
+   "old_s": 7.64,
+   "new_s": 8.34,
+   "words": 18
+  },
+  {
+   "part": "proclus-marinus-p2",
+   "entry": 81,
+   "old_s": 15.13,
+   "new_s": 18.16,
+   "words": 27
+  },
+  {
+   "part": "proclus-marinus-p2",
+   "entry": 76,
+   "old_s": 98.91,
+   "new_s": 101.51,
+   "words": 254
+  },
+  {
+   "part": "proclus-marinus-p2",
+   "entry": 73,
+   "old_s": 48.4,
+   "new_s": 48.94,
+   "words": 126
+  }
+ ]
+}
