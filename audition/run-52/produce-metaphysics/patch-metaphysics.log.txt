@@ -1,0 +1,1 @@
+{"work": "metaphysics", "patched": [{"part": "metaphysics-p1", "entry": 65, "old_s": 31.5, "new_s": 30.37, "words": 107}, {"part": "metaphysics-p14", "entry": 644, "old_s": 146.96, "new_s": 144.26, "words": 461}]}
