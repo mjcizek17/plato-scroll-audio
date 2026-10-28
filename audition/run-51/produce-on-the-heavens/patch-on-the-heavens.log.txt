@@ -1,0 +1,1 @@
+{"work": "on-the-heavens", "patched": [{"part": "on-the-heavens-p2", "entry": 138, "old_s": 149.31, "new_s": 140.66, "words": 488}]}
