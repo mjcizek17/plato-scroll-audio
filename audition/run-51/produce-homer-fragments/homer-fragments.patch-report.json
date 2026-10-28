@@ -1,0 +1,264 @@
+{
+ "work": "homer-fragments",
+ "patched": [
+  {
+   "part": "homer-fragments-p1",
+   "entry": 81,
+   "old_s": 16.95,
+   "new_s": 17.77,
+   "words": 45
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 77,
+   "old_s": 14.8,
+   "new_s": 16.2,
+   "words": 38
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 74,
+   "old_s": 21.24,
+   "new_s": 22.21,
+   "words": 58
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 73,
+   "old_s": 23.36,
+   "new_s": 24.26,
+   "words": 67
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 72,
+   "old_s": 11.05,
+   "new_s": 11.69,
+   "words": 32
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 71,
+   "old_s": 14.77,
+   "new_s": 15.8,
+   "words": 39
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 64,
+   "old_s": 22.35,
+   "new_s": 23.23,
+   "words": 67
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 63,
+   "old_s": 13.19,
+   "new_s": 13.58,
+   "words": 39
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 61,
+   "old_s": 13.48,
+   "new_s": 12.79,
+   "words": 31
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 49,
+   "old_s": 31.59,
+   "new_s": 33.17,
+   "words": 97
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 45,
+   "old_s": 19.28,
+   "new_s": 18.14,
+   "words": 53
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 42,
+   "old_s": 8.93,
+   "new_s": 9.54,
+   "words": 19
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 41,
+   "old_s": 20.73,
+   "new_s": 19.55,
+   "words": 60
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 37,
+   "old_s": 15.54,
+   "new_s": 14.88,
+   "words": 37
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 36,
+   "old_s": 14.07,
+   "new_s": 14.17,
+   "words": 38
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 35,
+   "old_s": 8.85,
+   "new_s": 9.24,
+   "words": 22
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 31,
+   "old_s": 16.09,
+   "new_s": 18.51,
+   "words": 47
+  },
+  {
+   "part": "homer-fragments-p1",
+   "entry": 28,
+   "old_s": 12.08,
+   "new_s": 12.2,
+   "words": 34
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 153,
+   "old_s": 2.91,
+   "new_s": 3.58,
+   "words": 8
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 148,
+   "old_s": 16.14,
+   "new_s": 18.49,
+   "words": 59
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 141,
+   "old_s": 33.12,
+   "new_s": 32.87,
+   "words": 101
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 140,
+   "old_s": 13.16,
+   "new_s": 14.42,
+   "words": 37
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 139,
+   "old_s": 12.36,
+   "new_s": 13.89,
+   "words": 30
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 138,
+   "old_s": 46.42,
+   "new_s": 47.15,
+   "words": 134
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 133,
+   "old_s": 13.65,
+   "new_s": 15.65,
+   "words": 30
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 128,
+   "old_s": 12.62,
+   "new_s": 12.79,
+   "words": 27
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 122,
+   "old_s": 11.33,
+   "new_s": 12.04,
+   "words": 33
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 120,
+   "old_s": 19.21,
+   "new_s": 19.36,
+   "words": 52
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 114,
+   "old_s": 37.95,
+   "new_s": 38.38,
+   "words": 111
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 113,
+   "old_s": 16.22,
+   "new_s": 15.37,
+   "words": 40
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 111,
+   "old_s": 13.44,
+   "new_s": 12.56,
+   "words": 34
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 105,
+   "old_s": 10.66,
+   "new_s": 12.59,
+   "words": 32
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 103,
+   "old_s": 17.6,
+   "new_s": 19.38,
+   "words": 55
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 101,
+   "old_s": 17.47,
+   "new_s": 18.53,
+   "words": 53
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 100,
+   "old_s": 11.08,
+   "new_s": 11.81,
+   "words": 34
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 96,
+   "old_s": 29.52,
+   "new_s": 30.24,
+   "words": 88
+  },
+  {
+   "part": "homer-fragments-p2",
+   "entry": 90,
+   "old_s": 12.61,
+   "new_s": 13.36,
+   "words": 31
+  }
+ ]
+}
