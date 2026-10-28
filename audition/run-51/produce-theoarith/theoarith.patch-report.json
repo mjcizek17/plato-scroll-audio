@@ -1,0 +1,733 @@
+{
+ "work": "theoarith",
+ "patched": [
+  {
+   "part": "theoarith-p1",
+   "entry": 51,
+   "old_s": 81.99,
+   "new_s": 80.63,
+   "words": 226
+  },
+  {
+   "part": "theoarith-p1",
+   "entry": 32,
+   "old_s": 68.94,
+   "new_s": 72.95,
+   "words": 208
+  },
+  {
+   "part": "theoarith-p1",
+   "entry": 11,
+   "old_s": 86.75,
+   "new_s": 86.1,
+   "words": 232
+  },
+  {
+   "part": "theoarith-p2",
+   "entry": 114,
+   "old_s": 10.64,
+   "new_s": 14.11,
+   "words": 19
+  },
+  {
+   "part": "theoarith-p2",
+   "entry": 109,
+   "old_s": 8.08,
+   "new_s": 9.09,
+   "words": 16
+  },
+  {
+   "part": "theoarith-p2",
+   "entry": 103,
+   "old_s": 44.36,
+   "new_s": 46.34,
+   "words": 108
+  },
+  {
+   "part": "theoarith-p2",
+   "entry": 101,
+   "old_s": 34.28,
+   "new_s": 35.18,
+   "words": 100
+  },
+  {
+   "part": "theoarith-p2",
+   "entry": 99,
+   "old_s": 68.18,
+   "new_s": 69.51,
+   "words": 194
+  },
+  {
+   "part": "theoarith-p2",
+   "entry": 97,
+   "old_s": 111.96,
+   "new_s": 119.13,
+   "words": 330
+  },
+  {
+   "part": "theoarith-p2",
+   "entry": 96,
+   "old_s": 31.17,
+   "new_s": 33.32,
+   "words": 77
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 169,
+   "old_s": 33.78,
+   "new_s": 31.93,
+   "words": 96
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 162,
+   "old_s": 10.46,
+   "new_s": 13.76,
+   "words": 20
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 161,
+   "old_s": 3.39,
+   "new_s": 19.18,
+   "words": 23
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 160,
+   "old_s": 8.62,
+   "new_s": 14.23,
+   "words": 15
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 150,
+   "old_s": 67.53,
+   "new_s": 70.65,
+   "words": 197
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 142,
+   "old_s": 17.56,
+   "new_s": 19.96,
+   "words": 38
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 141,
+   "old_s": 3.33,
+   "new_s": 17.86,
+   "words": 23
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 140,
+   "old_s": 1.16,
+   "new_s": 11.83,
+   "words": 15
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 121,
+   "old_s": 97.38,
+   "new_s": 97.16,
+   "words": 288
+  },
+  {
+   "part": "theoarith-p3",
+   "entry": 119,
+   "old_s": 83.07,
+   "new_s": 84.4,
+   "words": 246
+  },
+  {
+   "part": "theoarith-p4",
+   "entry": 229,
+   "old_s": 7.38,
+   "new_s": 10.04,
+   "words": 14
+  },
+  {
+   "part": "theoarith-p4",
+   "entry": 221,
+   "old_s": 34.91,
+   "new_s": 34.84,
+   "words": 88
+  },
+  {
+   "part": "theoarith-p4",
+   "entry": 215,
+   "old_s": 32.65,
+   "new_s": 35.93,
+   "words": 76
+  },
+  {
+   "part": "theoarith-p4",
+   "entry": 207,
+   "old_s": 2.48,
+   "new_s": 2.59,
+   "words": 5
+  },
+  {
+   "part": "theoarith-p5",
+   "entry": 292,
+   "old_s": 0.54,
+   "new_s": 5.98,
+   "words": 9
+  },
+  {
+   "part": "theoarith-p5",
+   "entry": 290,
+   "old_s": 8.47,
+   "new_s": 9.69,
+   "words": 15
+  },
+  {
+   "part": "theoarith-p5",
+   "entry": 259,
+   "old_s": 53.31,
+   "new_s": 53.4,
+   "words": 165
+  },
+  {
+   "part": "theoarith-p6",
+   "entry": 358,
+   "old_s": 22.0,
+   "new_s": 22.74,
+   "words": 53
+  },
+  {
+   "part": "theoarith-p6",
+   "entry": 355,
+   "old_s": 14.81,
+   "new_s": 20.31,
+   "words": 19
+  },
+  {
+   "part": "theoarith-p6",
+   "entry": 354,
+   "old_s": 13.2,
+   "new_s": 14.15,
+   "words": 19
+  },
+  {
+   "part": "theoarith-p6",
+   "entry": 353,
+   "old_s": 3.46,
+   "new_s": 7.04,
+   "words": 10
+  },
+  {
+   "part": "theoarith-p6",
+   "entry": 335,
+   "old_s": 28.62,
+   "new_s": 28.75,
+   "words": 99
+  },
+  {
+   "part": "theoarith-p6",
+   "entry": 334,
+   "old_s": 21.7,
+   "new_s": 35.71,
+   "words": 30
+  },
+  {
+   "part": "theoarith-p6",
+   "entry": 333,
+   "old_s": 14.16,
+   "new_s": 19.25,
+   "words": 31
+  },
+  {
+   "part": "theoarith-p6",
+   "entry": 312,
+   "old_s": 1.26,
+   "new_s": 9.67,
+   "words": 16
+  },
+  {
+   "part": "theoarith-p7",
+   "entry": 416,
+   "old_s": 9.25,
+   "new_s": 13.81,
+   "words": 16
+  },
+  {
+   "part": "theoarith-p7",
+   "entry": 412,
+   "old_s": 16.37,
+   "new_s": 21.6,
+   "words": 19
+  },
+  {
+   "part": "theoarith-p7",
+   "entry": 410,
+   "old_s": 5.84,
+   "new_s": 7.21,
+   "words": 10
+  },
+  {
+   "part": "theoarith-p7",
+   "entry": 406,
+   "old_s": 115.24,
+   "new_s": 113.61,
+   "words": 316
+  },
+  {
+   "part": "theoarith-p7",
+   "entry": 394,
+   "old_s": 65.53,
+   "new_s": 68.88,
+   "words": 211
+  },
+  {
+   "part": "theoarith-p7",
+   "entry": 386,
+   "old_s": 74.01,
+   "new_s": 77.76,
+   "words": 213
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 497,
+   "old_s": 54.75,
+   "new_s": 71.91,
+   "words": 130
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 496,
+   "old_s": 68.29,
+   "new_s": 75.38,
+   "words": 174
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 495,
+   "old_s": 84.24,
+   "new_s": 95.24,
+   "words": 207
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 489,
+   "old_s": 34.6,
+   "new_s": 43.34,
+   "words": 71
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 488,
+   "old_s": 80.95,
+   "new_s": 85.98,
+   "words": 230
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 487,
+   "old_s": 14.31,
+   "new_s": 396.69,
+   "words": 137
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 486,
+   "old_s": 0.41,
+   "new_s": 33.94,
+   "words": 10
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 485,
+   "old_s": 0.4,
+   "new_s": 219.55,
+   "words": 112
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 484,
+   "old_s": 0.35,
+   "new_s": 21.55,
+   "words": 24
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 479,
+   "old_s": 25.15,
+   "new_s": 29.74,
+   "words": 62
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 477,
+   "old_s": 41.24,
+   "new_s": 47.9,
+   "words": 99
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 469,
+   "old_s": 39.77,
+   "new_s": 47.17,
+   "words": 67
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 465,
+   "old_s": 11.25,
+   "new_s": 12.24,
+   "words": 30
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 464,
+   "old_s": 44.48,
+   "new_s": 47.95,
+   "words": 125
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 461,
+   "old_s": 35.37,
+   "new_s": 38.84,
+   "words": 79
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 460,
+   "old_s": 17.99,
+   "new_s": 17.05,
+   "words": 44
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 459,
+   "old_s": 39.14,
+   "new_s": 39.12,
+   "words": 107
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 458,
+   "old_s": 16.3,
+   "new_s": 69.74,
+   "words": 67
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 455,
+   "old_s": 32.86,
+   "new_s": 33.75,
+   "words": 111
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 449,
+   "old_s": 28.46,
+   "new_s": 34.91,
+   "words": 61
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 427,
+   "old_s": 78.29,
+   "new_s": 78.57,
+   "words": 239
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 424,
+   "old_s": 19.29,
+   "new_s": 24.21,
+   "words": 36
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 422,
+   "old_s": 46.5,
+   "new_s": 48.83,
+   "words": 128
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 421,
+   "old_s": 39.61,
+   "new_s": 38.6,
+   "words": 118
+  },
+  {
+   "part": "theoarith-p8",
+   "entry": 420,
+   "old_s": 82.42,
+   "new_s": 87.11,
+   "words": 210
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 547,
+   "old_s": 8.11,
+   "new_s": 13.2,
+   "words": 27
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 543,
+   "old_s": 90.27,
+   "new_s": 88.08,
+   "words": 254
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 541,
+   "old_s": 123.54,
+   "new_s": 123.19,
+   "words": 315
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 529,
+   "old_s": 17.46,
+   "new_s": 98.87,
+   "words": 52
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 527,
+   "old_s": 21.45,
+   "new_s": 72.58,
+   "words": 32
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 522,
+   "old_s": 21.63,
+   "new_s": 27.01,
+   "words": 57
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 510,
+   "old_s": 17.82,
+   "new_s": 19.89,
+   "words": 47
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 507,
+   "old_s": 9.61,
+   "new_s": 11.12,
+   "words": 24
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 505,
+   "old_s": 107.04,
+   "new_s": 136.26,
+   "words": 224
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 504,
+   "old_s": 28.47,
+   "new_s": 47.12,
+   "words": 46
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 503,
+   "old_s": 25.19,
+   "new_s": 39.36,
+   "words": 42
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 502,
+   "old_s": 45.24,
+   "new_s": 50.05,
+   "words": 103
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 501,
+   "old_s": 9.22,
+   "new_s": 11.33,
+   "words": 21
+  },
+  {
+   "part": "theoarith-p9",
+   "entry": 500,
+   "old_s": 65.65,
+   "new_s": 75.1,
+   "words": 177
+  },
+  {
+   "part": "theoarith-p10",
+   "entry": 581,
+   "old_s": 25.37,
+   "new_s": 39.41,
+   "words": 24
+  },
+  {
+   "part": "theoarith-p11",
+   "entry": 614,
+   "old_s": 7.36,
+   "new_s": 13.17,
+   "words": 27
+  },
+  {
+   "part": "theoarith-p12",
+   "entry": 695,
+   "old_s": 2.43,
+   "new_s": 2.89,
+   "words": 4
+  },
+  {
+   "part": "theoarith-p12",
+   "entry": 679,
+   "old_s": 35.35,
+   "new_s": 43.55,
+   "words": 81
+  },
+  {
+   "part": "theoarith-p12",
+   "entry": 666,
+   "old_s": 75.61,
+   "new_s": 76.09,
+   "words": 215
+  },
+  {
+   "part": "theoarith-p13",
+   "entry": 770,
+   "old_s": 44.2,
+   "new_s": 46.2,
+   "words": 133
+  },
+  {
+   "part": "theoarith-p13",
+   "entry": 769,
+   "old_s": 1.74,
+   "new_s": 2.7,
+   "words": 4
+  },
+  {
+   "part": "theoarith-p13",
+   "entry": 748,
+   "old_s": 18.3,
+   "new_s": 21.65,
+   "words": 40
+  },
+  {
+   "part": "theoarith-p13",
+   "entry": 746,
+   "old_s": 139.27,
+   "new_s": 138.22,
+   "words": 408
+  },
+  {
+   "part": "theoarith-p13",
+   "entry": 736,
+   "old_s": 111.67,
+   "new_s": 112.35,
+   "words": 324
+  },
+  {
+   "part": "theoarith-p13",
+   "entry": 724,
+   "old_s": 3.56,
+   "new_s": 4.4,
+   "words": 6
+  },
+  {
+   "part": "theoarith-p13",
+   "entry": 712,
+   "old_s": 12.24,
+   "new_s": 16.93,
+   "words": 26
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 843,
+   "old_s": 14.03,
+   "new_s": 14.52,
+   "words": 43
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 842,
+   "old_s": 30.71,
+   "new_s": 37.08,
+   "words": 63
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 834,
+   "old_s": 82.03,
+   "new_s": 101.3,
+   "words": 145
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 833,
+   "old_s": 34.49,
+   "new_s": 39.33,
+   "words": 51
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 824,
+   "old_s": 66.52,
+   "new_s": 70.35,
+   "words": 189
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 814,
+   "old_s": 46.77,
+   "new_s": 54.98,
+   "words": 110
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 811,
+   "old_s": 40.36,
+   "new_s": 42.95,
+   "words": 112
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 804,
+   "old_s": 7.22,
+   "new_s": 10.44,
+   "words": 14
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 802,
+   "old_s": 8.49,
+   "new_s": 13.09,
+   "words": 18
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 800,
+   "old_s": 10.2,
+   "new_s": 12.69,
+   "words": 20
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 799,
+   "old_s": 8.93,
+   "new_s": 13.06,
+   "words": 18
+  },
+  {
+   "part": "theoarith-p14",
+   "entry": 789,
+   "old_s": 10.1,
+   "new_s": 14.64,
+   "words": 19
+  }
+ ]
+}
