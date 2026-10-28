@@ -1,0 +1,1 @@
+{"work": "hermes-corpus-1", "patched": [{"part": "hermes-corpus-1-p1", "entry": 0, "old_s": 30.27, "new_s": 31.51, "words": 65}]}
