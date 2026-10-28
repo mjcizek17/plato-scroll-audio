@@ -1,0 +1,1 @@
+{"work": "menex-b", "patched": [{"part": "menex-b-p1", "entry": 29, "old_s": 381.36, "new_s": 380.86, "words": 1156}]}
