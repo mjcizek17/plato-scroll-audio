@@ -1,0 +1,31 @@
+{
+ "work": "ocellus-universe",
+ "parts": [
+  {
+   "file": "ocellus-universe-p1.mp3",
+   "minutes": 26.57,
+   "lines": 47,
+   "words": 4129,
+   "words_interpolated": 9,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.98,
+     "text": "Chapter two",
+     "note": "re-taken: match 0.29 -> 0.31",
+     "line": "p1l0016"
+    }
+   ]
+  },
+  {
+   "file": "ocellus-universe-p2.mp3",
+   "minutes": 8.77,
+   "lines": 19,
+   "words": 1380,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
