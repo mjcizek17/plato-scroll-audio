@@ -38,6 +38,7 @@ CASES = [
     ("of Menelaus [and found him feasting]. Then he spoke.", "of Menelaus Then he spoke."),
     ("only from hearsay.’(61 E) For I, to answer; (Syrianus ten, 22)Philolaus says; the lyre. R. P. 34.E Men do not",
      "only from hearsay.’ For I, to answer; (Syrianus ten, twenty-two Philolaus says; the lyre. Men do not"),
+    ("Agrippina (19/23 AD – 59 AD) and 1/2 of 3/4; born 4 BC/AD 1.", "Agrippina (nineteen or twenty-three A D – fifty-nine A D) and one half of three quarters; born four B C, A D one."),
     # Greek
     ("the letter Π, the “hidden” τὸ κρύφιον; ὁ λόγος; Dæmons", "the letter pi, the “hidden” to kruphion; ho logos; Daemons"),
     # capitals

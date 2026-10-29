@@ -321,7 +321,12 @@ def say(word, prev="", nxt=""):
     # ligatures
     if any(ch in core for ch in "æœÆŒ"):
         return [core.replace("æ", "ae").replace("œ", "oe").replace("Æ", "Ae").replace("Œ", "Oe")]
-    # era abbreviations next to a figure
+    # era abbreviations next to a figure ("BC/AD" between two: "B C, A D")
+    if re.fullmatch(r"(B\.?C\.?E?\.?|A\.?D\.?|C\.?E\.?)/(B\.?C\.?E?\.?|A\.?D\.?|C\.?E\.?)", core) and (nxt_fig or re.search(r"\d", prev or "")):
+        a, b = core.split("/")
+        a = ERA.get(a) or ERA.get(a + "."); b = ERA.get(b) or ERA.get(b + ".")
+        if a and b:
+            return (a + ",").split() + b.split()
     key = core if core in ERA else core + "." if core + "." in ERA else None
     if key and (nxt_fig or re.search(r"\d", prev or "")):
         return ERA[key].split()
@@ -360,6 +365,9 @@ def say(word, prev="", nxt=""):
         return FRACTION[core].split()
     m = re.match(r"^(\d+)/(\d+)$", core)
     if m:
+        n0 = (nxt or "").strip("()[],.;:")
+        if n0 in ERA or n0 + "." in ERA:
+            return cardinal(int(m.group(1))) + ["or"] + cardinal(int(m.group(2)))   # "19/23 AD": an uncertain date
         return cardinal(int(m.group(1))) + ["over"] + cardinal(int(m.group(2)))
     m = re.match(r"^([A-Za-z.]*)(\d[\d,.]*)([–‑-])(\d[\d,.]*)$", core)
     if m:

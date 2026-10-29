@@ -38,3 +38,9 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
 - slice-notes over the other 168 published works — run 40698186887. A work patched since its original was kept starts
   from the patched file (its patch-report is newer than the orig- asset); notes already cut are skipped.
 - Still parked: render/next/queue-G-stoics.json (Seneca) — after queue I publishes.
+
+## 2026-10-29 — Narrator works published; Seneca queued
+- Queue I (24 works in the Socrates voice) published: run 40698186848, 165/165 shards, 24/24 assembled. slice-notes over the
+  other 168 works: run 40698186887, 168/168.
+- Seneca (queue G, stoics-v1) is now render/queue.json. Dates like "19/23 AD" are read "nineteen or twenty-three A D"
+  (a slash between figures is otherwise "over").
