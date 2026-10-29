@@ -1,0 +1,302 @@
+{
+ "work": "heraclitus-fragments",
+ "parts": [
+  {
+   "file": "heraclitus-fragments-p1.mp3",
+   "minutes": 22.86,
+   "lines": 266,
+   "words": 3056,
+   "words_interpolated": 21,
+   "retakes": 41,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.03,
+     "text": "Fragment twenty-two",
+     "note": "re-taken: match 0.43 -> 0.51",
+     "line": "p1l0046"
+    },
+    {
+     "group": 0,
+     "ratio": 0.87,
+     "text": "Fragment twenty-three",
+     "note": "re-taken: match 0.30 -> 0.39",
+     "line": "p1l0048"
+    },
+    {
+     "group": 0,
+     "ratio": 1.05,
+     "text": "Fragment thirty-two",
+     "note": "re-taken: match 0.43 -> 0.48",
+     "line": "p1l0067"
+    },
+    {
+     "group": 0,
+     "ratio": 0.91,
+     "text": "Fragment thirty-three",
+     "note": "re-taken: match 0.43 -> 0.43",
+     "line": "p1l0069"
+    },
+    {
+     "group": 0,
+     "ratio": 0.97,
+     "text": "Fragment thirty-four",
+     "note": "poor match to text (0.44)",
+     "line": "p1l0071"
+    },
+    {
+     "group": 0,
+     "ratio": 1.0,
+     "text": "Fragment thirty-five",
+     "note": "re-taken: match 0.44 -> 0.51",
+     "line": "p1l0073"
+    },
+    {
+     "group": 0,
+     "ratio": 1.02,
+     "text": "Fragment thirty-seven",
+     "note": "re-taken: match 0.42 -> 0.69",
+     "line": "p1l0077"
+    },
+    {
+     "group": 0,
+     "ratio": 0.86,
+     "text": "Fragment thirty-eight",
+     "note": "poor match to text (0.42)",
+     "line": "p1l0079"
+    },
+    {
+     "group": 0,
+     "ratio": 0.99,
+     "text": "Fragment thirty-nine",
+     "note": "poor match to text (0.45)",
+     "line": "p1l0081"
+    },
+    {
+     "group": 0,
+     "ratio": 0.99,
+     "text": "Fragment sixty-three",
+     "note": "poor match to text (0.41)",
+     "line": "p1l0131"
+    },
+    {
+     "group": 0,
+     "ratio": 1.03,
+     "text": "Fragment seventy-two",
+     "note": "poor match to text (0.42)",
+     "line": "p1l0151"
+    },
+    {
+     "group": 0,
+     "ratio": 0.93,
+     "text": "Fragment seventy-three",
+     "note": "poor match to text (0.41)",
+     "line": "p1l0153"
+    },
+    {
+     "group": 0,
+     "ratio": 1.05,
+     "text": "Fragment seventy-five",
+     "note": "re-taken: match 0.45 -> 0.68",
+     "line": "p1l0157"
+    },
+    {
+     "group": 0,
+     "ratio": 0.88,
+     "text": "Fragment seventy-eight",
+     "note": "re-taken: match 0.42 -> 0.51",
+     "line": "p1l0163"
+    },
+    {
+     "group": 0,
+     "ratio": 1.03,
+     "text": "Fragment seventy-nine",
+     "note": "re-taken: match 0.39 -> 0.62",
+     "line": "p1l0165"
+    },
+    {
+     "group": 0,
+     "ratio": 1.12,
+     "text": "Fragment eighty-seven",
+     "note": "re-taken: match 0.42 -> 0.71",
+     "line": "p1l0180"
+    },
+    {
+     "group": 0,
+     "ratio": 0.86,
+     "text": "Fragment ninety-three",
+     "note": "re-taken: match 0.41 -> 0.42",
+     "line": "p1l0192"
+    },
+    {
+     "group": 0,
+     "ratio": 0.91,
+     "text": "Fragment ninety-eight",
+     "note": "poor match to text (0.45)",
+     "line": "p1l0202"
+    },
+    {
+     "group": 0,
+     "ratio": 1.14,
+     "text": "Fragment ninety-nine",
+     "note": "poor match to text (0.44)",
+     "line": "p1l0204"
+    },
+    {
+     "group": 0,
+     "ratio": 1.08,
+     "text": "Fragment one hundred and one",
+     "note": "re-taken: match 0.41 -> 0.91",
+     "line": "p1l0208"
+    },
+    {
+     "group": 0,
+     "ratio": 1.05,
+     "text": "Fragment one hundred and two",
+     "note": "re-taken: match 0.45 -> 0.51",
+     "line": "p1l0212"
+    },
+    {
+     "group": 0,
+     "ratio": 0.83,
+     "text": "Fragment one hundred and four",
+     "note": "re-taken: match 0.34 -> 0.41",
+     "line": "p1l0216"
+    },
+    {
+     "group": 0,
+     "ratio": 0.97,
+     "text": "Fragment one hundred and five",
+     "note": "poor match to text (0.34)",
+     "line": "p1l0218"
+    },
+    {
+     "group": 0,
+     "ratio": 0.83,
+     "text": "Fragment one hundred and seven",
+     "note": "re-taken: match 0.30 -> 0.37",
+     "line": "p1l0222"
+    },
+    {
+     "group": 0,
+     "ratio": 0.98,
+     "text": "Fragment one hundred and nine",
+     "note": "re-taken: match 0.31 -> 0.33",
+     "line": "p1l0226"
+    },
+    {
+     "group": 0,
+     "ratio": 0.97,
+     "text": "Fragment one hundred and twelve",
+     "note": "re-taken: match 0.30 -> 0.39",
+     "line": "p1l0230"
+    },
+    {
+     "group": 0,
+     "ratio": 0.81,
+     "text": "Fragment one hundred and thirteen",
+     "note": "re-taken: match 0.28 -> 0.28",
+     "line": "p1l0232"
+    },
+    {
+     "group": 0,
+     "ratio": 0.92,
+     "text": "Fragment one hundred and fourteen",
+     "note": "poor match to text (0.31)",
+     "line": "p1l0234"
+    },
+    {
+     "group": 0,
+     "ratio": 0.92,
+     "text": "Fragment one hundred and fifteen",
+     "note": "re-taken: match 0.29 -> 0.44",
+     "line": "p1l0236"
+    },
+    {
+     "group": 0,
+     "ratio": 0.91,
+     "text": "Fragment one hundred and sixteen",
+     "note": "poor match to text (0.44)",
+     "line": "p1l0238"
+    },
+    {
+     "group": 0,
+     "ratio": 0.87,
+     "text": "Fragment one hundred and seventeen",
+     "note": "re-taken: match 0.33 -> 0.48",
+     "line": "p1l0240"
+    },
+    {
+     "group": 0,
+     "ratio": 0.69,
+     "text": "Fragment one hundred and nineteen",
+     "note": "re-taken: match 0.30 -> 0.43",
+     "line": "p1l0244"
+    },
+    {
+     "group": 0,
+     "ratio": 0.91,
+     "text": "Fragment one hundred and twenty-one",
+     "note": "re-taken: match 0.42 -> 0.43",
+     "line": "p1l0248"
+    },
+    {
+     "group": 0,
+     "ratio": 0.86,
+     "text": "Fragment one hundred and twenty-two",
+     "note": "poor match to text (0.36)",
+     "line": "p1l0250"
+    },
+    {
+     "group": 0,
+     "ratio": 0.85,
+     "text": "Fragment one hundred and twenty-three",
+     "note": "poor match to text (0.27)",
+     "line": "p1l0252"
+    },
+    {
+     "group": 0,
+     "ratio": 0.92,
+     "text": "Fragment one hundred and twenty-four",
+     "note": "re-taken: match 0.33 -> 0.36",
+     "line": "p1l0254"
+    },
+    {
+     "group": 0,
+     "ratio": 0.85,
+     "text": "Fragment one hundred and twenty-five",
+     "note": "poor match to text (0.34)",
+     "line": "p1l0256"
+    },
+    {
+     "group": 0,
+     "ratio": 0.93,
+     "text": "Fragment one hundred and twenty-six",
+     "note": "poor match to text (0.41)",
+     "line": "p1l0258"
+    },
+    {
+     "group": 0,
+     "ratio": 0.79,
+     "text": "Fragment one hundred and twenty-seven",
+     "note": "re-taken: match 0.26 -> 0.31",
+     "line": "p1l0260"
+    },
+    {
+     "group": 0,
+     "ratio": 0.66,
+     "text": "Fragment one hundred and twenty-eight",
+     "note": "re-taken: match 0.35 -> 0.46",
+     "line": "p1l0262"
+    },
+    {
+     "group": 0,
+     "ratio": 0.85,
+     "text": "Fragment one hundred and twenty-nine",
+     "note": "re-taken: match 0.30 -> 0.31",
+     "line": "p1l0264"
+    }
+   ]
+  }
+ ]
+}
