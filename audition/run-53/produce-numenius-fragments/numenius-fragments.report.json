@@ -1,0 +1,46 @@
+{
+ "work": "numenius-fragments",
+ "parts": [
+  {
+   "file": "numenius-fragments-p1.mp3",
+   "minutes": 31.04,
+   "lines": 122,
+   "words": 4457,
+   "words_interpolated": 12,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.11,
+     "text": "Fifth Book",
+     "note": "re-taken: match 0.24 -> 0.70",
+     "line": "p1l0092"
+    }
+   ]
+  },
+  {
+   "file": "numenius-fragments-p2.mp3",
+   "minutes": 56.92,
+   "lines": 214,
+   "words": 8576,
+   "words_interpolated": 29,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.15,
+     "text": "(See Fragments ten, twenty-five, forty-four, forty-six, and Plato, Timaeus, four",
+     "note": "poor match to text (0.43)",
+     "line": "p2l0104"
+    },
+    {
+     "group": 0,
+     "ratio": 1.15,
+     "text": "(\u201cLike the Chimera of Theognis. vi. one hundred and eighty-one; Diog. Laert, iv.",
+     "note": "re-taken: match 0.45 -> 0.45",
+     "line": "p2l0141"
+    }
+   ]
+  }
+ ]
+}
