@@ -1,0 +1,50 @@
+{
+ "work": "alcinous-handbook",
+ "parts": [
+  {
+   "file": "alcinous-handbook-p1.mp3",
+   "minutes": 29.13,
+   "lines": 34,
+   "words": 4558,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "alcinous-handbook-p2.mp3",
+   "minutes": 26.71,
+   "lines": 33,
+   "words": 4334,
+   "words_interpolated": 16,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "alcinous-handbook-p3.mp3",
+   "minutes": 29.27,
+   "lines": 40,
+   "words": 4772,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "alcinous-handbook-p4.mp3",
+   "minutes": 25.68,
+   "lines": 30,
+   "words": 4156,
+   "words_interpolated": 10,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "alcinous-handbook-p5.mp3",
+   "minutes": 8.34,
+   "lines": 11,
+   "words": 1356,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
