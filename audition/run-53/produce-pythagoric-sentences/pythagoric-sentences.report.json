@@ -1,0 +1,22 @@
+{
+ "work": "pythagoric-sentences",
+ "parts": [
+  {
+   "file": "pythagoric-sentences-p1.mp3",
+   "minutes": 22.29,
+   "lines": 180,
+   "words": 3389,
+   "words_interpolated": 0,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 1,
+     "ratio": 0.81,
+     "text": "page one hundred and thirty-two.",
+     "note": "poor match to text (0.14)",
+     "line": "p1l0022"
+    }
+   ]
+  }
+ ]
+}
