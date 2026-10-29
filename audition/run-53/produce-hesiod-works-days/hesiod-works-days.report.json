@@ -1,0 +1,14 @@
+{
+ "work": "hesiod-works-days",
+ "parts": [
+  {
+   "file": "hesiod-works-days-p1.mp3",
+   "minutes": 49.52,
+   "lines": 84,
+   "words": 8565,
+   "words_interpolated": 23,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
