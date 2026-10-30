@@ -1,0 +1,304 @@
+{
+ "work": "seneca-essays",
+ "parts": [
+  {
+   "file": "seneca-essays-p1.mp3",
+   "minutes": 102.68,
+   "lines": 73,
+   "words": 19613,
+   "words_interpolated": 23,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p2.mp3",
+   "minutes": 99.78,
+   "lines": 51,
+   "words": 19408,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p3.mp3",
+   "minutes": 54.35,
+   "lines": 36,
+   "words": 10822,
+   "words_interpolated": 51,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p4.mp3",
+   "minutes": 27.2,
+   "lines": 43,
+   "words": 5158,
+   "words_interpolated": 18,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p5.mp3",
+   "minutes": 45.15,
+   "lines": 23,
+   "words": 8806,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p6.mp3",
+   "minutes": 74.89,
+   "lines": 47,
+   "words": 14621,
+   "words_interpolated": 19,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p7.mp3",
+   "minutes": 67.95,
+   "lines": 45,
+   "words": 13233,
+   "words_interpolated": 27,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.14,
+     "text": "Preface",
+     "note": "re-taken: match 0.10 -> 0.56",
+     "line": "p7l0005"
+    },
+    {
+     "group": 0,
+     "ratio": 1.08,
+     "text": "Preface",
+     "note": "re-taken: match 0.41 -> 0.54",
+     "line": "p7l0006"
+    },
+    {
+     "group": 0,
+     "ratio": 0.86,
+     "text": "Aubrey Stewart",
+     "note": "poor match to text (0.40)",
+     "line": "p7l0009"
+    },
+    {
+     "group": 0,
+     "ratio": 1.01,
+     "text": "London, eighteen eighty-nine",
+     "note": "poor match to text (0.31)",
+     "line": "p7l0010"
+    }
+   ]
+  },
+  {
+   "file": "seneca-essays-p8.mp3",
+   "minutes": 86.95,
+   "lines": 106,
+   "words": 16671,
+   "words_interpolated": 31,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.17,
+     "text": "Book two",
+     "note": "re-taken: match 0.45 -> 0.47",
+     "line": "p8l0017"
+    },
+    {
+     "group": 0,
+     "ratio": 1.1,
+     "text": "Preface",
+     "note": "re-taken: match 0.28 -> 0.37",
+     "line": "p8l0027"
+    }
+   ]
+  },
+  {
+   "file": "seneca-essays-p9.mp3",
+   "minutes": 77.4,
+   "lines": 79,
+   "words": 14540,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p10.mp3",
+   "minutes": 70.64,
+   "lines": 94,
+   "words": 13381,
+   "words_interpolated": 22,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p11.mp3",
+   "minutes": 47.74,
+   "lines": 52,
+   "words": 9151,
+   "words_interpolated": 17,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p12.mp3",
+   "minutes": 35.45,
+   "lines": 37,
+   "words": 6745,
+   "words_interpolated": 12,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.05,
+     "text": "II \u2014",
+     "note": "poor match to text (0.17)",
+     "line": "p12l0015"
+    }
+   ]
+  },
+  {
+   "file": "seneca-essays-p13.mp3",
+   "minutes": 70.87,
+   "lines": 80,
+   "words": 13439,
+   "words_interpolated": 12,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p14.mp3",
+   "minutes": 54.84,
+   "lines": 57,
+   "words": 10454,
+   "words_interpolated": 17,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.99,
+     "text": "the sea",
+     "note": "re-taken: match 0.35 -> 0.36",
+     "line": "p14l0048"
+    }
+   ]
+  },
+  {
+   "file": "seneca-essays-p15.mp3",
+   "minutes": 85.06,
+   "lines": 95,
+   "words": 16662,
+   "words_interpolated": 70,
+   "retakes": 8,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.07,
+     "text": "Book I.",
+     "note": "poor match to text (0.26)",
+     "line": "p15l0007"
+    },
+    {
+     "group": 0,
+     "ratio": 1.28,
+     "text": "Book two",
+     "note": "re-taken: match 0.23 -> 0.41",
+     "line": "p15l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 0.97,
+     "text": "Book five",
+     "note": "poor match to text (0.34)",
+     "line": "p15l0011"
+    },
+    {
+     "group": 0,
+     "ratio": 0.84,
+     "text": "\u201c\u2019Tis pity \u2014",
+     "note": "poor match to text (0.40)",
+     "line": "p15l0017"
+    },
+    {
+     "group": 0,
+     "ratio": 0.86,
+     "text": "Aubrey Stewart",
+     "note": "re-taken: match 0.33 -> 0.45",
+     "line": "p15l0033"
+    },
+    {
+     "group": 0,
+     "ratio": 0.87,
+     "text": "London, March, eighteen eighty-seven.",
+     "note": "re-taken: match 0.35 -> 0.37",
+     "line": "p15l0034"
+    },
+    {
+     "group": 0,
+     "ratio": 1.48,
+     "text": "and: \u2014",
+     "note": "re-taken: match 0.42 -> 0.61",
+     "line": "p15l0071"
+    }
+   ]
+  },
+  {
+   "file": "seneca-essays-p16.mp3",
+   "minutes": 84.41,
+   "lines": 65,
+   "words": 16727,
+   "words_interpolated": 23,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p17.mp3",
+   "minutes": 86.26,
+   "lines": 68,
+   "words": 16945,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p18.mp3",
+   "minutes": 84.02,
+   "lines": 76,
+   "words": 16939,
+   "words_interpolated": 15,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p19.mp3",
+   "minutes": 80.44,
+   "lines": 75,
+   "words": 16122,
+   "words_interpolated": 6,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p20.mp3",
+   "minutes": 67.56,
+   "lines": 24,
+   "words": 13251,
+   "words_interpolated": 10,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-essays-p21.mp3",
+   "minutes": 36.47,
+   "lines": 30,
+   "words": 7045,
+   "words_interpolated": 12,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
