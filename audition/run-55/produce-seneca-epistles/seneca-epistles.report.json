@@ -1,0 +1,606 @@
+{
+ "work": "seneca-epistles",
+ "parts": [
+  {
+   "file": "seneca-epistles-p1.mp3",
+   "minutes": 77.28,
+   "lines": 42,
+   "words": 15164,
+   "words_interpolated": 14,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p2.mp3",
+   "minutes": 58.9,
+   "lines": 24,
+   "words": 11440,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p3.mp3",
+   "minutes": 47.72,
+   "lines": 24,
+   "words": 9437,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p4.mp3",
+   "minutes": 23.23,
+   "lines": 158,
+   "words": 4164,
+   "words_interpolated": 10,
+   "retakes": 3,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p5.mp3",
+   "minutes": 23.59,
+   "lines": 36,
+   "words": 4499,
+   "words_interpolated": 10,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p6.mp3",
+   "minutes": 24.61,
+   "lines": 30,
+   "words": 4563,
+   "words_interpolated": 12,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p7.mp3",
+   "minutes": 24.98,
+   "lines": 26,
+   "words": 4656,
+   "words_interpolated": 12,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p8.mp3",
+   "minutes": 24.43,
+   "lines": 27,
+   "words": 4662,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p9.mp3",
+   "minutes": 26.89,
+   "lines": 34,
+   "words": 5141,
+   "words_interpolated": 24,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.49,
+     "text": "two.",
+     "note": "re-taken: match 0.05 -> 0.07",
+     "line": "p9l0010"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p10.mp3",
+   "minutes": 22.21,
+   "lines": 24,
+   "words": 4266,
+   "words_interpolated": 23,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 2,
+     "ratio": 0.7,
+     "text": "Farewell.",
+     "note": "poor match to text (0.36)",
+     "line": "p10l0018"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p11.mp3",
+   "minutes": 24.2,
+   "lines": 28,
+   "words": 4626,
+   "words_interpolated": 19,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p12.mp3",
+   "minutes": 25.41,
+   "lines": 34,
+   "words": 4829,
+   "words_interpolated": 14,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p13.mp3",
+   "minutes": 24.69,
+   "lines": 33,
+   "words": 4629,
+   "words_interpolated": 7,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.67,
+     "text": "three.",
+     "note": "poor match to text (0.25)",
+     "line": "p13l0023"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p14.mp3",
+   "minutes": 24.07,
+   "lines": 33,
+   "words": 4476,
+   "words_interpolated": 7,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 5,
+     "ratio": 0.73,
+     "text": "Farewell.",
+     "note": "re-taken: match 0.05 -> 0.64",
+     "line": "p14l0002"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p15.mp3",
+   "minutes": 24.73,
+   "lines": 33,
+   "words": 4670,
+   "words_interpolated": 12,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p16.mp3",
+   "minutes": 22.94,
+   "lines": 30,
+   "words": 4454,
+   "words_interpolated": 9,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.41,
+     "text": "or",
+     "note": "re-taken: match 0.33 -> 0.35",
+     "line": "p16l0012"
+    },
+    {
+     "group": 0,
+     "ratio": 1.34,
+     "text": "five.",
+     "note": "poor match to text (0.35)",
+     "line": "p16l0015"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p17.mp3",
+   "minutes": 31.21,
+   "lines": 38,
+   "words": 5680,
+   "words_interpolated": 11,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.43,
+     "text": "On Being",
+     "note": "re-taken: match 0.33 -> 0.77",
+     "line": "p17l0015"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p18.mp3",
+   "minutes": 23.21,
+   "lines": 31,
+   "words": 4483,
+   "words_interpolated": 6,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p19.mp3",
+   "minutes": 45.37,
+   "lines": 34,
+   "words": 8331,
+   "words_interpolated": 28,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 4,
+     "ratio": 0.62,
+     "text": "Farewell.",
+     "note": "poor match to text (0.39)",
+     "line": "p19l0033"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p20.mp3",
+   "minutes": 30.6,
+   "lines": 34,
+   "words": 5854,
+   "words_interpolated": 17,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p21.mp3",
+   "minutes": 26.57,
+   "lines": 19,
+   "words": 4993,
+   "words_interpolated": 12,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.95,
+     "text": "eleven.",
+     "note": "re-taken: match 0.30 -> 0.32",
+     "line": "p21l0018"
+    },
+    {
+     "group": 3,
+     "ratio": 0.64,
+     "text": "Farewell.",
+     "note": "poor match to text (0.45)",
+     "line": "p21l0018"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p22.mp3",
+   "minutes": 27.14,
+   "lines": 30,
+   "words": 5102,
+   "words_interpolated": 14,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p23.mp3",
+   "minutes": 26.89,
+   "lines": 26,
+   "words": 5073,
+   "words_interpolated": 11,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p24.mp3",
+   "minutes": 25.86,
+   "lines": 29,
+   "words": 4971,
+   "words_interpolated": 25,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 2,
+     "ratio": 0.69,
+     "text": "eight.",
+     "note": "poor match to text (0.26)",
+     "line": "p24l0006"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p25.mp3",
+   "minutes": 33.3,
+   "lines": 31,
+   "words": 6355,
+   "words_interpolated": 31,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p26.mp3",
+   "minutes": 30.3,
+   "lines": 34,
+   "words": 5647,
+   "words_interpolated": 31,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p27.mp3",
+   "minutes": 29.26,
+   "lines": 27,
+   "words": 5429,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p28.mp3",
+   "minutes": 32.4,
+   "lines": 41,
+   "words": 5983,
+   "words_interpolated": 28,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p29.mp3",
+   "minutes": 24.09,
+   "lines": 26,
+   "words": 4437,
+   "words_interpolated": 11,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p30.mp3",
+   "minutes": 42.35,
+   "lines": 52,
+   "words": 7879,
+   "words_interpolated": 36,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.67,
+     "text": "thirty-five.",
+     "note": "re-taken: match 0.15 -> 0.17",
+     "line": "p30l0043"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p31.mp3",
+   "minutes": 33.96,
+   "lines": 36,
+   "words": 6242,
+   "words_interpolated": 24,
+   "retakes": 5,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.01,
+     "text": "fifteen.",
+     "note": "re-taken: match 0.04 -> 0.62",
+     "line": "p31l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 0.62,
+     "text": "one.",
+     "note": "poor match to text (0.24)",
+     "line": "p31l0014"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p32.mp3",
+   "minutes": 47.09,
+   "lines": 42,
+   "words": 8695,
+   "words_interpolated": 38,
+   "retakes": 5,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.72,
+     "text": "one.",
+     "note": "re-taken: match 0.23 -> 0.29",
+     "line": "p32l0001"
+    },
+    {
+     "group": 0,
+     "ratio": 0.88,
+     "text": "one.",
+     "note": "re-taken: match 0.20 -> 0.43",
+     "line": "p32l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 0.73,
+     "text": "two.",
+     "note": "re-taken: match 0.06 -> 0.29",
+     "line": "p32l0011"
+    },
+    {
+     "group": 3,
+     "ratio": 0.71,
+     "text": "three.",
+     "note": "poor match to text (0.10)",
+     "line": "p32l0011"
+    },
+    {
+     "group": 0,
+     "ratio": 0.91,
+     "text": "eight.",
+     "note": "poor match to text (0.31)",
+     "line": "p32l0015"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p33.mp3",
+   "minutes": 39.14,
+   "lines": 38,
+   "words": 7069,
+   "words_interpolated": 21,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.79,
+     "text": "one.",
+     "note": "re-taken: match 0.22 -> 0.23",
+     "line": "p33l0001"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p34.mp3",
+   "minutes": 36.56,
+   "lines": 36,
+   "words": 6968,
+   "words_interpolated": 53,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.04,
+     "text": "seven.",
+     "note": "poor match to text (0.43)",
+     "line": "p34l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 0.98,
+     "text": "twelve.",
+     "note": "re-taken: match 0.19 -> 0.31",
+     "line": "p34l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 0.86,
+     "text": "thirty-two.",
+     "note": "re-taken: match 0.17 -> 0.34",
+     "line": "p34l0035"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p35.mp3",
+   "minutes": 30.8,
+   "lines": 40,
+   "words": 5747,
+   "words_interpolated": 33,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.93,
+     "text": "twelve.",
+     "note": "poor match to text (0.28)",
+     "line": "p35l0009"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p36.mp3",
+   "minutes": 24.82,
+   "lines": 33,
+   "words": 4586,
+   "words_interpolated": 13,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p37.mp3",
+   "minutes": 30.11,
+   "lines": 62,
+   "words": 5553,
+   "words_interpolated": 16,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.58,
+     "text": "or,",
+     "note": "poor match to text (0.25)",
+     "line": "p37l0029"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p38.mp3",
+   "minutes": 22.69,
+   "lines": 30,
+   "words": 4245,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p39.mp3",
+   "minutes": 32.06,
+   "lines": 29,
+   "words": 5672,
+   "words_interpolated": 24,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.85,
+     "text": "one.",
+     "note": "re-taken: match 0.28 -> 0.45",
+     "line": "p39l0015"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p40.mp3",
+   "minutes": 34.69,
+   "lines": 55,
+   "words": 6543,
+   "words_interpolated": 53,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p41.mp3",
+   "minutes": 30.18,
+   "lines": 33,
+   "words": 5586,
+   "words_interpolated": 30,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 4,
+     "ratio": 0.85,
+     "text": "four.",
+     "note": "poor match to text (0.22)",
+     "line": "p41l0002"
+    },
+    {
+     "group": 0,
+     "ratio": 0.79,
+     "text": "five.",
+     "note": "poor match to text (0.16)",
+     "line": "p41l0003"
+    }
+   ]
+  },
+  {
+   "file": "seneca-epistles-p42.mp3",
+   "minutes": 23.41,
+   "lines": 29,
+   "words": 4255,
+   "words_interpolated": 15,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "seneca-epistles-p43.mp3",
+   "minutes": 24.72,
+   "lines": 27,
+   "words": 4470,
+   "words_interpolated": 32,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
