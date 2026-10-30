@@ -1,9 +1,25 @@
 {
+ "_note": "Seneca repair: shard seneca-epistles 81 hit the 320-min cap after 7 of 18 lines (1540-1546 kept in lines-40809324002); seneca-essays shard 1 lost its runner. Small shards (budget 1200) so none can reach the cap.",
  "works": [
   "seneca-essays",
   "seneca-epistles"
  ],
+ "ranges": {
+  "seneca-essays": [
+   [
+    16,
+    24
+   ]
+  ],
+  "seneca-epistles": [
+   [
+    1547,
+    1558
+   ]
+  ]
+ },
+ "reuse_run": "40809324002",
  "dest": "release",
  "tag": "stoics-v1",
- "budget": 10000
+ "budget": 1200
 }
