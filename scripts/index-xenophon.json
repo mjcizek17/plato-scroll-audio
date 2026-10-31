@@ -1,0 +1,47 @@
+[
+ {
+  "key": "memorabilia",
+  "title": "Memorabilia",
+  "parts": 4,
+  "chars": 247046,
+  "speakers": [
+   "Julian Reader"
+  ]
+ },
+ {
+  "key": "oeconomicus",
+  "title": "Oeconomicus",
+  "parts": 1,
+  "chars": 120780,
+  "speakers": [
+   "Julian Reader"
+  ]
+ },
+ {
+  "key": "xeno-symposium",
+  "title": "Symposium",
+  "parts": 1,
+  "chars": 76945,
+  "speakers": [
+   "Julian Reader"
+  ]
+ },
+ {
+  "key": "xeno-apology",
+  "title": "Apology",
+  "parts": 1,
+  "chars": 16367,
+  "speakers": [
+   "Julian Reader"
+  ]
+ },
+ {
+  "key": "hiero",
+  "title": "Hiero",
+  "parts": 1,
+  "chars": 42952,
+  "speakers": [
+   "Julian Reader"
+  ]
+ }
+]
