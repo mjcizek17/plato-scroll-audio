@@ -17,6 +17,10 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(
 import notes as N  # noqa: E402
 import numpy as np  # noqa: E402
 
+# whole paragraphs that are not the author's (a web page's notes, a modern editor's note, a repeated preface) and were
+# taken out of the text: text/drop.json {work: [entry, ...]} — every word of them is cut from the recording
+DROP = json.load(open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "text", "drop.json")))
+
 
 def quiet_point(db, a, b):
     hop = 240
@@ -50,6 +54,8 @@ def plan_part(work, p, tm):
         flat = []                                      # one flag per timing word: silent?
         for l in lines:
             flat += [False] * l.get("skip", 0) + N.silent_mask(l["text"], work)
+        if e in DROP.get(work, []) and W:
+            flat = [True] * len(W)
         if not any(flat):
             continue
         if W is None or len(W) != len(flat):

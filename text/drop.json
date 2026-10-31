@@ -1,0 +1,6 @@
+{
+ "_note": "2026-10-31 corpus clean-up: paragraphs taken out of the text because they are not the author's. plut-lives-2 228-230: Aemilius' preface (Aem. 1) printed a second time before Timoleon; plut-lives-3 303-305: a modern note on Sulla's Chiusi inscription; 323: a lone ';'; 526: the web page's map help; 590: a web editor's note (Thayer); plut-lives-4 131, 500: lone ';'; 832: a web note about a photograph of the Forum.",
+ "plut-lives-2": [228, 229, 230, 663],
+ "plut-lives-3": [303, 304, 305, 323, 526, 590],
+ "plut-lives-4": [131, 500, 832]
+}
