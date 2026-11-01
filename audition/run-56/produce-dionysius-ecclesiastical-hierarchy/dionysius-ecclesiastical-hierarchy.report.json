@@ -1,0 +1,314 @@
+{
+ "work": "dionysius-ecclesiastical-hierarchy",
+ "parts": [
+  {
+   "file": "dionysius-ecclesiastical-hierarchy-p1.mp3",
+   "minutes": 27.41,
+   "lines": 19,
+   "words": 4664,
+   "words_interpolated": 2,
+   "retakes": 7,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.55,
+     "text": "Caput I",
+     "line": "p1l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 1.84,
+     "text": "Caput Ii",
+     "line": "p1l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 1.34,
+     "text": "Syr. Doc. page sixty. Clark.",
+     "note": "re-taken: match 0.37 -> 0.41",
+     "line": "p1l0014"
+    }
+   ]
+  },
+  {
+   "file": "dionysius-ecclesiastical-hierarchy-p2.mp3",
+   "minutes": 29.83,
+   "lines": 21,
+   "words": 5080,
+   "words_interpolated": 0,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.08,
+     "text": "Ap. book eight, s. twelve, Lit. of Dionysius, page one hundred and eighty-nine.",
+     "note": "re-taken: match 0.41 -> 0.44",
+     "line": "p2l0006"
+    },
+    {
+     "group": 0,
+     "ratio": 0.87,
+     "text": "See Plato, Thet. i. one hundred and fourteen, one hundred and fifteen. Dulac, fo",
+     "note": "re-taken: match 0.16 -> 0.18",
+     "line": "p2l0014"
+    }
+   ]
+  },
+  {
+   "file": "dionysius-ecclesiastical-hierarchy-p3.mp3",
+   "minutes": 37.51,
+   "lines": 17,
+   "words": 6179,
+   "words_interpolated": 1,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.23,
+     "text": "Caput five",
+     "note": "poor match to text (0.43)",
+     "line": "p3l0009"
+    }
+   ]
+  },
+  {
+   "file": "dionysius-ecclesiastical-hierarchy-p4.mp3",
+   "minutes": 44.04,
+   "lines": 65,
+   "words": 6812,
+   "words_interpolated": 0,
+   "retakes": 40,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.1,
+     "text": "proof Post-Apostolic. Nov. Bib. page one hundred; C. ii. forty-one. one hundred ",
+     "note": "poor match to text (0.41)",
+     "line": "p4l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 0.95,
+     "text": "Appendix. one hundred and sixty-three",
+     "note": "poor match to text (0.22)",
+     "line": "p4l0017"
+    },
+    {
+     "group": 0,
+     "ratio": 1.2,
+     "text": "Narcissus",
+     "note": "re-taken: match 0.39 -> 0.44",
+     "line": "p4l0020"
+    },
+    {
+     "group": 0,
+     "ratio": 1.38,
+     "text": "Publius",
+     "note": "re-taken: match 0.34 -> 0.48",
+     "line": "p4l0021"
+    },
+    {
+     "group": 0,
+     "ratio": 0.77,
+     "text": "one hundred and eighteen thousand one hundred and twenty-four",
+     "note": "re-taken: match 0.42 -> 0.71",
+     "line": "p4l0022"
+    },
+    {
+     "group": 0,
+     "ratio": 0.88,
+     "text": "six thousand eight hundred and sixty-nine",
+     "note": "re-taken: match 0.28 -> 0.32",
+     "line": "p4l0028"
+    },
+    {
+     "group": 0,
+     "ratio": 0.72,
+     "text": "seventy thousand one hundred and nineteen",
+     "note": "re-taken: match 0.25 -> 0.35",
+     "line": "p4l0030"
+    },
+    {
+     "group": 0,
+     "ratio": 0.8,
+     "text": "Saint Regulus two hundred and twenty-eight",
+     "note": "re-taken: match 0.39 -> 0.48",
+     "line": "p4l0035"
+    },
+    {
+     "group": 0,
+     "ratio": 1.78,
+     "text": "one. Anotolone, G.",
+     "line": "p4l0039"
+    },
+    {
+     "group": 0,
+     "ratio": 1.87,
+     "text": "two. Cajo, R.",
+     "line": "p4l0041"
+    },
+    {
+     "group": 0,
+     "ratio": 0.8,
+     "text": "ninety-seven to one hundred and thirty-seven",
+     "note": "poor match to text (0.37)",
+     "line": "p4l0044"
+    },
+    {
+     "group": 0,
+     "ratio": 0.79,
+     "text": "one hundred and thirty-eight to one hundred and ninety",
+     "note": "re-taken: match 0.29 -> 0.30",
+     "line": "p4l0046"
+    },
+    {
+     "group": 0,
+     "ratio": 0.83,
+     "text": "one hundred and ninety-two to two hundred and fifty",
+     "note": "poor match to text (0.10)",
+     "line": "p4l0048"
+    },
+    {
+     "group": 0,
+     "ratio": 0.83,
+     "text": "two hundred and fifty-two to three hundred and four",
+     "note": "poor match to text (0.12)",
+     "line": "p4l0050"
+    },
+    {
+     "group": 0,
+     "ratio": 0.8,
+     "text": "three hundred and four to three hundred and twenty-five",
+     "note": "re-taken: match 0.13 -> 0.18",
+     "line": "p4l0052"
+    },
+    {
+     "group": 0,
+     "ratio": 0.69,
+     "text": "three hundred and seventy-four to three hundred and ninety-seven",
+     "note": "re-taken: match 0.17 -> 0.21",
+     "line": "p4l0054"
+    },
+    {
+     "group": 0,
+     "ratio": 0.99,
+     "text": "Trophimus. See \u201cMonuments in\u00e9dits\u201d de M. Faillon, t. page three hundred and seve",
+     "note": "poor match to text (0.38)",
+     "line": "p4l0058"
+    },
+    {
+     "group": 0,
+     "ratio": 1.02,
+     "text": "Index. D. equals volume I.; H. equals volume two. Agnosia, D. i, twenty-one to n",
+     "note": "re-taken: match 0.44 -> 0.45",
+     "line": "p4l0064"
+    },
+    {
+     "group": 1,
+     "ratio": 0.94,
+     "text": "one hundred and fifty-six to eight Apostles and Successors, D. one hundred and s",
+     "note": "poor match to text (0.22)",
+     "line": "p4l0064"
+    },
+    {
+     "group": 2,
+     "ratio": 1.02,
+     "text": "one hundred and forty-five to one hundred and fifty-nine Consecration, H. ninety",
+     "note": "poor match to text (0.29)",
+     "line": "p4l0064"
+    },
+    {
+     "group": 3,
+     "ratio": 0.83,
+     "text": "fifty-one, seventy, eighty, ninety-one, one hundred and eleven, one hundred and ",
+     "note": "re-taken: match 0.14 -> 0.14",
+     "line": "p4l0064"
+    },
+    {
+     "group": 4,
+     "ratio": 1.15,
+     "text": "twenty-six to ninety-six, one hundred and four, one hundred and seventeen; H. th",
+     "note": "re-taken: match 0.11 -> 0.15",
+     "line": "p4l0064"
+    },
+    {
+     "group": 5,
+     "ratio": 1.02,
+     "text": "forty-four, sixty-nine, seventy-two, seventy-nine, eighty-nine, one hundred and ",
+     "note": "poor match to text (0.06)",
+     "line": "p4l0064"
+    },
+    {
+     "group": 6,
+     "ratio": 1.04,
+     "text": "eighty-seven to one hundred and nine, ninety, ninety-seven, one hundred and six,",
+     "note": "poor match to text (0.12)",
+     "line": "p4l0064"
+    },
+    {
+     "group": 7,
+     "ratio": 0.8,
+     "text": "sixteen, twenty-one, twenty-two, twenty-three, one hundred and seventeen, one hu",
+     "note": "poor match to text (0.07)",
+     "line": "p4l0064"
+    },
+    {
+     "group": 8,
+     "ratio": 0.82,
+     "text": "twenty, twenty-seven, sixty-seven, seventy, ninety-two, ninety-four, ninety-five",
+     "note": "re-taken: match 0.04 -> 0.04",
+     "line": "p4l0064"
+    },
+    {
+     "group": 9,
+     "ratio": 0.97,
+     "text": "one hundred and thirty-four Monad, D. five, one hundred and ten, one hundred and",
+     "note": "poor match to text (0.15)",
+     "line": "p4l0064"
+    },
+    {
+     "group": 10,
+     "ratio": 1.14,
+     "text": "ninety-one, one hundred and twenty-four, one hundred and thirty-four; of life, D",
+     "note": "poor match to text (0.42)",
+     "line": "p4l0064"
+    },
+    {
+     "group": 11,
+     "ratio": 1.03,
+     "text": "fifteen; Source of Theology, D. twelve; Essence of Hierarchy, H. seventy-two, ni",
+     "note": "re-taken: match 0.39 -> 0.40",
+     "line": "p4l0064"
+    },
+    {
+     "group": 12,
+     "ratio": 0.87,
+     "text": "one hundred and fifty-three to one hundred and fifty-eight; for ungodly, one hun",
+     "note": "poor match to text (0.24)",
+     "line": "p4l0064"
+    },
+    {
+     "group": 13,
+     "ratio": 0.88,
+     "text": "nine, eleven, twenty-seven, thirty-two, thirty-four, forty-four, forty-eight, se",
+     "note": "re-taken: match 0.10 -> 0.11",
+     "line": "p4l0064"
+    },
+    {
+     "group": 14,
+     "ratio": 1.08,
+     "text": "one hundred and sixty-seven Symbols, D. one hundred and seventy-two; H. two, thr",
+     "note": "poor match to text (0.22)",
+     "line": "p4l0064"
+    },
+    {
+     "group": 15,
+     "ratio": 0.95,
+     "text": "seventeen, twenty-seven, thirty-seven, seventy-nine, one hundred and twenty-five",
+     "note": "re-taken: match 0.08 -> 0.09",
+     "line": "p4l0064"
+    }
+   ]
+  }
+ ]
+}
