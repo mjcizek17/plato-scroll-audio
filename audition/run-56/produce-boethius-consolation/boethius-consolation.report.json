@@ -1,0 +1,50 @@
+{
+ "work": "boethius-consolation",
+ "parts": [
+  {
+   "file": "boethius-consolation-p1.mp3",
+   "minutes": 28.05,
+   "lines": 34,
+   "words": 5511,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "boethius-consolation-p2.mp3",
+   "minutes": 35.82,
+   "lines": 26,
+   "words": 6965,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "boethius-consolation-p3.mp3",
+   "minutes": 50.91,
+   "lines": 43,
+   "words": 9887,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "boethius-consolation-p4.mp3",
+   "minutes": 44.81,
+   "lines": 26,
+   "words": 8687,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "boethius-consolation-p5.mp3",
+   "minutes": 33.98,
+   "lines": 23,
+   "words": 6641,
+   "words_interpolated": 6,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
