@@ -1,0 +1,234 @@
+{
+ "work": "epictetus-discourses",
+ "parts": [
+  {
+   "file": "epictetus-discourses-p1.mp3",
+   "minutes": 23.13,
+   "lines": 33,
+   "words": 4429,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p2.mp3",
+   "minutes": 24.51,
+   "lines": 22,
+   "words": 4712,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p3.mp3",
+   "minutes": 22.37,
+   "lines": 18,
+   "words": 4412,
+   "words_interpolated": 6,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p4.mp3",
+   "minutes": 25.16,
+   "lines": 28,
+   "words": 4894,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p5.mp3",
+   "minutes": 25.57,
+   "lines": 30,
+   "words": 4955,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p6.mp3",
+   "minutes": 21.88,
+   "lines": 26,
+   "words": 4223,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p7.mp3",
+   "minutes": 24.53,
+   "lines": 27,
+   "words": 4769,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p8.mp3",
+   "minutes": 26.2,
+   "lines": 20,
+   "words": 5091,
+   "words_interpolated": 17,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p9.mp3",
+   "minutes": 22.93,
+   "lines": 19,
+   "words": 4508,
+   "words_interpolated": 55,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p10.mp3",
+   "minutes": 23.89,
+   "lines": 21,
+   "words": 4662,
+   "words_interpolated": 27,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p11.mp3",
+   "minutes": 24.12,
+   "lines": 22,
+   "words": 4640,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p12.mp3",
+   "minutes": 26.74,
+   "lines": 27,
+   "words": 5205,
+   "words_interpolated": 12,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p13.mp3",
+   "minutes": 25.97,
+   "lines": 24,
+   "words": 5086,
+   "words_interpolated": 25,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p14.mp3",
+   "minutes": 23.34,
+   "lines": 22,
+   "words": 4545,
+   "words_interpolated": 19,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p15.mp3",
+   "minutes": 23.5,
+   "lines": 25,
+   "words": 4520,
+   "words_interpolated": 17,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p16.mp3",
+   "minutes": 23.96,
+   "lines": 27,
+   "words": 4571,
+   "words_interpolated": 17,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p17.mp3",
+   "minutes": 26.52,
+   "lines": 37,
+   "words": 5220,
+   "words_interpolated": 11,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.2,
+     "text": "Iliad, x. fifteen.",
+     "note": "poor match to text (0.42)",
+     "line": "p17l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 1.34,
+     "text": "Iliad x. ninety-one.",
+     "note": "re-taken: match 0.35 -> 0.37",
+     "line": "p17l0011"
+    },
+    {
+     "group": 0,
+     "ratio": 0.92,
+     "text": "vi. four hundred and ninety.",
+     "note": "poor match to text (0.27)",
+     "line": "p17l0035"
+    }
+   ]
+  },
+  {
+   "file": "epictetus-discourses-p18.mp3",
+   "minutes": 39.27,
+   "lines": 24,
+   "words": 7955,
+   "words_interpolated": 58,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p19.mp3",
+   "minutes": 58.48,
+   "lines": 38,
+   "words": 11719,
+   "words_interpolated": 126,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p20.mp3",
+   "minutes": 28.72,
+   "lines": 19,
+   "words": 5654,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p21.mp3",
+   "minutes": 22.01,
+   "lines": 16,
+   "words": 4423,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p22.mp3",
+   "minutes": 24.21,
+   "lines": 20,
+   "words": 4789,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epictetus-discourses-p23.mp3",
+   "minutes": 20.14,
+   "lines": 19,
+   "words": 3996,
+   "words_interpolated": 11,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
