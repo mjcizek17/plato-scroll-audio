@@ -1,0 +1,32 @@
+{
+ "work": "boethius-tractates",
+ "parts": [
+  {
+   "file": "boethius-tractates-p1.mp3",
+   "minutes": 21.03,
+   "lines": 25,
+   "words": 4061,
+   "words_interpolated": 15,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "boethius-tractates-p2.mp3",
+   "minutes": 27.61,
+   "lines": 38,
+   "words": 5545,
+   "words_interpolated": 8,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "boethius-tractates-p3.mp3",
+   "minutes": 42.94,
+   "lines": 42,
+   "words": 8444,
+   "words_interpolated": 15,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
