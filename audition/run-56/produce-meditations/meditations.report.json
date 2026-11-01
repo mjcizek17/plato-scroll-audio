@@ -1,0 +1,113 @@
+{
+ "work": "meditations",
+ "parts": [
+  {
+   "file": "meditations-p1.mp3",
+   "minutes": 12.57,
+   "lines": 18,
+   "words": 2673,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p2.mp3",
+   "minutes": 10.48,
+   "lines": 18,
+   "words": 2315,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p3.mp3",
+   "minutes": 13.2,
+   "lines": 17,
+   "words": 2867,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p4.mp3",
+   "minutes": 19.95,
+   "lines": 52,
+   "words": 4257,
+   "words_interpolated": 18,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p5.mp3",
+   "minutes": 19.29,
+   "lines": 37,
+   "words": 4196,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p6.mp3",
+   "minutes": 19.53,
+   "lines": 60,
+   "words": 4186,
+   "words_interpolated": 9,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p7.mp3",
+   "minutes": 19.16,
+   "lines": 76,
+   "words": 4075,
+   "words_interpolated": 8,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p8.mp3",
+   "minutes": 19.62,
+   "lines": 62,
+   "words": 4172,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p9.mp3",
+   "minutes": 18.57,
+   "lines": 43,
+   "words": 3959,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p10.mp3",
+   "minutes": 19.35,
+   "lines": 39,
+   "words": 4190,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p11.mp3",
+   "minutes": 16.46,
+   "lines": 40,
+   "words": 3567,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "meditations-p12.mp3",
+   "minutes": 13.78,
+   "lines": 37,
+   "words": 2960,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
