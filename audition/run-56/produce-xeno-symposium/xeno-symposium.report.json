@@ -1,0 +1,29 @@
+{
+ "work": "xeno-symposium",
+ "parts": [
+  {
+   "file": "xeno-symposium-p1.mp3",
+   "minutes": 83.56,
+   "lines": 197,
+   "words": 14020,
+   "words_interpolated": 28,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 4,
+     "ratio": 0.91,
+     "text": "three hundred and thirty-five to three hundred and thirty-seven",
+     "note": "poor match to text (0.14)",
+     "line": "p1l0063"
+    },
+    {
+     "group": 2,
+     "ratio": 0.87,
+     "text": "\u201c Perhaps Iliad, two hundred and seventy-eight, three hundred and twenty-five, t",
+     "note": "re-taken: match 0.07 -> 0.08",
+     "line": "p1l0176"
+    }
+   ]
+  }
+ ]
+}
