@@ -1,0 +1,22 @@
+{
+ "_note": "Epictetus Discourses repair: shards 14 (lines 237-255) and 22 (362-384) of run 41241902872 hit the 355-min job cap and saved nothing. Small shards (budget 1200) so none can reach the cap. Push only after run 41241902872 has finished.",
+ "works": [
+  "epictetus-discourses"
+ ],
+ "ranges": {
+  "epictetus-discourses": [
+   [
+    237,
+    256
+   ],
+   [
+    362,
+    385
+   ]
+  ]
+ },
+ "reuse_run": "41241902872",
+ "dest": "release",
+ "tag": "stoics-v1",
+ "budget": 1200
+}
