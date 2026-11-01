@@ -1,0 +1,1 @@
+{"work": "hiero", "parts": [{"file": "hiero-p1.mp3", "minutes": 46.79, "lines": 153, "words": 7802, "words_interpolated": 21, "retakes": 0, "flagged_takes": []}]}
