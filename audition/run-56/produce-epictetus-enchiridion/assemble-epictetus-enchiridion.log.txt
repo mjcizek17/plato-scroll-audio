@@ -1,0 +1,1 @@
+{"work": "epictetus-enchiridion", "parts": [{"file": "epictetus-enchiridion-p1.mp3", "minutes": 41.62, "lines": 68, "words": 8132, "words_interpolated": 2, "retakes": 0, "flagged_takes": []}]}
