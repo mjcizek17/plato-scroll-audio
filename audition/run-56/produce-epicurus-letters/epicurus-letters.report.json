@@ -1,0 +1,40 @@
+{
+ "work": "epicurus-letters",
+ "parts": [
+  {
+   "file": "epicurus-letters-p1.mp3",
+   "minutes": 42.95,
+   "lines": 58,
+   "words": 7308,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epicurus-letters-p2.mp3",
+   "minutes": 31.36,
+   "lines": 54,
+   "words": 5527,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "epicurus-letters-p3.mp3",
+   "minutes": 23.04,
+   "lines": 58,
+   "words": 4047,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.87,
+     "text": "thirty-seven.",
+     "note": "poor match to text (0.42)",
+     "line": "p3l0051"
+    }
+   ]
+  }
+ ]
+}
