@@ -1,0 +1,551 @@
+{
+ "work": "porph-abstinence",
+ "patched": [
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 67,
+   "old_s": 131.08,
+   "new_s": 130.46,
+   "words": 337
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 65,
+   "old_s": 146.84,
+   "new_s": 142.92,
+   "words": 389
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 64,
+   "old_s": 67.05,
+   "new_s": 65.24,
+   "words": 172
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 61,
+   "old_s": 96.14,
+   "new_s": 97.4,
+   "words": 248
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 57,
+   "old_s": 98.55,
+   "new_s": 97.09,
+   "words": 264
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 55,
+   "old_s": 120.33,
+   "new_s": 118.3,
+   "words": 341
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 52,
+   "old_s": 75.03,
+   "new_s": 74.56,
+   "words": 217
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 51,
+   "old_s": 92.02,
+   "new_s": 92.06,
+   "words": 256
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 50,
+   "old_s": 136.7,
+   "new_s": 135.6,
+   "words": 380
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 48,
+   "old_s": 121.04,
+   "new_s": 119.6,
+   "words": 304
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 43,
+   "old_s": 100.29,
+   "new_s": 97.86,
+   "words": 259
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 37,
+   "old_s": 169.05,
+   "new_s": 169.22,
+   "words": 481
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 34,
+   "old_s": 35.54,
+   "new_s": 36.13,
+   "words": 79
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 24,
+   "old_s": 3.35,
+   "new_s": 2.58,
+   "words": 5
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 22,
+   "old_s": 3.05,
+   "new_s": 3.24,
+   "words": 8
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 21,
+   "old_s": 52.44,
+   "new_s": 52.45,
+   "words": 141
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 13,
+   "old_s": 3.89,
+   "new_s": 3.37,
+   "words": 7
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 10,
+   "old_s": 10.05,
+   "new_s": 9.88,
+   "words": 19
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 7,
+   "old_s": 5.01,
+   "new_s": 5.33,
+   "words": 10
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 5,
+   "old_s": 78.1,
+   "new_s": 77.44,
+   "words": 227
+  },
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 4,
+   "old_s": 58.05,
+   "new_s": 57.07,
+   "words": 159
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 146,
+   "old_s": 65.91,
+   "new_s": 65.22,
+   "words": 174
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 144,
+   "old_s": 85.58,
+   "new_s": 84.53,
+   "words": 240
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 140,
+   "old_s": 60.2,
+   "new_s": 59.49,
+   "words": 162
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 138,
+   "old_s": 91.48,
+   "new_s": 90.2,
+   "words": 261
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 134,
+   "old_s": 116.65,
+   "new_s": 115.88,
+   "words": 318
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 128,
+   "old_s": 115.94,
+   "new_s": 116.24,
+   "words": 284
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 127,
+   "old_s": 127.51,
+   "new_s": 126.4,
+   "words": 351
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 125,
+   "old_s": 101.67,
+   "new_s": 102.39,
+   "words": 268
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 123,
+   "old_s": 77.04,
+   "new_s": 76.74,
+   "words": 222
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 114,
+   "old_s": 79.32,
+   "new_s": 78.08,
+   "words": 227
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 113,
+   "old_s": 122.87,
+   "new_s": 119.93,
+   "words": 328
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 104,
+   "old_s": 20.66,
+   "new_s": 20.41,
+   "words": 52
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 98,
+   "old_s": 4.72,
+   "new_s": 4.4,
+   "words": 11
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 97,
+   "old_s": 63.65,
+   "new_s": 63.42,
+   "words": 171
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 96,
+   "old_s": 9.24,
+   "new_s": 8.78,
+   "words": 19
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 92,
+   "old_s": 156.62,
+   "new_s": 155.66,
+   "words": 408
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 88,
+   "old_s": 127.03,
+   "new_s": 124.17,
+   "words": 360
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 80,
+   "old_s": 18.76,
+   "new_s": 19.07,
+   "words": 53
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 79,
+   "old_s": 93.48,
+   "new_s": 93.36,
+   "words": 237
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 77,
+   "old_s": 156.53,
+   "new_s": 156.27,
+   "words": 386
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 220,
+   "old_s": 5.12,
+   "new_s": 4.86,
+   "words": 10
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 216,
+   "old_s": 57.16,
+   "new_s": 56.01,
+   "words": 146
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 205,
+   "old_s": 64.01,
+   "new_s": 62.75,
+   "words": 164
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 202,
+   "old_s": 86.16,
+   "new_s": 85.64,
+   "words": 245
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 199,
+   "old_s": 61.53,
+   "new_s": 61.61,
+   "words": 150
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 193,
+   "old_s": 77.31,
+   "new_s": 76.57,
+   "words": 212
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 191,
+   "old_s": 55.75,
+   "new_s": 54.77,
+   "words": 144
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 186,
+   "old_s": 92.73,
+   "new_s": 91.45,
+   "words": 244
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 183,
+   "old_s": 126.33,
+   "new_s": 126.61,
+   "words": 345
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 181,
+   "old_s": 85.62,
+   "new_s": 86.57,
+   "words": 241
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 177,
+   "old_s": 154.45,
+   "new_s": 154.45,
+   "words": 431
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 174,
+   "old_s": 72.29,
+   "new_s": 71.15,
+   "words": 188
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 171,
+   "old_s": 180.7,
+   "new_s": 181.24,
+   "words": 520
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 170,
+   "old_s": 167.48,
+   "new_s": 166.71,
+   "words": 446
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 169,
+   "old_s": 183.93,
+   "new_s": 183.94,
+   "words": 518
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 164,
+   "old_s": 62.25,
+   "new_s": 62.04,
+   "words": 187
+  },
+  {
+   "part": "porph-abstinence-p3",
+   "entry": 161,
+   "old_s": 90.32,
+   "new_s": 87.05,
+   "words": 226
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 285,
+   "old_s": 91.71,
+   "new_s": 91.13,
+   "words": 249
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 281,
+   "old_s": 58.27,
+   "new_s": 58.39,
+   "words": 155
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 279,
+   "old_s": 27.79,
+   "new_s": 26.93,
+   "words": 67
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 275,
+   "old_s": 50.17,
+   "new_s": 48.81,
+   "words": 103
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 272,
+   "old_s": 61.99,
+   "new_s": 60.91,
+   "words": 174
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 264,
+   "old_s": 59.91,
+   "new_s": 58.14,
+   "words": 160
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 261,
+   "old_s": 57.71,
+   "new_s": 58.12,
+   "words": 149
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 260,
+   "old_s": 70.09,
+   "new_s": 68.21,
+   "words": 178
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 253,
+   "old_s": 51.98,
+   "new_s": 49.83,
+   "words": 149
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 252,
+   "old_s": 74.36,
+   "new_s": 73.58,
+   "words": 209
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 250,
+   "old_s": 71.05,
+   "new_s": 71.72,
+   "words": 204
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 247,
+   "old_s": 139.72,
+   "new_s": 142.85,
+   "words": 398
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 246,
+   "old_s": 65.1,
+   "new_s": 64.54,
+   "words": 185
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 242,
+   "old_s": 153.36,
+   "new_s": 152.34,
+   "words": 399
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 236,
+   "old_s": 65.09,
+   "new_s": 65.99,
+   "words": 162
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 234,
+   "old_s": 156.52,
+   "new_s": 156.48,
+   "words": 409
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 233,
+   "old_s": 147.08,
+   "new_s": 144.88,
+   "words": 381
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 229,
+   "old_s": 64.29,
+   "new_s": 62.21,
+   "words": 189
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 225,
+   "old_s": 65.11,
+   "new_s": 63.23,
+   "words": 174
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 224,
+   "old_s": 55.15,
+   "new_s": 55.16,
+   "words": 160
+  }
+ ]
+}
