@@ -1,0 +1,152 @@
+{
+ "work": "porph-cave",
+ "patched": [
+  {
+   "part": "porph-cave-p1",
+   "entry": 49,
+   "old_s": 107.63,
+   "new_s": 105.86,
+   "words": 286
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 42,
+   "old_s": 42.4,
+   "new_s": 42.85,
+   "words": 104
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 41,
+   "old_s": 5.88,
+   "new_s": 6.11,
+   "words": 16
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 40,
+   "old_s": 172.52,
+   "new_s": 171.39,
+   "words": 474
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 39,
+   "old_s": 6.49,
+   "new_s": 6.26,
+   "words": 14
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 37,
+   "old_s": 3.86,
+   "new_s": 3.5,
+   "words": 8
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 35,
+   "old_s": 3.03,
+   "new_s": 3.01,
+   "words": 8
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 33,
+   "old_s": 57.22,
+   "new_s": 55.99,
+   "words": 164
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 32,
+   "old_s": 17.5,
+   "new_s": 17.37,
+   "words": 44
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 30,
+   "old_s": 73.35,
+   "new_s": 70.62,
+   "words": 203
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 28,
+   "old_s": 65.09,
+   "new_s": 63.77,
+   "words": 166
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 25,
+   "old_s": 123.63,
+   "new_s": 122.75,
+   "words": 321
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 23,
+   "old_s": 116.28,
+   "new_s": 115.45,
+   "words": 294
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 22,
+   "old_s": 8.84,
+   "new_s": 9.03,
+   "words": 22
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 21,
+   "old_s": 131.21,
+   "new_s": 131.67,
+   "words": 339
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 20,
+   "old_s": 171.07,
+   "new_s": 171.33,
+   "words": 458
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 17,
+   "old_s": 59.13,
+   "new_s": 57.85,
+   "words": 145
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 12,
+   "old_s": 117.4,
+   "new_s": 117.11,
+   "words": 311
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 11,
+   "old_s": 176.25,
+   "new_s": 175.46,
+   "words": 441
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 9,
+   "old_s": 56.3,
+   "new_s": 56.54,
+   "words": 151
+  },
+  {
+   "part": "porph-cave-p1",
+   "entry": 6,
+   "old_s": 86.27,
+   "new_s": 86.16,
+   "words": 239
+  }
+ ]
+}
