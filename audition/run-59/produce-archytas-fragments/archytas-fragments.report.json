@@ -1,0 +1,29 @@
+{
+ "work": "archytas-fragments",
+ "parts": [
+  {
+   "file": "archytas-fragments-p1.mp3",
+   "minutes": 11.29,
+   "lines": 22,
+   "words": 1661,
+   "words_interpolated": 19,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 3,
+     "ratio": 1.26,
+     "text": "On the Good and Happy Man, in Stobaeus, Florilegium III one, one hundred and sev",
+     "note": "poor match to text (0.45)",
+     "line": "p1l0021"
+    },
+    {
+     "group": 4,
+     "ratio": 1.09,
+     "text": "On Law and Justice, in Stobaeus, Florilegium IV one, one hundred and thirty-five",
+     "note": "re-taken: match 0.39 -> 0.39",
+     "line": "p1l0021"
+    }
+   ]
+  }
+ ]
+}
