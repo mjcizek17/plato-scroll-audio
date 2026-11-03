@@ -1,0 +1,1 @@
+{"work": "hermes-asclepius", "parts": [{"file": "hermes-asclepius-p1.mp3", "minutes": 73.34, "lines": 112, "words": 13748, "words_interpolated": 42, "retakes": 0, "flagged_takes": []}]}
