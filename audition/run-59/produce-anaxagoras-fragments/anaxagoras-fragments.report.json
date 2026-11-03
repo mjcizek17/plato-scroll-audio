@@ -1,0 +1,57 @@
+{
+ "work": "anaxagoras-fragments",
+ "parts": [
+  {
+   "file": "anaxagoras-fragments-p1.mp3",
+   "minutes": 43.78,
+   "lines": 87,
+   "words": 6632,
+   "words_interpolated": 18,
+   "retakes": 6,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.03,
+     "text": "De caelo iii. three; three hundred and two a thirty-one.",
+     "note": "poor match to text (0.19)",
+     "line": "p1l0048"
+    },
+    {
+     "group": 0,
+     "ratio": 1.35,
+     "text": "Meta. i. four; nine hundred and eighty-five a eighteen.",
+     "note": "re-taken: match 0.16 -> 0.18",
+     "line": "p1l0063"
+    },
+    {
+     "group": 0,
+     "ratio": 1.39,
+     "text": "Ethic. vi. five; eleven forty-one b three.",
+     "note": "re-taken: match 0.31 -> 0.38",
+     "line": "p1l0068"
+    },
+    {
+     "group": 0,
+     "ratio": 1.2,
+     "text": "Aet. Plac. ii. one; three hundred and twenty-seven. The universe is one. eleven.",
+     "note": "poor match to text (0.41)",
+     "line": "p1l0072"
+    },
+    {
+     "group": 0,
+     "ratio": 1.14,
+     "text": "Phys. opus. fragment nineteen; Dox. four hundred and ninety-three. See Aet. ii. ",
+     "note": "re-taken: match 0.29 -> 0.30",
+     "line": "p1l0078"
+    },
+    {
+     "group": 0,
+     "ratio": 1.14,
+     "text": "Herm. I. G. P. six; Dox. six hundred and fifty-two.",
+     "note": "re-taken: match 0.33 -> 0.35",
+     "line": "p1l0086"
+    }
+   ]
+  }
+ ]
+}
