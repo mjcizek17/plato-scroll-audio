@@ -1,0 +1,22 @@
+{
+ "work": "taylor-platonic-terms",
+ "parts": [
+  {
+   "file": "taylor-platonic-terms-p1.mp3",
+   "minutes": 16.84,
+   "lines": 33,
+   "words": 2406,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 4,
+     "ratio": 1.01,
+     "text": "page one hundred and forty-one.",
+     "note": "poor match to text (0.28)",
+     "line": "p1l0025"
+    }
+   ]
+  }
+ ]
+}
