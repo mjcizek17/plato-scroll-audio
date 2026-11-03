@@ -1,0 +1,173 @@
+{
+ "work": "pico-platonick-discourse",
+ "parts": [
+  {
+   "file": "pico-platonick-discourse-p1.mp3",
+   "minutes": 30.23,
+   "lines": 24,
+   "words": 4699,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "pico-platonick-discourse-p2.mp3",
+   "minutes": 43.01,
+   "lines": 84,
+   "words": 6224,
+   "words_interpolated": 0,
+   "retakes": 13,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.51,
+     "text": "Chapter I",
+     "note": "poor match to text (0.45)",
+     "line": "p2l0001"
+    },
+    {
+     "group": 0,
+     "ratio": 1.16,
+     "text": "Chapter two",
+     "note": "poor match to text (0.41)",
+     "line": "p2l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 0.95,
+     "text": "Chapter four",
+     "note": "poor match to text (0.39)",
+     "line": "p2l0007"
+    },
+    {
+     "group": 0,
+     "ratio": 1.03,
+     "text": "Chapter ten",
+     "note": "re-taken: match 0.39 -> 0.73",
+     "line": "p2l0022"
+    },
+    {
+     "group": 0,
+     "ratio": 1.45,
+     "text": "Chapter I",
+     "note": "poor match to text (0.40)",
+     "line": "p2l0029"
+    },
+    {
+     "group": 0,
+     "ratio": 1.39,
+     "text": "Chapter nine",
+     "note": "re-taken: match 0.43 -> 0.80",
+     "line": "p2l0045"
+    },
+    {
+     "group": 0,
+     "ratio": 1.21,
+     "text": "Chapter ten",
+     "note": "re-taken: match 0.28 -> 0.55",
+     "line": "p2l0047"
+    },
+    {
+     "group": 0,
+     "ratio": 1.0,
+     "text": "Chapter sixteen",
+     "note": "re-taken: match 0.40 -> 0.47",
+     "line": "p2l0064"
+    },
+    {
+     "group": 0,
+     "ratio": 0.97,
+     "text": "Chapter twenty-two",
+     "note": "re-taken: match 0.39 -> 0.65",
+     "line": "p2l0082"
+    }
+   ]
+  },
+  {
+   "file": "pico-platonick-discourse-p3.mp3",
+   "minutes": 22.06,
+   "lines": 81,
+   "words": 3198,
+   "words_interpolated": 0,
+   "retakes": 39,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Stanza I",
+     "line": "p3l0001"
+    },
+    {
+     "group": 0,
+     "ratio": 0.59,
+     "text": "Stanza II",
+     "line": "p3l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 0.59,
+     "text": "Stanza II",
+     "note": "poor match to text (0.12)",
+     "line": "p3l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 1.85,
+     "text": "Stanza VI",
+     "line": "p3l0011"
+    },
+    {
+     "group": 0,
+     "ratio": 1.11,
+     "text": "Stanza IX",
+     "note": "poor match to text (0.17)",
+     "line": "p3l0017"
+    },
+    {
+     "group": 0,
+     "ratio": 2.21,
+     "text": "Stanza I",
+     "line": "p3l0021"
+    },
+    {
+     "group": 0,
+     "ratio": 2.02,
+     "text": "Stanza II",
+     "line": "p3l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 2.02,
+     "text": "Stanza II",
+     "note": "poor match to text (0.36)",
+     "line": "p3l0027"
+    },
+    {
+     "group": 0,
+     "ratio": 1.76,
+     "text": "\u201c\u2014Wealth and Want\u2014\u201d",
+     "line": "p3l0046"
+    },
+    {
+     "group": 0,
+     "ratio": 1.63,
+     "text": "Stanza IV",
+     "line": "p3l0048"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Stanza V",
+     "line": "p3l0054"
+    },
+    {
+     "group": 0,
+     "ratio": 1.64,
+     "text": "Stanza V",
+     "note": "poor match to text (0.17)",
+     "line": "p3l0054"
+    }
+   ]
+  }
+ ]
+}
