@@ -54,6 +54,14 @@ LOCUS = re.compile(r"""^\(\s*(?:
 # editions whose running text prints chapter / section numbers after each sentence (".” 2 But…")
 LOCATOR_MID = {"plut-lives-1", "plut-lives-2", "plut-lives-3", "plut-lives-4", "plut-lives-5", "plut-moralia-1",
                "cic-finibus", "cic-officiis", "cic-divinatione", "olymp-alc1", "iamb-protrepticus", "hierocles-golden-verses"}
+# fragment collections whose fragments open with a source and its reference (silent_mask)
+CITE_WORKS = {"zeno-fragments", "cleanthes-fragments", "archytas-fragments", "anaxagoras-fragments"}
+
+
+def base_work(work):
+    return re.sub(r"-[a-z]$", "", work or "")
+
+
 LOCATOR = re.compile(r"(?:^|[.!?”’\")\]]\s)(\d{1,4}(?: \d{1,4}){0,2}) (?=[A-Z“\"‘(])")
 NOT_ABBR = re.compile(r"^\(\s*(?:Yes|No|True|Well|Good|Right|Nay|Aye|So|Indeed)\.?\s*\)$", re.I)
 
@@ -97,6 +105,12 @@ def silent_mask(text, work=""):
     # Stephanus references in brackets, "(61 E)" "(82 D)", and Ritter-Preller style "R. P. 34.E": citations, not read
     spans += [(m.start(), m.end(), "locator") for m in re.finditer(r"\((?:\d{1,3}\s?[A-E]|[A-Z][a-z]*\.?\s?\d{1,3}\s?[a-eA-E])\)", text)]
     spans += [(m.start(), m.end(), "locator") for m in re.finditer(r"\bR\. P\. \d{1,3}\.?[A-E]?\b\.?", text)]
+    # fragment collections print each fragment's source with its book.chapter.section reference ("Diogenes Laertius,
+    # Lives 7.41", "Stobaeus, Eclogues 1.1.29b", "Athenaeus 11.467d; 11.471b", "892b14–23"): the source is read, the
+    # reference is not (2026-11-02, queue J)
+    if base_work(work) in CITE_WORKS:
+        spans += [(m.start(), m.end(), "locator") for m in re.finditer(
+            r"(?<![\w.])\d{1,4}[a-z]?(?:\.\d{1,4}[a-zA-F]?\d{0,2})+(?:\s?[–-]\s?(?:\d{1,4}[a-z]?\d{0,2}|[A-F]\b))?(?:\.\d{1,4})*(?![\w])|(?<![\w.])\d{2,4}[a-f]\d{1,2}(?:[–-]\d{1,2})?(?![\w])", text)]
     # bare figures that are the edition's page, chapter, section or verse numbers, not the author's words: at the start
     # of a line ("596 1 1 Archidamus...") or after a sentence (".” 2 But after..."), before a capitalised word
     for m in LOCATOR.finditer(text):

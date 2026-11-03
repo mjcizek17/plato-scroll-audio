@@ -1,0 +1,937 @@
+{
+ "key": "delphic-maxims",
+ "title": "The Delphic Maxims",
+ "author": "Apollo",
+ "translator": "as preserved by Stobaeus",
+ "parts": [
+  {
+   "name": "The Delphic Maxims",
+   "lines": [
+    {
+     "entry": 0,
+     "who": "Narrator",
+     "text": "The Delphic Maxims",
+     "kind": "heading"
+    },
+    {
+     "entry": 1,
+     "who": "Narrator",
+     "text": "The moral precepts inscribed in golden letters at the Temple of Apollo at Delphi. Three famous sayings stood at the temple’s entrance — know thyself, nothing in excess, and pledge a surety, and ruin is near. A further list of 147 aphorisms, attributed by the ancient world to the Seven Sages of Greece and preserved in the fifth-century anthology of Stobaeus, was inscribed elsewhere in the precinct; a fragment of the same list survives carved in stone at the Hellenistic Greek city of Ai-Khanoum in modern-day Afghanistan.",
+     "kind": "narration"
+    },
+    {
+     "entry": 2,
+     "who": "Narrator",
+     "text": "The Three Inscribed at the Entrance",
+     "kind": "narration"
+    },
+    {
+     "entry": 3,
+     "who": "Narrator",
+     "text": "Know thyself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 4,
+     "who": "Narrator",
+     "text": "Nothing in excess.",
+     "kind": "narration"
+    },
+    {
+     "entry": 5,
+     "who": "Narrator",
+     "text": "Pledge a surety, and ruin is near.",
+     "kind": "narration"
+    },
+    {
+     "entry": 6,
+     "who": "Narrator",
+     "text": "The One Hundred Forty-Seven of the Seven Sages",
+     "kind": "narration"
+    },
+    {
+     "entry": 7,
+     "who": "Narrator",
+     "text": "Follow the gods.",
+     "kind": "narration"
+    },
+    {
+     "entry": 8,
+     "who": "Narrator",
+     "text": "Obey the law.",
+     "kind": "narration"
+    },
+    {
+     "entry": 9,
+     "who": "Narrator",
+     "text": "Revere the gods.",
+     "kind": "narration"
+    },
+    {
+     "entry": 10,
+     "who": "Narrator",
+     "text": "Respect your parents.",
+     "kind": "narration"
+    },
+    {
+     "entry": 11,
+     "who": "Narrator",
+     "text": "Be ruled by justice.",
+     "kind": "narration"
+    },
+    {
+     "entry": 12,
+     "who": "Narrator",
+     "text": "Know what you have learned.",
+     "kind": "narration"
+    },
+    {
+     "entry": 13,
+     "who": "Narrator",
+     "text": "Perceive what you have heard.",
+     "kind": "narration"
+    },
+    {
+     "entry": 14,
+     "who": "Narrator",
+     "text": "Be yourself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 15,
+     "who": "Narrator",
+     "text": "Intend to marry.",
+     "kind": "narration"
+    },
+    {
+     "entry": 16,
+     "who": "Narrator",
+     "text": "Know the right moment.",
+     "kind": "narration"
+    },
+    {
+     "entry": 17,
+     "who": "Narrator",
+     "text": "Think mortal thoughts.",
+     "kind": "narration"
+    },
+    {
+     "entry": 18,
+     "who": "Narrator",
+     "text": "When a stranger, behave as one.",
+     "kind": "narration"
+    },
+    {
+     "entry": 19,
+     "who": "Narrator",
+     "text": "Honor the hearth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 20,
+     "who": "Narrator",
+     "text": "Rule yourself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 21,
+     "who": "Narrator",
+     "text": "Help your friends.",
+     "kind": "narration"
+    },
+    {
+     "entry": 22,
+     "who": "Narrator",
+     "text": "Master your temper.",
+     "kind": "narration"
+    },
+    {
+     "entry": 23,
+     "who": "Narrator",
+     "text": "Practice prudence.",
+     "kind": "narration"
+    },
+    {
+     "entry": 24,
+     "who": "Narrator",
+     "text": "Honor foresight.",
+     "kind": "narration"
+    },
+    {
+     "entry": 25,
+     "who": "Narrator",
+     "text": "Do not use an oath.",
+     "kind": "narration"
+    },
+    {
+     "entry": 26,
+     "who": "Narrator",
+     "text": "Love friendship.",
+     "kind": "narration"
+    },
+    {
+     "entry": 27,
+     "who": "Narrator",
+     "text": "Cling to discipline.",
+     "kind": "narration"
+    },
+    {
+     "entry": 28,
+     "who": "Narrator",
+     "text": "Pursue honor.",
+     "kind": "narration"
+    },
+    {
+     "entry": 29,
+     "who": "Narrator",
+     "text": "Long for wisdom.",
+     "kind": "narration"
+    },
+    {
+     "entry": 30,
+     "who": "Narrator",
+     "text": "Praise the good.",
+     "kind": "narration"
+    },
+    {
+     "entry": 31,
+     "who": "Narrator",
+     "text": "Find fault with no one.",
+     "kind": "narration"
+    },
+    {
+     "entry": 32,
+     "who": "Narrator",
+     "text": "Praise virtue.",
+     "kind": "narration"
+    },
+    {
+     "entry": 33,
+     "who": "Narrator",
+     "text": "Practice what is just.",
+     "kind": "narration"
+    },
+    {
+     "entry": 34,
+     "who": "Narrator",
+     "text": "Be kind to friends.",
+     "kind": "narration"
+    },
+    {
+     "entry": 35,
+     "who": "Narrator",
+     "text": "Ward off enemies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 36,
+     "who": "Narrator",
+     "text": "Cultivate nobility of character.",
+     "kind": "narration"
+    },
+    {
+     "entry": 37,
+     "who": "Narrator",
+     "text": "Shun evil.",
+     "kind": "narration"
+    },
+    {
+     "entry": 38,
+     "who": "Narrator",
+     "text": "Be sociable.",
+     "kind": "narration"
+    },
+    {
+     "entry": 39,
+     "who": "Narrator",
+     "text": "Guard what is yours.",
+     "kind": "narration"
+    },
+    {
+     "entry": 40,
+     "who": "Narrator",
+     "text": "Keep off what belongs to others.",
+     "kind": "narration"
+    },
+    {
+     "entry": 41,
+     "who": "Narrator",
+     "text": "Listen to everyone.",
+     "kind": "narration"
+    },
+    {
+     "entry": 42,
+     "who": "Narrator",
+     "text": "Be reverent in speech.",
+     "kind": "narration"
+    },
+    {
+     "entry": 43,
+     "who": "Narrator",
+     "text": "Do a friend a favor.",
+     "kind": "narration"
+    },
+    {
+     "entry": 44,
+     "who": "Narrator",
+     "text": "Nothing in excess.",
+     "kind": "narration"
+    },
+    {
+     "entry": 45,
+     "who": "Narrator",
+     "text": "Spend time wisely.",
+     "kind": "narration"
+    },
+    {
+     "entry": 46,
+     "who": "Narrator",
+     "text": "Look to what is coming.",
+     "kind": "narration"
+    },
+    {
+     "entry": 47,
+     "who": "Narrator",
+     "text": "Despise insolence.",
+     "kind": "narration"
+    },
+    {
+     "entry": 48,
+     "who": "Narrator",
+     "text": "Respect the suppliant.",
+     "kind": "narration"
+    },
+    {
+     "entry": 49,
+     "who": "Narrator",
+     "text": "Suit yourself to all.",
+     "kind": "narration"
+    },
+    {
+     "entry": 50,
+     "who": "Narrator",
+     "text": "Educate your sons.",
+     "kind": "narration"
+    },
+    {
+     "entry": 51,
+     "who": "Narrator",
+     "text": "Give of what you have.",
+     "kind": "narration"
+    },
+    {
+     "entry": 52,
+     "who": "Narrator",
+     "text": "Beware of cunning.",
+     "kind": "narration"
+    },
+    {
+     "entry": 53,
+     "who": "Narrator",
+     "text": "Speak well of everyone.",
+     "kind": "narration"
+    },
+    {
+     "entry": 54,
+     "who": "Narrator",
+     "text": "Become a seeker of wisdom.",
+     "kind": "narration"
+    },
+    {
+     "entry": 55,
+     "who": "Narrator",
+     "text": "Discern what is holy.",
+     "kind": "narration"
+    },
+    {
+     "entry": 56,
+     "who": "Narrator",
+     "text": "Act once you know.",
+     "kind": "narration"
+    },
+    {
+     "entry": 57,
+     "who": "Narrator",
+     "text": "Refrain from killing.",
+     "kind": "narration"
+    },
+    {
+     "entry": 58,
+     "who": "Narrator",
+     "text": "Pray for what is possible.",
+     "kind": "narration"
+    },
+    {
+     "entry": 59,
+     "who": "Narrator",
+     "text": "Consult the wise.",
+     "kind": "narration"
+    },
+    {
+     "entry": 60,
+     "who": "Narrator",
+     "text": "Test the character.",
+     "kind": "narration"
+    },
+    {
+     "entry": 61,
+     "who": "Narrator",
+     "text": "Return what you have received.",
+     "kind": "narration"
+    },
+    {
+     "entry": 62,
+     "who": "Narrator",
+     "text": "Look down on no one.",
+     "kind": "narration"
+    },
+    {
+     "entry": 63,
+     "who": "Narrator",
+     "text": "Use your skill.",
+     "kind": "narration"
+    },
+    {
+     "entry": 64,
+     "who": "Narrator",
+     "text": "Do what you mean to do.",
+     "kind": "narration"
+    },
+    {
+     "entry": 65,
+     "who": "Narrator",
+     "text": "Honor a kindness.",
+     "kind": "narration"
+    },
+    {
+     "entry": 66,
+     "who": "Narrator",
+     "text": "Envy no one.",
+     "kind": "narration"
+    },
+    {
+     "entry": 67,
+     "who": "Narrator",
+     "text": "Stand on your guard.",
+     "kind": "narration"
+    },
+    {
+     "entry": 68,
+     "who": "Narrator",
+     "text": "Praise hope.",
+     "kind": "narration"
+    },
+    {
+     "entry": 69,
+     "who": "Narrator",
+     "text": "Despise a slanderer.",
+     "kind": "narration"
+    },
+    {
+     "entry": 70,
+     "who": "Narrator",
+     "text": "Acquire justly.",
+     "kind": "narration"
+    },
+    {
+     "entry": 71,
+     "who": "Narrator",
+     "text": "Honor the good.",
+     "kind": "narration"
+    },
+    {
+     "entry": 72,
+     "who": "Narrator",
+     "text": "Know the judge.",
+     "kind": "narration"
+    },
+    {
+     "entry": 73,
+     "who": "Narrator",
+     "text": "Master your wedding feasts.",
+     "kind": "narration"
+    },
+    {
+     "entry": 74,
+     "who": "Narrator",
+     "text": "Recognize fortune.",
+     "kind": "narration"
+    },
+    {
+     "entry": 75,
+     "who": "Narrator",
+     "text": "Flee from a pledge.",
+     "kind": "narration"
+    },
+    {
+     "entry": 76,
+     "who": "Narrator",
+     "text": "Speak plainly.",
+     "kind": "narration"
+    },
+    {
+     "entry": 77,
+     "who": "Narrator",
+     "text": "Keep company with your peers.",
+     "kind": "narration"
+    },
+    {
+     "entry": 78,
+     "who": "Narrator",
+     "text": "Govern your expenses.",
+     "kind": "narration"
+    },
+    {
+     "entry": 79,
+     "who": "Narrator",
+     "text": "Take pleasure in what you have.",
+     "kind": "narration"
+    },
+    {
+     "entry": 80,
+     "who": "Narrator",
+     "text": "Revere a sense of shame.",
+     "kind": "narration"
+    },
+    {
+     "entry": 81,
+     "who": "Narrator",
+     "text": "Carry out a favor.",
+     "kind": "narration"
+    },
+    {
+     "entry": 82,
+     "who": "Narrator",
+     "text": "Pray for happiness.",
+     "kind": "narration"
+    },
+    {
+     "entry": 83,
+     "who": "Narrator",
+     "text": "Be content with your lot.",
+     "kind": "narration"
+    },
+    {
+     "entry": 84,
+     "who": "Narrator",
+     "text": "Observe what you have heard.",
+     "kind": "narration"
+    },
+    {
+     "entry": 85,
+     "who": "Narrator",
+     "text": "Work for what is worth keeping.",
+     "kind": "narration"
+    },
+    {
+     "entry": 86,
+     "who": "Narrator",
+     "text": "Hate strife.",
+     "kind": "narration"
+    },
+    {
+     "entry": 87,
+     "who": "Narrator",
+     "text": "Detest disgrace.",
+     "kind": "narration"
+    },
+    {
+     "entry": 88,
+     "who": "Narrator",
+     "text": "Hold your tongue.",
+     "kind": "narration"
+    },
+    {
+     "entry": 89,
+     "who": "Narrator",
+     "text": "Guard against insolence.",
+     "kind": "narration"
+    },
+    {
+     "entry": 90,
+     "who": "Narrator",
+     "text": "Judge justly.",
+     "kind": "narration"
+    },
+    {
+     "entry": 91,
+     "who": "Narrator",
+     "text": "Use what you have.",
+     "kind": "narration"
+    },
+    {
+     "entry": 92,
+     "who": "Narrator",
+     "text": "Judge incorruptibly.",
+     "kind": "narration"
+    },
+    {
+     "entry": 93,
+     "who": "Narrator",
+     "text": "Accuse the one present.",
+     "kind": "narration"
+    },
+    {
+     "entry": 94,
+     "who": "Narrator",
+     "text": "Speak when you know.",
+     "kind": "narration"
+    },
+    {
+     "entry": 95,
+     "who": "Narrator",
+     "text": "Do not rely on force.",
+     "kind": "narration"
+    },
+    {
+     "entry": 96,
+     "who": "Narrator",
+     "text": "Live without grief.",
+     "kind": "narration"
+    },
+    {
+     "entry": 97,
+     "who": "Narrator",
+     "text": "Converse gently.",
+     "kind": "narration"
+    },
+    {
+     "entry": 98,
+     "who": "Narrator",
+     "text": "Finish the race without flinching.",
+     "kind": "narration"
+    },
+    {
+     "entry": 99,
+     "who": "Narrator",
+     "text": "Treat everyone kindly.",
+     "kind": "narration"
+    },
+    {
+     "entry": 100,
+     "who": "Narrator",
+     "text": "Do not curse your sons.",
+     "kind": "narration"
+    },
+    {
+     "entry": 101,
+     "who": "Narrator",
+     "text": "Rule your wife.",
+     "kind": "narration"
+    },
+    {
+     "entry": 102,
+     "who": "Narrator",
+     "text": "Do good to yourself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 103,
+     "who": "Narrator",
+     "text": "Be approachable.",
+     "kind": "narration"
+    },
+    {
+     "entry": 104,
+     "who": "Narrator",
+     "text": "Answer in good time.",
+     "kind": "narration"
+    },
+    {
+     "entry": 105,
+     "who": "Narrator",
+     "text": "Toil for honor.",
+     "kind": "narration"
+    },
+    {
+     "entry": 106,
+     "who": "Narrator",
+     "text": "Act so as not to regret it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 107,
+     "who": "Narrator",
+     "text": "When you err, repent.",
+     "kind": "narration"
+    },
+    {
+     "entry": 108,
+     "who": "Narrator",
+     "text": "Master the eye.",
+     "kind": "narration"
+    },
+    {
+     "entry": 109,
+     "who": "Narrator",
+     "text": "Take counsel in time.",
+     "kind": "narration"
+    },
+    {
+     "entry": 110,
+     "who": "Narrator",
+     "text": "Act decisively.",
+     "kind": "narration"
+    },
+    {
+     "entry": 111,
+     "who": "Narrator",
+     "text": "Guard your friendships.",
+     "kind": "narration"
+    },
+    {
+     "entry": 112,
+     "who": "Narrator",
+     "text": "Be grateful.",
+     "kind": "narration"
+    },
+    {
+     "entry": 113,
+     "who": "Narrator",
+     "text": "Pursue concord.",
+     "kind": "narration"
+    },
+    {
+     "entry": 114,
+     "who": "Narrator",
+     "text": "Keep secret what should be kept.",
+     "kind": "narration"
+    },
+    {
+     "entry": 115,
+     "who": "Narrator",
+     "text": "Fear the ruling power.",
+     "kind": "narration"
+    },
+    {
+     "entry": 116,
+     "who": "Narrator",
+     "text": "Hunt for what is profitable.",
+     "kind": "narration"
+    },
+    {
+     "entry": 117,
+     "who": "Narrator",
+     "text": "Wait for the right moment.",
+     "kind": "narration"
+    },
+    {
+     "entry": 118,
+     "who": "Narrator",
+     "text": "Dissolve enmities.",
+     "kind": "narration"
+    },
+    {
+     "entry": 119,
+     "who": "Narrator",
+     "text": "Accept old age.",
+     "kind": "narration"
+    },
+    {
+     "entry": 120,
+     "who": "Narrator",
+     "text": "Do not boast of your strength.",
+     "kind": "narration"
+    },
+    {
+     "entry": 121,
+     "who": "Narrator",
+     "text": "Practice reverent speech.",
+     "kind": "narration"
+    },
+    {
+     "entry": 122,
+     "who": "Narrator",
+     "text": "Flee from hatred.",
+     "kind": "narration"
+    },
+    {
+     "entry": 123,
+     "who": "Narrator",
+     "text": "Grow rich justly.",
+     "kind": "narration"
+    },
+    {
+     "entry": 124,
+     "who": "Narrator",
+     "text": "Do not abandon honor.",
+     "kind": "narration"
+    },
+    {
+     "entry": 125,
+     "who": "Narrator",
+     "text": "Hate evil.",
+     "kind": "narration"
+    },
+    {
+     "entry": 126,
+     "who": "Narrator",
+     "text": "Take risks prudently.",
+     "kind": "narration"
+    },
+    {
+     "entry": 127,
+     "who": "Narrator",
+     "text": "Never tire of learning.",
+     "kind": "narration"
+    },
+    {
+     "entry": 128,
+     "who": "Narrator",
+     "text": "Never cease to save.",
+     "kind": "narration"
+    },
+    {
+     "entry": 129,
+     "who": "Narrator",
+     "text": "Wonder at oracles.",
+     "kind": "narration"
+    },
+    {
+     "entry": 130,
+     "who": "Narrator",
+     "text": "Love those you rear.",
+     "kind": "narration"
+    },
+    {
+     "entry": 131,
+     "who": "Narrator",
+     "text": "Do not quarrel with the absent.",
+     "kind": "narration"
+    },
+    {
+     "entry": 132,
+     "who": "Narrator",
+     "text": "Respect the elder.",
+     "kind": "narration"
+    },
+    {
+     "entry": 133,
+     "who": "Narrator",
+     "text": "Teach the younger.",
+     "kind": "narration"
+    },
+    {
+     "entry": 134,
+     "who": "Narrator",
+     "text": "Mistrust wealth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 135,
+     "who": "Narrator",
+     "text": "Have self-respect.",
+     "kind": "narration"
+    },
+    {
+     "entry": 136,
+     "who": "Narrator",
+     "text": "Do not be the first to insult.",
+     "kind": "narration"
+    },
+    {
+     "entry": 137,
+     "who": "Narrator",
+     "text": "Crown your ancestors.",
+     "kind": "narration"
+    },
+    {
+     "entry": 138,
+     "who": "Narrator",
+     "text": "Die for your country.",
+     "kind": "narration"
+    },
+    {
+     "entry": 139,
+     "who": "Narrator",
+     "text": "Do not be discontented with life.",
+     "kind": "narration"
+    },
+    {
+     "entry": 140,
+     "who": "Narrator",
+     "text": "Do not laugh at the dead.",
+     "kind": "narration"
+    },
+    {
+     "entry": 141,
+     "who": "Narrator",
+     "text": "Share the load of the unfortunate.",
+     "kind": "narration"
+    },
+    {
+     "entry": 142,
+     "who": "Narrator",
+     "text": "Give without harming.",
+     "kind": "narration"
+    },
+    {
+     "entry": 143,
+     "who": "Narrator",
+     "text": "Do not grieve for everything.",
+     "kind": "narration"
+    },
+    {
+     "entry": 144,
+     "who": "Narrator",
+     "text": "Beget from a noble line.",
+     "kind": "narration"
+    },
+    {
+     "entry": 145,
+     "who": "Narrator",
+     "text": "Make promises to no one.",
+     "kind": "narration"
+    },
+    {
+     "entry": 146,
+     "who": "Narrator",
+     "text": "Do not wrong the dead.",
+     "kind": "narration"
+    },
+    {
+     "entry": 147,
+     "who": "Narrator",
+     "text": "Endure well, as a mortal.",
+     "kind": "narration"
+    },
+    {
+     "entry": 148,
+     "who": "Narrator",
+     "text": "Do not trust fortune.",
+     "kind": "narration"
+    },
+    {
+     "entry": 149,
+     "who": "Narrator",
+     "text": "As a child, be well-behaved.",
+     "kind": "narration"
+    },
+    {
+     "entry": 150,
+     "who": "Narrator",
+     "text": "As a youth, be self-controlled.",
+     "kind": "narration"
+    },
+    {
+     "entry": 151,
+     "who": "Narrator",
+     "text": "In middle age, be just.",
+     "kind": "narration"
+    },
+    {
+     "entry": 152,
+     "who": "Narrator",
+     "text": "In old age, be reasonable.",
+     "kind": "narration"
+    },
+    {
+     "entry": 153,
+     "who": "Narrator",
+     "text": "At the end, be free from sorrow.",
+     "kind": "narration"
+    }
+   ]
+  }
+ ]
+}

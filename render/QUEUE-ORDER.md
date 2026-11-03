@@ -44,3 +44,13 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
   other 168 works: run 40698186887, 168/168.
 - Seneca (queue G, stoics-v1) is now render/queue.json. Dates like "19/23 AD" are read "nineteen or twenty-three A D"
   (a slash between figures is otherwise "over").
+
+## 2026-11-02 — queue J (release library-v1)
+- Hermetica: Emerald Tablet, Asclepius, the Stobaeus excerpts (Hermes Reader); Taylor's Explanation of Certain Platonic
+  Terms (Platonist Reader); Archytas, Anaxagoras, the Delphic Maxims (Narrator = the Socrates voice); the works added in
+  site 5.20m: Synesius' Essays and Hymns, Pico's Platonick Discourse, Al-Farabi's Virtuous City (Platonist Reader), Zeno and
+  Cleanthes fragments (Marcus Aurelius Reader). 12 works, ~990,000 characters. Synesius' Notes part is not read.
+- New speech rules: in the fragment collections (text/notes.py CITE_WORKS) a fragment's source is read but its reference
+  ("Lives 7.41", "Eclogues 1.1.29b", "892b14–23") is not; "8th–10th" → "eighth to tenth"; "c. 370–c. 413" → "circa … to
+  circa …". Tests 25/25, corpus 92,835 lines mapped, gate 0 problems.
+- tools/site_audio.py lists stoics-v1 and library-v1.

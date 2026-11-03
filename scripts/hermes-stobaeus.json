@@ -1,0 +1,2659 @@
+{
+ "key": "hermes-stobaeus",
+ "title": "The Hermetic Excerpts of Stobaeus",
+ "author": "Hermes Trismegistus",
+ "translator": "Claude AI",
+ "parts": [
+  {
+   "name": "The Hermetic Excerpts of Stobaeus",
+   "lines": [
+    {
+     "entry": 0,
+     "who": "Hermes Reader",
+     "text": "The Hermetic Excerpts of Stobaeus",
+     "kind": "heading"
+    },
+    {
+     "entry": 1,
+     "who": "Hermes Reader",
+     "text": "Translated from the Greek as the manuscripts of Stobaeus transmit it, with the excerpt and section numbering of Walter Scott’s edition (Oxford, 1924). The numbers in the margin give Scott’s excerpt and section.",
+     "kind": "narration"
+    },
+    {
+     "entry": 2,
+     "who": "Hermes Reader",
+     "text": "Excerpt I · Hermes, from the discourse to Tat",
+     "kind": "narration"
+    },
+    {
+     "entry": 3,
+     "who": "Hermes Reader",
+     "text": "To conceive God is difficult; to express him is impossible, even for one who is able to conceive him. For it is impossible to signify the incorporeal by means of body, and it is not possible to grasp the perfect by the imperfect, and it is hard for the eternal to keep company with the short-lived. For the one always is, while the other passes away; and the one is true, while the other is overshadowed by appearance. As far, then, as the weaker stands apart from the stronger and the lesser from the better, so far does the mortal stand apart from the divine.",
+     "kind": "narration"
+    },
+    {
+     "entry": 4,
+     "who": "Hermes Reader",
+     "text": "And the interval that lies between them dims the vision of the beautiful. For bodies can be seen by the eyes, and visible things can be spoken of by the tongue; but that which is incorporeal and unmanifest and without shape, and has no substrate of matter, cannot be apprehended by our senses. I have in mind, Tat, I have in mind that which it is impossible to utter: this is God.",
+     "kind": "narration"
+    },
+    {
+     "entry": 5,
+     "who": "Hermes Reader",
+     "text": "Excerpt II A · Hermes, from the discourses to Tat",
+     "kind": "narration"
+    },
+    {
+     "entry": 6,
+     "who": "Hermes Reader",
+     "text": "Concerning truth, Tat, it is not possible for one who is a human being, an imperfect living being, composed of imperfect parts and with a tent made up of many alien bodies, to venture to speak; but what is possible or right, this I say: that truth exists only in the eternal bodies, of which",
+     "kind": "narration"
+    },
+    {
+     "entry": 7,
+     "who": "Hermes Reader",
+     "text": "the very bodies too are true: fire that is fire itself alone and nothing else, earth that is earth itself and nothing else, air that is air itself, water that is water itself and nothing else. But our bodies are composed of all of these: for they have something of fire, and they have something of earth too, and of water and of air; and they are neither fire nor earth nor water nor air, nor anything true. And if our composition did not have truth to begin with, how could it either see truth or speak it? To think it is possible only if God wills.",
+     "kind": "narration"
+    },
+    {
+     "entry": 8,
+     "who": "Hermes Reader",
+     "text": "All the things upon earth, then, Tat, are not truth, but imitations of truth; and not all of them, for these are but few. The rest are falsehood and error, Tat, and opinions born of appearance, put together like pictures.",
+     "kind": "narration"
+    },
+    {
+     "entry": 9,
+     "who": "Hermes Reader",
+     "text": "But whenever the appearance has the influx from above, it becomes an imitation of truth; without the energy from above, it is left a falsehood. Just so the picture too shows the body in the painting, yet is not itself a body in the way that the thing seen appears to be; and it is seen to have eyes, yet it sees nothing, and it hears nothing at all; and the painting has all the other features too, but they are false, deceiving the sight of those who look at them, who suppose that they see truth, whereas the things are in truth false.",
+     "kind": "narration"
+    },
+    {
+     "entry": 10,
+     "who": "Hermes Reader",
+     "text": "All those, then, who do not see falsehood see truth. If, therefore, we think or see each of these things as it is, we both think and see what is true; but if we do so contrary to what is, we shall neither think nor see anything true.",
+     "kind": "narration"
+    },
+    {
+     "entry": 11,
+     "who": "Hermes Reader",
+     "text": "— There is truth, then, father, even on the earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 12,
+     "who": "Hermes Reader",
+     "text": "— You are mistaken, my child, though not wide of the mark. Truth is in no way on the earth, Tat, nor can it come to be there; but that some among human beings should have thoughts about truth, those on whom God bestows the power of beholding God, this can come about.",
+     "kind": "narration"
+    },
+    {
+     "entry": 13,
+     "who": "Hermes Reader",
+     "text": "Thus there is nothing true on the earth. I think it and I say it. All things are appearances and opinions. I think and say what is true.",
+     "kind": "narration"
+    },
+    {
+     "entry": 14,
+     "who": "Hermes Reader",
+     "text": "— Then must we not call this very thing, thinking and saying what is true, truth?",
+     "kind": "narration"
+    },
+    {
+     "entry": 15,
+     "who": "Hermes Reader",
+     "text": "— What then?",
+     "kind": "narration"
+    },
+    {
+     "entry": 16,
+     "who": "Hermes Reader",
+     "text": "One must think and say the things that are, and there is nothing true upon the earth. This is what is true: that one knows nothing true here.",
+     "kind": "narration"
+    },
+    {
+     "entry": 17,
+     "who": "Hermes Reader",
+     "text": "How indeed could it come to be, my child? For truth is the most perfect virtue, the unmixed good itself, that which is neither muddied by matter nor wrapped about by body: a good naked, radiant, unchangeable, august, unalterable. But the things here, my child, you see what they are: incapable of receiving this good, perishable, subject to affection, dissoluble, changeable, ever being altered, coming to be one out of another.",
+     "kind": "narration"
+    },
+    {
+     "entry": 18,
+     "who": "Hermes Reader",
+     "text": "Things, then, that are not true even to themselves, how could they be true? For everything that is altered is falsehood, since it does not remain in what it is, but shifts about and displays to us one appearance after another.",
+     "kind": "narration"
+    },
+    {
+     "entry": 19,
+     "who": "Hermes Reader",
+     "text": "— Is not even a human being true, father?",
+     "kind": "narration"
+    },
+    {
+     "entry": 20,
+     "who": "Hermes Reader",
+     "text": "— In so far as he is a human being he is not true, my child. For the true is that which has its composition from itself alone and remains by itself such as it is; but a human being is composed of many things and does not remain by himself, but turns and changes from age to age and from form to form, and that while he is still in the tent. And many have failed to recognise their children when a short time had intervened, and children in turn their parents likewise.",
+     "kind": "narration"
+    },
+    {
+     "entry": 21,
+     "who": "Hermes Reader",
+     "text": "Can that, then, which changes so as not to be recognised be true, Tat? Is it not, on the contrary, falsehood, since its changes come about in manifold appearances? But for your part, think of that alone which is eternal as something true. A human being, however, does not exist always; therefore he is not a true thing either, but a human being is a kind of appearance; and appearance would be the uttermost falsehood.",
+     "kind": "narration"
+    },
+    {
+     "entry": 22,
+     "who": "Hermes Reader",
+     "text": "— Then are not even these eternal bodies true, father, since they change?",
+     "kind": "narration"
+    },
+    {
+     "entry": 23,
+     "who": "Hermes Reader",
+     "text": "— Nothing, indeed, that is generated and changeable is true; but since they were made by the forefather, they may have received their matter as true. Yet these too have something false in their changing; for nothing that does not abide in itself is true.",
+     "kind": "narration"
+    },
+    {
+     "entry": 24,
+     "who": "Hermes Reader",
+     "text": "— What, then, father, might one call true?",
+     "kind": "narration"
+    },
+    {
+     "entry": 25,
+     "who": "Hermes Reader",
+     "text": "— The sun alone, which unlike all other things does not change but abides in itself, one might call truth. That is why he alone has been entrusted with the crafting of all things in the cosmos, ruling all things and making all things. Him I revere, and I worship his truth; after the one and first, I acknowledge him as craftsman.",
+     "kind": "narration"
+    },
+    {
+     "entry": 26,
+     "who": "Hermes Reader",
+     "text": "— What, then, might one call the first truth, father?",
+     "kind": "narration"
+    },
+    {
+     "entry": 27,
+     "who": "Hermes Reader",
+     "text": "— Him who is one and alone, Tat: he who is not of matter, he who is not in body; the colourless, the shapeless; the unchangeable, he who is not altered; he who always is.",
+     "kind": "narration"
+    },
+    {
+     "entry": 28,
+     "who": "Hermes Reader",
+     "text": "But falsehood, my child, perishes. Destruction has laid hold of all things upon earth, and the providence of the true encompasses them and will encompass them; for without destruction not even generation can subsist. Upon every generation destruction follows, so that there may be generation again. For the things that come to be must necessarily come to be out of those that perish; and the things that come to be must necessarily perish, so that the generation of the things that are may not come to a standstill. Recognise this one as the first craftsman for the generation of the things that are. The things, then, that come to be out of destruction would be false, since they come to be now one thing and now another. For is it possible that the same things should come to be? And that which is not the same, how could it be true?",
+     "kind": "narration"
+    },
+    {
+     "entry": 29,
+     "who": "Hermes Reader",
+     "text": "These things, then, must be called appearances, my child, if indeed we rightly call the human being an appearance of humanity, the child an appearance of a child, the youth an appearance of a youth, the grown man an appearance of a grown man, the old man an appearance of an old man; for the human being is not a human being, nor the child a child, nor the youth a youth, nor the grown man a grown man, nor the old man an old man;",
+     "kind": "narration"
+    },
+    {
+     "entry": 30,
+     "who": "Hermes Reader",
+     "text": "but, changing, they belie both what they were before and what they are. Understand these things, however, in this way, my child: that even these false energies depend from above, from truth itself. And this being so, I say that falsehood is a work of truth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 31,
+     "who": "Hermes Reader",
+     "text": "Excerpt II B",
+     "kind": "narration"
+    },
+    {
+     "entry": 32,
+     "who": "Hermes Reader",
+     "text": "I, my child, both for love of humankind and for piety towards God, am writing this down first of all. For there could be no piety more righteous than to understand the things that are and to acknowledge gratitude for them to him who made them; and this I shall go on doing without cease.",
+     "kind": "narration"
+    },
+    {
+     "entry": 33,
+     "who": "Hermes Reader",
+     "text": "— What, then, father, should one do to pass one’s life well, if nothing here is true?",
+     "kind": "narration"
+    },
+    {
+     "entry": 34,
+     "who": "Hermes Reader",
+     "text": "— Be pious, my child. And he who is pious in the highest degree will practise philosophy. For without philosophy it is impossible to be pious in the highest degree; but he who has learned what things are, and how they have been ordered, and by whom, and to what end, will be grateful for all things to the craftsman as to a good father, a kindly nurturer and a faithful guardian; and he who acknowledges gratitude will be pious.",
+     "kind": "narration"
+    },
+    {
+     "entry": 35,
+     "who": "Hermes Reader",
+     "text": "And he who practises philosophy will learn both where truth is and what it is; and having learned, he will be more pious still. For never, my child, can a soul that is in a body, and has lightened itself for the apprehension of what is really good and true, slip back to the opposite; for a soul that has learned who its own forefather is is possessed by a mighty love, and by forgetfulness of all evils, and can no longer stand apart from the good.",
+     "kind": "narration"
+    },
+    {
+     "entry": 36,
+     "who": "Hermes Reader",
+     "text": "This, my child, this is the end of piety; and when you arrive at it you will both live well and die happily, since your soul will not be ignorant of where it must wing its way upward.",
+     "kind": "narration"
+    },
+    {
+     "entry": 37,
+     "who": "Hermes Reader",
+     "text": "For this alone, my child, is the road to truth, which our ancestors also travelled, and having travelled it they attained the good. August is this road, and smooth, but hard for a soul to travel while it is in a body.",
+     "kind": "narration"
+    },
+    {
+     "entry": 38,
+     "who": "Hermes Reader",
+     "text": "For first it must make war upon itself, and bring about a great division, and the greater number must be overcome by the one part. For the conflict is of one against two, the one fleeing and the others dragging it downward; and there arises much strife and battle of these with one another, the one wishing to flee and the others striving to hold it fast.",
+     "kind": "narration"
+    },
+    {
+     "entry": 39,
+     "who": "Hermes Reader",
+     "text": "But the victory of the two sides is not alike; for the one presses towards the good, while the others make their home among evils; and the one longs to be set free, while the others love their slavery. And if the two parts are defeated, they remain bereft of themselves and of their ruler; but if the one is worsted, it is led and carried off by the two, punished by its way of life here.",
+     "kind": "narration"
+    },
+    {
+     "entry": 40,
+     "who": "Hermes Reader",
+     "text": "This, my child, is the guide on the road that leads there; for you must, my child, first leave the body behind before the end, and win the victory in the life of contest, and, having won it, so ascend.",
+     "kind": "narration"
+    },
+    {
+     "entry": 41,
+     "who": "Hermes Reader",
+     "text": "Excerpt III",
+     "kind": "narration"
+    },
+    {
+     "entry": 42,
+     "who": "Hermes Reader",
+     "text": "For the energies, Tat, though they are themselves incorporeal, are in bodies and work through bodies. Therefore, Tat, in so far as they are incorporeal, you say that they are also immortal; but in so far as they cannot work apart from bodies, I say that they are always in a body.",
+     "kind": "narration"
+    },
+    {
+     "entry": 43,
+     "who": "Hermes Reader",
+     "text": "For the things that have come to be in relation to something or for the sake of something, being subject to providence and necessity,",
+     "kind": "narration"
+    },
+    {
+     "entry": 44,
+     "who": "Hermes Reader",
+     "text": "cannot ever remain idle, without their proper energy. For that which is will always be; for this is both its body and its life.",
+     "kind": "narration"
+    },
+    {
+     "entry": 45,
+     "who": "Hermes Reader",
+     "text": "From this argument it follows also that bodies always exist. Hence I say that embodiment itself is an eternal energy. For if earthly bodies are dissoluble, and yet there must be bodies, since these are the places and instruments of the energies, and the energies are immortal, and the immortal always is, then the making of bodies too is an energy, if indeed it always is.",
+     "kind": "narration"
+    },
+    {
+     "entry": 46,
+     "who": "Hermes Reader",
+     "text": "They attend upon the soul, though they do not arrive all at once; rather, some of them are at work from the moment the human being is born, being concerned, along with the soul, with the irrational parts, while the purer energies, upon the change from quiescence, work together with the rational part of the soul.",
+     "kind": "narration"
+    },
+    {
+     "entry": 47,
+     "who": "Hermes Reader",
+     "text": "These energies are dependent on bodies. And from the divine bodies there come into mortal ones these body-making energies, and each of them works either upon the body or upon the soul. And indeed they consort with the soul itself apart from body. Energies exist always, but the soul is not always in a mortal body; for it can exist apart from the body, whereas the energies cannot exist apart from bodies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 48,
+     "who": "Hermes Reader",
+     "text": "This, my child, is a sacred discourse.",
+     "kind": "narration"
+    },
+    {
+     "entry": 49,
+     "who": "Hermes Reader",
+     "text": "A body cannot hold together without soul, but it can exist.",
+     "kind": "narration"
+    },
+    {
+     "entry": 50,
+     "who": "Hermes Reader",
+     "text": "— What do you mean by this, father?",
+     "kind": "narration"
+    },
+    {
+     "entry": 51,
+     "who": "Hermes Reader",
+     "text": "— Think of it thus, Tat. When the soul has been separated from the body, the body itself persists. But this body, during the time of its persistence, is worked upon by energy, being dissolved and passing out of sight. And the body cannot undergo these things without an energy. The energy itself, therefore, persists in the body when the soul has been separated.",
+     "kind": "narration"
+    },
+    {
+     "entry": 52,
+     "who": "Hermes Reader",
+     "text": "This, then, is the difference between an immortal body and a mortal one: that the immortal is composed of a single matter, and the other is not; and that the one acts, while the other is acted upon. For everything that exerts energy is master, and that which is worked upon by energy is mastered. And that which is master, being commanding and free, leads; while the other, a slave, is carried along.",
+     "kind": "narration"
+    },
+    {
+     "entry": 53,
+     "who": "Hermes Reader",
+     "text": "The energies work not only upon ensouled bodies but upon the soulless as well, wood and stones and the other things of that kind, making them grow and bear fruit and ripen, and destroying and melting and rotting and crumbling them, and working all such effects as soulless bodies are capable of undergoing. For energy, my child, is the name given to just this: whatever it is that is coming to be.",
+     "kind": "narration"
+    },
+    {
+     "entry": 54,
+     "who": "Hermes Reader",
+     "text": "And there must always be many things coming to be, or rather all things. For the cosmos is never bereft of any of the things that are, but, ever borne along, it conceives within itself the things that are, which will never be free of its destruction.",
+     "kind": "narration"
+    },
+    {
+     "entry": 55,
+     "who": "Hermes Reader",
+     "text": "Let every energy, then, be thought of as being always immortal, whichever it may be that is in a body of whatever kind.",
+     "kind": "narration"
+    },
+    {
+     "entry": 56,
+     "who": "Hermes Reader",
+     "text": "Of the energies, some belong to the divine bodies and others to the perishable; and some are universal, others specific. And some belong to the kinds, others to each single one of the parts. Divine, then, are those that work upon their own bodies; and these are also perfect, as working upon perfect bodies. Partial are those that work through each single kind of living beings; and specific, those that work upon each particular one of the things that are.",
+     "kind": "narration"
+    },
+    {
+     "entry": 57,
+     "who": "Hermes Reader",
+     "text": "This argument, my child, leads to the conclusion that all things are full of energies. For if the energies must be in bodies, and there are many bodies in the cosmos, I say that the energies are more numerous than the bodies. For in a single body there is often a first and a second and a third, not counting the universal ones that attend it; for I call universal energies those that are truly bodily, and that come about through the sensations and the movements; for without these energies the body cannot hold together. And there are other, specific energies belonging to the souls of human beings, through arts and sciences and pursuits and works.",
+     "kind": "narration"
+    },
+    {
+     "entry": 58,
+     "who": "Hermes Reader",
+     "text": "For sensations too attend upon the energies; or rather, sensations are the finished effects of the energies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 59,
+     "who": "Hermes Reader",
+     "text": "Understand, then, my child, the difference between energy and sensation. For energy is sent from above; but sensation, being in the body and having its essence from it, receives the energy and makes it manifest, as though it had given it a body. Therefore I say that sensations are both bodily and mortal, subsisting just as long as the body does; for sensations are born together with the body and die together with it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 60,
+     "who": "Hermes Reader",
+     "text": "But the immortal bodies themselves have no sensation, as being composed of an essence of such a kind. For sensation, being bodily, is of nothing else whatever than the evil or the good that is added to the body, or again that which departs from it; but to the eternal bodies nothing is either added or taken away; therefore sensation does not arise in them.",
+     "kind": "narration"
+    },
+    {
+     "entry": 61,
+     "who": "Hermes Reader",
+     "text": "— Does sensation, then, sense in every body?",
+     "kind": "narration"
+    },
+    {
+     "entry": 62,
+     "who": "Hermes Reader",
+     "text": "— In every one, my child; and energies work in all.",
+     "kind": "narration"
+    },
+    {
+     "entry": 63,
+     "who": "Hermes Reader",
+     "text": "— Even in soulless things, father?",
+     "kind": "narration"
+    },
+    {
+     "entry": 64,
+     "who": "Hermes Reader",
+     "text": "— Even in soulless things, my child. But there are differences among sensations: those of rational beings come about with reason; those of irrational beings are bodily only; and those of soulless things",
+     "kind": "narration"
+    },
+    {
+     "entry": 65,
+     "who": "Hermes Reader",
+     "text": "are sensations indeed, but passive ones, arising only in respect of growth and in respect of diminution. Affection and sensation depend from a single summit, and are gathered into the same thing, and that by the energies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 66,
+     "who": "Hermes Reader",
+     "text": "In ensouled living beings there are two other energies, which attend upon the sensations and the affections: grief and joy. Without these it is impossible for an ensouled living being, and above all a rational one, to have sensation; hence I say that these are distinct forms of the affections, which hold the greater sway over the rational living beings. The energies work, and the sensations bring the energies to light.",
+     "kind": "narration"
+    },
+    {
+     "entry": 67,
+     "who": "Hermes Reader",
+     "text": "And these, being bodily, are stirred up by the irrational parts of the soul; hence I say that both are harmful. For rejoicing, which furnishes sensation together with pleasure, proves straightway the cause of many evils to the one who experiences it; and grief brings on sufferings and pains that are more severe. Therefore both alike would with good reason be harmful.",
+     "kind": "narration"
+    },
+    {
+     "entry": 68,
+     "who": "Hermes Reader",
+     "text": "— Would the sensation of soul and of body be the same, father?",
+     "kind": "narration"
+    },
+    {
+     "entry": 69,
+     "who": "Hermes Reader",
+     "text": "— How do you conceive sensation of soul, my child? Is not the soul incorporeal, and sensation a body?",
+     "kind": "narration"
+    },
+    {
+     "entry": 70,
+     "who": "Hermes Reader",
+     "text": "— * * * would be, father, the sensation that is in fact in a body.",
+     "kind": "narration"
+    },
+    {
+     "entry": 71,
+     "who": "Hermes Reader",
+     "text": "— If we posit it as incorporeal, my child, we shall be declaring it to be like the soul or the energies; for these, we say, though incorporeal, are in bodies. But sensation is neither an energy nor a soul, nor any other incorporeal thing besides those already mentioned; it would not, therefore, be incorporeal. And if it is not incorporeal, it would be a body. For of the things that are, some must be bodies and the others incorporeal.",
+     "kind": "narration"
+    },
+    {
+     "entry": 72,
+     "who": "Hermes Reader",
+     "text": "Excerpt IV A",
+     "kind": "narration"
+    },
+    {
+     "entry": 73,
+     "who": "Hermes Reader",
+     "text": "For we said in the General Discourses that some movements are caused by the energies and others by the bodies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 74,
+     "who": "Hermes Reader",
+     "text": "And we say that the soul has come to be out of a certain essence, not out of matter, being incorporeal, that essence itself being incorporeal as well. For everything that has come to be must necessarily have come to be out of something.",
+     "kind": "narration"
+    },
+    {
+     "entry": 75,
+     "who": "Hermes Reader",
+     "text": "For all things, then, in which destruction follows upon generation, two movements must necessarily attend: that of the soul, by which they are moved, and that of the body, by which they grow and waste away, and furthermore, once broken up, are dissolved. This I define as the movement of perishable bodies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 76,
+     "who": "Hermes Reader",
+     "text": "But the soul is ever-moving, because it is always in movement of itself and works movement in other things. According to this reasoning, then, every soul is immortal, in so far as it is ever-moving, having as its movement its own energy.",
+     "kind": "narration"
+    },
+    {
+     "entry": 77,
+     "who": "Hermes Reader",
+     "text": "The forms of souls are: divine, human, irrational. The divine soul, then, is the energy of its divine body; for it moves within that body, and moves it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 78,
+     "who": "Hermes Reader",
+     "text": "For when it has been released from mortal living beings, separated from its own irrational parts, it goes forth into the divine body and, being ever-moving, moves within it, carried round together with the universe.",
+     "kind": "narration"
+    },
+    {
+     "entry": 79,
+     "who": "Hermes Reader",
+     "text": "The human soul has also something of the divine, but there are joined to it the irrational parts as well, desire and anger. These too are immortal, inasmuch as they too are in fact energies, but energies of mortal bodies. Hence they are far removed from the divine part of the soul while the soul is in the divine body; but when this part enters a mortal body, those also grow upon it, and by their presence it becomes in every case a human soul.",
+     "kind": "narration"
+    },
+    {
+     "entry": 80,
+     "who": "Hermes Reader",
+     "text": "The soul of irrational beings is composed of anger and desire. That is why these living beings were called irrational, by privation of the rational part of the soul.",
+     "kind": "narration"
+    },
+    {
+     "entry": 81,
+     "who": "Hermes Reader",
+     "text": "As a fourth, think of the soul of soulless things, which, being outside the bodies, works upon them by moving them. This would be the soul that moves in the divine body and moves these things as it were in passing.",
+     "kind": "narration"
+    },
+    {
+     "entry": 82,
+     "who": "Hermes Reader",
+     "text": "Excerpt IV B",
+     "kind": "narration"
+    },
+    {
+     "entry": 83,
+     "who": "Hermes Reader",
+     "text": "— You have demonstrated these things rightly, father; but teach me this further point. For you said somewhere that science and art are energies of the rational part. But now you say that the irrational living beings are irrational, and are so called, by privation of the rational part; clearly, by this reasoning, the irrational living beings must have no share in science or in art, because they have been deprived of the rational part.",
+     "kind": "narration"
+    },
+    {
+     "entry": 84,
+     "who": "Hermes Reader",
+     "text": "— Necessarily so, my child.",
+     "kind": "narration"
+    },
+    {
+     "entry": 85,
+     "who": "Hermes Reader",
+     "text": "— How is it, then, father, that we see some of the irrational creatures making use of science and art: the ants, for instance, storing up their food against the winter, and the creatures of the air likewise putting together nests for themselves, and the four-footed beasts knowing their own lairs?",
+     "kind": "narration"
+    },
+    {
+     "entry": 86,
+     "who": "Hermes Reader",
+     "text": "— These things, my child, they do not by science nor by art, but by nature. For science and art are things that are taught; but none of the irrational creatures is taught any of these things. And the things that come about by nature come about by a universal energy; whereas the things that come about by science and art accrue to those who know, not to all; what comes about for all is worked by nature.",
+     "kind": "narration"
+    },
+    {
+     "entry": 87,
+     "who": "Hermes Reader",
+     "text": "For example, human beings look upward; but not all human beings are musicians, nor are all archers or hunters, and so with all the rest; rather, some of them have learned some one thing, science and art being at work.",
+     "kind": "narration"
+    },
+    {
+     "entry": 88,
+     "who": "Hermes Reader",
+     "text": "In the same way, if some of the ants did this and others did not, you would be right in saying that they do this very thing by science and gather their food by art; but if all alike are led to this by nature, even against their will, it is clear that they do not do this by science or by art.",
+     "kind": "narration"
+    },
+    {
+     "entry": 89,
+     "who": "Hermes Reader",
+     "text": "Excerpt V",
+     "kind": "narration"
+    },
+    {
+     "entry": 90,
+     "who": "Hermes Reader",
+     "text": "And the lord and craftsman of all the eternal bodies, Tat, having made them once, made no more, nor does he make now; for having handed these over to themselves and united them with one another, he let them go on their course, lacking nothing, as being eternal. And if they have need of anything, it is of one another that they will have need, but of no supply brought in from outside, since they are immortal; for it was necessary that the bodies which came into being by him should also have a nature of such a kind.",
+     "kind": "narration"
+    },
+    {
+     "entry": 91,
+     "who": "Hermes Reader",
+     "text": "But our own craftsman, being in a body, made us, and makes us always and will make us, bodies dissoluble and mortal. For it was not lawful for him to imitate his own craftsman, and besides it was impossible; for the one made from the first essence, which is incorporeal, whereas the other made us from the embodiment that comes into being.",
+     "kind": "narration"
+    },
+    {
+     "entry": 92,
+     "who": "Hermes Reader",
+     "text": "With good reason, then, according to right reason, those bodies, as having come into being from incorporeal essence, are immortal; whereas ours are dissoluble and mortal, since our matter is composed of bodies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 93,
+     "who": "Hermes Reader",
+     "text": "Hence they are weak, and in need of much assistance. For how could the bond of our bodies have held out even for the briefest time, if it did not have some nourishment coming in from the like elements, which built our bodies up afresh every day? For indeed an inflow of earth and water and fire and air comes to us, which, by renewing our bodies, holds the tent together.",
+     "kind": "narration"
+    },
+    {
+     "entry": 94,
+     "who": "Hermes Reader",
+     "text": "And so we are also too weak for movements, unable to bear the movements of even a single day. For know well, my child, that if our bodies did not rest in the nights, we should not have held out for one day. Hence the craftsman, being good and knowing all things beforehand, made sleep for the continuance of the living being, the greatest remedy for the weariness of movement, and he assigned a time to each in equal measure, or rather a longer one to rest.",
+     "kind": "narration"
+    },
+    {
+     "entry": 95,
+     "who": "Hermes Reader",
+     "text": "Understand, my child, that the energy of sleep is very great, the opposite of that of the soul, and no less than it. For just as the soul is an energy of movement, in the same way bodies too cannot live without sleep; for it is a slackening and release of the fastenings of the limbs.",
+     "kind": "narration"
+    },
+    {
+     "entry": 96,
+     "who": "Hermes Reader",
+     "text": "And it works from within, making into body the matter that has come in, and distributing to each part what is proper to it: water to the blood, earth to bones and marrow, air to the sinews and veins, fire to the sight. That is why the body takes the utmost pleasure in sleep, since sleep works this pleasure.",
+     "kind": "narration"
+    },
+    {
+     "entry": 97,
+     "who": "Hermes Reader",
+     "text": "Excerpt VI · Hermes, from the discourses to Tat",
+     "kind": "narration"
+    },
+    {
+     "entry": 98,
+     "who": "Hermes Reader",
+     "text": "Since in the earlier General Discourses you promised to explain to me about the thirty-six decans, explain to me now about them and about their energy.",
+     "kind": "narration"
+    },
+    {
+     "entry": 99,
+     "who": "Hermes Reader",
+     "text": "— I grudge you nothing, Tat; and this would be the most authoritative discourse of all, and the crowning one. Understand it, then, in this way.",
+     "kind": "narration"
+    },
+    {
+     "entry": 100,
+     "who": "Hermes Reader",
+     "text": "We spoke to you about the zodiacal circle, that is, the circle that bears the living figures, and about the five planets and the sun and the moon and the circle of each of these.",
+     "kind": "narration"
+    },
+    {
+     "entry": 101,
+     "who": "Hermes Reader",
+     "text": "— You did, Trismegistus.",
+     "kind": "narration"
+    },
+    {
+     "entry": 102,
+     "who": "Hermes Reader",
+     "text": "— In the same way I want you to think also about the thirty-six decans, remembering those things, so that the account of these too may be easy for you to grasp.",
+     "kind": "narration"
+    },
+    {
+     "entry": 103,
+     "who": "Hermes Reader",
+     "text": "— I remember, father.",
+     "kind": "narration"
+    },
+    {
+     "entry": 104,
+     "who": "Hermes Reader",
+     "text": "— We say, I suppose, my child, that there is a body which encompasses all things. Conceive of this too, then, as a kind of circular figure; for so it is with the universe.",
+     "kind": "narration"
+    },
+    {
+     "entry": 105,
+     "who": "Hermes Reader",
+     "text": "— I conceive such a figure, just as you say, father.",
+     "kind": "narration"
+    },
+    {
+     "entry": 106,
+     "who": "Hermes Reader",
+     "text": "— And beneath the circle of this body, understand, these thirty-six decans have been stationed, midway between the circle of the universe and that of the zodiac, dividing the two circles from one another, and as it were bearing up the former and marking the bounds of the zodiac,",
+     "kind": "narration"
+    },
+    {
+     "entry": 107,
+     "who": "Hermes Reader",
+     "text": "borne along with the planets; and that they have a power equal to the motion of the universe, in alternation with the seven; and that they hold back the encompassing body, for left to itself it would be at the extreme in its motion, in what it undergoes, but hasten on the seven other circles, because these move with a slower motion than the circle of the universe; just as, indeed, it is necessary that they should be moved, and the circle of the universe as well.",
+     "kind": "narration"
+    },
+    {
+     "entry": 108,
+     "who": "Hermes Reader",
+     "text": "Let us understand, then, that they stand around the spheres of the seven and the whole circle, or rather around all the things in the cosmos, as their guardians, so to speak, holding all things together, the whole of them, and preserving the good order of all.",
+     "kind": "narration"
+    },
+    {
+     "entry": 109,
+     "who": "Hermes Reader",
+     "text": "— So indeed I understand it, father, from what you say.",
+     "kind": "narration"
+    },
+    {
+     "entry": 110,
+     "who": "Hermes Reader",
+     "text": "— Understand further, Tat, that they are also unaffected by what the other stars undergo. For they neither come to a standstill, checked in their course, nor move backward, being hindered, nor again are they covered over by the light of the sun, all of which the other stars undergo; but being free, and above all things, as exact guardians and overseers of the universe they compass the universe in a night and a day.",
+     "kind": "narration"
+    },
+    {
+     "entry": 111,
+     "who": "Hermes Reader",
+     "text": "— Do these too, then, father, have an energy that bears upon us?",
+     "kind": "narration"
+    },
+    {
+     "entry": 112,
+     "who": "Hermes Reader",
+     "text": "— The greatest, my child. For if they work upon those, how should they not work upon us too, both upon each one singly and upon all in common?",
+     "kind": "narration"
+    },
+    {
+     "entry": 113,
+     "who": "Hermes Reader",
+     "text": "Thus, my child, the energy at work in all the things that happen universally comes from these; for example, and mark what I say, the overthrow of kings, the uprisings of cities, famines, plagues, the ebbing of the sea, earthquakes: none of these, my child, comes about without the energy of these.",
+     "kind": "narration"
+    },
+    {
+     "entry": 114,
+     "who": "Hermes Reader",
+     "text": "And consider this further besides. If these preside over those, and we in turn are under the seven, do you not understand that some energy of theirs reaches us as well, whether from themselves or through those?",
+     "kind": "narration"
+    },
+    {
+     "entry": 115,
+     "who": "Hermes Reader",
+     "text": "— What, father, would be the form of their body?",
+     "kind": "narration"
+    },
+    {
+     "entry": 116,
+     "who": "Hermes Reader",
+     "text": "— These, then, the many call daemons; for the daemons are not some distinct kind of their own, neither having other bodies made of some matter of their own nor being moved by soul as we are, but they are energies of these thirty-six gods.",
+     "kind": "narration"
+    },
+    {
+     "entry": 117,
+     "who": "Hermes Reader",
+     "text": "And further, besides this, consider, Tat, a working of theirs: that they also sow upon the earth what people call tanai, some of them salutary, others most destructive.",
+     "kind": "narration"
+    },
+    {
+     "entry": 118,
+     "who": "Hermes Reader",
+     "text": "Further, borne along in heaven as stars, they beget for themselves subordinate ministers, whom they keep as servants and soldiers. And these, mingled together by them, are borne along suspended in the aether, filling up its region, so that no place above may be empty of stars; they join in ordering the universe, having an energy of their own, yet one subordinated to the energy of the thirty-six. From them come also the destructions, region by region, of the other ensouled living beings, and the swarming of the creatures that ravage the crops.",
+     "kind": "narration"
+    },
+    {
+     "entry": 119,
+     "who": "Hermes Reader",
+     "text": "Beneath these is the so-called Bear, at the middle of the zodiac, composed of seven stars, with another, its counterpart, overhead. Its energy is like that of an axle: it nowhere sets nor rises, but remains in the same place, turning about the same point, and it works the revolution of the circle that bears the living figures, handing this universe over from night to day and from day to night.",
+     "kind": "narration"
+    },
+    {
+     "entry": 120,
+     "who": "Hermes Reader",
+     "text": "After these there is another choir of stars, which we have not deemed worthy of names; but those who come after us, imitating us, will themselves give names to these too.",
+     "kind": "narration"
+    },
+    {
+     "entry": 121,
+     "who": "Hermes Reader",
+     "text": "Below the moon there are other stars, perishable, inert, formed for a short time, exhaled from the earth itself into the air above the earth, which we ourselves see dissolving. They have a nature like that of the useless creatures upon earth, which come into being for no other end than only to perish, such as the race of flies and of fleas and of worms and of the others like them. For just as those, Tat, are useful neither to us nor to the cosmos, but on the contrary distress us with their annoyance, being by-products of nature and having their generation as something superfluous, in the same way also the stars exhaled from the earth do not attain the upper region, for they cannot, since they rise from below; but having much that is heavy in them, and being dragged down by their own matter, they are quickly dispersed, and once dissolved they fall back to earth, having effected nothing except merely to trouble the air above the earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 122,
+     "who": "Hermes Reader",
+     "text": "There is another kind, Tat, that of the so-called comets, which appear at their due season and after a short time become invisible again, neither rising nor setting nor being dissolved; they become the manifest messengers and heralds of universal outcomes that are about to be. These have their place beneath the circle of the sun. Whenever, then, something is about to befall the cosmos, these appear; and having appeared for a few days, they go back beneath the circle of the sun and remain unseen, some having appeared in the east, others in the north, others in the west, others in the south. We have named them seers. Such is the nature of the stars.",
+     "kind": "narration"
+    },
+    {
+     "entry": 123,
+     "who": "Hermes Reader",
+     "text": "Stars (asteres) differ from constellations (astra). For stars are those that hang suspended in heaven, whereas constellations are those that lie fixed in the body of heaven and are borne along together in heaven; from among these we have named twelve the signs of the zodiac.",
+     "kind": "narration"
+    },
+    {
+     "entry": 124,
+     "who": "Hermes Reader",
+     "text": "He who is not ignorant of these things can understand God exactly, and, if one must make bold to say it, can even become an eyewitness and behold him, and having beheld him become blessed.",
+     "kind": "narration"
+    },
+    {
+     "entry": 125,
+     "who": "Hermes Reader",
+     "text": "— Blessed in very truth, father, is he who has beheld him.",
+     "kind": "narration"
+    },
+    {
+     "entry": 126,
+     "who": "Hermes Reader",
+     "text": "— But it is impossible, my child, for one who is in a body to attain this good fortune; one must train one’s soul beforehand here, so that when it has come there, where it is permitted to behold him, it may not miss the way.",
+     "kind": "narration"
+    },
+    {
+     "entry": 127,
+     "who": "Hermes Reader",
+     "text": "But all those human beings who are lovers of the body could never behold the vision of the beautiful and good. For what a beauty it is, my child, that which has neither figure nor colour nor body!",
+     "kind": "narration"
+    },
+    {
+     "entry": 128,
+     "who": "Hermes Reader",
+     "text": "— But could there be anything beautiful apart from these, father?",
+     "kind": "narration"
+    },
+    {
+     "entry": 129,
+     "who": "Hermes Reader",
+     "text": "— God alone, my child, or rather that which is something greater than the name of God.",
+     "kind": "narration"
+    },
+    {
+     "entry": 130,
+     "who": "Hermes Reader",
+     "text": "Excerpt VII · Hermes",
+     "kind": "narration"
+    },
+    {
+     "entry": 131,
+     "who": "Hermes Reader",
+     "text": "For a very great daemon has been appointed, my child, who revolves in the midst of the universe and surveys all that is done on earth by human beings. Just as providence and necessity have been set over the divine order, in the same way Justice has been set over human beings, working the same effects as they do.",
+     "kind": "narration"
+    },
+    {
+     "entry": 132,
+     "who": "Hermes Reader",
+     "text": "For the former holds sway over the order of the things that are, inasmuch as they are divine and neither wish to sin nor are able to; for it is impossible for the divine to go astray, and from this it follows that it is also free of sin. But Justice has been appointed as the punisher of those who sin upon earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 133,
+     "who": "Hermes Reader",
+     "text": "For as to the race of human beings, since it is mortal and composed of evil matter, slipping befalls it, and most of all those in whom the power of seeing God is not present; and over these most of all Justice prevails. And it is subject to fate because of the energies of its birth, but to Justice because of the sins committed in life.",
+     "kind": "narration"
+    },
+    {
+     "entry": 134,
+     "who": "Hermes Reader",
+     "text": "Excerpt VIII · Hermes, from the discourses to Tat",
+     "kind": "narration"
+    },
+    {
+     "entry": 135,
+     "who": "Hermes Reader",
+     "text": "You have told me everything rightly, father. But remind me further what the things are that are according to providence, and likewise what are according to necessity, and according to fate.",
+     "kind": "narration"
+    },
+    {
+     "entry": 136,
+     "who": "Hermes Reader",
+     "text": "— I said, Tat, that there are in us three kinds of incorporeal things. One of them is something intelligible. This, then, is without colour, without figure, incorporeal, coming from the first and intelligible essence itself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 137,
+     "who": "Hermes Reader",
+     "text": "There are also in us configurations opposed to this; this receives them. At any rate, that which is moved by the intelligible essence in relation to a certain reason, once it has been received, changes at once into another form of movement; and this is an image of the thought of the craftsman.",
+     "kind": "narration"
+    },
+    {
+     "entry": 138,
+     "who": "Hermes Reader",
+     "text": "The third kind of incorporeal things is that which is an accident attending bodies: place, time, movement, figure, surface, magnitude, form. And of these there are two different sorts; for some of them are qualities in the strict sense, while others belong to the body. The qualities in the strict sense are figure, colour, form, place, time, movement; while those proper to the body are the figure that has been figured and the colour that has been coloured, and there is also the shape that has been shaped, and the surface, and the magnitude. These have no share in those.",
+     "kind": "narration"
+    },
+    {
+     "entry": 139,
+     "who": "Hermes Reader",
+     "text": "Now the intelligible essence, when it has come to be with God, has authority over itself, and over the preserving of another while it preserves itself; and then, being itself, it is not under necessity. But when it has been left behind by God, it chooses the bodily nature, and its choice is according to providence, and by this it comes to belong to the cosmos.",
+     "kind": "narration"
+    },
+    {
+     "entry": 140,
+     "who": "Hermes Reader",
+     "text": "And everything irrational is moved in relation to a certain reason.",
+     "kind": "narration"
+    },
+    {
+     "entry": 141,
+     "who": "Hermes Reader",
+     "text": "And reason is according to providence, the irrational according to necessity, and the accidents attending the body according to fate. And this is the account of the things that are according to providence and necessity and according to fate.",
+     "kind": "narration"
+    },
+    {
+     "entry": 142,
+     "who": "Hermes Reader",
+     "text": "Excerpt IX · Hermes, from the discourses to Tat",
+     "kind": "narration"
+    },
+    {
+     "entry": 143,
+     "who": "Hermes Reader",
+     "text": "And matter, my child, both came into being and was. For matter is a vessel of generation; and generation is a place of the energy of the unbegotten and pre-existent God. It was, then, by receiving the seed of generation that it came into being.",
+     "kind": "narration"
+    },
+    {
+     "entry": 144,
+     "who": "Hermes Reader",
+     "text": "And it became changeable, and had forms as it was being shaped; for there presides over it, as it changes, that which crafts the forms of the change. The unbegotten state of matter, then, was shapelessness, and its generation is its being acted upon.",
+     "kind": "narration"
+    },
+    {
+     "entry": 145,
+     "who": "Hermes Reader",
+     "text": "Excerpt X · Hermes, from the discourses to Tat",
+     "kind": "narration"
+    },
+    {
+     "entry": 146,
+     "who": "Hermes Reader",
+     "text": "as one may find also concerning the three times. For they are neither by themselves nor are they united; and again, they are united and they are by themselves.",
+     "kind": "narration"
+    },
+    {
+     "entry": 147,
+     "who": "Hermes Reader",
+     "text": "If you suppose the present to be apart from the past, it is impossible for there to be a present unless a past has also come to be; for from what has gone by the present comes to be, and from the present the future proceeds.",
+     "kind": "narration"
+    },
+    {
+     "entry": 148,
+     "who": "Hermes Reader",
+     "text": "But if we must examine the matter still further, let us reason thus: that past time has departed into its being no longer; that the future does not exist, in that it is not yet present; but that not even the present is present with us as something that abides. For that which has not stood still for an instant, having not even the abiding of a point of time, how is it said to stand present, when it cannot even stand?",
+     "kind": "narration"
+    },
+    {
+     "entry": 149,
+     "who": "Hermes Reader",
+     "text": "And again, the past joining on to the present, and the present to the future, becomes one; for they are not apart from one another, by their identity and their unity and their continuity.",
+     "kind": "narration"
+    },
+    {
+     "entry": 150,
+     "who": "Hermes Reader",
+     "text": "Thus time proves to be both continuous and divided, being one and the same.",
+     "kind": "narration"
+    },
+    {
+     "entry": 151,
+     "who": "Hermes Reader",
+     "text": "Excerpt XI · Hermes, from the discourses to Tat",
+     "kind": "narration"
+    },
+    {
+     "entry": 152,
+     "who": "Hermes Reader",
+     "text": "And now, my child, I shall go through the things that are under summary headings; for you will understand what is said if you remember what you have heard.",
+     "kind": "narration"
+    },
+    {
+     "entry": 153,
+     "who": "Hermes Reader",
+     "text": "(1) All the things that are are moved; only that which is not is unmoved.",
+     "kind": "narration"
+    },
+    {
+     "entry": 154,
+     "who": "Hermes Reader",
+     "text": "(2) Every body is changeable; not every body is dissoluble. Some bodies are dissoluble.",
+     "kind": "narration"
+    },
+    {
+     "entry": 155,
+     "who": "Hermes Reader",
+     "text": "(3) Not every living being is mortal; not every living being is immortal.",
+     "kind": "narration"
+    },
+    {
+     "entry": 156,
+     "who": "Hermes Reader",
+     "text": "(4) The dissoluble is perishable; only the indissoluble is eternal.",
+     "kind": "narration"
+    },
+    {
+     "entry": 157,
+     "who": "Hermes Reader",
+     "text": "(5) What is always coming to be is also always perishing, but what has come to be once for all never perishes, nor does it become anything else.",
+     "kind": "narration"
+    },
+    {
+     "entry": 158,
+     "who": "Hermes Reader",
+     "text": "(6) First God, second the cosmos, third the human being.",
+     "kind": "narration"
+    },
+    {
+     "entry": 159,
+     "who": "Hermes Reader",
+     "text": "(7) The cosmos is for the sake of the human being, and the human being for the sake of God.",
+     "kind": "narration"
+    },
+    {
+     "entry": 160,
+     "who": "Hermes Reader",
+     "text": "(8) Of the soul, the sensible part is mortal, the rational part immortal.",
+     "kind": "narration"
+    },
+    {
+     "entry": 161,
+     "who": "Hermes Reader",
+     "text": "(9) Every essence is immortal; every essence is changeable.",
+     "kind": "narration"
+    },
+    {
+     "entry": 162,
+     "who": "Hermes Reader",
+     "text": "(10) Everything that is is twofold; none of the things that are stands still.",
+     "kind": "narration"
+    },
+    {
+     "entry": 163,
+     "who": "Hermes Reader",
+     "text": "(11) Not all things are moved by soul, but soul moves everything that is.",
+     "kind": "narration"
+    },
+    {
+     "entry": 164,
+     "who": "Hermes Reader",
+     "text": "(12) Everything that is acted upon has sensation; everything that has sensation is acted upon.",
+     "kind": "narration"
+    },
+    {
+     "entry": 165,
+     "who": "Hermes Reader",
+     "text": "(13) Everything that feels pain also feels pleasure: a mortal living being. Not everything that feels pleasure feels pain: an eternal living being.",
+     "kind": "narration"
+    },
+    {
+     "entry": 166,
+     "who": "Hermes Reader",
+     "text": "(14) Not every body falls sick; every body that falls sick is dissoluble.",
+     "kind": "narration"
+    },
+    {
+     "entry": 167,
+     "who": "Hermes Reader",
+     "text": "(15) Mind is in God; reasoning is in the human being; reason is in mind. Mind is free from affection.",
+     "kind": "narration"
+    },
+    {
+     "entry": 168,
+     "who": "Hermes Reader",
+     "text": "(16) Nothing in a body is true; in the incorporeal everything is free from falsehood.",
+     "kind": "narration"
+    },
+    {
+     "entry": 169,
+     "who": "Hermes Reader",
+     "text": "(17) Everything that has come to be is changeable; not everything that has come to be is perishable.",
+     "kind": "narration"
+    },
+    {
+     "entry": 170,
+     "who": "Hermes Reader",
+     "text": "(18) Nothing upon the earth is good; nothing in heaven is evil.",
+     "kind": "narration"
+    },
+    {
+     "entry": 171,
+     "who": "Hermes Reader",
+     "text": "(19) God is good; the human being is evil.",
+     "kind": "narration"
+    },
+    {
+     "entry": 172,
+     "who": "Hermes Reader",
+     "text": "(20) The good is voluntary; the evil is involuntary.",
+     "kind": "narration"
+    },
+    {
+     "entry": 173,
+     "who": "Hermes Reader",
+     "text": "(21) The gods choose good things as good.",
+     "kind": "narration"
+    },
+    {
+     "entry": 174,
+     "who": "Hermes Reader",
+     "text": "(22) Good order is great good order; good order is the law.",
+     "kind": "narration"
+    },
+    {
+     "entry": 175,
+     "who": "Hermes Reader",
+     "text": "(23) Time is divine; law is human.",
+     "kind": "narration"
+    },
+    {
+     "entry": 176,
+     "who": "Hermes Reader",
+     "text": "(24) Vice is the luxury of the cosmos; time is the destruction of the human being.",
+     "kind": "narration"
+    },
+    {
+     "entry": 177,
+     "who": "Hermes Reader",
+     "text": "(25) Everything in heaven is unalterable; everything upon earth is alterable.",
+     "kind": "narration"
+    },
+    {
+     "entry": 178,
+     "who": "Hermes Reader",
+     "text": "(26) Nothing in heaven is a slave; nothing upon earth is free.",
+     "kind": "narration"
+    },
+    {
+     "entry": 179,
+     "who": "Hermes Reader",
+     "text": "(27) Nothing is unknown in heaven; nothing is known upon the earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 180,
+     "who": "Hermes Reader",
+     "text": "(28) The things upon earth have no communion with those in heaven.",
+     "kind": "narration"
+    },
+    {
+     "entry": 181,
+     "who": "Hermes Reader",
+     "text": "(29) All the things in heaven are blameless; all the things upon earth are open to blame.",
+     "kind": "narration"
+    },
+    {
+     "entry": 182,
+     "who": "Hermes Reader",
+     "text": "(30) The immortal is not mortal; the mortal is not immortal.",
+     "kind": "narration"
+    },
+    {
+     "entry": 183,
+     "who": "Hermes Reader",
+     "text": "(31) What has been sown is not in every case generated, but what is generated has in every case also been sown.",
+     "kind": "narration"
+    },
+    {
+     "entry": 184,
+     "who": "Hermes Reader",
+     "text": "(32) A dissoluble body has two times, the one from sowing to generation and the one from generation to death; an eternal body has only the time from its generation onward.",
+     "kind": "narration"
+    },
+    {
+     "entry": 185,
+     "who": "Hermes Reader",
+     "text": "(33) Dissoluble bodies increase and diminish.",
+     "kind": "narration"
+    },
+    {
+     "entry": 186,
+     "who": "Hermes Reader",
+     "text": "(34) Dissoluble matter is altered into the opposites, destruction and generation; but eternal matter either into itself or into what is like it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 187,
+     "who": "Hermes Reader",
+     "text": "(35) The generation of a human being is destruction; the destruction of a human being is the beginning of generation.",
+     "kind": "narration"
+    },
+    {
+     "entry": 188,
+     "who": "Hermes Reader",
+     "text": "(36) That which passes away does indeed pass away.",
+     "kind": "narration"
+    },
+    {
+     "entry": 189,
+     "who": "Hermes Reader",
+     "text": "(37) Of the things that are, some are in bodies, some in forms, some in energies; and body is in forms, while form and energy are in body.",
+     "kind": "narration"
+    },
+    {
+     "entry": 190,
+     "who": "Hermes Reader",
+     "text": "(38) The immortal has no share in the mortal, but the mortal has a share in the immortal.",
+     "kind": "narration"
+    },
+    {
+     "entry": 191,
+     "who": "Hermes Reader",
+     "text": "(39) The mortal does not come into an immortal body, but the immortal does come to be present in a mortal one.",
+     "kind": "narration"
+    },
+    {
+     "entry": 192,
+     "who": "Hermes Reader",
+     "text": "(40) The energies do not tend upward, but downward.",
+     "kind": "narration"
+    },
+    {
+     "entry": 193,
+     "who": "Hermes Reader",
+     "text": "(41) The things upon earth benefit the things in heaven in nothing; the things in heaven benefit the things upon earth in everything.",
+     "kind": "narration"
+    },
+    {
+     "entry": 194,
+     "who": "Hermes Reader",
+     "text": "(42) Heaven is receptive of eternal bodies; earth is receptive of perishable bodies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 195,
+     "who": "Hermes Reader",
+     "text": "(43) Earth is irrational; heaven is rational.",
+     "kind": "narration"
+    },
+    {
+     "entry": 196,
+     "who": "Hermes Reader",
+     "text": "(44) The things in heaven are set beneath it; the things upon earth are set upon the earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 197,
+     "who": "Hermes Reader",
+     "text": "(45) Heaven is the first of the elements; earth is the last of the elements.",
+     "kind": "narration"
+    },
+    {
+     "entry": 198,
+     "who": "Hermes Reader",
+     "text": "(46) Providence is divine order; necessity is handmaid to providence.",
+     "kind": "narration"
+    },
+    {
+     "entry": 199,
+     "who": "Hermes Reader",
+     "text": "(47) Chance is the motion of an energy without order; a phantom is a false opinion.",
+     "kind": "narration"
+    },
+    {
+     "entry": 200,
+     "who": "Hermes Reader",
+     "text": "(48) What is God? An unchangeable good. What is the human being? An unchangeable evil.",
+     "kind": "narration"
+    },
+    {
+     "entry": 201,
+     "who": "Hermes Reader",
+     "text": "If you remember these headings, you will easily recall also the things that I went through for you at greater length; for these are summaries of those.",
+     "kind": "narration"
+    },
+    {
+     "entry": 202,
+     "who": "Hermes Reader",
+     "text": "Decline, however, conversations with the many; not that I wish you to be grudging, but rather because you will seem ridiculous to the many. For like is received by like, but unlike is never friend to unlike. These discourses will have altogether few hearers, or perhaps they will not have even the few.",
+     "kind": "narration"
+    },
+    {
+     "entry": 203,
+     "who": "Hermes Reader",
+     "text": "And they have something peculiar to themselves as well: they provoke the bad all the more to vice. Therefore you must be on your guard against the many, since they do not understand the virtue of what is said.",
+     "kind": "narration"
+    },
+    {
+     "entry": 204,
+     "who": "Hermes Reader",
+     "text": "— How do you mean, father?",
+     "kind": "narration"
+    },
+    {
+     "entry": 205,
+     "who": "Hermes Reader",
+     "text": "— In this way, my child. The whole living kind of human beings is rather prone to vice; and it grows up in company with vice, and for that reason takes pleasure in it. Now if this living being learns that the cosmos is generated, and that all things come about according to providence and necessity, with fate ruling over all, will it not be far worse than it is, having come to despise the universe as generated, and referring the causes of evil to fate? Nor will it ever abstain from any evil deed. Therefore one must be on guard against them, so that, being in ignorance, they may be less bad through fear of the unknown.",
+     "kind": "narration"
+    },
+    {
+     "entry": 206,
+     "who": "Hermes Reader",
+     "text": "Excerpt XII · Hermes, from the discourses to Ammon",
+     "kind": "narration"
+    },
+    {
+     "entry": 207,
+     "who": "Hermes Reader",
+     "text": "All things come to be by nature and by fate, and there is no place bereft of providence. Providence is the self-complete reason of the heavenly God; and it has two powers that arise of themselves, necessity and fate.",
+     "kind": "narration"
+    },
+    {
+     "entry": 208,
+     "who": "Hermes Reader",
+     "text": "Fate serves providence and necessity, and the stars serve fate. For no one can escape fate, nor guard himself against the terrible power of the stars. For the stars are the weapon of fate; in accordance with fate they bring all things to pass for nature and for human beings.",
+     "kind": "narration"
+    },
+    {
+     "entry": 209,
+     "who": "Hermes Reader",
+     "text": "Excerpt XIII · Hermes, from the discourses to Ammon",
+     "kind": "narration"
+    },
+    {
+     "entry": 210,
+     "who": "Hermes Reader",
+     "text": "Necessity is a firm judgement and an unalterable power of providence.",
+     "kind": "narration"
+    },
+    {
+     "entry": 211,
+     "who": "Hermes Reader",
+     "text": "Excerpt XIV · Hermes, from the discourses to Ammon",
+     "kind": "narration"
+    },
+    {
+     "entry": 212,
+     "who": "Hermes Reader",
+     "text": "That which holds the whole cosmos in its sway is providence; that which holds it together and encompasses it is necessity. Fate drives all things and drives them round, compelling them; for it is its nature to compel. It is the cause of the generation and of the destruction of life.",
+     "kind": "narration"
+    },
+    {
+     "entry": 213,
+     "who": "Hermes Reader",
+     "text": "The cosmos, then, is the first to possess providence, for it is the first to meet with it. Providence is spread out in heaven, because gods too turn and move about it, having a movement untiring and unceasing; and fate is there because necessity is there also. Providence provides, while fate is the cause of the disposition of the stars. This is the inescapable law by which all things have been set in order.",
+     "kind": "narration"
+    },
+    {
+     "entry": 214,
+     "who": "Hermes Reader",
+     "text": "Excerpt XV · Hermes, from the discourses to Ammon",
+     "kind": "narration"
+    },
+    {
+     "entry": 215,
+     "who": "Hermes Reader",
+     "text": "That which is moved is moved in accordance with the activity of the movement that moves the universe. For the nature of the universe supplies movements to the universe: one in accordance with its power, another in accordance with its activity. The one extends through the whole cosmos and holds it together from within; the other extends alongside it and encompasses it from without. And together they have made their way through all things.",
+     "kind": "narration"
+    },
+    {
+     "entry": 216,
+     "who": "Hermes Reader",
+     "text": "And nature, which makes all things that come to be grow, gives growth to the things that grow, sowing its own seeds, itself generation, and having matter that can be moved. And as matter is moved it grows warm, and it becomes fire and water, the one vigorous and strong, the other passive. And the fire, opposing the water, dried up part of the water, and earth came to be, borne upon the water. And as these were dried all round, a vapour arose from the three, from the water, the earth and the fire, and air came to be.",
+     "kind": "narration"
+    },
+    {
+     "entry": 217,
+     "who": "Hermes Reader",
+     "text": "These came together according to the ratio of harmony, hot with cold, dry with moist, and from the breathing-together of these there came to be",
+     "kind": "narration"
+    },
+    {
+     "entry": 218,
+     "who": "Hermes Reader",
+     "text": "spirit and seed, analogous to the encompassing spirit. This spirit, when it has fallen into the womb, does not rest within the seed; and since it does not rest, it transforms the seed; and the seed, being transformed, takes on growth and magnitude; and upon the magnitude it draws to itself an image of shape, and is shaped; and upon the shape there rides the form, through which whatever is fashioned as an image is so fashioned.",
+     "kind": "narration"
+    },
+    {
+     "entry": 219,
+     "who": "Hermes Reader",
+     "text": "Since, then, the spirit in the womb did not have the vital movement, but the vegetative one, harmony fitted this movement too into place, as being a receptacle of the life of discursive thought. This life is without parts and unchangeable, never departing from its unchangeableness. And that which is in the womb it brings to birth by numbers and delivers, and leads out into the outer air.",
+     "kind": "narration"
+    },
+    {
+     "entry": 220,
+     "who": "Hermes Reader",
+     "text": "And the soul that is nearest makes it its own, not by the affinity of kinship, but by that which accords with fate; for to be with a body is none of its loves. For this reason, in accordance with fate,",
+     "kind": "narration"
+    },
+    {
+     "entry": 221,
+     "who": "Hermes Reader",
+     "text": "it furnishes to that which has been born the movement of discursive thought and the intelligent essence of life itself. For it creeps into the spirit and moves it vitally.",
+     "kind": "narration"
+    },
+    {
+     "entry": 222,
+     "who": "Hermes Reader",
+     "text": "Excerpt XVI · Hermes, from the discourses to Ammon",
+     "kind": "narration"
+    },
+    {
+     "entry": 223,
+     "who": "Hermes Reader",
+     "text": "Soul, then, is an incorporeal essence; and even when it is in a body it does not step outside its own essentiality. For it is ever-moving by essence, self-moving by intellection, not moved in something, nor in relation to something, nor for the sake of something. For it is prior in power, and what is prior has no need of the things that come after.",
+     "kind": "narration"
+    },
+    {
+     "entry": 224,
+     "who": "Hermes Reader",
+     "text": "Now ‘that in which’ is place and time and nature; ‘that in relation to which’ is harmony and form and shape; and ‘that for the sake of which’ is the body.",
+     "kind": "narration"
+    },
+    {
+     "entry": 225,
+     "who": "Hermes Reader",
+     "text": "For it is for the sake of body that there are time and place and natural movement; and these have communion with one another by the affinity of kinship. Since, then, the body needed place, for it was impossible for a body to be constituted without place, and since it changes by natural movement, and it is impossible for there to be change without time and the movement that accords with nature, neither is it possible for there to be a constitution of body without harmony.",
+     "kind": "narration"
+    },
+    {
+     "entry": 226,
+     "who": "Hermes Reader",
+     "text": "Place, then, exists for the sake of the body; for by receiving the changes of the body it does not allow that which changes to perish. As it changes, it passes over from one thing into another, and is deprived of its state, but not of being a constituted body; and when it has been changed into another thing, it has the state of that other. For the body, as body, remains body, but its particular disposition does not remain. The body, then, changes in respect of its disposition.",
+     "kind": "narration"
+    },
+    {
+     "entry": 227,
+     "who": "Hermes Reader",
+     "text": "Incorporeal, then, are place and time and natural movement.",
+     "kind": "narration"
+    },
+    {
+     "entry": 228,
+     "who": "Hermes Reader",
+     "text": "Each of these has its own distinctive property. The property of place is reception; of time, interval and number; of nature, movement; of harmony, friendship; of body, change. And the property of soul is intellection in accordance with essence.",
+     "kind": "narration"
+    },
+    {
+     "entry": 229,
+     "who": "Hermes Reader",
+     "text": "Excerpt XVII · Of the same",
+     "kind": "narration"
+    },
+    {
+     "entry": 230,
+     "who": "Hermes Reader",
+     "text": "Soul, then, Ammon, is in the beginning a self-complete essence; and having chosen the life that accords with fate, it also drew to itself a reason like to matter,",
+     "kind": "narration"
+    },
+    {
+     "entry": 231,
+     "who": "Hermes Reader",
+     "text": "one that has a spirited part and desire. The spirited part exists as matter. If it forms a settled state in accord with the soul’s thought, it becomes courage, and is not led astray by cowardice. And desire offers itself. If it forms a settled state in accord with the soul’s reasoning, it becomes temperance, and is not moved by pleasure.",
+     "kind": "narration"
+    },
+    {
+     "entry": 232,
+     "who": "Hermes Reader",
+     "text": "For reasoning fills up what is lacking in desire. And when both are of one mind and form an equal state, and both hold fast to the soul’s reasoning, there comes to be justice; for their equal state takes away the excess of the spirited part and raises to equality what is lacking in desire.",
+     "kind": "narration"
+    },
+    {
+     "entry": 233,
+     "who": "Hermes Reader",
+     "text": "The principle of these is the essence of discursive thought, which is itself by itself in its own circumspective reason, and has its own reason as its sovereign power.",
+     "kind": "narration"
+    },
+    {
+     "entry": 234,
+     "who": "Hermes Reader",
+     "text": "The essence rules and leads as a ruler, and its reason as a counsellor.",
+     "kind": "narration"
+    },
+    {
+     "entry": 235,
+     "who": "Hermes Reader",
+     "text": "The circumspective reason of the essence, then, is knowledge of the reasonings that furnish to the irrational a likeness of reasoning: faint when set against reasoning, yet reasoning when set against the irrational, as an echo is to a voice and the brightness of the moon to the sun.",
+     "kind": "narration"
+    },
+    {
+     "entry": 236,
+     "who": "Hermes Reader",
+     "text": "The spirited part and desire are attuned to a certain reasoning, and they pull against one another, and they know within themselves a circular discursive thought.",
+     "kind": "narration"
+    },
+    {
+     "entry": 237,
+     "who": "Hermes Reader",
+     "text": "Excerpt XVIII",
+     "kind": "narration"
+    },
+    {
+     "entry": 238,
+     "who": "Hermes Reader",
+     "text": "There are, then, essence and reason and thought and discursive thought. It is borne towards the essence. And towards discursive thought are borne both opinion and sensation. Reason speeds towards the essence, and thought speeds through reason. And thought is interwoven with discursive thought; and passing through one another they became a single form, and this is the form of the soul. And opinion and sensation are borne towards its discursive thought. But these do not remain in the same state.",
+     "kind": "narration"
+    },
+    {
+     "entry": 239,
+     "who": "Hermes Reader",
+     "text": "Hence they both exceed and fall short, and are at variance with themselves. They become worse when they are torn away from discursive thought; but when they follow and obey, they share in the reason of thought through the sciences.",
+     "kind": "narration"
+    },
+    {
+     "entry": 240,
+     "who": "Hermes Reader",
+     "text": "And we have the power to choose; for to choose the better lies with us, and likewise also the worse, involuntarily; for a choice that clings to evil things draws near to bodily nature, and for this reason fate holds sway over the one who has so chosen.",
+     "kind": "narration"
+    },
+    {
+     "entry": 241,
+     "who": "Hermes Reader",
+     "text": "Since, then, the bodily essence in us is its own master, being the circumspective reason, and since this essence is always in the same condition and the same manner, for this reason fate does not lay hold of it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 242,
+     "who": "Hermes Reader",
+     "text": "But having set beside itself the reason of discursive thought, the first that comes from the first God, it sends forth also the whole reason that nature has appointed for the things that come to be; and soul, having entered into communion with these, shares also in their fate, though it has no part in the nature of the things that come to be.",
+     "kind": "narration"
+    },
+    {
+     "entry": 243,
+     "who": "Hermes Reader",
+     "text": "Excerpt XIX · Of the same",
+     "kind": "narration"
+    },
+    {
+     "entry": 244,
+     "who": "Hermes Reader",
+     "text": "Soul, then, is eternal, being intellective, and having its own reason as its thought. When it thinks in concert, it draws to itself the discursive thought of the harmony. But when it has been released from the natural body, it abides itself by itself, belonging to itself, in the intelligible cosmos. And it rules its own reason, bringing to that which comes into life a movement like the one in its own thought, a movement whose name is life.",
+     "kind": "narration"
+    },
+    {
+     "entry": 245,
+     "who": "Hermes Reader",
+     "text": "For this is proper to soul: to furnish to others what is like its own distinctive property.",
+     "kind": "narration"
+    },
+    {
+     "entry": 246,
+     "who": "Hermes Reader",
+     "text": "There are, then, two lives and two movements, one in accordance with essence, the other in accordance with the nature of body. The one is the more general, and that which accords with essence is its own master, while the other is under necessity; for everything that is moved is subject to the necessity of that which moves it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 247,
+     "who": "Hermes Reader",
+     "text": "And the movement that moves is bound by affinity to the love of the intellective essence. For soul must be an incorporeal essence that has no part in the natural body. For if it has a body, it has neither reason nor intellection. For every body is devoid of intellection; but when it has received a share of essence, it comes to be a living being with breath in it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 248,
+     "who": "Hermes Reader",
+     "text": "The spirit belongs to the body, but reason belongs to the essence and contemplates the beautiful, whereas the sensitive spirit is the judge of the things that appear. It is divided into the organic senses, and there is a part of it, of the nature of spirit, that sees, and one that hears, one that smells, one that tastes and one that touches. This spirit, when it rises and comes under discursive thought, judges what pertains to sense; if not, it only forms impressions.",
+     "kind": "narration"
+    },
+    {
+     "entry": 249,
+     "who": "Hermes Reader",
+     "text": "For it belongs to the body and is receptive of all things, whereas reason belongs to the essence and is that which has understanding. And with reason there coexists the knowledge of the things of worth, and with the spirit, opinion.",
+     "kind": "narration"
+    },
+    {
+     "entry": 250,
+     "who": "Hermes Reader",
+     "text": "For the spirit has its energy from the encompassing cosmos, but the essence has it from itself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 251,
+     "who": "Hermes Reader",
+     "text": "Excerpt XX · Hermes",
+     "kind": "narration"
+    },
+    {
+     "entry": 252,
+     "who": "Hermes Reader",
+     "text": "The soul, then, is an incorporeal essence; for if it has a body, it will no longer be able to preserve itself. For every body stands in need of being, and needs also life, the life that lies in order.",
+     "kind": "narration"
+    },
+    {
+     "entry": 253,
+     "who": "Hermes Reader",
+     "text": "For upon everything that has a coming-to-be, change too must follow; for what comes to be comes to be in magnitude, and in coming to be it has growth; and upon everything that grows there follows diminution, and upon diminution, destruction.",
+     "kind": "narration"
+    },
+    {
+     "entry": 254,
+     "who": "Hermes Reader",
+     "text": "But when it has received a share of the form of life, it lives, and has communion in being with the soul. And that which is the cause of being for another is itself being in the primary sense. By ‘being’ I mean here coming to be in reason and partaking of intelligent life. And it is the soul that furnishes intelligent life.",
+     "kind": "narration"
+    },
+    {
+     "entry": 255,
+     "who": "Hermes Reader",
+     "text": "It is called a living being because of life, rational because of intelligence, and mortal because of the body. Soul, therefore, is incorporeal, possessing a power that does not change. For how is it possible to speak of an intelligent living being, if there is no essence that also furnishes life? Nor indeed is it possible to call it rational, if there is no essence of discursive thought that also furnishes intelligent life.",
+     "kind": "narration"
+    },
+    {
+     "entry": 256,
+     "who": "Hermes Reader",
+     "text": "But intelligence does not arrive in all, because of the constitution of the body in relation to the harmony. For if the hot predominates in the constitution, a person becomes light and fervent; if the cold, heavy and sluggish. For nature fits the constitution of the body to the harmony.",
+     "kind": "narration"
+    },
+    {
+     "entry": 257,
+     "who": "Hermes Reader",
+     "text": "There are three forms of the harmony: that of the hot, that of the cold, and that of the mean; and nature fits it according to the star that has prevailed in the blending of the stars. And soul, taking it over just as it has been wrought, furnishes life to this work of nature.",
+     "kind": "narration"
+    },
+    {
+     "entry": 258,
+     "who": "Hermes Reader",
+     "text": "Nature, then, makes the harmony of the body like the blending of the stars, and unites the many mingled things in accord with the harmony of the stars, so that they have sympathy with one another. For the end of the harmony of the stars is to engender sympathy in accordance with their fate.",
+     "kind": "narration"
+    },
+    {
+     "entry": 259,
+     "who": "Hermes Reader",
+     "text": "Excerpt XXI · Hermes",
+     "kind": "narration"
+    },
+    {
+     "entry": 260,
+     "who": "Hermes Reader",
+     "text": "There is, then, that which pre-exists, set over all the things that are, and pre-existing the things that truly are. For it is being through which the essentiality that is called universal is common to the intelligibles that truly are and to the beings that are thought by themselves. And the things contrary to these, on the other side, are again themselves by themselves. Nature is a sensible essence, holding within itself all sensible things. Between these are the gods of thought and the sensible gods, the ones partaking of the intelligibles, the others objects of opinion, those that have communion with the gods of thought;",
+     "kind": "narration"
+    },
+    {
+     "entry": 261,
+     "who": "Hermes Reader",
+     "text": "and these are images of thoughts. The sun, for example, is an image of the heavenly craftsman God; for just as he crafted the whole, so the sun too crafts living beings and generates plants and presides over the spirits.",
+     "kind": "narration"
+    },
+    {
+     "entry": 262,
+     "who": "Hermes Reader",
+     "text": "Excerpt XXII · Hermes, from the Aphrodite",
+     "kind": "narration"
+    },
+    {
+     "entry": 263,
+     "who": "Hermes Reader",
+     "text": "I shall set out an account of why infants come to be like their parents, or are assigned to their kindred. When generation stores up seed from nourishing blood that is being secreted, it comes about somehow that there is breathed out from the limbs of the whole body a certain essence, by a divine energy, as though the same human being were coming to be. And it is likely that the same thing happens in the case of the woman also. When that which flows from the man prevails and remains undissolved, the infant will be shown to resemble the father, just as, conversely, in the same way it will resemble the mother. And if there is a prevailing of some one part, the infant is made like in that part. And there are times when, even across long generations, the infant matches the form of its begetter, that one’s decan bearing a relation to the hour in which the woman was conceiving.",
+     "kind": "narration"
+    },
+    {
+     "entry": 264,
+     "who": "Hermes Reader",
+     "text": "Excerpt XXIII · Hermes Trismegistus, from the holy book entitled Korē Kosmou",
+     "kind": "narration"
+    },
+    {
+     "entry": 265,
+     "who": "Hermes Reader",
+     "text": "Having said this, Isis first pours for Horus a sweet draught of ambrosia, which souls are accustomed to receive from the gods; and so Isis begins her most holy discourse.",
+     "kind": "narration"
+    },
+    {
+     "entry": 266,
+     "who": "Hermes Reader",
+     "text": "Since, my child Horus, the many-wreathed heaven lies over the whole nature of the things beneath, and is in no region deprived of any of the things which the entire cosmos now holds, it is altogether necessary that the whole underlying nature should have been set in order and filled by the things that lie above; for the things below surely have no power to set in order the array above. It is necessary, then, that the lesser yield to the greater mysteries; and the ordering of the things on high is greater than the things beneath, and is in every way secure, and does not fall under the discursive thought of mortals.",
+     "kind": "narration"
+    },
+    {
+     "entry": 267,
+     "who": "Hermes Reader",
+     "text": "Hence the things below groaned, being in fear before the surpassingly beautiful and everlasting permanence of the things lying above. For it was a thing worthy at once of contemplation and of anguish to see the beauty of heaven as it was flooded with light by the God still unknown, and the rich majesty of night, torch-lit with a light lesser than the sun’s yet keen, and the other mysteries moving each in its turn in heaven with ordered movements and periods of time, and through certain hidden effluences jointly ordering and jointly increasing the things below. And so there were fears one upon another, and searchings without end.",
+     "kind": "narration"
+    },
+    {
+     "entry": 268,
+     "who": "Hermes Reader",
+     "text": "And so long as the craftsman of all things was unwilling, ignorance held all things fast; but when he decided to reveal himself, who he is, he inspired the gods with yearnings, and bestowed upon their thoughts a radiance greater than that which they had in their breasts, so that they might first will to seek, then desire to find, and then also have power to succeed.",
+     "kind": "narration"
+    },
+    {
+     "entry": 269,
+     "who": "Hermes Reader",
+     "text": "But this, Horus, my child worthy of wonder, could not have come about in one of mortal seed, for as yet there was none, but in a soul that had sympathy with the mysteries of heaven. And such was Hermes, who came to know all things; who also saw the whole of things, and having seen understood, and having understood had the strength to reveal and to show. For what he had conceived he engraved, and having engraved it he hid it, keeping a safe silence about most things rather than speaking, so that every aeon later than the cosmos might seek these things.",
+     "kind": "narration"
+    },
+    {
+     "entry": 270,
+     "who": "Hermes Reader",
+     "text": "And he was going up to the stars to attend as a guard upon the gods his kindred; but he had as his successor Tat, at once his son and the inheritor of these teachings, and not long afterwards Asclepius Imouthes also, by the counsels of Pan and Hephaestus, and all the others who, by the will of Providence, the queen of all, were to inquire with faithful exactness into the heavenly doctrine.",
+     "kind": "narration"
+    },
+    {
+     "entry": 271,
+     "who": "Hermes Reader",
+     "text": "Hermes, then, pleaded in his defence before the encompassing expanse that he had not handed over the complete doctrine even to his son, because of the still youthful cast of his age: ‘But I, having come to the rising, beheld with the eyes that see all things something unseen among the things of the rising; and as I examined it, slowly indeed, yet there came at last the exact decision: to lay up the sacred symbols of the cosmic elements near the hidden things of Osiris, and, when I had prayed over them and had also spoken these words, to depart into heaven.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 272,
+     "who": "Hermes Reader",
+     "text": "But it is not fitting, my child, that I leave this report incomplete; I must tell all that Hermes uttered as he was laying down the books. For he spoke thus: ‘O holy books, which have been fashioned by my imperishable hands, which I have anointed with the drug of imperishability and hold in my power, remain undecayed through all aeons and imperishable through all times, becoming unseen and undiscoverable to everyone who shall traverse the plains of this earth, until aged heaven shall beget structures worthy of you, those which the craftsman named souls.’ Having said so much to the books, and having prayed over his own works, he is enshrined in his own zones.",
+     "kind": "narration"
+    },
+    {
+     "entry": 273,
+     "who": "Hermes Reader",
+     "text": "And the time between lay idle for long, and nature too was hidden, my child, and was barren, until those very ones who had already been commanded to go their rounds through heaven came before God, the king of all, and reported the stillness of the things that are, and that it was needful for the whole of things to be set in order, and that this was the work of no other than himself; and ‘We beg you’, they said, ‘to consider the things that now are and what they have need of hereafter.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 274,
+     "who": "Hermes Reader",
+     "text": "When they had said this God smiled, and said that Nature should be. And a female thing, all-beautiful, came forth from his voice, at the sight of which the gods were struck with amazement; and God the forefather honoured her with the name of Nature. And he commanded her to be generative.",
+     "kind": "narration"
+    },
+    {
+     "entry": 275,
+     "who": "Hermes Reader",
+     "text": "And this too he uttered, gazing intently into the encompassing expanse: ‘Let heaven be filled with all things, and air too and aether.’ God spoke, and it was.",
+     "kind": "narration"
+    },
+    {
+     "entry": 276,
+     "who": "Hermes Reader",
+     "text": "And Nature, having spoken with herself, knew that she must not disobey the father’s command; and",
+     "kind": "narration"
+    },
+    {
+     "entry": 277,
+     "who": "Hermes Reader",
+     "text": "coming together with Toil she produced a beautiful daughter, whom she called Invention. And upon her God bestowed being, and having bestowed it he separated the things that had already come to be, and filled them with mysteries, and upon Invention he bestowed the governance over them.",
+     "kind": "narration"
+    },
+    {
+     "entry": 278,
+     "who": "Hermes Reader",
+     "text": "But he himself, no longer wishing the cosmos beneath heaven to be idle, but having resolved to fill it with breaths, so that its several parts might not remain motionless and idle, accordingly began upon works of craft to this end, using substances suited to the accomplishment of his own work. For taking of his own breath as much as sufficed, and mingling this with intelligent fire, he blended it with certain other, unknown materials; and having united these, each with the other, with certain secret utterances, he then stirred the whole blend very thoroughly, until there smiled upon the mixture a certain matter finer and purer and more translucent than the things from which it arose; and it was transparent, and the craftsman alone could see it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 279,
+     "who": "Hermes Reader",
+     "text": "And since it neither melted when burned, as a thing made of fire, nor yet grew cold, as a thing brought to completion out of breath, but had the composition of its blend as something of a kind of its own and proper to itself, of its own type and its own compounding, God called this composition ensouling (psychōsis), both from the more auspicious name and from the activity that resembles it. From this crust, then, he brought to birth myriads of souls in sufficient number, moulding the bloom that rose from the blend itself to the purpose he wills, in good order and due proportion, with skill and the fitting reason, so that in nothing",
+     "kind": "narration"
+    },
+    {
+     "entry": 280,
+     "who": "Hermes Reader",
+     "text": "did they differ from one another save as was necessary, seeing that the bloom exhaled from God’s stirring was not like itself, but the first was greater and more complete than the second and in every way purer, and the second fell well short of the first but was far greater than the third, and so the whole number was made complete up to sixty grades; except that he laid it down by law and ordained that all should be eternal, as being from one substance, which he alone knew how to perfect. And for them he also marked out divisions and storehouses on high in the upper nature of heaven, that they might both whirl the cylinder round in a certain order and with fitting management, and delight the father.",
+     "kind": "narration"
+    },
+    {
+     "entry": 281,
+     "who": "Hermes Reader",
+     "text": "So then, in the surpassingly beautiful station of the aether, having also summoned the tribes of those that already were, he says: ‘O souls, fair children of my breath and of my care, whom I have brought to birth with my own hands and now consecrate to my cosmos, hearken to these words of mine as to laws, and touch no other place save the one appointed for you by my judgement. If, then, you hold steadfast, there abide for you heaven and, in turn, the reward and the constellation appointed, and thrones filled with virtue; but if you venture any innovation contrary to my counsels, I swear to you by the holy breath and by this blend from which I begot you, and by these my soul-making hands, that before long I will craft bonds and punishments for you.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 282,
+     "who": "Hermes Reader",
+     "text": "Having said so much, God, who is my lord also, mixed the remaining kindred elements, water and earth, and having likewise pronounced over them certain secret words, powerful indeed but not like the first, and having blended them well and breathed into them a life-giving inspiration, he took the crust that likewise floated upon the blend, once it had become well dyed and well set, and from this he moulded those of the living beings that are of human form;",
+     "kind": "narration"
+    },
+    {
+     "entry": 283,
+     "who": "Hermes Reader",
+     "text": "and the remainder of the mixture he gave to the souls that had already advanced, those souls that had been called up into the regions of the gods and the places near the stars, and renamed holy daemons, saying: ‘Mould, my children, offspring of my nature; receive the remains of my craftsmanship, and let each mould something resembling her own nature; and I will set these also before you as patterns.’ And taking it in hand, well and beautifully",
+     "kind": "narration"
+    },
+    {
+     "entry": 284,
+     "who": "Hermes Reader",
+     "text": "he arranged the zodiacal cosmos in concord with the movements of the souls, completing, in addition to the human-shaped among the signs of the zodiac, those that follow in order, the animal figures as it were; and he bestowed the powers that can work all things and an all-skilled spirit, generative of all things universally that were to exist for ever.",
+     "kind": "narration"
+    },
+    {
+     "entry": 285,
+     "who": "Hermes Reader",
+     "text": "And he withdrew, having promised to yoke to their visible works the invisible spirit, and to each an essence of like-begetting, so that each might of itself beget others like it, and that they themselves might no longer be under necessity to make anything other than what they had first wrought.",
+     "kind": "narration"
+    },
+    {
+     "entry": 286,
+     "who": "Hermes Reader",
+     "text": "— What then, mother, did the souls do?",
+     "kind": "narration"
+    },
+    {
+     "entry": 287,
+     "who": "Hermes Reader",
+     "text": "— And Isis said: Taking the blended portion of the matter, my child Horus, they first sought to understand it, and they worshipped the father’s blend, and inquired whence it had been compounded; but this was not easy for them to discover. Hence indeed, just because they had inquired, they were afraid that they might fall under the father’s wrath; and they turned to doing what had been commanded.",
+     "kind": "narration"
+    },
+    {
+     "entry": 288,
+     "who": "Hermes Reader",
+     "text": "So from the upper matter, which had its crust exceedingly light, they shaped in fair form the race of birds; and when, meanwhile, the blend had by now become half-set and had already taken its firm solidity, they moulded the race of four-footed creatures; and the race that is less light and requires another, moist substance in which to swim, that of the fishes. And as the remainder was cold and already tending downward, the souls devised as a new thing the nature of the creeping things.",
+     "kind": "narration"
+    },
+    {
+     "entry": 289,
+     "who": "Hermes Reader",
+     "text": "But these, my child, as though they had accomplished something, now armed themselves with a prying daring, and acted contrary to what had been ordained; and now they were going forth from their own divisions and storehouses; and they no longer wished to remain in one place, but were always in motion, and deemed it death to be any longer in a single abode.",
+     "kind": "narration"
+    },
+    {
+     "entry": 290,
+     "who": "Hermes Reader",
+     "text": "In this, then, my child, so Hermes says, as he told it to me also, they did not escape the notice of the lord and God of the universe in what they were doing; and he sought for them a punishment and a bond which they would wretchedly endure. And so it seemed good to the ruler and master of all to contrive a certain structure, that of human beings, so that in it the race of souls might be punished for all time.",
+     "kind": "narration"
+    },
+    {
+     "entry": 291,
+     "who": "Hermes Reader",
+     "text": "Then indeed, having summoned me, says Hermes, he said: ‘O soul of my soul and holy mind of my mind,",
+     "kind": "narration"
+    },
+    {
+     "entry": 292,
+     "who": "Hermes Reader",
+     "text": "‘how far is the nature of the things beneath to be seen sullen? How long are the things that have already come to be to remain idle and unpraised? But come, bring me now all the gods in heaven’, said God, my child, as Hermes says. And they came at the command. ‘Look down’, he said, ‘upon the earth and all the things on the ground.’ And they speedily both saw and understood what the sovereign wished, and when he spoke of the generation of human beings they agreed.",
+     "kind": "narration"
+    },
+    {
+     "entry": 293,
+     "who": "Hermes Reader",
+     "text": "As to what each one severally was able to provide for those who were about to come into being, the Sun said: ‘I will shine the more.’ The Moon promised to illuminate the course that comes after the Sun’s; and she said too that she had already borne Fear and Silence and Sleep, and that Memory which would be of no profit to them. Cronus announced that he was already father of Justice and Necessity. Zeus said: ‘So that the tribe that is to be may not utterly perish by wars, I have already begotten for them Fortune and Hope and Peace.’ Ares said that he was already father of Struggle and Wrath and Strife. Aphrodite did not delay, but said: ‘And I, master, will yoke to them Longing and Pleasure and Laughter, so that the kindred souls, enduring a most harsh condemnation, may not be punished beyond measure.’ He was delighted the more, my child, when Aphrodite said this.",
+     "kind": "narration"
+    },
+    {
+     "entry": 294,
+     "who": "Hermes Reader",
+     "text": "‘And I’, said Hermes, ‘will both make the nature of human beings and set beside them wisdom and temperance and persuasion and truth; and I will not cease to keep company with Invention, but will also benefit for ever the mortal life of the human beings born under my signs of the zodiac—for the signs which the father and craftsman dedicated to me are endowed with understanding and intelligence—and the more so when the movement of the stars that lies over them has the natural energy of each one in concord with it.’ God, the master of the cosmos, rejoiced on hearing this, and commanded that the tribe of human beings come into being.",
+     "kind": "narration"
+    },
+    {
+     "entry": 295,
+     "who": "Hermes Reader",
+     "text": "And I, says Hermes, was seeking for matter, what I ought to use. And I called upon the monarch; and he commanded the souls to give the remainder of the blend. And taking it I found it altogether dry. So I used far more water than was needed in the mixing, so as to make the composition of the matter fresh again, so that the thing moulded should be altogether slack and weak and powerless, lest in addition to being discerning it should also be filled with power. I moulded it; and it was beautiful, and I was delighted as I looked upon my work. And from below I called upon the monarch to behold it; and he both saw it and rejoiced, and commanded the souls to be embodied.",
+     "kind": "narration"
+    },
+    {
+     "entry": 296,
+     "who": "Hermes Reader",
+     "text": "And they then for the first time grew sullen, on learning that they were condemned; and so I marvelled also at the words of the souls.",
+     "kind": "narration"
+    },
+    {
+     "entry": 297,
+     "who": "Hermes Reader",
+     "text": "Give heed, my child Horus, for you are hearing a hidden doctrine, which the forefather Kamephis came to hear from Hermes, the recorder of all deeds, and I from Kamephis, elder than all, when he honoured me also with the perfect black; and now you yourself hear it from me.",
+     "kind": "narration"
+    },
+    {
+     "entry": 298,
+     "who": "Hermes Reader",
+     "text": "For when, wondrous child of great renown, they were about to be shut up in the bodies, some of them merely wailed and groaned; and it was in the very way in which, among the wild beasts that have come into being, the free ones, when by the designs of wicked men they are torn away as slaves from their accustomed and beloved wilderness, fight and rebel and are not of one mind with those who have mastered them, but will even, if they chance to prevail, hand over to death those who lay hands on them. And others hissed in the manner of ancient asps.",
+     "kind": "narration"
+    },
+    {
+     "entry": 299,
+     "who": "Hermes Reader",
+     "text": "And another, having shrieked shrilly, and wept much before she spoke, and many times turning upward and downward her eyes, such as they were, said: ‘O heaven, origin of our birth, and aether and air, and hands and holy breath of God the monarch, and you brilliant stars, eyes of the gods, and unwearied light of sun and moon, nurslings together with our origin: torn away from all of you we suffer wretchedly. And the more so, that from things great and bright, and from the holy effusion that lies around and the neighbouring vault, and from the blessed commonwealth with gods, we shall be shut up like this in dishonoured and lowly tents.",
+     "kind": "narration"
+    },
+    {
+     "entry": 300,
+     "who": "Hermes Reader",
+     "text": "‘What so unseemly thing has been done by us wretches? What is deserving of these punishments? What sins await us in our misery! What things we shall do because of our evil hopes, in order to supply the needs of the watery and swiftly dissolving body!",
+     "kind": "narration"
+    },
+    {
+     "entry": 301,
+     "who": "Hermes Reader",
+     "text": "‘Eyes will afford but scant room to souls that are no longer God’s; and seeing heaven, our own forefather, as something altogether small through the moisture within them and their little circles, we shall groan for ever. And there will be times when we shall not see at all; whence Orpheus says: “By what is bright we see; with our eyes we behold nothing.” For, wretches that we are, we have been condemned, and sight has not been granted us outright, because seeing was not given us apart from the light. These, then, are places, and eyes no longer. And how miserably shall we bear to hear our kindred breaths blowing in the air, because we do not breathe together with them! For a home, in place of this lofty cosmos, the small bulk of a heart awaits us.",
+     "kind": "narration"
+    },
+    {
+     "entry": 302,
+     "who": "Hermes Reader",
+     "text": "‘And he who sets us free for ever will make an end of our grieving over the things from which, and into what, we have come down. Master and father and maker, if you have so quickly ceased to care for your own works, appoint for us some limits. Deem us worthy still of words, however few, while we are yet able to see through the whole of the cosmos in its full brightness.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 303,
+     "who": "Hermes Reader",
+     "text": "The souls, my child Horus, gained their request when they had said this; for the monarch too was at hand, and, taking his seat upon the throne of truth, he spoke as follows to those who had made their petition:",
+     "kind": "narration"
+    },
+    {
+     "entry": 304,
+     "who": "Hermes Reader",
+     "text": "The words of God.",
+     "kind": "narration"
+    },
+    {
+     "entry": 305,
+     "who": "Hermes Reader",
+     "text": "‘Love and Necessity, souls, shall be your masters; for these, after me, are the masters and marshals of all things. And you souls, as many as serve my ageless sceptred rule, know that so long as you were without sin you dwelt in the regions of heaven; but if any blame shall come near any one of you, you too shall be condemned to dwell in mortal entrails, the place allotted to you.",
+     "kind": "narration"
+    },
+    {
+     "entry": 306,
+     "who": "Hermes Reader",
+     "text": "‘And if the charges against you are moderate, you shall leave behind the perishable bond of the flesh and once more, without a groan, greet your own heaven; but if you prove to be the doers of any greater sins, then, coming forth from your moulded frames without the fitting end, you shall dwell no longer in heaven, nor yet in the bodies of human beings, but shall thereafter go on wandering from one irrational animal to another.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 307,
+     "who": "Hermes Reader",
+     "text": "Having said this, my child Horus, he bestowed spirits upon them all, and spoke again: ‘Nor was it at random and as chance would have it that the changes of your state were laid down as law: as they will be for the worse if you do anything unseemly, so they will be for the better if you resolve on anything worthy of your own origin; for I myself, and no other, shall be the watcher and overseer. Recognise, then, that it is on account of the things you did before that you undergo this punishment, embodiment.",
+     "kind": "narration"
+    },
+    {
+     "entry": 308,
+     "who": "Hermes Reader",
+     "text": "‘The difference in your rebirth, then, will be, as I said, the difference of bodies, and dissolution will be a benefit and the happiness of former times; but your understanding will be blinded, if you see fit to do anything unworthy of me, so that you think the contrary, and endure the punishment as though it were a benefit, and the change to better things as a dishonour and an outrage. But the more just among you, who look to receive the change into the divine,",
+     "kind": "narration"
+    },
+    {
+     "entry": 309,
+     "who": "Hermes Reader",
+     "text": "‘on passing into human beings, will be just kings, genuine philosophers, founders and lawgivers, the true seers, genuine root-cutters, most excellent prophets of the gods, skilled musicians, intelligent astronomers, unerring augurs, exact sacrificers, and all who are of worth in any of the things fair and good. Passing into birds, they will be eagles, because these will neither drive off with their cries any of their own kind nor feast upon them, nor, moreover, will any other animal in their neighbourhood be left free to wrong one weaker than itself; for the nature of eagles, most just as it is, will exact vengeance. Passing into four-footed beasts, they will be lions; for the animal is strong, and has received a nature that is in a manner sleepless, and in a perishable body it exercises itself in the immortal nature; for they neither tire nor sleep. Passing into creeping things, they will be great serpents, because the animal is powerful and long-lived, and harmless too, and so friendly to humankind that some are even tamed; and it has no venom, and it grows young again even when it has grown old, as does the nature of the gods. And among swimming things, dolphins; for these will feel compassion even for those who fall into the open sea, and whoever still has breath they will carry through to land, while those who have died they never touch at all, although the race of water-dwellers is the most voracious of all.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 310,
+     "who": "Hermes Reader",
+     "text": "Having said so much, God becomes invisible mind.",
+     "kind": "narration"
+    },
+    {
+     "entry": 311,
+     "who": "Hermes Reader",
+     "text": "When these things had so come to pass, my child Horus, a most mighty spirit rises up from the earth, not to be comprehended in the compass of its body, and surpassing in the power of its understanding. This spirit, although it knew the things about which it was inquiring—it wore a body after the pattern of a man, one both comely and of solemn bearing, yet savage beyond measure and full of terror—this spirit, the moment it beheld the souls entering into the moulded frames, said: ‘What are these called, Hermes, recorder of the gods?’",
+     "kind": "narration"
+    },
+    {
+     "entry": 312,
+     "who": "Hermes Reader",
+     "text": "And when he said ‘Human beings’, it said: ‘Hermes, it is a daring work to have made the human being, a creature prying with his eyes and of chattering tongue, only too apt to listen even to what is none of his concern, greedy in his sense of smell, and bound to misuse to the utmost the grasping power of his touch. Have you resolved, author of generation, to leave him free of care, this one who is going to look daringly upon the fair mysteries of nature? Do you mean to let him go without grief, this one who will send forth his own designs even to the things beyond the earth?",
+     "kind": "narration"
+    },
+    {
+     "entry": 313,
+     "who": "Hermes Reader",
+     "text": "‘Human beings will dig up the roots of plants and will test the quality of their juices; they will scrutinise the natures of stones; and they will cut open down the middle those of the animals that are irrational—and not these only, but themselves as well, wishing to find out how they came to be. They stretch out daring hands even as far as the sea, and, felling the self-grown forests, they ferry one another across even to the lands beyond, in search also of what nature lies deeper within the sacred inner shrines. They will pursue things right up to the heights, wishing to observe what movement, then, is established there. Even this is moderate. For nothing is left any longer but the uttermost region of the earth; yet of these places too they will, by sheer willing, search out the uttermost night.",
+     "kind": "narration"
+    },
+    {
+     "entry": 314,
+     "who": "Hermes Reader",
+     "text": "‘Are these, then, to have no hindrance, but to be initiated into the good of truth and, not constrained by the harsh goads of fear, to luxuriate in a life free of care? Will not the human being then arm himself with a prying daring that reaches even to heaven? Will not these stretch out their souls, free of care, even to the elements? Teach them, therefore, to be in love with planning something, so that they may also have the hardship of failure to fear, so that they may be tamed by the bite of grief when they fail of the things they hoped for. Let the prying of their souls be cheated of its due by desires and fears and griefs and deceiving hopes. Let loves in close succession prey upon their souls, and manifold hopes, and desires that at one time attain their object and at another miss it, so that even the sweetness of success may be for them a bait drawing them on to contend with more complete evils. Let fever weigh upon them, so that, losing heart, they may chastise their desire.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 315,
+     "who": "Hermes Reader",
+     "text": "Are you grieved, my child Horus, as your mother expounds these things to you? Do you not marvel, are you not struck with dismay, at how the wretched human being was weighed down? Hear something more terrible still.",
+     "kind": "narration"
+    },
+    {
+     "entry": 316,
+     "who": "Hermes Reader",
+     "text": "Hermes was pleased as Momus said these things; for what was said was spoken in a manner congenial to him. And he set about doing all just as Momus had said, saying: ‘But, Momus, the nature of the divine spirit, that of the encompassing expanse, shall no longer lie idle. For the master of all things has declared that I am to be steward and to exercise providence. The keen-sighted goddess Adrasteia, then, shall be overseer of the things of earth, of the whole. And I will devise a hidden instrument, bound to an unerring and inviolable vision, to which all things on earth will of necessity be enslaved, from birth to final destruction, an instrument that holds fixed the outcome of all that is brought to pass; and all other things on earth too will obey this instrument.’ These things I said to Momus, said Hermes, and already the instrument was in motion.",
+     "kind": "narration"
+    },
+    {
+     "entry": 317,
+     "who": "Hermes Reader",
+     "text": "And when these things had come to pass, and the souls had been embodied, and he himself had won praise for what had been done,",
+     "kind": "narration"
+    },
+    {
+     "entry": 318,
+     "who": "Hermes Reader",
+     "text": "the monarch again convened an assembly of the gods in full session. And the gods came, and again he himself spoke thus, saying: ‘Gods, all you who have been given the highest nature, a nature that is imperishable too, you to whom it has fallen by lot to govern the great aeon for ever, you for whom all things, handing themselves on in turn one to another, will never grow weary: how long shall we be masters of this sovereignty that goes unrecognised? How long shall these things remain unbeheld by sun and moon? Let each of us beget for his own part. Let us by our power wipe away this structure that still lies idle. Let it seem to those born hereafter an incredible tale that there was chaos. Set your hands to great works, and I myself will be the first to begin.’ He spoke, and at once the still-black unity was parted in cosmic order; and",
+     "kind": "narration"
+    },
+    {
+     "entry": 319,
+     "who": "Hermes Reader",
+     "text": "heaven appeared above, arrayed with all its own mysteries; the earth, still quaking, grew firm when the sun shone out, and appeared with all the fair things arrayed about her. For to God even the things that mortals deem mean are fair, because they were made to serve the laws of God. And God rejoiced, seeing his works now in motion.",
+     "kind": "narration"
+    },
+    {
+     "entry": 320,
+     "who": "Hermes Reader",
+     "text": "And having filled his hands, which are of equal measure with the encompassing expanse, with the things that were to hand from nature, and having tightly clenched his fists, he said: ‘Take, holy earth, take, all-honoured one, you who are to be the mother of all things, and think yourself from now on to fall short in nothing.’ God spoke, and opening his hands—such hands as a god must have—he let everything go into the structure of the things that are.",
+     "kind": "narration"
+    },
+    {
+     "entry": 321,
+     "who": "Hermes Reader",
+     "text": "And at the beginning nothing whatever was known. For the souls, newly imprisoned and unable to bear their dishonour, vied with the gods in heaven; holding fast to their own noble birth and laying claim to it, on the ground that they too had had the same craftsman, they rose in revolt; and, using the lesser human beings as their instruments, they made them set upon one another, and range themselves against one another, and make war on each other. And so strength had great power over weakness, so that the strong both burned and slaughtered the powerless, and flung them down upon the holy places, some alive and others even dead, down into the inner shrines;",
+     "kind": "narration"
+    },
+    {
+     "entry": 322,
+     "who": "Hermes Reader",
+     "text": "until the elements, in their indignation, resolved to petition God the monarch concerning the savage way of life of human beings; and when the evil had now grown great, the elements approached the God who had made them and, by way of complaint, used words such as these.",
+     "kind": "narration"
+    },
+    {
+     "entry": 323,
+     "who": "Hermes Reader",
+     "text": "And indeed fire had leave to speak first, and said: ‘Master and craftsman of this new cosmos, name hidden among the gods and revered until now by all human beings, how long, O daemon, is it your purpose to leave the life of mortals godless?",
+     "kind": "narration"
+    },
+    {
+     "entry": 324,
+     "who": "Hermes Reader",
+     "text": "‘Rise now upon the cosmos that seeks your answer, and initiate the savagery of life into peace. Bestow laws upon life. Bestow oracles upon the night. Fill all things with fair hopes. Let human beings fear the vengeance that comes from the gods, and no one will sin. If they receive wages that match their sins, the rest will guard against doing wrong. They will fear oaths, and not one will any longer harbour an unholy thought. Let them learn to give thanks for the benefits they have received, so that I, the fire, rejoicing as I do my service at libations and at sacrifices, may send up to you fragrant vapours from the hearth. For until now, master, I rage, and by the godless daring of the human beings who have come into being I am forced to melt flesh. And they do not let me remain in that for which I was born, debasing in unfitting fashion what is imperishable.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 325,
+     "who": "Hermes Reader",
+     "text": "And air said: ‘I too am made turbid, master, and by the exhalation from dead bodies I am full of disease and no longer wholesome; and I look down from above upon such things as it is not lawful to see.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 326,
+     "who": "Hermes Reader",
+     "text": "Water next, my great-souled child, had leave to speak, and spoke thus: ‘Father and wondrous maker of all things, self-begotten daemon and maker of the nature that through you begets all things, now at last, O daemon, command that the streams of the rivers be always pure; for rivers and seas either wash clean those who have slain or receive those who have been slain.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 327,
+     "who": "Hermes Reader",
+     "text": "Earth stood by next in deep sorrow; and—I will give her her place in the order of the speeches, my child of great renown—she began to speak thus: ‘King, and ruler and master of the heavenly vaults, leader and father of us the elements who stand before you, from which all things have the beginning of their increase and of their diminution, and into which, coming to their close once more, they have of necessity the end that is owed: a troop without reason and without god, O most honoured one, presses upon me from humankind. And I hold the nature of all things as well; for I myself, as you commanded, both bear all things and receive what has been slain. But now I am dishonoured.",
+     "kind": "narration"
+    },
+    {
+     "entry": 328,
+     "who": "Hermes Reader",
+     "text": "‘You who are over all things, your earthly cosmos, full as it is, has no god. For, having nothing to fear, they transgress in everything; and upon my sinews, lord, they fall down by every wicked art, and I am drenched through and through with the juices of rotting bodies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 329,
+     "who": "Hermes Reader",
+     "text": "‘Hence, lord, I am forced to hold even the unworthy; I wish to hold, along with all that I bear, a god as well. Bestow upon the earth, if not yourself—for I cannot endure to hold you—some holy effluence of yourself. Make the earth over into something more honoured than the other elements; for she alone of the things that come from you has the right to make a boast, as the one who furnishes all things.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 330,
+     "who": "Hermes Reader",
+     "text": "So much the elements said; and God, filling all things with a holy voice as he spoke, said: ‘Go your ways, holy children, worthy of a great father, and in no way attempt to make any upheaval, nor leave my whole cosmos idle for want of the service that comes from you. For there is now among you another effluence of my nature, who shall indeed be a holy watcher of the deeds that are done, and of the living a judge who cannot be outwitted, and of those beneath the earth a ruler not only fearsome but avenging as well; and each human being shall be attended, down through his line, by the wage he deserves.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 331,
+     "who": "Hermes Reader",
+     "text": "And so the elements ceased from their petition at the master’s command, and held their peace; and each of them exercised rule and mastery in its own province.",
+     "kind": "narration"
+    },
+    {
+     "entry": 332,
+     "who": "Hermes Reader",
+     "text": "— And thereupon Horus said: Mother, how then did the earth have the good fortune to receive the effluence of God?",
+     "kind": "narration"
+    },
+    {
+     "entry": 333,
+     "who": "Hermes Reader",
+     "text": "— And Isis said: I decline to recount a birth; for it is not permitted to tell the origin of your begetting, mighty Horus, lest the birth of immortal gods should ever hereafter reach humankind; save only this, that God the monarch, the cosmos-maker and craftsman of all things, bestowed upon the earth for a little while your father, the most great Osiris, and the most great goddess Isis, that they might become helpers to the cosmos, which was in need of all things.",
+     "kind": "narration"
+    },
+    {
+     "entry": 334,
+     "who": "Hermes Reader",
+     "text": "It was they who filled life with life. They put an end to the savagery of mutual slaughter. They themselves consecrated precincts and sacrifices to the ancestral gods; they bestowed on mortals laws and food and shelter.",
+     "kind": "narration"
+    },
+    {
+     "entry": 335,
+     "who": "Hermes Reader",
+     "text": "‘They’, says Hermes, ‘will come to know all the hidden things of my writings and will distinguish them; and some they will keep to themselves, but those which bear upon benefits for mortals they will engrave on stelae and obelisks.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 336,
+     "who": "Hermes Reader",
+     "text": "They were the first to institute courts of law, and they filled all things with good order and justice.",
+     "kind": "narration"
+    },
+    {
+     "entry": 337,
+     "who": "Hermes Reader",
+     "text": "They, becoming the founders of the pledged right hand and of good faith, also brought into life the most great god, Oath. They taught how those who have ceased to live should be wrapped for burial as is right.",
+     "kind": "narration"
+    },
+    {
+     "entry": 338,
+     "who": "Hermes Reader",
+     "text": "They, having sought the cause of death, came to know that the breath from without is prone to return into the moulded frames of human beings, and that, if ever it fails to come, it brings about a swoon that admits of no recovery.",
+     "kind": "narration"
+    },
+    {
+     "entry": 339,
+     "who": "Hermes Reader",
+     "text": "They, having learned from Hermes that the encompassing expanse was filled with daemons, engraved it on hidden stelae.",
+     "kind": "narration"
+    },
+    {
+     "entry": 340,
+     "who": "Hermes Reader",
+     "text": "They alone, having learned from Hermes the hidden ordinances of God, became for human beings the introducers of all arts and sciences and pursuits, and their lawgivers.",
+     "kind": "narration"
+    },
+    {
+     "entry": 341,
+     "who": "Hermes Reader",
+     "text": "They, having learned from Hermes that the things below were appointed by the craftsman to be in sympathy with the things above, set up on earth the sacred rites that answer, as on a plumb-line, to the mysteries in heaven.",
+     "kind": "narration"
+    },
+    {
+     "entry": 342,
+     "who": "Hermes Reader",
+     "text": "They, recognising the perishableness of bodies, devised the perfection in all things of the prophets, so that the prophet who is to lay his hands upon the gods should never be ignorant of anything that is, in order that by philosophy and magic he may nourish the soul, and by medicine preserve the body whenever it suffers anything.",
+     "kind": "narration"
+    },
+    {
+     "entry": 343,
+     "who": "Hermes Reader",
+     "text": "Having done all these things, my child, Osiris and I, seeing the cosmos filled to the full, were thereafter claimed back by those who dwell in heaven. But it was not possible to ascend before we had called upon the monarch, so that the encompassing expanse too might become full of this doctrine, and we ourselves, readily received, might have a prosperous ascent. For God delights in hymns.",
+     "kind": "narration"
+    },
+    {
+     "entry": 344,
+     "who": "Hermes Reader",
+     "text": "— Mother, said Horus, grant to me also the knowledge of the hymn, that I may not be unlearned.",
+     "kind": "narration"
+    },
+    {
+     "entry": 345,
+     "who": "Hermes Reader",
+     "text": "— And Isis said: Give heed, my child.",
+     "kind": "narration"
+    },
+    {
+     "entry": 346,
+     "who": "Hermes Reader",
+     "text": "Excerpt XXIV · In the same book",
+     "kind": "narration"
+    },
+    {
+     "entry": 347,
+     "who": "Hermes Reader",
+     "text": "But you, my great-souled child, if you wish for anything further, ask.",
+     "kind": "narration"
+    },
+    {
+     "entry": 348,
+     "who": "Hermes Reader",
+     "text": "— And Horus said: Most honoured mother, I wish to know how kingly souls come to be.",
+     "kind": "narration"
+    },
+    {
+     "entry": 349,
+     "who": "Hermes Reader",
+     "text": "— And Isis said: The difference that arises, my child Horus, in the case of kingly souls is something of this kind. For there are four places in the universe, which fall under an inviolable law and governance: heaven, the aether, the air, and the most holy earth. Above, my child, in heaven dwell gods, over whom, as over all the rest as well, the craftsman of all things rules; in the aether dwell stars, over whom rules the great luminary, the sun; in the air, souls alone, over whom the moon rules; and upon the earth, human beings and the other living beings, over whom rules he who is king at the time; for the gods, my child, beget kings worthy of the sovereignty on earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 350,
+     "who": "Hermes Reader",
+     "text": "And the rulers are effluences of the king, and whichever of them is nearer to him is also more kingly than the others. For the sun, inasmuch as it is nearer to God, is greater and more powerful than the moon; and the moon holds second place to it both in rank and in power.",
+     "kind": "narration"
+    },
+    {
+     "entry": 351,
+     "who": "Hermes Reader",
+     "text": "And the king is the last of the other gods, but the first of human beings. So long as he is upon earth he is removed from true divinity, yet he has something exceptional beyond human beings, which is like God; for the soul sent down into him is from that region which lies above those from which souls are sent down into other human beings.",
+     "kind": "narration"
+    },
+    {
+     "entry": 352,
+     "who": "Hermes Reader",
+     "text": "Souls are sent down from there to reign, my child, for these two reasons. Those that have run the course of their own lifetime nobly and blamelessly, and are about to be made gods, are sent so that in reigning also they may be trained beforehand for the authority of the gods; and those that are already in some sort divine, and have in some small matter transgressed the divinely inspired rule, are sent so that they may not undergo punishment in their embodiment through disrepute and through their nature, and may suffer nothing like the other souls on being embodied, but may possess, even when bound, that which they possessed when unbound.",
+     "kind": "narration"
+    },
+    {
+     "entry": 353,
+     "who": "Hermes Reader",
+     "text": "The differences, however, that arise in the characters of those who reign are not determined by the nature of the soul, for all are divine, but by that of the angels and daemons who attended its descent as a bodyguard. For souls of such a kind, coming down for such ends, do not come down without escort and bodyguard; for the justice on high knows how to assign to each its due, even though they are thrust out of the land of happiness.",
+     "kind": "narration"
+    },
+    {
+     "entry": 354,
+     "who": "Hermes Reader",
+     "text": "When, therefore, the angels and daemons who bring the soul down are warlike, my child Horus, the soul has to keep fast hold of their cast of mind, having forgotten its own works and remembering only those, down to the last, that have accrued to it from its sacred escort; when they are peaceable, then the soul too makes its own course one of peace; when they are judicial, then it too gives judgement; when they are musical, then it too sings; when they are lovers of truth, then it too philosophises. For these souls, as by necessity, keep fast hold of the cast of mind of those who bring them down; for they fall into humanity having forgotten their own nature, and the more so as they have withdrawn far from it, but remembering the disposition of those who shut them in.",
+     "kind": "narration"
+    },
+    {
+     "entry": 355,
+     "who": "Hermes Reader",
+     "text": "— Well have you told me everything, mother, said Horus; but how noble souls come to be you have not yet related to me.",
+     "kind": "narration"
+    },
+    {
+     "entry": 356,
+     "who": "Hermes Reader",
+     "text": "How noble souls come to be.",
+     "kind": "narration"
+    },
+    {
+     "entry": 357,
+     "who": "Hermes Reader",
+     "text": "— Just as upon earth, my child Horus, there are certain polities differing from one another, so it is also with souls. For they too have places from which they set out, and the soul that has set out from the more glorious place is nobler than one not so circumstanced. For just as among human beings the free man is held to be nobler than the slave—since that which is superior and kingly in souls of necessity enslaves that which is inferior—so indeed, my child, also * * *",
+     "kind": "narration"
+    },
+    {
+     "entry": 358,
+     "who": "Hermes Reader",
+     "text": "— Do souls come to be male and female?",
+     "kind": "narration"
+    },
+    {
+     "entry": 359,
+     "who": "Hermes Reader",
+     "text": "How souls come to be male and female.",
+     "kind": "narration"
+    },
+    {
+     "entry": 360,
+     "who": "Hermes Reader",
+     "text": "— Souls, my child Horus, are of one nature with one another, inasmuch as they are from one region, in which the craftsman shaped them, and they are neither male nor female. For such a condition arises in bodies, and not in incorporeal things.",
+     "kind": "narration"
+    },
+    {
+     "entry": 361,
+     "who": "Hermes Reader",
+     "text": "The difference by which some are fiercer and others soft lies in the air, my child Horus, in which all things come to be; and the air of a soul is the very body in which it is wrapped, which is a kneaded mass of elements, of earth and water and air and fire. Since, then, the compound of females has an excess of the moist and cold but falls short in the dry and hot, for this reason the soul shut up in such a moulded frame becomes moist through and through and delicate, just as in males one may find the opposite; for in them the dry and the hot are in excess, while the cold and moist are deficient, and for this reason the souls in such bodies are rough and more given to work.",
+     "kind": "narration"
+    },
+    {
+     "entry": 362,
+     "who": "Hermes Reader",
+     "text": "— How do souls come to be discerning, mother?",
+     "kind": "narration"
+    },
+    {
+     "entry": 363,
+     "who": "Hermes Reader",
+     "text": "— And Isis answered:",
+     "kind": "narration"
+    },
+    {
+     "entry": 364,
+     "who": "Hermes Reader",
+     "text": "How souls come to be discerning.",
+     "kind": "narration"
+    },
+    {
+     "entry": 365,
+     "who": "Hermes Reader",
+     "text": "The organ of sight, my child, is wrapped in coats. When these coats are dense and thick, the eye sees dimly; but if they are rare and fine, then it sees most keenly. So it is with the soul also; for it too has coverings of its own, incorporeal, inasmuch as it is itself incorporeal. And these coverings are of the air that is in us. When they are fine and rare and transparent, then the soul is discerning; but when, on the contrary, they are dense and thick and turbid, then, as in stormy weather, it does not see far, but only those things that lie at its feet.",
+     "kind": "narration"
+    },
+    {
+     "entry": 366,
+     "who": "Hermes Reader",
+     "text": "— And Horus said: For what reason then, mother, are the people outside our most holy land not so discerning in their thought as our own people?",
+     "kind": "narration"
+    },
+    {
+     "entry": 367,
+     "who": "Hermes Reader",
+     "text": "— And Isis said: The earth lies in the middle of the universe on its back, like a human being, looking towards heaven. And it is divided into as many parts as a human being is divided into; and it gazes into heaven as upon its own father, so that with the changes of heaven it too may change what is its own. It has its head lying towards the south of the universe, its right shoulder towards the east, its feet beneath the Bear, the left beneath the head of the Bear, its thighs in the regions that come after the Bear, and its middle parts in the middle regions.",
+     "kind": "narration"
+    },
+    {
+     "entry": 368,
+     "who": "Hermes Reader",
+     "text": "And a sign of this is that those of humankind who are southern and dwell upon the crown of the head have well-formed heads and fine hair; that the easterners are ready for battle and are archers, for the right hand is the cause of this in them; that those in the west are steady and for the most part fight left-handed, and whatever others perform with the right side, they do by applying the left; and that those beneath the Bear are in some respect distinguished in their feet, and have well-formed legs besides. As for those who come after these and a little farther off, the clime that is now the Italian and the Greek, all these have fine thighs and are more amply bearded, so that through the surpassing beauty of these parts the people there even descend to intercourse with males.",
+     "kind": "narration"
+    },
+    {
+     "entry": 369,
+     "who": "Hermes Reader",
+     "text": "Now all these parts, being sluggish in every other respect, have also produced the people who come from them more sluggish. But since the most holy land of our ancestors lies in the middle of the earth, and the middle of the human body is the sanctuary of the heart alone, and the heart is the soul’s base of operations, for this reason, my child, the people here, while they have all other things no less than all the rest, are as a special distinction more gifted in mind than all and are temperate, as having been born and reared upon the heart.",
+     "kind": "narration"
+    },
+    {
+     "entry": 370,
+     "who": "Hermes Reader",
+     "text": "Moreover, the south, my child, being receptive of the clouds that are formed out of the encompassing atmosphere (for instance, it is because the clouds thus produced are carried down there that our own river also is said to flow from that quarter, the frost being melted there)—and wherever a cloud descends, it darkens the air beneath it with mist and fills it, in a manner, with smoke; and smoke or mist is a hindrance not only to the eyes but also to the mind. The east, Horus of great renown, being disturbed and heated through by the nearness of the sun’s rising, and likewise the west that lies opposite to it, sharing the same conditions at the sun’s setting, produce no clear attentiveness in the people born in them; and the north, by its inborn cold, congeals along with their bodies the mind also of the people beneath it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 371,
+     "who": "Hermes Reader",
+     "text": "But the middle of these, being clear and undisturbed, excels both in itself and in all who are in it; for by its unbroken freedom from care it begets and adorns and educates; and it alone contends with so many and prevails, and, knowing its own victory, like a good satrap it even bestows gifts upon the vanquished.",
+     "kind": "narration"
+    },
+    {
+     "entry": 372,
+     "who": "Hermes Reader",
+     "text": "— Set this also before me, lady mother: for what reason, while people are still alive, in long illnesses their speech and their very reasoning and their very soul are sometimes impaired.",
+     "kind": "narration"
+    },
+    {
+     "entry": 373,
+     "who": "Hermes Reader",
+     "text": "— And Isis answered: Of living beings, my child, some have an affinity with fire, some with water, some with air, some with earth, some with two or three of these, and some with them all; and again, some are estranged from fire, some from water, some from earth, some from air, some from two of these, some from three, and some from all.",
+     "kind": "narration"
+    },
+    {
+     "entry": 374,
+     "who": "Hermes Reader",
+     "text": "For example, the locust, my child, and every fly shuns fire; the eagle and the falcon and all the higher-flying birds shun water; fish shun air and earth; the snake turns away from pure air. On the other hand, snakes and all creeping things love earth; all things that move love water; winged things love air, in which they also pass their lives; and fire is loved by all that fly exceedingly high and have their dwelling near it. What is more, some animals too love fire, such as salamanders; for they even make their lairs in fire.",
+     "kind": "narration"
+    },
+    {
+     "entry": 375,
+     "who": "Hermes Reader",
+     "text": "For each of the elements is a wrapping of bodies. Every soul, therefore, while it is in the body, is weighed down and oppressed by these four. And indeed it is likely that the soul too takes delight in some of them and is vexed by others. For this reason, then, it does not have here its highest happiness, but, as being divine by nature, even while it is among these it struggles; and it thinks, but not all that it would have thought were it not bound to a body. If, however, the body too is seized by tossing and disturbance, whether from disease or from fear, then the soul itself, like a human being in the deep, is tossed upon the waves, and is swept along offering no resistance.",
+     "kind": "narration"
+    },
+    {
+     "entry": 376,
+     "who": "Hermes Reader",
+     "text": "Excerpt XXV · Hermes: a discourse of Isis to Horus",
+     "kind": "narration"
+    },
+    {
+     "entry": 377,
+     "who": "Hermes Reader",
+     "text": "Wonderfully, said Horus, have you related each thing to me, Isis, my mother of great power, concerning God’s wonderful making of souls, and I continue in wonder; but you have not yet reported to me where souls go when they have been released from bodies. I wish, therefore, when I have become an initiate of this doctrine also, to give thanks to you alone, immortal mother.",
+     "kind": "narration"
+    },
+    {
+     "entry": 378,
+     "who": "Hermes Reader",
+     "text": "— And Isis said: Give heed, my child; for this inquiry is most necessary. That which holds together and does not vanish has a place.",
+     "kind": "narration"
+    },
+    {
+     "entry": 379,
+     "who": "Hermes Reader",
+     "text": "But this is what my account will say.",
+     "kind": "narration"
+    },
+    {
+     "entry": 380,
+     "who": "Hermes Reader",
+     "text": "Where souls abide when they have been released from bodies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 381,
+     "who": "Hermes Reader",
+     "text": "For it is not the case, wondrous one, great child of the great father Osiris, that when they have come forth from bodies they are poured out into the air without distinction and in a rush, and scattered along with the rest of the boundless breath, and are then no longer able to run back again into bodies as the same souls, nor yet able any longer to return to that place from which they came at first—just as it is not possible either for the water taken from the vessels below to be poured back into the same places from which it was taken, nor does the water itself, the moment it is taken and poured out, receive its own proper place, but it is mingled with the whole mass of water.",
+     "kind": "narration"
+    },
+    {
+     "entry": 382,
+     "who": "Hermes Reader",
+     "text": "But it is not so, high-minded Horus. Being myself, as it were, an initiate of the immortal nature, and having journeyed through the plain of truth, I will go through for you the things that are, each in detail, telling you this first: that water is an irrational body, compounded out of many things pressed together into a fluid, whereas the soul is a thing of a nature all its own, my child, and kingly, and a work of the hands and mind of God, guided by its own self towards mind. Now that which is from one and not from many cannot be mingled with another thing; hence its coming together with the body also, a harmony of God, must have come about under necessity.",
+     "kind": "narration"
+    },
+    {
+     "entry": 383,
+     "who": "Hermes Reader",
+     "text": "And that souls are sent up neither to one and the same place in a confused mass, nor at random and haphazardly, but each to its own proper region, is evident even from what the soul undergoes while it is still in the body and the moulded frame; for it suffers, having been made gross contrary to its own nature.",
+     "kind": "narration"
+    },
+    {
+     "entry": 384,
+     "who": "Hermes Reader",
+     "text": "But attend also, much longed-for Horus, to the comparison I am about to give. Suppose that there have been shut up in one and the same enclosure human beings, and eagles and doves and swans and hawks and swallows and sparrows and flies, and snakes, and lions and leopards and wolves and dogs and hares and oxen and sheep, and some of the animals that share in both ways of life, such as seals and otters and turtles and our own crocodiles; and then, my child, that they are released from the enclosure at one single moment.",
+     "kind": "narration"
+    },
+    {
+     "entry": 385,
+     "who": "Hermes Reader",
+     "text": "Will not the human beings assuredly turn to market-places and houses, the eagle to the aether, where it is its nature to live, the doves to the air nearby, and the hawks above these? Will not the swallows go wherever human beings dwell, the sparrows about the fruit-bearing trees, the swans where they are free to sing, and the flies about the earth itself, keeping as far from it as they are able to rise on the scent of human beings? For the fly, my child, is in a special way greedy for human beings, and keeps low to the ground. Will not the lions and leopards go to the mountains, the wolves to the wilds, the dogs on the track of human beings, the hares to the thickets, the oxen to steadings and plains, and the flocks to the pastures? And the snakes into the recesses of the earth? And the seals and turtles, with their like, into deep waters and streams, so that they may neither be deprived of level ground nor be left without their kindred water, each being turned back to its own proper region by the power of judgement within it?",
+     "kind": "narration"
+    },
+    {
+     "entry": 386,
+     "who": "Hermes Reader",
+     "text": "So each soul, both that which lives as a human being and that which otherwise dwells upon earth, knows where it must go—unless indeed one of Typhon’s brood, my child, should come forward and say that it is possible for a bull to live out its life in the deep and a turtle in the air. If, then, souls are so affected while immersed in flesh and blood, so as to do nothing contrary to order even though they are being punished—for embodiment is a punishment for them—how much more when they have had their share of immersion and punishment and have come into their own freedom?",
+     "kind": "narration"
+    },
+    {
+     "entry": 387,
+     "who": "Hermes Reader",
+     "text": "The most holy arrangement is as follows. Now at last, my child of noblest nature, look upward and behold the arrangements of souls. The space from the summit of heaven down to the moon is set apart for gods and stars and the rest of providence; but the space from the moon down to us, my child, is the dwelling-place of souls.",
+     "kind": "narration"
+    },
+    {
+     "entry": 388,
+     "who": "Hermes Reader",
+     "text": "This great expanse of air, however, which it is our custom to call wind, has within itself a path, an extent of its own in which it moves for the refreshing of the things on earth; of this too I will speak later. Yet in no way does it, in moving upon itself, become a hindrance to souls; for while it is in motion souls are free to dart up and to dart down, as it may chance, without obstruction. For they flow through it without mingling and without adhering, as water through oil.",
+     "kind": "narration"
+    },
+    {
+     "entry": 389,
+     "who": "Hermes Reader",
+     "text": "This interval, my child Horus, consists of four general divisions and of sixty particular regions. Of these divisions, the one that extends upward from the earth consists of four regions, so that the earth, in certain hills and mountain ridges, stretches up and reaches thus far; for above this division it is not in its nature to rise in height. The second after this consists of eight regions, in which the movements of winds take place. Give heed, my child; for you are hearing ineffable mysteries of earth and of heaven and of all the holy breath between. Where the movement of the wind is, there too is the flight of birds; for above this division neither does the air move nor does it bear up a living being. This air, however, has from nature this prerogative, that it ranges about both in its own eight regions and in the four of the earth, together with the living beings that it holds, whereas the earth is not able to mount up into the regions of the air.",
+     "kind": "narration"
+    },
+    {
+     "entry": 390,
+     "who": "Hermes Reader",
+     "text": "The third consists of sixteen regions, and is full of fine and pure air. The fourth consists of thirty-two, in which the air is finest and most unmixed and transparent, marking off at its own boundary the heavens above, which are fiery by nature.",
+     "kind": "narration"
+    },
+    {
+     "entry": 391,
+     "who": "Hermes Reader",
+     "text": "And this arrangement runs in a straight line from above downward, by nature without adhesion, so that there are four general divisions, twelve divisions by interval, and sixty regions. In these regions, sixty in number, the souls dwell, each according to the nature that it has, being of one and the same constitution but not, however, of the same honour; for by as much as each of the regions surpasses another in distance from the earth, by so much also, among the souls in them, does one leave another behind in eminence, my child: region and soul alike.",
+     "kind": "narration"
+    },
+    {
+     "entry": 392,
+     "who": "Hermes Reader",
+     "text": "Which souls, then, depart to each of these regions I will now begin again to recount to you from this point, Horus of great renown, taking the order from above down to the parts near the earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 393,
+     "who": "Hermes Reader",
+     "text": "Excerpt XXVI",
+     "kind": "narration"
+    },
+    {
+     "entry": 394,
+     "who": "Hermes Reader",
+     "text": "The space between earth and heaven has been divided into regions, my child Horus, according to measure and harmony. These regions are called by our ancestors, by some ‘zones’, by others ‘firmaments’, and by others again ‘folds’. In them move to and fro both the souls that have been released from bodies and those that have not yet been embodied. And each of these, my child, has a region too according to its dignity, so that the divine and kingly souls dwell in the region above all the rest, while those that are least in honour, and all the others that keep low to the ground, dwell in the region beneath all the rest, and the middle souls in the middle region.",
+     "kind": "narration"
+    },
+    {
+     "entry": 395,
+     "who": "Hermes Reader",
+     "text": "Now the souls that are sent down to rule, my child Horus, are sent down from the upper zones; and when they are released they go up to the same zones or even higher still, unless some of them should yet have acted against the dignity of their own nature and the injunction of the divine law; for these the providence above banishes to the lower regions in the measure of their sins, just as it also leads up those that are inferior in power and dignity from lower regions to greater and higher ones.",
+     "kind": "narration"
+    },
+    {
+     "entry": 396,
+     "who": "Hermes Reader",
+     "text": "For there are on high those who are the bodyguards of universal providence, of whom one is the steward of souls and the other the conductor of souls; and the steward of souls has charge of souls, while the conductor of souls is the dispatcher and marshal of the souls that are being embodied; and the one keeps them, the other sends them forth, according to the will of God.",
+     "kind": "narration"
+    },
+    {
+     "entry": 397,
+     "who": "Hermes Reader",
+     "text": "By this account, then, my child, and in keeping with the diversity of things above, nature too is upon earth, for she is a moulder, and a tent-maker of the vessels into which the souls are cast. And two energies stand beside her also, memory and skill. Memory has this as its work, that nature may preserve and hold fast to each type laid down from the beginning, and may keep to the pattern above; and skill has this, that the moulded frame too may be wrought and come to be in proportion to each of the souls that descend to be embodied, and that for the quick among souls the bodies too may turn out quick, for the slow slow, for the active active, for the sluggish sluggish, for the powerful powerful, for the crafty crafty, and in a word for each as is fitting.",
+     "kind": "narration"
+    },
+    {
+     "entry": 398,
+     "who": "Hermes Reader",
+     "text": "For it was not without aim that she feathered the winged creatures, and adorned the rational ones with senses superior and more exact, and of the four-footed strengthened some with horns, some with teeth, some with claws and hooves. The creeping things she made soft, with supple and yielding bodies; and so that they might not remain utterly weak through the moistness of their body, she palisaded the mouths of some with teeth, and upon others, by increasing their bulk, she bestowed power. Thus these, through wariness of death, are stronger than the rest; while to the swimming creatures, being timid, she granted to dwell in an element in which light has strength to exert neither of the powers it possesses; for in water fire neither shines nor burns; and each of them, swimming in the water with scales or with spines, flees wherever it will, wrapped in its own timidity and having the water as a covering so that it is not seen.",
+     "kind": "narration"
+    },
+    {
+     "entry": 399,
+     "who": "Hermes Reader",
+     "text": "For into each of these bodies the souls are shut up according to likeness, so that into human beings go the souls endowed with judgement; into winged creatures those that shun humankind; into four-footed creatures those without judgement, for among them strength is law; into creeping things the crafty, for none of them comes against human beings face to face, but lies in ambush and strikes them down; and into the swimming creatures the timid, and all that are unworthy to enjoy the other elements.",
+     "kind": "narration"
+    },
+    {
+     "entry": 400,
+     "who": "Hermes Reader",
+     "text": "It does happen, however, that in each kind one finds a living being that does not make use of its own nature.",
+     "kind": "narration"
+    },
+    {
+     "entry": 401,
+     "who": "Hermes Reader",
+     "text": "— How so again, mother? said Horus.",
+     "kind": "narration"
+    },
+    {
+     "entry": 402,
+     "who": "Hermes Reader",
+     "text": "— And Isis answered: In such a way, my child, that a human being oversteps the faculty of judgement, a four-footed creature turns aside from necessity, a creeping thing loses its craftiness, a swimming creature scorns its timidity, and a winged creature falls away from its shunning of humankind.",
+     "kind": "narration"
+    },
+    {
+     "entry": 403,
+     "who": "Hermes Reader",
+     "text": "So much, then, concerning the disposition of the things above, their descent, and the making of bodies.",
+     "kind": "narration"
+    },
+    {
+     "entry": 404,
+     "who": "Hermes Reader",
+     "text": "It comes about, my child, that in each form and kind of the creatures in question certain kingly souls are found, and that others too come down of differing sorts, some fiery, some cold, some haughty, some gentle, some of the artisan’s kind, some skilled, some unskilled, some idle, some active, and some differing in some other way. This comes about by reason of the position of the places from which the souls leap down to be embodied. For some leap down from a kingly belt, the soul that reigns being of like affection with it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 405,
+     "who": "Hermes Reader",
+     "text": "For there are many kingships: some are of souls, some of bodies, some of art, some of science, and some of themselves.",
+     "kind": "narration"
+    },
+    {
+     "entry": 406,
+     "who": "Hermes Reader",
+     "text": "— How again, said Horus, ‘of themselves’ also?",
+     "kind": "narration"
+    },
+    {
+     "entry": 407,
+     "who": "Hermes Reader",
+     "text": "— For example, my child Horus, of the souls of those already departed Osiris your father is king; of bodies, the leader of each nation; of counsel, the father of all and guide, Hermes Trismegistus; of medicine, Asclepius the son of Hephaestus; of might and strength, again Osiris, and after him, my child, you yourself; of philosophy, Harnebeschenis; of poetry, again Asclepius Imouthes. For in general, my child, you will find, if you inquire, many who rule over many things and many who reign over many.",
+     "kind": "narration"
+    },
+    {
+     "entry": 408,
+     "who": "Hermes Reader",
+     "text": "But he who holds sway over all, my child, is from the uppermost region, while he who holds sway over particular things has received that more kingly rank which belongs to the place from which he comes.",
+     "kind": "narration"
+    },
+    {
+     "entry": 409,
+     "who": "Hermes Reader",
+     "text": "* * * belt for their lot, become workers of fire and of nourishment; those from a moist belt pass their lives in what is moist; those from a belt of science and art are occupied with sciences and arts; those from an idle belt live out their lives idly and aimlessly. For of all the things on earth, my child, that are done through word and deed, the sources are above, pouring their essences upon us by measure and weight, and there is nothing that has not come down from above.",
+     "kind": "narration"
+    },
+    {
+     "entry": 410,
+     "who": "Hermes Reader",
+     "text": "And it goes up again to the place from which it came down.",
+     "kind": "narration"
+    },
+    {
+     "entry": 411,
+     "who": "Hermes Reader",
+     "text": "— How do you mean this again, mother? Show me by an example.",
+     "kind": "narration"
+    },
+    {
+     "entry": 412,
+     "who": "Hermes Reader",
+     "text": "— And Isis answered again: Most holy nature has set in living beings this clear sign of the return. For this breath which we draw from above out of the air, this we send up again to the place from which we took it. And there are in us, my child, bellows that are the artisans of this working; and when these have closed their mouths that receive the breath, then we are no longer here, but have ascended.",
+     "kind": "narration"
+    },
+    {
+     "entry": 413,
+     "who": "Hermes Reader",
+     "text": "There come to us in addition, my child of great renown, certain other things from the balance of the kneaded mass.",
+     "kind": "narration"
+    },
+    {
+     "entry": 414,
+     "who": "Hermes Reader",
+     "text": "— And what is this kneaded mass, mother? said Horus.",
+     "kind": "narration"
+    },
+    {
+     "entry": 415,
+     "who": "Hermes Reader",
+     "text": "— It is a coming together and blending of the four elements, and from this blending and coming together a certain vapour is exhaled, which wraps itself around the soul and runs through the body, imparting to both, that is to the body and to the soul, something of its own quality; and in this way arise the differences in the alterations of soul and of body.",
+     "kind": "narration"
+    },
+    {
+     "entry": 416,
+     "who": "Hermes Reader",
+     "text": "For if in the framing of the body fire is in excess, then the soul, being hot by nature and having taken on a further heat, becomes more fiery and makes the living being more active and spirited, and the body quick and nimble.",
+     "kind": "narration"
+    },
+    {
+     "entry": 417,
+     "who": "Hermes Reader",
+     "text": "If air is in excess, then the living being becomes light and given to leaping and unsteady, both in soul and in body.",
+     "kind": "narration"
+    },
+    {
+     "entry": 418,
+     "who": "Hermes Reader",
+     "text": "If water is in excess, then the living being becomes in soul easy-flowing and of good natural gifts and ready to spread itself around, and well able to fall in with others and cleave to them, because of the uniting and sociable character of water towards other things; for it settles upon all things, and when it is much it dissolves them into itself and encloses them, while when it is little and has sunk in, it becomes that with which it was mixed. The bodies, however, by reason of their flabbiness and sponginess are not drawn together into compactness, but at some slight occasion of disease they come apart, and little by little fall away from their own bond.",
+     "kind": "narration"
+    },
+    {
+     "entry": 419,
+     "who": "Hermes Reader",
+     "text": "If the earthy element is in excess, then the soul of the living being becomes dull, since it does not have the looseness of the body’s texture lying open to it, nor anything through which it may leap forth, the organs of sense having been thickened; rather it remains within, by itself, fettered by weight and density; and the body is solid, but sluggish and heavy, and is shifted by the will only with an effort.",
+     "kind": "narration"
+    },
+    {
+     "entry": 420,
+     "who": "Hermes Reader",
+     "text": "But if the state of all the elements is well proportioned, then the living being is constituted hot for action, light for movement, well tempered for touch, and sturdy in its solidity.",
+     "kind": "narration"
+    },
+    {
+     "entry": 421,
+     "who": "Hermes Reader",
+     "text": "According to this account, then, all those that have partaken of more fire and breath have been made into birds, and they have their life as citizens above, among those elements from which they also came to be.",
+     "kind": "narration"
+    },
+    {
+     "entry": 422,
+     "who": "Hermes Reader",
+     "text": "Those that have partaken of more fire, but of little breath, and of water and earth in equal measure, have been made into human beings; and for this living being the surplus of heat has been turned into understanding. For the mind in us is a hot thing, which does not know how to burn, but penetrates through all things and has knowledge of them.",
+     "kind": "narration"
+    },
+    {
+     "entry": 423,
+     "who": "Hermes Reader",
+     "text": "Those that have partaken of more water and of more earth, of a moderate measure of breath and of little fire, have been made into beasts; and by the presence of heat they have become more valiant than the others.",
+     "kind": "narration"
+    },
+    {
+     "entry": 424,
+     "who": "Hermes Reader",
+     "text": "Those that have partaken of earth and water in equal amounts have been made into creeping things; and by the lack of fire they have become without daring and without openness, by their share in water they became cold, by their share in earth heavy and sluggish, and by their share in breath easily moved, if they choose to move.",
+     "kind": "narration"
+    },
+    {
+     "entry": 425,
+     "who": "Hermes Reader",
+     "text": "Those that have partaken of more of the moist and of little of the dry have been made into fish; and by the lack of heat and of air they are timid and given to diving down, while by the abundance of the moist and the presence of the earthy they dwell, through kinship, in dissolved earth and in water.",
+     "kind": "narration"
+    },
+    {
+     "entry": 426,
+     "who": "Hermes Reader",
+     "text": "And in proportion to the share of each element and the extent of that share the bodies also grow to their stature, and in proportion to smallness of measure the remaining living beings have received their measure, according to the energy of the measure of essence that belongs to each of the elements.",
+     "kind": "narration"
+    },
+    {
+     "entry": 427,
+     "who": "Hermes Reader",
+     "text": "And I say further, my much longed-for child, that, arising from this constitution so formed, the blending that took place at the first coming together and the vapour exhaled from it, so long as it keeps its own quality, so that the hot takes on no further heat, nor the airy element further breath, nor the moist further moisture, nor the earthy further density, so long the living being is in health. For whenever it does not remain thus, my child, in the measures which it had from the beginning, but comes to exceed them—I do not mean in the energy that concerns extent, nor in that change of the kind and of the bodies which comes about through growth, but in the constitutive blending of the elements of which we spoke before—so that the hot is increased too much or diminished too much, and the others likewise, then the living being is thereby sick.",
+     "kind": "narration"
+    },
+    {
+     "entry": 428,
+     "who": "Hermes Reader",
+     "text": "For when the hot and the airy, which are the tent-fellows of the soul, are in this condition, then the living being falls into wandering speech and fits of derangement. For the elements through which bodies are destroyed have been made dense.",
+     "kind": "narration"
+    },
+    {
+     "entry": 429,
+     "who": "Hermes Reader",
+     "text": "For the earthy element is itself the solidity of the body, the moist is the suffusion within it that makes for compactness, the airy is that in us which gives movement, and fire is what rouses all of these.",
+     "kind": "narration"
+    },
+    {
+     "entry": 430,
+     "who": "Hermes Reader",
+     "text": "So then the vapour that arises from the first coming together and blending of the elements, being as it were a kindling and an exhalation, of whatever kind it may be, when it is mingled with the soul draws the soul to itself, according to whatever nature it has, whether good or not.",
+     "kind": "narration"
+    },
+    {
+     "entry": 431,
+     "who": "Hermes Reader",
+     "text": "For so long as the soul abides in its original kinship and companionship with the vapour, it preserves its order; but when there is added from without, either to the whole compound or to parts or a part of it, some portion greater than what was laid down at first, then the vapour too, being altered thereby, alters either the disposition of the soul or that of the body.",
+     "kind": "narration"
+    },
+    {
+     "entry": 432,
+     "who": "Hermes Reader",
+     "text": "For fire and breath, being borne upward, run up to the soul, which shares their region, while the moist and the earthy, being borne downward, settle upon the body, which shares their seat.",
+     "kind": "narration"
+    },
+    {
+     "entry": 433,
+     "who": "Hermes Reader",
+     "text": "Excerpt XXVII · Hermes, from the discourse of Isis to Horus",
+     "kind": "narration"
+    },
+    {
+     "entry": 434,
+     "who": "Hermes Reader",
+     "text": "For a refutation, when it has been recognised, greatest king, brings the one refuted to a desire for the things he did not know before.",
+     "kind": "narration"
+    },
+    {
+     "entry": 435,
+     "who": "Hermes Reader",
+     "text": "Excerpt XXVIII",
+     "kind": "narration"
+    },
+    {
+     "entry": 436,
+     "who": "Hermes Reader",
+     "text": "Thales, when asked what is the oldest of the things that are, answered: ‘God, for he is unbegotten.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 437,
+     "who": "Hermes Reader",
+     "text": "Socrates, when asked what God is, said: ‘That which is immortal and eternal.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 438,
+     "who": "Hermes Reader",
+     "text": "Hermes, when asked what God is, said: ‘The craftsman of the universe, a mind most wise and eternal.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 439,
+     "who": "Hermes Reader",
+     "text": "Excerpt XXIX · Of Hermes",
+     "kind": "narration"
+    },
+    {
+     "entry": 440,
+     "who": "Hermes Reader",
+     "text": "Seven far-wandering stars circle upon the threshold of Olympus, and with them the aeon for ever goes its round: the Moon who shines by night, sullen Cronus, the sweet Sun, the Paphian who bears the bridal bower, bold Ares, well-winged Hermes, and Zeus, first author of birth, from whom nature has sprung. These same have had the race of mortals allotted to them, and there are in us. Moon, Zeus, Ares, the Paphian, Kronos, Sun, Hermes. Therefore it is our portion to draw from the aetherial breath. tears, laughter, wrath, birth, reason, sleep, desire. Tears are Kronos, Zeus is birth, reason is Hermes, anger is Ares, the Moon is sleep, Cytherea is desire, and the Sun is laughter; for through him, rightly, all mortal thought laughs, and the boundless cosmos too.",
+     "kind": "narration"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "key": "hermes-emerald-tablet",
+ "title": "The Emerald Tablet",
+ "author": "Hermes Trismegistus",
+ "translator": "After Evelyn-White (Loeb)",
+ "parts": [
+  {
+   "name": "The Emerald Tablet of Hermes Trismegistus",
+   "lines": [
+    {
+     "entry": 0,
+     "who": "Hermes Reader",
+     "text": "The Emerald Tablet of Hermes Trismegistus",
+     "kind": "heading"
+    },
+    {
+     "entry": 1,
+     "who": "Hermes Reader",
+     "text": "A compact and cryptic Hermetic text, traditionally attributed to the legendary sage Hermes Trismegistus — \"thrice-greatest Hermes\" — and reputed to contain, in a few sentences, the secret of the prima materia and the doctrine of correspondence between the macrocosm and the microcosm: as above, so below. The earliest known versions are Arabic recensions from the 8th–10th centuries CE, which entered Europe by Latin translation in the twelfth century and became foundational to Western alchemy, Hermetic philosophy, and the Neoplatonic revival. Six historic renderings are gathered here.",
+     "kind": "narration"
+    },
+    {
+     "entry": 2,
+     "who": "Hermes Reader",
+     "text": "I. Tabula Smaragdina — The Latin Vulgate",
+     "kind": "narration"
+    },
+    {
+     "entry": 3,
+     "who": "Hermes Reader",
+     "text": "Verum sine mendacio, certum, et verissimum: quod est inferius, est sicut quod est superius; et quod est superius, est sicut quod est inferius, ad perpetranda miracula rei unius.",
+     "kind": "narration"
+    },
+    {
+     "entry": 4,
+     "who": "Hermes Reader",
+     "text": "Et sicut res omnes fuerunt ab uno, meditatione unius, sic omnes res natae ab hac una re, adaptatione.",
+     "kind": "narration"
+    },
+    {
+     "entry": 5,
+     "who": "Hermes Reader",
+     "text": "Pater eius est Sol, mater eius est Luna. Portavit illud ventus in ventre suo. Nutrix eius terra est. Pater omnis telesmi totius mundi est hic. Vis eius integra est, si versa fuerit in terram.",
+     "kind": "narration"
+    },
+    {
+     "entry": 6,
+     "who": "Hermes Reader",
+     "text": "Separabis terram ab igne, subtile ab spisso, suaviter cum magno ingenio. Ascendit a terra in coelum, iterumque descendit in terram, et recipit vim superiorum et inferiorum.",
+     "kind": "narration"
+    },
+    {
+     "entry": 7,
+     "who": "Hermes Reader",
+     "text": "Sic habebis gloriam totius mundi. Ideo fugiet a te omnis obscuritas. Haec est totius fortitudinis fortitudo fortis, quia vincet omnem rem subtilem, omnemque solidam penetrabit.",
+     "kind": "narration"
+    },
+    {
+     "entry": 8,
+     "who": "Hermes Reader",
+     "text": "Sic mundus creatus est. Hinc erunt adaptationes mirabiles, quarum modus hic est. Itaque vocatus sum Hermes Trismegistus, habens tres partes philosophiae totius mundi.",
+     "kind": "narration"
+    },
+    {
+     "entry": 9,
+     "who": "Hermes Reader",
+     "text": "Completum est, quod dixi de operatione Solis.",
+     "kind": "narration"
+    },
+    {
+     "entry": 10,
+     "who": "Hermes Reader",
+     "text": "II. Twelfth-Century Latin — from the Kitab Sirr al-Asrar tradition",
+     "kind": "narration"
+    },
+    {
+     "entry": 11,
+     "who": "Hermes Reader",
+     "text": "When I entered into the cave, I received the tablet from between the hands of Hermes, on which I discovered these words:",
+     "kind": "narration"
+    },
+    {
+     "entry": 12,
+     "who": "Hermes Reader",
+     "text": "True, without falsehood, certain, most certain.",
+     "kind": "narration"
+    },
+    {
+     "entry": 13,
+     "who": "Hermes Reader",
+     "text": "What is above is like what is below, and what is below is like what is above, to make the miracle of the one thing. And as all things were made from the contemplation of one, so all things were born from one, by adaptation.",
+     "kind": "narration"
+    },
+    {
+     "entry": 14,
+     "who": "Hermes Reader",
+     "text": "Its father is the Sun, its mother is the Moon. The wind carried it in its womb; the earth nourished it. It is the father of every completed thing in the whole world. Its strength is intact if it be turned toward the earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 15,
+     "who": "Hermes Reader",
+     "text": "Separate the earth from the fire, the subtle from the gross, gently and with great skill. It ascends from the earth into the heaven, and again descends into the earth, and receives the power of things above and things below.",
+     "kind": "narration"
+    },
+    {
+     "entry": 16,
+     "who": "Hermes Reader",
+     "text": "Thus you shall have the glory of the whole world, and all darkness shall flee from you. This is the strong fortitude of all fortitude, for it overcomes every subtle thing and penetrates every solid.",
+     "kind": "narration"
+    },
+    {
+     "entry": 17,
+     "who": "Hermes Reader",
+     "text": "Thus was the world created. Hence come marvellous adaptations, whereof this is the manner. Therefore am I called Hermes Trismegistus, having the three parts of the philosophy of the whole world.",
+     "kind": "narration"
+    },
+    {
+     "entry": 18,
+     "who": "Hermes Reader",
+     "text": "That which I have said of the operation of the Sun is accomplished and ended.",
+     "kind": "narration"
+    },
+    {
+     "entry": 19,
+     "who": "Hermes Reader",
+     "text": "III. From the Arabic of Jabir ibn Hayyan — trans. E. J. Holmyard, 1923",
+     "kind": "narration"
+    },
+    {
+     "entry": 20,
+     "who": "Hermes Reader",
+     "text": "Balinas mentions the engraving on the tablet in the hand of Hermes, which says:",
+     "kind": "narration"
+    },
+    {
+     "entry": 21,
+     "who": "Hermes Reader",
+     "text": "Truth! Certainty! That in which there is no doubt!",
+     "kind": "narration"
+    },
+    {
+     "entry": 22,
+     "who": "Hermes Reader",
+     "text": "That which is above is from that which is below, and that which is below is from that which is above, working the miracles of one. As all things were from one.",
+     "kind": "narration"
+    },
+    {
+     "entry": 23,
+     "who": "Hermes Reader",
+     "text": "Its father is the Sun, and its mother the Moon. The Earth carried it in her belly, and the Wind nourished it in her belly, as Earth which shall become Fire.",
+     "kind": "narration"
+    },
+    {
+     "entry": 24,
+     "who": "Hermes Reader",
+     "text": "Feed the Earth from that which is subtle, with the greatest power. It ascends from the earth to the heaven and becomes ruler over that which is above and that which is below.",
+     "kind": "narration"
+    },
+    {
+     "entry": 25,
+     "who": "Hermes Reader",
+     "text": "And I have already explained the meaning of the whole of this in two of these books of mine.",
+     "kind": "narration"
+    },
+    {
+     "entry": 26,
+     "who": "Hermes Reader",
+     "text": "IV. Isaac Newton — c. 1680, from his alchemical papers (Cambridge); original orthography preserved",
+     "kind": "narration"
+    },
+    {
+     "entry": 27,
+     "who": "Hermes Reader",
+     "text": "Tis true without lying, certain & most true. That wch is below is like that wch is above & that wch is above is like yt wch is below to do ye miracles of one only thing.",
+     "kind": "narration"
+    },
+    {
+     "entry": 28,
+     "who": "Hermes Reader",
+     "text": "And as all things have been & arose from one by ye mediation of one: so all things have their birth from this one thing by adaptation. The Sun is its father, the moon its mother, the wind hath carried it in its belly, the earth its nourse. The father of all perfection in ye whole world is here. Its force or power is entire if it be converted into earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 29,
+     "who": "Hermes Reader",
+     "text": "Seperate thou ye earth from ye fire, ye subtile from the gross sweetly wth great indoustry. It ascends from ye earth to ye heaven & again it desends to ye earth and receives ye force of things superior & inferior. By this means you shall have ye glory of ye whole world & thereby all obscurity shall fly from you.",
+     "kind": "narration"
+    },
+    {
+     "entry": 30,
+     "who": "Hermes Reader",
+     "text": "Its force is above all force. ffor it vanquishes every subtile thing & penetrates every solid thing. So was ye world created. From this are & do come admirable adaptaions whereof ye means (or process) is here in this.",
+     "kind": "narration"
+    },
+    {
+     "entry": 31,
+     "who": "Hermes Reader",
+     "text": "Hence I am called Hermes Trismegist, having the three parts of ye philosophy of ye whole world. That wch I have said of ye operation of ye Sun is accomplished & ended.",
+     "kind": "narration"
+    },
+    {
+     "entry": 32,
+     "who": "Hermes Reader",
+     "text": "V. Thomas Taylor — 1816, from Proclus's Theology of Plato, Book VII",
+     "kind": "narration"
+    },
+    {
+     "entry": 33,
+     "who": "Hermes Reader",
+     "text": "It is true without a lie, certain, and most true, that what is beneath is like that which is above, and what is above is like that which is beneath, for the purpose of accomplishing the miracle of one thing. And as all things were from one through the mediation of one, so all things were generated from this thing by adoption.",
+     "kind": "narration"
+    },
+    {
+     "entry": 34,
+     "who": "Hermes Reader",
+     "text": "The sun is its father, and the moon its mother. The wind carried it in its belly. The earth is its nurse. This is the father of all the perfection of the whole world. Its power is entire when it is converted into earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 35,
+     "who": "Hermes Reader",
+     "text": "You must separate the earth from the fire, the subtil from the thick, sweetly with great genius. It ascends from earth to heaven, and again descends to the earth, and receives the power of things superior and inferior.",
+     "kind": "narration"
+    },
+    {
+     "entry": 36,
+     "who": "Hermes Reader",
+     "text": "Thus you will have the glory of the whole world, and thus all obscurity will fly from you. This is the strong fortitude of all fortitude, because it vanquishes every subtile thing, and penetrates all solid substances.",
+     "kind": "narration"
+    },
+    {
+     "entry": 37,
+     "who": "Hermes Reader",
+     "text": "Thus the world was fabricated. Hence admirable adoptions will take place, of which this is the mode. I am therefore called Hermes Trismegistus, possessing three parts of the philosophy of the whole world.",
+     "kind": "narration"
+    },
+    {
+     "entry": 38,
+     "who": "Hermes Reader",
+     "text": "That which I have said concerning the work of the sun is complete.",
+     "kind": "narration"
+    },
+    {
+     "entry": 39,
+     "who": "Hermes Reader",
+     "text": "VI. Madame Blavatsky — from Isis Unveiled, 1877",
+     "kind": "narration"
+    },
+    {
+     "entry": 40,
+     "who": "Hermes Reader",
+     "text": "Tradition declares that on the dead body of Hermes, at Hebron, was found by an Isarim, an initiate, the tablet known as the Smaragdine. It contains, in a few sentences, the essence of the Hermetic wisdom. To those who read but with their bodily eyes, the precepts will suggest nothing new or extraordinary, for it merely begins by saying that it speaks not fictitious things, but that which is true and most certain.",
+     "kind": "narration"
+    },
+    {
+     "entry": 41,
+     "who": "Hermes Reader",
+     "text": "What is below is like that which is above, and what is above is similar to that which is below, to accomplish the wonders of the one thing. As all things were produced by the mediation of one being, so all things were produced from this one by adaption.",
+     "kind": "narration"
+    },
+    {
+     "entry": 42,
+     "who": "Hermes Reader",
+     "text": "Its father is the sun, its mother the moon. It is the cause of all perfection throughout the whole earth. Its power is perfect if it is changed into earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 43,
+     "who": "Hermes Reader",
+     "text": "Separate the earth from the fire, the subtile from the gross, acting prudently and with judgement. Ascend with the greatest sagacity from earth to heaven, and unite together the power of things inferior and superior; thus you will possess the light of the whole world, and all obscurity will fly away from you.",
+     "kind": "narration"
+    },
+    {
+     "entry": 44,
+     "who": "Hermes Reader",
+     "text": "This thing has more fortitude than fortitude itself, because it will overcome every subtile thing and penetrate every solid thing. By it the world was formed.",
+     "kind": "narration"
+    }
+   ]
+  }
+ ],
+ "credit": "translated after Hugh G. Evelyn-White"
+}

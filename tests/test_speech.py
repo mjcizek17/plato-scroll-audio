@@ -12,6 +12,8 @@ import notes as N  # noqa: E402
 from script import printed_starts  # noqa: E402
 
 CASES = [
+    ("Arabic recensions from the 8th–10th centuries CE, which", "Arabic recensions from the eighth to tenth centuries CE, which"),
+    ("Synesius of Cyrene (c. 370–c. 413), the", "Synesius of Cyrene (circa three hundred and seventy to circa four hundred and thirteen), the"),
     # figures and dates
     ("The time of the dialogue is 129 B.C., just after.", "The time of the dialogue is one hundred and twenty-nine B C., just after."),
     ("Laelius, born in 186 B.C., was consul in 140.", "Laelius, born in one hundred and eighty-six B C., was consul in one hundred and forty."),

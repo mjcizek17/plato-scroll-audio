@@ -374,6 +374,14 @@ def say(word, prev="", nxt=""):
         a, b = _number_words(m.group(2), ""), _number_words(m.group(4), "")
         if a and b:
             return ([m.group(1)] if m.group(1) else []) + a + ["to"] + b
+    m = re.match(r"^(\d+)(?:st|nd|rd|th)[–‑-](\d+)(?:st|nd|rd|th)$", core)   # "8th–10th centuries"
+    if m:
+        return ordinal(int(m.group(1))) + ["to"] + ordinal(int(m.group(2)))
+    m = re.match(r"^(\d+)[–‑-](c|ca)\.?$", core)   # "c. 370–c. 413": the second circa is joined to the range
+    if m:
+        a = _number_words(m.group(1), "")
+        if a:
+            return a + ["to", "circa"]
     m = re.match(r"^(\d+)([×+=−])(\d+)$", core)
     if m:
         return cardinal(int(m.group(1))) + SYMBOLS[m.group(2)].split() + cardinal(int(m.group(3)))
@@ -403,7 +411,7 @@ def spoken(word, prev="", nxt=""):
         return []
     said = list(said)
     # the full stop of an abbreviation is not a sentence end unless a capital follows
-    abbrev = core in ABBREV or core.lower() in ABBREV or core in DATE_ABBREV or said == ["circa"] or (ROMAN.match(core) and NUMBERED.match(prev or ""))
+    abbrev = core in ABBREV or core.lower() in ABBREV or core in DATE_ABBREV or said == ["circa"] or said[-1:] == ["circa"] or (ROMAN.match(core) and NUMBERED.match(prev or ""))
     title = core in ("St", "Mt", "Dr", "Mr", "Mrs", "Prof", "Rev", "Hon", "Esq")
     n0 = re.sub(r"^[(\[\"“]*", "", nxt or "")
     continues = not re.match(r"^[A-Z“\"(]", nxt or "") or ROMAN.match(re.sub(r"[^A-Z]", "", n0)[:6] or "-") or re.match(r"^\d", n0) or n0.split(".")[0] in ERA or n0 in ERA

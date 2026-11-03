@@ -1,0 +1,685 @@
+{
+ "key": "hermes-asclepius",
+ "title": "Asclepius",
+ "author": "Hermes Trismegistus",
+ "translator": "Claude AI",
+ "parts": [
+  {
+   "name": "Asclepius",
+   "lines": [
+    {
+     "entry": 0,
+     "who": "Hermes Reader",
+     "text": "Asclepius",
+     "kind": "heading"
+    },
+    {
+     "entry": 1,
+     "who": "Hermes Reader",
+     "text": "Translated from the Latin in the order the manuscripts transmit it, with the chapter numbering of the standard editions (1–41); Scott’s edition (Oxford, 1924), which transposes and emends freely, has been consulted but not followed. The numbers in braces are the chapters.",
+     "kind": "narration"
+    },
+    {
+     "entry": 2,
+     "who": "Hermes Reader",
+     "text": "God, Asclepius, God has brought you to us so that you might be present at a divine discourse, and one of such a kind that it justly seems more divine in its reverent piety than all those that we have made before, or that have been breathed into us by divine power. If you look upon it with understanding, you will be filled to the full, in your whole mind, with all goods; if indeed there are many goods, and not one good in which all are. For the one is recognised to be consistent with the other: that all things belong to one, or that one is all things; for the two are so bound together that neither can be separated from the other. But this you will come to know, by careful attention, from the discourse that is to come.",
+     "kind": "narration"
+    },
+    {
+     "entry": 3,
+     "who": "Hermes Reader",
+     "text": "But you, Asclepius, step outside for a moment and call Tat to be present with us. When he had come in, Asclepius suggested that Hammon too should be present. Trismegistus said: ‘No grudging keeps Hammon away from us; indeed we remember that many things have been written by us and addressed to his name, just as many works on nature, and very many exoteric ones, have been addressed to Tat, my most loving and dearest son. This treatise, however, I shall write under your name. Call no one else besides Hammon, lest a most reverent discourse on so great a matter be profaned by the entrance and presence of many. For it is the mark of an irreverent mind to make public, by the knowledge of many, a treatise filled to the full with the whole majesty of divine power.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 4,
+     "who": "Hermes Reader",
+     "text": "When Hammon too had entered the sanctuary, and that holy place had been filled with the reverence of the four men and with the divine presence of God, and while, in fitting and reverent silence, the souls and minds of each hung upon the lips of Hermes, the divine Love began to speak thus.",
+     "kind": "narration"
+    },
+    {
+     "entry": 5,
+     "who": "Hermes Reader",
+     "text": "Asclepius, every human soul is immortal; yet not all in the same way, but some in one manner or time and others in another.",
+     "kind": "narration"
+    },
+    {
+     "entry": 6,
+     "who": "Hermes Reader",
+     "text": "— Is not every soul, then, Trismegistus, of one quality?",
+     "kind": "narration"
+    },
+    {
+     "entry": 7,
+     "who": "Hermes Reader",
+     "text": "— How quickly, Asclepius, you have fallen away from the true coherence of the reasoning! Did I not say this, that all things are one and the one is all things, seeing that all things were in the creator before he had created them all? Nor is he undeservedly called all things, whose members all things are. Take care, then, throughout this whole discussion to remember him who, being one, is all things, or who is himself the creator of all things.",
+     "kind": "narration"
+    },
+    {
+     "entry": 8,
+     "who": "Hermes Reader",
+     "text": "From heaven all things come into earth and into water and into air. Fire alone, in that it is borne upward, is life-giving; what is borne downward is in service to it. But whatever descends from on high is generative; what flows upward is nourishing. Earth, which alone stands fast in itself, is the receiver of all things and the restorer of all the kinds that it has received. As for this whole, then, which, as you remember, belongs to all or is all: soul and world, held in nature’s embrace, are kept in motion, so diversified by the manifold uniformity of all images that the forms of the qualities are recognised to be infinite through the interval between them, and yet made one to this end, that the whole may be seen to be one and all things to be from one.",
+     "kind": "narration"
+    },
+    {
+     "entry": 9,
+     "who": "Hermes Reader",
+     "text": "The elements, then, out of which the whole world has been formed are four: fire, water, earth, air. The world is one, soul is one, and God is one.",
+     "kind": "narration"
+    },
+    {
+     "entry": 10,
+     "who": "Hermes Reader",
+     "text": "Now give me your whole self, with all the strength of your mind and all the skill of your wit. For the account of divinity, which must be known by a divine attention of the mind, is most like a torrential river rushing with headlong violence from a height down a slope; and so it comes about that by its swift speed it outruns our attention, not only that of those who listen but that of the very ones who expound it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 11,
+     "who": "Hermes Reader",
+     "text": "Heaven, then, a sensible god, is the administrator of all bodies; their increase and their decrease have fallen to the lot of the sun and the moon. But of heaven, and of soul itself, and of all things that are in the world, he himself is the governor who is God the maker. For from all the things named above, of all of which the same God is governor, a continual stream is borne, flowing through the world and through the soul of all kinds and all forms, throughout the nature of things. The world, moreover, has been prepared by God as the receptacle of forms of every shape; and nature, imaging the world through forms by means of the four elements, brings all things forth, as far up as heaven, to be pleasing in the sight of God.",
+     "kind": "narration"
+    },
+    {
+     "entry": 12,
+     "who": "Hermes Reader",
+     "text": "Now all things, depending from above, are divided into forms in the manner that I am about to describe. The kinds of all things are followed by their own forms, so that the kind is thus the whole and the form a part of the kind. The kind of the gods, then, will produce from itself the forms of gods; the kind of the daemons likewise; and in the same way the kind of human beings, of birds and of all the things that the world holds within itself begets forms like itself. There is also another kind of living thing, one without soul indeed and yet not lacking senses, so that it both rejoices in benefits and is diminished and damaged by adversities: I mean the kind of all those things that have their life in the earth so long as their roots are unharmed; and the forms of these are scattered over the whole earth. Heaven itself is full of God. The kinds named above, however, have their dwelling all the way up to the places of those forms all of which are immortal. For a form is a part of a kind, as a human being is of humanity, and it must follow the quality of its kind. Hence it comes about that, although all kinds are immortal, not all forms are immortal. For in the case of divinity both the kind itself and its forms are immortal. The kinds of the rest, to which eternity belongs as kinds, are preserved by fertility in birth, although the kind dies in its forms; and so the forms are mortal, so that a human being is mortal and humanity immortal.",
+     "kind": "narration"
+    },
+    {
+     "entry": 13,
+     "who": "Hermes Reader",
+     "text": "Yet the forms of all kinds are mingled with all kinds, some that were made before and some that are made from those which have been made. These, then, that are made, whether by gods and daemons or by human beings, are all forms most like their own kinds. For it is impossible for bodies to be shaped without the divine nod, or for forms to be given their figure without the help of daemons; and things without soul cannot be planted and tended without human beings.",
+     "kind": "narration"
+    },
+    {
+     "entry": 14,
+     "who": "Hermes Reader",
+     "text": "Whatever daemons, then, flowing down from their own kind into a form, have by chance been joined through nearness and fellowship to some form of the divine kind are held to be like gods. But those daemons whose forms persist in the quality of their own kind are called daemons who love human beings. The case of human beings is similar, and wider still. For the form of the human kind is manifold and various; it too comes down from above, from the fellowship already spoken of, and by its fellowship with all the other forms it makes many conjunctions, and of necessity with nearly all of them. For this reason he comes near to the gods who, by the mind through which he is joined to the gods, has joined himself to the gods in divine reverence; and he comes near to the daemons who is joined to them; while those are human who are content with the middle station of their own kind; and the remaining forms of human beings will be like those to the forms of whose kind they have attached themselves.",
+     "kind": "narration"
+    },
+    {
+     "entry": 15,
+     "who": "Hermes Reader",
+     "text": "Because of this, Asclepius, a human being is a great wonder, a living thing to be adored and honoured. For he passes over into the nature of a god, as though he were himself a god; he knows the kind of the daemons, since he recognises that he came into being together with them; he despises in himself the part that is of human nature, trusting in the divinity of his other part. How much more happily is the nature of human beings blended! He is joined to the gods by a kindred divinity; the part of himself by which he is earthly he despises within himself; all other things, to which he knows that he is bound by heaven’s ordering, he ties fast to himself with the bond of affection. He looks up to heaven. He has been set, then, in the happier place of the middle, so that he loves the things that are beneath him and is himself loved by those above him. He tills the earth; he mingles with the elements by his swiftness; by the keenness of his mind he goes down into the depths of the sea. All things are permitted him; heaven does not seem very high, for by the shrewdness of his mind he measures it as though from close at hand. No murk of the air confounds the attention of his mind; no density of the earth hinders his work; no profound depth of water dulls his downward gaze. He is all things at once, and at once he is everywhere.",
+     "kind": "narration"
+    },
+    {
+     "entry": 16,
+     "who": "Hermes Reader",
+     "text": "Of all these kinds, those that are ensouled have roots reaching them from above downward; but those without soul branch forth from a living root, from the depths upward. Some, moreover, are nourished by twofold foods and some by simple ones. The foods are of two sorts, those of the soul and those of the body, of which living things consist. Soul is nourished by the ever restless motion of the world; bodies grow from water and earth, the elements of the lower world. Spirit, with which all things are filled, is mingled with all and gives life to all, mind being added to understanding in the human being: that fifth part which has been granted to the human being alone, out of the aether. But of all living things it is only the minds of human beings that it equips, raises and lifts up to the understanding of the divine plan.",
+     "kind": "narration"
+    },
+    {
+     "entry": 17,
+     "who": "Hermes Reader",
+     "text": "But since I am reminded to speak of mind, a little later I shall set out for you the account of this as well; for it is most holy and great, and no less than the account of divinity itself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 18,
+     "who": "Hermes Reader",
+     "text": "But now I shall finish setting out for you what I had begun. For at the very outset I was speaking of that conjunction with the gods which human beings alone enjoy to the full, by the gods’ own favour: those human beings, that is, who have attained such happiness as to grasp that mind of divine understanding, the more divine mind which is in God alone and in human understanding.",
+     "kind": "narration"
+    },
+    {
+     "entry": 19,
+     "who": "Hermes Reader",
+     "text": "— Is mind not of one form, then, Trismegistus, in all human beings?",
+     "kind": "narration"
+    },
+    {
+     "entry": 20,
+     "who": "Hermes Reader",
+     "text": "— Not all, Asclepius, have attained true understanding; rather they are deceived, following with rash impulse, and without having looked into any true reason, an image that breeds evil in minds and transforms the best of living things into the nature of a wild animal and the ways of beasts. But about mind and all things like it I shall give you the whole account when I give that of spirit as well.",
+     "kind": "narration"
+    },
+    {
+     "entry": 21,
+     "who": "Hermes Reader",
+     "text": "For the human being alone among living things is twofold. One part of him is simple, that which is, as the Greeks say, ousiodes, and which we call the form of the divine likeness; but that which the Greeks call hylikon, and we call worldly, is fourfold. From it the body has been made, and by the body is wrapped about that in the human being which we have already said is divine, so that within it the divinity of the intellect, sheltered and alone with its own kin, that is, with the thoughts of pure intellect, may be at rest with itself, fenced in as though by the wall of the body.",
+     "kind": "narration"
+    },
+    {
+     "entry": 22,
+     "who": "Hermes Reader",
+     "text": "— Why then, Trismegistus, did the human being have to be set in the world, and not live in the highest blessedness in that region where God is?",
+     "kind": "narration"
+    },
+    {
+     "entry": 23,
+     "who": "Hermes Reader",
+     "text": "— You ask rightly, Asclepius; and we too beg God to grant us the ability to give an account of this. For while all things depend on his will, those do so most of all which are discussed concerning the whole of what is highest; and that is the account we are seeking in the present discussion.",
+     "kind": "narration"
+    },
+    {
+     "entry": 24,
+     "who": "Hermes Reader",
+     "text": "Listen then, Asclepius. When the lord and shaper of all things, whom we rightly call God, made a second after himself, one who could be seen and sensed: this second one I would call sensible not because he himself senses (for whether he himself senses or not we shall say at another time), but because he strikes the senses of those who see; since, then, he made this one as the first out of himself and the second after himself, and he seemed beautiful to him, being most full of the goodness of all things, he loved him as the offspring of his own divinity. Therefore, being so great and good, he willed that there should be another who would be able to gaze upon the one he had made from himself, and in the same moment he made the human being, an imitator both of his reason and of his care. For the will of God is itself the highest accomplishment, since he completes the willing and the accomplishing in one and the same instant of time. When, therefore, he had made him ousiodes, and observed that he could not take care of all things unless he covered him with a worldly covering, he covered him with a bodily house and ordained that all should be such, blending and mingling into one, out of both natures, as much as ought to suffice. And so he shapes the human being from the nature of soul and of body, that is, from an eternal and a mortal nature, so that the living thing thus shaped may be able to satisfy both of its origins: to wonder at the things of heaven and pray to them, and to tend and govern the things of earth. By mortal things, however, I do not now mean water and earth, those two of the four elements which nature has made subject to human beings, but the things that are done by human beings either in these or out of these, or the tilling of the earth itself, pasture, building, harbours, voyages, dealings with one another, mutual services, which is the strongest bond of human beings among themselves and of that part of the world which consists of water and earth. This earthly part of the world is preserved by the knowledge and practice of the arts and sciences, without which God did not will the world to be complete. For necessity follows what has pleased God, and effect accompanies his will. Nor is it credible that what has pleased God will come to displease him, since he knew long beforehand both that it would be and that it would please him.",
+     "kind": "narration"
+    },
+    {
+     "entry": 25,
+     "who": "Hermes Reader",
+     "text": "But I notice, Asclepius, how in the swift eagerness of your mind you are hastening to hear how a human being can have love or worship of heaven, or of the things that are in it. Listen then, Asclepius. Love of the god of heaven, together with all those that are within it, is one thing only: the constant rendering of service. No other living thing renders this, whether of the divine or of the mortal, but the human being alone. For heaven and the heavenly ones take delight in the wonder, the worship, the praises and the services of human beings. Nor was it without reason that the chorus of the Muses was sent down by the highest divinity into the company of human beings: plainly so that the earthly world should not seem too uncultivated, had it lacked the sweetness of melodies, but rather so that he who alone is all things, or is the father of all, might be celebrated with praises in human songs set to music, and so that the praises of heaven should not lack the sweetness of harmony on earth as well. Some, then, and these very few, endowed with a pure mind, have been allotted the venerable charge of looking up to heaven. But all those who, from the mingling of their twofold nature, have sunk by the weight of the body into a lower understanding have been set over the care of the elements, and of these lower ones. The human being, then, is a living thing; yet not such that he is the lesser for being in part mortal. Rather he seems to have been enlarged by mortality, being by that lot more fitly and more effectively composed for a definite purpose. Plainly, since he could not have sustained both unless he were made of both kinds of matter, he was formed out of both, so that he could have both the care of the earth and the love of divinity.",
+     "kind": "narration"
+    },
+    {
+     "entry": 26,
+     "who": "Hermes Reader",
+     "text": "But the reasoning of this treatise, Asclepius, I want you to grasp not only with keen attention but also with liveliness of mind. For it is an account that most find incredible, yet one that holier minds are to grasp as sound and true. And so I shall begin from here. The lord of eternity is the first God, the world is the second, the human being is the third. God, the maker of the world and of all the things that are in it, while governing all things together, has composed them with the human being himself as their governor. Taking up the whole of this, that is, the charge that properly belongs to his own care, the human being brings it about that he himself and the world are each an ornament to the other; so that it is from this divine composition of the whole that the world seems to have been named mundus, or more correctly, in Greek, kosmos. He knows himself, and he knows the world as well, plainly so that he may remember what befits his parts and recognise what things he is to use and what things he is to serve, giving the greatest praise and thanks to God and venerating his image, not unaware that he himself is also a second image of God; for God has two images, the world and the human being. Hence it comes about that, since his is a single frame, in that part by which he is divine, made of soul and mind, of spirit and reason, as though of the higher elements, he seems able to ascend into heaven, but in his worldly part, which consists of fire and water and earth and air, he remains behind on the earth as a mortal, lest he leave bereft and deserted all the things entrusted to his care. For thus humanity, in one part divine, has in its other part been made mortal, having its station in a body.",
+     "kind": "narration"
+    },
+    {
+     "entry": 27,
+     "who": "Hermes Reader",
+     "text": "Now the measure of this twofold being, that is, of the human being, is before all else reverence, upon which goodness follows. And goodness seems to be perfect only when it has been fortified, against desire for all alien things, by the virtue of disdain. All earthly things whatsoever that are possessed through bodily desire are alien to every part of our divine kinship; and they are deservedly called by the name of possessions, since they were not born with us but began to be possessed by us afterwards, and for that reason too they are called by the name of possessions. All things of this sort, then, are alien to the human being, even the body, so that we should despise both the things we crave and that from which the vice of craving comes to us. For, as the drift of reason leads my mind, a human being ought to be human only so far that, through contemplation of divinity, he despises and scorns that mortal part which has been joined to him by the necessity of preserving the lower world. For, so that the human being might be most complete in both parts, observe that he has been formed with four elements in each of the two: with hands and feet, a pair of each, and with the other members of the body, by which he may serve the lower, that is, the earthly world; and with those four parts, soul, mind, memory and foresight, by means of which he may know all divine things and look up to them. Hence it comes about that he pursues the differences, qualities, effects and quantities of things with a search that goes by surmise, yet, held back by the heavy and excessive fault of the body, he cannot properly see through to those causes of the nature of things which are the true ones.",
+     "kind": "narration"
+    },
+    {
+     "entry": 28,
+     "who": "Hermes Reader",
+     "text": "This being, then, so made and shaped, and set by the supreme God over such a ministry and service, who, by fittingly keeping the world in good order and by piously worshipping God, worthily and fittingly obeys the will of God in both respects: with what reward do you think such a one should be rewarded (seeing that, since the world is God’s work, he who by his care preserves and increases its beauty joins his own work with the will of God, when with the help of his body, by daily labour and care, he sets in order the form which God shaped with divine purpose) if not with that with which our forefathers were rewarded, and with which we too long, in most devout prayers, to be rewarded, if it should please the divine kindness: namely, that when we have served our time and been stripped of the guardianship of the world and released from the bonds of mortality, he should restore us, pure and holy, to the nature of our higher part, that is, the divine?",
+     "kind": "narration"
+    },
+    {
+     "entry": 29,
+     "who": "Hermes Reader",
+     "text": "— You speak justly and truly, Trismegistus.",
+     "kind": "narration"
+    },
+    {
+     "entry": 30,
+     "who": "Hermes Reader",
+     "text": "— For this is the reward of those who live piously under God and carefully with the world. But to those who have lived otherwise, and impiously, return to heaven is denied, and there is appointed for them a shameful migration into other bodies, unworthy of a holy soul.",
+     "kind": "narration"
+    },
+    {
+     "entry": 31,
+     "who": "Hermes Reader",
+     "text": "— As this course of the reasoning has gone, Trismegistus, souls run a risk in their life in the world as regards their hope of the eternity to come.",
+     "kind": "narration"
+    },
+    {
+     "entry": 32,
+     "who": "Hermes Reader",
+     "text": "— Yet to some this may seem incredible, to others a fable, and to others perhaps a thing to be laughed at. For the enjoyment that is taken from possessions is a sweet thing in this bodily life; and it holds the soul, as the saying goes, with its neck in a twisted grip, so that it clings to that part of itself by which it is mortal. Nor does malignity, begrudging it immortality, allow it to recognise its part of divinity. For I will tell you, as though prophesying, that after us no one will have that simple love which is the love of philosophy, which consists solely in constant contemplation and holy reverence for the knowing of divinity. For many will confound it too in manifold ways.",
+     "kind": "narration"
+    },
+    {
+     "entry": 33,
+     "who": "Hermes Reader",
+     "text": "— How, then, do many make philosophy incomprehensible, or in what manner do they confound it in manifold ways?",
+     "kind": "narration"
+    },
+    {
+     "entry": 34,
+     "who": "Hermes Reader",
+     "text": "— In this way, Asclepius: by mixing it, through cunning speculation, into various disciplines that are not comprehensible, arithmetike and music and geometry. But pure philosophy, which depends on divine reverence alone, will have to attend to the others only so far as to marvel that the apocatastasis of the stars, their appointed stations and the changes of their courses are fixed by numbers; and, coming to know the dimensions, qualities and quantities of the earth, the depths of the sea, the force of fire, and the effects and natures of all these, to marvel at, adore and praise the divine art and mind. And to know music is nothing other than to know the order of all things together, and what the divine reason has allotted; for the order of individual things, brought together into one whole by a craftsman’s reason, will produce a kind of concord, most sweet and most true, in divine melody.",
+     "kind": "narration"
+    },
+    {
+     "entry": 35,
+     "who": "Hermes Reader",
+     "text": "The people who come after us, then, deceived by the cunning of sophists, will be turned away from true, pure and holy philosophy. For to worship divinity with a simple mind and soul and to venerate its works, and also to give thanks to the will of God, which alone is wholly full of goodness: this is philosophy profaned by no troublesome curiosity of the mind.",
+     "kind": "narration"
+    },
+    {
+     "entry": 36,
+     "who": "Hermes Reader",
+     "text": "And let our treatment of these matters go thus far; but concerning spirit and things like it, let a beginning be made from here. There was God and hyle, which we believe to be the Greek for the world; and spirit accompanied the world, or spirit was in the world, but not in the same way as in God; nor were those things from which the world came in God in the same way. They did not exist, for the reason that they had not been born; but even then they already were in that from which they were to be born. For the name of things not born is given not only to those that have not yet been born, but to those that lack the fertility to generate, so that nothing can be born from them.",
+     "kind": "narration"
+    },
+    {
+     "entry": 37,
+     "who": "Hermes Reader",
+     "text": "Whatever things there are, then, in which the nature of generating is present, these are also capable of generating: from them something can be born, even if they themselves were born of themselves. For there is no doubt that birth can easily come from things born of themselves, from which all things are born.",
+     "kind": "narration"
+    },
+    {
+     "entry": 38,
+     "who": "Hermes Reader",
+     "text": "God, then, is everlasting, God is eternal; he neither can be born nor could have been: this he is, this he was, this he will always be. This, then, is the nature of God, which is wholly from itself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 39,
+     "who": "Hermes Reader",
+     "text": "But hyle, or the nature of the world, and spirit, although they seem not to have been born, nevertheless possess in themselves from the beginning the power and the nature of being born and of procreating. For the beginning of fertility lies in the quality of nature, which possesses in itself the power and the matter both of conception and of birth. This, therefore, alone is capable of generating without conception from another.",
+     "kind": "narration"
+    },
+    {
+     "entry": 40,
+     "who": "Hermes Reader",
+     "text": "But those things which have only the power of conceiving, from mingling with another nature, must be so distinguished that the place of the world, together with the things that are in it, is thus seen to be not born, a place which assuredly has in itself the power of the whole of nature. By place I mean that in which all things are. For all these things could not have existed if there had been lacking a place able to sustain them all. For every thing that is to be, provision of a place must first be made; for neither the qualities nor the quantities nor the positions nor the effects could have been discerned of things that are nowhere.",
+     "kind": "narration"
+    },
+    {
+     "entry": 41,
+     "who": "Hermes Reader",
+     "text": "So then the world too, although it was not born, nevertheless has in itself the natures of all things, since it offers to them all the most fertile wombs for conceiving.",
+     "kind": "narration"
+    },
+    {
+     "entry": 42,
+     "who": "Hermes Reader",
+     "text": "This, then, is the whole of the quality of matter, which is capable of creating even though it was not created. For just as there is in the nature of matter a fertile quality, so the same quality is equally fertile in malignity also.",
+     "kind": "narration"
+    },
+    {
+     "entry": 43,
+     "who": "Hermes Reader",
+     "text": "I have not said, then, Asclepius and Hammon, what is said by many: ‘Could not God have cut off evil and turned it away from the nature of things?’ To these people no answer at all need be given; yet for your sake I will both pursue what I had begun and render an account. For they say that God ought to have freed the world from evil in every way; for evil is in the world in such a manner that it seems to be, as it were, a limb of it. Provision and precaution were taken by the supreme God, so far as could reasonably have been done, at the time when he deigned to endow the intellects of human beings with mind, learning and understanding. For by these things alone, in which we surpass the other living things, are we able to avoid the deceits, the snares and the vices of evil. Whoever shuns them on sight, before he is entangled in them, that person is fortified by divine understanding and prudence; for the foundation of learning rests in the highest goodness. By spirit, moreover, all things in the world are supplied and quickened, and it is subject to the will of the supreme God like an instrument or engine. Let these things, then, be understood by us thus far.",
+     "kind": "narration"
+    },
+    {
+     "entry": 44,
+     "who": "Hermes Reader",
+     "text": "The God who is called supreme, intelligible by mind alone, is the ruler and governor of that sensible god who embraces within himself all place, all the substance of things, and the whole matter of the things that beget and create, and everything whatsoever that is, however great it is.",
+     "kind": "narration"
+    },
+    {
+     "entry": 45,
+     "who": "Hermes Reader",
+     "text": "By spirit, indeed, all the forms in the world are moved or governed, each according to its own nature, allotted to it by God. Hyle, however, or the world, is the receptacle of all things, and the movement and thronging of all things; of these God is the governor, dispensing to all worldly things as much as is necessary to each. And with spirit he fills all things, according as the quality of each nature has been raised up.",
+     "kind": "narration"
+    },
+    {
+     "entry": 46,
+     "who": "Hermes Reader",
+     "text": "For the hollow roundness of the world, in the manner of a sphere, is itself wholly invisible to itself by reason of its quality or shape; since whatever place in it you choose as the highest in order to look down below, from there you cannot see what is at the bottom. For this reason it is believed by many to have the likeness and quality of place. For it is only through the shapes of the forms, with whose images it is seen to be engraved, that it is believed to be, as it were, visible, when it is shown painted over; but in truth it is always invisible to itself. Hence its bottom, or that part of it, if there is such a place in a sphere, is called in Greek Hades, since ‘to see’ is in Greek idein, and of that seeing the bottom of the sphere is deprived. Hence too the forms are called ideas, because they are visible shapes. And so the places below are named Hades in Greek from the fact that they are deprived of sight, and inferi in Latin from the fact that they are at the bottom of the sphere.",
+     "kind": "narration"
+    },
+    {
+     "entry": 47,
+     "who": "Hermes Reader",
+     "text": "These, then, are the principal and more ancient things, and as it were the heads or beginnings of all things, because all things are in them or through them or from them.",
+     "kind": "narration"
+    },
+    {
+     "entry": 48,
+     "who": "Hermes Reader",
+     "text": "— What, then, are these things themselves which you say exist, Trismegistus?",
+     "kind": "narration"
+    },
+    {
+     "entry": 49,
+     "who": "Hermes Reader",
+     "text": "— It is the whole substance, worldly so to speak, of all the forms that are in it, of each one just as it is. So the world nourishes bodies, and spirit nourishes souls. But mind, that heavenly gift by which humanity alone is blessed: and not all, but a few, whose intellect is such that it can be capable of so great a benefit. For as the world is made bright by the sun, so the human intellect is made bright by this light, and still more so. For whatever the sun illuminates is at times deprived of its light, when night comes on through the interposition of the earth; but when once mind has been mingled with the human soul, one matter comes to be from the well-knit mixture, so that intellects of this kind are never hindered by the errors of darkness. Hence they have rightly said that mind is the soul of the gods. But I say that it is the soul not of all of them, but of certain great and principal ones.",
+     "kind": "narration"
+    },
+    {
+     "entry": 50,
+     "who": "Hermes Reader",
+     "text": "— Whom do you call the heads of things or the beginnings of first principles, Trismegistus?",
+     "kind": "narration"
+    },
+    {
+     "entry": 51,
+     "who": "Hermes Reader",
+     "text": "— I am disclosing great things to you and laying bare divine mysteries, and I begin this undertaking with a prayer for the favour of heaven. There are many kinds of gods, and of them all one part is intelligible, the other sensible. They are called intelligible not because they are thought not to fall under our senses; for we sense them more than those whom we call visible, as our discussion will show, and as you will be able to see clearly if you pay attention. For this account is lofty and so the more divine, standing beyond the minds and the efforts of human beings; unless you receive the words of the speaker with the more attentive compliance of your ears, it will fly past and flow past, or rather flow back and mingle with the waters of its own source.",
+     "kind": "narration"
+    },
+    {
+     "entry": 52,
+     "who": "Hermes Reader",
+     "text": "There are, then, gods who are the rulers of all forms. After them come the gods whose ruler is ousia. These are the sensible gods, resembling both their origins, who accomplish all things through sensible nature, one through another, each illuminating his own work. Of heaven, or of whatever it is that is comprehended under that name, the ousiarches is Jupiter; for through heaven Jupiter supplies life to all. Of the sun the ousiarches is light; for the good of light is poured upon us through the orb of the sun. The Thirty-six, whose name is the Horoscopes, that is, the stars always fixed in the same place: of these the ousiarches or ruler is the one they call Pantomorphos or All-formed, who makes different shapes for the different forms. The seven spheres, as they are called, have as their ousiarches, that is, as their ruler, her whom they call Fortune or Heimarmenē, by whom all things are changed by the law of nature, with a most firm stability varied by everlasting movement. Air, indeed, is the instrument or engine of all things, through which all things are made; and its ousiarches is the second ⟨lacuna⟩ mortal things to mortals, and things like them. Since these things are so, then, moving from the lowest to the highest, all things are thus linked to one another, reaching to one another; but mortal things that come of mortal, and sensible things, are attached to those beyond sense; while the sum of the governance obeys that supreme lord, so that they are not many, or rather are one. For all things, depending from the one and flowing down from it, are believed to be very many when they are seen as separate, but when brought into unity, one, or rather two: that from which all things are made, and that by which they are made; that is, the matter of which they are made, and the will of him by whose nod they are brought about.",
+     "kind": "narration"
+    },
+    {
+     "entry": 53,
+     "who": "Hermes Reader",
+     "text": "— What is this other account in its turn, Trismegistus?",
+     "kind": "narration"
+    },
+    {
+     "entry": 54,
+     "who": "Hermes Reader",
+     "text": "— It is this, Asclepius. God, or father, or lord of all, or by whatever other name he is called by human beings more holily and more reverently, a name that ought to be held sacred among us for the sake of our understanding: for, contemplating so great a divine power, we shall name him definitively by none of these names. For if voice is this, a sound from air struck by breath, declaring every wish of a human being or the thought that he may have grasped in his mind from the senses, a name whose whole substance, composed of a few syllables, is defined and circumscribed so that there may be in the human being the necessary commerce of voice and ears, then the whole name of God is at once the name of thought and of breath and of air, and everything in these or through these or from these. For I have no hope that the maker of all majesty and the father or lord of all things can be called by a single name, even one compounded of many; rather he is nameless, or better, all-named, since he is one and all, so that it must be either that all things are called by his name or that he is called by the names of all things.",
+     "kind": "narration"
+    },
+    {
+     "entry": 55,
+     "who": "Hermes Reader",
+     "text": "He, then, alone as being all things, utterly full of the fertility of both sexes, ever pregnant with his own will, ever brings forth whatever he has willed to beget. His will is all goodness. This same goodness is the nature of all things, born from his divinity, so that all things may be as they are and have been, and so that it may supply to all the things that are hereafter to be the nature of being born from themselves. Let this, then, Asclepius, be the account rendered to you of why and how all things come to be.",
+     "kind": "narration"
+    },
+    {
+     "entry": 56,
+     "who": "Hermes Reader",
+     "text": "— Do you say, then, that God is of both sexes, Trismegistus?",
+     "kind": "narration"
+    },
+    {
+     "entry": 57,
+     "who": "Hermes Reader",
+     "text": "— Not God alone, Asclepius, but all things, ensouled and without soul. For it is impossible that any of the things that are should be barren; for if fertility is taken away from all the things that are, it will be impossible for the things that are to exist for ever. For I say that both mind and nature, and the world, contain nature within themselves and preserve all things that have been born. For each sex is full of procreation, and the joining of the two, or, what is truer, their unity, is beyond comprehension; you may rightly call it Cupid or Venus or both. Grasp this, then, with your mind as truer and plainer than any truth: that by that lord of the whole of nature, God, this mystery of procreating for ever was devised and bestowed on all things, and that in it are inborn the highest affection, joy, gladness, desire and divine love. And it would be necessary to say how great are the power and the necessity of this mystery, were it not that each person can know it from his inmost feeling by considering himself. For if you take note of that final moment at which, through constant rubbing, we come to the point where each nature pours its offspring into the other, and how the one eagerly seizes it from the other and hides it deep within, at that moment, in short, from the common mingling the females gain the vigour of the males and the males grow weary with a feminine languor. And so the act of this mystery, so sweet and so necessary, is performed in secret, lest, with the ignorant mocking on every side, the divinity of both natures be forced to blush at the mingling of the sexes, and much more so if these things are exposed to the sight of irreverent people.",
+     "kind": "narration"
+    },
+    {
+     "entry": 58,
+     "who": "Hermes Reader",
+     "text": "Now the reverent are not many, or rather they are very few, so that in the world they can even be counted; hence it comes about that evil remains in the many, through lack of prudence and of knowledge of all the things that are. For from understanding of the divine plan by which all things have been established are born contempt for the vices of the whole world and their remedy; but when ignorance and lack of knowledge persist, all the vices grow strong and wound the soul with incurable vices; and the soul, infected and corrupted by them, swells as if with poisons, except in those whose souls have their supreme cure in learning and understanding.",
+     "kind": "narration"
+    },
+    {
+     "entry": 59,
+     "who": "Hermes Reader",
+     "text": "If, then, this will profit only a few, it is worth while to pursue and set out this discussion: why it is to human beings alone that divinity has deigned to impart its own understanding and learning. Listen then. When God, the father and lord, was making human beings after the gods, weighing them out in equal balance from the more corrupt part of the world and from the divine part, it came about that the vices of the world remained, mingled with their bodies, and other vices on account of the food and sustenance which of necessity we have in common with all living things; and for these reasons the cravings of desire and the other vices of the mind must settle in human souls. But for the gods, as beings made from the purest part of nature and needing no supports of reason and learning, although immortality and the vigour of an age forever the same are themselves prudence and learning for them, nevertheless, on account of the unity of the plan, in place of learning and in place of understanding, so that they should not be strangers to these, he established by eternal law an order of necessity written down in law; while human beings, out of all living things, he distinguished by reason and learning alone, through which they might turn away and put far from them the vices of bodies, and he stretched them forward to the hope of immortality and the striving for it. In short, he compounded the human being, both good and able to be immortal, out of both natures, the divine and the mortal; and so it was ordained by the will of God that the human being, thus compounded, should be better both than the gods, who are formed from the immortal nature alone, and than all mortal beings. For this reason the human being, joined to the gods by kinship, venerates them with reverence and a holy mind, and the gods in turn look upon all human affairs with devoted affection and guard them.",
+     "kind": "narration"
+    },
+    {
+     "entry": 60,
+     "who": "Hermes Reader",
+     "text": "But let this be said of the few human beings who are endowed with a devout mind; of the vicious nothing is to be said, lest this most holy discourse be profaned by the consideration of them.",
+     "kind": "narration"
+    },
+    {
+     "entry": 61,
+     "who": "Hermes Reader",
+     "text": "And since our discourse is brought to the kinship and fellowship of human beings and gods, learn, Asclepius, the power and the might of the human being. As the lord and father, or, what is highest of all, God, is the maker of the heavenly gods, so the human being is the fashioner of the gods who are in temples, content with human nearness; and they are not only illuminated but also illuminate, and he not only advances towards God but also shapes gods. Do you wonder, Asclepius, or do you too disbelieve, as many do?",
+     "kind": "narration"
+    },
+    {
+     "entry": 62,
+     "who": "Hermes Reader",
+     "text": "— I am confounded, Trismegistus; but, gladly assenting to your words, I judge the human being most happy, who has attained so great a happiness.",
+     "kind": "narration"
+    },
+    {
+     "entry": 63,
+     "who": "Hermes Reader",
+     "text": "— And not undeservedly is he worthy of wonder, who is the greatest of all. As for the kind of the gods, it is plain by the admission of all that it sprang from the purest part of nature, and that their signs are, as it were, heads only, in place of the whole. But the forms of gods that humanity shapes are shaped from both natures: from the divine, which is purer and far more divine, and from that which is within human beings, that is, from the matter of which they have been made; and they are figured not with heads alone, but with all the limbs and the whole body. Thus humanity, ever mindful of its nature and its origin, perseveres in that imitation of divinity, so that, just as the father and lord made the gods eternal that they might be like himself, so humanity should fashion its own gods in the likeness of its own countenance.",
+     "kind": "narration"
+    },
+    {
+     "entry": 64,
+     "who": "Hermes Reader",
+     "text": "— Do you mean statues, Trismegistus?",
+     "kind": "narration"
+    },
+    {
+     "entry": 65,
+     "who": "Hermes Reader",
+     "text": "— Statues, Asclepius. Do you see how far you yourself disbelieve? Statues ensouled, full of mind and spirit, doing deeds so great and of such a kind; statues that foreknow things to come and foretell them by lot, by seer, by dreams and by many other means; that bring illnesses upon human beings and cure them, and bring sorrow and joy according to their deserts.",
+     "kind": "narration"
+    },
+    {
+     "entry": 66,
+     "who": "Hermes Reader",
+     "text": "Do you not know, Asclepius, that Egypt is an image of heaven, or, what is truer, a transference or descent of all the things that are governed and carried on in heaven? And if the truth must be told more exactly, our land is the temple of the whole world. And yet, since it befits the wise to know all things beforehand, it is not right that you should be ignorant of this: a time will come when it will be seen that the Egyptians honoured divinity in vain with devout mind and assiduous reverence; and all their holy veneration will fall to nothing and be made void. For divinity will return from earth to heaven, and Egypt will be abandoned, and the land that was the seat of religion will be left destitute, widowed of the presence of the divine powers. For when foreigners fill this region and land, there will be not only neglect of religion but, what is harsher, a prohibition with a prescribed penalty will be decreed, as though by laws, against religion, piety and divine worship. Then this most holy land, the seat of shrines and temples, will be utterly full of tombs and of the dead. O Egypt, Egypt, of your religion only tales will survive, and those unbelievable to your descendants, and only words will survive, carved on stones that tell of your pious deeds; and the Scythian or the Indian or some such one will dwell in Egypt, that is, the neighbouring barbarians. For divinity will go back to heaven; human beings, forsaken, will all die; and so Egypt, widowed of god and of man, will be deserted. And you I call upon, most holy river, and to you I foretell what is to come: full to the very banks with a torrent of blood, you will burst forth, and the divine waters will not only be polluted with blood but will wholly break their bounds. And the number of tombs will be far greater than that of the living; and whoever survives will be known as an Egyptian by his language alone, while in his deeds he will seem a foreigner.",
+     "kind": "narration"
+    },
+    {
+     "entry": 67,
+     "who": "Hermes Reader",
+     "text": "Why do you weep, Asclepius? Egypt herself will be persuaded to more than this and to far worse, and will be steeped in worse evils; she who was once holy, most loving of divinity, by the merit of her reverence the only settlement of the gods on earth, the teacher of holiness and piety, will be an example of the utmost cruelty. And then, in the weariness of human beings, the world will seem neither a thing to be wondered at nor a thing to be worshipped. This whole good, than which nothing better that can be seen ever was, or is, or will be, will be in danger, and will be a burden to human beings, and for that reason will be despised; nor will this whole world be loved, the inimitable work of God, a glorious construction, a good compounded of a manifold variety of images, the engine of the will of God, who without envy lends his favour to his own work, a manifold accumulation, gathered into one, of all things that can be venerated, praised and, finally, loved by those who behold them. For darkness will be preferred to light, and death will be judged more useful than life; no one will look up to heaven; the reverent will be thought mad and the irreverent wise, the frenzied will be thought brave, and the worst will be held to be good. For the soul and all that concerns it, by which it either was born immortal or expects that it will attain immortality, according to what I have set forth to you, will be thought not only a matter for laughter but even a vanity.",
+     "kind": "narration"
+    },
+    {
+     "entry": 68,
+     "who": "Hermes Reader",
+     "text": "But believe me, a capital penalty too will be appointed for him who has given himself to the religion of the mind. New statutes will be established, a new law. Nothing holy, nothing reverent, nothing worthy of heaven or of the heavenly ones will be heard or believed in the mind.",
+     "kind": "narration"
+    },
+    {
+     "entry": 69,
+     "who": "Hermes Reader",
+     "text": "There comes the lamentable withdrawal of the gods from human beings: only the harmful angels remain, who, mingled with humanity, lay hands upon the wretches and drive them to every evil of recklessness, to wars, to plunder, to deceits and to everything that is contrary to the nature of souls. Then the earth will not stand firm, nor will the sea be sailed, nor will heaven hold to the courses of the stars, nor will the course of the stars hold steady in heaven; every divine voice will fall mute in an enforced silence; the fruits of the earth will rot, and the soil will not be fertile, and the very air will droop in a mournful torpor.",
+     "kind": "narration"
+    },
+    {
+     "entry": 70,
+     "who": "Hermes Reader",
+     "text": "Such is the old age of the world that will come: irreverence, disorder, unreason in all good things. When all these things have come to pass, Asclepius, then that lord and father, the God first in power and governor of the one god, looking upon these ways and wilful deeds, by his own will, which is the kindness of God, resisting the vices and the corruption of all things, calling back what has gone astray, either washing away all malignity with a flood, or consuming it with fire, or ending it with pestilential diseases spread through various places, will call the world back to its ancient aspect, so that the world itself may be seen as worthy of worship and of wonder, and God, the maker and restorer of so great a work, may be celebrated by the human beings who will then exist with frequent proclamations of praise and with blessings. For this is the birth of the world: the re-forming of all good things, and the most holy and most reverent restoration of nature itself, compelled by the course of time, a restoration which is and has been everlasting, without beginning. For the will of God has no beginning; it is the same and, just as it is, everlasting. For the nature of God is the counsel of his will.",
+     "kind": "narration"
+    },
+    {
+     "entry": 71,
+     "who": "Hermes Reader",
+     "text": "— Is the highest goodness counsel, Trismegistus?",
+     "kind": "narration"
+    },
+    {
+     "entry": 72,
+     "who": "Hermes Reader",
+     "text": "— Will, Asclepius, is born from counsel, and the act of willing itself from will. For he who is most full of all things does not will anything eagerly, and he wills the things that he has; and he wills all good things. And he has all that he wills; and all good things he both thinks and wills.",
+     "kind": "narration"
+    },
+    {
+     "entry": 73,
+     "who": "Hermes Reader",
+     "text": "This, then, is God; the world is his image, the good image of one who is good.",
+     "kind": "narration"
+    },
+    {
+     "entry": 74,
+     "who": "Hermes Reader",
+     "text": "— Good, Trismegistus?",
+     "kind": "narration"
+    },
+    {
+     "entry": 75,
+     "who": "Hermes Reader",
+     "text": "— Good, Asclepius, as I shall teach you. For just as God is the dispenser and distributor of goods, that is, of mind, soul and life, to all the forms or kinds that are in the world, so the world too is the bestower and provider of all the things that seem good to mortals, that is, of the alternation of births in their seasons, of the coming forth of fruits, of their growth and ripening, and of things like these; and so God, who stands above the summit of the highest heaven, is everywhere and surveys all things round about. For thus there is a place beyond heaven, without stars, remote from all bodily things. He who is the dispenser holds the place between heaven and earth, and we call him Jupiter. But over earth and sea Jupiter Plutonius holds sway; and he is the nourisher of mortal living things and of those that bear fruit. By the powers of all these, fruits, trees and the earth are quickened. But the powers and effects of others will be distributed through all things that are. And those who rule the earth will be distributed, and will be settled in a city at the very threshold of Egypt, which will be founded on the side of the setting sun, and to which the whole mortal race will hasten by land and sea.",
+     "kind": "narration"
+    },
+    {
+     "entry": 76,
+     "who": "Hermes Reader",
+     "text": "— But where are they now, at this present time, Trismegistus?",
+     "kind": "narration"
+    },
+    {
+     "entry": 77,
+     "who": "Hermes Reader",
+     "text": "— They are settled in a very great city on the Libyan mountain.",
+     "kind": "narration"
+    },
+    {
+     "entry": 78,
+     "who": "Hermes Reader",
+     "text": "Let so much be told of these matters. Now we must discourse of the immortal or of the mortal. For hope and fear of death torment many, who are ignorant of the true account. For death is brought about by the dissolution of a body worn out with toil, and of the number, now completed, by which the members of the body are fitted into a single engine for the uses of life; for the body dies when it has ceased to be able to bear the vital functions of a human being. This, then, is death: the dissolution of the body and the passing away of bodily sense; and anxiety about it is needless. But there is another anxiety that is necessary, which human ignorance or unbelief disregards.",
+     "kind": "narration"
+    },
+    {
+     "entry": 79,
+     "who": "Hermes Reader",
+     "text": "— What is it, Trismegistus, that they either do not know or do not believe can exist?",
+     "kind": "narration"
+    },
+    {
+     "entry": 80,
+     "who": "Hermes Reader",
+     "text": "— Listen then, Asclepius. When the soul’s departure from the body has taken place, then the judgment and weighing of its desert will pass into the power of the chief daemon; and when he has seen that it is devout and just, he permits it to abide in the places that befit it; but if he sees it smeared with the stains of offences and befouled with vices, he hurls it down from above to the depths and hands it over to the storms and whirlwinds of air, fire and water, which are often at strife with one another, so that between heaven and earth it may be swept along by the billows of the world, forever driven this way and that in eternal punishments; so that its eternity is a harm to the soul in this, that by its immortal consciousness it is yoked to an eternal torment. Know, therefore, that we must dread, fear and beware lest we be entangled in these things: for the unbelieving, after their offences, will be compelled to believe, not by words but by examples, not by threats but by the very suffering of the punishments.",
+     "kind": "narration"
+    },
+    {
+     "entry": 81,
+     "who": "Hermes Reader",
+     "text": "— Then the offences of human beings, Trismegistus, are not punished by human law alone?",
+     "kind": "narration"
+    },
+    {
+     "entry": 82,
+     "who": "Hermes Reader",
+     "text": "— In the first place, Asclepius, all things that are earthly are mortal; and then those also which are alive by the condition of the body and which fail from living by that same condition of bodies. All these, being liable to punishments according to the deserts or the offences of their life, are subjected after death to punishments the more severe, the more, it may be, their offences were hidden in life, while they were living. For since divinity foreknows all things, punishments will be rendered exactly in accordance with the qualities of the offences, such as they are.",
+     "kind": "narration"
+    },
+    {
+     "entry": 83,
+     "who": "Hermes Reader",
+     "text": "— Who are deserving of the greater punishments, Trismegistus?",
+     "kind": "narration"
+    },
+    {
+     "entry": 84,
+     "who": "Hermes Reader",
+     "text": "— Those who, condemned by human laws, lose their life by violence, so that they seem to have rendered up not the soul that is owed to nature but the penalty for their deserts. For the just human being, on the contrary, there is protection in reverence for God and in the highest piety: for God guards such people from all evils. For the father or lord of all, he who alone is all things, gladly shows himself to all, not where he is in place, nor of what sort he is in quality, nor how great he is in quantity, but illuminating the human being by the understanding of the mind alone; and he, when the darkness of error has been scattered from his soul and the brightness of truth perceived, mingles himself, with his whole mind, with the divine understanding, and, freed by love of it from that part of his nature which is mortal, conceives a confidence in the immortality to come. This, then, will be the difference between the good and the wicked. For each one grows bright by piety, reverence, prudence, worship and veneration of God, as though he had seen the true account with his eyes, and by the confidence of his belief he stands out among human beings as far as the sun surpasses the other stars in light. For the sun itself illuminates the other stars not so much by the greatness of its light as by its divinity and holiness. Believe, Asclepius, that this is the second god, governing all things and shedding light on all the living things of the world, whether ensouled or without soul. For if the world is a living thing, and was and is and will be always alive, nothing in the world is mortal. For since each single part, such as it is, is always alive, and is in a world that is itself always one, a living thing and always alive, there is no place in it for mortality. It must therefore be most full of life and of eternity, if it must live always. The sun, then, just as the world is everlasting, is likewise itself always the governor of things that have life, or of all vitality, and is their replenisher or dispenser.",
+     "kind": "narration"
+    },
+    {
+     "entry": 85,
+     "who": "Hermes Reader",
+     "text": "God, therefore, is the everlasting governor of the living things, or things that have life, which are in the world, and the eternal dispenser of life itself. But he has dispensed it once for all: life is supplied to all things that have life by an eternal law, in the manner that I shall tell.",
+     "kind": "narration"
+    },
+    {
+     "entry": 86,
+     "who": "Hermes Reader",
+     "text": "For the world is moved within the very vitality of eternity, and the place of the world is in that living eternity itself: for this reason it will never stand still nor be destroyed, being walled about and, as it were, bound fast by the everlastingness of living. The world itself is the dispenser of life to all the things that are in it, and it is the place of all things that are governed beneath the sun. And the movement of the world itself consists of a twofold working: it is itself given life from without by eternity, and it gives life to all the things that are within it, distributing them all by numbers and times established and fixed, through the working of the sun and the coursing of the stars, all things being set down in a temporal scheme by divine law. Earthly time is discerned by the quality of the air and by the alternation of heat and cold, but heavenly time by the returns of the stars as they run back to the same places in their temporal revolution. And the world is the receptacle of time, by whose course and movement it is quickened. Time, in turn, is preserved by ordering: order and time bring about, through alternation, the renewal of all things that are in the world. Since all things are thus, nothing is stable, nothing fixed, nothing unmoved, whether among things that come to be, or heavenly things, or earthly. God alone is so, and rightly he alone; for he is in himself, and from himself, and is wholly around himself, full and perfect, and he is firm in his own stability, and can be moved neither by the impulse of anything nor from his place, since all things are in him and he alone is in all things; unless someone should dare to say that his movement is in eternity: but rather eternity itself too is unmoved, into which the movement of all times returns, and from which the movement of all times takes its beginning.",
+     "kind": "narration"
+    },
+    {
+     "entry": 87,
+     "who": "Hermes Reader",
+     "text": "God, then, has been stable, and eternity likewise has always stood fast with him, holding within itself the world that was not born, which we rightly call sensible. Of this God this world has been made the image, an imitator of eternity. Time, moreover, although it is always in motion, has the force and nature of a stability of its own, by that very necessity of returning upon itself. And so, although eternity is stable, unmoved and fixed, yet because the movement of time, which is mobile, is always called back into eternity, and that mobility turns according to the plan of time, it comes about that eternity itself also, unmoved indeed by itself alone, seems to be moved through time, in which it itself is and in which all movement is. Thus it comes about both that the stability of eternity is moved, and that the mobility of time becomes stable by the fixed law of its course. Thus it is credible that God too is moved within himself in that same immobility. For his stability, in its greatness, is an unmoved movement; for the law of that greatness itself is unmoved. This, then, which is such that it is not subject to the senses, is unbounded, incomprehensible, immeasurable; for it can be neither sustained nor carried nor tracked down. For where it is, and whither and whence, and in what manner or of what sort it is, is uncertain. For it is carried in the highest stability, and its stability is in itself, whether it be God, or eternity, or both, or the one in the other, or both in both. For this reason eternity is without the limit of time; while time, which can be limited by number, or by alternation, or by the return of another in its circuit, is eternal. Both, therefore, seem infinite, both eternal: for stability, being fixed fast so that it can sustain the things that are movable, rightly holds the first place by virtue of its firmness.",
+     "kind": "narration"
+    },
+    {
+     "entry": 88,
+     "who": "Hermes Reader",
+     "text": "The first beginnings of all things that are, therefore, are God and eternity. But the world, because it is mobile, does not hold the first place; for its mobility comes before its stability, in that it has its unmoved firmness in the law of everlasting movement.",
+     "kind": "narration"
+    },
+    {
+     "entry": 89,
+     "who": "Hermes Reader",
+     "text": "Mind in its entirety, then, is like divinity. Itself unmoved, it moves itself within its own stability: it is holy and incorrupt and everlasting, and whatever better name it can be called, the eternity of the supreme God standing fast in truth itself, most full of all sensible things and of all learning, standing together, so to speak, with God. The mind of the world, however, is the receptacle of all sensible forms and branches of learning. The human mind, in turn, depends on the tenacity of memory, in that it remembers all the things that it has done. For the divinity of mind has come down by degrees as far as the human animal: for the supreme God did not wish the divine mind to be mingled with all, lest it should blush at being mixed with the other living things. For the understanding of the human mind, of whatever sort and however great it is, lies wholly in the memory of things past: for through that tenacity of memory it has also been made the governor of the earth. But the understanding of the nature and quality of the world’s mind can be perceived from all the things in the world that are sensible. As for eternity, which is second, the nature and quality of its mind are discerned from the sensible world. But the understanding of the quality of the supreme God’s mind is truth alone; and of this truth not even a shadow, in its faintest outline, is discerned in the world. For where anything is discerned by the measuring of times, there are falsehoods; where there are births, there errors are seen. You see, then, Asclepius, in what conditions we are placed, what things we are treating, or what we dare to touch upon. But to you, supreme God, I give thanks, who have enlightened me with the light by which divinity is to be seen. And you, Tat and Asclepius and Hammon, cover the divine mysteries with silence within the secret places of your hearts, and conceal them by keeping your peace.",
+     "kind": "narration"
+    },
+    {
+     "entry": 90,
+     "who": "Hermes Reader",
+     "text": "Now understanding differs from mind in this: that our understanding, by an exertion of thought, arrives at understanding and discerning the quality of the world’s mind, whereas the understanding of the world arrives at knowing eternity and the gods who are above it. And so it falls to us human beings to see the things that are in heaven as though through a mist, so far as is possible under the condition of the human mind. This exertion of ours is exceedingly narrow for the seeing of things so great; but it is most ample, when it has seen, in the happiness of its awareness.",
+     "kind": "narration"
+    },
+    {
+     "entry": 91,
+     "who": "Hermes Reader",
+     "text": "As for the void, which to very many seems indeed to be a great matter, my view is this: that void neither is anything, nor could have been, nor ever will be. For all the members of the world are most full, so that the world itself is full and complete with bodies differing in quality and form, each having its own appearance and its own size. Of these one is larger than another, or one smaller than another, and they differ in solidity and in fineness. For some of them, the more solid, are more easily seen, as are the larger also; but the smaller or the finer can scarcely be seen, or not at all, and we know that they are things only by touching them. Hence it has come about that many believe that these are not bodies, and that there are empty places; which is impossible. For as to that which is said to be outside the world, if indeed it is anything (for I do not believe that either), I hold that it is in the same way full of intelligible things, that is, of things like its own divinity; just as this world too, which is called sensible, is most full of bodies and living things suited to its nature and quality. We do not see the aspects of all of these, but some we see as large beyond measure, some as very small, whether they seem so to us because of the length of the space lying between or because we are dull of sight; or else, on account of their extreme smallness, they are believed by many not to exist at all.",
+     "kind": "narration"
+    },
+    {
+     "entry": 92,
+     "who": "Hermes Reader",
+     "text": "I speak now of the daemons, who I believe dwell with us, and of the heroes, who dwell between the purest part of the air above us and the earth, where there is no place for mists nor for clouds, nor any disturbance from the movement of any of the signs.",
+     "kind": "narration"
+    },
+    {
+     "entry": 93,
+     "who": "Hermes Reader",
+     "text": "For this reason, Asclepius, you should call nothing void unless you first say of what thing this that you call void is void, as void of fire, of water and of things like these; because, even if it should happen that something appears which can be void of things of this sort, however small or large that which seems void may be, yet it cannot be empty of spirit and of air.",
+     "kind": "narration"
+    },
+    {
+     "entry": 94,
+     "who": "Hermes Reader",
+     "text": "The same must be said of place; a word which by itself is without meaning. For what place is appears from that of which it is the place: for when what is principal is taken away, the meaning of the name is maimed. Hence we shall rightly say the place of water, the place of fire or of things like these. For just as it is impossible that anything be void, so too what place is by itself cannot be discerned. For if you posit a place without that of which it is the place, it will seem an empty place; and such a place I do not believe exists in the world. But if nothing is void, neither does it appear what place is in itself, unless you add to it marks of length or breadth or height, as to the bodies of human beings.",
+     "kind": "narration"
+    },
+    {
+     "entry": 95,
+     "who": "Hermes Reader",
+     "text": "These things being so, Asclepius and you who are present, know that the intelligible world, that is, the one which is discerned by the gaze of the mind alone, is incorporeal, and that nothing corporeal can be mixed with its nature, that is, nothing that can be discerned by quality, quantity and number: for nothing of that kind exists in it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 96,
+     "who": "Hermes Reader",
+     "text": "This world, then, which is called sensible, is the receptacle of all sensible forms, qualities or bodies; and none of these can be quickened without God. For God is all things, and all things are from him, and all things belong to his will. And this whole is good, seemly and prudent, inimitable, and perceptible and intelligible to himself alone: and without it nothing has been, nor is, nor will be. For all things are from him and in him and through him: the varied and manifold qualities, the great quantities and those that exceed all measures of magnitude, and the forms of every shape. If you understand these things, Asclepius, you will give thanks to God. But if you consider the whole, you will learn by true reasoning that the sensible world itself and all the things that are in it are covered over by that higher world as though by a garment.",
+     "kind": "narration"
+    },
+    {
+     "entry": 97,
+     "who": "Hermes Reader",
+     "text": "For each kind of living thing, Asclepius, of whatever sort, whether mortal or immortal, or rational, whether it be ensouled or without soul, according as each has its kind, so the individuals have the images of their kind. And although each kind of living thing possesses the whole form of its kind, yet within that same form the individuals are unlike one another: just as the human kind, although it is of one form, so that a human being can be recognised by his look, yet the individuals within that same form are unlike one another. For the idea, which is divine, is incorporeal, as is whatever is grasped by the mind. Since, then, these two things of which form and bodies consist are incorporeal, it is impossible that any one form should be born exactly like another, when the points of the hours and of the climes are different; rather, they are changed as many times as the hour has moments in the circle that runs its round, in which is that god the All-formed, of whom we have spoken. The form therefore abides, bringing forth from itself, as many times over, images as numerous and as diverse as the revolution of the world has moments; and the world changes in its revolution, but the form neither changes nor revolves. Thus the forms of the several kinds are abiding, though within that same form of theirs there are unlikenesses.",
+     "kind": "narration"
+    },
+    {
+     "entry": 98,
+     "who": "Hermes Reader",
+     "text": "— And does the world change its form, Trismegistus?",
+     "kind": "narration"
+    },
+    {
+     "entry": 99,
+     "who": "Hermes Reader",
+     "text": "— You see, then, Asclepius, that all this has been told you as though to one asleep. For what is the world, or of what does it consist, if not of all things that have been born? So you mean to say this of the sky, the earth and the elements. For what other things change their forms more often? The sky growing moist or dry, cold or fiery, bright or murky: these are the forms that often alternate within the one form of the sky. The earth, for its part, always has many changes of its form, both when it brings forth its crops, and when that same earth nurses what it has borne, when it yields the varied and diverse qualities and quantities of all fruits, and their halts or their courses, and above all the qualities, scents, tastes and forms of trees, flowers and berries. Fire makes very many transformations, and divine ones. For the images of the sun and of the moon are of every form; for they are, as it were, like our mirrors, which give back the likenesses of images with a rival brightness.",
+     "kind": "narration"
+    },
+    {
+     "entry": 100,
+     "who": "Hermes Reader",
+     "text": "But now let this much suffice to have been said of such matters. Let us return once more to the human being and to reason, the divine gift from which the human being is called a rational animal. For the things that have been said of the human being, wonderful though they are, are less to be wondered at; for it surpasses the wonder of all wonders that the human being has been able to discover the divine nature, and to make it. Since, then, our forefathers erred greatly concerning the nature of the gods, being unbelieving and paying no heed to worship and divine religion, they discovered the art by which they might make gods; and to this art, once discovered, they joined a fitting power drawn from the nature of the world, and mixed it in: since they could not make souls, they called up the souls of daemons or of angels and implanted them in the images by holy and divine mysteries, so that through these souls the idols might have the power of doing both good and ill. For your grandfather, Asclepius, the first discoverer of medicine, to whom a temple has been consecrated on the mountain of Libya near the shore of the crocodiles, in which lies his worldly man, that is, his body (for the rest of him, or rather the whole of him, if the whole man consists in the consciousness of life, has returned in a better state to heaven), even now furnishes to the sick, now by his own divine power, all the aids which he used formerly to provide by the art of medicine. Hermes, whose name I bear as my grandfather’s: does he not, abiding in the native city that is named after him, help and preserve all mortals who come from every side? And Isis, the wife of Osiris: how many good things we know she bestows when she is gracious, and how many she harms when she is angry! For it is easy for earthly and worldly gods to grow angry, seeing that they have been made and put together by human beings out of both natures. Hence it has come about that these are called holy animals by the Egyptians, and that in each several city the souls are worshipped of those who were consecrated in their lifetime, so that the cities are both dwelt in under their laws and called by their names. It is for this cause, Asclepius, that the things which seem to some to deserve worship and veneration are regarded otherwise among others, and on that account the cities of the Egyptians are wont to provoke one another with wars.",
+     "kind": "narration"
+    },
+    {
+     "entry": 101,
+     "who": "Hermes Reader",
+     "text": "— And of these gods, Trismegistus, who are held to be earthly, of what sort is the quality?",
+     "kind": "narration"
+    },
+    {
+     "entry": 102,
+     "who": "Hermes Reader",
+     "text": "— It consists, Asclepius, of herbs, of stones and of spices, which have in themselves a nature of divinity. And for this reason they are delighted by frequent sacrifices, by hymns and praises and the sweetest sounds sounding together after the manner of the heavenly harmony, so that what is heavenly, drawn into the idols by heavenly usage and constant attendance, may be able to last through long ages, glad and bearing patiently with humanity. Thus the human being is the fashioner of gods.",
+     "kind": "narration"
+    },
+    {
+     "entry": 103,
+     "who": "Hermes Reader",
+     "text": "And do not suppose, Asclepius, that the workings of the earthly gods are matters of chance: the heavenly gods dwell in the heights of heaven, each one filling and guarding the order that he has received; but these gods of ours, caring for certain things one by one, foretelling certain things by lots and divination, foreseeing certain things and bringing help in them according to their measure, aid human affairs as though by a friendly kinship.",
+     "kind": "narration"
+    },
+    {
+     "entry": 104,
+     "who": "Hermes Reader",
+     "text": "— What part of the plan, then, do heimarmenē, or the fates, inhabit, Trismegistus? Do not the heavenly gods hold dominion over universals, and the earthly gods inhabit the particulars?",
+     "kind": "narration"
+    },
+    {
+     "entry": 105,
+     "who": "Hermes Reader",
+     "text": "— That which we call heimarmenē, Asclepius, is the necessity of all things that come to pass, which are always bound to one another in linked chains. It is, then, either the maker of things, or the supreme God, or the god who has been made second by God himself, and the discipline of all things heavenly and earthly, made firm by divine laws. So this heimarmenē and necessity are both joined to each other by an inseparable glue; of the two, heimarmenē comes first and gives birth to the beginnings of all things, while necessity drives to their effect the things that depend on her first beginnings. Order follows these two, that is, the weave and the arrangement in time of the things that are to be accomplished. For nothing is without the composition of order; in all things this world is perfect; for the world itself is borne along by order, or rather consists wholly of order.",
+     "kind": "narration"
+    },
+    {
+     "entry": 106,
+     "who": "Hermes Reader",
+     "text": "These three, then, heimarmenē, necessity, order, have been brought about above all by the nod of God, who governs the world by his own law and by divine reason. From these, therefore, all willing or not willing has by divine act been wholly turned away; for they are neither stirred by anger nor swayed by favour, but they serve the necessity of the eternal reason, which is eternity, not to be turned aside, unmoved, indissoluble. First, then, is heimarmenē, which, as though the seed had been cast, supplies the offspring of all things that are to be; necessity follows, by which all things are driven by force to their effect; third is order, preserving the weave of those things which heimarmenē and necessity arrange.",
+     "kind": "narration"
+    },
+    {
+     "entry": 107,
+     "who": "Hermes Reader",
+     "text": "This, then, is eternity, which neither began to be nor will cease, which, fixed by the unchangeable law of its course, turns in everlasting movement, and rises and sets by turns, again and again, through its members, in such a way that, as the times vary, it rises in the same members in which it had set. For roundness is a revolving plan of such a kind that all things are so pressed close to one another that you do not know what the beginning of the revolving is, since all things seem always both to go before and to follow one another. But accident or chance is present in all the things of the world, mingled with them.",
+     "kind": "narration"
+    },
+    {
+     "entry": 108,
+     "who": "Hermes Reader",
+     "text": "You have been told of each matter, as far as humanity was able, and as divinity willed and allowed. This alone remains for us: that, blessing God and praying, we return to the care of the body; for in treating of divine things we have sated ourselves enough, as with food for the soul.",
+     "kind": "narration"
+    },
+    {
+     "entry": 109,
+     "who": "Hermes Reader",
+     "text": "When they had come out of the sanctuary and had begun to pray to God, looking towards the south (for when anyone wishes to entreat God at sunset, he ought to direct his gaze that way, just as at sunrise towards that which is called the east wind), as they were already saying the prayer, Asclepius said in a low voice: ‘Tat, do you wish us to suggest to your father that he bid us say our prayer to God with frankincense and perfumes added?’ Hearing him, Trismegistus was disturbed and said: ‘Better, speak words of better omen, Asclepius: for it is like sacrilege, when you entreat God, to burn frankincense and the rest. For nothing is lacking to him who is himself all things, or in whom all things are. But let us worship him by giving thanks; for these are the incense-offerings of the supreme God, when thanks are given by mortals.’",
+     "kind": "narration"
+    },
+    {
+     "entry": 110,
+     "who": "Hermes Reader",
+     "text": "We give you thanks, most high, most exalted; for by your grace alone have we obtained the light of knowing you. Holy name and worthy of honour, the one name by which God alone is to be blessed with the reverence owed to a father, since you deign to bestow on all a father’s devotion and affection and love, and whatever power is sweeter still, endowing us with mind, reason, understanding: with mind, that we may know you; with reason, that we may track you by our surmises; with knowledge, that knowing you we may rejoice. And saved by your divine power, we rejoice that you have shown yourself to us whole; we rejoice that you have deigned to consecrate us to eternity while we are yet set in bodies. For this is the only human thanksgiving: the knowledge of your majesty. We have known you, and the greatest light, perceptible to the understanding alone; we have known you, O true life of life, O fertile pregnancy of all natures; we have known you, who are most full with your conceiving of the whole of nature; we have known you, eternal permanence. For in all this prayer, worshipping the good of your goodness, we ask only this: that you will that we be kept persevering in the love of knowing you, and never be separated from this kind of life.",
+     "kind": "narration"
+    },
+    {
+     "entry": 111,
+     "who": "Hermes Reader",
+     "text": "Wishing these things, let us turn to a meal that is pure and without living creatures.",
+     "kind": "narration"
+    }
+   ]
+  }
+ ]
+}

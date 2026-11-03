@@ -1,0 +1,145 @@
+{
+ "key": "archytas-fragments",
+ "title": "The Fragments of Archytas",
+ "author": "Archytas",
+ "translator": "Claude AI",
+ "parts": [
+  {
+   "name": "The Fragments of Archytas",
+   "lines": [
+    {
+     "entry": 0,
+     "who": "Narrator",
+     "text": "The Fragments of Archytas",
+     "kind": "heading"
+    },
+    {
+     "entry": 1,
+     "who": "Narrator",
+     "text": "Fr. 1 · Porphyry, On Ptolemy’s Harmonics p. 236Let there be set alongside now too the words of Archytas the Pythagorean, whose writings above all are said to be genuine. In his On Mathematics, right at the start of the discourse, he says the following: ‘It seems to me … from many things’.(Nicomachus, Introduction to Arithmetic I 3, 4, p. 6, 16 Hoche) But Archytas of Tarentum too, at the beginning of his Harmonics, says the same thing in roughly these words: ‘It seems to me … which are themselves sisters’.(Iamblichus, On Nicomachus’ Introduction to Arithmetic p. 9, 1 Pistelli; On the Common Mathematical Science 7, p. 31, 4 Festa) ‘For these sciences … sisters’.",
+     "kind": "narration"
+    },
+    {
+     "entry": 2,
+     "who": "Narrator",
+     "text": "It seems to me that those concerned with the sciences have discerned well, and it is in no way strange that they think correctly about each thing, as to what it is like; for having discerned well about the nature of the universe, they were bound to see well also what the particulars are like. So concerning the speed of the stars and their risings and settings they have handed down to us a clear understanding, and concerning geometry and numbers and spherics, and not least concerning music. For these sciences seem to be sisters; for they are concerned with the two very first forms of what is, which are themselves sisters. First, then, they considered that there cannot be sound unless there has been a blow of some things against one another. And a blow, they said, occurs when things in motion meet and collide with one another. Now things moving in opposite directions, when they meet, make a sound as each slackens the other; while things moving in the same direction but not at equal speed make a sound when they are overtaken and struck by those coming upon them. Many of these sounds cannot be recognised by our nature, some because of the weakness of the blow, others because of the length of their distance from us, and some because of their exceeding magnitude; for the great sounds do not slip into our hearing, just as nothing is poured into narrow-mouthed vessels when one pours in a great deal. Now of the sounds that strike upon our perception, those that arrive from the blows quickly and strongly appear high-pitched, while those that arrive slowly and weakly seem to be low-pitched. For if someone takes a stick and moves it sluggishly and weakly, he will make a low sound with the blow; but if quickly and strongly, a high one. And not only by this may we recognise it, but also by the fact that when in speaking or singing we want to utter something loud and high, uttering it with a forceful breath * * * Further, this too happens, as with missiles: those thrown strongly are carried far, those thrown weakly, near; for the air yields more to things moving strongly, and less to those moving weakly. The same will hold for voices too: one carried by a strong breath will be loud and high, one carried by a weak breath, soft and low. Moreover we may see it by this strongest of signs, that when the same man speaks loudly we may hear him even from afar, but when softly, not even from nearby. Moreover, in flutes (auloi) too, the breath carried from the mouth, when it falls upon the holes near the mouth, gives out a higher note because of its forceful strength, but when upon those further off, a lower one; so that it is clear that swift motion makes the sound high, and slow motion makes it low. Moreover, the same thing happens with the bull-roarers (rhomboi) that are whirled in the mysteries: whirled gently they give out a low sound, whirled strongly, a high one. Moreover the reed too, if one stops its lower end and blows into it, will give us a low sort of voice; but if one blows into the half of it, or into any part whatever, it will sound high; for the same breath is carried out weakly through a long space, but forcefully through a shorter one.",
+     "kind": "narration"
+    },
+    {
+     "entry": 3,
+     "who": "Narrator",
+     "text": "After saying other things too about the movement of the voice being by intervals, he sums up the argument thus:",
+     "kind": "narration"
+    },
+    {
+     "entry": 4,
+     "who": "Narrator",
+     "text": "That high notes, then, move more quickly and low ones more slowly has become plain to us from many things.",
+     "kind": "narration"
+    },
+    {
+     "entry": 5,
+     "who": "Narrator",
+     "text": "Fr. 2 · Porphyry, On Ptolemy’s Harmonics p. 267And many others of the ancients too take this view , as do Dionysius of Halicarnassus and Archytas in his On Music … And Archytas, speaking about the means, writes as follows:",
+     "kind": "narration"
+    },
+    {
+     "entry": 6,
+     "who": "Narrator",
+     "text": "There are three means in music: one is the arithmetic, the second the geometric, and the third the subcontrary, which they call harmonic. There is an arithmetic mean when three terms are in proportion by exceeding one another in this way: by as much as the first exceeds the second, by so much the second exceeds the third. And in this proportion it turns out that the interval between the greater terms is smaller, and that between the lesser terms greater. There is a geometric mean when they are such that as the first is to the second, so is the second to the third. Of these the greater terms and the lesser make the interval equal. There is a subcontrary mean, which we call harmonic, when they are such that by whatever part of itself the first term exceeds the second, by that same part of the third the middle term exceeds the third. And in this proportion the interval between the greater terms turns out greater, and that between the lesser terms smaller.",
+     "kind": "narration"
+    },
+    {
+     "entry": 7,
+     "who": "Narrator",
+     "text": "Fr. 3 · Stobaeus, Florilegium IV 1, 139 HenseFrom Archytas’ On the Sciences: ‘For you must … from doing wrong’.(Iamblichus, On the Common Mathematical Science 11, p. 44, 10 Festa) Hence Archytas says in his On Mathematical Matters: ‘For you must … seeking is impossible’.",
+     "kind": "narration"
+    },
+    {
+     "entry": 8,
+     "who": "Narrator",
+     "text": "For you must come to know the things you did not know either by learning from another or by discovering them yourself. Now what is learned is from another and by another’s means, what is discovered is through oneself and by one’s own means; and to discover without seeking is difficult and rare, but with seeking it is manageable and easy, whereas if one does not know, seeking is impossible.",
+     "kind": "narration"
+    },
+    {
+     "entry": 9,
+     "who": "Narrator",
+     "text": "Calculation, once discovered, puts a stop to faction and increases concord; for when this has come about there is no grasping for more, and there is equality; for by it we come to terms over our dealings with one another. Through it, then, the poor receive from those who have means, and the rich give to those in need, both trusting that through it they will have what is equal. Being a standard and a hindrance to wrongdoers, it stops those who know how to calculate before they do wrong, persuading them that they will not be able to escape notice when they come up against it; and those who do not know how, by showing them up in it as wrongdoers, it prevents from doing wrong.",
+     "kind": "narration"
+    },
+    {
+     "entry": 10,
+     "who": "Narrator",
+     "text": "Discourses",
+     "kind": "narration"
+    },
+    {
+     "entry": 11,
+     "who": "Narrator",
+     "text": "Fr. 4 · Stobaeus, Eclogae I, proem, corollary 4 (p. 18, 8 Wachsmuth)From Archytas’ Discourses.And the art of calculation seems to be far superior to the other arts in regard to wisdom, and indeed to treat what it wishes more clearly than geometry does. * * * And where geometry in its turn fails, the art of calculation both accomplishes demonstrations and likewise, if there is any treatment of forms, also what concerns the forms …",
+     "kind": "narration"
+    },
+    {
+     "entry": 12,
+     "who": "Narrator",
+     "text": "Doubtful Writings: On the Decad",
+     "kind": "narration"
+    },
+    {
+     "entry": 13,
+     "who": "Narrator",
+     "text": "Fr. 5 · Theon of Smyrna p. 106, 7 HillerThe decad, however, brings all number to completion, embracing within itself every nature, of even and odd, of moving and unmoved, of good and bad; about it both Archytas in his On the Decad and Philolaus in his On Nature set out many things.",
+     "kind": "narration"
+    },
+    {
+     "entry": 14,
+     "who": "Narrator",
+     "text": "On Flutes",
+     "kind": "narration"
+    },
+    {
+     "entry": 15,
+     "who": "Narrator",
+     "text": "Fr. 6 · Athenaeus IV 184 EMany of the Pythagoreans too practised flute-playing, such as Euphranor and Archytas and Philolaus and not a few others. Euphranor also left a treatise On Flutes, and so likewise did Archytas.Compare ‘Archytas the harmonic theorist’ (Chamaeleon in Athenaeus XIII 600 F).",
+     "kind": "narration"
+    },
+    {
+     "entry": 16,
+     "who": "Narrator",
+     "text": "On Mechanics",
+     "kind": "narration"
+    },
+    {
+     "entry": 17,
+     "who": "Narrator",
+     "text": "Fr. 7 · Vitruvius, De architectura VII, preface 14Likewise on machines , such as Diades, Archytas, Archimedes, Ctesibius, Nymphodorus, Philo of Byzantium, etc.",
+     "kind": "narration"
+    },
+    {
+     "entry": 18,
+     "who": "Narrator",
+     "text": "On Agriculture",
+     "kind": "narration"
+    },
+    {
+     "entry": 19,
+     "who": "Narrator",
+     "text": "Fr. 8 · Varro, De re rustica I 1, 8 (whence Columella I 1, 7)Those who have written in Greek … among the philosophers, Democritus the natural philosopher, Xenophon the Socratic, Aristotle and Theophrastus the Peripatetics, Archytas the Pythagorean.",
+     "kind": "narration"
+    },
+    {
+     "entry": 20,
+     "who": "Narrator",
+     "text": "Spurious Writings",
+     "kind": "narration"
+    },
+    {
+     "entry": 21,
+     "who": "Narrator",
+     "text": "Fr. 9Titles: 1. On Principles, in Stobaeus, Eclogae I 41, 2. 2. On Being, in Stobaeus, Eclogae II 2, 4. 3. On the Universe, or On Universal Terms, or On Genera, or Before the Topics (the Categories), in Simplicius and other commentators; compare the Ten Universal Terms, edited by Orelli, Opuscula sententiosa I 273. 4. On Opposites, in Simplicius. 5. On Intellect and Sense-Perception, in Stobaeus, Eclogae I 48, 6 (Iamblichus, Protrepticus 10, p. 55, 8 Pistelli). 6. On Moral Education, in Stobaeus, Eclogae II 31, 120; Florilegium III 1, 105–106 (= On the Upbringing of Children, Philostratus, Life of Apollonius VI 31 ff.). 7. On the Good and Happy Man, in Stobaeus, Florilegium III 1, 107; III 3, 65; IV 50, 28. 8. On Wisdom, in Iamblichus, Protrepticus 4, p. 16, 17 ff. Pistelli. 9. On Law and Justice, in Stobaeus, Florilegium IV 1, 135–138 (132?); IV 5, 61. 10. On the Soul (?). Compare Iamblichus in Stobaeus, Eclogae I p. 369, 9 Wachsmuth; John Lydus, De mensibus II 9; Claudianus Mamertus, De statu animae II 7: ‘in that magnificent work which he published on the nature of things’ (On Nature?). 11. The Art of Cookery, in Athenaeus XII 516 C. 12. Letters to Dionysius and Plato, in Diogenes Laertius III 22; VIII 80.",
+     "kind": "narration"
+    }
+   ]
+  }
+ ]
+}

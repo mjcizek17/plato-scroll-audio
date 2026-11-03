@@ -1,0 +1,870 @@
+{
+ "key": "cleanthes-fragments",
+ "title": "Fragments, Hymn to Zeus and Sayings",
+ "author": "Cleanthes",
+ "translator": "Claude AI",
+ "parts": [
+  {
+   "name": "Fragments, Hymn to Zeus and Sayings",
+   "lines": [
+    {
+     "entry": 0,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragments, Hymn to Zeus and Sayings",
+     "kind": "heading"
+    },
+    {
+     "entry": 0,
+     "who": "Marcus Aurelius Reader",
+     "text": "The fragments of Cleanthes of Assos (c. 330–230 BCE), Zeno's successor as head of the Stoa: the Hymn to Zeus (fragment 48), the sun as the ruling part of the cosmos, tension (tonos), the soul and its survival, virtue that cannot be lost, and the sayings of the water-carrier who studied by night. Text of the fragments from A. C. Pearson, The Fragments of Zeno and Cleanthes (Cambridge, 1891), numbered as there; Pearson's commentary is not included. New English translation, with the Greek and Latin beside it; not yet reviewed by a scholar.",
+     "kind": "narration"
+    },
+    {
+     "entry": 1,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragments",
+     "kind": "heading"
+    },
+    {
+     "entry": 2,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 1. Diogenes Laertius, Lives 7.41 But Cleanthes says there are six parts : dialectic, rhetoric, ethics, politics, physics, theology.",
+     "kind": "narration"
+    },
+    {
+     "entry": 3,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 2. Epictetus, Discourses 1.17.11 Logic is what discriminates and examines everything else and, as one might say, measures and weighs it. Who says so? Only Chrysippus and Zeno and Cleanthes?",
+     "kind": "narration"
+    },
+    {
+     "entry": 4,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 3. Sextus Empiricus, Against the Mathematicians 7.228; 7.372; 8.400; Outlines of Pyrrhonism 2.70 Math. 7.228: (The “impression”), about which they at once fell into disagreement. For Cleanthes (understood) the impression as one made by depression and projection, like the impression made in wax by signet rings. — Math. 7.372: For if the presentation (phantasia) is an impression in the soul, either it is an impression by projection and depression, as the followers of Cleanthes hold, or it comes about by mere alteration … — Math. 8.400: Cleanthes understanding it in the strict sense, as the impression conceived with depression and projection. — Pyrrh. 2.70: Since, then, the soul and the ruling part (hegemonikon) is breath (pneuma), or something of finer parts than breath, as they say, no one will be able to conceive an impression in it, either by projection and depression, as we see with seals, or by the fabulous “alterative” kind.",
+     "kind": "narration"
+    },
+    {
+     "entry": 5,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 4. Plutarch , Opinions of the Philosophers 4.11 The Stoics say: when a man is born, he has the ruling part (hegemonikon) of his soul like a sheet of papyrus ready (or: in working order) for writing; on this he inscribes each one of his conceptions.",
+     "kind": "narration"
+    },
+    {
+     "entry": 6,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 5. Olympiodorus, Commentary on Plato's Gorgias (see Zeno frag. 12); Quintilian, Institutes of Oratory 2.17.41 Olympiodorus: Cleanthes, then, says that an art is a disposition (hexis) that accomplishes everything by a method (literally, “by a road”). — Quintilian: For if, as Cleanthes held, an art is a power that achieves its effects by a path, that is, by method …",
+     "kind": "narration"
+    },
+    {
+     "entry": 7,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 6. Syrianus, Commentary on Aristotle's Metaphysics (Berlin ed. 892b14–23) … that, for these divine men (Socrates, Plato, Parmenides and the Pythagoreans), the Forms were not introduced for the sake of the customary use of names, as Chrysippus and Archedemus and most of the Stoics later supposed … nor again are the Ideas, for them, mere concepts (ennoēmata), as Cleanthes later said.",
+     "kind": "narration"
+    },
+    {
+     "entry": 8,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 7. Clement of Alexandria, Stromata 8.9.26 For Cleanthes and Archedemus call predicates “sayables” (lekta).",
+     "kind": "narration"
+    },
+    {
+     "entry": 9,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 8. Epictetus, Discourses 2.19.1–4; Cicero, On Fate 7.14 Epictetus: The “Master Argument” appears to have been propounded from some such starting points as these. There is a mutual conflict among these three propositions: that every past truth is necessary; that the impossible does not follow from the possible; and that something is possible which neither is nor will be true. Seeing this conflict, Diodorus used the plausibility of the first two to establish that nothing is possible which neither is nor will be true. Now one man will keep these two: that there is something possible which neither is nor will be true, and that the impossible does not follow from the possible; but not every past truth is necessary, as Cleanthes and his followers seem to hold, whom Antipater strongly supported. Others keep the other two: that something is possible which neither is nor will be true, and that every past truth is necessary; but then the impossible does follow from the possible. To keep all three is impossible, because of their mutual conflict. — Cicero: For all true statements about the past are necessary, as Chrysippus holds, dissenting from his teacher Cleanthes, because past events are unchangeable and cannot turn from true to false.",
+     "kind": "narration"
+    },
+    {
+     "entry": 10,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 9. Quintilian, Institutes of Oratory 2.15.33–35 The definition that best suits its true nature will be that rhetoric is the science of speaking well. For it embraces at once all the excellences of speech, and with them the character of the orator too, since no one can speak well who is not good. The same force belongs to that definition of Chrysippus, derived from Cleanthes: (rhetoric is) the science of speaking rightly.",
+     "kind": "narration"
+    },
+    {
+     "entry": 11,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 10. Varro, On the Latin Language 5.9 But if I do not reach the highest step, I shall at least get beyond the second, since I have worked by lamplight not only at Aristophanes' lamp but also at Cleanthes' .",
+     "kind": "narration"
+    },
+    {
+     "entry": 12,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 11. Athenaeus, Deipnosophists 11.467d; 11.471b 467d: Cleanthes the philosopher, in his work On Metalepsis, says that the Thericlean cup and the deinias were named after those who made them. — 471b: Cleanthes, in his treatise On Metalepsis, says: “Inventions, then, and whatever things of the kind there still are, such as the thericleios, the deinias, the iphicratis — these formerly made known their inventors along with them, and this is still apparent even now; and if a name does not do this, it must have changed somewhat. But, as has been said, one cannot trust just anyone.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 13,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 12. Diogenes Laertius, Lives 7.134 They hold that there are two principles of the universe, the active and the passive. The passive is unqualified substance, that is, matter; the active is the reason (logos) in it, that is, God. For he, being eternal, fashions each several thing throughout the whole of it. This doctrine is laid down by … Cleanthes in his work On Atoms.",
+     "kind": "narration"
+    },
+    {
+     "entry": 14,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 13. Tertullian, Apology 21 These things (which Zeno said were the Logos) Cleanthes gathers up into a spirit (pneuma), which he declares to be what pervades the universe.",
+     "kind": "narration"
+    },
+    {
+     "entry": 15,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 14. Stobaeus, Eclogues 1.1.29b; Cicero, On the Nature of the Gods 1.37; Minucius Felix, Octavius 19.10 Stobaeus: Diogenes, Cleanthes and Oenopides (say that God is) the soul of the world. — Cicero: At another time he gives this name (God) to the mind and soul of all nature. — Minucius Felix: Theophrastus, Zeno, Chrysippus and Cleanthes are themselves of many shapes, but all come back to the unity of providence. For Cleanthes spoke of God now as mind, now as soul, now as aether, but most often as reason.",
+     "kind": "narration"
+    },
+    {
+     "entry": 16,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 15. Cicero, On the Nature of the Gods 1.37; Lactantius, Divine Institutes 1.5 Cicero: At another time he judges the most certain god to be that farthest and highest heat, poured round on every side, the outermost thing that girds and embraces all, which is called aether. — Lactantius: Cleanthes and Anaximenes say that the aether is the supreme God (quoting Virgil, Georgics 2.325 in support).",
+     "kind": "narration"
+    },
+    {
+     "entry": 17,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 16. Philodemus, On Piety c. 9; Cicero, On the Nature of the Gods 1.37 Philodemus: (God is) the reason (logos) that governs the things in the world. — Cicero: At another time he holds that nothing is more divine than reason.",
+     "kind": "narration"
+    },
+    {
+     "entry": 18,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 17. Cicero, On the Nature of the Gods 1.37 Cleanthes … at one time says that the world itself is God.",
+     "kind": "narration"
+    },
+    {
+     "entry": 19,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 18. Chalcidius, Commentary on Plato's Timaeus 144 Hence it follows that whatever happens according to fate also comes from providence, and likewise whatever happens according to providence comes from fate, as Chrysippus holds. Others, however, hold that what comes from the authority of providence also comes about by fate, but not that what comes by fate is from providence: so Cleanthes.",
+     "kind": "narration"
+    },
+    {
+     "entry": 20,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 19. Philo, On Providence 2.74 (Latin version of Aucher, p. 94) (The planets) are known not only by reason but also by sense, since providence so moves them; and providence, as Chrysippus and Cleanthes say, has left out nothing that pertains to a surer and more useful ordering. If it were better for the affairs of the world to be ordered otherwise, it would have taken that arrangement, so far as nothing occurred to hinder God.",
+     "kind": "narration"
+    },
+    {
+     "entry": 21,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 20. Probus, Commentary on Virgil's Eclogues 6.31 So he relates that this whole form of the nature of things, at first scattered in a thin and empty mass, condensed into four elements, and that from these all things were afterwards fashioned: so the Stoics teach, Zeno of Citium, Speusippus (read Chrysippus) of Soli, and Cleanthes of Thasos (read of Assos).",
+     "kind": "narration"
+    },
+    {
+     "entry": 22,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 21. Hermias, Mockery of the Pagan Philosophers 14 (Diels p. 654) But Cleanthes, lifting his head out of the well, laughs at your doctrine, and himself draws up the true principles, God and matter; and (he says) that earth changes into water, water into air, air is carried &lt;into fire&gt;, and fire passes into the regions about the earth; and that soul pervades the whole cosmos, and we, sharing in a part of it, are ensouled.",
+     "kind": "narration"
+    },
+    {
+     "entry": 23,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 22. Stobaeus, Eclogues 1.20.1e Zeno, Cleanthes and Chrysippus hold that substance changes into fire as into a seed, and that from this again an ordering of the world (diakosmēsis) is brought to completion such as there was before.",
+     "kind": "narration"
+    },
+    {
+     "entry": 24,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 23. Philo, On the Indestructibility of the World p. 954 For (at the conflagration) it must change either into flame or into light: into flame, as Cleanthes thought, into light, as Chrysippus did.",
+     "kind": "narration"
+    },
+    {
+     "entry": 25,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 24. Stobaeus, Eclogues 1.17.3 Cleanthes speaks somewhat as follows. When the universe has been set ablaze, its middle first settles together, and then the parts next to it are quenched throughout. When the whole has become moist, the outermost part of the fire, as the middle resists it, turns back again in the opposite direction; and turning in this way, he says, it grows upward and begins to order the whole. And as it continually performs such a cycle and ordering, the tension (tonos) in the substance of the universe never ceases. For just as all the parts of a single thing grow from seeds at their appointed times, so too the parts of the whole, among which are animals and plants, grow at their appointed times. And just as certain rational proportions (logoi) of the parts come together into the seed and are mixed, and are separated again when the parts come into being, so all things come to be from one, and from all things are combined into one, the cycle running its course methodically and harmoniously.",
+     "kind": "narration"
+    },
+    {
+     "entry": 26,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 25. Plutarch, On Common Conceptions 31.10 Further, Cleanthes, pressing his case for the conflagration (ekpyrōsis), says that the sun will make the moon and all the other stars like itself and change them into itself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 27,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 26. Stobaeus, Eclogues 1.15.6b Cleanthes alone of the Stoics declared fire to be cone-shaped.",
+     "kind": "narration"
+    },
+    {
+     "entry": 28,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 27. Plutarch, On the Face in the Moon 6.3 … just as Cleanthes thought that the Greeks ought to indict Aristarchus of Samos on a charge of impiety for moving the hearth of the cosmos, because the man tried to save the appearances by supposing that the heaven stays at rest while the earth revolves along an oblique circle and at the same time spins about its own axis.",
+     "kind": "narration"
+    },
+    {
+     "entry": 29,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 28. Eusebius, Preparation for the Gospel 15.15.7 (Arius Didymus fr. 29 Diels); Censorinus, fragment 1.4; Diogenes Laertius, Lives 7.139; Stobaeus, Eclogues 1.21.6; Cicero, Academics 2.126 Arius Didymus: Cleanthes held that the ruling part (hegemonikon) of the cosmos is the sun, because it is the greatest of the stars and contributes most to the government of the universe, making day and year and the other seasons. — Censorinus: (The world) consists of four elements, earth, water, fire and air; and some, like Cleanthes, think that its ruling part is the sun. — Diogenes Laertius 7.139 (cited for the same view). — Stobaeus: Cleanthes the Stoic said that the ruling part of the cosmos is in the sun. — Cicero: Cleanthes, a Stoic of the old nobility, so to speak, a pupil of Zeno, thinks that the sun is lord and master of the world.",
+     "kind": "narration"
+    },
+    {
+     "entry": 30,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 29. Stobaeus, Eclogues 1.25.3i; Cicero, On the Nature of the Gods 3.37; Macrobius, Saturnalia 1.23.2 Stobaeus: Cleanthes (says) the sun is an intelligent kindling from the sea. As to its turnings (solstices), they say these follow the extent of the nourishment beneath it: for it is the Ocean * * * whose exhalation it feeds upon. And the sun is carried round (with the heaven), moving in a spiral within the sphere, from the equator toward the north and the south, which are the limits of the spiral. — Cicero: Well then, do you not also hold that all fire needs fuel and cannot last at all unless it is fed; and that the sun, moon and other stars are fed by waters, some by fresh, some by salt? And Cleanthes gives this as the reason why the sun turns back and goes no further beyond the summer and winter tropics: so as not to go too far from its food. — Macrobius: For this reason, as Posidonius and Cleanthes affirm, the sun's path does not depart from the zone called torrid, because the Ocean runs beneath it, which encircles and divides the earth.",
+     "kind": "narration"
+    },
+    {
+     "entry": 31,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 30. Cicero, On the Nature of the Gods 2.40–41 Cleanthes thinks that the stars are wholly fiery, as is confirmed by the testimony of two senses, touch and sight. For the sun's brightness is more brilliant than that of any fire, since it shines so far and wide across the boundless world; and its touch is such that it not only warms but often even burns. It would do neither of these unless it were fiery. “Therefore,” he says, “since the sun is fiery and is fed by the moisture of the Ocean, because no fire can last without some fuel, it must be like either the fire we use for our needs and for cooking, or the fire contained in the bodies of living creatures. But this fire of ours, which the needs of life require, destroys and consumes everything, and wherever it spreads it throws all into confusion and scatters it. That bodily fire, on the contrary, vital and health-giving, preserves, nourishes, increases and sustains all things and endows them with sensation.” He says, therefore, there can be no doubt which of these fires the sun resembles, since it too makes all things flourish and grow to maturity each in its kind. So, since the sun's fire is like the fires in the bodies of living creatures, the sun too must be a living creature, and so must the other stars, which arise in the celestial heat that is called aether or heaven.",
+     "kind": "narration"
+    },
+    {
+     "entry": 32,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 31. Clement of Alexandria, Stromata 5.8.48 These people have not read Cleanthes the philosopher, who expressly calls the sun a plectrum; for at its risings, thrusting forth its rays as if striking the cosmos, it leads the light on its harmonious course; and by the sun he indicates the rest of the stars as well.",
+     "kind": "narration"
+    },
+    {
+     "entry": 33,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 32. Stobaeus, Eclogues 1.26.1 Cleanthes (says) the moon is fiery, and in shape like a felt cap (piloeidēs).",
+     "kind": "narration"
+    },
+    {
+     "entry": 34,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 33. Stobaeus, Eclogues 1.24.2d; Plutarch , Opinions of the Philosophers 2.14.2; Galen, History of Philosophy 13; Achilles Tatius, Introduction to Aratus p. 133c; Theodoret, Cure of the Greek Maladies 4.20 Stobaeus: The other &lt;Stoics&gt; say the stars are spherical, but Cleanthes says they are cone-shaped. — Plutarch, Opinions 2.14.2 (the same). — Galen: Cleanthes (says) the stars are cone-shaped. — Achilles Tatius: Cleanthes says the stars have a conical shape. — Theodoret: Cleanthes the Stoic (says) they are cone-shaped.",
+     "kind": "narration"
+    },
+    {
+     "entry": 35,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 34. Plutarch , Opinions of the Philosophers 2.16.1; Galen, History of Philosophy 13 Plutarch: Anaxagoras, Democritus and Cleanthes (hold) that all the stars move from east to west. — Galen: Anaxagoras, Democritus and Cleanthes think that the stars move from east to west.",
+     "kind": "narration"
+    },
+    {
+     "entry": 36,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 35. Geminus, Elements of Astronomy p. 53 (in Petau's Uranologion) Some of the ancients, among them Cleanthes the Stoic philosopher, declared that the Ocean is spread out beneath the torrid zone, between the tropics.",
+     "kind": "narration"
+    },
+    {
+     "entry": 37,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 36. Tertullian, On the Soul 5; Nemesius, On the Nature of Man p. 32; Tertullian, On the Soul 25 Tertullian, On the Soul 5: Cleanthes too holds that children resemble their parents not only in bodily features but also in the marks of the soul, as in a mirror of character, temperament and feelings; but likeness and unlikeness belong to body, and so the soul too is a body, being subject to likeness or unlikeness. Again, the affections of bodies and of incorporeal things have nothing in common. Yet the soul suffers with the body, grieving with it when it is hurt by blows, wounds and sores; and the body suffers with the soul, sickening with it when the soul is afflicted by care, anguish or love, through loss of vigour, and bearing witness to the soul's shame and fear by blushing and pallor. The soul, therefore, is a body, from its sharing in bodily affections. — Nemesius: Cleanthes weaves the following syllogism: “We resemble our parents,” he says, “not only in body but also in soul, in our feelings, character and dispositions; but likeness and unlikeness belong to body, not to the incorporeal; therefore the soul is a body.” … Cleanthes says further: “Nothing incorporeal suffers with a body, nor a body with something incorporeal, but body with body. But the soul suffers with the body when it is sick or cut, and the body with the soul: when the soul is ashamed the body turns red, and when it is afraid, pale. Therefore the soul is a body.” — Tertullian, On the Soul 25: Whence, I ask you, do we resemble our parents in soul too, in our dispositions, according to the testimony of Cleanthes, if we are not produced from a seed of the soul?",
+     "kind": "narration"
+    },
+    {
+     "entry": 38,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 37. Stobaeus, Eclogues 1.48.7 Pythagoras, Anaxagoras, Plato, Xenocrates and Cleanthes (hold) that the mind enters from outside.",
+     "kind": "narration"
+    },
+    {
+     "entry": 39,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 38. Cross-reference Same as Zeno, fragment 83 (Arius Didymus in Eusebius, Preparation for the Gospel 15.20.2, on the soul as an exhalation), which also concerns Cleanthes.",
+     "kind": "narration"
+    },
+    {
+     "entry": 40,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 39. Cross-reference Same as Zeno, fragment 87 (Galen, On the Doctrines of Hippocrates and Plato 2.8): Cleanthes, Chrysippus and Zeno said that the soul is nourished from the blood, and that its substance is breath (pneuma).",
+     "kind": "narration"
+    },
+    {
+     "entry": 41,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 40. Cross-reference Same as Zeno, fragment 88 (Longinus in Eusebius, Preparation for the Gospel 15.21; Theodoret): Zeno and Cleanthes both said that the soul is an exhalation of the solid blood.",
+     "kind": "narration"
+    },
+    {
+     "entry": 42,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 41. Diogenes Laertius, Lives 7.157 Cleanthes holds that all souls survive until the conflagration (ekpyrōsis), Chrysippus only those of the wise.",
+     "kind": "narration"
+    },
+    {
+     "entry": 43,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 42. Cicero, On the Nature of the Gods 2.24 Cleanthes also shows by these arguments how great a force of heat is present in every body: he says that no food is so heavy that it is not digested within a night and a day; and even in its remains, which nature has rejected, there is heat.",
+     "kind": "narration"
+    },
+    {
+     "entry": 44,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 43. Seneca, Letters 113.18 Cleanthes and his pupil Chrysippus do not agree about what walking is. Cleanthes says it is breath (pneuma) sent out from the ruling part (hegemonikon) all the way to the feet; Chrysippus, that it is the ruling part itself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 45,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 44. Clement of Alexandria, Stromata 7.6.33 Hence Aesop too said, not badly, that pigs squeal loudest when they are being dragged off, for they know they are good for nothing but sacrifice. That is why Cleanthes too says that they have their soul instead of salt, so that their flesh may not rot.",
+     "kind": "narration"
+    },
+    {
+     "entry": 46,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 45. Plutarch, On the Cleverness of Animals 11.2–3; Aelian, On the Nature of Animals 6.50 Plutarch: Cleanthes, though he denied that animals share in reason, used to say that he happened upon the following sight. Some ants came to another anthill carrying a dead ant. Other ants came up out of the anthill, met them as if to parley, and went back down again; and this happened two or three times. Finally the ones below brought up a grub as a ransom for the dead ant, and the visitors took it up, handed over the corpse, and went away. — Aelian: A story of the following kind, they say, forced Cleanthes of Assos, against his will, to yield and to concede that animals too are not without reasoning, though he had argued hard and with all his might against it. Cleanthes happened to be sitting idle for rather a long while; and there were many ants about his feet. He saw some ants carrying a dead ant from some other track to the home of other ants, not of their own nest, and standing with the corpse at the rim of the anthill; and others came up from below and met with the strangers as if to negotiate, then the same ones went down again, and this happened several times; and at last they brought a grub, as it were a ransom; the visitors took it and gave up the corpse they had brought; and the others received it gladly, as if they were recovering a son or a brother.",
+     "kind": "narration"
+    },
+    {
+     "entry": 47,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 46. Cicero, On the Nature of the Gods 1.37 And the same Cleanthes, as if raving, in the books he wrote against pleasure, at one time invents a certain form and appearance for the gods, at another assigns all divinity to the stars, and at another holds that nothing is more divine than reason.",
+     "kind": "narration"
+    },
+    {
+     "entry": 48,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 47. Plutarch, On Common Conceptions 31.5 But Chrysippus and Cleanthes, having filled, so to speak, heaven, earth, air and sea with gods in their teaching, have left not one of so many gods imperishable or eternal except Zeus alone, into whom they use up all the rest … And this does not merely … follow from their doctrines: they themselves, crying it aloud in their writings on the gods, on providence, on fate and on nature, say expressly that all the gods have come into being and will be destroyed by fire, being, in their view, meltable like figures of wax or tin.",
+     "kind": "narration"
+    },
+    {
+     "entry": 49,
+     "who": "Marcus Aurelius Reader",
+     "text": "The Hymn to Zeus",
+     "kind": "narration"
+    },
+    {
+     "entry": 50,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 48. Stobaeus, Eclogues 1.1.12 (p. 25.3 Wachsmuth) (Hymn) of Cleanthes. Most glorious of the immortals, many-named, almighty for ever, Zeus, author and leader of nature, who steer all things with law, hail! For it is right for all mortals to address you. For we are your offspring, †having received as our portion an imitation of sound†, we alone of all mortal things that live and move upon the earth. Therefore I will hymn you and sing your power for ever. All this cosmos, wheeling round the earth, obeys you wherever you lead, and willingly is ruled by you; such a servant you hold in your unconquerable hands, the two-edged, fiery, ever-living thunderbolt. For beneath its stroke all things in nature shudder; with it you guide the common Logos that moves through all things, mingling with the great lights and the small. No deed is done on earth apart from you, O god, nor in the divine ethereal heaven, nor in the sea, save what the wicked do in their own folly. But you know also how to make the odd even, to bring order to the disordered; and things unloved are dear to you. For so have you fitted all things into one, the good with the bad, that there comes to be one Logos of all things, everlasting, which all the wicked among mortals shun and neglect, ill-fated, who, ever longing to possess good things, neither see God's common law nor hear it, which if they obeyed with understanding, they would have a good life. But they, senseless, rush each after a different evil: some with a contentious zeal for glory, some turned to gain, without any order, others to ease and the pleasant works of the body, …… are carried now to this, now to that, striving hard that the very opposite of these may come to pass. But Zeus, giver of all, wrapped in dark cloud, lord of the bright lightning, deliver men from their baneful ignorance; scatter it, Father, from the soul, and grant that we attain the wisdom (gnōmē) in reliance on which you steer all things with justice, so that, honoured by you, we may repay you with honour, hymning your works without ceasing, as befits one who is mortal; since neither for mortals is there any greater prize, nor for gods, than ever to hymn in justice the common law.",
+     "kind": "narration"
+    },
+    {
+     "entry": 51,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 49. Philodemus, On Music col. 28.1 … unless indeed they mean to say these things on the authority of Cleanthes, who says that poetic and musical examples are better, and that, while the discourse of philosophy is able to declare things divine and human adequately, yet, being bare prose, it lacks expressions proper to the divine majesty, whereas metres, melodies and rhythms come as close as possible to the truth of the contemplation of the divine.",
+     "kind": "narration"
+    },
+    {
+     "entry": 52,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 50. Seneca, Letters 108.10 For, as Cleanthes used to say, just as our breath gives a clearer sound when a trumpet, having drawn it through the narrows of a long tube, pours it out with greater force at the final opening, so the strict constraint of verse makes our meaning clearer.",
+     "kind": "narration"
+    },
+    {
+     "entry": 53,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 51. Sextus Empiricus, Against the Mathematicians 9.88–91 Cleanthes argued as follows. If one nature is better than another, there must be some best nature; if one soul is better than another, there must be some best soul; and so, if one living being is better than another, there must be some best living being. For such things are not of a kind to run off into infinity: neither nature, nor soul, nor living being could go on increasing in excellence without limit. (89) Now one living being is better than another, as a horse is better than a tortoise, say, a bull than an ass, and a lion than a bull. And of nearly all the living beings on earth, man excels and is best in condition of both body and soul; so he would be the best and most excellent living being. (90) And yet man cannot at all be the best living being: to begin with, because he walks in vice all his life, or if not all, then most of it (for even if he ever attains virtue, he attains it late and at the sunset of life); and he is perishable and weak and needs countless aids, such as food and clothing and the other care of the body, which stands over us like some harsh tyrant, demanding its daily tribute, and threatening sickness and death if we do not provide for washing it, anointing it, clothing it and feeding it. So man is not a perfect living being, but imperfect and far removed from the perfect. (91) But the perfect and best being must be better than man, filled with all the virtues and incapable of admitting any evil; and this will not differ from God. Therefore God exists.",
+     "kind": "narration"
+    },
+    {
+     "entry": 54,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 52. Cicero, On the Nature of the Gods 2.13–15; 3.16 N. D. 2: Our Cleanthes said that the notions of the gods were formed in men's minds from four causes. The first he set down was the one I have just mentioned, which arose from foreknowledge of future events; the second, the one we have derived from the greatness of the benefits we receive from a temperate climate, the fertility of the earth, and the abundance of many other goods; the third, the one that terrified men's minds with thunderbolts, storms, rain-clouds, snow, hail, devastation, pestilence, earthquakes and frequent rumblings, showers of stones and drops of rain like blood, then landslides or sudden chasms in the earth, then unnatural monsters among men and beasts, then torches seen in the sky, and those stars the Greeks call comets and we call “long-haired” … then a double sun … terrified by which men suspected that there is some heavenly and divine power; and the fourth cause, and the greatest of all, was the regularity of motion, the revolution of the heaven, and the distinctness, variety, beauty and order of the sun, moon and all the stars, the mere sight of which would show sufficiently that these things are not the work of chance. — N. D. 3: For Cleanthes, as you said, thinks that the notions of the gods were formed in men's minds in four ways. One way … is that taken from foreknowledge of future events; the second from the disturbances of the weather and other upheavals; the third from the usefulness and abundance of the things we enjoy; the fourth from the order of the stars and the constancy of the heaven.",
+     "kind": "narration"
+    },
+    {
+     "entry": 55,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 53. Epiphanius, Against Heresies 3.2.9 (3.37) Cleanthes says that pleasures are the good and the noble; he called the soul alone the man; he said that the gods are mystic figures and sacred names, declared the sun to be the torch-bearer, and called the cosmos the initiates, and those possessed by the divine, the rites.",
+     "kind": "narration"
+    },
+    {
+     "entry": 56,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 54. Philodemus, On Piety fr. 13 And in the second book (of his On the Gods, Chrysippus) tries, as Cleanthes too did, to bring the stories attributed to Orpheus and Musaeus, and those in Homer, Hesiod, Euripides and other poets, into line with their (the Stoics') opinions.",
+     "kind": "narration"
+    },
+    {
+     "entry": 57,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 55. Plutarch, How the Young Man Should Listen to Poetry 11 Nor should we listen carelessly to words; but we should decline the playfulness of Cleanthes. For he sometimes speaks in mock seriousness, pretending to explain “Father Zeus, ruling from Ida” and “Lord Zeus of Dodona”: he bids us read the latter as one word (anadōdōnaie), on the ground that the air exhaled from the earth is “anadōdōnaios” because of its being given up (anadosis).",
+     "kind": "narration"
+    },
+    {
+     "entry": 58,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 56. Plutarch, On Isis and Osiris 66 Cleanthes says somewhere that Persephone (Phersephonē) is the breath (pneuma) that is carried (pher-) through the crops and slain (phon-).",
+     "kind": "narration"
+    },
+    {
+     "entry": 59,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 57. Macrobius, Saturnalia 1.18.14 Hence Cleanthes writes that (Dionysus) was so named from dianysai, “to accomplish”, because by his daily motion from east to west, making day and night, he completes the course of the heaven.",
+     "kind": "narration"
+    },
+    {
+     "entry": 60,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 58. Macrobius, Saturnalia 1.17.8 Cleanthes (explains the name Apollo) as “he who makes his risings from other and other places” (ap᾽ allōn kai allōn), because he rises at ever different points of declination.",
+     "kind": "narration"
+    },
+    {
+     "entry": 61,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 59. Macrobius, Saturnalia 1.17.36 Cleanthes notes that Apollo is called Lycius because, just as wolves (lykoi) carry off the flocks, so he too snatches away moisture with his rays.",
+     "kind": "narration"
+    },
+    {
+     "entry": 62,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 60. Macrobius, Saturnalia 1.17.31 He is surnamed Loxias, as Oenopides says, “because he travels the oblique (loxos) circle, moving from west to east”, that is, because he proceeds along an oblique circle from setting to rising; or, as Cleanthes writes, “because he moves in spirals, for these too are oblique”, that is, because he follows a winding path.",
+     "kind": "narration"
+    },
+    {
+     "entry": 63,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 61. Photius, Lexicon s.v. leschai (p. 158 ed. Hermann) Cleanthes says that the leschai (public lounges) have been assigned to Apollo, and that they are like exedrae; and that Apollo himself is called by some “Leschenorios” (patron of conversation).",
+     "kind": "narration"
+    },
+    {
+     "entry": 64,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 62. Cornutus, On the Nature of the Gods 31 (end) The twelve labours may, not inappropriately, be referred to the god, as Cleanthes in fact did; but it seems one ought not to give the ingenious word-spinner precedence everywhere.",
+     "kind": "narration"
+    },
+    {
+     "entry": 65,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 63. Scholia on Homer, Iliad 3.64 (Bekker p. 99b28) Cleanthes that in Lesbos Aphrodite is honoured under this name, “golden Aphrodite.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 66,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 64. Athenaeus, Deipnosophists 13.572f At Abydos there is a temple of Aphrodite the Harlot, as Pamphilus says. For when the city was held in subjection, the garrison in it once held a sacrifice, as Cleanthes relates in his Mythical Tales, and, having got drunk, took in a number of courtesans. One of them, seeing the men fallen asleep, took the keys, climbed over the wall and reported it to the people of Abydos. They came at once in arms and killed the guards; and having taken control of the walls and won their freedom, they founded a temple of Aphrodite the Harlot as a thank-offering to the harlot.",
+     "kind": "narration"
+    },
+    {
+     "entry": 67,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 65. Scholia on Homer, Odyssey 1.52 (Cramer, Anecdota Oxoniensia 3.416) “Oloophrōn” (baleful-minded): Cleanthes gives it a rough breathing (holoophrōn): “he who takes thought for the whole.” — Eustathius: Atlas … some allegorise as the untiring and unwearying providence that is the cause of all things, and understand such an Atlas as holoophrōn, one who thinks on behalf of the whole, that is, who takes care of the whole. That is why Cleanthes, they say, put a rough breathing on the o of the first syllable.",
+     "kind": "narration"
+    },
+    {
+     "entry": 68,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 66. Apollonius the Sophist, Homeric Lexicon s.v. mōly (p. 114 Bekker; on Odyssey 10.305) Cleanthes the philosopher says that allegorically reason (logos) is meant, by which the impulses and the passions are weakened (mōlynontai).",
+     "kind": "narration"
+    },
+    {
+     "entry": 69,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 67. Contest of Homer and Hesiod p. 4.18 (ed. Nietzsche) For Hellanicus and Cleanthes say that Maeon (so conjectured by Sturz and Welcker for the manuscripts’ “Bion”) .",
+     "kind": "narration"
+    },
+    {
+     "entry": 70,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 68. Porphyry, Life of Pythagoras 1–2 Cleanthes, in the fifth book of his Mythical Tales, a Syrian, from Tyre in Syria. When a famine struck the Samians, Mnesarchus sailed to the island on a trading voyage with grain, sold it, and was honoured with citizenship. Since Pythagoras was from boyhood gifted for every kind of learning, Mnesarchus took him away to Tyre, and there, having been introduced to the Chaldaeans, he shared in their learning more fully. Returning from there to Ionia, Pythagoras first studied with Pherecydes of Syros, and then with Hermodamas the Creophylean in Samos, who was already growing old. Cleanthes says there are others who declare that his father was a Tyrrhenian, one of those who colonised Lemnos, and that from there he came to Samos on business, stayed, and became a citizen. When Mnesarchus sailed to Italy, Pythagoras, still quite young, sailed with him and, the country very prosperous, later sailed back there. He also lists two older brothers of his, Eunostus and Tyrrhenus. — Clement of Alexandria, Stromata 1: According to Cleanthes (manuscripts: Neanthes), Pythagoras was a Syrian or a Tyrian. — Theodoret, Cure of Greek Maladies: Cleanthes (manuscripts: Neanthes) calls Pythagoras a Tyrian.",
+     "kind": "narration"
+    },
+    {
+     "entry": 71,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 69. Pseudo-Plutarch, On Rivers 5.3 Beside it lies the Caucasian mountain. It was formerly called “Boreas’ Bed” for the following reason. Boreas, out of erotic desire, carried off Chione, the daughter of Arcturus, brought her down to a hill called Niphantes, and begot by her a son, Hyrpax, who succeeded Heniochus in the kingship. So the mountain was renamed Boreas’ Bed. It came to be called Caucasus through the following circumstance. After the battle of the Giants, Cronus, escaping the threats of Zeus, fled to the summit of Boreas’ Bed and, changing into a crocodile, ⟨lay hidden. But Prometheus⟩ cut open one of the local shepherds, Caucasus, and, having observed the disposition of his entrails, said that the enemy was not far off. Zeus appeared, bound his father with a woven woollen cord and cast him down into Tartarus; and, renaming the mountain Caucasus in honour of the shepherd, he chained Prometheus to it and forced him to be tormented by an entrail-eating eagle, because he had committed an outrage against entrails—as Cleanthes relates in the third book of his Battle of the Gods.",
+     "kind": "narration"
+    },
+    {
+     "entry": 72,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 70. Pseudo-Plutarch, On Rivers 5.4 On it (the Caucasus) grows a plant called Promētheios, which Medea gathered and ground fine and used as a counter-charm against her father, as the same author (Cleanthes) relates.",
+     "kind": "narration"
+    },
+    {
+     "entry": 73,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 71. Pseudo-Plutarch, On Rivers 17.4 On it (Mount Taygetus) grows a plant called Charisia, which women hang round their necks at the beginning of spring, and are then loved more tenderly by their husbands, as Cleanthes relates in the first book On Mountains.",
+     "kind": "narration"
+    },
+    {
+     "entry": 74,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 72. Stobaeus, Eclogues 2.7.6a (p. 76.3 Wachsmuth); Clement of Alexandria, Stromata 2.21.129 Cleanthes … gave this formulation: the end (telos) is to live in agreement with nature. — Clement: Cleanthes to live in agreement with nature in reasoning well, which he took to consist in the selection of things according to nature.",
+     "kind": "narration"
+    },
+    {
+     "entry": 75,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 73. Diogenes Laertius, Lives 7.89 By the nature in accordance with which we must live, Chrysippus understands both common nature and, in particular, human nature; but Cleanthes accepts only common nature as the nature one must follow, and not the particular as well. that virtue is a disposition in agreement with itself, and is to be chosen for its own sake, not from some fear or hope or anything external; and that happiness lies in it, since it is a soul made for agreement (homologia) throughout the whole of life; and that the rational animal is perverted, sometimes by the persuasiveness of external pursuits, sometimes by the teaching of those around it, since nature gives starting-points that are unperverted.",
+     "kind": "narration"
+    },
+    {
+     "entry": 76,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 74. Stobaeus, Eclogues 2.7.6e (p. 77.21 Wachsmuth); Sextus Empiricus, Against the Mathematicians 11.30 Happiness is a smooth flow of life. Cleanthes used this definition in his writings, and so did Chrysippus and all their followers, saying that happiness is nothing other than the happy life; though they say that happiness is set before us as the target (skopos), while the end (telos) is attaining happiness, which is the same thing as being happy. — Sextus: Happiness, as Cleanthes and his school say, is a smooth flow of life.",
+     "kind": "narration"
+    },
+    {
+     "entry": 77,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 75. Clement of Alexandria, Protrepticus 6.72 Cleanthes of Assos, the philosopher of the Stoa, who sets forth not a poetic theogony but a true theology, did not conceal what he thought about God: You ask me what the good is like? Then listen: ordered, just, holy, pious, master of itself, useful, fine, fitting, austere, candid, always advantageous, fearless, free of grief, profitable, free of pain, beneficial, well-pleasing, secure, dear, honoured * * * consistent, glorious, unpretentious, careful, gentle, vigorous, lasting, blameless, ever-abiding.",
+     "kind": "narration"
+    },
+    {
+     "entry": 78,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 76. Plutarch, On Stoic Self-Contradictions 7.4 Cleanthes, in his Physical Notes, having said that “tension (tonos) is a stroke of fire, and if it becomes sufficient in the soul for accomplishing what falls to it, it is called strength and power,” adds word for word: “This strength and power, when it arises in regard to what has been seen to be held fast to, is self-control (enkrateia); when in regard to what must be endured, courage; when concerned with deserts, justice; when concerned with choices and avoidances, temperance.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 79,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 77. Clement of Alexandria, Stromata 2.22.131 Hence Cleanthes too, in the second book On Pleasure, says that Socrates taught at every turn that the just man and the happy man are the same, and cursed the first man who separated the just from the advantageous, as one who had done an impious thing; for those who separate the advantageous from what is just according to law are truly impious.",
+     "kind": "narration"
+    },
+    {
+     "entry": 80,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 78. Diogenes Laertius, Lives 7.92 Cleanthes, Chrysippus and Antipater and their followers more .",
+     "kind": "narration"
+    },
+    {
+     "entry": 81,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 79. Diogenes Laertius, Lives 7.91 That it (I mean virtue) can be taught is stated by Chrysippus in the first book On the End, and by Cleanthes.",
+     "kind": "narration"
+    },
+    {
+     "entry": 82,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 80. Diogenes Laertius, Lives 7.127 Moreover, Chrysippus holds that virtue can be lost, Cleanthes that it cannot: the one says it can be lost through drunkenness and melancholy, the other that it cannot be lost, because of firm apprehensions (katalēpseis).",
+     "kind": "narration"
+    },
+    {
+     "entry": 83,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 81. Diogenes Laertius, Lives 7.128 They also hold that one makes use of virtue continually, as Cleanthes and his followers say; for it cannot be lost, and the good man at all times uses a soul that is perfect.",
+     "kind": "narration"
+    },
+    {
+     "entry": 84,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 82. Stobaeus, Eclogues 2.7.5b8 (p. 65.8 Wachsmuth) For all human beings have from nature starting-points toward virtue, and, according to Cleanthes, are in the position, as it were, of half-lines of iambic verse; hence while incomplete they are bad, but once completed they are good.",
+     "kind": "narration"
+    },
+    {
+     "entry": 85,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 83. Themistius, Orations 2.27c But if anyone should say that it is flattery to compare the king with the Pythian god, Chrysippus and Cleanthes will not allow it, nor a whole tribe of philosophy, the chorus from the Painted Stoa, who declare that the virtue and the truth of man and of god are the same.",
+     "kind": "narration"
+    },
+    {
+     "entry": 86,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 84. Galen, On the Doctrines of Hippocrates and Plato 5.6 (5.476 Kühn) He (Posidonius) says that Cleanthes’ view about the passionate part of the soul is evident from these verses: Reason: What is it, Anger, that you want? Tell me that. Anger: To have the power, Reason, to do whatever I want. Reason: Royal indeed! But all the same, say it again. Anger: That whatever I desire shall come to pass. Posidonius says that these exchanges are by Cleanthes and clearly show his view about the passionate part of the soul, since he has made Reason converse with Anger as one companion with another.",
+     "kind": "narration"
+    },
+    {
+     "entry": 87,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 85. Galen, On the Doctrines of Hippocrates and Plato 9.1 (5.653 Kühn) Posidonius … shows in his treatise On the Passions that we are governed by three powers, the appetitive, the spirited and the rational; and Posidonius said that Cleanthes too was of the same opinion.",
+     "kind": "narration"
+    },
+    {
+     "entry": 88,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 86. Stobaeus, Florilegium 108.59 Cleanthes said that grief (lypē) is a paralysis of the soul.",
+     "kind": "narration"
+    },
+    {
+     "entry": 89,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 87. Galen, On the Doctrines of Hippocrates and Plato 3.5 (5.332 Kühn) Not only Chrysippus but also Cleanthes and Zeno readily lay this down (that fears, griefs and all such passions arise in the heart). This is the same text as Zeno, fragment 141.",
+     "kind": "narration"
+    },
+    {
+     "entry": 90,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 88. Sextus Empiricus, Against the Mathematicians 11.74 But Cleanthes that pleasure is neither according to nature nor has any value in life, but that, like a cosmetic ornament, it is not according to nature.",
+     "kind": "narration"
+    },
+    {
+     "entry": 91,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 89. Stobaeus, Florilegium 6.37 Cleanthes said that if pleasure is the end, then wisdom has been given to human beings to their harm.",
+     "kind": "narration"
+    },
+    {
+     "entry": 92,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 90. Cicero, On Ends 2.69 You will be ashamed of that picture which Cleanthes used to paint so cleverly in words. He would tell his hearers to imagine Pleasure painted on a panel, seated on a throne in the most beautiful clothing and royal finery, with the Virtues standing by like little handmaids, who did nothing else and counted it no duty of their own except to wait on Pleasure, and merely to whisper in her ear—if a picture could convey that—to take care not to do anything imprudent that might offend people’s feelings, or anything from which some pain might arise. “We Virtues were born for this, to serve you; we have no other business.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 93,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 91. Epictetus, Handbook 53; Seneca, Letters 107.10 Lead me, O Zeus, and you too, Destiny, wherever you have appointed me to go; for I will follow without hesitation. And if I am unwilling, I shall become bad, and follow none the less. — Seneca: And so let us address Jupiter, by whose steering this vast mass is guided, as our Cleanthes addresses him in most eloquent verses, which I may be allowed to turn into our language, following the example of that most eloquent man, Cicero. If you like them, take them kindly; if you dislike them, you will know that in this I followed Cicero’s example: Lead me, O father and ruler of the lofty heavens, wherever you please; I make no delay in obeying. Here I am, unwearied. Suppose I am unwilling: I shall follow groaning, and suffer as a bad man what I might have suffered as a good one. The Fates lead the willing, and drag the unwilling.",
+     "kind": "narration"
+    },
+    {
+     "entry": 94,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 92. Seneca, Letters 94.4 Cleanthes judges this part too useful (the part of philosophy that gives precepts suited to each person’s role, and does not shape the human being as a whole, but advises a husband how to behave toward his wife, a father how to bring up his children, a master how to manage his slaves), but weak unless it flows from the whole, unless it has learned the doctrines and chief principles of philosophy itself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 95,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 93. Cicero, Tusculan Disputations 3.76 There are some who think that the one duty of a consoler is that the thing is not an evil at all, as Cleanthes holds.",
+     "kind": "narration"
+    },
+    {
+     "entry": 96,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 94. Cicero, Tusculan Disputations 3.77 For Cleanthes consoles the wise man, who has no need of consolation. If you persuade a mourner that nothing is evil except what is base, you will have taken from him not his grief but his folly; and the moment is ill-suited for teaching. And yet Cleanthes does not seem to me to have seen sufficiently that distress can sometimes arise from the very thing which Cleanthes himself admits to be the greatest evil.",
+     "kind": "narration"
+    },
+    {
+     "entry": 97,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 95. Stobaeus, Florilegium 6.19 Whoever desires a shameful deed but holds back will do it, if he gets the chance.",
+     "kind": "narration"
+    },
+    {
+     "entry": 98,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 96. Stobaeus, Florilegium 28.14 Cleanthes said that one who swears an oath either keeps it or breaks it at the moment he swears. If he swears intending to perform what the oath says, he keeps his oath; but if he has the intention of not performing it, he perjures himself.",
+     "kind": "narration"
+    },
+    {
+     "entry": 99,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 97. Seneca, On Benefits 5.14.1 Cleanthes argues more forcefully. “Granted,” he says, “that what he receives is not a benefit, he is nonetheless ungrateful himself, because he would not have repaid it even if he had received one. Just so a man is a robber even before he stains his hands, because he is already armed to kill and has the will to rob and murder. Wickedness is exercised and revealed by the deed, not begun by it. What he received was not a benefit, but was called one. Temple-robbers are punished, although no one can stretch his hands as far as the gods.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 100,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 98. Seneca, On Benefits 6.11.1–2 Bare will does not make a benefit; but just as it would not be a benefit if fortune failed the best and fullest will, so equally it is not a benefit unless will has gone before fortune. For it is not enough that you have helped me for me to be obliged to you; you must have helped me on purpose. Cleanthes uses an example of this kind: “I sent two boys,” he says, “to look for Plato and fetch him from the Academy. One searched the whole colonnade, ran through the other places too where he hoped he might be found, and came home as tired as he was unsuccessful. The other sat down by the nearest street-juggler and, while he loafed and idled about and played with the other slave-boys, came upon Plato passing by, whom he had not been looking for. The first boy,” he says, “we shall praise, who did what he was told as far as lay in him; this lucky idler we shall punish.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 101,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 99. Seneca, On Benefits 6.12.2 A business deal, as Cleanthes says, is far removed from a benefit.",
+     "kind": "narration"
+    },
+    {
+     "entry": 102,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 100. Clement of Alexandria, Stromata 5.3.17 And the poetry of Cleanthes the Stoic philosopher writes something like this to the same effect: Do not look to opinion, if you wish to become wise quickly, and do not fear the undiscerning and shameless opinion of the many; for the crowd has no intelligent judgment, nor just nor fine; you would find this among few men.",
+     "kind": "narration"
+    },
+    {
+     "entry": 103,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 101. Clement of Alexandria, Stromata 5.14.110 The same author (Cleanthes), tacitly attacking the idolatry of the many, adds: Servile is everyone who looks to opinion, as though he will gain some good from it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 104,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 102. Mantissa proverbiorum 1.85 (Paroemiographi Graeci 2, p. 757) Better to be spoken ill of than to speak ill. (By Cleanthes.)",
+     "kind": "narration"
+    },
+    {
+     "entry": 105,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 103. Stobaeus, Florilegium 42.2 Nothing yet is more mischievous than slander; for, secretly deceiving the one who believes it, it fashions hatred against one who is in no way to blame.",
+     "kind": "narration"
+    },
+    {
+     "entry": 106,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 104. Stobaeus, Eclogues 2.7.11i (p. 103.12 Wachsmuth) Cleanthes too propounded an adequate argument of the following kind, that the city is something good: If a city is a constructed dwelling-place to which people may resort to give and receive justice, is not a city then a refined (asteion) thing? But the city is just such a dwelling-place; therefore the city is a refined thing.",
+     "kind": "narration"
+    },
+    {
+     "entry": 107,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 105. Seneca, On Tranquillity of Mind 1.7 Eager and resolved, I follow Zeno, Cleanthes, Chrysippus—none of whom, however, entered public life, and none of whom did not send others into it.",
+     "kind": "narration"
+    },
+    {
+     "entry": 108,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 106. Stobaeus, Florilegium 4.90 Cleanthes said that the uneducated differ from beasts only in shape.",
+     "kind": "narration"
+    },
+    {
+     "entry": 109,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 107. Epictetus, Discourses 4.1.173 What philosophers say is perhaps paradoxical, as Cleanthes too used to say, but not unreasonable.",
+     "kind": "narration"
+    },
+    {
+     "entry": 110,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 108. Plutarch, Life of Alcibiades 6.2 Cleanthes used to say that the beloved was held by him by the ears, but offered his rival lovers many handholds that he himself would not touch—meaning the belly, the genitals and the throat.",
+     "kind": "narration"
+    },
+    {
+     "entry": 111,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 109. Sextus Empiricus, Outlines of Pyrrhonism 3.200 Cleanthes and his school say that this (sexual intercourse between males) is indifferent. This is the same text as Zeno, fragment 182.",
+     "kind": "narration"
+    },
+    {
+     "entry": 112,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 110. Stobaeus, Florilegium 6.20 Where, then, does the breed of adulterers come from? From a man who runs riot in matters of sex, like a horse fed too much barley.",
+     "kind": "narration"
+    },
+    {
+     "entry": 113,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 111. Plutarch, How the Young Man Should Listen to Poetry 12 (p. 33) Hence corrective rewritings are not a bad practice either; both Cleanthes and Antisthenes used them. The one … ; and Cleanthes, of the lines on wealth, to give to friends, and when the body falls into sickness, to save it by spending, rewrote them thus: to give to harlots, and when the body falls into sickness, to ruin it by spending.",
+     "kind": "narration"
+    },
+    {
+     "entry": 114,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 112. Diogenes Laertius, Lives 7.14 Some of those who crowded round him he (Zeno) even made pay a copper coin, so that, afraid of having to pay, they would not pester him—as Cleanthes says in his work On Bronze.",
+     "kind": "narration"
+    },
+    {
+     "entry": 115,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 113. Philodemus, On the Philosophers (Volumina Herculanensia 8, col. 13.18) And Cleanthes, in his work On the Tombstone of Diogenes, mentions it and praises it, and a little later in this same work, as elsewhere, gives an account of the views of some people .",
+     "kind": "narration"
+    },
+    {
+     "entry": 116,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 114. Scholia on Nicander, Theriaca 447 (p. 36.12 Keil) Krantēres is the name for the teeth that come up later, from krainein, “to complete,” and to fill up one’s age; for these teeth grow when we have already become young adults. Cleanthes calls them sōphronistēres (“sobering teeth”). Here it simply means teeth. They are called sōphronistēres because at the same time as they come up we also acquire soundness of mind.",
+     "kind": "narration"
+    },
+    {
+     "entry": 117,
+     "who": "Marcus Aurelius Reader",
+     "text": "Fragment 115. Cross-reference Same as Zeno, fragment 184; no separate text is printed here.",
+     "kind": "narration"
+    }
+   ]
+  },
+  {
+   "name": "Sayings (Apophthegmata)",
+   "lines": [
+    {
+     "entry": 118,
+     "who": "Marcus Aurelius Reader",
+     "text": "Sayings (Apophthegmata)",
+     "kind": "heading"
+    },
+    {
+     "entry": 119,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 1. Diogenes Laertius, Lives 7.169; Plutarch, On Avoiding Debt 7.5; Stobaeus, Florilegium 17.28; Epictetus, Discourses 3.26.23; Seneca, Letters 44.2 They say that Antigonus, who was one of his hearers, asked him why he drew water; and he replied: “Is drawing water all I do? Do I not dig? Do I not water gardens, and do everything for the sake of philosophy?” For Zeno trained him in this too, and told him to bring an obol from his earnings. — Plutarch: King Antigonus, seeing Cleanthes in Athens after a long interval, asked him, “Are you still grinding meal, Cleanthes?” “I grind, your majesty,” he said, “which I do in order to live, and so as not to give up philosophy either.” — Stobaeus: Chrysippus of Soli made his living from very little, and Cleanthes from even less. — Epictetus: how Cleanthes lived, studying and drawing water at the same time. — Seneca: Cleanthes drew water and hired out his hands for watering a garden.",
+     "kind": "narration"
+    },
+    {
+     "entry": 120,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 2. Diogenes Laertius, Lives 7.170 Once he brought the small change he had collected into the midst of his friends and said, “Cleanthes could even keep a second Cleanthes, if he wished; but those who have the means to support themselves seek their necessities from others, though they study philosophy only half-heartedly.” For this reason Cleanthes was called a second Heracles.",
+     "kind": "narration"
+    },
+    {
+     "entry": 121,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 3. Diogenes Laertius, Lives 7.171 Preferring his own life to that of the rich, he used to say that while they were playing ball, he was working hard and barren ground, digging.",
+     "kind": "narration"
+    },
+    {
+     "entry": 122,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 4. Diogenes Laertius, Lives 7.170 When mocked by his fellow students he bore it, and accepted being called an ass, saying that he alone was able to carry Zeno’s load.",
+     "kind": "narration"
+    },
+    {
+     "entry": 123,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 5. Diogenes Laertius, Lives 7.171 Once, when reproached for being a coward, he said, “That is why I make few mistakes.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 124,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 6. Diogenes Laertius, Lives 7.174 When someone taunted him with his old age, he said, “I too am ready to depart; but when I consider that I am sound in every part, and still writing and reading, I stay on again.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 125,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 7. Diogenes Laertius, Lives 7.171 He often scolded himself too. Hearing this, Ariston said, “Whom are you scolding?” He laughed and said, “An old man who has grey hairs but no sense.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 126,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 8. Diogenes Laertius, Lives 7.173 When the poet Sositheus, in the theatre, spoke the line at him while he was present, whom the folly of Cleanthes drives like oxen, he kept the same posture. The audience, admiring this, applauded him and drove Sositheus off. When Sositheus repented of the insult, Cleanthes accepted his apology, saying that it would be absurd, when Dionysus and Heracles are made fools of by the poets and do not grow angry, for him to be upset by a chance piece of abuse.",
+     "kind": "narration"
+    },
+    {
+     "entry": 127,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 9. Diogenes Laertius, Lives 7.171 When someone said that Arcesilaus did not do what he ought, he said, “Stop, and do not find fault with him; for even if he abolishes duty (to kathēkon) in his words, at least he upholds it in his deeds.” Arcesilaus said, “I am not to be flattered.” To which Cleanthes replied, “Yes, I do flatter you, by saying that you say one thing and do another.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 128,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 10. Diogenes Laertius, Lives 7.173 He also said that the Peripatetics were in the same case as lyres, which make fine sounds but do not hear themselves.",
+     "kind": "narration"
+    },
+    {
+     "entry": 129,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 11. Cicero, Tusculan Disputations 2.60 Among them Dionysius of Heraclea, a truly fickle man, having learned from Zeno to be brave, was unlearned of it by pain. For when he was suffering from his kidneys, in the very midst of his howling he kept crying out that what he himself had formerly believed about pain was false. When his fellow student Cleanthes asked him what reasoning had brought him down from his opinion, he answered: “Because if, after devoting so much effort to philosophy, I still could not bear pain, that would be sufficient proof that pain is an evil. But I have spent a great many years in philosophy and I cannot bear it: therefore pain is an evil.” Then Cleanthes, they say, stamped his foot on the ground and recited a line from the Epigoni: Do you hear this, Amphiaraus, hidden beneath the earth? He meant Zeno, from whom he grieved to see the other fall away.",
+     "kind": "narration"
+    },
+    {
+     "entry": 130,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 12. Stobaeus, Florilegium 82.9 = Eclogues 2.2.16 Cleanthes, asked why among the ancients, though few practised philosophy, more of them nevertheless shone than now, said: “Because then it was deeds that were practised, now it is words.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 131,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 13. Diogenes Laertius, Lives 7.172 Once, talking with a youth, he asked him whether he understood. When the youth nodded, he said, “Then why do I not perceive that you understand?”",
+     "kind": "narration"
+    },
+    {
+     "entry": 132,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 14. Diogenes Laertius, Lives 7.172 When someone asked what advice he should give his son, he said, “Electra’s words: ‘Hush, hush, tread softly.’”",
+     "kind": "narration"
+    },
+    {
+     "entry": 133,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 15. Stobaeus, Florilegium 33.8 When Cleanthes was silent and someone said, “Why are you silent? Surely it is pleasant to talk with one’s friends,” he said, “It is pleasant; but the more pleasant it is, the more one should leave it to one’s friends.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 134,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 16. Diogenes Laertius, Lives 7.174 To a man who lived alone and talked to himself he said, “You are not talking to a bad man.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 135,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 17. Stobaeus, Eclogues 2.31.125 Wachsmuth (= excerpts from John of Damascus, Florilegium 2.13.125); Diogenes Laertius, Lives 7.172 Or was not that Spartan boy such a one, who asked Cleanthes the philosopher whether toil (ponos) is a good? For he seems to have been so well endowed by nature and so well brought up for virtue that he thought toil closer to the nature of the good than to that of the bad; for, taking it as agreed that it is not an evil, he asked whether it happens to be a good. So Cleanthes, delighted with the boy, said to him: “You are of good blood, dear child, by the way you speak” (Homer, Odyssey 4.611). — Diogenes Laertius: When a Spartan said that toil is a good, he was overjoyed and said, “You are of good blood, dear child.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 136,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 18. Stobaeus, Florilegium 95.28 Cleanthes, asked how one might be rich, said, “By being poor in desires.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 137,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 19. Stobaeus, Eclogues 2.31.63 Wachsmuth (= excerpts from John of Damascus, Florilegium 2.13.63) When a pupil who was about to leave asked how he might go wrong least, Cleanthes said, “If in everything you do you imagine that I am present.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 138,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 20. Diogenes Laertius, Lives 7.173 It is said that when he was maintaining, following Zeno, that character can be grasped from appearance, some witty young men brought to him a catamite who had been toughened by work in the country, and asked him to pronounce on his character. He was at a loss and told the man to go away; but as he was leaving the man sneezed, and Cleanthes said, “I have him: he is soft.”",
+     "kind": "narration"
+    },
+    {
+     "entry": 139,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 21. Diogenes Laertius, Lives 7.172 Hecaton says in his Anecdotes that when a handsome youth said, “If one who strikes the belly (gastēr) ‘bellies’ (gastrizei), then one who strikes the thighs (mēroi) ‘thighs’ (mērizei),” he replied, “You may keep your thigh-play, my lad. ”",
+     "kind": "narration"
+    },
+    {
+     "entry": 140,
+     "who": "Marcus Aurelius Reader",
+     "text": "Saying 22. Diogenes Laertius, Lives 7.176; Lucian, Long-Lived Men 19; Stobaeus, Florilegium 7.54 He died in this way. His gum became swollen, and on the doctors’ orders he abstained from food for two days. He recovered so well that the doctors allowed him all his usual fare; but he would not accept it, saying that he had already gone part of the way, and, abstaining for the remaining days, he died. — Lucian: Cleanthes, Zeno’s pupil and successor, at the age of ninety-nine had a growth on his lip and was starving himself to death; when letters came to him from some of his companions, he took food and did what his friends asked of him, then abstained from food again and departed this life. — Stobaeus: Cleanthes, an ulcer having formed under his tongue, could not swallow food. When he got better and the doctor brought him food, he said, “Do you want me, when I have already finished the greater part of the road, to turn back and then travel the same road again from the beginning?” And he departed this life.",
+     "kind": "narration"
+    }
+   ]
+  }
+ ]
+}
