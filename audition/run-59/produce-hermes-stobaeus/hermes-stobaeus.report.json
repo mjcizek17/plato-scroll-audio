@@ -1,0 +1,66 @@
+{
+ "work": "hermes-stobaeus",
+ "parts": [
+  {
+   "file": "hermes-stobaeus-p1.mp3",
+   "minutes": 122.78,
+   "lines": 441,
+   "words": 22375,
+   "words_interpolated": 98,
+   "retakes": 23,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.98,
+     "text": "Excerpt IV A",
+     "line": "p1l0072"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "Excerpt IV B",
+     "line": "p1l0082"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "Excerpt IV B",
+     "note": "poor match to text (0.43)",
+     "line": "p1l0082"
+    },
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "Excerpt V",
+     "line": "p1l0089"
+    },
+    {
+     "group": 0,
+     "ratio": 1.55,
+     "text": "Excerpt XVIII",
+     "note": "re-taken: match 0.42 -> 0.58",
+     "line": "p1l0237"
+    },
+    {
+     "group": 0,
+     "ratio": 1.68,
+     "text": "Excerpt XXI \u00b7 Hermes",
+     "line": "p1l0259"
+    },
+    {
+     "group": 0,
+     "ratio": 2.03,
+     "text": "Excerpt XXVI",
+     "line": "p1l0393"
+    },
+    {
+     "group": 0,
+     "ratio": 2.03,
+     "text": "Excerpt XXVI",
+     "note": "poor match to text (0.30)",
+     "line": "p1l0393"
+    }
+   ]
+  }
+ ]
+}
