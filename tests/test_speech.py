@@ -12,6 +12,7 @@ import notes as N  # noqa: E402
 from script import printed_starts  # noqa: E402
 
 CASES = [
+    ("from the time of Porphyry (fl. c. 300)—and, therefore", "from the time of Porphyry (flourished circa three hundred)—and, therefore"),
     ("Arabic recensions from the 8th–10th centuries CE, which", "Arabic recensions from the eighth to tenth centuries CE, which"),
     ("Synesius of Cyrene (c. 370–c. 413), the", "Synesius of Cyrene (circa three hundred and seventy to circa four hundred and thirteen), the"),
     # figures and dates

@@ -54,3 +54,11 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
   ("Lives 7.41", "Eclogues 1.1.29b", "892b14–23") is not; "8th–10th" → "eighth to tenth"; "c. 370–c. 413" → "circa … to
   circa …". Tests 25/25, corpus 92,835 lines mapped, gate 0 problems.
 - tools/site_audio.py lists stoics-v1 and library-v1.
+
+## 2026-11-03 — queue J published; queue K (release library-v1)
+- Queue J: run 41569250562, 68/68 jobs, 12 works published (≈17 h).
+- Queue K: Diogenes Laertius, Lives I–IV (Yonge; Plutarch Reader), the Chaldaean Oracles (Mead; Hermes Reader), Apuleius'
+  Golden Ass (Gaselee; Narrator = the Socrates voice, as for his other works). 6 works, ~1.6 million characters.
+- Speller: a figure joined to the next word by an em dash ("(fl. c. 300)—and") is read as a figure; it had been left to the
+  voice (and "300)—" alone read "three hundred into equals"). No published recording had such a line (checked: the only
+  differences in published works are punctuation). Tests 26/26, corpus 95,831 lines, gate 0 problems.

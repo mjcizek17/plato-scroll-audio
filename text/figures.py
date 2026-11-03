@@ -24,7 +24,7 @@ TENS = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eight
 ORD = {"one": "first", "two": "second", "three": "third", "five": "fifth", "eight": "eighth", "nine": "ninth",
        "twelve": "twelfth"}
 
-LEAD = re.compile(r"^([\"“‘'(\[]*)(.*?)([\"”’'),\]\.;:!?]*)$", re.S)
+LEAD = re.compile(r"^([\"“‘'(\[]*)(.*?)([\"”’'),\]\.;:!?—]*)$", re.S)
 ERA = {"B.C.": "B C", "BC": "B C", "B.C.E.": "B C E", "BCE": "B C E", "A.D.": "A D", "AD": "A D", "C.E.": "C E", "CE": "C E"}
 NUM = re.compile(r"^(\d{1,3}(?:,\d{3})+|\d+)(?:\.(\d+))?$")
 ORDINAL = re.compile(r"^(\d{1,3}(?:,\d{3})+|\d+)(st|nd|rd|th)$", re.I)
@@ -403,6 +403,12 @@ def say(word, prev="", nxt=""):
 def spoken(word, prev="", nxt=""):
     """the printed word's spoken words with its own punctuation kept ("(129" -> ["(one", "hundred", ...]), [] when
     nothing is said for it, or None when it is read as printed"""
+    # a figure joined to the next word by an em dash: "300)—and," -> "three hundred)—and," (one printed word)
+    m = re.match(r"^(.*\d[^—\s]*)—(\D.*)$", word)
+    if m and not re.match(r"^[—–]", word):
+        first = spoken(m.group(1), prev, m.group(2))
+        if first:
+            return first[:-1] + [first[-1] + "—" + m.group(2)]
     said = say(word, prev, nxt)
     if said is None:
         return None

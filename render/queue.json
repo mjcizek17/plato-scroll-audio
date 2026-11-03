@@ -1,18 +1,12 @@
 {
- "_note": "Queue J (2026-11-02): Hermetica (Emerald Tablet, Asclepius, Stobaeus excerpts), Taylor's Platonic terms, the Presocratic and Delphic fragments, and the works added in 5.20m (Synesius, Pico, Al-Farabi, Zeno, Cleanthes). Single readers: Hermes Reader, Platonist Reader, Narrator (the Socrates voice), Marcus Aurelius Reader for the Stoics.",
+ "_note": "Queue K (2026-11-03): Diogenes Laertius, Lives of the Eminent Philosophers I–IV (Yonge; Plutarch Reader), the Chaldaean Oracles (Mead; Hermes Reader), Apuleius' Golden Ass (Gaselee; Narrator = the Socrates voice, as for his other works).",
  "works": [
-  "hermes-emerald-tablet",
-  "hermes-asclepius",
-  "hermes-stobaeus",
-  "taylor-platonic-terms",
-  "archytas-fragments",
-  "anaxagoras-fragments",
-  "delphic-maxims",
-  "synesius-essays-hymns",
-  "pico-platonick-discourse",
-  "farabi-virtuous-city",
-  "zeno-fragments",
-  "cleanthes-fragments"
+  "diogenes-lives-1",
+  "diogenes-lives-2",
+  "diogenes-lives-3",
+  "diogenes-lives-4",
+  "chaldaean-oracles",
+  "apuleius-golden-ass"
  ],
  "dest": "release",
  "tag": "library-v1",
