@@ -1,0 +1,31 @@
+{
+ "work": "cleanthes-fragments",
+ "parts": [
+  {
+   "file": "cleanthes-fragments-p1.mp3",
+   "minutes": 44.5,
+   "lines": 119,
+   "words": 8482,
+   "words_interpolated": 60,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.76,
+     "text": "Fragment eighty-three.",
+     "note": "re-taken: match 0.35 -> 0.44",
+     "line": "p1l0086"
+    }
+   ]
+  },
+  {
+   "file": "cleanthes-fragments-p2.mp3",
+   "minutes": 7.0,
+   "lines": 23,
+   "words": 1409,
+   "words_interpolated": 8,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
