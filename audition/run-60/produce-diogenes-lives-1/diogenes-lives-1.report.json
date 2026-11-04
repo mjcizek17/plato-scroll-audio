@@ -1,0 +1,100 @@
+{
+ "work": "diogenes-lives-1",
+ "parts": [
+  {
+   "file": "diogenes-lives-1-p1.mp3",
+   "minutes": 33.28,
+   "lines": 67,
+   "words": 6073,
+   "words_interpolated": 1,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.28,
+     "text": "Book I",
+     "note": "poor match to text (0.18)",
+     "line": "p1l0002"
+    }
+   ]
+  },
+  {
+   "file": "diogenes-lives-1-p2.mp3",
+   "minutes": 26.56,
+   "lines": 67,
+   "words": 5076,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "diogenes-lives-1-p3.mp3",
+   "minutes": 21.24,
+   "lines": 56,
+   "words": 4052,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.46,
+     "text": "Another is:\u2014",
+     "note": "re-taken: match 0.34 -> 0.84",
+     "line": "p3l0008"
+    }
+   ]
+  },
+  {
+   "file": "diogenes-lives-1-p4.mp3",
+   "minutes": 22.43,
+   "lines": 63,
+   "words": 4302,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "diogenes-lives-1-p5.mp3",
+   "minutes": 23.51,
+   "lines": 48,
+   "words": 4417,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "diogenes-lives-1-p6.mp3",
+   "minutes": 44.51,
+   "lines": 63,
+   "words": 8508,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.9,
+     "text": "Life of Aeschines",
+     "note": "re-taken: match 0.45 -> 0.49",
+     "line": "p6l0019"
+    }
+   ]
+  },
+  {
+   "file": "diogenes-lives-1-p7.mp3",
+   "minutes": 29.57,
+   "lines": 72,
+   "words": 5559,
+   "words_interpolated": 2,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.09,
+     "text": "Life of Cebes",
+     "note": "re-taken: match 0.36 -> 0.63",
+     "line": "p7l0042"
+    }
+   ]
+  }
+ ]
+}
