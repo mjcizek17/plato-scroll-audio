@@ -1,0 +1,32 @@
+{
+ "work": "diogenes-lives-3",
+ "parts": [
+  {
+   "file": "diogenes-lives-3-p1.mp3",
+   "minutes": 63.01,
+   "lines": 73,
+   "words": 12394,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "diogenes-lives-3-p2.mp3",
+   "minutes": 144.31,
+   "lines": 258,
+   "words": 26590,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "diogenes-lives-3-p3.mp3",
+   "minutes": 35.41,
+   "lines": 100,
+   "words": 6276,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
