@@ -62,3 +62,11 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
 - Speller: a figure joined to the next word by an em dash ("(fl. c. 300)—and") is read as a figure; it had been left to the
   voice (and "300)—" alone read "three hundred into equals"). No published recording had such a line (checked: the only
   differences in published works are punctuation). Tests 26/26, corpus 95,831 lines, gate 0 problems.
+
+## 2026-11-04 — queue K published; queue L (release library-v1)
+- Queue K: run 41694140824, 88/88 jobs, 6 works published (≈27 h).
+- Queue L: Philostratus — Life of Apollonius of Tyana, Lives of the Sophists, Letters, Imagines I–II (Julian Reader);
+  Apuleius — Apologia and Florida (Narrator = the Socrates voice). 7 works, ~1.55 million characters.
+- OCR map: "pa3s" → pass (Florida), "ιθ" → nineteen (Lives of the Sophists "CHAPTER ιθ"). Part labels only: "CHAPTER ιθ" →
+  "Ariobarzanes, Xenophron and Others", Imagines' Greek "προοίμιον ἢ λαλία" → "Prooemium".
+  Tests 28/28, corpus 98,915 lines mapped, gate 0 problems.

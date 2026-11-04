@@ -1,12 +1,13 @@
 {
- "_note": "Queue K (2026-11-03): Diogenes Laertius, Lives of the Eminent Philosophers I–IV (Yonge; Plutarch Reader), the Chaldaean Oracles (Mead; Hermes Reader), Apuleius' Golden Ass (Gaselee; Narrator = the Socrates voice, as for his other works).",
+ "_note": "Queue L (2026-11-04): Philostratus — Life of Apollonius of Tyana (Conybeare), Lives of the Sophists (Wright), Letters (Benner & Fobes), Imagines I–II (Fairbanks); Julian Reader. Apuleius — Apologia and Florida (Bohn); Narrator = the Socrates voice, as for his other works.",
  "works": [
-  "diogenes-lives-1",
-  "diogenes-lives-2",
-  "diogenes-lives-3",
-  "diogenes-lives-4",
-  "chaldaean-oracles",
-  "apuleius-golden-ass"
+  "phil-apollonius",
+  "phil-sophists",
+  "phil-letters",
+  "phil-imagines-1",
+  "phil-imagines-2",
+  "apuleius-apologia",
+  "apuleius-florida"
  ],
  "dest": "release",
  "tag": "library-v1",
