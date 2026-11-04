@@ -1,0 +1,83 @@
+{
+ "work": "diogenes-lives-4",
+ "parts": [
+  {
+   "file": "diogenes-lives-4-p1.mp3",
+   "minutes": 36.44,
+   "lines": 79,
+   "words": 6802,
+   "words_interpolated": 1,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "diogenes-lives-4-p2.mp3",
+   "minutes": 22.09,
+   "lines": 78,
+   "words": 4131,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.01,
+     "text": "And so on.",
+     "note": "re-taken: match 0.26 -> 0.40",
+     "line": "p2l0024"
+    }
+   ]
+  },
+  {
+   "file": "diogenes-lives-4-p3.mp3",
+   "minutes": 21.4,
+   "lines": 59,
+   "words": 3908,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.23,
+     "text": "Book nine",
+     "note": "re-taken: match 0.19 -> 0.48",
+     "line": "p3l0010"
+    }
+   ]
+  },
+  {
+   "file": "diogenes-lives-4-p4.mp3",
+   "minutes": 21.38,
+   "lines": 54,
+   "words": 3897,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "diogenes-lives-4-p5.mp3",
+   "minutes": 47.04,
+   "lines": 96,
+   "words": 8570,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "diogenes-lives-4-p6.mp3",
+   "minutes": 127.04,
+   "lines": 234,
+   "words": 23381,
+   "words_interpolated": 2,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.94,
+     "text": "thirty-seven.",
+     "note": "re-taken: match 0.08 -> 0.11",
+     "line": "p6l0227"
+    }
+   ]
+  }
+ ]
+}
