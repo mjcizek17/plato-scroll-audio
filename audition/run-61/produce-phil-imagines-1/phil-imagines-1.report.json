@@ -1,0 +1,205 @@
+{
+ "work": "phil-imagines-1",
+ "parts": [
+  {
+   "file": "phil-imagines-1-p1.mp3",
+   "minutes": 24.73,
+   "lines": 32,
+   "words": 4259,
+   "words_interpolated": 15,
+   "retakes": 9,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.62,
+     "text": "Menoeceus",
+     "line": "p1l0014"
+    },
+    {
+     "group": 0,
+     "ratio": 1.38,
+     "text": "Menoeceus",
+     "note": "re-taken: match 0.45 -> 0.48",
+     "line": "p1l0014"
+    },
+    {
+     "group": 0,
+     "ratio": 1.45,
+     "text": "Dwarfs",
+     "note": "re-taken: match 0.15 -> 0.33",
+     "line": "p1l0018"
+    }
+   ]
+  },
+  {
+   "file": "phil-imagines-1-p2.mp3",
+   "minutes": 25.46,
+   "lines": 27,
+   "words": 4413,
+   "words_interpolated": 24,
+   "retakes": 5,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.53,
+     "text": "Amphion",
+     "note": "re-taken: match 0.24 -> 0.66",
+     "line": "p2l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.05,
+     "text": "Phaethon",
+     "note": "re-taken: match 0.36 -> 0.45",
+     "line": "p2l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 1.69,
+     "text": "Ariadne",
+     "line": "p2l0021"
+    }
+   ]
+  },
+  {
+   "file": "phil-imagines-1-p3.mp3",
+   "minutes": 26.76,
+   "lines": 34,
+   "words": 4625,
+   "words_interpolated": 20,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.77,
+     "text": "Satyrs",
+     "line": "p3l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.57,
+     "text": "Midas",
+     "note": "re-taken: match 0.43 -> 0.80",
+     "line": "p3l0017"
+    }
+   ]
+  },
+  {
+   "file": "phil-imagines-1-p4.mp3",
+   "minutes": 25.36,
+   "lines": 28,
+   "words": 4298,
+   "words_interpolated": 28,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.03,
+     "text": "Hunters",
+     "note": "re-taken: match 0.02 -> 0.06",
+     "line": "p4l0003"
+    },
+    {
+     "group": 0,
+     "ratio": 1.42,
+     "text": "Pelops",
+     "note": "re-taken: match 0.42 -> 0.45",
+     "line": "p4l0010"
+    },
+    {
+     "group": 0,
+     "ratio": 1.35,
+     "text": "Book two",
+     "note": "re-taken: match 0.24 -> 0.30",
+     "line": "p4l0015"
+    },
+    {
+     "group": 0,
+     "ratio": 1.33,
+     "text": "Book two",
+     "note": "poor match to text (0.22)",
+     "line": "p4l0016"
+    }
+   ]
+  },
+  {
+   "file": "phil-imagines-1-p5.mp3",
+   "minutes": 26.15,
+   "lines": 25,
+   "words": 4463,
+   "words_interpolated": 28,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.26,
+     "text": "Pantheia",
+     "note": "re-taken: match 0.32 -> 0.57",
+     "line": "p5l0019"
+    }
+   ]
+  },
+  {
+   "file": "phil-imagines-1-p6.mp3",
+   "minutes": 24.97,
+   "lines": 26,
+   "words": 4317,
+   "words_interpolated": 10,
+   "retakes": 2,
+   "flagged_takes": []
+  },
+  {
+   "file": "phil-imagines-1-p7.mp3",
+   "minutes": 26.24,
+   "lines": 32,
+   "words": 4432,
+   "words_interpolated": 16,
+   "retakes": 7,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.48,
+     "text": "Phorbas",
+     "note": "re-taken: match 0.33 -> 0.42",
+     "line": "p7l0004"
+    },
+    {
+     "group": 0,
+     "ratio": 1.6,
+     "text": "Atlas",
+     "line": "p7l0007"
+    },
+    {
+     "group": 0,
+     "ratio": 1.74,
+     "text": "Antaeus",
+     "line": "p7l0011"
+    }
+   ]
+  },
+  {
+   "file": "phil-imagines-1-p8.mp3",
+   "minutes": 15.13,
+   "lines": 18,
+   "words": 2633,
+   "words_interpolated": 13,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.51,
+     "text": "Dodona",
+     "note": "re-taken: match 0.29 -> 0.61",
+     "line": "p8l0013"
+    },
+    {
+     "group": 0,
+     "ratio": 1.53,
+     "text": "Horae",
+     "note": "re-taken: match 0.32 -> 0.52",
+     "line": "p8l0015"
+    }
+   ]
+  }
+ ]
+}
