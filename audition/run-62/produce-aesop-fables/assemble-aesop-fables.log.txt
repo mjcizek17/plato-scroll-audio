@@ -1,0 +1,1 @@
+{"work": "aesop-fables", "parts": [{"file": "aesop-fables-p1.mp3", "minutes": 185.64, "lines": 374, "words": 38308, "words_interpolated": 284, "retakes": 0, "flagged_takes": []}]}
