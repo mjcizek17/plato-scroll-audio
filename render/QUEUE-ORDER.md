@@ -70,3 +70,11 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
 - OCR map: "pa3s" → pass (Florida), "ιθ" → nineteen (Lives of the Sophists "CHAPTER ιθ"). Part labels only: "CHAPTER ιθ" →
   "Ariobarzanes, Xenophron and Others", Imagines' Greek "προοίμιον ἢ λαλία" → "Prooemium".
   Tests 28/28, corpus 98,915 lines mapped, gate 0 problems.
+
+## 2026-11-04 evening — queue L published; queue M (release library-v1)
+- Queue L: run 41827274861, 89/89 jobs, 7 works published (≈28 h).
+- Queue M: Lucretius, On the Nature of Things (Leonard; Epicurus Reader); Aesop's Fables (Vernon Jones; Homer Reader);
+  Theophrastus, Characters (Jebb; Plutarch Reader); Galen, On the Natural Faculties (Brock; Sextus Reader); Origen, On
+  Prayer (Curtis) and Letters (Crombie; Dionysius Reader). 6 works, ~1.14 million characters.
+- New rule: a bracketed scripture reference ("(1Tim.2:9)", "(Matt. 6:9–13)") is not read. Crombie's editorial note at the
+  end of Origen's letter to Gregory left out of the script. Tests 30/30, corpus 109,755 lines, gate 0 problems.

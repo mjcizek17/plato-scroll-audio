@@ -1,13 +1,12 @@
 {
- "_note": "Queue L (2026-11-04): Philostratus — Life of Apollonius of Tyana (Conybeare), Lives of the Sophists (Wright), Letters (Benner & Fobes), Imagines I–II (Fairbanks); Julian Reader. Apuleius — Apologia and Florida (Bohn); Narrator = the Socrates voice, as for his other works.",
+ "_note": "Queue M (2026-11-04): Lucretius, On the Nature of Things (Leonard; Epicurus Reader); Aesop's Fables (Vernon Jones; Homer Reader); Theophrastus, Characters (Jebb; Plutarch Reader); Galen, On the Natural Faculties (Brock; Sextus Reader); Origen, On Prayer (Curtis) and Letters (Crombie; Dionysius Reader).",
  "works": [
-  "phil-apollonius",
-  "phil-sophists",
-  "phil-letters",
-  "phil-imagines-1",
-  "phil-imagines-2",
-  "apuleius-apologia",
-  "apuleius-florida"
+  "lucretius-nature",
+  "aesop-fables",
+  "characters",
+  "galen-natural-faculties",
+  "origen-on-prayer",
+  "origen-letters"
  ],
  "dest": "release",
  "tag": "library-v1",

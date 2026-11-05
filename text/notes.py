@@ -105,6 +105,9 @@ def silent_mask(text, work=""):
     # Stephanus references in brackets, "(61 E)" "(82 D)", and Ritter-Preller style "R. P. 34.E": citations, not read
     spans += [(m.start(), m.end(), "locator") for m in re.finditer(r"\((?:\d{1,3}\s?[A-E]|[A-Z][a-z]*\.?\s?\d{1,3}\s?[a-eA-E])\)", text)]
     spans += [(m.start(), m.end(), "locator") for m in re.finditer(r"\bR\. P\. \d{1,3}\.?[A-E]?\b\.?", text)]
+    # a bracketed scripture reference, "(1Tim.2:9)", "(Matt. 6:9–13)", "(Gen 1:2)": a citation, not read (2026-11-04, Origen)
+    spans += [(m.start(), m.end(), "locator") for m in re.finditer(
+        r"\((?:[1-3]\s?)?[A-Z][a-z]{1,6}\.?\s?\d{1,3}[.:]\d{1,3}(?:\s?[–-]\s?\d{1,3})?(?:[;,]\s?\d{1,3}[.:]\d{1,3})*\)", text)]
     # fragment collections print each fragment's source with its book.chapter.section reference ("Diogenes Laertius,
     # Lives 7.41", "Stobaeus, Eclogues 1.1.29b", "Athenaeus 11.467d; 11.471b", "892b14–23"): the source is read, the
     # reference is not (2026-11-02, queue J)

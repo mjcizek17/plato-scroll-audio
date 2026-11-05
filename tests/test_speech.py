@@ -12,6 +12,8 @@ import notes as N  # noqa: E402
 from script import printed_starts  # noqa: E402
 
 CASES = [
+    ("through good works.” (1Tim.2:9) And", "through good works.” And"),
+    ("as the Lord taught (Matt. 6:9–13), saying", "as the Lord taught, saying"),
     ("they jump down, and pa3s the rod", "they jump down, and pass the rod"),
     ("CHAPTER ιθ", "Chapter nineteen"),
     ("from the time of Porphyry (fl. c. 300)—and, therefore", "from the time of Porphyry (flourished circa three hundred)—and, therefore"),
