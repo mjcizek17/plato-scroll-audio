@@ -1,0 +1,32 @@
+{
+ "work": "galen-natural-faculties",
+ "parts": [
+  {
+   "file": "galen-natural-faculties-p1.mp3",
+   "minutes": 74.08,
+   "lines": 78,
+   "words": 14478,
+   "words_interpolated": 63,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "galen-natural-faculties-p2.mp3",
+   "minutes": 70.5,
+   "lines": 49,
+   "words": 13802,
+   "words_interpolated": 63,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "galen-natural-faculties-p3.mp3",
+   "minutes": 73.52,
+   "lines": 73,
+   "words": 14669,
+   "words_interpolated": 70,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
