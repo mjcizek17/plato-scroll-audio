@@ -1,0 +1,45 @@
+{
+ "work": "characters",
+ "parts": [
+  {
+   "file": "characters-p1.mp3",
+   "minutes": 21.03,
+   "lines": 28,
+   "words": 4210,
+   "words_interpolated": 17,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.11,
+     "text": "The Boor",
+     "note": "re-taken: match 0.08 -> 0.63",
+     "line": "p1l0008"
+    },
+    {
+     "group": 0,
+     "ratio": 0.71,
+     "text": "The Gossip",
+     "note": "re-taken: match 0.10 -> 0.17",
+     "line": "p1l0016"
+    },
+    {
+     "group": 0,
+     "ratio": 0.94,
+     "text": "The Gross Man",
+     "note": "re-taken: match 0.41 -> 0.74",
+     "line": "p1l0022"
+    }
+   ]
+  },
+  {
+   "file": "characters-p2.mp3",
+   "minutes": 26.81,
+   "lines": 34,
+   "words": 5382,
+   "words_interpolated": 30,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
