@@ -1,0 +1,54 @@
+{
+ "work": "phil-imagines-2",
+ "parts": [
+  {
+   "file": "phil-imagines-2-p1.mp3",
+   "minutes": 26.65,
+   "lines": 30,
+   "words": 4533,
+   "words_interpolated": 21,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.43,
+     "text": "Orpheus",
+     "note": "re-taken: match 0.23 -> 0.41",
+     "line": "p1l0023"
+    }
+   ]
+  },
+  {
+   "file": "phil-imagines-2-p2.mp3",
+   "minutes": 24.21,
+   "lines": 20,
+   "words": 4260,
+   "words_interpolated": 18,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.66,
+     "text": "The Argo Or Ae\u00ebtes",
+     "line": "p2l0012"
+    },
+    {
+     "group": 0,
+     "ratio": 1.41,
+     "text": "Hesione",
+     "note": "poor match to text (0.39)",
+     "line": "p2l0015"
+    }
+   ]
+  },
+  {
+   "file": "phil-imagines-2-p3.mp3",
+   "minutes": 8.95,
+   "lines": 10,
+   "words": 1559,
+   "words_interpolated": 10,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
