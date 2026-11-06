@@ -1,18 +1,12 @@
 {
- "_note": "Small text fixes (2026-11-06): Stephanus references run into the next word in Olympiodorus (119eHow, 126aAnd, 128eNow) and a stray \u00a7 in Porphyry's Letter to Anebo; re-record those paragraphs. Run after the Empedocles recording.",
+ "_note": "Heraclitus (Burnet): the opening note about tapping the \u03a9 mark for the Greek removed (the feature is long gone); re-record that paragraph.",
  "patch": {
-  "porph-anebo": [
-   14
-  ],
-  "olymp-alc1": [
-   583,
-   764,
-   844
+  "heraclitus-fragments": [
+   1
   ]
  },
  "tags": {
-  "porph-anebo": "plutarch-platonists-v1",
-  "olymp-alc1": "plutarch-platonists-v1"
+  "heraclitus-fragments": "classics-v1"
  },
  "dest": "release"
 }
