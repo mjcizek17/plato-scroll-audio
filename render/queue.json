@@ -1,1 +1,18 @@
-{"works":["empedocles-fragments"],"dest":"release","tag":"classics-v1","budget":1500,"_note":"Empedocles: Leonard text rebuilt from the 1908 print (154 fragments; the old copy was a garbled scan) - whole work re-recorded (2026-11-06)."}
+{
+ "_note": "Small text fixes (2026-11-06): Stephanus references run into the next word in Olympiodorus (119eHow, 126aAnd, 128eNow) and a stray \u00a7 in Porphyry's Letter to Anebo; re-record those paragraphs. Run after the Empedocles recording.",
+ "patch": {
+  "porph-anebo": [
+   14
+  ],
+  "olymp-alc1": [
+   583,
+   764,
+   844
+  ]
+ },
+ "tags": {
+  "porph-anebo": "plutarch-platonists-v1",
+  "olymp-alc1": "plutarch-platonists-v1"
+ },
+ "dest": "release"
+}
