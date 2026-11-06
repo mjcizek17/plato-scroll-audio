@@ -1,22 +1,22 @@
 {
- "plutarch-platonists-v1": [
-  "olymp-alc1-*",
-  "olymp-alc1.*",
-  "olymp-life-plato-*",
-  "olymp-life-plato.*"
+ "notes-originals": [
+  "orig-olymp-alc1*",
+  "orig-olymp-life-plato*"
  ],
- "library-v1": [
-  "phil-letters-*",
-  "phil-letters.*",
-  "phil-imagines-1-*",
-  "phil-imagines-1.*",
-  "phil-imagines-2-*",
-  "phil-imagines-2.*",
-  "delphic-maxims-*",
-  "delphic-maxims.*"
+ "lines-40263557449": [
+  "lines-olymp-alc1*",
+  "lines-olymp-life-plato*"
  ],
- "aristotle-v1": [
-  "on-the-soul-*",
-  "on-the-soul.*"
+ "lines-40618181059": [
+  "lines-olymp-alc1*",
+  "lines-olymp-life-plato*"
+ ],
+ "lines-40625716563": [
+  "lines-olymp-alc1*",
+  "lines-olymp-life-plato*"
+ ],
+ "lines-40630431694": [
+  "lines-olymp-alc1*",
+  "lines-olymp-life-plato*"
  ]
 }
