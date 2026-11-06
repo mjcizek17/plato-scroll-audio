@@ -1,0 +1,135 @@
+{
+ "work": "sextus-outlines",
+ "parts": [
+  {
+   "file": "sextus-outlines-p1.mp3",
+   "minutes": 67.6,
+   "lines": 186,
+   "words": 12781,
+   "words_interpolated": 116,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.32,
+     "text": "Book I",
+     "note": "re-taken: match 0.05 -> 0.20",
+     "line": "p1l0004"
+    }
+   ]
+  },
+  {
+   "file": "sextus-outlines-p2.mp3",
+   "minutes": 22.02,
+   "lines": 64,
+   "words": 4044,
+   "words_interpolated": 57,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "sextus-outlines-p3.mp3",
+   "minutes": 24.0,
+   "lines": 60,
+   "words": 4447,
+   "words_interpolated": 44,
+   "retakes": 4,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 2.18,
+     "text": "Book two",
+     "line": "p3l0046"
+    },
+    {
+     "group": 0,
+     "ratio": 2.18,
+     "text": "Book two",
+     "note": "poor match to text (0.16)",
+     "line": "p3l0046"
+    }
+   ]
+  },
+  {
+   "file": "sextus-outlines-p4.mp3",
+   "minutes": 27.02,
+   "lines": 62,
+   "words": 5321,
+   "words_interpolated": 39,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "sextus-outlines-p5.mp3",
+   "minutes": 30.53,
+   "lines": 76,
+   "words": 5701,
+   "words_interpolated": 49,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "sextus-outlines-p6.mp3",
+   "minutes": 29.07,
+   "lines": 66,
+   "words": 5391,
+   "words_interpolated": 54,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "sextus-outlines-p7.mp3",
+   "minutes": 35.18,
+   "lines": 87,
+   "words": 6643,
+   "words_interpolated": 69,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "sextus-outlines-p8.mp3",
+   "minutes": 29.09,
+   "lines": 74,
+   "words": 5486,
+   "words_interpolated": 34,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "sextus-outlines-p9.mp3",
+   "minutes": 20.47,
+   "lines": 52,
+   "words": 4122,
+   "words_interpolated": 24,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "sextus-outlines-p10.mp3",
+   "minutes": 24.39,
+   "lines": 66,
+   "words": 4602,
+   "words_interpolated": 24,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "sextus-outlines-p11.mp3",
+   "minutes": 38.82,
+   "lines": 111,
+   "words": 7564,
+   "words_interpolated": 57,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "sextus-outlines-p12.mp3",
+   "minutes": 20.6,
+   "lines": 55,
+   "words": 4014,
+   "words_interpolated": 34,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}

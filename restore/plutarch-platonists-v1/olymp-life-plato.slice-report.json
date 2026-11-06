@@ -1,0 +1,56 @@
+{
+ "work": "olymp-life-plato",
+ "cuts": [],
+ "skipped": [
+  {
+   "part": "olymp-life-plato-p1",
+   "entry": 36,
+   "words": [
+    0,
+    0
+   ],
+   "text": "155",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-life-plato-p1",
+   "entry": 34,
+   "words": [
+    0,
+    0
+   ],
+   "text": "145",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-life-plato-p1",
+   "entry": 28,
+   "words": [
+    0,
+    0
+   ],
+   "text": "115",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-life-plato-p1",
+   "entry": 22,
+   "words": [
+    0,
+    0
+   ],
+   "text": "80",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-life-plato-p1",
+   "entry": 13,
+   "words": [
+    0,
+    0
+   ],
+   "text": "45",
+   "why": "already cut"
+  }
+ ]
+}

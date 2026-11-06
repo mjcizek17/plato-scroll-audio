@@ -1,0 +1,20 @@
+name: restore
+# One-off: put withdrawn recordings back on their releases (restore/<tag>/<file>). Runs only on the restore-assets branch.
+on:
+  push:
+    branches: [restore-assets]
+permissions:
+  contents: write
+env:
+  GH_TOKEN: ${{ github.token }}
+jobs:
+  upload:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          for d in restore/*/; do
+            tag=$(basename "$d")
+            for f in "$d"*; do for i in 1 2 3; do gh release upload "$tag" "$f" --clobber -R "${{ github.repository }}" && break; sleep 10; done; done
+          done
+          for d in restore/*/; do tag=$(basename "$d"); echo "$tag: $(gh release view "$tag" -R "${{ github.repository }}" --json assets -q '.assets|length') assets"; done

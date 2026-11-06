@@ -1,0 +1,1400 @@
+{
+ "work": "olymp-alc1",
+ "cuts": [
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 129,
+   "words": [
+    338,
+    338
+   ],
+   "text": "10",
+   "at": 2445.22,
+   "cut_s": 0.53
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 96,
+   "words": [
+    39,
+    39
+   ],
+   "text": "10",
+   "at": 1816.35,
+   "cut_s": 0.81
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 85,
+   "words": [
+    5,
+    5
+   ],
+   "text": "10",
+   "at": 1653.37,
+   "cut_s": 1.22
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 201,
+   "words": [
+    996,
+    996
+   ],
+   "text": "15",
+   "at": 2890.44,
+   "cut_s": 1.27
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 201,
+   "words": [
+    767,
+    767
+   ],
+   "text": "25",
+   "at": 2806.87,
+   "cut_s": 1.16
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 201,
+   "words": [
+    563,
+    563
+   ],
+   "text": "10",
+   "at": 2738.13,
+   "cut_s": 0.93
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 201,
+   "words": [
+    213,
+    213
+   ],
+   "text": "10",
+   "at": 2619.88,
+   "cut_s": 1.11
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 200,
+   "words": [
+    379,
+    379
+   ],
+   "text": "10",
+   "at": 2465.91,
+   "cut_s": 0.66
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 200,
+   "words": [
+    307,
+    307
+   ],
+   "text": "5",
+   "at": 2441.6,
+   "cut_s": 1.29
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 200,
+   "words": [
+    232,
+    232
+   ],
+   "text": "25",
+   "at": 2414.25,
+   "cut_s": 0.2
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 200,
+   "words": [
+    86,
+    86
+   ],
+   "text": "15",
+   "at": 2361.45,
+   "cut_s": 1.48
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 200,
+   "words": [
+    8,
+    8
+   ],
+   "text": "10",
+   "at": 2334.33,
+   "cut_s": 0.29
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 169,
+   "words": [
+    729,
+    729
+   ],
+   "text": "20",
+   "at": 991.94,
+   "cut_s": 0.95
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 169,
+   "words": [
+    466,
+    466
+   ],
+   "text": "20",
+   "at": 891.09,
+   "cut_s": 0.19
+  },
+  {
+   "part": "olymp-alc1-p3",
+   "entry": 237,
+   "words": [
+    427,
+    427
+   ],
+   "text": "20",
+   "at": 998.45,
+   "cut_s": 0.29
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 320,
+   "words": [
+    392,
+    392
+   ],
+   "text": "5",
+   "at": 2322.09,
+   "cut_s": 1.29
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 319,
+   "words": [
+    98,
+    98
+   ],
+   "text": "20",
+   "at": 1982.59,
+   "cut_s": 0.23
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 297,
+   "words": [
+    165,
+    165
+   ],
+   "text": "15",
+   "at": 763.93,
+   "cut_s": 1.09
+  },
+  {
+   "part": "olymp-alc1-p5",
+   "entry": 345,
+   "words": [
+    352,
+    352
+   ],
+   "text": "10",
+   "at": 1302.63,
+   "cut_s": 1.04
+  },
+  {
+   "part": "olymp-alc1-p5",
+   "entry": 343,
+   "words": [
+    321,
+    321
+   ],
+   "text": "15",
+   "at": 915.85,
+   "cut_s": 0.73
+  },
+  {
+   "part": "olymp-alc1-p5",
+   "entry": 340,
+   "words": [
+    761,
+    761
+   ],
+   "text": "20",
+   "at": 722.01,
+   "cut_s": 1.05
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 440,
+   "words": [
+    287,
+    287
+   ],
+   "text": "15",
+   "at": 1893.65,
+   "cut_s": 1.24
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 440,
+   "words": [
+    212,
+    212
+   ],
+   "text": "10",
+   "at": 1867.1,
+   "cut_s": 1.73
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 353,
+   "words": [
+    48,
+    48
+   ],
+   "text": "5",
+   "at": 201.48,
+   "cut_s": 0.53
+  },
+  {
+   "part": "olymp-alc1-p7",
+   "entry": 486,
+   "words": [
+    379,
+    379
+   ],
+   "text": "5",
+   "at": 589.72,
+   "cut_s": 0.85
+  },
+  {
+   "part": "olymp-alc1-p7",
+   "entry": 483,
+   "words": [
+    12,
+    12
+   ],
+   "text": "10",
+   "at": 273.18,
+   "cut_s": 1.39
+  },
+  {
+   "part": "olymp-alc1-p8",
+   "entry": 553,
+   "words": [
+    67,
+    67
+   ],
+   "text": "5",
+   "at": 2200.42,
+   "cut_s": 1.28
+  },
+  {
+   "part": "olymp-alc1-p8",
+   "entry": 531,
+   "words": [
+    461,
+    461
+   ],
+   "text": "25",
+   "at": 958.32,
+   "cut_s": 1.1
+  },
+  {
+   "part": "olymp-alc1-p10",
+   "entry": 694,
+   "words": [
+    116,
+    116
+   ],
+   "text": "10",
+   "at": 1381.42,
+   "cut_s": 1.03
+  },
+  {
+   "part": "olymp-alc1-p10",
+   "entry": 688,
+   "words": [
+    93,
+    93
+   ],
+   "text": "10",
+   "at": 1103.51,
+   "cut_s": 1.16
+  },
+  {
+   "part": "olymp-alc1-p11",
+   "entry": 787,
+   "words": [
+    348,
+    348
+   ],
+   "text": "10",
+   "at": 1634.46,
+   "cut_s": 0.97
+  },
+  {
+   "part": "olymp-alc1-p11",
+   "entry": 785,
+   "words": [
+    190,
+    190
+   ],
+   "text": "5",
+   "at": 1456.27,
+   "cut_s": 0.83
+  },
+  {
+   "part": "olymp-alc1-p12",
+   "entry": 822,
+   "words": [
+    563,
+    563
+   ],
+   "text": "10",
+   "at": 304.77,
+   "cut_s": 1.04
+  },
+  {
+   "part": "olymp-alc1-p13",
+   "entry": 943,
+   "words": [
+    770,
+    770
+   ],
+   "text": "15",
+   "at": 1708.66,
+   "cut_s": 1.29
+  },
+  {
+   "part": "olymp-alc1-p13",
+   "entry": 941,
+   "words": [
+    109,
+    109
+   ],
+   "text": "5",
+   "at": 1310.39,
+   "cut_s": 1.14
+  },
+  {
+   "part": "olymp-alc1-p13",
+   "entry": 936,
+   "words": [
+    16,
+    16
+   ],
+   "text": "5",
+   "at": 903.93,
+   "cut_s": 0.26
+  },
+  {
+   "part": "olymp-alc1-p14",
+   "entry": 957,
+   "words": [
+    242,
+    242
+   ],
+   "text": "25",
+   "at": 1040.19,
+   "cut_s": 0.65
+  },
+  {
+   "part": "olymp-alc1-p14",
+   "entry": 955,
+   "words": [
+    1151,
+    1151
+   ],
+   "text": "15",
+   "at": 888.27,
+   "cut_s": 0.47
+  },
+  {
+   "part": "olymp-alc1-p14",
+   "entry": 955,
+   "words": [
+    780,
+    780
+   ],
+   "text": "15",
+   "at": 739.86,
+   "cut_s": 1.58
+  },
+  {
+   "part": "olymp-alc1-p14",
+   "entry": 955,
+   "words": [
+    271,
+    271
+   ],
+   "text": "10",
+   "at": 549.43,
+   "cut_s": 0.89
+  },
+  {
+   "part": "olymp-alc1-p14",
+   "entry": 955,
+   "words": [
+    89,
+    89
+   ],
+   "text": "15",
+   "at": 480.7,
+   "cut_s": 1.49
+  }
+ ],
+ "skipped": [
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 139,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 137,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 132,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 123,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 111,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 91,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 87,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 56,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 53,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 41,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 20,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 17,
+   "words": [
+    73,
+    73
+   ],
+   "text": "5",
+   "why": "cut of 0.15 s looks wrong"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 8,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 3,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 207,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 205,
+   "words": [
+    0,
+    0
+   ],
+   "text": "25",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 202,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 201,
+   "words": [
+    868,
+    868
+   ],
+   "text": "5",
+   "why": "cut of 0.13 s looks wrong"
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 193,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 164,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 160,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 156,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 148,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 145,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p3",
+   "entry": 234,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p3",
+   "entry": 230,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p3",
+   "entry": 228,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p3",
+   "entry": 214,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 321,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 318,
+   "words": [
+    0,
+    0
+   ],
+   "text": "25",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 317,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 316,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 315,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 310,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 296,
+   "words": [
+    168,
+    168
+   ],
+   "text": "20",
+   "why": "cut of 0.13 s looks wrong"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 292,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 291,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 290,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 285,
+   "words": [
+    2,
+    2
+   ],
+   "text": "15",
+   "why": "cut of 0.14 s looks wrong"
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 263,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p5",
+   "entry": 346,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p5",
+   "entry": 337,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p5",
+   "entry": 336,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p5",
+   "entry": 334,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 448,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 442,
+   "words": [
+    320,
+    320
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 441,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 428,
+   "words": [
+    0,
+    0
+   ],
+   "text": "25",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 422,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 403,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 361,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p6",
+   "entry": 356,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p7",
+   "entry": 503,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p7",
+   "entry": 496,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p7",
+   "entry": 489,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p7",
+   "entry": 477,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p7",
+   "entry": 466,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "entry": 547,
+   "timing_words": 577,
+   "text_words": 576,
+   "part": "olymp-alc1-p8"
+  },
+  {
+   "part": "olymp-alc1-p8",
+   "entry": 552,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p8",
+   "entry": 549,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p8",
+   "entry": 544,
+   "words": [
+    321,
+    321
+   ],
+   "text": "15",
+   "why": "cut of 0.03 s looks wrong"
+  },
+  {
+   "part": "olymp-alc1-p8",
+   "entry": 527,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p8",
+   "entry": 522,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p9",
+   "entry": 615,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p9",
+   "entry": 608,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p9",
+   "entry": 581,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p9",
+   "entry": 576,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p9",
+   "entry": 568,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p9",
+   "entry": 562,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p10",
+   "entry": 700,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p10",
+   "entry": 697,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p10",
+   "entry": 689,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p10",
+   "entry": 679,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p10",
+   "entry": 655,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p10",
+   "entry": 645,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p10",
+   "entry": 642,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "entry": 775,
+   "timing_words": 250,
+   "text_words": 249,
+   "part": "olymp-alc1-p11"
+  },
+  {
+   "part": "olymp-alc1-p11",
+   "entry": 784,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p11",
+   "entry": 781,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p11",
+   "entry": 755,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p11",
+   "entry": 742,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p11",
+   "entry": 740,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p11",
+   "entry": 738,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p12",
+   "entry": 871,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p12",
+   "entry": 864,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p12",
+   "entry": 855,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p12",
+   "entry": 833,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p13",
+   "entry": 926,
+   "words": [
+    0,
+    0
+   ],
+   "text": "10",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p13",
+   "entry": 919,
+   "words": [
+    0,
+    0
+   ],
+   "text": "20",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p13",
+   "entry": 911,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p13",
+   "entry": 908,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p14",
+   "entry": 956,
+   "words": [
+    0,
+    0
+   ],
+   "text": "5",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p14",
+   "entry": 953,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p14",
+   "entry": 951,
+   "words": [
+    0,
+    0
+   ],
+   "text": "25",
+   "why": "already cut"
+  },
+  {
+   "part": "olymp-alc1-p14",
+   "entry": 950,
+   "words": [
+    0,
+    0
+   ],
+   "text": "15",
+   "why": "already cut"
+  }
+ ]
+}
