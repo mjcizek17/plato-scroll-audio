@@ -1,0 +1,23 @@
+name: remove
+# Take files off a release: list them in render/remove.json as {"<release tag>": ["<asset name or prefix*>", ...]} and push.
+# Used to withdraw recordings that must not be public (e.g. a translation still in copyright). Keep a private copy first.
+on:
+  push:
+    branches: [main]
+    paths: ["render/remove.json"]
+permissions:
+  contents: write
+env:
+  GH_TOKEN: ${{ github.token }}
+jobs:
+  remove:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Delete the listed assets
+        run: |
+          jq -r 'to_entries[] | .key as $t | .value[] | "\($t)\t\(.)"' render/remove.json | while IFS=$'\t' read -r tag pat; do
+            for a in $(gh release view "$tag" --json assets -q '.assets[].name'); do
+              case "$a" in $pat) echo "delete $tag/$a"; gh release delete-asset "$tag" "$a" -y ;; esac
+            done
+          done
