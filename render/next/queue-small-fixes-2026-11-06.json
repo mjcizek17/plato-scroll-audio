@@ -1,17 +1,11 @@
 {
- "_note": "Small text fixes (2026-11-06): Stephanus references run into the next word in Olympiodorus (119eHow, 126aAnd, 128eNow) and a stray \u00a7 in Porphyry's Letter to Anebo; re-record those paragraphs.",
+ "_note": "Small text fix (2026-11-06): a stray \u00a7 in Porphyry's Letter to Anebo; re-record that paragraph. (Olympiodorus left out: Griffin's translation is in copyright \u2014 awaiting the user's decision on withdrawing it.)",
  "patch": {
-  "olymp-alc1": [
-   583,
-   764,
-   844
-  ],
   "porph-anebo": [
    14
   ]
  },
  "tags": {
-  "olymp-alc1": "plutarch-platonists-v1",
   "porph-anebo": "plutarch-platonists-v1"
  },
  "dest": "release"
