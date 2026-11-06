@@ -1,1 +1,22 @@
-{"stoics-v1": ["sextus-outlines*"]}
+{
+ "plutarch-platonists-v1": [
+  "olymp-alc1-*",
+  "olymp-alc1.*",
+  "olymp-life-plato-*",
+  "olymp-life-plato.*"
+ ],
+ "library-v1": [
+  "phil-letters-*",
+  "phil-letters.*",
+  "phil-imagines-1-*",
+  "phil-imagines-1.*",
+  "phil-imagines-2-*",
+  "phil-imagines-2.*",
+  "delphic-maxims-*",
+  "delphic-maxims.*"
+ ],
+ "aristotle-v1": [
+  "on-the-soul-*",
+  "on-the-soul.*"
+ ]
+}
