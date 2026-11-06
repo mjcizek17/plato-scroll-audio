@@ -1,0 +1,12 @@
+{
+ "work": "heraclitus-fragments",
+ "patched": [
+  {
+   "part": "heraclitus-fragments-p1",
+   "entry": 1,
+   "old_s": 13.77,
+   "new_s": 10.73,
+   "words": 19
+  }
+ ]
+}
