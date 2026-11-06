@@ -1,0 +1,12 @@
+{
+ "_note": "Heraclitus (Burnet): the opening note about tapping the \u03a9 mark for the Greek removed (the feature is long gone); re-record that paragraph.",
+ "patch": {
+  "heraclitus-fragments": [
+   1
+  ]
+ },
+ "tags": {
+  "heraclitus-fragments": "classics-v1"
+ },
+ "dest": "release"
+}
