@@ -1,0 +1,1 @@
+{"work": "thucydides-4", "parts": [{"file": "thucydides-4-p1.mp3", "minutes": 118.57, "lines": 99, "words": 21670, "words_interpolated": 0, "retakes": 0, "flagged_takes": []}, {"file": "thucydides-4-p2.mp3", "minutes": 136.68, "lines": 128, "words": 24333, "words_interpolated": 0, "retakes": 0, "flagged_takes": []}]}
