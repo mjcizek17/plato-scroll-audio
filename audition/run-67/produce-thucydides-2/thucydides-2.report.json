@@ -1,0 +1,23 @@
+{
+ "work": "thucydides-2",
+ "parts": [
+  {
+   "file": "thucydides-2-p1.mp3",
+   "minutes": 137.57,
+   "lines": 128,
+   "words": 24661,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "thucydides-2-p2.mp3",
+   "minutes": 161.17,
+   "lines": 148,
+   "words": 29253,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
