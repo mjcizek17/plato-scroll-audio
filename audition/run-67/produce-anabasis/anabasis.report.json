@@ -1,0 +1,68 @@
+{
+ "work": "anabasis",
+ "parts": [
+  {
+   "file": "anabasis-p1.mp3",
+   "minutes": 82.13,
+   "lines": 206,
+   "words": 13989,
+   "words_interpolated": 32,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "anabasis-p2.mp3",
+   "minutes": 58.81,
+   "lines": 173,
+   "words": 10136,
+   "words_interpolated": 26,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "anabasis-p3.mp3",
+   "minutes": 63.73,
+   "lines": 174,
+   "words": 11096,
+   "words_interpolated": 21,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "anabasis-p4.mp3",
+   "minutes": 74.18,
+   "lines": 231,
+   "words": 13008,
+   "words_interpolated": 14,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "anabasis-p5.mp3",
+   "minutes": 73.81,
+   "lines": 219,
+   "words": 12902,
+   "words_interpolated": 19,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "anabasis-p6.mp3",
+   "minutes": 61.9,
+   "lines": 175,
+   "words": 10601,
+   "words_interpolated": 20,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "anabasis-p7.mp3",
+   "minutes": 99.29,
+   "lines": 295,
+   "words": 17417,
+   "words_interpolated": 34,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
