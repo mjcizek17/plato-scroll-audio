@@ -1,0 +1,31 @@
+{
+ "work": "thucydides-3",
+ "parts": [
+  {
+   "file": "thucydides-3-p1.mp3",
+   "minutes": 123.49,
+   "lines": 157,
+   "words": 21611,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.32,
+     "text": "six.",
+     "note": "poor match to text (0.08)",
+     "line": "p1l0022"
+    }
+   ]
+  },
+  {
+   "file": "thucydides-3-p2.mp3",
+   "minutes": 137.03,
+   "lines": 115,
+   "words": 25092,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
