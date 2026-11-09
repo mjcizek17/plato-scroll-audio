@@ -81,3 +81,8 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
 - Queue M (run 41950738704): Aesop, Characters, Galen, Origen On Prayer and Letters published; Lucretius lost 10 of 19 shards
   to the 320-min step cap. Repair queued: ranges [0,500) [1008,2015) [2524,3031) [4051,5083) [7657,9697), budget 3000,
   reuse_run 41950738704.
+
+## 2026-11-08 — queue N (release library-v1)
+- Queue M published (Lucretius after the repair run 42030586922).
+- Queue N: Thucydides, History of the Peloponnesian War I–VIII in four volumes (Crawley; Cicero Reader); Xenophon,
+  Anabasis (Dakyns; Julian Reader). 5 works, ~1.66 million characters. Tests 30/30, gate 0 problems.
