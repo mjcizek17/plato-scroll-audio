@@ -31,7 +31,8 @@ ORDINAL = re.compile(r"^(\d{1,3}(?:,\d{3})+|\d+)(st|nd|rd|th)$", re.I)
 # printed words the scans got wrong (Taylor's Iamblichus, Theon)
 OCR = {"1’im:xus": "Timaeus", "circumvo1ve": "circumvolve", "de6ates": "debates", "2l3": "", "First1KGreek": "First Thousand Greek",
        "Pythagoreomm": "Pythagoreorum",
-       "pa3s": "pass", "ιθ": "nineteen"}   # Florida XXI; Philostratus, Lives of the Sophists "CHAPTER ιθ" (a Greek numeral)
+       "pa3s": "pass", "ιθ": "nineteen",
+       "18.Beyond": "Beyond", "88,--first": "first"}   # Herodotus IV.18, IX.88: Macaulay's section number run into the text   # Florida XXI; Philostratus, Lives of the Sophists "CHAPTER ιθ" (a Greek numeral)
 ROMAN = re.compile(r"^(?=[IVXLC])M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$")
 # words after which a Roman numeral is a number ("Book II", "Henry VIII", "vol. VI")
 NUMBERED = re.compile(r"^[(\[\"“]*(?:Book|Books|Chapter|Chapters|Part|Parts|Section|Letter|Epistle|Hymn|Ode|Fragment|Fragments|"

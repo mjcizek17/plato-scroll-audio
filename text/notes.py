@@ -108,6 +108,9 @@ def silent_mask(text, work=""):
     # a bracketed scripture reference, "(1Tim.2:9)", "(Matt. 6:9–13)", "(Gen 1:2)": a citation, not read (2026-11-04, Origen)
     spans += [(m.start(), m.end(), "locator") for m in re.finditer(
         r"\((?:[1-3]\s?)?[A-Z][a-z]{1,6}\.?\s?\d{1,3}[.:]\d{1,3}(?:\s?[–-]\s?\d{1,3})?(?:[;,]\s?\d{1,3}[.:]\d{1,3})*\)", text)]
+    # Herodotus (Macaulay): a section number left at the start of a paragraph before an ellipsis ("76.... and they had")
+    if base_work(work).startswith("herodotus"):
+        spans += [(m.start(), m.end(), "locator") for m in re.finditer(r"^\d{1,3}(?=\.\.\.)", text)]
     # fragment collections print each fragment's source with its book.chapter.section reference ("Diogenes Laertius,
     # Lives 7.41", "Stobaeus, Eclogues 1.1.29b", "Athenaeus 11.467d; 11.471b", "892b14–23"): the source is read, the
     # reference is not (2026-11-02, queue J)

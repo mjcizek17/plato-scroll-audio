@@ -86,3 +86,9 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
 - Queue M published (Lucretius after the repair run 42030586922).
 - Queue N: Thucydides, History of the Peloponnesian War I–VIII in four volumes (Crawley; Cicero Reader); Xenophon,
   Anabasis (Dakyns; Julian Reader). 5 works, ~1.66 million characters. Tests 30/30, gate 0 problems.
+
+## 2026-11-09 — queue N published; queue O (release library-v1)
+- Queue N: run 42553506623, all shards succeeded; 5 works published (≈27 h).
+- Queue O: Herodotus, Histories I–IX in three volumes (Macaulay; Homer Reader). ~1.55 million characters.
+- Three of Macaulay's section numbers left in the text are not read ("18.Beyond", "88,--first" via the OCR map; "76...." in
+  text/notes.py). Tests 31/31, gate 0 problems.

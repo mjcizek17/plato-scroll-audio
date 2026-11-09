@@ -1,11 +1,9 @@
 {
- "_note": "Queue N (2026-11-08): Thucydides, History of the Peloponnesian War I–IV (Crawley; Cicero Reader); Xenophon, Anabasis (Dakyns; Julian Reader, as for his other works).",
+ "_note": "Queue O (2026-11-09): Herodotus, Histories I–IX in three volumes (Macaulay; Homer Reader).",
  "works": [
-  "thucydides-1",
-  "thucydides-2",
-  "thucydides-3",
-  "thucydides-4",
-  "anabasis"
+  "herodotus-1",
+  "herodotus-2",
+  "herodotus-3"
  ],
  "dest": "release",
  "tag": "library-v1",
