@@ -1,0 +1,1 @@
+{"work": "phil-sophists", "patched": [{"part": "phil-sophists-p1", "entry": 27, "old_s": 8.96, "new_s": 8.96, "words": 21}, {"part": "phil-sophists-p5", "entry": 167, "old_s": 66.04, "new_s": 66.44, "words": 180}]}
