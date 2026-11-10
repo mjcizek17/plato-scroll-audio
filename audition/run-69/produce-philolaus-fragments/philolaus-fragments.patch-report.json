@@ -1,0 +1,33 @@
+{
+ "work": "philolaus-fragments",
+ "patched": [
+  {
+   "part": "philolaus-fragments-p1",
+   "entry": 33,
+   "old_s": 1.79,
+   "new_s": 0.81,
+   "words": 3
+  },
+  {
+   "part": "philolaus-fragments-p1",
+   "entry": 21,
+   "old_s": 123.94,
+   "new_s": 120.63,
+   "words": 322
+  },
+  {
+   "part": "philolaus-fragments-p1",
+   "entry": 20,
+   "old_s": 39.4,
+   "new_s": 39.41,
+   "words": 95
+  },
+  {
+   "part": "philolaus-fragments-p1",
+   "entry": 3,
+   "old_s": 15.1,
+   "new_s": 15.11,
+   "words": 33
+  }
+ ]
+}
