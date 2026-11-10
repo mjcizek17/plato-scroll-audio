@@ -1,0 +1,1 @@
+{"work": "xeno-symposium", "patched": [{"part": "xeno-symposium-p1", "entry": 127, "old_s": 30.13, "new_s": 30.13, "words": 82}]}
