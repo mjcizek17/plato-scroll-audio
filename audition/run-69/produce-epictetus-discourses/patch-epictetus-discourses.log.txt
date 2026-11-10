@@ -1,0 +1,1 @@
+{"work": "epictetus-discourses", "patched": [{"part": "epictetus-discourses-p7", "entry": 184, "old_s": 115.0, "new_s": 114.47, "words": 401}, {"part": "epictetus-discourses-p22", "entry": 538, "old_s": 105.89, "new_s": 106.6, "words": 358}]}
