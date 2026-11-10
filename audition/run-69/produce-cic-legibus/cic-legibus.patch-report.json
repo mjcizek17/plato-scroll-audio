@@ -1,0 +1,54 @@
+{
+ "work": "cic-legibus",
+ "patched": [
+  {
+   "part": "cic-legibus-p3",
+   "entry": 508,
+   "old_s": 24.08,
+   "new_s": 23.37,
+   "words": 72
+  },
+  {
+   "part": "cic-legibus-p3",
+   "entry": 488,
+   "old_s": 84.56,
+   "new_s": 82.57,
+   "words": 252
+  },
+  {
+   "part": "cic-legibus-p3",
+   "entry": 396,
+   "old_s": 38.06,
+   "new_s": 39.43,
+   "words": 92
+  },
+  {
+   "part": "cic-legibus-p3",
+   "entry": 304,
+   "old_s": 45.57,
+   "new_s": 45.88,
+   "words": 137
+  },
+  {
+   "part": "cic-legibus-p4",
+   "entry": 685,
+   "old_s": 23.28,
+   "new_s": 24.31,
+   "words": 62
+  },
+  {
+   "part": "cic-legibus-p4",
+   "entry": 667,
+   "old_s": 26.09,
+   "new_s": 26.27,
+   "words": 84
+  },
+  {
+   "part": "cic-legibus-p4",
+   "entry": 638,
+   "old_s": 47.41,
+   "new_s": 47.49,
+   "words": 147
+  }
+ ]
+}
