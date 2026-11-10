@@ -1,0 +1,19 @@
+{
+ "work": "plethon-chaldean-oracles",
+ "patched": [
+  {
+   "part": "plethon-chaldean-oracles-p1",
+   "entry": 42,
+   "old_s": 7.93,
+   "new_s": 8.34,
+   "words": 21
+  },
+  {
+   "part": "plethon-chaldean-oracles-p1",
+   "entry": 36,
+   "old_s": 11.19,
+   "new_s": 11.01,
+   "words": 27
+  }
+ ]
+}
