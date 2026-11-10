@@ -1,0 +1,26 @@
+{
+ "work": "anabasis",
+ "patched": [
+  {
+   "part": "anabasis-p2",
+   "entry": 273,
+   "old_s": 15.47,
+   "new_s": 15.4,
+   "words": 44
+  },
+  {
+   "part": "anabasis-p4",
+   "entry": 623,
+   "old_s": 26.85,
+   "new_s": 26.6,
+   "words": 78
+  },
+  {
+   "part": "anabasis-p7",
+   "entry": 1455,
+   "old_s": 21.55,
+   "new_s": 23.18,
+   "words": 74
+  }
+ ]
+}
