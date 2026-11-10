@@ -1,0 +1,138 @@
+{
+ "work": "numenius-fragments",
+ "patched": [
+  {
+   "part": "numenius-fragments-p1",
+   "entry": 80,
+   "old_s": 24.21,
+   "new_s": 21.76,
+   "words": 54
+  },
+  {
+   "part": "numenius-fragments-p1",
+   "entry": 44,
+   "old_s": 41.7,
+   "new_s": 40.9,
+   "words": 104
+  },
+  {
+   "part": "numenius-fragments-p1",
+   "entry": 41,
+   "old_s": 4.2,
+   "new_s": 3.24,
+   "words": 6
+  },
+  {
+   "part": "numenius-fragments-p1",
+   "entry": 40,
+   "old_s": 3.99,
+   "new_s": 3.84,
+   "words": 9
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 323,
+   "old_s": 5.92,
+   "new_s": 5.26,
+   "words": 18
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 322,
+   "old_s": 13.33,
+   "new_s": 14.75,
+   "words": 37
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 318,
+   "old_s": 20.4,
+   "new_s": 20.4,
+   "words": 52
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 300,
+   "old_s": 35.56,
+   "new_s": 35.74,
+   "words": 91
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 298,
+   "old_s": 5.26,
+   "new_s": 4.78,
+   "words": 14
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 297,
+   "old_s": 28.23,
+   "new_s": 28.6,
+   "words": 78
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 292,
+   "old_s": 30.74,
+   "new_s": 30.74,
+   "words": 86
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 278,
+   "old_s": 33.59,
+   "new_s": 34.24,
+   "words": 87
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 270,
+   "old_s": 40.68,
+   "new_s": 40.63,
+   "words": 118
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 253,
+   "old_s": 20.69,
+   "new_s": 21.34,
+   "words": 56
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 233,
+   "old_s": 49.75,
+   "new_s": 50.74,
+   "words": 127
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 191,
+   "old_s": 8.61,
+   "new_s": 8.41,
+   "words": 23
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 185,
+   "old_s": 48.16,
+   "new_s": 49.0,
+   "words": 126
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 171,
+   "old_s": 14.28,
+   "new_s": 13.54,
+   "words": 34
+  },
+  {
+   "part": "numenius-fragments-p2",
+   "entry": 170,
+   "old_s": 12.0,
+   "new_s": 11.97,
+   "words": 29
+  }
+ ]
+}
