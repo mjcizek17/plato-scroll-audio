@@ -1,0 +1,1 @@
+{"work": "on-the-soul", "patched": [{"part": "on-the-soul-p1", "entry": 26, "old_s": 99.75, "new_s": 99.72, "words": 307}, {"part": "on-the-soul-p3", "entry": 218, "old_s": 41.74, "new_s": 41.25, "words": 147}]}
