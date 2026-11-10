@@ -1,0 +1,33 @@
+{
+ "work": "plut-moralia-1",
+ "patched": [
+  {
+   "part": "plut-moralia-1-p2",
+   "entry": 336,
+   "old_s": 5.77,
+   "new_s": 5.65,
+   "words": 18
+  },
+  {
+   "part": "plut-moralia-1-p2",
+   "entry": 138,
+   "old_s": 58.03,
+   "new_s": 57.83,
+   "words": 174
+  },
+  {
+   "part": "plut-moralia-1-p4",
+   "entry": 634,
+   "old_s": 23.69,
+   "new_s": 22.07,
+   "words": 63
+  },
+  {
+   "part": "plut-moralia-1-p5",
+   "entry": 724,
+   "old_s": 4.17,
+   "new_s": 4.22,
+   "words": 10
+  }
+ ]
+}
