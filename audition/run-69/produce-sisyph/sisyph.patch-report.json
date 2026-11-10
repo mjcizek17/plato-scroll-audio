@@ -1,0 +1,12 @@
+{
+ "work": "sisyph",
+ "patched": [
+  {
+   "part": "sisyph-p1",
+   "entry": 56,
+   "old_s": 79.22,
+   "new_s": 78.99,
+   "words": 250
+  }
+ ]
+}
