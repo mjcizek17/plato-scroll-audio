@@ -1,0 +1,61 @@
+{
+ "work": "simplicius-enchiridion",
+ "patched": [
+  {
+   "part": "simplicius-enchiridion-p1",
+   "entry": 49,
+   "old_s": 130.92,
+   "new_s": 130.82,
+   "words": 362
+  },
+  {
+   "part": "simplicius-enchiridion-p2",
+   "entry": 111,
+   "old_s": 101.92,
+   "new_s": 102.19,
+   "words": 300
+  },
+  {
+   "part": "simplicius-enchiridion-p6",
+   "entry": 419,
+   "old_s": 164.39,
+   "new_s": 164.8,
+   "words": 458
+  },
+  {
+   "part": "simplicius-enchiridion-p7",
+   "entry": 556,
+   "old_s": 104.57,
+   "new_s": 107.46,
+   "words": 301
+  },
+  {
+   "part": "simplicius-enchiridion-p7",
+   "entry": 511,
+   "old_s": 84.78,
+   "new_s": 85.02,
+   "words": 223
+  },
+  {
+   "part": "simplicius-enchiridion-p8",
+   "entry": 648,
+   "old_s": 69.97,
+   "new_s": 69.18,
+   "words": 198
+  },
+  {
+   "part": "simplicius-enchiridion-p10",
+   "entry": 802,
+   "old_s": 72.99,
+   "new_s": 71.06,
+   "words": 185
+  },
+  {
+   "part": "simplicius-enchiridion-p10",
+   "entry": 788,
+   "old_s": 125.28,
+   "new_s": 125.73,
+   "words": 358
+  }
+ ]
+}
