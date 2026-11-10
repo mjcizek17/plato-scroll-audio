@@ -1,0 +1,1 @@
+{"work": "hermes-corpus-1", "patched": [{"part": "hermes-corpus-1-p1", "entry": 131, "old_s": 12.29, "new_s": 12.29, "words": 33}, {"part": "hermes-corpus-1-p1", "entry": 94, "old_s": 5.36, "new_s": 5.19, "words": 15}, {"part": "hermes-corpus-1-p1", "entry": 81, "old_s": 11.04, "new_s": 11.59, "words": 42}]}
