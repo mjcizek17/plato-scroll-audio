@@ -1,0 +1,12 @@
+{
+ "work": "plut-lives-5",
+ "patched": [
+  {
+   "part": "plut-lives-5-p8",
+   "entry": 637,
+   "old_s": 81.46,
+   "new_s": 82.16,
+   "words": 261
+  }
+ ]
+}
