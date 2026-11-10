@@ -1,0 +1,1 @@
+{"work": "demod", "patched": [{"part": "demod-p1", "entry": 2, "old_s": 260.01, "new_s": 257.88, "words": 799}, {"part": "demod-p1", "entry": 1, "old_s": 67.49, "new_s": 65.58, "words": 205}]}
