@@ -1,0 +1,19 @@
+{
+ "work": "proclus-fate",
+ "patched": [
+  {
+   "part": "proclus-fate-p1",
+   "entry": 34,
+   "old_s": 119.08,
+   "new_s": 118.76,
+   "words": 301
+  },
+  {
+   "part": "proclus-fate-p1",
+   "entry": 32,
+   "old_s": 161.89,
+   "new_s": 160.58,
+   "words": 431
+  }
+ ]
+}
