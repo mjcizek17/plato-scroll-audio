@@ -1,0 +1,12 @@
+{
+ "work": "on-dreams",
+ "patched": [
+  {
+   "part": "on-dreams-p1",
+   "entry": 10,
+   "old_s": 108.93,
+   "new_s": 107.06,
+   "words": 348
+  }
+ ]
+}
