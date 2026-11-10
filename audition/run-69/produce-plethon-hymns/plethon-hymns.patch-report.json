@@ -1,0 +1,194 @@
+{
+ "work": "plethon-hymns",
+ "patched": [
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 54,
+   "old_s": 33.96,
+   "new_s": 31.88,
+   "words": 91
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 52,
+   "old_s": 33.11,
+   "new_s": 31.81,
+   "words": 87
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 50,
+   "old_s": 38.29,
+   "new_s": 32.58,
+   "words": 90
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 48,
+   "old_s": 35.45,
+   "new_s": 32.76,
+   "words": 100
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 46,
+   "old_s": 31.56,
+   "new_s": 29.44,
+   "words": 84
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 44,
+   "old_s": 37.17,
+   "new_s": 31.25,
+   "words": 101
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 42,
+   "old_s": 39.03,
+   "new_s": 37.58,
+   "words": 108
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 40,
+   "old_s": 34.18,
+   "new_s": 32.13,
+   "words": 88
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 38,
+   "old_s": 32.54,
+   "new_s": 31.09,
+   "words": 87
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 36,
+   "old_s": 38.35,
+   "new_s": 35.86,
+   "words": 94
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 34,
+   "old_s": 29.74,
+   "new_s": 28.76,
+   "words": 77
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 32,
+   "old_s": 37.9,
+   "new_s": 38.8,
+   "words": 97
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 30,
+   "old_s": 36.25,
+   "new_s": 33.4,
+   "words": 82
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 28,
+   "old_s": 29.42,
+   "new_s": 28.23,
+   "words": 79
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 26,
+   "old_s": 31.68,
+   "new_s": 32.05,
+   "words": 86
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 24,
+   "old_s": 31.58,
+   "new_s": 31.07,
+   "words": 82
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 22,
+   "old_s": 31.94,
+   "new_s": 27.13,
+   "words": 80
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 20,
+   "old_s": 33.88,
+   "new_s": 30.49,
+   "words": 78
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 18,
+   "old_s": 31.28,
+   "new_s": 28.96,
+   "words": 76
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 16,
+   "old_s": 34.41,
+   "new_s": 34.1,
+   "words": 95
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 14,
+   "old_s": 30.75,
+   "new_s": 30.7,
+   "words": 78
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 12,
+   "old_s": 31.28,
+   "new_s": 28.1,
+   "words": 77
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 10,
+   "old_s": 35.89,
+   "new_s": 33.18,
+   "words": 90
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 8,
+   "old_s": 33.72,
+   "new_s": 35.55,
+   "words": 90
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 6,
+   "old_s": 33.94,
+   "new_s": 34.15,
+   "words": 89
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 4,
+   "old_s": 32.39,
+   "new_s": 34.06,
+   "words": 96
+  },
+  {
+   "part": "plethon-hymns-p1",
+   "entry": 2,
+   "old_s": 34.1,
+   "new_s": 39.11,
+   "words": 96
+  }
+ ]
+}
