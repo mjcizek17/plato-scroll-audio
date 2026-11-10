@@ -1,0 +1,68 @@
+{
+ "work": "memorabilia",
+ "patched": [
+  {
+   "part": "memorabilia-p1",
+   "entry": 117,
+   "old_s": 28.57,
+   "new_s": 28.03,
+   "words": 85
+  },
+  {
+   "part": "memorabilia-p3",
+   "entry": 451,
+   "old_s": 16.74,
+   "new_s": 16.37,
+   "words": 50
+  },
+  {
+   "part": "memorabilia-p3",
+   "entry": 446,
+   "old_s": 50.21,
+   "new_s": 50.26,
+   "words": 148
+  },
+  {
+   "part": "memorabilia-p3",
+   "entry": 441,
+   "old_s": 15.23,
+   "new_s": 15.66,
+   "words": 44
+  },
+  {
+   "part": "memorabilia-p3",
+   "entry": 440,
+   "old_s": 32.45,
+   "new_s": 32.76,
+   "words": 90
+  },
+  {
+   "part": "memorabilia-p3",
+   "entry": 439,
+   "old_s": 29.97,
+   "new_s": 30.15,
+   "words": 90
+  },
+  {
+   "part": "memorabilia-p3",
+   "entry": 438,
+   "old_s": 27.46,
+   "new_s": 27.2,
+   "words": 78
+  },
+  {
+   "part": "memorabilia-p3",
+   "entry": 437,
+   "old_s": 29.11,
+   "new_s": 29.39,
+   "words": 80
+  },
+  {
+   "part": "memorabilia-p4",
+   "entry": 590,
+   "old_s": 37.15,
+   "new_s": 37.07,
+   "words": 104
+  }
+ ]
+}
