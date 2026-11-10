@@ -1,0 +1,187 @@
+{
+ "work": "seneca-essays",
+ "patched": [
+  {
+   "part": "seneca-essays-p1",
+   "entry": 60,
+   "old_s": 131.77,
+   "new_s": 131.47,
+   "words": 410
+  },
+  {
+   "part": "seneca-essays-p2",
+   "entry": 90,
+   "old_s": 184.03,
+   "new_s": 184.42,
+   "words": 618
+  },
+  {
+   "part": "seneca-essays-p3",
+   "entry": 152,
+   "old_s": 118.86,
+   "new_s": 118.52,
+   "words": 417
+  },
+  {
+   "part": "seneca-essays-p4",
+   "entry": 177,
+   "old_s": 26.54,
+   "new_s": 26.54,
+   "words": 89
+  },
+  {
+   "part": "seneca-essays-p6",
+   "entry": 282,
+   "old_s": 123.11,
+   "new_s": 122.86,
+   "words": 386
+  },
+  {
+   "part": "seneca-essays-p6",
+   "entry": 274,
+   "old_s": 48.16,
+   "new_s": 47.59,
+   "words": 156
+  },
+  {
+   "part": "seneca-essays-p6",
+   "entry": 270,
+   "old_s": 85.31,
+   "new_s": 85.5,
+   "words": 287
+  },
+  {
+   "part": "seneca-essays-p6",
+   "entry": 263,
+   "old_s": 182.23,
+   "new_s": 182.92,
+   "words": 594
+  },
+  {
+   "part": "seneca-essays-p6",
+   "entry": 258,
+   "old_s": 104.99,
+   "new_s": 104.35,
+   "words": 350
+  },
+  {
+   "part": "seneca-essays-p7",
+   "entry": 328,
+   "old_s": 244.03,
+   "new_s": 244.24,
+   "words": 812
+  },
+  {
+   "part": "seneca-essays-p7",
+   "entry": 324,
+   "old_s": 115.76,
+   "new_s": 114.94,
+   "words": 391
+  },
+  {
+   "part": "seneca-essays-p7",
+   "entry": 319,
+   "old_s": 77.92,
+   "new_s": 75.97,
+   "words": 249
+  },
+  {
+   "part": "seneca-essays-p8",
+   "entry": 396,
+   "old_s": 31.3,
+   "new_s": 30.95,
+   "words": 106
+  },
+  {
+   "part": "seneca-essays-p9",
+   "entry": 459,
+   "old_s": 29.56,
+   "new_s": 29.72,
+   "words": 87
+  },
+  {
+   "part": "seneca-essays-p9",
+   "entry": 442,
+   "old_s": 95.13,
+   "new_s": 95.12,
+   "words": 294
+  },
+  {
+   "part": "seneca-essays-p10",
+   "entry": 539,
+   "old_s": 45.6,
+   "new_s": 45.87,
+   "words": 161
+  },
+  {
+   "part": "seneca-essays-p10",
+   "entry": 524,
+   "old_s": 68.57,
+   "new_s": 68.56,
+   "words": 230
+  },
+  {
+   "part": "seneca-essays-p15",
+   "entry": 923,
+   "old_s": 194.7,
+   "new_s": 194.71,
+   "words": 682
+  },
+  {
+   "part": "seneca-essays-p15",
+   "entry": 919,
+   "old_s": 70.16,
+   "new_s": 70.63,
+   "words": 237
+  },
+  {
+   "part": "seneca-essays-p15",
+   "entry": 917,
+   "old_s": 199.14,
+   "new_s": 197.82,
+   "words": 676
+  },
+  {
+   "part": "seneca-essays-p16",
+   "entry": 946,
+   "old_s": 90.25,
+   "new_s": 90.61,
+   "words": 298
+  },
+  {
+   "part": "seneca-essays-p16",
+   "entry": 940,
+   "old_s": 97.66,
+   "new_s": 97.11,
+   "words": 330
+  },
+  {
+   "part": "seneca-essays-p17",
+   "entry": 1030,
+   "old_s": 176.21,
+   "new_s": 176.1,
+   "words": 591
+  },
+  {
+   "part": "seneca-essays-p17",
+   "entry": 1026,
+   "old_s": 46.38,
+   "new_s": 46.44,
+   "words": 146
+  },
+  {
+   "part": "seneca-essays-p18",
+   "entry": 1086,
+   "old_s": 73.88,
+   "new_s": 73.43,
+   "words": 254
+  },
+  {
+   "part": "seneca-essays-p18",
+   "entry": 1062,
+   "old_s": 25.22,
+   "new_s": 23.65,
+   "words": 79
+  }
+ ]
+}
