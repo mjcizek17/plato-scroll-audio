@@ -1,0 +1,82 @@
+{
+ "work": "cleanthes-fragments",
+ "patched": [
+  {
+   "part": "cleanthes-fragments-p1",
+   "entry": 110,
+   "old_s": 12.66,
+   "new_s": 12.83,
+   "words": 40
+  },
+  {
+   "part": "cleanthes-fragments-p1",
+   "entry": 107,
+   "old_s": 11.75,
+   "new_s": 10.93,
+   "words": 35
+  },
+  {
+   "part": "cleanthes-fragments-p1",
+   "entry": 94,
+   "old_s": 22.82,
+   "new_s": 23.1,
+   "words": 78
+  },
+  {
+   "part": "cleanthes-fragments-p1",
+   "entry": 85,
+   "old_s": 15.65,
+   "new_s": 15.52,
+   "words": 58
+  },
+  {
+   "part": "cleanthes-fragments-p1",
+   "entry": 44,
+   "old_s": 13.23,
+   "new_s": 13.39,
+   "words": 46
+  },
+  {
+   "part": "cleanthes-fragments-p1",
+   "entry": 14,
+   "old_s": 10.1,
+   "new_s": 10.19,
+   "words": 29
+  },
+  {
+   "part": "cleanthes-fragments-p1",
+   "entry": 4,
+   "old_s": 47.27,
+   "new_s": 43.95,
+   "words": 154
+  },
+  {
+   "part": "cleanthes-fragments-p2",
+   "entry": 129,
+   "old_s": 44.76,
+   "new_s": 45.36,
+   "words": 159
+  },
+  {
+   "part": "cleanthes-fragments-p2",
+   "entry": 127,
+   "old_s": 20.64,
+   "new_s": 21.49,
+   "words": 75
+  },
+  {
+   "part": "cleanthes-fragments-p2",
+   "entry": 120,
+   "old_s": 18.76,
+   "new_s": 18.79,
+   "words": 63
+  },
+  {
+   "part": "cleanthes-fragments-p2",
+   "entry": 119,
+   "old_s": 46.4,
+   "new_s": 48.65,
+   "words": 166
+  }
+ ]
+}
