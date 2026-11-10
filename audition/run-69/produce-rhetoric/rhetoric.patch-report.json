@@ -1,0 +1,54 @@
+{
+ "work": "rhetoric",
+ "patched": [
+  {
+   "part": "rhetoric-p1",
+   "entry": 186,
+   "old_s": 100.49,
+   "new_s": 95.2,
+   "words": 344
+  },
+  {
+   "part": "rhetoric-p1",
+   "entry": 116,
+   "old_s": 32.96,
+   "new_s": 32.54,
+   "words": 122
+  },
+  {
+   "part": "rhetoric-p1",
+   "entry": 82,
+   "old_s": 50.23,
+   "new_s": 50.68,
+   "words": 159
+  },
+  {
+   "part": "rhetoric-p2",
+   "entry": 320,
+   "old_s": 42.64,
+   "new_s": 42.01,
+   "words": 127
+  },
+  {
+   "part": "rhetoric-p2",
+   "entry": 262,
+   "old_s": 53.06,
+   "new_s": 51.38,
+   "words": 196
+  },
+  {
+   "part": "rhetoric-p3",
+   "entry": 644,
+   "old_s": 77.48,
+   "new_s": 76.77,
+   "words": 257
+  },
+  {
+   "part": "rhetoric-p3",
+   "entry": 583,
+   "old_s": 48.18,
+   "new_s": 51.16,
+   "words": 150
+  }
+ ]
+}
