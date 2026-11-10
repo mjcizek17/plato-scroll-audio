@@ -1,0 +1,26 @@
+{
+ "work": "apuleius-florida",
+ "patched": [
+  {
+   "part": "apuleius-florida-p2",
+   "entry": 48,
+   "old_s": 38.64,
+   "new_s": 39.45,
+   "words": 105
+  },
+  {
+   "part": "apuleius-florida-p2",
+   "entry": 33,
+   "old_s": 19.47,
+   "new_s": 18.92,
+   "words": 62
+  },
+  {
+   "part": "apuleius-florida-p3",
+   "entry": 69,
+   "old_s": 78.09,
+   "new_s": 78.09,
+   "words": 219
+  }
+ ]
+}
