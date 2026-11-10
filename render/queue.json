@@ -1,11 +1,966 @@
 {
- "_note": "Queue O (2026-11-09): Herodotus, Histories I–IX in three volumes (Macaulay; Homer Reader).",
- "works": [
-  "herodotus-1",
-  "herodotus-2",
-  "herodotus-3"
- ],
+ "_note": "Library audit 5.20n (2026-11-10): re-record the paragraphs whose text the audit corrected (translations revised, scanning errors and split words fixed) — 654 paragraphs in 101 works.",
+ "patch": {
+  "alcinous-handbook": [
+   64
+  ],
+  "anabasis": [
+   273,
+   623,
+   1455
+  ],
+  "anaxagoras-fragments": [
+   81
+  ],
+  "apol": [
+   5,
+   26,
+   27,
+   28,
+   48,
+   51,
+   52,
+   87,
+   88,
+   123,
+   124
+  ],
+  "apuleius-apologia": [
+   156
+  ],
+  "apuleius-florida": [
+   33,
+   48,
+   69
+  ],
+  "apuleius-on-plato": [
+   12
+  ],
+  "archytas-fragments": [
+   2,
+   12,
+   21
+  ],
+  "axioch": [
+   5
+  ],
+  "chaldaean-oracles": [
+   208,
+   217,
+   441
+  ],
+  "chrm": [
+   26,
+   54,
+   55,
+   77,
+   78,
+   107
+  ],
+  "cic-divinatione": [
+   166,
+   490
+  ],
+  "cic-finibus": [
+   180,
+   257,
+   363
+  ],
+  "cic-legibus": [
+   304,
+   396,
+   488,
+   508,
+   638,
+   667,
+   685
+  ],
+  "cic-officiis": [
+   155
+  ],
+  "cic-tusculan": [
+   172,
+   195
+  ],
+  "cleanthes-fragments": [
+   4,
+   14,
+   44,
+   85,
+   94,
+   107,
+   110,
+   119,
+   120,
+   127,
+   129
+  ],
+  "crat": [
+   616
+  ],
+  "dam-principles": [
+   11,
+   14,
+   16,
+   17,
+   24,
+   26,
+   28,
+   29,
+   30,
+   31,
+   44,
+   56,
+   58,
+   75,
+   79,
+   83,
+   93,
+   121,
+   133,
+   135,
+   137,
+   139,
+   145,
+   146,
+   154,
+   161,
+   167,
+   177,
+   178,
+   179,
+   185,
+   186,
+   189,
+   190,
+   195,
+   196,
+   199,
+   203,
+   204,
+   207,
+   237,
+   239,
+   248,
+   254,
+   257,
+   273,
+   276,
+   280,
+   281,
+   288,
+   289,
+   290,
+   292,
+   293,
+   294,
+   318,
+   323,
+   325,
+   333,
+   334,
+   335,
+   338,
+   339,
+   345,
+   349,
+   356,
+   368,
+   373,
+   376,
+   386,
+   387,
+   388,
+   397,
+   405,
+   411,
+   412,
+   419,
+   420,
+   429,
+   435,
+   437,
+   439,
+   445,
+   447,
+   448,
+   453,
+   457,
+   467,
+   472,
+   473,
+   475,
+   477,
+   478,
+   484,
+   486,
+   492,
+   496,
+   498,
+   502,
+   511,
+   513,
+   514,
+   515,
+   516,
+   518,
+   520,
+   523,
+   524,
+   525,
+   527,
+   529,
+   531,
+   534,
+   536,
+   549,
+   563,
+   565,
+   570,
+   578,
+   579,
+   588,
+   589,
+   595,
+   596,
+   608,
+   610,
+   616,
+   620,
+   621,
+   622,
+   624
+  ],
+  "demod": [
+   1,
+   2
+  ],
+  "dionysius-ecclesiastical-hierarchy": [
+   45,
+   46
+  ],
+  "epictetus-discourses": [
+   184,
+   538
+  ],
+  "epictetus-enchiridion": [
+   34
+  ],
+  "farabi-virtuous-city": [
+   43,
+   67,
+   234,
+   247,
+   266,
+   292,
+   296,
+   396
+  ],
+  "hermes-asclepius": [
+   1,
+   14,
+   15,
+   25,
+   26,
+   44,
+   48,
+   63,
+   84,
+   95,
+   97
+  ],
+  "hermes-corpus-1": [
+   81,
+   94,
+   131
+  ],
+  "hermes-corpus-2": [
+   29,
+   49,
+   81,
+   109,
+   321
+  ],
+  "hermes-stobaeus": [
+   1,
+   28,
+   196,
+   213,
+   241,
+   301,
+   374,
+   440
+  ],
+  "hesiod-works-days": [
+   27
+  ],
+  "hierocles-golden-verses": [
+   13,
+   14,
+   42,
+   89,
+   168,
+   215,
+   219,
+   233,
+   242
+  ],
+  "hippmaj-b": [
+   71,
+   266
+  ],
+  "homer-iliad": [
+   243,
+   1002,
+   1132
+  ],
+  "iamb-dcms": [
+   1,
+   60,
+   159
+  ],
+  "iamb-lifepyth": [
+   93
+  ],
+  "iamb-mysteries": [
+   78,
+   100,
+   221,
+   301,
+   340,
+   516,
+   518
+  ],
+  "iamb-nicomachus": [
+   18,
+   20,
+   28,
+   38,
+   41,
+   48,
+   99,
+   102,
+   138,
+   169,
+   203
+  ],
+  "iamb-protrepticus": [
+   150,
+   177
+  ],
+  "julian-caesars": [
+   14,
+   15
+  ],
+  "julian-orations": [
+   60,
+   88,
+   90,
+   142,
+   218,
+   252
+  ],
+  "laws": [
+   1412,
+   1413,
+   1507,
+   1508,
+   1548,
+   1549,
+   1554,
+   1555,
+   1575,
+   1576,
+   1604,
+   1605,
+   1616,
+   1617,
+   1649,
+   1650,
+   1666,
+   1667,
+   1669,
+   1670,
+   1684,
+   1685,
+   1700,
+   1701,
+   1702,
+   1703,
+   1713,
+   1714,
+   1732,
+   1733,
+   2132,
+   2140,
+   2141,
+   2145,
+   2146,
+   2156,
+   2157,
+   2158,
+   2159,
+   2162,
+   2163,
+   2168,
+   2169,
+   2180,
+   2181,
+   2184,
+   2185,
+   2191,
+   2192,
+   2194,
+   2195,
+   2196,
+   2197,
+   2202,
+   2203,
+   2207,
+   2208,
+   2211,
+   2212,
+   2215,
+   2216,
+   2248,
+   2249,
+   2252,
+   2253,
+   2255,
+   2256,
+   2261,
+   2262,
+   2275,
+   2276,
+   2332,
+   2333,
+   2437,
+   2438
+  ],
+  "meditations": [
+   440
+  ],
+  "memorabilia": [
+   117,
+   437,
+   438,
+   439,
+   440,
+   441,
+   446,
+   451,
+   590
+  ],
+  "metaphysics": [
+   35,
+   40,
+   194,
+   375,
+   625,
+   661
+  ],
+  "meteorology": [
+   16,
+   38,
+   119,
+   126
+  ],
+  "nicomachean-ethics": [
+   76,
+   254,
+   344,
+   483,
+   514
+  ],
+  "numenius-fragments": [
+   40,
+   41,
+   44,
+   80,
+   170,
+   171,
+   185,
+   191,
+   233,
+   253,
+   270,
+   278,
+   292,
+   297,
+   298,
+   300,
+   318,
+   322,
+   323
+  ],
+  "oeconomicus": [
+   216
+  ],
+  "olymp-alc1": [
+   11,
+   20,
+   76,
+   188,
+   199,
+   297,
+   305,
+   583,
+   629,
+   762,
+   764,
+   844
+  ],
+  "on-dreams": [
+   10
+  ],
+  "on-generation-and-corruption": [
+   28,
+   48,
+   80,
+   95,
+   136
+  ],
+  "on-sophistical-refutations": [
+   105,
+   122
+  ],
+  "on-the-heavens": [
+   67,
+   161,
+   184
+  ],
+  "on-the-parts-of-animals": [
+   76,
+   153
+  ],
+  "on-the-soul": [
+   26,
+   218
+  ],
+  "on-youth-and-old-age-on-life-and-death-on-breathing": [
+   68,
+   86
+  ],
+  "onvirt": [
+   3
+  ],
+  "origen-on-prayer": [
+   18,
+   229,
+   271
+  ],
+  "phil": [
+   612
+  ],
+  "phil-apollonius": [
+   188,
+   278,
+   301,
+   338,
+   369,
+   730,
+   738,
+   983,
+   1066,
+   1179,
+   1204,
+   1222,
+   1503,
+   1624
+  ],
+  "phil-imagines-2": [
+   8
+  ],
+  "phil-sophists": [
+   27,
+   167
+  ],
+  "philolaus-fragments": [
+   3,
+   20,
+   21,
+   33
+  ],
+  "physics": [
+   47,
+   164,
+   542,
+   632
+  ],
+  "plethon-chaldean-oracles": [
+   36,
+   42
+  ],
+  "plethon-hymns": [
+   2,
+   4,
+   6,
+   8,
+   10,
+   12,
+   14,
+   16,
+   18,
+   20,
+   22,
+   24,
+   26,
+   28,
+   30,
+   32,
+   34,
+   36,
+   38,
+   40,
+   42,
+   44,
+   46,
+   48,
+   50,
+   52,
+   54
+  ],
+  "plot-e1": [
+   559
+  ],
+  "plot-e2": [
+   141
+  ],
+  "plot-e4": [
+   227
+  ],
+  "plot-e6": [
+   530,
+   1117
+  ],
+  "plut-lives-1": [
+   221
+  ],
+  "plut-lives-5": [
+   637
+  ],
+  "plut-moralia-1": [
+   138,
+   336,
+   634,
+   724
+  ],
+  "politics": [
+   158,
+   222,
+   297,
+   336,
+   341
+  ],
+  "porph-abstinence": [
+   37,
+   88,
+   255
+  ],
+  "porph-cave": [
+   12,
+   20,
+   30
+  ],
+  "porph-christians": [
+   231,
+   312
+  ],
+  "porph-lifeplotinus": [
+   65
+  ],
+  "posterior-analytics": [
+   120,
+   200
+  ],
+  "prior-analytics": [
+   7,
+   71,
+   183
+  ],
+  "proclus-alcibiades": [
+   50,
+   53,
+   74
+  ],
+  "proclus-eltheo": [
+   410
+  ],
+  "proclus-euclid": [
+   3,
+   44,
+   169
+  ],
+  "proclus-fate": [
+   32,
+   34
+  ],
+  "proclus-homer": [
+   98
+  ],
+  "proclus-marinus": [
+   64
+  ],
+  "proclus-tendoubts": [
+   32
+  ],
+  "rep": [
+   346,
+   347,
+   592,
+   593,
+   761,
+   762,
+   814,
+   815,
+   1250,
+   1260,
+   1261,
+   1262,
+   1282,
+   1283,
+   1346,
+   1347
+  ],
+  "rep-b": [
+   1342,
+   1369,
+   1825
+  ],
+  "rhetoric": [
+   82,
+   116,
+   186,
+   262,
+   320,
+   583,
+   644
+  ],
+  "rivals": [
+   51
+  ],
+  "seneca-epistles": [
+   31,
+   64,
+   80,
+   208,
+   210,
+   500
+  ],
+  "seneca-essays": [
+   60,
+   90,
+   152,
+   177,
+   258,
+   263,
+   270,
+   274,
+   282,
+   319,
+   324,
+   328,
+   396,
+   442,
+   459,
+   524,
+   539,
+   917,
+   919,
+   923,
+   940,
+   946,
+   1026,
+   1030,
+   1062,
+   1086
+  ],
+  "simplicius-enchiridion": [
+   49,
+   111,
+   419,
+   511,
+   556,
+   648,
+   788,
+   802
+  ],
+  "sisyph": [
+   56
+  ],
+  "synesius-essays-hymns": [
+   212
+  ],
+  "the-history-of-animals": [
+   254,
+   832,
+   920,
+   997
+  ],
+  "theoarith": [
+   8,
+   11,
+   15,
+   18,
+   27,
+   30,
+   46,
+   51,
+   55,
+   147,
+   150,
+   220,
+   227,
+   278,
+   281,
+   282,
+   293,
+   304,
+   313,
+   315,
+   343,
+   356,
+   390,
+   426,
+   500,
+   625,
+   628,
+   666,
+   679,
+   697,
+   706,
+   836
+  ],
+  "virgil-aeneid": [
+   76
+  ],
+  "virgil-eclogues": [
+   97
+  ],
+  "xeno-symposium": [
+   127
+  ],
+  "zeno-fragments": [
+   37,
+   44,
+   47,
+   57,
+   85,
+   131,
+   143,
+   149,
+   161,
+   162,
+   171,
+   172,
+   208,
+   221,
+   250
+  ]
+ },
+ "tags": {
+  "alcinous-handbook": "plutarch-platonists-v1",
+  "anabasis": "library-v1",
+  "anaxagoras-fragments": "library-v1",
+  "apol": "audio-v1",
+  "apuleius-apologia": "library-v1",
+  "apuleius-florida": "library-v1",
+  "apuleius-on-plato": "plutarch-platonists-v1",
+  "archytas-fragments": "library-v1",
+  "axioch": "audio-v1",
+  "chaldaean-oracles": "library-v1",
+  "chrm": "audio-v1",
+  "cic-divinatione": "classics-v1",
+  "cic-finibus": "classics-v1",
+  "cic-legibus": "classics-v1",
+  "cic-officiis": "classics-v1",
+  "cic-tusculan": "classics-v1",
+  "cleanthes-fragments": "library-v1",
+  "crat": "audio-v1",
+  "dam-principles": "plutarch-platonists-v1",
+  "demod": "audio-v1",
+  "dionysius-ecclesiastical-hierarchy": "stoics-v1",
+  "epictetus-discourses": "stoics-v1",
+  "epictetus-enchiridion": "stoics-v1",
+  "farabi-virtuous-city": "library-v1",
+  "hermes-asclepius": "library-v1",
+  "hermes-corpus-1": "hermetica-v1",
+  "hermes-corpus-2": "hermetica-v1",
+  "hermes-stobaeus": "library-v1",
+  "hesiod-works-days": "neoplatonists-v1",
+  "hierocles-golden-verses": "plutarch-platonists-v1",
+  "hippmaj-b": "jowett-v1",
+  "homer-iliad": "classics-v1",
+  "iamb-dcms": "neoplatonists-v1",
+  "iamb-lifepyth": "neoplatonists-v1",
+  "iamb-mysteries": "neoplatonists-v1",
+  "iamb-nicomachus": "neoplatonists-v1",
+  "iamb-protrepticus": "neoplatonists-v1",
+  "julian-caesars": "julian-v1",
+  "julian-orations": "julian-v1",
+  "laws": "audio-v1",
+  "meditations": "stoics-v1",
+  "memorabilia": "stoics-v1",
+  "metaphysics": "aristotle-v1",
+  "meteorology": "aristotle-v1",
+  "nicomachean-ethics": "aristotle-v1",
+  "numenius-fragments": "plutarch-platonists-v1",
+  "oeconomicus": "stoics-v1",
+  "olymp-alc1": "plutarch-platonists-v1",
+  "on-dreams": "aristotle-v1",
+  "on-generation-and-corruption": "aristotle-v1",
+  "on-sophistical-refutations": "aristotle-v1",
+  "on-the-heavens": "aristotle-v1",
+  "on-the-parts-of-animals": "aristotle-v1",
+  "on-the-soul": "aristotle-v1",
+  "on-youth-and-old-age-on-life-and-death-on-breathing": "aristotle-v1",
+  "onvirt": "audio-v1",
+  "origen-on-prayer": "library-v1",
+  "phil": "audio-v1",
+  "phil-apollonius": "library-v1",
+  "phil-imagines-2": "library-v1",
+  "phil-sophists": "library-v1",
+  "philolaus-fragments": "classics-v1",
+  "physics": "aristotle-v1",
+  "plethon-chaldean-oracles": "plutarch-platonists-v1",
+  "plethon-hymns": "plutarch-platonists-v1",
+  "plot-e1": "neoplatonists-v1",
+  "plot-e2": "neoplatonists-v1",
+  "plot-e4": "neoplatonists-v1",
+  "plot-e6": "neoplatonists-v1",
+  "plut-lives-1": "plutarch-platonists-v1",
+  "plut-lives-5": "plutarch-platonists-v1",
+  "plut-moralia-1": "plutarch-platonists-v1",
+  "politics": "aristotle-v1",
+  "porph-abstinence": "plutarch-platonists-v1",
+  "porph-cave": "plutarch-platonists-v1",
+  "porph-christians": "plutarch-platonists-v1",
+  "porph-lifeplotinus": "plutarch-platonists-v1",
+  "posterior-analytics": "aristotle-v1",
+  "prior-analytics": "aristotle-v1",
+  "proclus-alcibiades": "plutarch-platonists-v1",
+  "proclus-eltheo": "plutarch-platonists-v1",
+  "proclus-euclid": "plutarch-platonists-v1",
+  "proclus-fate": "plutarch-platonists-v1",
+  "proclus-homer": "plutarch-platonists-v1",
+  "proclus-marinus": "plutarch-platonists-v1",
+  "proclus-tendoubts": "plutarch-platonists-v1",
+  "rep": "audio-v1",
+  "rep-b": "jowett-v1",
+  "rhetoric": "aristotle-v1",
+  "rivals": "audio-v1",
+  "seneca-epistles": "stoics-v1",
+  "seneca-essays": "stoics-v1",
+  "simplicius-enchiridion": "plutarch-platonists-v1",
+  "sisyph": "audio-v1",
+  "synesius-essays-hymns": "library-v1",
+  "the-history-of-animals": "aristotle-v1",
+  "theoarith": "neoplatonists-v1",
+  "virgil-aeneid": "classics-v1",
+  "virgil-eclogues": "classics-v1",
+  "xeno-symposium": "stoics-v1",
+  "zeno-fragments": "library-v1"
+ },
  "dest": "release",
- "tag": "library-v1",
- "budget": 12000
+ "budget": 6000
 }
