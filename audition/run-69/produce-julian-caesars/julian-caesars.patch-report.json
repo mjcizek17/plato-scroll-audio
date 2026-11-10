@@ -1,0 +1,19 @@
+{
+ "work": "julian-caesars",
+ "patched": [
+  {
+   "part": "julian-caesars-p1",
+   "entry": 15,
+   "old_s": 94.9,
+   "new_s": 95.85,
+   "words": 244
+  },
+  {
+   "part": "julian-caesars-p1",
+   "entry": 14,
+   "old_s": 133.63,
+   "new_s": 126.54,
+   "words": 352
+  }
+ ]
+}
