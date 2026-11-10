@@ -1,0 +1,1 @@
+{"work": "proclus-homer", "patched": [{"part": "proclus-homer-p4", "entry": 98, "old_s": 132.27, "new_s": 129.75, "words": 339}]}
