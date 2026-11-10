@@ -1,0 +1,1 @@
+{"work": "on-the-parts-of-animals", "patched": [{"part": "on-the-parts-of-animals-p2", "entry": 76, "old_s": 60.72, "new_s": 61.95, "words": 185}, {"part": "on-the-parts-of-animals-p3", "entry": 153, "old_s": 48.14, "new_s": 45.86, "words": 150}]}
