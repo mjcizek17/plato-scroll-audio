@@ -1,0 +1,1 @@
+{"work": "alcinous-handbook", "patched": [{"part": "alcinous-handbook-p2", "entry": 64, "old_s": 69.56, "new_s": 68.83, "words": 177}]}
