@@ -1,0 +1,40 @@
+{
+ "work": "nicomachean-ethics",
+ "patched": [
+  {
+   "part": "nicomachean-ethics-p2",
+   "entry": 76,
+   "old_s": 84.54,
+   "new_s": 86.6,
+   "words": 273
+  },
+  {
+   "part": "nicomachean-ethics-p5",
+   "entry": 254,
+   "old_s": 59.02,
+   "new_s": 56.3,
+   "words": 192
+  },
+  {
+   "part": "nicomachean-ethics-p7",
+   "entry": 344,
+   "old_s": 118.31,
+   "new_s": 118.63,
+   "words": 395
+  },
+  {
+   "part": "nicomachean-ethics-p10",
+   "entry": 514,
+   "old_s": 85.97,
+   "new_s": 84.93,
+   "words": 291
+  },
+  {
+   "part": "nicomachean-ethics-p10",
+   "entry": 483,
+   "old_s": 95.72,
+   "new_s": 96.86,
+   "words": 349
+  }
+ ]
+}
