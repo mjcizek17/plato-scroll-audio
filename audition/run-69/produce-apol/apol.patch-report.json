@@ -1,0 +1,82 @@
+{
+ "work": "apol",
+ "patched": [
+  {
+   "part": "apol-p1",
+   "entry": 88,
+   "old_s": 35.51,
+   "new_s": 35.19,
+   "words": 105
+  },
+  {
+   "part": "apol-p1",
+   "entry": 87,
+   "old_s": 19.1,
+   "new_s": 17.84,
+   "words": 60
+  },
+  {
+   "part": "apol-p1",
+   "entry": 52,
+   "old_s": 29.87,
+   "new_s": 30.03,
+   "words": 86
+  },
+  {
+   "part": "apol-p1",
+   "entry": 51,
+   "old_s": 37.86,
+   "new_s": 38.53,
+   "words": 115
+  },
+  {
+   "part": "apol-p1",
+   "entry": 48,
+   "old_s": 39.12,
+   "new_s": 37.86,
+   "words": 108
+  },
+  {
+   "part": "apol-p1",
+   "entry": 28,
+   "old_s": 19.11,
+   "new_s": 18.42,
+   "words": 55
+  },
+  {
+   "part": "apol-p1",
+   "entry": 27,
+   "old_s": 37.54,
+   "new_s": 36.38,
+   "words": 103
+  },
+  {
+   "part": "apol-p1",
+   "entry": 26,
+   "old_s": 34.5,
+   "new_s": 34.83,
+   "words": 109
+  },
+  {
+   "part": "apol-p1",
+   "entry": 5,
+   "old_s": 73.33,
+   "new_s": 73.99,
+   "words": 217
+  },
+  {
+   "part": "apol-p3",
+   "entry": 124,
+   "old_s": 15.31,
+   "new_s": 16.02,
+   "words": 44
+  },
+  {
+   "part": "apol-p3",
+   "entry": 123,
+   "old_s": 22.15,
+   "new_s": 23.13,
+   "words": 69
+  }
+ ]
+}
