@@ -1,0 +1,19 @@
+{
+ "work": "on-youth-and-old-age-on-life-and-death-on-breathing",
+ "patched": [
+  {
+   "part": "on-youth-and-old-age-on-life-and-death-on-breathing-p2",
+   "entry": 86,
+   "old_s": 35.17,
+   "new_s": 34.57,
+   "words": 112
+  },
+  {
+   "part": "on-youth-and-old-age-on-life-and-death-on-breathing-p2",
+   "entry": 68,
+   "old_s": 27.16,
+   "new_s": 26.81,
+   "words": 83
+  }
+ ]
+}
