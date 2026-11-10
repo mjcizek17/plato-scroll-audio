@@ -1,0 +1,12 @@
+{
+ "work": "hesiod-works-days",
+ "patched": [
+  {
+   "part": "hesiod-works-days-p1",
+   "entry": 27,
+   "old_s": 75.39,
+   "new_s": 75.47,
+   "words": 214
+  }
+ ]
+}
