@@ -1,0 +1,12 @@
+{
+ "work": "rivals",
+ "patched": [
+  {
+   "part": "rivals-p1",
+   "entry": 51,
+   "old_s": 6.16,
+   "new_s": 5.81,
+   "words": 19
+  }
+ ]
+}
