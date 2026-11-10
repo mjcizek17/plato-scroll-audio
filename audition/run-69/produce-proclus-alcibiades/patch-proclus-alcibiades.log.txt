@@ -1,0 +1,1 @@
+{"work": "proclus-alcibiades", "patched": [{"part": "proclus-alcibiades-p1", "entry": 74, "old_s": 63.7, "new_s": 62.39, "words": 154}, {"part": "proclus-alcibiades-p1", "entry": 53, "old_s": 117.47, "new_s": 116.89, "words": 310}, {"part": "proclus-alcibiades-p1", "entry": 50, "old_s": 148.45, "new_s": 147.65, "words": 390}]}
