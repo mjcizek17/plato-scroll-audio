@@ -1,0 +1,1 @@
+{"work": "proclus-euclid", "patched": [{"part": "proclus-euclid-p1", "entry": 3, "old_s": 67.72, "new_s": 67.81, "words": 153}, {"part": "proclus-euclid-p2", "entry": 44, "old_s": 57.73, "new_s": 57.51, "words": 158}, {"part": "proclus-euclid-p6", "entry": 169, "old_s": 72.57, "new_s": 72.33, "words": 184}]}
