@@ -1,0 +1,26 @@
+{
+ "work": "prior-analytics",
+ "patched": [
+  {
+   "part": "prior-analytics-p1",
+   "entry": 71,
+   "old_s": 45.41,
+   "new_s": 45.05,
+   "words": 141
+  },
+  {
+   "part": "prior-analytics-p1",
+   "entry": 7,
+   "old_s": 51.03,
+   "new_s": 50.54,
+   "words": 148
+  },
+  {
+   "part": "prior-analytics-p2",
+   "entry": 183,
+   "old_s": 66.01,
+   "new_s": 63.78,
+   "words": 201
+  }
+ ]
+}
