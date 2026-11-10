@@ -1,0 +1,82 @@
+{
+ "work": "iamb-nicomachus",
+ "patched": [
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 203,
+   "old_s": 66.65,
+   "new_s": 67.49,
+   "words": 213
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 169,
+   "old_s": 44.63,
+   "new_s": 42.47,
+   "words": 128
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 138,
+   "old_s": 62.81,
+   "new_s": 64.28,
+   "words": 209
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 102,
+   "old_s": 72.09,
+   "new_s": 72.06,
+   "words": 225
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 99,
+   "old_s": 46.74,
+   "new_s": 45.91,
+   "words": 151
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 48,
+   "old_s": 79.91,
+   "new_s": 79.59,
+   "words": 253
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 41,
+   "old_s": 88.43,
+   "new_s": 89.02,
+   "words": 283
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 38,
+   "old_s": 40.0,
+   "new_s": 40.13,
+   "words": 129
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 28,
+   "old_s": 92.6,
+   "new_s": 87.53,
+   "words": 289
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 20,
+   "old_s": 38.31,
+   "new_s": 36.86,
+   "words": 118
+  },
+  {
+   "part": "iamb-nicomachus-p1",
+   "entry": 18,
+   "old_s": 70.95,
+   "new_s": 71.26,
+   "words": 226
+  }
+ ]
+}
