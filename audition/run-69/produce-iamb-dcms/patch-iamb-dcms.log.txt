@@ -1,0 +1,1 @@
+{"work": "iamb-dcms", "patched": [{"part": "iamb-dcms-p1", "entry": 159, "old_s": 7.94, "new_s": 8.06, "words": 25}, {"part": "iamb-dcms-p1", "entry": 60, "old_s": 64.38, "new_s": 65.52, "words": 207}, {"part": "iamb-dcms-p1", "entry": 1, "old_s": 14.7, "new_s": 14.97, "words": 37}]}
