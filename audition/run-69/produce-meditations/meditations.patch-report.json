@@ -1,0 +1,12 @@
+{
+ "work": "meditations",
+ "patched": [
+  {
+   "part": "meditations-p11",
+   "entry": 440,
+   "old_s": 222.72,
+   "new_s": 221.2,
+   "words": 810
+  }
+ ]
+}
