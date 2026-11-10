@@ -1,0 +1,1 @@
+{"work": "cic-finibus", "patched": [{"part": "cic-finibus-p3", "entry": 180, "old_s": 174.05, "new_s": 175.01, "words": 524}, {"part": "cic-finibus-p4", "entry": 257, "old_s": 79.74, "new_s": 76.67, "words": 225}, {"part": "cic-finibus-p6", "entry": 363, "old_s": 59.02, "new_s": 57.98, "words": 188}]}
