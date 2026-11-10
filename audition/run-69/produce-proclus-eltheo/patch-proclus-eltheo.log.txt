@@ -1,0 +1,1 @@
+{"work": "proclus-eltheo", "patched": [{"part": "proclus-eltheo-p6", "entry": 410, "old_s": 77.76, "new_s": 76.9, "words": 213}]}
