@@ -1,0 +1,19 @@
+{
+ "work": "iamb-protrepticus",
+ "patched": [
+  {
+   "part": "iamb-protrepticus-p1",
+   "entry": 177,
+   "old_s": 164.6,
+   "new_s": 168.64,
+   "words": 530
+  },
+  {
+   "part": "iamb-protrepticus-p1",
+   "entry": 150,
+   "old_s": 75.31,
+   "new_s": 75.82,
+   "words": 234
+  }
+ ]
+}
