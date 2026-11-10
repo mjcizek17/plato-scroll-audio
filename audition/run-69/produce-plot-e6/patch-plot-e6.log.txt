@@ -1,0 +1,1 @@
+{"work": "plot-e6", "patched": [{"part": "plot-e6-p3", "entry": 530, "old_s": 16.56, "new_s": 16.64, "words": 48}, {"part": "plot-e6-p7", "entry": 1117, "old_s": 22.28, "new_s": 22.65, "words": 77}]}
