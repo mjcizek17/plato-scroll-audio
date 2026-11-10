@@ -1,0 +1,1 @@
+{"work": "apuleius-on-plato", "patched": [{"part": "apuleius-on-plato-p1", "entry": 12, "old_s": 108.29, "new_s": 109.0, "words": 283}]}
