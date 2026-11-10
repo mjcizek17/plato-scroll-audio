@@ -1,0 +1,12 @@
+{
+ "work": "virgil-aeneid",
+ "patched": [
+  {
+   "part": "virgil-aeneid-p3",
+   "entry": 76,
+   "old_s": 72.31,
+   "new_s": 72.71,
+   "words": 225
+  }
+ ]
+}
