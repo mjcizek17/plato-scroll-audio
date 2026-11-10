@@ -1,0 +1,12 @@
+{
+ "work": "apuleius-apologia",
+ "patched": [
+  {
+   "part": "apuleius-apologia-p1",
+   "entry": 156,
+   "old_s": 115.83,
+   "new_s": 116.92,
+   "words": 308
+  }
+ ]
+}
