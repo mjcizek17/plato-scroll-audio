@@ -1,0 +1,12 @@
+{
+ "work": "oeconomicus",
+ "patched": [
+  {
+   "part": "oeconomicus-p1",
+   "entry": 216,
+   "old_s": 15.06,
+   "new_s": 14.79,
+   "words": 39
+  }
+ ]
+}
