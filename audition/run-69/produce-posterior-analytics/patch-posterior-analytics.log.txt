@@ -1,0 +1,1 @@
+{"work": "posterior-analytics", "patched": [{"part": "posterior-analytics-p1", "entry": 120, "old_s": 31.44, "new_s": 31.32, "words": 90}, {"part": "posterior-analytics-p2", "entry": 200, "old_s": 48.9, "new_s": 48.63, "words": 140}]}
