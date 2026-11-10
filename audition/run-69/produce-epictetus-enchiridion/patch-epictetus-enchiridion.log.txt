@@ -1,0 +1,1 @@
+{"work": "epictetus-enchiridion", "patched": [{"part": "epictetus-enchiridion-p1", "entry": 34, "old_s": 34.88, "new_s": 34.52, "words": 105}]}
