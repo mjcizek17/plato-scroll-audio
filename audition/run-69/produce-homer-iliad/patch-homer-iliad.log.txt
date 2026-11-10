@@ -1,0 +1,1 @@
+{"work": "homer-iliad", "patched": [{"part": "homer-iliad-p5", "entry": 243, "old_s": 38.99, "new_s": 39.61, "words": 134}, {"part": "homer-iliad-p21", "entry": 1002, "old_s": 23.21, "new_s": 23.7, "words": 79}, {"part": "homer-iliad-p24", "entry": 1132, "old_s": 51.99, "new_s": 50.06, "words": 184}]}
