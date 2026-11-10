@@ -1,0 +1,26 @@
+{
+ "work": "porph-abstinence",
+ "patched": [
+  {
+   "part": "porph-abstinence-p1",
+   "entry": 37,
+   "old_s": 169.21,
+   "new_s": 169.16,
+   "words": 481
+  },
+  {
+   "part": "porph-abstinence-p2",
+   "entry": 88,
+   "old_s": 124.17,
+   "new_s": 124.96,
+   "words": 360
+  },
+  {
+   "part": "porph-abstinence-p4",
+   "entry": 255,
+   "old_s": 68.13,
+   "new_s": 68.48,
+   "words": 189
+  }
+ ]
+}
