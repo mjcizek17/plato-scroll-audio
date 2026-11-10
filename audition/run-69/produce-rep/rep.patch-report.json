@@ -1,0 +1,117 @@
+{
+ "work": "rep",
+ "patched": [
+  {
+   "part": "rep-p3",
+   "entry": 347,
+   "old_s": 29.5,
+   "new_s": 29.88,
+   "words": 82
+  },
+  {
+   "part": "rep-p3",
+   "entry": 346,
+   "old_s": 36.43,
+   "new_s": 36.99,
+   "words": 105
+  },
+  {
+   "part": "rep-p5",
+   "entry": 593,
+   "old_s": 30.9,
+   "new_s": 32.07,
+   "words": 95
+  },
+  {
+   "part": "rep-p5",
+   "entry": 592,
+   "old_s": 27.09,
+   "new_s": 27.31,
+   "words": 83
+  },
+  {
+   "part": "rep-p6",
+   "entry": 815,
+   "old_s": 37.55,
+   "new_s": 36.57,
+   "words": 110
+  },
+  {
+   "part": "rep-p6",
+   "entry": 814,
+   "old_s": 16.79,
+   "new_s": 15.4,
+   "words": 53
+  },
+  {
+   "part": "rep-p6",
+   "entry": 762,
+   "old_s": 57.48,
+   "new_s": 57.65,
+   "words": 160
+  },
+  {
+   "part": "rep-p6",
+   "entry": 761,
+   "old_s": 12.41,
+   "new_s": 12.85,
+   "words": 36
+  },
+  {
+   "part": "rep-p10",
+   "entry": 1347,
+   "old_s": 35.41,
+   "new_s": 34.55,
+   "words": 97
+  },
+  {
+   "part": "rep-p10",
+   "entry": 1346,
+   "old_s": 31.72,
+   "new_s": 31.46,
+   "words": 89
+  },
+  {
+   "part": "rep-p10",
+   "entry": 1283,
+   "old_s": 35.69,
+   "new_s": 35.85,
+   "words": 97
+  },
+  {
+   "part": "rep-p10",
+   "entry": 1282,
+   "old_s": 50.64,
+   "new_s": 50.23,
+   "words": 151
+  },
+  {
+   "part": "rep-p10",
+   "entry": 1262,
+   "old_s": 20.11,
+   "new_s": 19.96,
+   "words": 56
+  },
+  {
+   "part": "rep-p10",
+   "entry": 1261,
+   "old_s": 35.4,
+   "new_s": 34.17,
+   "words": 93
+  },
+  {
+   "part": "rep-p10",
+   "entry": 1260,
+   "old_s": 38.52,
+   "new_s": 38.42,
+   "words": 107
+  },
+  {
+   "part": "rep-p10",
+   "entry": 1250,
+   "old_s": 56.2,
+   "new_s": 56.21,
+   "words": 163
+  }
+ ]
+}
