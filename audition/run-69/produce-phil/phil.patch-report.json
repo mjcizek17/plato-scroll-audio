@@ -1,0 +1,12 @@
+{
+ "work": "phil",
+ "patched": [
+  {
+   "part": "phil-p1",
+   "entry": 612,
+   "old_s": 12.69,
+   "new_s": 12.33,
+   "words": 35
+  }
+ ]
+}
