@@ -1,0 +1,12 @@
+{
+ "work": "plot-e4",
+ "patched": [
+  {
+   "part": "plot-e4-p3",
+   "entry": 227,
+   "old_s": 21.97,
+   "new_s": 21.87,
+   "words": 70
+  }
+ ]
+}
