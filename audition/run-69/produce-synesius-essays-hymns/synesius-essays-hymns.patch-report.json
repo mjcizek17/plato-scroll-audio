@@ -1,0 +1,12 @@
+{
+ "work": "synesius-essays-hymns",
+ "patched": [
+  {
+   "part": "synesius-essays-hymns-p3",
+   "entry": 212,
+   "old_s": 146.01,
+   "new_s": 145.22,
+   "words": 396
+  }
+ ]
+}
