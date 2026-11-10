@@ -1,0 +1,1 @@
+{"work": "on-the-heavens", "patched": [{"part": "on-the-heavens-p1", "entry": 67, "old_s": 77.52, "new_s": 79.36, "words": 212}, {"part": "on-the-heavens-p3", "entry": 161, "old_s": 140.26, "new_s": 136.15, "words": 459}, {"part": "on-the-heavens-p4", "entry": 184, "old_s": 50.66, "new_s": 48.64, "words": 172}]}
