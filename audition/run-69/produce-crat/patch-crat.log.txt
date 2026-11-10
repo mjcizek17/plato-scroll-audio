@@ -1,0 +1,1 @@
+{"work": "crat", "patched": [{"part": "crat-p1", "entry": 616, "old_s": 33.29, "new_s": 33.74, "words": 91}]}
