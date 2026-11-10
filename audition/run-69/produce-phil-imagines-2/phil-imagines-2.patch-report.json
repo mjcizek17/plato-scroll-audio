@@ -1,0 +1,12 @@
+{
+ "work": "phil-imagines-2",
+ "patched": [
+  {
+   "part": "phil-imagines-2-p1",
+   "entry": 8,
+   "old_s": 55.23,
+   "new_s": 55.42,
+   "words": 156
+  }
+ ]
+}
