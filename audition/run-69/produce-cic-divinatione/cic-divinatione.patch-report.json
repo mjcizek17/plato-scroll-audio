@@ -1,0 +1,19 @@
+{
+ "work": "cic-divinatione",
+ "patched": [
+  {
+   "part": "cic-divinatione-p2",
+   "entry": 166,
+   "old_s": 53.65,
+   "new_s": 50.98,
+   "words": 163
+  },
+  {
+   "part": "cic-divinatione-p3",
+   "entry": 490,
+   "old_s": 79.64,
+   "new_s": 78.66,
+   "words": 227
+  }
+ ]
+}
