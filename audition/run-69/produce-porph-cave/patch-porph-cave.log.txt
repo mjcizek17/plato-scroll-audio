@@ -1,0 +1,1 @@
+{"work": "porph-cave", "patched": [{"part": "porph-cave-p1", "entry": 30, "old_s": 70.62, "new_s": 70.69, "words": 203}, {"part": "porph-cave-p1", "entry": 20, "old_s": 171.32, "new_s": 171.09, "words": 459}, {"part": "porph-cave-p1", "entry": 12, "old_s": 117.11, "new_s": 116.72, "words": 313}]}
