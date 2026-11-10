@@ -1,0 +1,40 @@
+{
+ "work": "herodotus-3",
+ "parts": [
+  {
+   "file": "herodotus-3-p1.mp3",
+   "minutes": 220.37,
+   "lines": 251,
+   "words": 41571,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "herodotus-3-p2.mp3",
+   "minutes": 128.66,
+   "lines": 151,
+   "words": 24510,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "herodotus-3-p3.mp3",
+   "minutes": 120.49,
+   "lines": 125,
+   "words": 22982,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 3,
+     "ratio": 1.12,
+     "text": "thirteen.",
+     "note": "poor match to text (0.38)",
+     "line": "p3l0012"
+    }
+   ]
+  }
+ ]
+}
