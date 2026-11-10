@@ -1,0 +1,40 @@
+{
+ "work": "politics",
+ "patched": [
+  {
+   "part": "politics-p3",
+   "entry": 158,
+   "old_s": 253.39,
+   "new_s": 249.45,
+   "words": 876
+  },
+  {
+   "part": "politics-p4",
+   "entry": 222,
+   "old_s": 98.22,
+   "new_s": 97.43,
+   "words": 336
+  },
+  {
+   "part": "politics-p5",
+   "entry": 297,
+   "old_s": 64.16,
+   "new_s": 64.69,
+   "words": 207
+  },
+  {
+   "part": "politics-p6",
+   "entry": 341,
+   "old_s": 70.68,
+   "new_s": 67.05,
+   "words": 211
+  },
+  {
+   "part": "politics-p6",
+   "entry": 336,
+   "old_s": 104.48,
+   "new_s": 103.95,
+   "words": 348
+  }
+ ]
+}
