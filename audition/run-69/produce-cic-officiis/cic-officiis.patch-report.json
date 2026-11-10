@@ -1,0 +1,12 @@
+{
+ "work": "cic-officiis",
+ "patched": [
+  {
+   "part": "cic-officiis-p2",
+   "entry": 155,
+   "old_s": 84.45,
+   "new_s": 83.68,
+   "words": 238
+  }
+ ]
+}
