@@ -1,0 +1,1 @@
+{"work": "porph-lifeplotinus", "patched": [{"part": "porph-lifeplotinus-p1", "entry": 65, "old_s": 25.66, "new_s": 25.91, "words": 71}]}
