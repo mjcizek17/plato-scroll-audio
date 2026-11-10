@@ -1,0 +1,1 @@
+{"work": "hippmaj-b", "patched": [{"part": "hippmaj-b-p1", "entry": 266, "old_s": 22.24, "new_s": 21.35, "words": 70}, {"part": "hippmaj-b-p1", "entry": 71, "old_s": 16.39, "new_s": 16.42, "words": 52}]}
