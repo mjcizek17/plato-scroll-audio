@@ -1,0 +1,19 @@
+{
+ "work": "on-sophistical-refutations",
+ "patched": [
+  {
+   "part": "on-sophistical-refutations-p3",
+   "entry": 122,
+   "old_s": 35.87,
+   "new_s": 34.6,
+   "words": 120
+  },
+  {
+   "part": "on-sophistical-refutations-p3",
+   "entry": 105,
+   "old_s": 53.91,
+   "new_s": 48.36,
+   "words": 169
+  }
+ ]
+}
