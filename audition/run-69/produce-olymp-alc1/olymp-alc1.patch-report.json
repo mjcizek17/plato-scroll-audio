@@ -1,0 +1,89 @@
+{
+ "work": "olymp-alc1",
+ "patched": [
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 76,
+   "old_s": 5.3,
+   "new_s": 4.28,
+   "words": 13
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 20,
+   "old_s": 34.44,
+   "new_s": 33.37,
+   "words": 95
+  },
+  {
+   "part": "olymp-alc1-p1",
+   "entry": 11,
+   "old_s": 3.95,
+   "new_s": 3.27,
+   "words": 8
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 199,
+   "old_s": 120.69,
+   "new_s": 115.57,
+   "words": 325
+  },
+  {
+   "part": "olymp-alc1-p2",
+   "entry": 188,
+   "old_s": 77.14,
+   "new_s": 73.0,
+   "words": 213
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 305,
+   "old_s": 39.42,
+   "new_s": 39.99,
+   "words": 104
+  },
+  {
+   "part": "olymp-alc1-p4",
+   "entry": 297,
+   "old_s": 261.39,
+   "new_s": 257.42,
+   "words": 719
+  },
+  {
+   "part": "olymp-alc1-p9",
+   "entry": 629,
+   "old_s": 66.67,
+   "new_s": 66.59,
+   "words": 166
+  },
+  {
+   "part": "olymp-alc1-p9",
+   "entry": 583,
+   "old_s": 10.12,
+   "new_s": 10.12,
+   "words": 25
+  },
+  {
+   "part": "olymp-alc1-p11",
+   "entry": 764,
+   "old_s": 7.16,
+   "new_s": 7.16,
+   "words": 14
+  },
+  {
+   "part": "olymp-alc1-p11",
+   "entry": 762,
+   "old_s": 5.41,
+   "new_s": 5.65,
+   "words": 13
+  },
+  {
+   "part": "olymp-alc1-p12",
+   "entry": 844,
+   "old_s": 10.19,
+   "new_s": 10.19,
+   "words": 23
+  }
+ ]
+}
