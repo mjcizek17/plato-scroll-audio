@@ -1,0 +1,1 @@
+{"work": "physics", "patched": [{"part": "physics-p1", "entry": 47, "old_s": 35.74, "new_s": 34.71, "words": 127}, {"part": "physics-p2", "entry": 164, "old_s": 101.29, "new_s": 97.28, "words": 355}, {"part": "physics-p6", "entry": 542, "old_s": 46.96, "new_s": 47.85, "words": 169}, {"part": "physics-p8", "entry": 632, "old_s": 66.9, "new_s": 64.68, "words": 226}]}
