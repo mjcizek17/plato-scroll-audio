@@ -300,6 +300,10 @@ def say(word, prev="", nxt=""):
     if m:
         w = cardinal(int(m.group(1))); w[-1] += m.group(2)
         return w
+    # a range printed with an em dash: "A.D. 23—28", "16—19" (a rising pair of figures; arithmetic keeps "equals")
+    m = re.fullmatch(r"(\d{1,4})—(\d{1,4})", core)
+    if m and int(m.group(2)) > int(m.group(1)):
+        return cardinal(int(m.group(1))) + ["to"] + cardinal(int(m.group(2)))
     # arithmetic written with signs: 3×7=21, +1=17, 2)8128 (two into eight thousand…)
     if re.fullmatch(r"[+\-−×=)(]*\d[\d+\-−×=)(,—]*", core) and re.search(r"[+−×=)—]", core):
         out = []

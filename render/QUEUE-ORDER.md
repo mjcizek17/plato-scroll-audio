@@ -92,3 +92,10 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
 - Queue O: Herodotus, Histories I–IX in three volumes (Macaulay; Homer Reader). ~1.55 million characters.
 - Three of Macaulay's section numbers left in the text are not read ("18.Beyond", "88,--first" via the OCR map; "76...." in
   text/notes.py). Tests 31/31, gate 0 problems.
+
+## 2026-11-10 — library-audit re-records published; queue P (release library-v1)
+- Patch runs 42812989961 and 42881769669 (Seneca's essays) published the 654 corrected paragraphs in 101 works.
+- Queue P: Tacitus complete — Agricola, Germania, Dialogue on Oratory, Histories I–V (2 vols), Annals I–VI, XI–XVI (3 vols)
+  (Church and Brodribb; Cicero Reader). 8 works, ~1.69 million characters.
+- New rule: a rising pair of figures joined by an em dash is a range ("A.D. 23—28" → twenty-three to twenty-eight); before
+  it was read as "equals". Tests 32/32, corpus 115,548 lines mapped, gate 0 problems.

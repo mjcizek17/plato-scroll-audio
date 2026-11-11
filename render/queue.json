@@ -1,38 +1,16 @@
 {
- "_note": "Seneca's essays: finish the library-audit patch — run 42812989961 lost one render shard when the GitHub runner shut down, so this work's corrected paragraphs were not spliced in. Re-record them now.",
- "patch": {
-  "seneca-essays": [
-   60,
-   90,
-   152,
-   177,
-   258,
-   263,
-   270,
-   274,
-   282,
-   319,
-   324,
-   328,
-   396,
-   442,
-   459,
-   524,
-   539,
-   917,
-   919,
-   923,
-   940,
-   946,
-   1026,
-   1030,
-   1062,
-   1086
-  ]
- },
- "tags": {
-  "seneca-essays": "stoics-v1"
- },
+ "_note": "Queue P (2026-11-10): Tacitus complete — Agricola, Germania, Dialogue on Oratory, Histories I–V, Annals (Church and Brodribb; Cicero Reader).",
+ "works": [
+  "tacitus-agricola",
+  "tacitus-germania",
+  "tacitus-dialogue",
+  "tacitus-histories-1",
+  "tacitus-histories-2",
+  "tacitus-annals-1",
+  "tacitus-annals-2",
+  "tacitus-annals-3"
+ ],
  "dest": "release",
- "budget": 800
+ "tag": "library-v1",
+ "budget": 12000
 }
