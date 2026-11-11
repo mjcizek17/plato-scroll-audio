@@ -1,0 +1,23 @@
+{
+ "work": "tacitus-histories-1",
+ "parts": [
+  {
+   "file": "tacitus-histories-1-p1.mp3",
+   "minutes": 127.14,
+   "lines": 92,
+   "words": 22101,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "tacitus-histories-1-p2.mp3",
+   "minutes": 136.29,
+   "lines": 103,
+   "words": 23594,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
