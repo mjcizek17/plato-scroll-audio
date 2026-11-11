@@ -1,0 +1,40 @@
+{
+ "work": "tacitus-histories-2",
+ "parts": [
+  {
+   "file": "tacitus-histories-2-p1.mp3",
+   "minutes": 123.07,
+   "lines": 88,
+   "words": 21403,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "tacitus-histories-2-p2.mp3",
+   "minutes": 142.1,
+   "lines": 90,
+   "words": 24850,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": []
+  },
+  {
+   "file": "tacitus-histories-2-p3.mp3",
+   "minutes": 37.32,
+   "lines": 30,
+   "words": 6495,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.28,
+     "text": "A D. seventy",
+     "note": "re-taken: match 0.18 -> 0.20",
+     "line": "p3l0001"
+    }
+   ]
+  }
+ ]
+}
