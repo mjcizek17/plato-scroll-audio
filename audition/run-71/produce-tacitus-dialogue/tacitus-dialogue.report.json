@@ -1,0 +1,14 @@
+{
+ "work": "tacitus-dialogue",
+ "parts": [
+  {
+   "file": "tacitus-dialogue-p1.mp3",
+   "minutes": 79.88,
+   "lines": 58,
+   "words": 14180,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
