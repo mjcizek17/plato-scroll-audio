@@ -1,16 +1,18 @@
 {
- "_note": "Queue P (2026-11-10): Tacitus complete — Agricola, Germania, Dialogue on Oratory, Histories I–V, Annals (Church and Brodribb; Cicero Reader).",
+ "_note": "Tacitus Annals III repair: 9 shards of run 42962342698 (lines 122–304) failed when the runners could not reach the Ubuntu package mirror. Re-render only those lines, reusing that run's other lines.",
  "works": [
-  "tacitus-agricola",
-  "tacitus-germania",
-  "tacitus-dialogue",
-  "tacitus-histories-1",
-  "tacitus-histories-2",
-  "tacitus-annals-1",
-  "tacitus-annals-2",
   "tacitus-annals-3"
  ],
+ "ranges": {
+  "tacitus-annals-3": [
+   [
+    122,
+    304
+   ]
+  ]
+ },
+ "reuse_run": "42962342698",
  "dest": "release",
  "tag": "library-v1",
- "budget": 12000
+ "budget": 3000
 }
