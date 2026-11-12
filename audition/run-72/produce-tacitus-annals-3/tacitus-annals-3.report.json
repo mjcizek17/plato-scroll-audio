@@ -1,0 +1,73 @@
+{
+ "work": "tacitus-annals-3",
+ "parts": [
+  {
+   "file": "tacitus-annals-3-p1.mp3",
+   "minutes": 77.42,
+   "lines": 74,
+   "words": 13451,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.15,
+     "text": "A D. fifty-four to fifty-eight",
+     "note": "poor match to text (0.18)",
+     "line": "p1l0001"
+    }
+   ]
+  },
+  {
+   "file": "tacitus-annals-3-p2.mp3",
+   "minutes": 81.91,
+   "lines": 88,
+   "words": 14315,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.06,
+     "text": "A D. fifty-nine to sixty-two",
+     "note": "poor match to text (0.24)",
+     "line": "p2l0001"
+    }
+   ]
+  },
+  {
+   "file": "tacitus-annals-3-p3.mp3",
+   "minutes": 93.05,
+   "lines": 100,
+   "words": 16203,
+   "words_interpolated": 0,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.27,
+     "text": "A D. sixty-two to sixty-five",
+     "note": "re-taken: match 0.19 -> 0.19",
+     "line": "p3l0001"
+    }
+   ]
+  },
+  {
+   "file": "tacitus-annals-3-p4.mp3",
+   "minutes": 39.89,
+   "lines": 42,
+   "words": 6939,
+   "words_interpolated": 3,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.29,
+     "text": "Tacitus, The Annals (Books Thirteen\u2013XVI). Book sixteen",
+     "note": "re-taken: match 0.45 -> 0.50",
+     "line": "p4l0000"
+    }
+   ]
+  }
+ ]
+}
