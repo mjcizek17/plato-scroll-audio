@@ -4,7 +4,7 @@ group checked for runaway or truncated takes by its duration and re-taken with a
 Word timing comes from forced alignment of each sentence group against its text (torchaudio MMS_FA),
 kept per group so a nine-minute speech never needs more than ~20 s of audio in memory.
 Writes OUTDIR/<id>.wav (24 kHz) and OUTDIR/<id>.json {"words": [...], "retakes": n, ...}."""
-import json, os, re, signal, sys, zlib
+import time, json, os, re, signal, sys, zlib
 import numpy as np
 import torch, torchaudio
 from script import work_parts, load_cast, fill, char_spec, speech_text, printed_starts, _notes
@@ -66,7 +66,18 @@ def trim(a, sr, db=-45, pad=0.03):
 class Aligner:
     def __init__(self):
         b = torchaudio.pipelines.MMS_FA
-        self.model, self.tok, self.align, self.sr = b.get_model(), b.get_tokenizer(), b.get_aligner(), b.sample_rate
+        # the model is fetched from dl.fbaipublicfiles.com on first use; a bad edge of that CDN (an expired certificate on
+        # 2026-11-12 failed every shard of a run) is retried rather than ending the job; the workflow also caches the file
+        for attempt in range(6):
+            try:
+                self.model = b.get_model()
+                break
+            except Exception as e:
+                if attempt == 5:
+                    raise
+                print(f"alignment model download failed ({e}); retrying in {60 * (attempt + 1)} s", flush=True)
+                time.sleep(60 * (attempt + 1))
+        self.tok, self.align, self.sr = b.get_tokenizer(), b.get_aligner(), b.sample_rate
 
     def __call__(self, audio, sr, text):
         """Word start times (s) for one sentence group (<= 300 chars, ~20 s), so memory stays small."""

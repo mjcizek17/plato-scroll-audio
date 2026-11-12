@@ -108,3 +108,4 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards â
   Reader), 63 parts named by book and chapter, ~1.64 million characters. Endnotes not read (text/build_proclus_taylor.py).
   The Commentary on the Timaeus (81 parts, ~2.42 million characters) is prepared for queue R.
 - OCR map: "i3" â†’ is. Tests 33/33, corpus mapped, gate 0 problems.
+- Run 43217695169 failed in every shard: the MMS_FA alignment model download hit an expired certificate on dl.fbaipublicfiles.com. Nothing was rendered, so queue Q is queued again whole, with the download retried (6 tries, growing waits) and cached (actions/cache, ~/.cache/torch/hub/checkpoints).

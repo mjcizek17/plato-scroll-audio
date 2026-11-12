@@ -1,5 +1,5 @@
 {
- "_note": "Queue Q (2026-11-12): Proclus, The Theology of Plato in six books with Taylor's seventh, and his introduction (Thomas Taylor; Platonist Reader). Endnotes not read.",
+ "_note": "Queue Q, second attempt (2026-11-12): Proclus, The Theology of Plato (Taylor; Platonist Reader). Run 43217695169 rendered nothing — every shard failed to download the alignment model (an expired certificate on dl.fbaipublicfiles.com); the download is now retried and cached.",
  "works": [
   "proclus-theology"
  ],
