@@ -101,3 +101,10 @@ Please don't re-run ("Re-run all jobs") a produce run that has finished shards �
   it was read as "equals". Tests 32/32, corpus 115,548 lines mapped, gate 0 problems.
 
 - Queue P (run 42962342698): 7 of 8 works published; Annals III lost 9 shards (lines 122–304) to an Ubuntu mirror DNS failure. Repair queued with ranges + reuse_run, budget 3000.
+
+## 2026-11-12 — queue P published; queue Q (release library-v1)
+- Queue P complete after the Annals III repair (run 43109726432): all 8 Tacitus works published.
+- Queue Q: Proclus, The Theology of Plato — Taylor's introduction, Books I–VI and his seventh book (Thomas Taylor; Platonist
+  Reader), 63 parts named by book and chapter, ~1.64 million characters. Endnotes not read (text/build_proclus_taylor.py).
+  The Commentary on the Timaeus (81 parts, ~2.42 million characters) is prepared for queue R.
+- OCR map: "i3" → is. Tests 33/33, corpus mapped, gate 0 problems.

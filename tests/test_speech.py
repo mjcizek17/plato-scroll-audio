@@ -14,6 +14,7 @@ from script import printed_starts  # noqa: E402
 CASES = [
     ("18.Beyond them dwell the Neuroi;", "Beyond them dwell the Neuroi;"),
     ("A.D. 23—28", "A D. twenty-three to twenty-eight"),
+    ("the discovery of that which i3 absent;", "the discovery of that which is absent;"),
     ("through good works.” (1Tim.2:9) And", "through good works.” And"),
     ("as the Lord taught (Matt. 6:9–13), saying", "as the Lord taught, saying"),
     ("they jump down, and pa3s the rod", "they jump down, and pass the rod"),
