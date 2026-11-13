@@ -1,7 +1,7 @@
 {
- "_note": "Queue Q, second attempt (2026-11-12): Proclus, The Theology of Plato (Taylor; Platonist Reader). Run 43217695169 rendered nothing — every shard failed to download the alignment model (an expired certificate on dl.fbaipublicfiles.com); the download is now retried and cached.",
+ "_note": "Queue R (2026-11-13): Proclus, Commentary on the Timaeus (Taylor; Platonist Reader), 81 parts. Endnotes and additional notes are not read.",
  "works": [
-  "proclus-theology"
+  "proclus-timaeus"
  ],
  "dest": "release",
  "tag": "library-v1",
