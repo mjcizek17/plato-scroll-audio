@@ -1,0 +1,1068 @@
+{
+ "work": "proclus-timaeus",
+ "parts": [
+  {
+   "file": "proclus-timaeus-p1.mp3",
+   "minutes": 12.64,
+   "lines": 10,
+   "words": 1976,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p2.mp3",
+   "minutes": 33.56,
+   "lines": 22,
+   "words": 5165,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p3.mp3",
+   "minutes": 33.56,
+   "lines": 31,
+   "words": 5164,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p4.mp3",
+   "minutes": 33.16,
+   "lines": 29,
+   "words": 5150,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p5.mp3",
+   "minutes": 34.39,
+   "lines": 31,
+   "words": 5375,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p6.mp3",
+   "minutes": 32.7,
+   "lines": 28,
+   "words": 5181,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p7.mp3",
+   "minutes": 33.46,
+   "lines": 38,
+   "words": 5172,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p8.mp3",
+   "minutes": 32.81,
+   "lines": 31,
+   "words": 5069,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p9.mp3",
+   "minutes": 32.51,
+   "lines": 31,
+   "words": 5070,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p10.mp3",
+   "minutes": 32.77,
+   "lines": 35,
+   "words": 5059,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p11.mp3",
+   "minutes": 34.66,
+   "lines": 31,
+   "words": 5266,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p12.mp3",
+   "minutes": 32.64,
+   "lines": 29,
+   "words": 5046,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p13.mp3",
+   "minutes": 33.4,
+   "lines": 40,
+   "words": 5119,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p14.mp3",
+   "minutes": 33.46,
+   "lines": 29,
+   "words": 5220,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p15.mp3",
+   "minutes": 34.05,
+   "lines": 28,
+   "words": 5278,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p16.mp3",
+   "minutes": 32.52,
+   "lines": 29,
+   "words": 5221,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p17.mp3",
+   "minutes": 34.13,
+   "lines": 26,
+   "words": 5258,
+   "words_interpolated": 6,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p18.mp3",
+   "minutes": 34.92,
+   "lines": 25,
+   "words": 5289,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p19.mp3",
+   "minutes": 33.76,
+   "lines": 23,
+   "words": 5204,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p20.mp3",
+   "minutes": 33.54,
+   "lines": 27,
+   "words": 5233,
+   "words_interpolated": 4,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 0.71,
+     "text": "And,",
+     "note": "poor match to text (0.09)",
+     "line": "p20l0021"
+    }
+   ]
+  },
+  {
+   "file": "proclus-timaeus-p21.mp3",
+   "minutes": 33.83,
+   "lines": 28,
+   "words": 5231,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p22.mp3",
+   "minutes": 34.04,
+   "lines": 22,
+   "words": 5311,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p23.mp3",
+   "minutes": 35.51,
+   "lines": 35,
+   "words": 5470,
+   "words_interpolated": 6,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p24.mp3",
+   "minutes": 33.4,
+   "lines": 29,
+   "words": 5256,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p25.mp3",
+   "minutes": 33.03,
+   "lines": 30,
+   "words": 5182,
+   "words_interpolated": 8,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p26.mp3",
+   "minutes": 33.71,
+   "lines": 31,
+   "words": 5184,
+   "words_interpolated": 8,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p27.mp3",
+   "minutes": 34.43,
+   "lines": 28,
+   "words": 5379,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p28.mp3",
+   "minutes": 33.74,
+   "lines": 28,
+   "words": 5202,
+   "words_interpolated": 11,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p29.mp3",
+   "minutes": 32.97,
+   "lines": 31,
+   "words": 5141,
+   "words_interpolated": 10,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p30.mp3",
+   "minutes": 34.04,
+   "lines": 34,
+   "words": 5211,
+   "words_interpolated": 11,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p31.mp3",
+   "minutes": 34.88,
+   "lines": 30,
+   "words": 5425,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p32.mp3",
+   "minutes": 34.14,
+   "lines": 30,
+   "words": 5213,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p33.mp3",
+   "minutes": 19.74,
+   "lines": 24,
+   "words": 3036,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p34.mp3",
+   "minutes": 33.02,
+   "lines": 30,
+   "words": 5241,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p35.mp3",
+   "minutes": 33.47,
+   "lines": 27,
+   "words": 5269,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p36.mp3",
+   "minutes": 34.3,
+   "lines": 25,
+   "words": 5420,
+   "words_interpolated": 2,
+   "retakes": 1,
+   "flagged_takes": [
+    {
+     "group": 2,
+     "ratio": 1.0,
+     "text": "eight, the cube from sixteen, is conjoined to eight, through the octuple ratio w",
+     "note": "poor match to text (0.44)",
+     "line": "p36l0009"
+    }
+   ]
+  },
+  {
+   "file": "proclus-timaeus-p37.mp3",
+   "minutes": 35.57,
+   "lines": 30,
+   "words": 5522,
+   "words_interpolated": 8,
+   "retakes": 2,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 1.15,
+     "text": "And,",
+     "note": "re-taken: match 0.21 -> 0.45",
+     "line": "p37l0003"
+    }
+   ]
+  },
+  {
+   "file": "proclus-timaeus-p38.mp3",
+   "minutes": 33.4,
+   "lines": 29,
+   "words": 5201,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p39.mp3",
+   "minutes": 35.52,
+   "lines": 31,
+   "words": 5541,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p40.mp3",
+   "minutes": 34.44,
+   "lines": 27,
+   "words": 5372,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p41.mp3",
+   "minutes": 32.97,
+   "lines": 34,
+   "words": 5226,
+   "words_interpolated": 8,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p42.mp3",
+   "minutes": 34.88,
+   "lines": 26,
+   "words": 5516,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p43.mp3",
+   "minutes": 33.25,
+   "lines": 31,
+   "words": 5156,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p44.mp3",
+   "minutes": 33.89,
+   "lines": 26,
+   "words": 5384,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p45.mp3",
+   "minutes": 33.18,
+   "lines": 19,
+   "words": 5266,
+   "words_interpolated": 6,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p46.mp3",
+   "minutes": 41.14,
+   "lines": 23,
+   "words": 5649,
+   "words_interpolated": 3,
+   "retakes": 34,
+   "flagged_takes": [
+    {
+     "group": 5,
+     "ratio": 1.03,
+     "text": "nine. twelve. sixteen. eighteen. twenty-four. twenty-seven. thirty-two. thirty-s",
+     "note": "poor match to text (0.16)",
+     "line": "p46l0007"
+    },
+    {
+     "group": 6,
+     "ratio": 0.88,
+     "text": "But of two hundred and fifty-six the sesquioctave is two hundred and eighty-eigh",
+     "note": "re-taken: match 0.38 -> 0.38",
+     "line": "p46l0008"
+    },
+    {
+     "group": 10,
+     "ratio": 0.84,
+     "text": "instead of two hundred and forty-three, four hundred and eighty-six; instead of ",
+     "note": "re-taken: match 0.20 -> 0.21",
+     "line": "p46l0008"
+    },
+    {
+     "group": 11,
+     "ratio": 0.9,
+     "text": "And of this the sesquioctave, is six hundred and forty-eight, and of this seven ",
+     "note": "re-taken: match 0.37 -> 0.38",
+     "line": "p46l0008"
+    },
+    {
+     "group": 12,
+     "ratio": 0.87,
+     "text": "After this manner, therefore, the double interval is filled with sesquialter, se",
+     "note": "re-taken: match 0.41 -> 0.44",
+     "line": "p46l0008"
+    },
+    {
+     "group": 9,
+     "ratio": 0.91,
+     "text": "but the harmonic middle will be five thousand one hundred and eighty-four, and t",
+     "note": "re-taken: match 0.38 -> 0.40",
+     "line": "p46l0009"
+    },
+    {
+     "group": 1,
+     "ratio": 0.99,
+     "text": "from two hundred and fifty-six indeed, sixty-five thousand five hundred and thir",
+     "note": "poor match to text (0.19)",
+     "line": "p46l0011"
+    },
+    {
+     "group": 3,
+     "ratio": 0.9,
+     "text": "The sesquioctave however of five thousand nine hundred and nine, is six hundred ",
+     "note": "poor match to text (0.38)",
+     "line": "p46l0011"
+    },
+    {
+     "group": 2,
+     "ratio": 0.9,
+     "text": "You see therefore that two hundred and fifty-six has to two hundred and forty-th",
+     "note": "re-taken: match 0.29 -> 0.33",
+     "line": "p46l0012"
+    },
+    {
+     "group": 3,
+     "ratio": 0.87,
+     "text": "For two hundred and fifty-six has to two hundred and forty-three a super-partien",
+     "note": "re-taken: match 0.35 -> 0.36",
+     "line": "p46l0012"
+    },
+    {
+     "group": 4,
+     "ratio": 0.88,
+     "text": "but two hundred and seventy-three three over eight exceeds two hundred and fifty",
+     "note": "poor match to text (0.25)",
+     "line": "p46l0012"
+    },
+    {
+     "group": 1,
+     "ratio": 0.87,
+     "text": "For the octuple of two hundred and forty-three is nineteen forty-four, of two hu",
+     "note": "re-taken: match 0.17 -> 0.22",
+     "line": "p46l0013"
+    },
+    {
+     "group": 3,
+     "ratio": 0.99,
+     "text": "Let then these terms be, two hundred and forty-three, two hundred and fifty-six,",
+     "note": "poor match to text (0.28)",
+     "line": "p46l0013"
+    },
+    {
+     "group": 1,
+     "ratio": 0.79,
+     "text": "This ratio therefore is in perfect unities, as the ancients say, that of five hu",
+     "note": "poor match to text (0.34)",
+     "line": "p46l0018"
+    },
+    {
+     "group": 3,
+     "ratio": 0.88,
+     "text": "But the sesquioctave of two hundred and forty-three is two hundred and seventy-t",
+     "note": "poor match to text (0.27)",
+     "line": "p46l0018"
+    },
+    {
+     "group": 4,
+     "ratio": 0.97,
+     "text": "For this is the ratio of the leimma. For two hundred and sixty-nine contains two",
+     "note": "poor match to text (0.43)",
+     "line": "p46l0018"
+    },
+    {
+     "group": 6,
+     "ratio": 0.93,
+     "text": "hence the thirteen by which two hundred and fifty-six exceeds two hundred and fo",
+     "note": "poor match to text (0.36)",
+     "line": "p46l0018"
+    },
+    {
+     "group": 7,
+     "ratio": 1.05,
+     "text": "Each likewise of the thirteen units by which two hundred and fifty-six exceeds t",
+     "note": "re-taken: match 0.41 -> 0.43",
+     "line": "p46l0018"
+    },
+    {
+     "group": 8,
+     "ratio": 0.89,
+     "text": "Hence two hundred and sixty-nine thirteen over two hundred and forty-three will ",
+     "note": "re-taken: match 0.34 -> 0.35",
+     "line": "p46l0018"
+    },
+    {
+     "group": 9,
+     "ratio": 0.89,
+     "text": "and two hundred and forty-three units. Hence that which remains, namely two hund",
+     "note": "poor match to text (0.38)",
+     "line": "p46l0018"
+    },
+    {
+     "group": 12,
+     "ratio": 0.92,
+     "text": "For as there is a duple interval between three hundred and eighty-four and seven",
+     "note": "re-taken: match 0.33 -> 0.34",
+     "line": "p46l0018"
+    },
+    {
+     "group": 0,
+     "ratio": 0.86,
+     "text": "Again five hundred and seventy-six is sesquioctave to five hundred and twelve, s",
+     "note": "re-taken: match 0.17 -> 0.19",
+     "line": "p46l0019"
+    },
+    {
+     "group": 3,
+     "ratio": 0.85,
+     "text": "Farther still, eight hundred and sixty-four is placed as sesquioctave to seven h",
+     "note": "poor match to text (0.33)",
+     "line": "p46l0019"
+    },
+    {
+     "group": 8,
+     "ratio": 0.87,
+     "text": "Between also the duple terms of seven hundred and sixty-eight and three hundred ",
+     "note": "poor match to text (0.41)",
+     "line": "p46l0019"
+    },
+    {
+     "group": 10,
+     "ratio": 0.96,
+     "text": "Afterwards, one thousand two hundred and ninety-six is sesquioctave to eleven fi",
+     "note": "re-taken: match 0.34 -> 0.35",
+     "line": "p46l0019"
+    },
+    {
+     "group": 0,
+     "ratio": 0.91,
+     "text": "Again, one thousand seven hundred and twenty-eight is sesquioctave to fifteen th",
+     "note": "poor match to text (0.32)",
+     "line": "p46l0020"
+    },
+    {
+     "group": 1,
+     "ratio": 0.86,
+     "text": "But the sesquioctave of two thousand three hundred and four, is two thousand fiv",
+     "note": "poor match to text (0.24)",
+     "line": "p46l0020"
+    },
+    {
+     "group": 3,
+     "ratio": 0.88,
+     "text": "And farther still, the sesquioctave of three thousand and seventy-two is three t",
+     "note": "poor match to text (0.32)",
+     "line": "p46l0020"
+    },
+    {
+     "group": 5,
+     "ratio": 0.8,
+     "text": "In addition to this also, the sesquioctave of three thousand four hundred and fi",
+     "note": "re-taken: match 0.35 -> 0.36",
+     "line": "p46l0020"
+    },
+    {
+     "group": 6,
+     "ratio": 0.87,
+     "text": "The sesquioctave also of four thousand six hundred and eight is five thousand on",
+     "note": "poor match to text (0.27)",
+     "line": "p46l0020"
+    },
+    {
+     "group": 8,
+     "ratio": 0.93,
+     "text": "And again, the sesquioctave of seven thousand seven hundred and seventy-six is e",
+     "note": "re-taken: match 0.30 -> 0.30",
+     "line": "p46l0020"
+    },
+    {
+     "group": 9,
+     "ratio": 0.96,
+     "text": "and of nine thousand two hundred and sixteen the sesquioctave is ten thousand th",
+     "note": "poor match to text (0.20)",
+     "line": "p46l0020"
+    },
+    {
+     "group": 11,
+     "ratio": 0.81,
+     "text": "but the latter six thousand nine hundred and twelve.",
+     "note": "poor match to text (0.33)",
+     "line": "p46l0020"
+    }
+   ]
+  },
+  {
+   "file": "proclus-timaeus-p47.mp3",
+   "minutes": 35.77,
+   "lines": 24,
+   "words": 5338,
+   "words_interpolated": 4,
+   "retakes": 10,
+   "flagged_takes": [
+    {
+     "group": 2,
+     "ratio": 0.95,
+     "text": "Because however two thousand and forty-eight has a sesquitertian ratio to fiftee",
+     "note": "re-taken: match 0.40 -> 0.40",
+     "line": "p47l0001"
+    },
+    {
+     "group": 4,
+     "ratio": 0.91,
+     "text": "In a similar manner also, by assuming in the third triple, four thousand six hun",
+     "note": "re-taken: match 0.44 -> 0.45",
+     "line": "p47l0001"
+    },
+    {
+     "group": 5,
+     "ratio": 1.01,
+     "text": "but to five thousand eight hundred and thirty-two has the ratio of the leimma, w",
+     "note": "re-taken: match 0.38 -> 0.39",
+     "line": "p47l0001"
+    },
+    {
+     "group": 6,
+     "ratio": 0.91,
+     "text": "and of this again the sesquioctave two thousand nine hundred and sixteen. To thi",
+     "note": "poor match to text (0.44)",
+     "line": "p47l0003"
+    },
+    {
+     "group": 7,
+     "ratio": 0.88,
+     "text": "and to this in a similar manner three thousand eight hundred and eighty-eight. T",
+     "note": "poor match to text (0.41)",
+     "line": "p47l0003"
+    },
+    {
+     "group": 8,
+     "ratio": 0.91,
+     "text": "of this the sesquioctave five thousand one hundred and eighty-four; and of this ",
+     "note": "poor match to text (0.42)",
+     "line": "p47l0003"
+    },
+    {
+     "group": 9,
+     "ratio": 0.92,
+     "text": "and of this he assumes the sesquioctave six thousand nine hundred and twelve; of",
+     "note": "poor match to text (0.37)",
+     "line": "p47l0003"
+    },
+    {
+     "group": 10,
+     "ratio": 0.89,
+     "text": "To this likewise he adapts as a leimma nine thousand two hundred and sixteen. Bu",
+     "note": "poor match to text (0.35)",
+     "line": "p47l0003"
+    },
+    {
+     "group": 11,
+     "ratio": 0.92,
+     "text": "and of this, again, he makes the sesquioctave thirteen thousand one hundred and ",
+     "note": "re-taken: match 0.38 -> 0.38",
+     "line": "p47l0003"
+    },
+    {
+     "group": 12,
+     "ratio": 0.93,
+     "text": "of this the sesquioctave seventeen thousand four hundred and ninety-six; and of ",
+     "note": "re-taken: match 0.38 -> 0.38",
+     "line": "p47l0003"
+    }
+   ]
+  },
+  {
+   "file": "proclus-timaeus-p48.mp3",
+   "minutes": 33.53,
+   "lines": 23,
+   "words": 5209,
+   "words_interpolated": 6,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p49.mp3",
+   "minutes": 34.25,
+   "lines": 26,
+   "words": 5300,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p50.mp3",
+   "minutes": 33.52,
+   "lines": 23,
+   "words": 5181,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p51.mp3",
+   "minutes": 33.82,
+   "lines": 33,
+   "words": 5423,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p52.mp3",
+   "minutes": 33.62,
+   "lines": 23,
+   "words": 5245,
+   "words_interpolated": 9,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p53.mp3",
+   "minutes": 34.45,
+   "lines": 28,
+   "words": 5332,
+   "words_interpolated": 12,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p54.mp3",
+   "minutes": 33.64,
+   "lines": 25,
+   "words": 5246,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p55.mp3",
+   "minutes": 27.85,
+   "lines": 20,
+   "words": 4314,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p56.mp3",
+   "minutes": 32.98,
+   "lines": 26,
+   "words": 5106,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p57.mp3",
+   "minutes": 35.31,
+   "lines": 22,
+   "words": 5480,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p58.mp3",
+   "minutes": 33.17,
+   "lines": 22,
+   "words": 5214,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p59.mp3",
+   "minutes": 35.38,
+   "lines": 29,
+   "words": 5522,
+   "words_interpolated": 6,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p60.mp3",
+   "minutes": 32.89,
+   "lines": 20,
+   "words": 5151,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p61.mp3",
+   "minutes": 33.65,
+   "lines": 23,
+   "words": 5428,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p62.mp3",
+   "minutes": 33.83,
+   "lines": 26,
+   "words": 5251,
+   "words_interpolated": 8,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p63.mp3",
+   "minutes": 33.88,
+   "lines": 25,
+   "words": 5149,
+   "words_interpolated": 6,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p64.mp3",
+   "minutes": 35.42,
+   "lines": 25,
+   "words": 5669,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p65.mp3",
+   "minutes": 32.41,
+   "lines": 22,
+   "words": 5226,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p66.mp3",
+   "minutes": 33.52,
+   "lines": 23,
+   "words": 5256,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p67.mp3",
+   "minutes": 9.92,
+   "lines": 9,
+   "words": 1540,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p68.mp3",
+   "minutes": 34.5,
+   "lines": 18,
+   "words": 5193,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p69.mp3",
+   "minutes": 33.04,
+   "lines": 34,
+   "words": 5006,
+   "words_interpolated": 1,
+   "retakes": 3,
+   "flagged_takes": [
+    {
+     "group": 0,
+     "ratio": 3.18,
+     "text": "And,",
+     "line": "p69l0012"
+    }
+   ]
+  },
+  {
+   "file": "proclus-timaeus-p70.mp3",
+   "minutes": 34.8,
+   "lines": 24,
+   "words": 5307,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p71.mp3",
+   "minutes": 33.29,
+   "lines": 33,
+   "words": 5101,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p72.mp3",
+   "minutes": 33.35,
+   "lines": 28,
+   "words": 5168,
+   "words_interpolated": 14,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p73.mp3",
+   "minutes": 34.98,
+   "lines": 23,
+   "words": 5436,
+   "words_interpolated": 4,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p74.mp3",
+   "minutes": 34.18,
+   "lines": 21,
+   "words": 5377,
+   "words_interpolated": 3,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p75.mp3",
+   "minutes": 33.97,
+   "lines": 26,
+   "words": 5301,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p76.mp3",
+   "minutes": 34.68,
+   "lines": 32,
+   "words": 5527,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p77.mp3",
+   "minutes": 32.83,
+   "lines": 25,
+   "words": 5251,
+   "words_interpolated": 0,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p78.mp3",
+   "minutes": 33.95,
+   "lines": 33,
+   "words": 5197,
+   "words_interpolated": 1,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p79.mp3",
+   "minutes": 34.19,
+   "lines": 28,
+   "words": 5284,
+   "words_interpolated": 7,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p80.mp3",
+   "minutes": 32.57,
+   "lines": 24,
+   "words": 5213,
+   "words_interpolated": 5,
+   "retakes": 0,
+   "flagged_takes": []
+  },
+  {
+   "file": "proclus-timaeus-p81.mp3",
+   "minutes": 12.25,
+   "lines": 13,
+   "words": 1899,
+   "words_interpolated": 2,
+   "retakes": 0,
+   "flagged_takes": []
+  }
+ ]
+}
