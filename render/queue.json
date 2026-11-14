@@ -1,9 +1,22 @@
 {
- "_note": "Queue R (2026-11-13): Proclus, Commentary on the Timaeus (Taylor; Platonist Reader), 81 parts. Endnotes and additional notes are not read.",
+ "_note": "Proclus Timaeus repair: 2 shards of run 43426690108 (lines 716–739 and 1647–1658) hit the time cap in the Chatterbox step. Re-render only those lines in smaller shards, reusing that run's other lines.",
  "works": [
   "proclus-timaeus"
  ],
+ "ranges": {
+  "proclus-timaeus": [
+   [
+    716,
+    739
+   ],
+   [
+    1647,
+    1658
+   ]
+  ]
+ },
+ "reuse_run": "43426690108",
  "dest": "release",
  "tag": "library-v1",
- "budget": 12000
+ "budget": 2500
 }
